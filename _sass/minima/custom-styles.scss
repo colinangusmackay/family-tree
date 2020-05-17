@@ -1,0 +1,69 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+
+//
+// TABLES
+//
+table hr {
+    margin-top: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 2;
+  }
+
+.small {
+    font-size: $base-font-size / 2;
+    hr {
+        margin-top: $spacing-unit / 4;
+        margin-bottom: $spacing-unit / 4;
+      }
+    th, td {
+        padding: ($spacing-unit / 6) ($spacing-unit / 4);
+        }
+    
+}
+
+
+//
+// CODE BLOCKS
+//
+pre {
+    background-color: $code-background-color;
+    overflow:auto;
+    margin:0 0 1em;
+    padding:.5em 1em;
+
+    code,
+    .line-number {
+      font-weight: 500;
+      font-size: 10pt;
+      font-family: 'Fira Code', "Courier New",Courier,monospace;
+      color: $text-color;
+      display:block;
+      padding:0;
+    }
+    
+    .line-number {
+        float:left;
+        margin:0 1em 0 -1em;
+        border-right:1px dotted;
+        border-color: $border-color-03;
+        text-align:right;
+
+        span {
+            display:block;
+            padding:0 .5em 0 1em;
+        }
+    }
+
+    .cl {
+        display:block;
+        clear:both;
+    }
+}
+
+.ext-link{
+    vertical-align: text-top;
+    font-size: smaller;
+    padding-left: 0.25em;
+    opacity: 75%;
+}

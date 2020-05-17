@@ -1,0 +1,20 @@
+﻿---
+layout: page
+permalink: /sources/s3302096
+---
+
+# PRIVATE
+
+Field | Detail
+---:|:---
+Publication | 
+Originator / Author | 
+Date | 
+Responsible Agency | 
+Filed by Entry | 
+References | 
+
+## Source Referenced by
+
+* [Hector Spence McIver](../people/@i34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) (12/Apr/1919 - 27/Jan/2008)
+* [Helen Fisher Ramsay](../people/@i34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md) (28/Sep/1920 - 15/Oct/2015)

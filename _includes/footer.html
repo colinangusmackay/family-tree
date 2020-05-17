@@ -1,0 +1,28 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p>Report errors or new info:</p>
+        <ul>
+          <li><a rel="me" href="https://github.com/colinangusmackay/family-tree/issues/new?title=Issue with {{site.url | uri_escape}}{{site.baseurl | uri_escape}}{{ page.url | uri_escape }}" title="Report Issues">Via GitHub <svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg></a></li>
+          <li><a class="u-email" href="mailto:github@colinmackay.scot?subject=Family Tree - Issue with {{site.url | uri_escape}}{{site.baseurl | uri_escape}}{{ page.url | uri_escape }}">Via Email <i class="fas fa-envelope-open-text"></i></a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <p>The site was last updated on:<br/>{{ site.time | date: "%A, %d %B, %Y at %H:%M:%S %z"}}</p>
+        <p class="feed-subscribe">
+          <a href="{{ 'feed.xml' | relative_url }}">
+            <svg class="svg-icon orange">
+              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
