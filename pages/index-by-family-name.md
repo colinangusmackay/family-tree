@@ -103,7 +103,16 @@ permalink: /indexes/by-person-family-name
 
 ## McIver
 
+- **[Elizabeth McIver](people/@i80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
+- **[Hector McIver](people/@i62168745@-hector-mciver-b1878-d.md)** (1878 - )
 - **[Hector Spence McIver](people/@i34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
+- **[Margaret McIver](people/@i24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
+- **[Roderick McIver](people/@i90830540@-roderick-mciver-b1910-d1999.md)** (1910 - 1999)
+- **[Tom Clephan McIver](people/@i74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
+
+## McKenzie
+
+- **[Margaret Patterson McKenzie](people/@i88610293@-margaret-patterson-mckenzie-b1884-d1964.md)** (1884 - 1964)
 
 ## McLeod
 
@@ -130,13 +139,13 @@ permalink: /indexes/by-person-family-name
 
 ## Ramsay
 
-- **[Allan Ramsay](people/@i62219744@-allan-ramsay-b-d1932.md)** ( - 1932)
-- **[Bruce Ramsay](people/@i49046148@-bruce-ramsay-b-d1965-11-29.md)** ( - 29/Nov/1965)
-- **[Douglas Ramsay](people/@i12977578@-douglas-ramsay-b-d1993.md)** ( - 1993)
+- **[Alan Ramsay](people/@i62219744@-alan-ramsay-b1911-d1932.md)** (1911 - 1932)
+- **[Bruce Ramsay](people/@i49046148@-bruce-ramsay-b1914-d1965-11-29.md)** (1914 - 29/Nov/1965)
+- **[Douglas Ramsay](people/@i12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
 - **[Helen Fisher Ramsay](people/@i34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
-- **[Isa Ramsay](people/@i80504300@-isa-ramsay-b-d1974.md)** ( - 1974)
-- **[Jack Ramsay](people/@i55070438@-jack-ramsay-b-d1967.md)** ( - 1967)
-- **[John Morgan Ramsay](people/@i64225415@-john-morgan-ramsay-b1879-3-26-d.md)** (26/Mar/1879 - )
+- **[Isabella Ramsay](people/@i80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
+- **[Jack Ramsay](people/@i55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
+- **[John Ramsay](people/@i64225415@-john-ramsay-b1880-2-21-d.md)** (21/Feb/1880 - )
 
 ## Reid
 
