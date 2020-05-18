@@ -9,7 +9,7 @@ tags:
 
 Naturally, when creating a family tree I started with myself and my immediate relatives, most of whom are still living. When I created this website I realised that I shouldn't be displaying information about living people. 
 
-As I was writing the software that extracts information from the GEDCOM file to create this site I made some efforts to exclude living people. However, this is was not foolproof. I knew there would be errors and I have endeavoured to err on the side of caution so that some false positives are excluded, but hopefully no false negatives. i.e. Sometimes the software thinks a person is a live when they have died.
+As I was writing the software that extracts information from the GEDCOM file to create this site I made some efforts to exclude living people. However, this is was not foolproof. I knew there would be errors and I have endeavoured to err on the side of caution so that some false positives are excluded, but hopefully no false negatives. i.e. Sometimes the software thinks a person is alive when they have died.
 
 **Rule One**
 
