@@ -22,14 +22,9 @@ const siteUrl = "{{ site.url }}";
         const anchors = content.getElementsByTagName('a');
         for(let anchor of anchors){
             const href = anchor.getAttribute("href");
-            console.log("Checking URL "+href)
             if (href.includes("//") && !href.includes(siteUrl)){
-                console.log("  -> External!");
                 anchor.innerHTML = anchor.innerHTML + '<span class="ext-link fas fa-external-link-alt"></span>';
                 anchor.setAttribute("target", "_blank");
-            }
-            else{
-                console.log("  -> Internal.");
             }
         }
     }

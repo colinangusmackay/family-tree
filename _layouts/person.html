@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<article class="post">
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
+{% if page.subject_key %}
+<hr/>
+  <h1>Charts</h2>
+  <h2>Ancestors</h3>
+  <div id="ancestors"></div>
+{% endif %}
+
+
+{% if jekyll.environment == "production" %}
+<script src="{{ site.baseurl}}/assets/scripts/d3.v5.min.js" defer="defer" type="text/javascript"></script>
+{% else %}
+<script src="{{ site.baseurl}}/assets/scripts/d3.v5.js" defer="defer" type="text/javascript"></script>
+{% endif %}
+<script src="{{ site.baseurl}}/assets/scripts/data-driven-charts.js" defer="defer" type="text/javascript"></script>
+<script>
+  function whenAvailable(name, callback) {
+    console.log(`Checking '${name}' is available.`);
+    const interval = 10; // ms
+    window.setTimeout(function() {
+        if (window[name]) {
+            callback(window[name]);
+        } else {
+            window.setTimeout(arguments.callee, interval);
+        }
+    }, interval);
+}
+whenAvailable("d3", function(){
+  const dataDir = "{{ site.baseurl }}/gedcom-info/data/{{ page.subject_key }}/";
+  const peopleDir = "{{ site.baseurl }}/people/";
+  whenAvailable("drawAncestorChart", function(){
+    drawAncestorChart(dataDir, peopleDir);
+  })
+})
+</script>
