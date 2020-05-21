@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i62168745",
+  "Name": "Hector McIver",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "1878",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i91038040",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i68658880",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

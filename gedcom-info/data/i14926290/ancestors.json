@@ -1,0 +1,104 @@
+﻿{
+  "Id": "i14926290",
+  "Name": "Anne Cumming",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "23/Feb/1920",
+  "DateOfDeath": "14/Nov/2002",
+  "Parents": [
+    {
+      "Id": "i89853996",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "17/Dec/1889",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i55409960",
+          "Name": "Adam Cumming",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "1844",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i45726416",
+              "Name": "Donald Cumming",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "1806",
+              "DateOfDeath": "",
+              "Parents": [
+                {
+                  "Id": "i1900151",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "father",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Parents": []
+                },
+                {
+                  "Id": "i39612304",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "mother",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Parents": []
+                }
+              ]
+            },
+            {
+              "Id": "i28255030",
+              "Name": "Kate MacDonald",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "1807",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i74868546",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i57014804",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i6567214",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i80629743",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

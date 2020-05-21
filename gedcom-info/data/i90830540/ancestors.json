@@ -1,0 +1,66 @@
+﻿{
+  "Id": "i90830540",
+  "Name": "Roderick McIver",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "1910",
+  "DateOfDeath": "1999",
+  "Parents": [
+    {
+      "Id": "i62168745",
+      "Name": "Hector McIver",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "1878",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i91038040",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i68658880",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i88610293",
+      "Name": "Margaret Patterson McKenzie",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "1884",
+      "DateOfDeath": "1964",
+      "Parents": [
+        {
+          "Id": "i76793596",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i24882788",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

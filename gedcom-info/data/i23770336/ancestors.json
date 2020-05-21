@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i23770336",
+  "Name": "Williamina Gillie",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "4/Apr/1910",
+  "DateOfDeath": "4/Nov/2003",
+  "Parents": [
+    {
+      "Id": "i60068056",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i86024374",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+﻿{
+  "Id": "i76650284",
+  "Name": "Linda Margaret Campbell",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "16/Oct/1961",
+  "DateOfDeath": "28/Sep/2016",
+  "Parents": [
+    {
+      "Id": "i35451666",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "step-father",
+      "DateOfBirth": "25/Feb/1942",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i40394043",
+          "Name": "Rachel Smith Campbell",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "1920",
+          "DateOfDeath": "1998",
+          "Parents": [
+            {
+              "Id": "i4716977",
+              "Name": "XXXX Campbell",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "before 1904",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i54145218",
+              "Name": "XXXX McTurk",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "before 1904",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "i46723082",
+      "Name": "Margaret Paton O'Malley",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "26/Sep/1940",
+      "DateOfDeath": "3/Apr/2004",
+      "Parents": [
+        {
+          "Id": "i12568152",
+          "Name": "Thomas O'Malley",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "bet' 29/Dec/1912 and 28/Dec/1913",
+          "DateOfDeath": "before 2004",
+          "Parents": [
+            {
+              "Id": "i76741424",
+              "Name": "Edward O'Malley",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "before 1897",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i96590245",
+              "Name": "Agnes Thomson",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "before 1897",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i56209708",
+          "Name": "Margaret McLeod Paton",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "bet' 29/Dec/1915 and 28/Dec/1916",
+          "DateOfDeath": "before 2004",
+          "Parents": [
+            {
+              "Id": "i5211114",
+              "Name": "John Paton",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "before 1900",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i70248352",
+              "Name": "Jeanie McLeod",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "before 1900",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "i69808462",
+      "Name": "Norman Stead",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "bet' 2004 and 2016",
+      "Parents": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿{
+  "Id": "i25303611",
+  "Name": "Isabella Mackay",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "1/Jan/1936",
+  "DateOfDeath": "18/Dec/2019",
+  "Children": [
+    {
+      "Id": "i95518355",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i59559628",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i84817050",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i26291582",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

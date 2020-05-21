@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i45726416",
+  "Name": "Donald Cumming",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "1806",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i1900151",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i39612304",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i41556256",
+  "Name": "Isabella Mackay",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "27/Feb/1838",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i60647890",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i85807260",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

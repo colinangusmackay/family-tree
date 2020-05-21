@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i12568152",
+  "Name": "Thomas O'Malley",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "bet' 29/Dec/1912 and 28/Dec/1913",
+  "DateOfDeath": "before 2004",
+  "Parents": [
+    {
+      "Id": "i76741424",
+      "Name": "Edward O'Malley",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "before 1897",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i96590245",
+      "Name": "Agnes Thomson",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "before 1897",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

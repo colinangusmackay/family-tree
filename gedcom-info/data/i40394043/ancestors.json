@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i40394043",
+  "Name": "Rachel Smith Campbell",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "1920",
+  "DateOfDeath": "1998",
+  "Parents": [
+    {
+      "Id": "i4716977",
+      "Name": "XXXX Campbell",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "before 1904",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i54145218",
+      "Name": "XXXX McTurk",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "before 1904",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

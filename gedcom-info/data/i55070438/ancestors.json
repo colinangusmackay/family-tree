@@ -1,0 +1,85 @@
+﻿{
+  "Id": "i55070438",
+  "Name": "Jack Ramsay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "1905",
+  "DateOfDeath": "1967",
+  "Parents": [
+    {
+      "Id": "i64225415",
+      "Name": "John Ramsay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "21/Feb/1880",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i63088441",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i33817858",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i33882736",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i60684755",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i38398015",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i96321158",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "i18426904",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+﻿{
+  "Id": "i48909111",
+  "Name": "Kenneth Mackay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1895",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i60572122",
+      "Name": "James Mackay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "1859",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i33764614",
+          "Name": "George Mackay",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "1816",
+          "DateOfDeath": "25/Nov/1893",
+          "Parents": [
+            {
+              "Id": "i69114879",
+              "Name": "William Mackay",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "1781",
+              "DateOfDeath": "1841",
+              "Parents": []
+            },
+            {
+              "Id": "i66584000",
+              "Name": "Janet Macrae",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "1781",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i67811996",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i32797554",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "7/Aug/1860",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i30341840",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i20237816",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

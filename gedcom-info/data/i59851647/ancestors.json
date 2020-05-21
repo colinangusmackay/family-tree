@@ -1,0 +1,66 @@
+﻿{
+  "Id": "i59851647",
+  "Name": "Marion Cumming",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "20/May/1863",
+  "DateOfDeath": "15/Nov/1954",
+  "Parents": [
+    {
+      "Id": "i66384942",
+      "Name": "James Cumming",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "1836",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i45726416",
+          "Name": "Donald Cumming",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "1806",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i1900151",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i39612304",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i28255030",
+          "Name": "Kate MacDonald",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "1807",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i60546968",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

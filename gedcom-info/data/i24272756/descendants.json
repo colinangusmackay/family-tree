@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i24272756",
+  "Name": "Alexander Mackay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1856",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i32677248",
+      "Name": "Jessie Mackay",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "12/Sep/1880",
+      "DateOfDeath": "7/Feb/1932",
+      "Children": []
+    }
+  ]
+}

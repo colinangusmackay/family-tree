@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i76650284",
+  "Name": "Linda Margaret Campbell",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "16/Oct/1961",
+  "DateOfDeath": "28/Sep/2016",
+  "Children": [
+    {
+      "Id": "i70011097",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "2/May/1983",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i69897025",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "19/Mar/1985",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

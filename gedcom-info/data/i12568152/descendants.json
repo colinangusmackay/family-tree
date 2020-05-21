@@ -1,0 +1,122 @@
+﻿{
+  "Id": "i12568152",
+  "Name": "Thomas O'Malley",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "bet' 29/Dec/1912 and 28/Dec/1913",
+  "DateOfDeath": "before 2004",
+  "Children": [
+    {
+      "Id": "i46723082",
+      "Name": "Margaret Paton O'Malley",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "26/Sep/1940",
+      "DateOfDeath": "3/Apr/2004",
+      "Children": [
+        {
+          "Id": "i38419168",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "22/Oct/1960",
+          "DateOfDeath": "",
+          "Children": [
+            {
+              "Id": "i70539486",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": [
+                {
+                  "Id": "i80626026",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "6/May/2014",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i9208996",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "7/Jan/2019",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Id": "i8015715",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": "i76650284",
+          "Name": "Linda Margaret Campbell",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "16/Oct/1961",
+          "DateOfDeath": "28/Sep/2016",
+          "Children": [
+            {
+              "Id": "i70011097",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "2/May/1983",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i69897025",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "19/Mar/1985",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": "i13150187",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "21/Sep/1962",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i86995008",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "1966",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i65241402",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

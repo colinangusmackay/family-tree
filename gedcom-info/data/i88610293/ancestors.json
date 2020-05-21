@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i88610293",
+  "Name": "Margaret Patterson McKenzie",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "1884",
+  "DateOfDeath": "1964",
+  "Parents": [
+    {
+      "Id": "i76793596",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i24882788",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i57646474",
+  "Name": "John Paul Mackay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "13/Mar/1899",
+  "DateOfDeath": "3/Jul/1969",
+  "Children": [
+    {
+      "Id": "i56962662",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

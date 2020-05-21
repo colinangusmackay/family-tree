@@ -1,0 +1,48 @@
+﻿{
+  "Id": "i91293396",
+  "Name": "Alexander Fraser",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "31/Aug/1898",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i28456848",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i62528548",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i29474700",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": [
+            {
+              "Id": "i38307008",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

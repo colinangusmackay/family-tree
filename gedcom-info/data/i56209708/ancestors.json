@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i56209708",
+  "Name": "Margaret McLeod Paton",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "bet' 29/Dec/1915 and 28/Dec/1916",
+  "DateOfDeath": "before 2004",
+  "Parents": [
+    {
+      "Id": "i5211114",
+      "Name": "John Paton",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "before 1900",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i70248352",
+      "Name": "Jeanie McLeod",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "before 1900",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}
