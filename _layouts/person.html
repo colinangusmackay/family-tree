@@ -11,6 +11,8 @@ layout: default
   <h1>Charts</h2>
   <h2>Ancestors</h3>
   <div id="ancestors"></div>
+  <h2>Descendants</h2>
+  <div id="descendants"></div>
 {% endif %}
 
 
@@ -37,6 +39,9 @@ whenAvailable("d3", function(){
   const peopleDir = "{{ site.baseurl }}/people/";
   whenAvailable("drawAncestorChart", function(){
     drawAncestorChart(dataDir, peopleDir);
+  });
+  whenAvailable("drawDescendantChart", function(){
+    drawDescendantChart(dataDir, peopleDir);
   })
 })
 </script>
