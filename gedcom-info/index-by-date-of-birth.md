@@ -7,11 +7,20 @@ permalink: /indexes/by-date-of-birth
 
 ## 18th Century
 
+### 1770s
+
+* **Born in 1779.**
+  * [Alexander Cumming](people/@i1900151@-alexander-cumming-b1779-d.md) (before 1779 - )
+
 ### 1780s
 
 * **Born in 1781.**
+  * [Margaret Grant](people/@i39612304@-margaret-grant-b1781-d.md) (before 1781 - )
   * [William Mackay](people/@i69114879@-william-mackay-b1781-d1841.md) (1781 - 1841)
   * [Janet Macrae](people/@i66584000@-janet-macrae-b1781-d.md) (1781 - )
+* **Born in 1788.**
+  * [Thomas Fraser](people/@i79545968@-thomas-fraser-b1788-d.md) (before 1788 - )
+  * [Marion Mackay](people/@i56151384@-marion-mackay-b1788-d.md) (before 1788 - )
 
 ## 19th Century
 
@@ -80,7 +89,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1877.**
   * [Kenneth Fraser](people/@i91376191@-kenneth-fraser-b1877-10-19-d.md) (19/Oct/1877 - )
 * **Born in 1878.**
-  * [Christy  Teenie Cumming](people/@i94377968@-christy-teenie-cumming-b1878-d.md) (about 1878 - )
+  * [Christy Cumming](people/@i94377968@-christy-cumming-b1878-d.md) (about 1878 - )
   * [Hector McIver](people/@i62168745@-hector-mciver-b1878-d.md) (1878 - )
 * **Born in 1879.**
   * [Catherine Wink Clark](people/@i35162161@-catherine-wink-clark-b1879-3-27-d.md) (27/Mar/1879 - )
@@ -204,6 +213,11 @@ permalink: /indexes/by-date-of-birth
 
 * **Born in 1940.**
   * [Margaret Paton O'Malley](people/@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) (26/Sep/1940 - 3/Apr/2004)
+
+### 1950s
+
+* **Born in 1954.**
+  * [John Albert Mathews](people/@i35875756@-john-albert-mathews-b1954-d2004.md) (1954 - 2004)
 
 ### 1960s
 

@@ -18,7 +18,7 @@ permalink: /people/i57039529
 * Brother: [William Cumming](./@i10016098@-william-cumming-b1870-d.md) (about 1870 - )
 * Brother: [John Cumming](./@i87723702@-john-cumming-b1873-d.md) (about 1873 - )
 * Spouse: [Donald Mackay](./@i58341424@-donald-mackay-b1876-11-25-d1939-11-22.md) (25/Nov/1876 - 22/Nov/1939)
-* Sister: [Christy  Teenie Cumming](./@i94377968@-christy-teenie-cumming-b1878-d.md) (about 1878 - )
+* Sister: [Christy Cumming](./@i94377968@-christy-cumming-b1878-d.md) (about 1878 - )
 * Brother: [James Cumming](./@i64418166@-james-cumming-b1881-d.md) (about 1881 - )
 
 ## Timeline

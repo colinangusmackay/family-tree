@@ -5,10 +5,6 @@ permalink: /indexes/by-person-family-name
 
 # Index - By Family Name
 
-##  Teenie /Cumming
-
-- **[Christy  Teenie Cumming](people/@i94377968@-christy-teenie-cumming-b1878-d.md)** (about 1878 - )
-
 ## Campbell
 
 - **[Linda Margaret Campbell](people/@i76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
@@ -22,12 +18,14 @@ permalink: /indexes/by-person-family-name
 ## Cumming
 
 - **[Adam Cumming](people/@i55409960@-adam-cumming-b1844-d.md)** (1844 - )
+- **[Alexander Cumming](people/@i1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
 - **[Alexander Cumming](people/@i7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
 - **[Alexander Cumming](people/@i7306221@-alexander-cumming-b1865-d1884-5-7.md)** (about 1865 - 7/May/1884)
 - **[Alexandrina Cumming](people/@i57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
 - **[Anne Cumming](people/@i14926290@-anne-cumming-b1920-2-23-d2002-11-14.md)** (23/Feb/1920 - 14/Nov/2002)
 - **[Barbara Ann Cumming](people/@i57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - )
 - **[Christine Cumming](people/@i24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
+- **[Christy Cumming](people/@i94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
 - **[Donald Cumming](people/@i45726416@-donald-cumming-b1806-d.md)** (1806 - )
 - **[Donald Cumming](people/@i20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - )
 - **[Donald Cumming](people/@i89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
@@ -53,6 +51,7 @@ permalink: /indexes/by-person-family-name
 - **[Ann Fraser](people/@i70425788@-ann-fraser-b1865-d.md)** (before 1865 - )
 - **[Kenneth Fraser](people/@i61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
 - **[Kenneth Fraser](people/@i91376191@-kenneth-fraser-b1877-10-19-d.md)** (19/Oct/1877 - )
+- **[Thomas Fraser](people/@i79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
 
 ## Gillie
 
@@ -61,6 +60,7 @@ permalink: /indexes/by-person-family-name
 ## Grant
 
 - **[Christy Grant](people/@i94200830@-christy-grant-b1865-d.md)** (before 1865 - )
+- **[Margaret Grant](people/@i39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
 
 ## Janet /Mackay
 
@@ -94,12 +94,17 @@ permalink: /indexes/by-person-family-name
 - **[Kenneth Mackay](people/@i48909111@-kenneth-mackay-b1895-d.md)** (about 1895 - )
 - **[Lucy Mackay](people/@i16587624@-lucy-mackay-b1889-9-23-d.md)** (23/Sep/1889 - )
 - **[Margaret Moyes Mackay](people/@i178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
+- **[Marion Mackay](people/@i56151384@-marion-mackay-b1788-d.md)** (before 1788 - )
 - **[William Alexander Mackay](people/@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
 - **[William Mackay](people/@i69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
 
 ## Macrae
 
 - **[Janet Macrae](people/@i66584000@-janet-macrae-b1781-d.md)** (1781 - )
+
+## Mathews
+
+- **[John Albert Mathews](people/@i35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 
 ## McIver
 

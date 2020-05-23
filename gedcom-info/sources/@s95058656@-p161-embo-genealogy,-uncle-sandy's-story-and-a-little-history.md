@@ -20,12 +20,12 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [Christy  Teenie Cumming](../people/@i94377968@-christy-teenie-cumming-b1878-d.md) (about 1878 - )
 * [Catherine Wink Clark](../people/@i35162161@-catherine-wink-clark-b1879-3-27-d.md) (27/Mar/1879 - )
 * [Alexander Cumming](../people/@i7306221@-alexander-cumming-b1865-d1884-5-7.md) (about 1865 - 7/May/1884)
 * [Alexandrina Cumming](../people/@i57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md) (30/Mar/1891 - 10/Apr/1987)
 * [Barbara Ann Cumming](../people/@i57039529@-barbara-ann-cumming-b1885-8-30-d.md) (30/Aug/1885 - )
 * [Christine Cumming](../people/@i24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) (15/Dec/1904 - 10/Nov/1996)
+* [Christy Cumming](../people/@i94377968@-christy-cumming-b1878-d.md) (about 1878 - )
 * [Donald Cumming](../people/@i20465544@-donald-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
 * [Donald John Cumming](../people/@i22331378@-donald-john-cumming-b1906-11-29-d.md) (29/Nov/1906 - )
 * [George Davidson Cumming](../people/@i13773669@-george-davidson-cumming-b1899-d.md) (about 1899 - )

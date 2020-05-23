@@ -125,19 +125,19 @@
                   "Parents": [
                     {
                       "Id": "i1900151",
-                      "Name": "X",
+                      "Name": "Alexander Cumming",
                       "Gender": "Male",
                       "Relationship": "father",
-                      "DateOfBirth": "",
+                      "DateOfBirth": "before 1779",
                       "DateOfDeath": "",
                       "Parents": []
                     },
                     {
                       "Id": "i39612304",
-                      "Name": "X",
+                      "Name": "Margaret Grant",
                       "Gender": "Female",
                       "Relationship": "mother",
-                      "DateOfBirth": "",
+                      "DateOfBirth": "before 1781",
                       "DateOfDeath": "",
                       "Parents": []
                     }
@@ -191,19 +191,19 @@
                   "Parents": [
                     {
                       "Id": "i79545968",
-                      "Name": "X",
+                      "Name": "Thomas Fraser",
                       "Gender": "Male",
                       "Relationship": "father",
-                      "DateOfBirth": "",
+                      "DateOfBirth": "before 1788",
                       "DateOfDeath": "",
                       "Parents": []
                     },
                     {
                       "Id": "i56151384",
-                      "Name": "X",
+                      "Name": "Marion Mackay",
                       "Gender": "Female",
                       "Relationship": "mother",
-                      "DateOfBirth": "",
+                      "DateOfBirth": "before 1788",
                       "DateOfDeath": "",
                       "Parents": []
                     }

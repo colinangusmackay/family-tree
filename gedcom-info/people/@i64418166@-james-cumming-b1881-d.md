@@ -17,7 +17,7 @@ permalink: /people/i64418166
 * Brother: [Kenneth Cumming](./@i14447152@-kenneth-cumming-b1867-d.md) (about 1867 - )
 * Brother: [William Cumming](./@i10016098@-william-cumming-b1870-d.md) (about 1870 - )
 * Brother: [John Cumming](./@i87723702@-john-cumming-b1873-d.md) (about 1873 - )
-* Sister: [Christy  Teenie Cumming](./@i94377968@-christy-teenie-cumming-b1878-d.md) (about 1878 - )
+* Sister: [Christy Cumming](./@i94377968@-christy-cumming-b1878-d.md) (about 1878 - )
 * Spouse: [Catherine Wink Clark](./@i35162161@-catherine-wink-clark-b1879-3-27-d.md) (27/Mar/1879 - )
 * Sister: [Barbara Ann Cumming](./@i57039529@-barbara-ann-cumming-b1885-8-30-d.md) (30/Aug/1885 - )
 

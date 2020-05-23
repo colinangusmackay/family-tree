@@ -20,7 +20,7 @@ permalink: /people/i66384942
 * Son: [Kenneth Cumming](./@i14447152@-kenneth-cumming-b1867-d.md) (about 1867 - )
 * Son: [William Cumming](./@i10016098@-william-cumming-b1870-d.md) (about 1870 - )
 * Son: [John Cumming](./@i87723702@-john-cumming-b1873-d.md) (about 1873 - )
-* Daughter: [Christy  Teenie Cumming](./@i94377968@-christy-teenie-cumming-b1878-d.md) (about 1878 - )
+* Daughter: [Christy Cumming](./@i94377968@-christy-cumming-b1878-d.md) (about 1878 - )
 * Son: [James Cumming](./@i64418166@-james-cumming-b1881-d.md) (about 1881 - )
 * Daughter: [Barbara Ann Cumming](./@i57039529@-barbara-ann-cumming-b1885-8-30-d.md) (30/Aug/1885 - )
 
