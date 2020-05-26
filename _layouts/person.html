@@ -9,10 +9,12 @@ layout: default
 {% if page.subject_key %}
 <hr/>
   <h1>Charts</h2>
-  <h2>Ancestors</h3>
-  <div id="ancestors"></div>
-  <h2>Descendants</h2>
-  <div id="descendants"></div>
+    <h2>Immediate Family Tree</h2>
+    <div id="immediateFamilyTree"></div>
+    <h2>Ancestors</h3>
+    <div id="ancestors"></div>
+    <h2>Descendants</h2>
+    <div id="descendants"></div>
 {% endif %}
 
 
@@ -42,6 +44,9 @@ whenAvailable("d3", function(){
   });
   whenAvailable("drawDescendantChart", function(){
     drawDescendantChart(dataDir, peopleDir);
+  });
+  whenAvailable("drawImmediateFamilyTree", function(){
+    drawImmediateFamilyTree(dataDir, peopleDir);
   })
 })
 </script>
