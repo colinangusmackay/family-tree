@@ -19,7 +19,7 @@ permalink: /people/i84684994
 * Mother: [Ann Fraser](./@i70425788@-ann-fraser-b1865-d.md) (before 1865 - )
 * Sister: [Alexandrina Cumming](./@i57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md) (30/Mar/1891 - 10/Apr/1987)
 * Sister: [Jessie-Ann Cumming](./@i66222886@-jessie-ann-cumming-b1893-1-8-d.md) (8/Jan/1893 - )
-* Spouse: [Thomas Mitchell Reid](./@i2617088@-thomas-mitchell-reid-b1893-1-14-d.md) (about 14/Jan/1893 - )
+* Husband: [Thomas Mitchell Reid](./@i2617088@-thomas-mitchell-reid-b1893-1-14-d.md) (about 14/Jan/1893 - )
 * Brother: [James Cumming](./@i492889@-james-cumming-b1894-11-7-d1975-7-2.md) (7/Nov/1894 - 2/Jul/1975)
 * Brother: [George Davidson Cumming](./@i13773669@-george-davidson-cumming-b1899-d.md) (about 1899 - )
 * Sister: [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)

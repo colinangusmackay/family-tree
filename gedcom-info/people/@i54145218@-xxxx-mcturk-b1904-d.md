@@ -14,7 +14,7 @@ permalink: /people/i54145218
 
 ## Immediate Family
 
-* Spouse: [XXXX Campbell](./@i4716977@-xxxx-campbell-b1904-d.md) (before 1904 - )
+* Husband: [XXXX Campbell](./@i4716977@-xxxx-campbell-b1904-d.md) (before 1904 - )
 * Daughter: [Rachel Smith Campbell](./@i40394043@-rachel-smith-campbell-b1920-d1998.md) (1920 - 1998)
 
 ## Timeline

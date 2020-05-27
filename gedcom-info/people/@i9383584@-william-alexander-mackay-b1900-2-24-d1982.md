@@ -23,7 +23,7 @@ permalink: /people/i9383584
 * Sister: [Annie Mackay](./@i51252926@-annie-mackay-b1893-d1918.md) (about 1893 - 1918)
 * Brother: [Kenneth Mackay](./@i48909111@-kenneth-mackay-b1895-d.md) (about 1895 - )
 * Brother: [John Paul Mackay](./@i57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
-* Spouse: [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
+* Wife: [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
 * Sister: [Margaret Moyes Mackay](./@i178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)
 * Son: [Donald James Mackay](./@i43065376@-donald-james-mackay-b1932-d2011-12-29.md) (1932 - 29/Dec/2011)
 * Son: X
@@ -54,7 +54,7 @@ about 1935 | Occupation | Cement Finisher | [8](#8) |
 2/Jan/1942 | Birth of son | X born to [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Embo, Sutherland, Scotland. |  | 
 3/Jul/1969 | Death of brother | [John Paul Mackay](./@i57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [12](#12) | 
 1973 | Death of sister | [Margaret Moyes Mackay](./@i178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) died in Dornoch, Sutherland, Scotland. | [13](#13) | 
-1981 | Death of spouse | [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) died in Glasgow, Scotland. | [14](#14) | 
+1981 | Death of partner | [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) died in Glasgow, Scotland. | [14](#14) | 
 1982 | Died | Died. |  | 
 
 ## Notes

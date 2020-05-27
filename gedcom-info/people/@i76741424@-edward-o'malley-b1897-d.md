@@ -9,7 +9,7 @@ permalink: /people/i76741424
 
 ## Immediate Family
 
-* Spouse: [Agnes Thomson](./@i96590245@-agnes-thomson-b1897-d.md) (before 1897 - )
+* Partner: [Agnes Thomson](./@i96590245@-agnes-thomson-b1897-d.md) (before 1897 - )
 * Son: [Thomas O'Malley](./@i12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
 
 ## Timeline

@@ -9,7 +9,7 @@ permalink: /people/i4716977
 
 ## Immediate Family
 
-* Spouse: [XXXX McTurk](./@i54145218@-xxxx-mcturk-b1904-d.md) (before 1904 - )
+* Wife: [XXXX McTurk](./@i54145218@-xxxx-mcturk-b1904-d.md) (before 1904 - )
 * Daughter: [Rachel Smith Campbell](./@i40394043@-rachel-smith-campbell-b1920-d1998.md) (1920 - 1998)
 
 ## Timeline

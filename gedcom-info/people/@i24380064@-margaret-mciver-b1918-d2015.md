@@ -9,7 +9,7 @@ permalink: /people/i24380064
 
 ## Immediate Family
 
-* Spouse: X
+* Partner: X
 * Sister: [Elizabeth McIver](./@i80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
 * Father: [Hector McIver](./@i62168745@-hector-mciver-b1878-d.md) (1878 - )
 * Mother: [Margaret Patterson McKenzie](./@i88610293@-margaret-patterson-mckenzie-b1884-d1964.md) (1884 - 1964)

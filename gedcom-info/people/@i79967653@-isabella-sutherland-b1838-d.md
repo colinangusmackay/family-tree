@@ -15,7 +15,7 @@ permalink: /people/i79967653
 ## Immediate Family
 
 * Son: X
-* Spouse: [Alexander Cumming](./@i7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
+* Husband: [Alexander Cumming](./@i7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
 
 ## Timeline
 

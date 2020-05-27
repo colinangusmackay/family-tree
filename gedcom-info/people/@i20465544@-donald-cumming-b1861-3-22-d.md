@@ -17,7 +17,7 @@ permalink: /people/i20465544
 * Mother: X
 * Father: [James Cumming](./@i66384942@-james-cumming-b1836-d.md) (1836 - )
 * Sister: [Marion Cumming](./@i59851647@-marion-cumming-b1863-5-20-d1954-11-15.md) (20/May/1863 - 15/Nov/1954)
-* Spouse: [Ann Fraser](./@i70425788@-ann-fraser-b1865-d.md) (before 1865 - )
+* Wife: [Ann Fraser](./@i70425788@-ann-fraser-b1865-d.md) (before 1865 - )
 * Brother: [Alexander Cumming](./@i7306221@-alexander-cumming-b1865-d1884-5-7.md) (about 1865 - 7/May/1884)
 * Brother: [Kenneth Cumming](./@i14447152@-kenneth-cumming-b1867-d.md) (about 1867 - )
 * Brother: [William Cumming](./@i10016098@-william-cumming-b1870-d.md) (about 1870 - )

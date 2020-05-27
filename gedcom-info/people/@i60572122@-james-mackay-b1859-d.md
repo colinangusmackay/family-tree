@@ -11,7 +11,7 @@ permalink: /people/i60572122
 
 * Mother: X
 * Father: [George Mackay](./@i33764614@-george-mackay-b1816-d1893-11-25.md) (1816 - 25/Nov/1893)
-* Spouse: [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
+* Wife: [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
 * Daughter: [Lucy Mackay](./@i16587624@-lucy-mackay-b1889-9-23-d.md) (23/Sep/1889 - )
 * Son: [George Mackay](./@i72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
 * Daughter: [Janet Mackay](./@i22499038@-janet-mackay-b1890-11-12-d.md) (12/Nov/1890 - )

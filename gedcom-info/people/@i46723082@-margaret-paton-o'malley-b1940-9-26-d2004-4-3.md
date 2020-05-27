@@ -15,11 +15,11 @@ permalink: /people/i46723082
 
 ## Immediate Family
 
-* Spouse: [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) ( - bet' 2004 and 2016)
+* Partner: [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) ( - bet' 2004 and 2016)
 * Son: X
 * Father: [Thomas O'Malley](./@i12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
 * Mother: [Margaret McLeod Paton](./@i56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
-* Spouse: X
+* Husband: X
 * Son: X
 * Daughter: [Linda Margaret Campbell](./@i76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) (16/Oct/1961 - 28/Sep/2016)
 * Son: X
@@ -40,7 +40,7 @@ before 1969 | Divorced | Divorced from [Norman Stead](./@i69808462@-norman-stead
 before 2004 | Occupation | Office/Contract Cleaner | [10](#10), [11](#11) | [12](#12)
 before 2004 | Death of father | [Thomas O'Malley](./@i12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) died. | [10](#10) | 
 before 2004 | Death of mother | [Margaret McLeod Paton](./@i56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) died. | [10](#10) | 
-bet' 2004 and 2016 | Death of spouse | [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) died. | [11](#11) | [13](#13)
+bet' 2004 and 2016 | Death of partner | [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) died. | [11](#11) | [13](#13)
 3/Apr/2004 | Died | Died in Livingston, West Lothian, Scotland. | [10](#10), [14](#14), [11](#11) | 
 
 ## Footnotes

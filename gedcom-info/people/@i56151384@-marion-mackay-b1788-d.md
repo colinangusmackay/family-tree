@@ -14,7 +14,7 @@ permalink: /people/i56151384
 
 ## Immediate Family
 
-* Spouse: [Thomas Fraser](./@i79545968@-thomas-fraser-b1788-d.md) (before 1788 - )
+* Partner: [Thomas Fraser](./@i79545968@-thomas-fraser-b1788-d.md) (before 1788 - )
 * Son: [Kenneth Fraser](./@i61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md) (5/May/1800 - 19/Jan/1883)
 
 ## Timeline

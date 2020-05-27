@@ -16,7 +16,7 @@ permalink: /people/i32797554
 
 * Father: X
 * Mother: X
-* Spouse: [James Mackay](./@i60572122@-james-mackay-b1859-d.md) (1859 - )
+* Husband: [James Mackay](./@i60572122@-james-mackay-b1859-d.md) (1859 - )
 * Daughter: [Lucy Mackay](./@i16587624@-lucy-mackay-b1889-9-23-d.md) (23/Sep/1889 - )
 * Son: [George Mackay](./@i72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
 * Daughter: [Janet Mackay](./@i22499038@-janet-mackay-b1890-11-12-d.md) (12/Nov/1890 - )

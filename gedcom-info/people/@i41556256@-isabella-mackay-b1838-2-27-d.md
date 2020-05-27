@@ -16,7 +16,7 @@ permalink: /people/i41556256
 
 * Father: X
 * Mother: X
-* Spouse: [Alexander Fraser](./@i97086424@-alexander-fraser-b1833-12-5-d.md) (5/Dec/1833 - )
+* Husband: [Alexander Fraser](./@i97086424@-alexander-fraser-b1833-12-5-d.md) (5/Dec/1833 - )
 * Daughter: [Ann Fraser](./@i70425788@-ann-fraser-b1865-d.md) (before 1865 - )
 
 ## Timeline

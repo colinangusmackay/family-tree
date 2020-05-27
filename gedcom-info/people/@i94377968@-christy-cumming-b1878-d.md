@@ -14,7 +14,7 @@ permalink: /people/i94377968
 
 ## Immediate Family
 
-* Spouse: X
+* Partner: X
 * Mother: X
 * Father: [James Cumming](./@i66384942@-james-cumming-b1836-d.md) (1836 - )
 * Brother: [Donald Cumming](./@i20465544@-donald-cumming-b1861-3-22-d.md) (22/Mar/1861 - )

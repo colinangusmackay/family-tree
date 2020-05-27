@@ -14,7 +14,7 @@ permalink: /people/i26104572
 
 ## Immediate Family
 
-* Spouse: [Kenneth Fraser](./@i61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md) (5/May/1800 - 19/Jan/1883)
+* Husband: [Kenneth Fraser](./@i61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md) (5/May/1800 - 19/Jan/1883)
 * Son: [Alexander Fraser](./@i97086424@-alexander-fraser-b1833-12-5-d.md) (5/Dec/1833 - )
 
 ## Timeline

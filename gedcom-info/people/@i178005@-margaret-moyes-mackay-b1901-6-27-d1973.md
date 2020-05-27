@@ -17,7 +17,7 @@ permalink: /people/i178005
 
 * Father: [James Mackay](./@i60572122@-james-mackay-b1859-d.md) (1859 - )
 * Mother: [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
-* Spouse: [Kenneth Fraser](./@i91376191@-kenneth-fraser-b1877-10-19-d.md) (19/Oct/1877 - )
+* Husband: [Kenneth Fraser](./@i91376191@-kenneth-fraser-b1877-10-19-d.md) (19/Oct/1877 - )
 * Sister: [Lucy Mackay](./@i16587624@-lucy-mackay-b1889-9-23-d.md) (23/Sep/1889 - )
 * Brother: [George Mackay](./@i72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
 * Sister: [Janet Mackay](./@i22499038@-janet-mackay-b1890-11-12-d.md) (12/Nov/1890 - )

@@ -13,7 +13,7 @@ permalink: /people/i7028096
 * Father: [Donald Cumming](./@i45726416@-donald-cumming-b1806-d.md) (1806 - )
 * Mother: [Kate MacDonald](./@i28255030@-kate-macdonald-b1807-d.md) (1807 - )
 * Brother: [James Cumming](./@i66384942@-james-cumming-b1836-d.md) (1836 - )
-* Spouse: [Isabella Sutherland](./@i79967653@-isabella-sutherland-b1838-d.md) (1838 - )
+* Wife: [Isabella Sutherland](./@i79967653@-isabella-sutherland-b1838-d.md) (1838 - )
 * Brother: [Adam Cumming](./@i55409960@-adam-cumming-b1844-d.md) (1844 - )
 
 ## Timeline

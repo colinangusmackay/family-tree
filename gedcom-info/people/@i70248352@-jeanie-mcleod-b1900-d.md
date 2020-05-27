@@ -14,7 +14,7 @@ permalink: /people/i70248352
 
 ## Immediate Family
 
-* Spouse: [John Paton](./@i5211114@-john-paton-b1900-d.md) (before 1900 - )
+* Partner: [John Paton](./@i5211114@-john-paton-b1900-d.md) (before 1900 - )
 * Daughter: [Margaret McLeod Paton](./@i56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
 
 ## Timeline

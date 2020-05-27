@@ -9,7 +9,7 @@ permalink: /people/i2617088
 
 ## Immediate Family
 
-* Spouse: [Isabella Cumming](./@i84684994@-isabella-cumming-b1888-7-21-d.md) (21/Jul/1888 - )
+* Wife: [Isabella Cumming](./@i84684994@-isabella-cumming-b1888-7-21-d.md) (21/Jul/1888 - )
 
 ## Timeline
 

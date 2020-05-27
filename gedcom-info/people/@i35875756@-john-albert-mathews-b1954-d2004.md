@@ -13,7 +13,7 @@ permalink: /people/i35875756
 * Daughter: X
 * Father: X
 * Mother: X
-* Spouse: X
+* Wife: X
 * Brother: X
 * Brother: X
 

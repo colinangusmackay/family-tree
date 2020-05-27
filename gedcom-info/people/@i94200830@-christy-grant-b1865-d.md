@@ -15,7 +15,7 @@ permalink: /people/i94200830
 
 ## Immediate Family
 
-* Spouse: [Alexander Mackay](./@i24272756@-alexander-mackay-b1856-d.md) (about 1856 - )
+* Husband: [Alexander Mackay](./@i24272756@-alexander-mackay-b1856-d.md) (about 1856 - )
 * Daughter: [Jessie Mackay](./@i32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md) (12/Sep/1880 - 7/Feb/1932)
 
 ## Timeline

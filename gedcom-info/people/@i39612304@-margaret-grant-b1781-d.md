@@ -14,7 +14,7 @@ permalink: /people/i39612304
 
 ## Immediate Family
 
-* Spouse: [Alexander Cumming](./@i1900151@-alexander-cumming-b1779-d.md) (before 1779 - )
+* Husband: [Alexander Cumming](./@i1900151@-alexander-cumming-b1779-d.md) (before 1779 - )
 * Son: [Donald Cumming](./@i45726416@-donald-cumming-b1806-d.md) (1806 - )
 
 ## Timeline

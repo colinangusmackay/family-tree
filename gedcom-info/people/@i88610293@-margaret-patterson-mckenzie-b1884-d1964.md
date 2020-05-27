@@ -17,7 +17,7 @@ permalink: /people/i88610293
 * Daughter: [Elizabeth McIver](./@i80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
 * Father: X
 * Mother: X
-* Spouse: [Hector McIver](./@i62168745@-hector-mciver-b1878-d.md) (1878 - )
+* Husband: [Hector McIver](./@i62168745@-hector-mciver-b1878-d.md) (1878 - )
 * Son: [Roderick McIver](./@i90830540@-roderick-mciver-b1910-d1999.md) (1910 - 1999)
 * Daughter: [Margaret McIver](./@i24380064@-margaret-mciver-b1918-d2015.md) (1918 - 2015)
 * Son: [Hector Spence McIver](./@i34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) (12/Apr/1919 - 27/Jan/2008)

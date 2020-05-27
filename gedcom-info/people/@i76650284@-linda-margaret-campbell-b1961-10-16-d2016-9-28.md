@@ -19,7 +19,7 @@ permalink: /people/i76650284
 * Father: [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) ( - bet' 2004 and 2016)
 * Mother: [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) (26/Sep/1940 - 3/Apr/2004)
 * Step Father: X
-* Spouse: X
+* Husband: X
 * Brother: X
 * Brother: X
 * Brother: X

@@ -14,7 +14,7 @@ permalink: /people/i35162161
 
 ## Immediate Family
 
-* Spouse: [James Cumming](./@i64418166@-james-cumming-b1881-d.md) (about 1881 - )
+* Partner: [James Cumming](./@i64418166@-james-cumming-b1881-d.md) (about 1881 - )
 
 ## Timeline
 

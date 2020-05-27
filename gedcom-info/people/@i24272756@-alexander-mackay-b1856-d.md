@@ -9,7 +9,7 @@ permalink: /people/i24272756
 
 ## Immediate Family
 
-* Spouse: [Christy Grant](./@i94200830@-christy-grant-b1865-d.md) (before 1865 - )
+* Wife: [Christy Grant](./@i94200830@-christy-grant-b1865-d.md) (before 1865 - )
 * Daughter: [Jessie Mackay](./@i32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md) (12/Sep/1880 - 7/Feb/1932)
 
 ## Timeline

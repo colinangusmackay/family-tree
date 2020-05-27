@@ -17,7 +17,7 @@ permalink: /people/i14447152
 * Brother: [William Cumming](./@i10016098@-william-cumming-b1870-d.md) (about 1870 - )
 * Brother: [John Cumming](./@i87723702@-john-cumming-b1873-d.md) (about 1873 - )
 * Sister: [Christy Cumming](./@i94377968@-christy-cumming-b1878-d.md) (about 1878 - )
-* Spouse: [Sarah Ross](./@i39957256@-sarah-ross-b1880-d.md) (about 1880 - )
+* Wife: [Sarah Ross](./@i39957256@-sarah-ross-b1880-d.md) (about 1880 - )
 * Brother: [James Cumming](./@i64418166@-james-cumming-b1881-d.md) (about 1881 - )
 * Sister: [Barbara Ann Cumming](./@i57039529@-barbara-ann-cumming-b1885-8-30-d.md) (30/Aug/1885 - )
 

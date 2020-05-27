@@ -11,7 +11,7 @@ permalink: /people/i97086424
 
 * Mother: [Isabella Mackay](./@i26104572@-isabella-mackay-b-d1881-12-8.md) ( - 8/Dec/1881)
 * Father: [Kenneth Fraser](./@i61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md) (5/May/1800 - 19/Jan/1883)
-* Spouse: [Isabella Mackay](./@i41556256@-isabella-mackay-b1838-2-27-d.md) (27/Feb/1838 - )
+* Wife: [Isabella Mackay](./@i41556256@-isabella-mackay-b1838-2-27-d.md) (27/Feb/1838 - )
 * Daughter: [Ann Fraser](./@i70425788@-ann-fraser-b1865-d.md) (before 1865 - )
 
 ## Timeline

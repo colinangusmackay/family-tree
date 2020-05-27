@@ -14,7 +14,7 @@ permalink: /people/i76315420
 
 ## Immediate Family
 
-* Spouse: X
+* Husband: X
 * Son: [Donald Cumming](./@i64759184@-donald-cumming-b1903-5-4-d.md) (4/May/1903 - )
 
 ## Timeline
