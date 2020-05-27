@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i96590245",
+    "Name": "Agnes Thomson",
+    "Gender": "Female",
+    "DateOfBirth": "before 1897",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i96590245",
+      "Name": "Agnes Thomson",
+      "Gender": "Female",
+      "DateOfBirth": "before 1897",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i76741424",
+      "Name": "Edward O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "before 1897",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i12568152",
+      "Name": "Thomas O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "bet' 29/Dec/1912 and 28/Dec/1913",
+      "DateOfDeath": "before 2004",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i76741424",
+        "i96590245"
+      ]
+    }
+  ]
+}

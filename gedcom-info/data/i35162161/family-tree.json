@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i35162161",
+    "Name": "Catherine Wink Clark",
+    "Gender": "Female",
+    "DateOfBirth": "27/Mar/1879",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i35162161",
+      "Name": "Catherine Wink Clark",
+      "Gender": "Female",
+      "DateOfBirth": "27/Mar/1879",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i64418166",
+      "Name": "James Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1881",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

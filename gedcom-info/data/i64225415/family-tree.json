@@ -1,0 +1,129 @@
+﻿{
+  "Subject": {
+    "Id": "i64225415",
+    "Name": "John Ramsay",
+    "Gender": "Male",
+    "DateOfBirth": "21/Feb/1880",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i63088441",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i60684755",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i64225415",
+      "Name": "John Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "21/Feb/1880",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i60684755",
+          "i63088441"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i18426904",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i55070438",
+      "Name": "Jack Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "1905",
+      "DateOfDeath": "1967",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i64225415",
+        "i18426904"
+      ]
+    },
+    {
+      "Id": "i62219744",
+      "Name": "Alan Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "1911",
+      "DateOfDeath": "1932",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i64225415",
+        "i18426904"
+      ]
+    },
+    {
+      "Id": "i49046148",
+      "Name": "Bruce Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "1914",
+      "DateOfDeath": "29/Nov/1965",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i64225415",
+        "i18426904"
+      ]
+    },
+    {
+      "Id": "i80504300",
+      "Name": "Isabella Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "1916",
+      "DateOfDeath": "1974",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i64225415",
+        "i18426904"
+      ]
+    },
+    {
+      "Id": "i12977578",
+      "Name": "Douglas Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "1918",
+      "DateOfDeath": "1993",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i64225415",
+        "i18426904"
+      ]
+    },
+    {
+      "Id": "i34267190",
+      "Name": "Helen Fisher Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "28/Sep/1920",
+      "DateOfDeath": "15/Oct/2015",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i64225415",
+        "i18426904"
+      ]
+    }
+  ]
+}

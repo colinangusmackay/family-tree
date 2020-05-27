@@ -1,0 +1,45 @@
+﻿{
+  "Subject": {
+    "Id": "i14926290",
+    "Name": "Anne Cumming",
+    "Gender": "Female",
+    "DateOfBirth": "23/Feb/1920",
+    "DateOfDeath": "14/Nov/2002"
+  },
+  "Parents": [
+    {
+      "Id": "i57014804",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i89853996",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "17/Dec/1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i14926290",
+      "Name": "Anne Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "23/Feb/1920",
+      "DateOfDeath": "14/Nov/2002",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i57014804",
+          "i89853996"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

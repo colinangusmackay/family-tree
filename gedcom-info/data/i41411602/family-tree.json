@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i41411602",
+    "Name": "May Miller",
+    "Gender": "Female",
+    "DateOfBirth": "about 1881",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i41411602",
+      "Name": "May Miller",
+      "Gender": "Female",
+      "DateOfBirth": "about 1881",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i10016098",
+      "Name": "William Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1870",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "2/Jan/1900",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

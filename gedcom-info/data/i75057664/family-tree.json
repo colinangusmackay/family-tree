@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i75057664",
+    "Name": "John Ross",
+    "Gender": "Male",
+    "DateOfBirth": "19/Nov/1889",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i75057664",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "19/Nov/1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i59851647",
+      "Name": "Marion Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "20/May/1863",
+      "DateOfDeath": "15/Nov/1954",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "19/Nov/1889",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

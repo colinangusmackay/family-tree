@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i23770336",
+    "Name": "Williamina Gillie",
+    "Gender": "Female",
+    "DateOfBirth": "4/Apr/1910",
+    "DateOfDeath": "4/Nov/2003"
+  },
+  "Parents": [
+    {
+      "Id": "i60068056",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i86024374",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i23770336",
+      "Name": "Williamina Gillie",
+      "Gender": "Female",
+      "DateOfBirth": "4/Apr/1910",
+      "DateOfDeath": "4/Nov/2003",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i60068056",
+          "i86024374"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i492889",
+      "Name": "James Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "7/Nov/1894",
+      "DateOfDeath": "2/Jul/1975",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "2/May/1928",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

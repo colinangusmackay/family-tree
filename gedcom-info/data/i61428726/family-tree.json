@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i61428726",
+    "Name": "Kenneth Fraser",
+    "Gender": "Male",
+    "DateOfBirth": "5/May/1800",
+    "DateOfDeath": "19/Jan/1883"
+  },
+  "Parents": [
+    {
+      "Id": "i79545968",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "before 1788",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i56151384",
+      "Name": "Marion Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "before 1788",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i61428726",
+      "Name": "Kenneth Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "5/May/1800",
+      "DateOfDeath": "19/Jan/1883",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i56151384",
+          "i79545968"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i26104572",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "8/Dec/1881",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "24/Nov/1820",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i97086424",
+      "Name": "Alexander Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "5/Dec/1833",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i61428726",
+        "i26104572"
+      ]
+    }
+  ]
+}

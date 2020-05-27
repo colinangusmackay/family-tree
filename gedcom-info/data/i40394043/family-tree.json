@@ -1,0 +1,57 @@
+﻿{
+  "Subject": {
+    "Id": "i40394043",
+    "Name": "Rachel Smith Campbell",
+    "Gender": "Female",
+    "DateOfBirth": "1920",
+    "DateOfDeath": "1998"
+  },
+  "Parents": [
+    {
+      "Id": "i4716977",
+      "Name": "XXXX Campbell",
+      "Gender": "Male",
+      "DateOfBirth": "before 1904",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i54145218",
+      "Name": "XXXX McTurk",
+      "Gender": "Female",
+      "DateOfBirth": "before 1904",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i40394043",
+      "Name": "Rachel Smith Campbell",
+      "Gender": "Female",
+      "DateOfBirth": "1920",
+      "DateOfDeath": "1998",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i4716977",
+          "i54145218"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": [
+    {
+      "Id": "i35451666",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "25/Feb/1942",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i40394043"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+﻿{
+  "Subject": {
+    "Id": "i91376191",
+    "Name": "Kenneth Fraser",
+    "Gender": "Male",
+    "DateOfBirth": "19/Oct/1877",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i91376191",
+      "Name": "Kenneth Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "19/Oct/1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i32677248",
+      "Name": "Jessie Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "12/Sep/1880",
+      "DateOfDeath": "7/Feb/1932",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "16/Jan/1912",
+      "DateOfDivorce": ""
+    },
+    {
+      "Id": "i178005",
+      "Name": "Margaret Moyes Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "27/Jun/1901",
+      "DateOfDeath": "1973",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "2/Mar/1934",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i27944522",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "1935",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i91376191",
+        "i178005"
+      ]
+    }
+  ]
+}

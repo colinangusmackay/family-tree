@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i12568152",
+    "Name": "Thomas O'Malley",
+    "Gender": "Male",
+    "DateOfBirth": "bet' 29/Dec/1912 and 28/Dec/1913",
+    "DateOfDeath": "before 2004"
+  },
+  "Parents": [
+    {
+      "Id": "i76741424",
+      "Name": "Edward O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "before 1897",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i96590245",
+      "Name": "Agnes Thomson",
+      "Gender": "Female",
+      "DateOfBirth": "before 1897",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i12568152",
+      "Name": "Thomas O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "bet' 29/Dec/1912 and 28/Dec/1913",
+      "DateOfDeath": "before 2004",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i76741424",
+          "i96590245"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i56209708",
+      "Name": "Margaret McLeod Paton",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 29/Dec/1915 and 28/Dec/1916",
+      "DateOfDeath": "before 2004",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "28/Dec/1939",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i46723082",
+      "Name": "Margaret Paton O'Malley",
+      "Gender": "Female",
+      "DateOfBirth": "26/Sep/1940",
+      "DateOfDeath": "3/Apr/2004",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i12568152",
+        "i56209708"
+      ]
+    }
+  ]
+}

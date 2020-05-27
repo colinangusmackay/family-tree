@@ -1,0 +1,165 @@
+﻿{
+  "Subject": {
+    "Id": "i25303611",
+    "Name": "Isabella Mackay",
+    "Gender": "Female",
+    "DateOfBirth": "1/Jan/1936",
+    "DateOfDeath": "18/Dec/2019"
+  },
+  "Parents": [
+    {
+      "Id": "i9383584",
+      "Name": "William Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "24/Feb/1900",
+      "DateOfDeath": "1982",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i48241984",
+      "Name": "Mary Ann Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "26/Jul/1900",
+      "DateOfDeath": "1981",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i43065376",
+      "Name": "Donald James Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "1932",
+      "DateOfDeath": "29/Dec/2011",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i48241984",
+          "i9383584"
+        ]
+      ]
+    },
+    {
+      "Id": "i61915200",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "27/May/1932",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i48241984",
+          "i9383584"
+        ]
+      ]
+    },
+    {
+      "Id": "i75066880",
+      "Name": "Alexina Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "11/Jan/1935",
+      "DateOfDeath": "1935",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i48241984",
+          "i9383584"
+        ]
+      ]
+    },
+    {
+      "Id": "i25303611",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "1/Jan/1936",
+      "DateOfDeath": "18/Dec/2019",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i48241984",
+          "i9383584"
+        ]
+      ]
+    },
+    {
+      "Id": "i41265374",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "7/Jul/1938",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i48241984",
+          "i9383584"
+        ]
+      ]
+    },
+    {
+      "Id": "i81915607",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "1939",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i48241984",
+          "i9383584"
+        ]
+      ]
+    },
+    {
+      "Id": "i60810514",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "2/Jan/1942",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i48241984",
+          "i9383584"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i66176571",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i95518355",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i66176571",
+        "i25303611"
+      ]
+    },
+    {
+      "Id": "i59559628",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i66176571",
+        "i25303611"
+      ]
+    }
+  ]
+}

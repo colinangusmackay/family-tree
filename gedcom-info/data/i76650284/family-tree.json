@@ -1,0 +1,164 @@
+﻿{
+  "Subject": {
+    "Id": "i76650284",
+    "Name": "Linda Margaret Campbell",
+    "Gender": "Female",
+    "DateOfBirth": "16/Oct/1961",
+    "DateOfDeath": "28/Sep/2016"
+  },
+  "Parents": [
+    {
+      "Id": "i69808462",
+      "Name": "Norman Stead",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "bet' 2004 and 2016",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i46723082",
+      "Name": "Margaret Paton O'Malley",
+      "Gender": "Female",
+      "DateOfBirth": "26/Sep/1940",
+      "DateOfDeath": "3/Apr/2004",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i35451666",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "25/Feb/1942",
+      "DateOfDeath": "",
+      "RelationToSubject": "step-father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i65241402",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i35451666",
+          "i46723082"
+        ]
+      ]
+    },
+    {
+      "Id": "i38419168",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "22/Oct/1960",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i35451666"
+        ],
+        [
+          "i35451666",
+          "i46723082"
+        ],
+        [
+          "i46723082",
+          "i69808462"
+        ]
+      ]
+    },
+    {
+      "Id": "i76650284",
+      "Name": "Linda Margaret Campbell",
+      "Gender": "Female",
+      "DateOfBirth": "16/Oct/1961",
+      "DateOfDeath": "28/Sep/2016",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i35451666",
+          "i46723082"
+        ],
+        [
+          "i46723082",
+          "i69808462"
+        ]
+      ]
+    },
+    {
+      "Id": "i13150187",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "21/Sep/1962",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i46723082",
+          "i69808462"
+        ],
+        [
+          "i35451666",
+          "i46723082"
+        ]
+      ]
+    },
+    {
+      "Id": "i86995008",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "1966",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i46723082",
+          "i69808462"
+        ],
+        [
+          "i35451666",
+          "i46723082"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i42620544",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "6/Dec/1956",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "6/Jun/1981",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i70011097",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "2/May/1983",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i42620544",
+        "i76650284"
+      ]
+    },
+    {
+      "Id": "i69897025",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "19/Mar/1985",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i42620544",
+        "i76650284"
+      ]
+    }
+  ]
+}

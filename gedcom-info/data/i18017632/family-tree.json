@@ -1,0 +1,143 @@
+﻿{
+  "Subject": {
+    "Id": "i18017632",
+    "Name": "JohanJanet Ross",
+    "Gender": "Female",
+    "DateOfBirth": "1905",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i16842942",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i89807594",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i86126311",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i16842942",
+          "i89807594"
+        ]
+      ]
+    },
+    {
+      "Id": "i10478196",
+      "Name": "Christina Ross",
+      "Gender": "Female",
+      "DateOfBirth": "1893",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i16842942",
+          "i89807594"
+        ]
+      ]
+    },
+    {
+      "Id": "i21369571",
+      "Name": "William Ross",
+      "Gender": "Male",
+      "DateOfBirth": "1897",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i16842942",
+          "i89807594"
+        ]
+      ]
+    },
+    {
+      "Id": "i35298145",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "1899",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i16842942",
+          "i89807594"
+        ]
+      ]
+    },
+    {
+      "Id": "i67099773",
+      "Name": "Peter Ross",
+      "Gender": "Male",
+      "DateOfBirth": "12/Nov/1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i16842942",
+          "i89807594"
+        ]
+      ]
+    },
+    {
+      "Id": "i18017632",
+      "Name": "JohanJanet Ross",
+      "Gender": "Female",
+      "DateOfBirth": "1905",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i16842942",
+          "i89807594"
+        ]
+      ]
+    },
+    {
+      "Id": "i71751658",
+      "Name": "Jeanie Ross",
+      "Gender": "Female",
+      "DateOfBirth": "1907",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i16842942",
+          "i89807594"
+        ]
+      ]
+    },
+    {
+      "Id": "i52064896",
+      "Name": "Alexander Ross",
+      "Gender": "Male",
+      "DateOfBirth": "24/Sep/1910",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i16842942",
+          "i89807594"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i79967653",
+    "Name": "Isabella Sutherland",
+    "Gender": "Female",
+    "DateOfBirth": "1838",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i79967653",
+      "Name": "Isabella Sutherland",
+      "Gender": "Female",
+      "DateOfBirth": "1838",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i7028096",
+      "Name": "Alexander Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1833",
+      "DateOfDeath": "7/May/1884",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "5/Dec/1856",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i90082380",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i7028096",
+        "i79967653"
+      ]
+    }
+  ]
+}

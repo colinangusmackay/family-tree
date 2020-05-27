@@ -1,0 +1,71 @@
+﻿{
+  "Subject": {
+    "Id": "i28255030",
+    "Name": "Kate MacDonald",
+    "Gender": "Female",
+    "DateOfBirth": "1807",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i28255030",
+      "Name": "Kate MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "1807",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i45726416",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1806",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i7028096",
+      "Name": "Alexander Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1833",
+      "DateOfDeath": "7/May/1884",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i45726416",
+        "i28255030"
+      ]
+    },
+    {
+      "Id": "i66384942",
+      "Name": "James Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1836",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i45726416",
+        "i28255030"
+      ]
+    },
+    {
+      "Id": "i55409960",
+      "Name": "Adam Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1844",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i45726416",
+        "i28255030"
+      ]
+    }
+  ]
+}

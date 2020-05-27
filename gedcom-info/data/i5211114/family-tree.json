@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i5211114",
+    "Name": "John Paton",
+    "Gender": "Male",
+    "DateOfBirth": "before 1900",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i5211114",
+      "Name": "John Paton",
+      "Gender": "Male",
+      "DateOfBirth": "before 1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i70248352",
+      "Name": "Jeanie McLeod",
+      "Gender": "Female",
+      "DateOfBirth": "before 1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i56209708",
+      "Name": "Margaret McLeod Paton",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 29/Dec/1915 and 28/Dec/1916",
+      "DateOfDeath": "before 2004",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i5211114",
+        "i70248352"
+      ]
+    }
+  ]
+}

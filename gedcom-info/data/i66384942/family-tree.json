@@ -1,0 +1,193 @@
+﻿{
+  "Subject": {
+    "Id": "i66384942",
+    "Name": "James Cumming",
+    "Gender": "Male",
+    "DateOfBirth": "1836",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i45726416",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1806",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i28255030",
+      "Name": "Kate MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "1807",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i7028096",
+      "Name": "Alexander Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1833",
+      "DateOfDeath": "7/May/1884",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    },
+    {
+      "Id": "i66384942",
+      "Name": "James Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1836",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    },
+    {
+      "Id": "i55409960",
+      "Name": "Adam Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1844",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i60546968",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "21/Feb/1860",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i20465544",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "22/Mar/1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i66384942",
+        "i60546968"
+      ]
+    },
+    {
+      "Id": "i59851647",
+      "Name": "Marion Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "20/May/1863",
+      "DateOfDeath": "15/Nov/1954",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i66384942",
+        "i60546968"
+      ]
+    },
+    {
+      "Id": "i7306221",
+      "Name": "Alexander Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1865",
+      "DateOfDeath": "7/May/1884",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i66384942",
+        "i60546968"
+      ]
+    },
+    {
+      "Id": "i14447152",
+      "Name": "Kenneth Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1867",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i66384942",
+        "i60546968"
+      ]
+    },
+    {
+      "Id": "i10016098",
+      "Name": "William Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1870",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i66384942",
+        "i60546968"
+      ]
+    },
+    {
+      "Id": "i87723702",
+      "Name": "John Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1873",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i66384942",
+        "i60546968"
+      ]
+    },
+    {
+      "Id": "i94377968",
+      "Name": "Christy Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "about 1878",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i66384942",
+        "i60546968"
+      ]
+    },
+    {
+      "Id": "i64418166",
+      "Name": "James Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1881",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i66384942",
+        "i60546968"
+      ]
+    },
+    {
+      "Id": "i57039529",
+      "Name": "Barbara Ann Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "30/Aug/1885",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i66384942",
+        "i60546968"
+      ]
+    }
+  ]
+}

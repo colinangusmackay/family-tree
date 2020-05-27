@@ -1,0 +1,157 @@
+﻿{
+  "Subject": {
+    "Id": "i22331378",
+    "Name": "Donald John Cumming",
+    "Gender": "Male",
+    "DateOfBirth": "29/Nov/1906",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i20465544",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "22/Mar/1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i70425788",
+      "Name": "Ann Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "before 1865",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i84684994",
+      "Name": "Isabella Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "21/Jul/1888",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i20465544",
+          "i70425788"
+        ]
+      ]
+    },
+    {
+      "Id": "i57186713",
+      "Name": "Alexandrina Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "30/Mar/1891",
+      "DateOfDeath": "10/Apr/1987",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i20465544",
+          "i70425788"
+        ]
+      ]
+    },
+    {
+      "Id": "i66222886",
+      "Name": "Jessie-Ann Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "8/Jan/1893",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i20465544",
+          "i70425788"
+        ]
+      ]
+    },
+    {
+      "Id": "i492889",
+      "Name": "James Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "7/Nov/1894",
+      "DateOfDeath": "2/Jul/1975",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i20465544",
+          "i70425788"
+        ]
+      ]
+    },
+    {
+      "Id": "i13773669",
+      "Name": "George Davidson Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1899",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i20465544",
+          "i70425788"
+        ]
+      ]
+    },
+    {
+      "Id": "i48241984",
+      "Name": "Mary Ann Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "26/Jul/1900",
+      "DateOfDeath": "1981",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i20465544",
+          "i70425788"
+        ]
+      ]
+    },
+    {
+      "Id": "i92241152",
+      "Name": "Thomasina Ian Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "24/Nov/1902",
+      "DateOfDeath": "1/Jun/1973",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i20465544",
+          "i70425788"
+        ]
+      ]
+    },
+    {
+      "Id": "i24328630",
+      "Name": "Christine Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "15/Dec/1904",
+      "DateOfDeath": "10/Nov/1996",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i20465544",
+          "i70425788"
+        ]
+      ]
+    },
+    {
+      "Id": "i22331378",
+      "Name": "Donald John Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "29/Nov/1906",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i20465544",
+          "i70425788"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

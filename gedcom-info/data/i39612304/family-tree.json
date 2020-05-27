@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i39612304",
+    "Name": "Margaret Grant",
+    "Gender": "Female",
+    "DateOfBirth": "before 1781",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i39612304",
+      "Name": "Margaret Grant",
+      "Gender": "Female",
+      "DateOfBirth": "before 1781",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i1900151",
+      "Name": "Alexander Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "before 1779",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "22/Feb/1793",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i45726416",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1806",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i1900151",
+        "i39612304"
+      ]
+    }
+  ]
+}

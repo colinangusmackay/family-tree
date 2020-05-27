@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i2617088",
+    "Name": "Thomas Mitchell Reid",
+    "Gender": "Male",
+    "DateOfBirth": "about 14/Jan/1893",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i2617088",
+      "Name": "Thomas Mitchell Reid",
+      "Gender": "Male",
+      "DateOfBirth": "about 14/Jan/1893",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i84684994",
+      "Name": "Isabella Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "21/Jul/1888",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "12/Apr/1929",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

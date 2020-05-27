@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i76315420",
+    "Name": "JessieJanet Mackay",
+    "Gender": "Female",
+    "DateOfBirth": "1866",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i76315420",
+      "Name": "JessieJanet Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "1866",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i90082380",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "19/Feb/1895",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i64759184",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "4/May/1903",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i90082380",
+        "i76315420"
+      ]
+    }
+  ]
+}

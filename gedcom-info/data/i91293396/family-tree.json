@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i91293396",
+    "Name": "Alexander Fraser",
+    "Gender": "Male",
+    "DateOfBirth": "31/Aug/1898",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i69725432",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i33561724",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i91293396",
+      "Name": "Alexander Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "31/Aug/1898",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i33561724",
+          "i69725432"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i81075921",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "9/Feb/1934",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i28456848",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i91293396",
+        "i81075921"
+      ]
+    }
+  ]
+}

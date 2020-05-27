@@ -1,0 +1,132 @@
+﻿{
+  "Subject": {
+    "Id": "i46723082",
+    "Name": "Margaret Paton O'Malley",
+    "Gender": "Female",
+    "DateOfBirth": "26/Sep/1940",
+    "DateOfDeath": "3/Apr/2004"
+  },
+  "Parents": [
+    {
+      "Id": "i12568152",
+      "Name": "Thomas O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "bet' 29/Dec/1912 and 28/Dec/1913",
+      "DateOfDeath": "before 2004",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i56209708",
+      "Name": "Margaret McLeod Paton",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 29/Dec/1915 and 28/Dec/1916",
+      "DateOfDeath": "before 2004",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i46723082",
+      "Name": "Margaret Paton O'Malley",
+      "Gender": "Female",
+      "DateOfBirth": "26/Sep/1940",
+      "DateOfDeath": "3/Apr/2004",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [],
+        [
+          "i12568152",
+          "i56209708"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i69808462",
+      "Name": "Norman Stead",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "bet' 2004 and 2016",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": "before 1969"
+    },
+    {
+      "Id": "i35451666",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "25/Feb/1942",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "25/Jul/1969",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i65241402",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i35451666",
+        "i46723082"
+      ]
+    },
+    {
+      "Id": "i38419168",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "22/Oct/1960",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i35451666",
+        "i46723082",
+        "i69808462"
+      ]
+    },
+    {
+      "Id": "i76650284",
+      "Name": "Linda Margaret Campbell",
+      "Gender": "Female",
+      "DateOfBirth": "16/Oct/1961",
+      "DateOfDeath": "28/Sep/2016",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i35451666",
+        "i46723082",
+        "i69808462"
+      ]
+    },
+    {
+      "Id": "i13150187",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "21/Sep/1962",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i69808462",
+        "i46723082",
+        "i35451666"
+      ]
+    },
+    {
+      "Id": "i86995008",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "1966",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i69808462",
+        "i46723082",
+        "i35451666"
+      ]
+    }
+  ]
+}

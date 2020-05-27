@@ -1,0 +1,145 @@
+﻿{
+  "Subject": {
+    "Id": "i22499038",
+    "Name": "Janet Mackay",
+    "Gender": "Female",
+    "DateOfBirth": "12/Nov/1890",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i60572122",
+      "Name": "James Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "1859",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i32797554",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "7/Aug/1860",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i16587624",
+      "Name": "Lucy Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "23/Sep/1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i32797554",
+          "i60572122"
+        ]
+      ]
+    },
+    {
+      "Id": "i72941728",
+      "Name": "George Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "12/Nov/1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i32797554",
+          "i60572122"
+        ]
+      ]
+    },
+    {
+      "Id": "i22499038",
+      "Name": "Janet Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "12/Nov/1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i32797554",
+          "i60572122"
+        ]
+      ]
+    },
+    {
+      "Id": "i51252926",
+      "Name": "Annie Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1893",
+      "DateOfDeath": "1918",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i32797554",
+          "i60572122"
+        ]
+      ]
+    },
+    {
+      "Id": "i48909111",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i32797554",
+          "i60572122"
+        ]
+      ]
+    },
+    {
+      "Id": "i57646474",
+      "Name": "John Paul Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "13/Mar/1899",
+      "DateOfDeath": "3/Jul/1969",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i32797554",
+          "i60572122"
+        ]
+      ]
+    },
+    {
+      "Id": "i9383584",
+      "Name": "William Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "24/Feb/1900",
+      "DateOfDeath": "1982",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i32797554",
+          "i60572122"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "Id": "i178005",
+      "Name": "Margaret Moyes Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "27/Jun/1901",
+      "DateOfDeath": "1973",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i32797554",
+          "i60572122"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i58341424",
+    "Name": "Donald Mackay",
+    "Gender": "Male",
+    "DateOfBirth": "25/Nov/1876",
+    "DateOfDeath": "22/Nov/1939"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i58341424",
+      "Name": "Donald Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "25/Nov/1876",
+      "DateOfDeath": "22/Nov/1939",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i57039529",
+      "Name": "Barbara Ann Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "30/Aug/1885",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "27/Nov/1903",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

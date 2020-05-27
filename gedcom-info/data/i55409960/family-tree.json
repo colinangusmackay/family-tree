@@ -1,0 +1,97 @@
+﻿{
+  "Subject": {
+    "Id": "i55409960",
+    "Name": "Adam Cumming",
+    "Gender": "Male",
+    "DateOfBirth": "1844",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i45726416",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1806",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i28255030",
+      "Name": "Kate MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "1807",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i7028096",
+      "Name": "Alexander Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1833",
+      "DateOfDeath": "7/May/1884",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    },
+    {
+      "Id": "i66384942",
+      "Name": "James Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1836",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    },
+    {
+      "Id": "i55409960",
+      "Name": "Adam Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1844",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i74868546",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "17/Oct/1876",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i89853996",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "17/Dec/1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i55409960",
+        "i74868546"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i94200830",
+    "Name": "Christy Grant",
+    "Gender": "Female",
+    "DateOfBirth": "before 1865",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i94200830",
+      "Name": "Christy Grant",
+      "Gender": "Female",
+      "DateOfBirth": "before 1865",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i24272756",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "21/Nov/1877",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i32677248",
+      "Name": "Jessie Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "12/Sep/1880",
+      "DateOfDeath": "7/Feb/1932",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i24272756",
+        "i94200830"
+      ]
+    }
+  ]
+}

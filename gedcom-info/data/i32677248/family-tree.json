@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i32677248",
+    "Name": "Jessie Mackay",
+    "Gender": "Female",
+    "DateOfBirth": "12/Sep/1880",
+    "DateOfDeath": "7/Feb/1932"
+  },
+  "Parents": [
+    {
+      "Id": "i24272756",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i94200830",
+      "Name": "Christy Grant",
+      "Gender": "Female",
+      "DateOfBirth": "before 1865",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i32677248",
+      "Name": "Jessie Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "12/Sep/1880",
+      "DateOfDeath": "7/Feb/1932",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i24272756",
+          "i94200830"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i91376191",
+      "Name": "Kenneth Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "19/Oct/1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "16/Jan/1912",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

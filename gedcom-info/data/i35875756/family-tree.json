@@ -1,0 +1,109 @@
+﻿{
+  "Subject": {
+    "Id": "i35875756",
+    "Name": "John Albert Mathews",
+    "Gender": "Male",
+    "DateOfBirth": "1954",
+    "DateOfDeath": "2004"
+  },
+  "Parents": [
+    {
+      "Id": "i58223940",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i97706646",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i35875756",
+      "Name": "John Albert Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "1954",
+      "DateOfDeath": "2004",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i58223940",
+          "i97706646"
+        ]
+      ]
+    },
+    {
+      "Id": "i50572114",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "6/Dec/1956",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i58223940",
+          "i97706646"
+        ]
+      ]
+    },
+    {
+      "Id": "i42620544",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "6/Dec/1956",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i58223940",
+          "i97706646"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i2758880",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "30/Aug/1956",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "1978",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i3147153",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i35875756",
+        "i2758880"
+      ]
+    },
+    {
+      "Id": "i51152276",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i35875756",
+        "i2758880"
+      ]
+    }
+  ]
+}

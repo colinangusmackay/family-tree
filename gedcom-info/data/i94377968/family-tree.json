@@ -1,0 +1,168 @@
+﻿{
+  "Subject": {
+    "Id": "i94377968",
+    "Name": "Christy Cumming",
+    "Gender": "Female",
+    "DateOfBirth": "about 1878",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i60546968",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i66384942",
+      "Name": "James Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1836",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i20465544",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "22/Mar/1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i60546968",
+          "i66384942"
+        ]
+      ]
+    },
+    {
+      "Id": "i59851647",
+      "Name": "Marion Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "20/May/1863",
+      "DateOfDeath": "15/Nov/1954",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i60546968",
+          "i66384942"
+        ]
+      ]
+    },
+    {
+      "Id": "i7306221",
+      "Name": "Alexander Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1865",
+      "DateOfDeath": "7/May/1884",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i60546968",
+          "i66384942"
+        ]
+      ]
+    },
+    {
+      "Id": "i14447152",
+      "Name": "Kenneth Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1867",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i60546968",
+          "i66384942"
+        ]
+      ]
+    },
+    {
+      "Id": "i10016098",
+      "Name": "William Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1870",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i60546968",
+          "i66384942"
+        ]
+      ]
+    },
+    {
+      "Id": "i87723702",
+      "Name": "John Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1873",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i60546968",
+          "i66384942"
+        ]
+      ]
+    },
+    {
+      "Id": "i94377968",
+      "Name": "Christy Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "about 1878",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i60546968",
+          "i66384942"
+        ]
+      ]
+    },
+    {
+      "Id": "i64418166",
+      "Name": "James Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1881",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i60546968",
+          "i66384942"
+        ]
+      ]
+    },
+    {
+      "Id": "i57039529",
+      "Name": "Barbara Ann Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "30/Aug/1885",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i60546968",
+          "i66384942"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i63799206",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}
