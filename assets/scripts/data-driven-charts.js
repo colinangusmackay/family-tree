@@ -292,13 +292,57 @@ function drawImmediateFamilyTree(dataDir, peopleDir) {
 
 
     function renderParentNodes() {
-      const {selfIndex, genZeroPeople} = getGenerationZeroPeople();
-      const allParentGroups = genZeroPeople
+      const { selfIndex, genZeroPeople } = getGenerationZeroPeople();
+      const parentGroupsIds = genZeroPeople
         .flatMap(p => p.ParentGroupIds ? p.ParentGroupIds : [])
-        .filter( (v,i,a) => a.findIndex( e => e.length === v.length && e.every((vv,ii) => vv == v[ii])) === i);
+        .filter(v => v.length > 0)
+        .filter((v, i, a) => a.findIndex(e => e.length === v.length && e.every((vv, ii) => vv == v[ii])) === i);
+      const parentGroups = parentGroupsIds
+        .map((v, i, a) => v.map(vv => data.Parents.findIndex(p => p.Id == vv)).sort());
       console.log("Parent Groups:");
       console.log(parentGroups);
 
+      const parentGroupCount = parentGroups.length;
+      const parentZeroX = (midHorizontal - (parentRowWidth / 2)) + nodeWidth;
+      const parentOffsetY = nodeHeight / (parentGroupCount + 1);
+      const parentOffsetX = nodeWidth / (parentGroupCount + 1);
+      const parentGapOffsetY = verticalPadding / (parentGroupCount + 1);
+
+      parentGroups.forEach(function (pg, pgi) {
+        if (pg.length === 1)
+          return;
+        const colour = spouseLineColours[pgi % spouseLineColours.length];
+        const parentY = (pgi + 1) * parentOffsetY;
+        const parent1X = parentZeroX + (pg[0] * (horizontalPadding + nodeWidth));
+        const parent2X = parentZeroX + ((pg[1]) * horizontalPadding) + ((pg[1] - 1) * nodeWidth);
+
+        const g = svg.append("g")
+          .attr("stroke", colour)
+          .attr("fill", "none");
+        g.append("line")
+          .attr("x1", parent1X)
+          .attr("y1", parentY)
+          .attr("x2", parent2X)
+          .attr("y2", parentY);
+
+        genZeroPeople.forEach(function (sibling, si) {
+          const currentParentGroupIds = parentGroupsIds[pgi];
+          const siblingParentGroupsIds = sibling.ParentGroupIds;
+          if (!siblingParentGroupsIds)
+            return;
+
+          if (siblingParentGroupsIds.findIndex(e => e.length === currentParentGroupIds.length && e.every((vv, ii) => vv == currentParentGroupIds[ii])) === -1)
+            return;
+
+          const i = pgi;
+          g.append("path")
+            .attr("d", `M${parent2X - (horizontalPadding / 2)},${parentY}
+          v${(parentOffsetY * (parentGroupCount - i)) + (parentGapOffsetY * (i + 1))}
+          H${(midHorizontal - (genZeroRowWidth / 2)) + (si * (nodeWidth + horizontalPadding)) + (parentOffsetX * (i + 1))}
+          v${parentGapOffsetY * (parentGroupCount - i)}
+          `);
+        });
+      });
 
       const parentNodes = svg.append("g")
         .selectAll("g")
@@ -324,36 +368,58 @@ function drawImmediateFamilyTree(dataDir, peopleDir) {
       const { selfIndex, genZeroPeople } = getGenerationZeroPeople();
       const genZeroRowY = nodeHeight + verticalPadding;
       const spouseCount = data.Spouses.length;
-      const spouseOffsetY = nodeHeight / (spouseCount + 1);
-      const spouseOffsetX = nodeWidth / (spouseCount + 1);
-      const spouseGapOffsetY = verticalPadding / (spouseCount + 1);
 
-      const selfRightX = (midHorizontal - (genZeroRowWidth / 2)) + (selfIndex * (nodeWidth + horizontalPadding)) + nodeWidth;
+      if (spouseCount === 0) {
+        const colour = spouseLineColours[0];
+        const selfX =  (midHorizontal - (genZeroRowWidth / 2)) + (selfIndex * (nodeWidth + horizontalPadding)) + (nodeWidth / 2);
+        const selfY = genZeroRowY + nodeHeight;
 
-      data.Spouses.forEach(function (sd, i) {
-        const colour = spouseLineColours[i % spouseLineColours.length];
-        const spouseY = genZeroRowY + (i + 1) * spouseOffsetY;
-        const spouseX = selfRightX + (i * nodeWidth) + ((i + 1) * horizontalPadding);
         const g = svg.append("g")
           .attr("stroke", colour)
           .attr("fill", "none");
-        g.append("line")
-          .attr("x1", selfRightX)
-          .attr("y1", spouseY)
-          .attr("x2", spouseX)
-          .attr("y2", spouseY);
-        
-        data.Children.forEach(function(cd, ci) {
-          if (cd.ParentIds.some(pid => pid == sd.Id)) {
-            g.append("path")
-            .attr("d", `M${spouseX-(horizontalPadding/2)},${spouseY}
-              v${(spouseOffsetY * (spouseCount - i)) + (spouseGapOffsetY * (i + 1))}
-              H${(midHorizontal - (childRowWidth / 2)) + (ci * (nodeWidth + horizontalPadding)) + (spouseOffsetY * (i+1))}
-              v${spouseGapOffsetY * (spouseCount - i)}
-              `);
-          }
+
+        data.Children.forEach(function (cd, ci) {
+          g.append("path")
+            .attr("d", `M${selfX},${selfY}
+        v${verticalPadding / 2}
+        H${(midHorizontal - (childRowWidth / 2)) + (ci * (nodeWidth + horizontalPadding)) + (nodeWidth / 2)}
+        v${verticalPadding / 2}
+        `);
         });
-      });
+      }
+      else {
+        const spouseOffsetY = nodeHeight / (spouseCount + 1);
+        const spouseOffsetX = nodeWidth / (spouseCount + 1);
+        const spouseGapOffsetY = verticalPadding / (spouseCount + 1);
+        const selfRightX = (midHorizontal - (genZeroRowWidth / 2)) + (selfIndex * (nodeWidth + horizontalPadding)) + nodeWidth;
+  
+        data.Spouses.forEach(function (sd, i) {
+          const colour = spouseLineColours[i % spouseLineColours.length];
+          const spouseY = genZeroRowY + (i + 1) * spouseOffsetY;
+          const spouseX = selfRightX + (i * nodeWidth) + ((i + 1) * horizontalPadding);
+          const g = svg.append("g")
+            .attr("stroke", colour)
+            .attr("fill", "none");
+          g.append("line")
+            .attr("x1", selfRightX)
+            .attr("y1", spouseY)
+            .attr("x2", spouseX)
+            .attr("y2", spouseY);
+
+          data.Children.forEach(function (cd, ci) {
+            if (cd.ParentIds.some(pid => pid == sd.Id)) {
+              g.append("path")
+                .attr("d", `M${spouseX - (horizontalPadding / 2)},${spouseY}
+          v${(spouseOffsetY * (spouseCount - i)) + (spouseGapOffsetY * (i + 1))}
+          H${(midHorizontal - (childRowWidth / 2)) + (ci * (nodeWidth + horizontalPadding)) + (spouseOffsetX * (i + 1))}
+          v${spouseGapOffsetY * (spouseCount - i)}
+          `);
+            }
+          });
+        });
+
+      }
+
 
       const genZeroNodes = svg.append("g")
         .selectAll("g")
