@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Release Notes 23rd May 2020
+title: Release Notes 28th May 2020
 date: 2020-05-28 12:04 +0100
 category: release-notes
 tags:
