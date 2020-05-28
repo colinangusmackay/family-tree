@@ -16,7 +16,6 @@ permalink: /people/i46723082
 ## Immediate Family
 
 * Partner: [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) ( - bet' 2004 and 2016)
-* Son: X
 * Father: [Thomas O'Malley](./@i12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
 * Mother: [Margaret McLeod Paton](./@i56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
 * Husband: X
@@ -24,12 +23,13 @@ permalink: /people/i46723082
 * Daughter: [Linda Margaret Campbell](./@i76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) (16/Oct/1961 - 28/Sep/2016)
 * Son: X
 * Son: X
+* Son: X
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-26/Sep/1940 | Born | Born in Glasgow, Scotland. | [1](#1), [2](#2) | 
+26/Sep/1940 | Born | Born to [Thomas O'Malley](./@i12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) and [Margaret McLeod Paton](./@i56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) in Glasgow, Scotland. | [1](#1), [2](#2) | 
 26/Nov/1940 | Baptism | Baptised at Renfield Street Church, Glasgow, Scotland | [3](#3) | [4](#4)
 22/Oct/1960 | Birth of son | X born to X in Morely, Yorkshire, England. | [5](#5) | 
 16/Oct/1961 | Birth of daughter | [Linda Margaret Campbell](./@i76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) born to X and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, England. | [6](#6) | 
@@ -37,11 +37,12 @@ Date | Item | Description | Sources | Notes
 1966 | Birth of son | X born to [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Glasgow, Scotland. | [7](#7) | 
 before 1969 | Divorced | Divorced from [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md)  | [8](#8) | [9](#9)
 25/Jul/1969 | Married | Married to X in East Calder, Scotland | [8](#8) | 
-before 2004 | Occupation | Office/Contract Cleaner | [10](#10), [11](#11) | [12](#12)
-before 2004 | Death of father | [Thomas O'Malley](./@i12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) died. | [10](#10) | 
-before 2004 | Death of mother | [Margaret McLeod Paton](./@i56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) died. | [10](#10) | 
-bet' 2004 and 2016 | Death of partner | [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) died. | [11](#11) | [13](#13)
-3/Apr/2004 | Died | Died in Livingston, West Lothian, Scotland. | [10](#10), [14](#14), [11](#11) | 
+5/Sep/1969 | Birth of son | X born to X and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md). | [10](#10) | 
+before 2004 | Occupation | Office/Contract Cleaner | [11](#11), [12](#12) | [13](#13)
+before 2004 | Death of father | [Thomas O'Malley](./@i12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) died. | [11](#11) | 
+before 2004 | Death of mother | [Margaret McLeod Paton](./@i56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) died. | [11](#11) | 
+bet' 2004 and 2016 | Death of partner | [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) died. | [12](#12) | [14](#14)
+3/Apr/2004 | Died | Died in Livingston, West Lothian, Scotland. | [11](#11), [15](#15), [12](#12) | 
 
 ## Footnotes
 
@@ -123,6 +124,14 @@ bet' 2004 and 2016 | Death of partner | [Norman Stead](./@i69808462@-norman-stea
 
 ### 10
 
+**1969 X, X - Facebook Profile, About, Contact and Basic Info**
+
+* [Full text and notes](../sources/@s20289898@-1969-campbell,-andrew-facebook-profile,-about,-contact-and-basic-info.md)
+* Publication: Facebook.com
+* Date: 26/May/2020
+
+### 11
+
 **2004 X, MARGARET PATON (Extract of an entry in a REGISTER of DEATHS)**
 
 * [Full text and notes](../sources/@s55468576@-2004-campbell,-margaret-paton-extract-of-an-entry-in-a-register-of-deaths-.md)
@@ -131,7 +140,7 @@ bet' 2004 and 2016 | Death of partner | [Norman Stead](./@i69808462@-norman-stea
 * References: 
   * 2004 D 772/107
 
-### 11
+### 12
 
 **2016 X, LINDA MARGARET (Extract of an entry in a REGISTER of DEATHS)**
 
@@ -142,19 +151,19 @@ bet' 2004 and 2016 | Death of partner | [Norman Stead](./@i69808462@-norman-stea
 * References: 
   * 2016 D 773/14
 
-### 12
+### 13
 
 > Don't know date of retirement, so occupation is sometime before 2004.
 >
 
 
-### 13
+### 14
 
 > Death entry for (former wife) Margaret Paton O'Malley does not mark Norman Stead as deceased in 2004, however death entry for (daughter) Linda Margaret Campbell does mark him as deceased in 2016. It is therefore possible that he died sometime between 2004 and 2016.
 >
 
 
-### 14
+### 15
 
 **2004 CAMPBELL, MARGARET PATON Index entry from Register of Deaths**
 

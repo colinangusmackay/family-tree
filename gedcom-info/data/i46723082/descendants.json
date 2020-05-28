@@ -104,9 +104,38 @@
       "Name": "X",
       "Gender": "Male",
       "Relationship": "son",
-      "DateOfBirth": "",
+      "DateOfBirth": "5/Sep/1969",
       "DateOfDeath": "",
-      "Children": []
+      "Children": [
+        {
+          "Id": "i34612868",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": [
+            {
+              "Id": "i50695345",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "4/Feb/2007",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": "i17919003",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
     }
   ]
 }

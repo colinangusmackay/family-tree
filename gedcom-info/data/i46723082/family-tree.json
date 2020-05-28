@@ -33,7 +33,6 @@
       "DateOfDeath": "3/Apr/2004",
       "RelationToSubject": "self",
       "ParentGroupIds": [
-        [],
         [
           "i12568152",
           "i56209708"
@@ -64,18 +63,6 @@
     }
   ],
   "Children": [
-    {
-      "Id": "i65241402",
-      "Name": "X",
-      "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "son",
-      "ParentIds": [
-        "i35451666",
-        "i46723082"
-      ]
-    },
     {
       "Id": "i38419168",
       "Name": "X",
@@ -126,6 +113,18 @@
         "i69808462",
         "i46723082",
         "i35451666"
+      ]
+    },
+    {
+      "Id": "i65241402",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "5/Sep/1969",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i35451666",
+        "i46723082"
       ]
     }
   ]

@@ -34,20 +34,6 @@
   ],
   "Siblings": [
     {
-      "Id": "i65241402",
-      "Name": "X",
-      "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "brother",
-      "ParentGroupIds": [
-        [
-          "i35451666",
-          "i46723082"
-        ]
-      ]
-    },
-    {
       "Id": "i38419168",
       "Name": "X",
       "Gender": "Male",
@@ -116,6 +102,20 @@
           "i46723082",
           "i69808462"
         ],
+        [
+          "i35451666",
+          "i46723082"
+        ]
+      ]
+    },
+    {
+      "Id": "i65241402",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "5/Sep/1969",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
         [
           "i35451666",
           "i46723082"
