@@ -3,7 +3,7 @@
     "Id": "i43065376",
     "Name": "Donald James Mackay",
     "Gender": "Male",
-    "DateOfBirth": "1932",
+    "DateOfBirth": "1931",
     "DateOfDeath": "29/Dec/2011"
   },
   "Parents": [
@@ -29,7 +29,7 @@
       "Id": "i43065376",
       "Name": "Donald James Mackay",
       "Gender": "Male",
-      "DateOfBirth": "1932",
+      "DateOfBirth": "1931",
       "DateOfDeath": "29/Dec/2011",
       "RelationToSubject": "self",
       "ParentGroupIds": [

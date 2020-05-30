@@ -22,7 +22,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 * [Mary Ann Cumming](../people/@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
 * [Annie Mackay](../people/@i51252926@-annie-mackay-b1893-d1918.md) (about 1893 - 1918)
-* [Donald James Mackay](../people/@i43065376@-donald-james-mackay-b1932-d2011-12-29.md) (1932 - 29/Dec/2011)
+* [Donald James Mackay](../people/@i43065376@-donald-james-mackay-b1931-d2011-12-29.md) (1931 - 29/Dec/2011)
 * [George Mackay](../people/@i33764614@-george-mackay-b1816-d1893-11-25.md) (1816 - 25/Nov/1893)
 * [Isabella Mackay](../people/@i25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) (1/Jan/1936 - 18/Dec/2019)
 * [James Mackay](../people/@i60572122@-james-mackay-b1859-d.md) (1859 - )

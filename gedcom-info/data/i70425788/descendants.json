@@ -60,20 +60,11 @@
       "DateOfDeath": "1981",
       "Children": [
         {
-          "Id": "i61915200",
-          "Name": "X",
-          "Gender": "Male",
-          "Relationship": "son",
-          "DateOfBirth": "27/May/1932",
-          "DateOfDeath": "",
-          "Children": []
-        },
-        {
           "Id": "i43065376",
           "Name": "Donald James Mackay",
           "Gender": "Male",
           "Relationship": "son",
-          "DateOfBirth": "1932",
+          "DateOfBirth": "1931",
           "DateOfDeath": "29/Dec/2011",
           "Children": [
             {
@@ -124,6 +115,15 @@
               ]
             }
           ]
+        },
+        {
+          "Id": "i61915200",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "27/May/1932",
+          "DateOfDeath": "",
+          "Children": []
         },
         {
           "Id": "i75066880",
@@ -245,20 +245,20 @@
               "DateOfDeath": "",
               "Children": [
                 {
-                  "Id": "i45119970",
-                  "Name": "X",
-                  "Gender": "Female",
-                  "Relationship": "daughter",
-                  "DateOfBirth": "10/Apr/2000",
-                  "DateOfDeath": "",
-                  "Children": []
-                },
-                {
                   "Id": "i73626011",
                   "Name": "X",
                   "Gender": "Female",
                   "Relationship": "daughter",
                   "DateOfBirth": "19/Jun/2008",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i45119970",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "10/Apr/2000",
                   "DateOfDeath": "",
                   "Children": []
                 }

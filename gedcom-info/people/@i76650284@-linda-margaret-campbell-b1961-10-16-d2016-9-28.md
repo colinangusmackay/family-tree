@@ -33,7 +33,7 @@ Date | Item | Description | Sources | Notes
 16/Oct/1961 | Born | Born to X and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, England. | [1](#1) | 
 21/Sep/1962 | Birth of brother | X born to [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md). |  | 
 calc'd 1966 | Residence | Glasgow, Scotland | [2](#2) | [3](#3)
-1966 | Birth of brother | X born to [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Glasgow, Scotland. | [4](#4) | 
+2/Apr/1966 | Birth of brother | X born to [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Glasgow, Scotland. | [4](#4) | 
 1968 | Residence | Livingston, West Lothian, Scotland | [2](#2) | 
 before 1969 | Divorce of parents | [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) ( - bet' 2004 and 2016) got divorced from [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) (26/Sep/1940 - 3/Apr/2004)  | [5](#5) | [6](#6)
 25/Jul/1969 | Married | Married to X in East Calder, Scotland | [5](#5) | 

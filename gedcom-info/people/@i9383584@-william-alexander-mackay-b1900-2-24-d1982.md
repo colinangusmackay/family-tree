@@ -25,7 +25,7 @@ permalink: /people/i9383584
 * Brother: [John Paul Mackay](./@i57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
 * Wife: [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
 * Sister: [Margaret Moyes Mackay](./@i178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)
-* Son: [Donald James Mackay](./@i43065376@-donald-james-mackay-b1932-d2011-12-29.md) (1932 - 29/Dec/2011)
+* Son: [Donald James Mackay](./@i43065376@-donald-james-mackay-b1931-d2011-12-29.md) (1931 - 29/Dec/2011)
 * Son: X
 * Daughter: [Alexina Mackay](./@i75066880@-alexina-mackay-b1935-1-11-d1935.md) (11/Jan/1935 - 1935)
 * Daughter: [Isabella Mackay](./@i25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) (1/Jan/1936 - 18/Dec/2019)
@@ -43,18 +43,18 @@ Date | Item | Description | Sources | Notes
 about 1930 | Occupation | Cement Finisher | [5](#5) | 
 21/Mar/1930 | Married | Married to [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Toronto, York, Ontario, Canada | [5](#5), [2](#2), [6](#6) | 
 before 31/Mar/1930 | Residence | 271 Springdale Blvd, Toronto, Ontario, Canada | [5](#5) | [7](#7)
-1932 | Birth of son | [Donald James Mackay](./@i43065376@-donald-james-mackay-b1932-d2011-12-29.md) born to [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md). | [2](#2) | 
-27/May/1932 | Birth of son | X born to [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md). |  | 
-about 1935 | Occupation | Cement Finisher | [8](#8) | 
-1935 | Death of daughter | [Alexina Mackay](./@i75066880@-alexina-mackay-b1935-1-11-d1935.md) died. |  | [9](#9)
-11/Jan/1935 | Birth of daughter | [Alexina Mackay](./@i75066880@-alexina-mackay-b1935-1-11-d1935.md) born to [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Embo, Sutherland, Scotland. | [8](#8) | 
-1/Jan/1936 | Birth of daughter | [Isabella Mackay](./@i25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) born to [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Embo, Sutherland, Scotland. | [10](#10) | 
-7/Jul/1938 | Birth of daughter | X born to [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Coigach, Ross and Cromerty, Scotland. | [11](#11) | 
+1931 | Birth of son | [Donald James Mackay](./@i43065376@-donald-james-mackay-b1931-d2011-12-29.md) born to [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md). | [2](#2) | 
+27/May/1932 | Birth of son | X born to [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md). | [8](#8), [9](#9) | 
+about 1935 | Occupation | Cement Finisher | [10](#10) | 
+1935 | Death of daughter | [Alexina Mackay](./@i75066880@-alexina-mackay-b1935-1-11-d1935.md) died. |  | [11](#11)
+11/Jan/1935 | Birth of daughter | [Alexina Mackay](./@i75066880@-alexina-mackay-b1935-1-11-d1935.md) born to [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Embo, Sutherland, Scotland. | [10](#10) | 
+1/Jan/1936 | Birth of daughter | [Isabella Mackay](./@i25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) born to [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Embo, Sutherland, Scotland. | [12](#12) | 
+7/Jul/1938 | Birth of daughter | X born to [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Coigach, Ross and Cromerty, Scotland. | [13](#13) | 
 1939 | Birth of son | X born to [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md). | [2](#2) | 
 2/Jan/1942 | Birth of son | X born to [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Embo, Sutherland, Scotland. |  | 
-3/Jul/1969 | Death of brother | [John Paul Mackay](./@i57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [12](#12) | 
-1973 | Death of sister | [Margaret Moyes Mackay](./@i178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) died in Dornoch, Sutherland, Scotland. | [13](#13) | 
-1981 | Death of partner | [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) died in Glasgow, Scotland. | [14](#14) | 
+3/Jul/1969 | Death of brother | [John Paul Mackay](./@i57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [14](#14) | 
+1973 | Death of sister | [Margaret Moyes Mackay](./@i178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) died in Dornoch, Sutherland, Scotland. | [15](#15) | 
+1981 | Death of partner | [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) died in Glasgow, Scotland. | [16](#16) | 
 1982 | Died | Died. |  | 
 
 ## Notes
@@ -132,6 +132,22 @@ about 1935 | Occupation | Cement Finisher | [8](#8) |
 
 ### 8
 
+**1932 X, X X Statutory Registers - Births Index**
+
+* [Full text and notes](../sources/@s38262038@-1932-mackay,-james-william-statutory-registers-births-index.md)
+* Responsible Agency: National Records of Scotland
+
+### 9
+
+**2020 X, X - Facebook About page**
+
+* [Full text and notes](../sources/@s60498666@-2020-mackay,-hamish-facebook-about-page.md)
+* Publication: Facebook.com
+* Originator / Author: X X
+* Date: 28/May/2020
+
+### 10
+
 **1935 MACKAY, ALEXINA (Extract of an entry from the Register of Births)**
 
 * [Full text and notes](../sources/@s53853408@-1935-mackay,-alexina-extract-of-an-entry-from-the-register-of-births-.md)
@@ -141,20 +157,20 @@ about 1935 | Occupation | Cement Finisher | [8](#8) |
 * References: 
   * 1935 047/5
 
-### 9
+### 11
 
 > Oral history
 >
 
 
-### 10
+### 12
 
 **Isabella Gilchrist (née Mackay) - Memorial Service programme**
 
 * [Full text and notes](../sources/@s53514060@-isabella-gilchrist-née-mackay-memorial-service-programme.md)
 * Date: 27/Dec/2019
 
-### 11
+### 13
 
 **New York State, Passenger and Crew Lists, 1917-1967 for X J X**
 
@@ -162,7 +178,7 @@ about 1935 | Occupation | Cement Finisher | [8](#8) |
 * References: 
   * A3998 - New York, 1957-1967, roll number 161
 
-### 12
+### 14
 
 **1969 X, JOHN PAUL (Statutory registers Deaths 047/18)**
 
@@ -172,7 +188,7 @@ about 1935 | Occupation | Cement Finisher | [8](#8) |
 * References: 
   * 1969 D 047/18
 
-### 13
+### 15
 
 **1973 FRASER, MARGARET MOYES (Index of Register of Deaths)**
 
@@ -181,7 +197,7 @@ about 1935 | Occupation | Cement Finisher | [8](#8) |
 * References: 
   * 1973 M 182/22
 
-### 14
+### 16
 
 **1981 Index entry of Obituary Mary Ann Mackay (Post Star, GF, NY)**
 
@@ -197,7 +213,7 @@ about 1935 | Occupation | Cement Finisher | [8](#8) |
   - [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
   - [Alexina Mackay](./@i75066880@-alexina-mackay-b1935-1-11-d1935.md) (11/Jan/1935 - 1935)
   - [Annie Mackay](./@i51252926@-annie-mackay-b1893-d1918.md) (about 1893 - 1918)
-  - [Donald James Mackay](./@i43065376@-donald-james-mackay-b1932-d2011-12-29.md) (1932 - 29/Dec/2011)
+  - [Donald James Mackay](./@i43065376@-donald-james-mackay-b1931-d2011-12-29.md) (1931 - 29/Dec/2011)
   - [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
   - [Isabella Mackay](./@i25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) (1/Jan/1936 - 18/Dec/2019)
   - [James Mackay](./@i60572122@-james-mackay-b1859-d.md) (1859 - )

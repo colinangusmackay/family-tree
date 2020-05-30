@@ -5,6 +5,10 @@ permalink: /indexes/by-person-family-name
 
 # Index - By Family Name
 
+## Byrne
+
+- **[Kevin James Byrne](people/@i35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
+
 ## Campbell
 
 - **[Linda Margaret Campbell](people/@i76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
@@ -79,7 +83,7 @@ permalink: /indexes/by-person-family-name
 - **[Alexander Mackay](people/@i24272756@-alexander-mackay-b1856-d.md)** (about 1856 - )
 - **[Alexina Mackay](people/@i75066880@-alexina-mackay-b1935-1-11-d1935.md)** (11/Jan/1935 - 1935)
 - **[Annie Mackay](people/@i51252926@-annie-mackay-b1893-d1918.md)** (about 1893 - 1918)
-- **[Donald James Mackay](people/@i43065376@-donald-james-mackay-b1932-d2011-12-29.md)** (1932 - 29/Dec/2011)
+- **[Donald James Mackay](people/@i43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[Donald Mackay](people/@i58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939)
 - **[George Mackay](people/@i33764614@-george-mackay-b1816-d1893-11-25.md)** (1816 - 25/Nov/1893)
 - **[George Mackay](people/@i72941728@-george-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )

@@ -202,8 +202,8 @@ permalink: /indexes/by-date-of-birth
 
 ### 1930s
 
-* **Born in 1932.**
-  * [Donald James Mackay](people/@i43065376@-donald-james-mackay-b1932-d2011-12-29.md) (1932 - 29/Dec/2011)
+* **Born in 1931.**
+  * [Donald James Mackay](people/@i43065376@-donald-james-mackay-b1931-d2011-12-29.md) (1931 - 29/Dec/2011)
 * **Born in 1935.**
   * [Alexina Mackay](people/@i75066880@-alexina-mackay-b1935-1-11-d1935.md) (11/Jan/1935 - 1935)
 * **Born in 1936.**
@@ -223,6 +223,13 @@ permalink: /indexes/by-date-of-birth
 
 * **Born in 1961.**
   * [Linda Margaret Campbell](people/@i76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) (16/Oct/1961 - 28/Sep/2016)
+
+## 21st Century
+
+### 2000s
+
+* **Born in 2007.**
+  * [Kevin James Byrne](people/@i35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md) (23/Sep/2007 - 29/Sep/2007)
 
 ## Unknown Date of Birth
 

@@ -16,5 +16,5 @@ References |
 
 ## Source Referenced by
 
-* [Donald James Mackay](../people/@i43065376@-donald-james-mackay-b1932-d2011-12-29.md) (1932 - 29/Dec/2011)
+* [Donald James Mackay](../people/@i43065376@-donald-james-mackay-b1931-d2011-12-29.md) (1931 - 29/Dec/2011)
 * [Isabella Mackay](../people/@i25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) (1/Jan/1936 - 18/Dec/2019)

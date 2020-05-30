@@ -1,0 +1,87 @@
+﻿{
+  "Subject": {
+    "Id": "i35849164",
+    "Name": "Kevin James Byrne",
+    "Gender": "Male",
+    "DateOfBirth": "23/Sep/2007",
+    "DateOfDeath": "29/Sep/2007"
+  },
+  "Parents": [
+    {
+      "Id": "i81963848",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i34612868",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "3/Feb/1988",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i50695345",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "4/Feb/2007",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i34612868",
+          "i81963848"
+        ]
+      ]
+    },
+    {
+      "Id": "i35849164",
+      "Name": "Kevin James Byrne",
+      "Gender": "Male",
+      "DateOfBirth": "23/Sep/2007",
+      "DateOfDeath": "29/Sep/2007",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i34612868",
+          "i81963848"
+        ]
+      ]
+    },
+    {
+      "Id": "i59671013",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "2/Nov/2011",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i34612868",
+          "i81963848"
+        ]
+      ]
+    },
+    {
+      "Id": "i51614360",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "1/Jul/2014",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i34612868",
+          "i81963848"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}
