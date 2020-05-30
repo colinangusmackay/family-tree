@@ -28,11 +28,13 @@ At the bottom of each page there are contact links. You can either [contact me v
 ## The information
 
 Here are some starting points:
-* [Index of people by family name](pages/index-by-family-name.md). Note: this is by birth name.
-* [Index of people by date of birth](pages/index-by-date-of-birth.md).
-* [Index of sources by title](pages/index-of-sources-by-title.md).
+* [Index of people by family name](gedcom-info/index-by-family-name.md). Note: this is by birth name.
+* [Index of people by date of birth](gedcom-info/index-by-date-of-birth.md).
+* [Index of sources by title](gedcom-info/index-of-sources-by-title.md).
 
 There is also a [blog](blog.md) which contains various information about site changes and various articles and notes I've put together.
+
+All these links can be found at the top of each page too.
 
 ## The Geeky Bit
 
