@@ -7,6 +7,15 @@
   "DateOfDeath": "1974",
   "Parents": [
     {
+      "Id": "i18426904",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
       "Id": "i64225415",
       "Name": "John Ramsay",
       "Gender": "Male",
@@ -14,34 +23,6 @@
       "DateOfBirth": "21/Feb/1880",
       "DateOfDeath": "",
       "Parents": [
-        {
-          "Id": "i63088441",
-          "Name": "X",
-          "Gender": "Male",
-          "Relationship": "father",
-          "DateOfBirth": "",
-          "DateOfDeath": "",
-          "Parents": [
-            {
-              "Id": "i33817858",
-              "Name": "X",
-              "Gender": "Male",
-              "Relationship": "father",
-              "DateOfBirth": "",
-              "DateOfDeath": "",
-              "Parents": []
-            },
-            {
-              "Id": "i33882736",
-              "Name": "X",
-              "Gender": "Female",
-              "Relationship": "mother",
-              "DateOfBirth": "",
-              "DateOfDeath": "",
-              "Parents": []
-            }
-          ]
-        },
         {
           "Id": "i60684755",
           "Name": "X",
@@ -69,17 +50,36 @@
               "Parents": []
             }
           ]
+        },
+        {
+          "Id": "i63088441",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i33817858",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i33882736",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
         }
       ]
-    },
-    {
-      "Id": "i18426904",
-      "Name": "X",
-      "Gender": "Female",
-      "Relationship": "mother",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Parents": []
     }
   ]
 }

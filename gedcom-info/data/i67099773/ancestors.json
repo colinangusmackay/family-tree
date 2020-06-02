@@ -15,19 +15,19 @@
       "DateOfDeath": "",
       "Parents": [
         {
-          "Id": "i39470155",
+          "Id": "i10763169",
           "Name": "X",
-          "Gender": "Male",
-          "Relationship": "father",
+          "Gender": "Female",
+          "Relationship": "mother",
           "DateOfBirth": "",
           "DateOfDeath": "",
           "Parents": []
         },
         {
-          "Id": "i10763169",
+          "Id": "i39470155",
           "Name": "X",
-          "Gender": "Female",
-          "Relationship": "mother",
+          "Gender": "Male",
+          "Relationship": "father",
           "DateOfBirth": "",
           "DateOfDeath": "",
           "Parents": []
@@ -43,19 +43,19 @@
       "DateOfDeath": "",
       "Parents": [
         {
-          "Id": "i77545296",
+          "Id": "i46031972",
           "Name": "X",
-          "Gender": "Male",
-          "Relationship": "father",
+          "Gender": "Female",
+          "Relationship": "mother",
           "DateOfBirth": "",
           "DateOfDeath": "",
           "Parents": []
         },
         {
-          "Id": "i46031972",
+          "Id": "i77545296",
           "Name": "X",
-          "Gender": "Female",
-          "Relationship": "mother",
+          "Gender": "Male",
+          "Relationship": "father",
           "DateOfBirth": "",
           "DateOfDeath": "",
           "Parents": []

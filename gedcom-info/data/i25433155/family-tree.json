@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i25433155",
+    "Name": "Alexander Mackay",
+    "Gender": "Male",
+    "DateOfBirth": "1850",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i25433155",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "1850",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i26872816",
+      "Name": "Catherine Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "1849",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "21/Oct/1873",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

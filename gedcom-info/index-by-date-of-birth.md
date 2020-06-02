@@ -51,15 +51,33 @@ permalink: /indexes/by-date-of-birth
 
 ### 1840s
 
+* **Born in 1840.**
+  * [Janet or Jessie Mackay](people/@i42213240@-janet-or-jessie-mackay-b1840-d.md) (1840 - )
+* **Born in 1841.**
+  * [John Mackay](people/@i58430005@-john-mackay-b1841-2-18-d.md) (18/Feb/1841 - )
+* **Born in 1843.**
+  * [William Mackay](people/@i99871003@-william-mackay-b1843-d.md) (1843 - )
 * **Born in 1844.**
   * [Adam Cumming](people/@i55409960@-adam-cumming-b1844-d.md) (1844 - )
+  * [Alexander Mackay](people/@i2381836@-alexander-mackay-b1844-d.md) (1844 - )
+* **Born in 1846.**
+  * [David Mackay](people/@i46263680@-david-mackay-b1846-d1860.md) (1846 - 1860)
+* **Born in 1849.**
+  * [Catherine Mackay](people/@i26872816@-catherine-mackay-b1849-d.md) (1849 - )
 
 ### 1850s
 
+* **Born in 1850.**
+  * [Alexander Mackay](people/@i25433155@-alexander-mackay-b1850-d.md) (1850 - )
+* **Born in 1854.**
+  * [Barbara Mackay](people/@i52409786@-barbara-mackay-b1854-d.md) (1854 - )
+* **Born in 1855.**
+  * [Donald Mackay](people/@i32633938@-donald-mackay-b1855-d.md) (1855 - )
 * **Born in 1856.**
   * [Alexander Mackay](people/@i24272756@-alexander-mackay-b1856-d.md) (about 1856 - )
 * **Born in 1859.**
   * [James Mackay](people/@i60572122@-james-mackay-b1859-d.md) (1859 - )
+  * [Jane or Jean Mackay](people/@i4172390@-jane-or-jean-mackay-b1859-d.md) (1859 - )
 
 ### 1860s
 

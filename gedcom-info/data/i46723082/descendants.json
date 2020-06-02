@@ -47,7 +47,7 @@
           "Name": "X",
           "Gender": "Male",
           "Relationship": "son",
-          "DateOfBirth": "",
+          "DateOfBirth": "1989",
           "DateOfDeath": "",
           "Children": []
         }
@@ -90,15 +90,6 @@
       "DateOfDeath": "",
       "Children": [
         {
-          "Id": "i47291330",
-          "Name": "X",
-          "Gender": "Female",
-          "Relationship": "daughter",
-          "DateOfBirth": "",
-          "DateOfDeath": "",
-          "Children": []
-        },
-        {
           "Id": "i96612548",
           "Name": "X",
           "Gender": "Female",
@@ -116,6 +107,15 @@
               "Children": []
             }
           ]
+        },
+        {
+          "Id": "i47291330",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
         }
       ]
     },

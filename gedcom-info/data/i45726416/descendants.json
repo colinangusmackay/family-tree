@@ -188,41 +188,41 @@
                   "DateOfDeath": "18/Dec/2019",
                   "Children": [
                     {
-                      "Id": "i95518355",
-                      "Name": "X",
-                      "Gender": "Male",
-                      "Relationship": "son",
-                      "DateOfBirth": "",
-                      "DateOfDeath": "",
-                      "Children": []
-                    },
-                    {
                       "Id": "i59559628",
                       "Name": "X",
                       "Gender": "Female",
                       "Relationship": "daughter",
-                      "DateOfBirth": "",
+                      "DateOfBirth": "1963",
                       "DateOfDeath": "",
                       "Children": [
-                        {
-                          "Id": "i84817050",
-                          "Name": "X",
-                          "Gender": "Male",
-                          "Relationship": "son",
-                          "DateOfBirth": "",
-                          "DateOfDeath": "",
-                          "Children": []
-                        },
                         {
                           "Id": "i26291582",
                           "Name": "X",
                           "Gender": "Female",
                           "Relationship": "daughter",
-                          "DateOfBirth": "",
+                          "DateOfBirth": "1994",
+                          "DateOfDeath": "",
+                          "Children": []
+                        },
+                        {
+                          "Id": "i84817050",
+                          "Name": "X",
+                          "Gender": "Male",
+                          "Relationship": "son",
+                          "DateOfBirth": "2000",
                           "DateOfDeath": "",
                           "Children": []
                         }
                       ]
+                    },
+                    {
+                      "Id": "i95518355",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "1966",
+                      "DateOfDeath": "",
+                      "Children": []
                     }
                   ]
                 },
@@ -234,6 +234,15 @@
                   "DateOfBirth": "7/Jul/1938",
                   "DateOfDeath": "",
                   "Children": [
+                    {
+                      "Id": "i18685039",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "adopted-son",
+                      "DateOfBirth": "",
+                      "DateOfDeath": "",
+                      "Children": []
+                    },
                     {
                       "Id": "i58454492",
                       "Name": "X",
@@ -290,15 +299,6 @@
                       "DateOfDeath": "",
                       "Children": [
                         {
-                          "Id": "i73626011",
-                          "Name": "X",
-                          "Gender": "Female",
-                          "Relationship": "daughter",
-                          "DateOfBirth": "19/Jun/2008",
-                          "DateOfDeath": "",
-                          "Children": []
-                        },
-                        {
                           "Id": "i45119970",
                           "Name": "X",
                           "Gender": "Female",
@@ -306,17 +306,17 @@
                           "DateOfBirth": "10/Apr/2000",
                           "DateOfDeath": "",
                           "Children": []
+                        },
+                        {
+                          "Id": "i73626011",
+                          "Name": "X",
+                          "Gender": "Female",
+                          "Relationship": "daughter",
+                          "DateOfBirth": "19/Jun/2008",
+                          "DateOfDeath": "",
+                          "Children": []
                         }
                       ]
-                    },
-                    {
-                      "Id": "i18685039",
-                      "Name": "X",
-                      "Gender": "Male",
-                      "Relationship": "adopted-son",
-                      "DateOfBirth": "",
-                      "DateOfDeath": "",
-                      "Children": []
                     },
                     {
                       "Id": "i25217139",

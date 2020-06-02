@@ -66,7 +66,7 @@ Date | Item | Description | Sources | Notes
 
 ### 5
 
-**2004 MATHEWS, JOHN ALBERT Statutory Registers - Death Index**
+**2004 X, JOHN ALBERT Statutory Registers - Death Index**
 
 * [Full text and notes](../sources/@s70959444@-2004-mathews,-john-albert-statutory-registers-death-index.md)
 * Responsible Agency: National Records of Scotland

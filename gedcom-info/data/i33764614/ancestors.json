@@ -7,21 +7,21 @@
   "DateOfDeath": "25/Nov/1893",
   "Parents": [
     {
-      "Id": "i69114879",
-      "Name": "William Mackay",
-      "Gender": "Male",
-      "Relationship": "father",
-      "DateOfBirth": "1781",
-      "DateOfDeath": "1841",
-      "Parents": []
-    },
-    {
       "Id": "i66584000",
       "Name": "Janet Macrae",
       "Gender": "Female",
       "Relationship": "mother",
       "DateOfBirth": "1781",
       "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i69114879",
+      "Name": "William Mackay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "1781",
+      "DateOfDeath": "1841",
       "Parents": []
     }
   ]

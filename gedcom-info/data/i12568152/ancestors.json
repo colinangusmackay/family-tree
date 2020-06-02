@@ -7,19 +7,19 @@
   "DateOfDeath": "before 2004",
   "Parents": [
     {
-      "Id": "i76741424",
-      "Name": "Edward O'Malley",
-      "Gender": "Male",
-      "Relationship": "father",
+      "Id": "i96590245",
+      "Name": "Agnes Thomson",
+      "Gender": "Female",
+      "Relationship": "mother",
       "DateOfBirth": "before 1897",
       "DateOfDeath": "",
       "Parents": []
     },
     {
-      "Id": "i96590245",
-      "Name": "Agnes Thomson",
-      "Gender": "Female",
-      "Relationship": "mother",
+      "Id": "i76741424",
+      "Name": "Edward O'Malley",
+      "Gender": "Male",
+      "Relationship": "father",
       "DateOfBirth": "before 1897",
       "DateOfDeath": "",
       "Parents": []

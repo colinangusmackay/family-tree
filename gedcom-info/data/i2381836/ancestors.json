@@ -1,0 +1,47 @@
+﻿{
+  "Id": "i2381836",
+  "Name": "Alexander Mackay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "1844",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i67811996",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i33764614",
+      "Name": "George Mackay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "1816",
+      "DateOfDeath": "25/Nov/1893",
+      "Parents": [
+        {
+          "Id": "i66584000",
+          "Name": "Janet Macrae",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "1781",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i69114879",
+          "Name": "William Mackay",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "1781",
+          "DateOfDeath": "1841",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

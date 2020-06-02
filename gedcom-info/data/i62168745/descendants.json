@@ -97,15 +97,6 @@
           "DateOfDeath": "",
           "Children": [
             {
-              "Id": "i94136164",
-              "Name": "X",
-              "Gender": "Female",
-              "Relationship": "daughter",
-              "DateOfBirth": "29/Oct/2016",
-              "DateOfDeath": "",
-              "Children": []
-            },
-            {
               "Id": "i78267971",
               "Name": "X",
               "Gender": "Female",
@@ -120,6 +111,15 @@
               "Gender": "Male",
               "Relationship": "son",
               "DateOfBirth": "3/Oct/1992",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i94136164",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "29/Oct/2016",
               "DateOfDeath": "",
               "Children": []
             }

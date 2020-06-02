@@ -7,6 +7,15 @@
   "DateOfDeath": "7/May/1884",
   "Parents": [
     {
+      "Id": "i60546968",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
       "Id": "i66384942",
       "Name": "James Cumming",
       "Gender": "Male",
@@ -52,15 +61,6 @@
           "Parents": []
         }
       ]
-    },
-    {
-      "Id": "i60546968",
-      "Name": "X",
-      "Gender": "Female",
-      "Relationship": "mother",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Parents": []
     }
   ]
 }

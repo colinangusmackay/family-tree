@@ -138,24 +138,24 @@
   ],
   "Children": [
     {
-      "Id": "i95518355",
+      "Id": "i59559628",
       "Name": "X",
-      "Gender": "Male",
-      "DateOfBirth": "",
+      "Gender": "Female",
+      "DateOfBirth": "1963",
       "DateOfDeath": "",
-      "RelationToSubject": "son",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i66176571",
         "i25303611"
       ]
     },
     {
-      "Id": "i59559628",
+      "Id": "i95518355",
       "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
+      "Gender": "Male",
+      "DateOfBirth": "1966",
       "DateOfDeath": "",
-      "RelationToSubject": "daughter",
+      "RelationToSubject": "son",
       "ParentIds": [
         "i66176571",
         "i25303611"

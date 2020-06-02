@@ -30,30 +30,37 @@ permalink: /people/i76650284
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-16/Oct/1961 | Born | Born to X and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, England. | [1](#1) | 
-21/Sep/1962 | Birth of brother | X born to [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md). |  | 
-calc'd 1966 | Residence | Glasgow, Scotland | [2](#2) | [3](#3)
-2/Apr/1966 | Birth of brother | X born to [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Glasgow, Scotland. | [4](#4) | 
-1968 | Residence | Livingston, West Lothian, Scotland | [2](#2) | 
-before 1969 | Divorce of parents | [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) ( - bet' 2004 and 2016) got divorced from [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) (26/Sep/1940 - 3/Apr/2004)  | [5](#5) | [6](#6)
-25/Jul/1969 | Married | Married to X in East Calder, Scotland | [5](#5) | 
-5/Sep/1969 | Birth of brother | X born to X and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md). | [7](#7) | 
-1980 | Occupation | Factory Worker | [8](#8) | 
-6/Jun/1981 | Married | Married to X at Blackburn Parish Church | [9](#9), [2](#2) | 
-1983 | Residence | Knightsridge, Livingston, West Lothian, Scotland | [10](#10) | 
-2/May/1983 | Birth of son | X born to X and [Linda Margaret Campbell](./@i76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) in Bangour, West Lothian, Scotland. | [10](#10) | 
-1985 | Residence | 24 Almond Road, Blackburn, West Lothian, Scotland | [9](#9) | 
-19/Mar/1985 | Birth of son | X born to X and [Linda Margaret Campbell](./@i76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) in Bangour, West Lothian, Scotland. | [9](#9) | 
-bet' 2004 and 2016 | Death of father | [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) died. | [11](#11) | [12](#12)
-3/Apr/2004 | Death of mother | [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) died in Livingston, West Lothian, Scotland. | [13](#13), [14](#14), [11](#11) | 
-before 2012 | Occupation | Proprietor Childrens Nursery | [15](#15), [16](#16), [11](#11) | 
-2012 | Residence | Livingston, West Lothian, Scotland | [15](#15) | 
-2016 | Residence | Livingston, West Lothian, Scotland | [11](#11) | 
-28/Sep/2016 | Died | Died in Edinburgh, Scotland. | [2](#2), [11](#11) | 
+16/Oct/1961 | Born | Born to X and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, England. | [1](#1), [2](#2) | 
+21/Sep/1962 | Birth of brother | X born to [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, England. | [3](#3), [4](#4) | 
+calc'd 1966 | Residence | Glasgow, Scotland | [5](#5) | [6](#6)
+2/Apr/1966 | Birth of brother | X born to [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Glasgow, Scotland. | [7](#7) | 
+1968 | Residence | Livingston, West Lothian, Scotland | [5](#5) | 
+before 1969 | Divorce of parents | [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) ( - bet' 2004 and 2016) got divorced from [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) (26/Sep/1940 - 3/Apr/2004)  | [8](#8) | [9](#9)
+25/Jul/1969 | Married | Married to X in East Calder, Scotland | [8](#8) | 
+5/Sep/1969 | Birth of brother | X born to X and [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md). | [10](#10) | 
+1980 | Occupation | Factory Worker | [11](#11) | 
+6/Jun/1981 | Married | Married to X at Blackburn Parish Church | [12](#12), [5](#5) | 
+1983 | Residence | Knightsridge, Livingston, West Lothian, Scotland | [13](#13) | 
+2/May/1983 | Birth of son | X born to X and [Linda Margaret Campbell](./@i76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) in Bangour, West Lothian, Scotland. | [13](#13) | 
+1985 | Residence | 24 Almond Road, Blackburn, West Lothian, Scotland | [12](#12) | 
+19/Mar/1985 | Birth of son | X born to X and [Linda Margaret Campbell](./@i76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) in Bangour, West Lothian, Scotland. | [12](#12) | 
+bet' 2004 and 2016 | Death of father | [Norman Stead](./@i69808462@-norman-stead-b-d2004~2016.md) died. | [14](#14) | [15](#15)
+3/Apr/2004 | Death of mother | [Margaret Paton O'Malley](./@i46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) died in Livingston, West Lothian, Scotland. | [16](#16), [17](#17), [14](#14) | 
+before 2012 | Occupation | Proprietor Childrens Nursery | [18](#18), [19](#19), [14](#14) | 
+2012 | Residence | Livingston, West Lothian, Scotland | [18](#18) | 
+2016 | Residence | Livingston, West Lothian, Scotland | [14](#14) | 
+28/Sep/2016 | Died | Died in Edinburgh, Scotland. | [5](#5), [14](#14) | 
 
 ## Footnotes
 
 ### 1
+
+**1961 STEAD, LINDA M : England and Wales Birth Registration Index, 1837-2008**
+
+* [Full text and notes](../sources/@s17083797@-1961-stead,-linda-m-england-and-wales-birth-registration-index,-1837-2008.md)
+* Publication: England and Wales Birth Registration Index, 1837-2008
+
+### 2
 
 **2005 MATHEWS, LINDA MARGARET Passport**
 
@@ -63,7 +70,21 @@ before 2012 | Occupation | Proprietor Childrens Nursery | [15](#15), [16](#16), 
 * References: 
   * (Passport Number) 402191855
 
-### 2
+### 3
+
+**1962 X, X A - Birth Registration Index**
+
+* [Full text and notes](../sources/@s67289031@-1962-stead,-mark-a-birth-registration-index.md)
+* Publication: England and Wales Birth Registration Index, 1837-2008
+
+### 4
+
+**2020 X, X - Phone conversation notes**
+
+* [Full text and notes](../sources/@s87931250@-2020-campbell,-derek-phone-conversation-notes.md)
+* Date: 8/May/2020
+
+### 5
 
 **2016 X, LINDA (A Celebration of the Life of Linda X)**
 
@@ -71,7 +92,7 @@ before 2012 | Occupation | Proprietor Childrens Nursery | [15](#15), [16](#16), 
 * Date: 10/Oct/2016
 * Responsible Agency: Humanist Society of Scotland
 
-### 3
+### 6
 
 > Calculated as 1966. Celebration of Life by HSS, states:
 >
@@ -81,7 +102,7 @@ before 2012 | Occupation | Proprietor Childrens Nursery | [15](#15), [16](#16), 
 >
 
 
-### 4
+### 7
 
 **1966 X, X T O'M (Statutory Registers - Births) Index**
 
@@ -90,20 +111,20 @@ before 2012 | Occupation | Proprietor Childrens Nursery | [15](#15), [16](#16), 
 * References: 
   * 1966 B 644/3 528
 
-### 5
+### 8
 
 **1969 X, X (Extract of an entry in a REGISTER of MARRIAGES)**
 
 * [Full text and notes](../sources/@s5206190@-1969-campbell,-andrew-extract-of-an-entry-in-a-register-of-marriages-.md)
 * Responsible Agency: General Registers Office
 
-### 6
+### 9
 
 > Margaret's marriage to Andrew Campbell in 1969 states that she was divorced from Norman Stead - so it can be assumed this happened before or in 1969.
 >
 
 
-### 7
+### 10
 
 **1969 X, X - Facebook Profile, About, Contact and Basic Info**
 
@@ -111,13 +132,13 @@ before 2012 | Occupation | Proprietor Childrens Nursery | [15](#15), [16](#16), 
 * Publication: Facebook.com
 * Date: 26/May/2020
 
-### 8
+### 11
 
 **1980 CAMPBELL, LINDA MARGARET (deed - name change)**
 
 * [Full text and notes](../sources/@s82763576@-1980-campbell,-linda-margaret-deed-name-change-.md)
 
-### 9
+### 12
 
 **1985 X, X (Extract of an entry in the Register of Births)**
 
@@ -126,7 +147,7 @@ before 2012 | Occupation | Proprietor Childrens Nursery | [15](#15), [16](#16), 
 * References: 
   * 1985 B 708/86
 
-### 10
+### 13
 
 **1983 X, X (Extract of an Entry in a REGISTER of BIRTHS)**
 
@@ -135,7 +156,7 @@ before 2012 | Occupation | Proprietor Childrens Nursery | [15](#15), [16](#16), 
 * References: 
   * 1983 B 772/209
 
-### 11
+### 14
 
 **2016 X, LINDA MARGARET (Extract of an entry in a REGISTER of DEATHS)**
 
@@ -146,13 +167,13 @@ before 2012 | Occupation | Proprietor Childrens Nursery | [15](#15), [16](#16), 
 * References: 
   * 2016 D 773/14
 
-### 12
+### 15
 
 > Death entry for (former wife) Margaret Paton O'Malley does not mark Norman Stead as deceased in 2004, however death entry for (daughter) Linda Margaret Campbell does mark him as deceased in 2016. It is therefore possible that he died sometime between 2004 and 2016.
 >
 
 
-### 13
+### 16
 
 **2004 X, MARGARET PATON (Extract of an entry in a REGISTER of DEATHS)**
 
@@ -162,7 +183,7 @@ before 2012 | Occupation | Proprietor Childrens Nursery | [15](#15), [16](#16), 
 * References: 
   * 2004 D 772/107
 
-### 14
+### 17
 
 **2004 CAMPBELL, MARGARET PATON Index entry from Register of Deaths**
 
@@ -171,7 +192,7 @@ before 2012 | Occupation | Proprietor Childrens Nursery | [15](#15), [16](#16), 
 * References: 
   * 2004 D 772/107
 
-### 15
+### 18
 
 **2012 X, X - Statutory Registers of Civil Partnerships 601/19**
 
@@ -181,7 +202,7 @@ before 2012 | Occupation | Proprietor Childrens Nursery | [15](#15), [16](#16), 
 * References: 
   * 2012 CP 601/19
 
-### 16
+### 19
 
 **2015 X, X X Statutory Registeres Marriages 774/41**
 
@@ -197,3 +218,4 @@ before 2012 | Occupation | Proprietor Childrens Nursery | [15](#15), [16](#16), 
 - Indexes
   - [By family name](../index-by-family-name.md)
   - [Sources](../index-of-sources-by-title.md)
+- [Family Search Person Details](https://www.familysearch.org/tree/person/details/G7G5-JWJ)

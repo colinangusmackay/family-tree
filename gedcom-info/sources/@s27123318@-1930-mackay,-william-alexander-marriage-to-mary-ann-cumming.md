@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s27123318
 ---
 
-# Marriage 1930: William Alexander Mackay - Mary Ann Cumming
+# 1930 MACKAY, WILLIAM ALEXANDER - Marriage to Mary Ann Cumming
 
 Field | Detail
 ---:|:---

@@ -7,19 +7,19 @@
   "DateOfDeath": "before 2004",
   "Parents": [
     {
-      "Id": "i5211114",
-      "Name": "John Paton",
-      "Gender": "Male",
-      "Relationship": "father",
+      "Id": "i70248352",
+      "Name": "Jeanie McLeod",
+      "Gender": "Female",
+      "Relationship": "mother",
       "DateOfBirth": "before 1900",
       "DateOfDeath": "",
       "Parents": []
     },
     {
-      "Id": "i70248352",
-      "Name": "Jeanie McLeod",
-      "Gender": "Female",
-      "Relationship": "mother",
+      "Id": "i5211114",
+      "Name": "John Paton",
+      "Gender": "Male",
+      "Relationship": "father",
       "DateOfBirth": "before 1900",
       "DateOfDeath": "",
       "Parents": []

@@ -105,9 +105,9 @@ about 1935 | Occupation | Cement Finisher | [10](#10) |
 
 ### 5
 
-**Marriage 1930: William Alexander Mackay - Mary Ann Cumming**
+**1930 MACKAY, WILLIAM ALEXANDER - Marriage to Mary Ann Cumming**
 
-* [Full text and notes](../sources/@s27123318@-marriage-1930-william-alexander-mackay-mary-ann-cumming.md)
+* [Full text and notes](../sources/@s27123318@-1930-mackay,-william-alexander-marriage-to-mary-ann-cumming.md)
 * Publication: Ontario, Canada, Marriages, 1826-1937
 * References: 
   * 002154
@@ -165,9 +165,9 @@ about 1935 | Occupation | Cement Finisher | [10](#10) |
 
 ### 12
 
-**Isabella Gilchrist (née Mackay) - Memorial Service programme**
+**2019 GILCHRIST, ISABELLA (née Mackay) - Memorial Service programme**
 
-* [Full text and notes](../sources/@s53514060@-isabella-gilchrist-née-mackay-memorial-service-programme.md)
+* [Full text and notes](../sources/@s53514060@-2019-gilchrist,-isabella-née-mackay-memorial-service-programme.md)
 * Date: 27/Dec/2019
 
 ### 13

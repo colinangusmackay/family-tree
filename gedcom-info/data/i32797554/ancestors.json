@@ -7,19 +7,19 @@
   "DateOfDeath": "",
   "Parents": [
     {
-      "Id": "i30341840",
+      "Id": "i20237816",
       "Name": "X",
-      "Gender": "Male",
-      "Relationship": "father",
+      "Gender": "Female",
+      "Relationship": "mother",
       "DateOfBirth": "",
       "DateOfDeath": "",
       "Parents": []
     },
     {
-      "Id": "i20237816",
+      "Id": "i30341840",
       "Name": "X",
-      "Gender": "Female",
-      "Relationship": "mother",
+      "Gender": "Male",
+      "Relationship": "father",
       "DateOfBirth": "",
       "DateOfDeath": "",
       "Parents": []

@@ -7,6 +7,15 @@
   "DateOfDeath": "",
   "Parents": [
     {
+      "Id": "i26104572",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "8/Dec/1881",
+      "Parents": []
+    },
+    {
       "Id": "i61428726",
       "Name": "Kenneth Fraser",
       "Gender": "Male",
@@ -15,15 +24,6 @@
       "DateOfDeath": "19/Jan/1883",
       "Parents": [
         {
-          "Id": "i79545968",
-          "Name": "Thomas Fraser",
-          "Gender": "Male",
-          "Relationship": "father",
-          "DateOfBirth": "before 1788",
-          "DateOfDeath": "",
-          "Parents": []
-        },
-        {
           "Id": "i56151384",
           "Name": "Marion Mackay",
           "Gender": "Female",
@@ -31,17 +31,17 @@
           "DateOfBirth": "before 1788",
           "DateOfDeath": "",
           "Parents": []
+        },
+        {
+          "Id": "i79545968",
+          "Name": "Thomas Fraser",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "before 1788",
+          "DateOfDeath": "",
+          "Parents": []
         }
       ]
-    },
-    {
-      "Id": "i26104572",
-      "Name": "Isabella Mackay",
-      "Gender": "Female",
-      "Relationship": "mother",
-      "DateOfBirth": "",
-      "DateOfDeath": "8/Dec/1881",
-      "Parents": []
     }
   ]
 }
