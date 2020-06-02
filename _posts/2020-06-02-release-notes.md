@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Release Notes 2nd June 2020
-date: 2020-06-02 11:48 +0100
+date: 2020-06-02 13:55 +0100
 category: release-notes
 tags:
   - software changes
@@ -15,6 +15,7 @@ tags:
 # Site changes
 
 * Added [a page linking to source data]({{ site.baseurl }}/source-data-sets) sets.
+* Hamburger menu styling fixed.
 
 # Data changes by Name
 

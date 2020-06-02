@@ -83,8 +83,16 @@
     &:not(:last-child) {
       margin-right: 0;
     }
+
+    .menu {
+      display: inline;
+    }
+  
   }
 
+  .page-link-divider{
+    display: none;
+  }
   @media screen and (min-width: $on-medium) {
     position: static;
     float: right;
@@ -108,6 +116,15 @@
       padding: 0;
 
       margin-left: auto;
+
+      .menu {
+        display: none;
+      }
+
+    }
+
+    .page-link-divider{
+      display: inline;
     }
   }
 }
