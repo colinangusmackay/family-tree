@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-permalink: /indexes/by-person-family-name
+permalink: /indexes/by-family-name
 ---
 
 # Index - By Family Name

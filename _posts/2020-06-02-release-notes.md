@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Release Notes 2nd June 2020
-date: 2020-06-02 13:55 +0100
+date: 2020-06-02 17:30 +0100
 category: release-notes
 tags:
   - software changes
@@ -11,11 +11,13 @@ tags:
 # Software changes
 
 * When outputting the data files the ordering of people should remain the same on each run so when storing in source control it is easier to detect genuine changes rather than re-ordering.
+* Generate an index by place of birth.
 
 # Site changes
 
 * Added [a page linking to source data]({{ site.baseurl }}/source-data-sets) sets.
 * Hamburger menu styling fixed.
+* Hamburger menu always on. Was only used in narrow displays.
 
 # Data changes by Name
 

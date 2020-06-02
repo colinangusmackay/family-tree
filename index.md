@@ -30,6 +30,7 @@ At the bottom of each page there are contact links. You can either [contact me v
 Here are some starting points:
 * [Index of people by family name](gedcom-info/index-by-family-name.md). Note: this is by birth name.
 * [Index of people by date of birth](gedcom-info/index-by-date-of-birth.md).
+* [Index of people by Birth location](gedcom-info/index-by-birth-location.md)
 * [Index of sources by title](gedcom-info/index-of-sources-by-title.md).
 
 There is also a [blog](blog.md) which contains various information about site changes and various articles and notes I've put together.
