@@ -30,12 +30,13 @@ At the bottom of each page there are contact links. You can either [contact me v
 Here are some starting points:
 * [Index of people by family name](gedcom-info/index-by-family-name.md). Note: this is by birth name.
 * [Index of people by date of birth](gedcom-info/index-by-date-of-birth.md).
-* [Index of people by Birth location](gedcom-info/index-by-birth-location.md)
+* [Index of people by Birth location](gedcom-info/index-by-birth-location.md).
+* [Index of people by Birth location](gedcom-info/index-by-death-location.md).
 * [Index of sources by title](gedcom-info/index-of-sources-by-title.md).
 
 There is also a [blog](blog.md) which contains various information about site changes and various articles and notes I've put together.
 
-All these links can be found at the top of each page too.
+All these links can be found in the hamburger menu at the top-right of each page too.
 
 ## The Geeky Bit
 
@@ -45,3 +46,5 @@ If you are interested in the software side of it. I am using:
 * [Stravaig Gedcom](https://github.com/Stravaig-Projects/Gedcom) - My own rendering software (a work in progress) written in C#.
 * [Jekyll](https://jekyllrb.com/) - A Ruby based transformer that generates this site.
 * [GitHub Pages](https://pages.github.com/) - To host this site.
+
+If you are interested in the data side. I have a [page of links to various source data sets](sources.md).

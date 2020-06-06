@@ -6,6 +6,7 @@ category: release-notes
 tags:
   - software changes
   - site changes
+  - mackay
 ---
 
 # Software changes
