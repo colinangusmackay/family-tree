@@ -28,10 +28,14 @@ At the bottom of each page there are contact links. You can either [contact me v
 ## The information
 
 Here are some starting points:
-* [Index of people by family name](gedcom-info/index-by-family-name.md). Note: this is by birth name.
-* [Index of people by date of birth](gedcom-info/index-by-date-of-birth.md).
-* [Index of people by Birth location](gedcom-info/index-by-birth-location.md).
-* [Index of people by Birth location](gedcom-info/index-by-death-location.md).
+* Index of people by
+  * [family name](gedcom-info/index-by-family-name.md). Note: this is by birth name.
+  * [date of birth](gedcom-info/index-by-date-of-birth.md).
+  * [birth location](gedcom-info/index-by-birth-location.md).
+  * [death location](gedcom-info/index-by-death-location.md).
+* Index of marriages by
+  * [date](gedcom-info/index-marriage-by-date.md).
+  * [family name](gedcom-info/index-marriage-by-name.md). Note: this is by birth name.
 * [Index of sources by title](gedcom-info/index-of-sources-by-title.md).
 
 There is also a [blog](blog.md) which contains various information about site changes and various articles and notes I've put together.
