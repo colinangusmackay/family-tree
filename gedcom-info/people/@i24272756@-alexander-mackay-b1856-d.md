@@ -26,6 +26,7 @@ about 1856 | Born | Born. | [1](#1) |
 **P092 - Embo -genealogy, Uncle Sandy's Story and a little history**
 
 * [Full text and notes](../sources/@s21490227@-p092-embo-genealogy,-uncle-sandy's-story-and-a-little-history.md)
+* Publication: Embo - genealogy, Uncle Sandy's Story and a little history
 * Originator / Author: Catriona Grigg
 * Date: 2016
 * Filed by Entry: EMBO/P092/F2.6.3

@@ -13,7 +13,7 @@ permalink: /people/i66384942
 * Father: [Donald Cumming](./@i45726416@-donald-cumming-b1806-d.md) (1806 - )
 * Mother: [Kate MacDonald](./@i28255030@-kate-macdonald-b1807-d.md) (1807 - )
 * Brother: [Alexander Cumming](./@i7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
-* Brother: [Adam Cumming](./@i55409960@-adam-cumming-b1844-d.md) (1844 - )
+* Brother: [Adam Cumming](./@i55409960@-adam-cumming-b1841~1849-d.md) (bet' 1841 and 1849 - )
 * Son: [Donald Cumming](./@i20465544@-donald-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
 * Daughter: [Marion Cumming](./@i59851647@-marion-cumming-b1863-5-20-d1954-11-15.md) (20/May/1863 - 15/Nov/1954)
 * Son: [Alexander Cumming](./@i7306221@-alexander-cumming-b1865-d1884-5-7.md) (about 1865 - 7/May/1884)

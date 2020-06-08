@@ -8,20 +8,20 @@
   },
   "Parents": [
     {
-      "Id": "i74868546",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "mother"
-    },
-    {
       "Id": "i55409960",
       "Name": "Adam Cumming",
       "Gender": "Male",
-      "DateOfBirth": "1844",
+      "DateOfBirth": "bet' 1841 and 1849",
       "DateOfDeath": "",
       "RelationToSubject": "father"
+    },
+    {
+      "Id": "i74868546",
+      "Name": "Ann Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "5/Nov/1855",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
     }
   ],
   "Siblings": [

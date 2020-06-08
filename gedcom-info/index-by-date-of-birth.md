@@ -27,6 +27,8 @@ permalink: /indexes/by-date-of-birth
 
 * **Born in 1800.**
   * **[Fraser, Kenneth](people/@i61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
+* **Born in 1805.**
+  * **[Mackay, George](people/@i33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
 * **Born in 1806.**
   * **[Cumming, Donald](people/@i45726416@-donald-cumming-b1806-d.md)** (1806 - )
 * **Born in 1807.**
@@ -34,8 +36,10 @@ permalink: /indexes/by-date-of-birth
 
 ### 1810s
 
-* **Born in 1816.**
-  * **[Mackay, George](people/@i33764614@-george-mackay-b1816-d1893-11-25.md)** (1816 - 25/Nov/1893)
+* **Born in 1813.**
+  * **[Matheson, Lucy](people/@i67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
+* **Born in 1815.**
+  * **[Mackay, Kenneth](people/@i21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - )
 
 ### 1830s
 
@@ -53,30 +57,33 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1840.**
   * **[Mackay, Janet or Jessie](people/@i42213240@-janet-or-jessie-mackay-b1840-d.md)** (1840 - )
 * **Born in 1841.**
+  * **[Cumming, Adam](people/@i55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - )
   * **[Mackay, John](people/@i58430005@-john-mackay-b1841-2-18-d.md)** (18/Feb/1841 - )
 * **Born in 1843.**
-  * **[Mackay, William](people/@i99871003@-william-mackay-b1843-d.md)** (1843 - )
+  * **[Mackay, William](people/@i99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
 * **Born in 1844.**
-  * **[Cumming, Adam](people/@i55409960@-adam-cumming-b1844-d.md)** (1844 - )
-  * **[Mackay, Alexander](people/@i2381836@-alexander-mackay-b1844-d.md)** (1844 - )
+  * **[Mackay, Alexander](people/@i2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - )
 * **Born in 1846.**
   * **[Mackay, David](people/@i46263680@-david-mackay-b1846-d1860.md)** (1846 - 1860)
 * **Born in 1849.**
-  * **[Mackay, Catherine](people/@i26872816@-catherine-mackay-b1849-d.md)** (1849 - )
+  * **[Grant, Cate](people/@i89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
+  * **[Mackay, Barbara](people/@i52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - )
+  * **[Mackay, Catherine](people/@i26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - )
 
 ### 1850s
 
 * **Born in 1850.**
-  * **[Mackay, Alexander](people/@i25433155@-alexander-mackay-b1850-d.md)** (1850 - )
-* **Born in 1854.**
-  * **[Mackay, Barbara](people/@i52409786@-barbara-mackay-b1854-d.md)** (1854 - )
+  * **[Mackay, Alexander](people/@i25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
 * **Born in 1855.**
-  * **[Mackay, Donald](people/@i32633938@-donald-mackay-b1855-d.md)** (1855 - )
+  * **[, Betsy](people/@i49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - )
+  * **[Mackay, Donald](people/@i32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
+  * **[Mackay, Ann](people/@i74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - )
 * **Born in 1856.**
   * **[Mackay, Alexander](people/@i24272756@-alexander-mackay-b1856-d.md)** (about 1856 - )
+* **Born in 1858.**
+  * **[Mackay, Ann](people/@i85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
 * **Born in 1859.**
-  * **[Mackay, James](people/@i60572122@-james-mackay-b1859-d.md)** (1859 - )
-  * **[Mackay, Jane or Jean](people/@i4172390@-jane-or-jean-mackay-b1859-d.md)** (1859 - )
+  * **[Mackay, Jane or Jean](people/@i4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - )
 
 ### 1860s
 
@@ -84,14 +91,17 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Isabella](people/@i32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - )
 * **Born in 1861.**
   * **[Cumming, Donald](people/@i20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - )
+  * **[Mackay, James](people/@i60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - )
 * **Born in 1863.**
   * **[Cumming, Marion](people/@i59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
+* **Born in 1864.**
+  * **[Mackay, John](people/@i15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - )
 * **Born in 1865.**
   * **[Cumming, Alexander](people/@i7306221@-alexander-cumming-b1865-d1884-5-7.md)** (about 1865 - 7/May/1884)
   * **[Fraser, Ann](people/@i70425788@-ann-fraser-b1865-d.md)** (before 1865 - )
   * **[Grant, Christy](people/@i94200830@-christy-grant-b1865-d.md)** (before 1865 - )
 * **Born in 1866.**
-  * **[Janet /Mackay, JessieJanet Mackay](people/@i76315420@-jessiejanet-mackay-b1866-d.md)** (1866 - )
+  * **[Mackay, Jessie or Janet](people/@i76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - )
 * **Born in 1867.**
   * **[Cumming, Kenneth](people/@i14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
 
@@ -179,8 +189,8 @@ permalink: /indexes/by-date-of-birth
   * **[McTurk, XXXX](people/@i54145218@-xxxx-mcturk-b1904-d.md)** (before 1904 - )
   * **[Cumming, Christine](people/@i24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 * **Born in 1905.**
-  * **[Janet /Ross, JohanJanet Ross](people/@i18017632@-johanjanet-ross-b1905-d.md)** (1905 - )
   * **[Ramsay, Jack](people/@i55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
+  * **[Ross, Johan or Janet](people/@i18017632@-johan-or-janet-ross-b1905-d.md)** (1905 - )
 * **Born in 1906.**
   * **[Cumming, Donald John](people/@i22331378@-donald-john-cumming-b1906-11-29-d.md)** (29/Nov/1906 - )
 * **Born in 1907.**
@@ -250,6 +260,8 @@ permalink: /indexes/by-date-of-birth
 
 ## Unknown Date of Birth
 
+* [Barbara Mackay](people/@i61459684@-barbara-mackay-b-d1896.md) ( - before 1896)
 * [Isabella Mackay](people/@i26104572@-isabella-mackay-b-d1881-12-8.md) ( - 8/Dec/1881)
+* [Hector Matheson](people/@i28800527@-hector-matheson-b-d1896.md) ( - before 1896)
 * [Elizabeth McIver](people/@i80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
 * [Norman Stead](people/@i69808462@-norman-stead-b-d2004~2016.md) ( - bet' 2004 and 2016)

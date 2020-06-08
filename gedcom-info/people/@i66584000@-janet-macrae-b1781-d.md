@@ -15,7 +15,7 @@ permalink: /people/i66584000
 ## Immediate Family
 
 * Husband: [William Mackay](./@i69114879@-william-mackay-b1781-d1841.md) (1781 - 1841)
-* Son: [George Mackay](./@i33764614@-george-mackay-b1816-d1893-11-25.md) (1816 - 25/Nov/1893)
+* Son: [George Mackay](./@i33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
 
 ## Timeline
 

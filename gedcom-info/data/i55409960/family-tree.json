@@ -3,7 +3,7 @@
     "Id": "i55409960",
     "Name": "Adam Cumming",
     "Gender": "Male",
-    "DateOfBirth": "1844",
+    "DateOfBirth": "bet' 1841 and 1849",
     "DateOfDeath": ""
   },
   "Parents": [
@@ -57,7 +57,7 @@
       "Id": "i55409960",
       "Name": "Adam Cumming",
       "Gender": "Male",
-      "DateOfBirth": "1844",
+      "DateOfBirth": "bet' 1841 and 1849",
       "DateOfDeath": "",
       "RelationToSubject": "self",
       "ParentGroupIds": [
@@ -71,9 +71,9 @@
   "Spouses": [
     {
       "Id": "i74868546",
-      "Name": "X",
+      "Name": "Ann Mackay",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "5/Nov/1855",
       "DateOfDeath": "",
       "RelationToSubject": "wife",
       "DateOfMarriage": "17/Oct/1876",

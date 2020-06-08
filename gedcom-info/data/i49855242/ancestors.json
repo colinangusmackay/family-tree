@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i49855242",
+  "Name": "Betsy",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "bet' 1855 and 1856",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i19799810",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i27357972",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

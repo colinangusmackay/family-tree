@@ -8,20 +8,20 @@
   },
   "Parents": [
     {
-      "Id": "i60572122",
-      "Name": "James Mackay",
-      "Gender": "Male",
-      "DateOfBirth": "1859",
-      "DateOfDeath": "",
-      "RelationToSubject": "father"
-    },
-    {
       "Id": "i32797554",
       "Name": "Isabella Mackay",
       "Gender": "Female",
       "DateOfBirth": "7/Aug/1860",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i60572122",
+      "Name": "James Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "12/Apr/1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
     }
   ],
   "Siblings": [

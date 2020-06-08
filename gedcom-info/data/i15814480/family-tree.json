@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i15814480",
+    "Name": "John Mackay",
+    "Gender": "Male",
+    "DateOfBirth": "bet' 1864 and 1865",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i15814480",
+      "Name": "John Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "bet' 1864 and 1865",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i4172390",
+      "Name": "Jane or Jean Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 1859 and 1863",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "24/Mar/1892",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

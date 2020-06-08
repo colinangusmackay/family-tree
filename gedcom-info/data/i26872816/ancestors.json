@@ -3,24 +3,15 @@
   "Name": "Catherine Mackay",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "1849",
+  "DateOfBirth": "bet' 1849 and 1856",
   "DateOfDeath": "",
   "Parents": [
-    {
-      "Id": "i67811996",
-      "Name": "X",
-      "Gender": "Female",
-      "Relationship": "mother",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Parents": []
-    },
     {
       "Id": "i33764614",
       "Name": "George Mackay",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "1816",
+      "DateOfBirth": "bet' 1805 and 1816",
       "DateOfDeath": "25/Nov/1893",
       "Parents": [
         {
@@ -39,6 +30,34 @@
           "Relationship": "father",
           "DateOfBirth": "1781",
           "DateOfDeath": "1841",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i67811996",
+      "Name": "Lucy Matheson",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "bet' 1813 and 1820",
+      "DateOfDeath": "23/Aug/1896",
+      "Parents": [
+        {
+          "Id": "i61459684",
+          "Name": "Barbara Mackay",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1896",
+          "Parents": []
+        },
+        {
+          "Id": "i28800527",
+          "Name": "Hector Matheson",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1896",
           "Parents": []
         }
       ]

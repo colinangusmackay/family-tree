@@ -16,7 +16,7 @@ permalink: /people/i32797554
 
 * Father: X
 * Mother: X
-* Husband: [James Mackay](./@i60572122@-james-mackay-b1859-d.md) (1859 - )
+* Husband: [James Mackay](./@i60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
 * Daughter: [Lucy Mackay](./@i16587624@-lucy-mackay-b1889-9-23-d.md) (23/Sep/1889 - )
 * Son: [George Mackay](./@i72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
 * Daughter: [Janet Mackay](./@i22499038@-janet-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
@@ -30,7 +30,8 @@ permalink: /people/i32797554
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-7/Aug/1860 | Born | Born to X and X in Embo, Sutherland, Scotland. | [1](#1) | 
+7/Aug/1860 | Born | Born to X and X in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+1888 | Residence | Embo, Sutherland, Scotland | [2](#2) | 
 
 ## Footnotes
 
@@ -39,6 +40,15 @@ Date | Item | Description | Sources | Notes
 **1860 X, ISABELLA Statutory registers Births 047/41**
 
 * Responsible Agency: National Records of Scotland
+
+### 2
+
+**1984 TULLOCH, BARRIE M - Letter from Registrar in Brora**
+
+* [Full text and notes](../sources/@s94133243@-1984-tulloch,-barrie-m-letter-from-registrar-in-brora.md)
+* Originator / Author: John MacLennan
+* Date: 19/Jul/1984
+* Responsible Agency: Highland Regional Council
 
 
 ## See also

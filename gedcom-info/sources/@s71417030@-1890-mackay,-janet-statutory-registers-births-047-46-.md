@@ -43,5 +43,5 @@ References | 1890-B-047/46
 
 ## Source Referenced by
 
-* [James Mackay](../people/@i60572122@-james-mackay-b1859-d.md) (1859 - )
+* [James Mackay](../people/@i60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
 * [Janet Mackay](../people/@i22499038@-janet-mackay-b1890-11-12-d.md) (12/Nov/1890 - )

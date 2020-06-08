@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i61459684",
+    "Name": "Barbara Mackay",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1896"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i61459684",
+      "Name": "Barbara Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1896",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i28800527",
+      "Name": "Hector Matheson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1896",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i67811996",
+      "Name": "Lucy Matheson",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 1813 and 1820",
+      "DateOfDeath": "23/Aug/1896",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i28800527",
+        "i61459684"
+      ]
+    }
+  ]
+}

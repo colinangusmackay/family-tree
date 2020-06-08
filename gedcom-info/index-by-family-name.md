@@ -5,6 +5,10 @@ permalink: /indexes/by-family-name
 
 # Index - By Family Name
 
+## ???
+
+- **[Betsy](people/@i49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - )
+
 ## Byrne
 
 - **[Kevin James Byrne](people/@i35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
@@ -21,7 +25,7 @@ permalink: /indexes/by-family-name
 
 ## Cumming
 
-- **[Adam Cumming](people/@i55409960@-adam-cumming-b1844-d.md)** (1844 - )
+- **[Adam Cumming](people/@i55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - )
 - **[Alexander Cumming](people/@i1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
 - **[Alexander Cumming](people/@i7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
 - **[Alexander Cumming](people/@i7306221@-alexander-cumming-b1865-d1884-5-7.md)** (about 1865 - 7/May/1884)
@@ -63,16 +67,9 @@ permalink: /indexes/by-family-name
 
 ## Grant
 
+- **[Cate Grant](people/@i89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
 - **[Christy Grant](people/@i94200830@-christy-grant-b1865-d.md)** (before 1865 - )
 - **[Margaret Grant](people/@i39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
-
-## Janet /Mackay
-
-- **[JessieJanet Mackay](people/@i76315420@-jessiejanet-mackay-b1866-d.md)** (1866 - )
-
-## Janet /Ross
-
-- **[JohanJanet Ross](people/@i18017632@-johanjanet-ross-b1905-d.md)** (1905 - )
 
 ## MacDonald
 
@@ -80,41 +77,52 @@ permalink: /indexes/by-family-name
 
 ## Mackay
 
-- **[Alexander Mackay](people/@i2381836@-alexander-mackay-b1844-d.md)** (1844 - )
-- **[Alexander Mackay](people/@i25433155@-alexander-mackay-b1850-d.md)** (1850 - )
+- **[Alexander Mackay](people/@i2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - )
+- **[Alexander Mackay](people/@i25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
 - **[Alexander Mackay](people/@i24272756@-alexander-mackay-b1856-d.md)** (about 1856 - )
 - **[Alexina Mackay](people/@i75066880@-alexina-mackay-b1935-1-11-d1935.md)** (11/Jan/1935 - 1935)
+- **[Ann Mackay](people/@i74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - )
+- **[Ann Mackay](people/@i85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
 - **[Annie Mackay](people/@i51252926@-annie-mackay-b1893-d1918.md)** (about 1893 - 1918)
-- **[Barbara Mackay](people/@i52409786@-barbara-mackay-b1854-d.md)** (1854 - )
-- **[Catherine Mackay](people/@i26872816@-catherine-mackay-b1849-d.md)** (1849 - )
+- **[Barbara Mackay](people/@i61459684@-barbara-mackay-b-d1896.md)** ( - before 1896)
+- **[Barbara Mackay](people/@i52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - )
+- **[Catherine Mackay](people/@i26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - )
 - **[David Mackay](people/@i46263680@-david-mackay-b1846-d1860.md)** (1846 - 1860)
 - **[Donald James Mackay](people/@i43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
-- **[Donald Mackay](people/@i32633938@-donald-mackay-b1855-d.md)** (1855 - )
+- **[Donald Mackay](people/@i32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
 - **[Donald Mackay](people/@i58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939)
-- **[George Mackay](people/@i33764614@-george-mackay-b1816-d1893-11-25.md)** (1816 - 25/Nov/1893)
+- **[George Mackay](people/@i33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
 - **[George Mackay](people/@i72941728@-george-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
 - **[Isabella Mackay](people/@i26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881)
 - **[Isabella Mackay](people/@i41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
 - **[Isabella Mackay](people/@i32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - )
 - **[Isabella Mackay](people/@i25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019)
-- **[James Mackay](people/@i60572122@-james-mackay-b1859-d.md)** (1859 - )
-- **[Jane or Jean Mackay](people/@i4172390@-jane-or-jean-mackay-b1859-d.md)** (1859 - )
+- **[James Mackay](people/@i60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - )
+- **[Jane or Jean Mackay](people/@i4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - )
 - **[Janet Mackay](people/@i22499038@-janet-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
 - **[Janet or Jessie Mackay](people/@i42213240@-janet-or-jessie-mackay-b1840-d.md)** (1840 - )
 - **[Jessie Mackay](people/@i32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932)
+- **[Jessie or Janet Mackay](people/@i76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - )
 - **[John Mackay](people/@i58430005@-john-mackay-b1841-2-18-d.md)** (18/Feb/1841 - )
+- **[John Mackay](people/@i15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - )
 - **[John Paul Mackay](people/@i57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969)
+- **[Kenneth Mackay](people/@i21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - )
 - **[Kenneth Mackay](people/@i48909111@-kenneth-mackay-b1895-d.md)** (about 1895 - )
 - **[Lucy Mackay](people/@i16587624@-lucy-mackay-b1889-9-23-d.md)** (23/Sep/1889 - )
 - **[Margaret Moyes Mackay](people/@i178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
 - **[Marion Mackay](people/@i56151384@-marion-mackay-b1788-d.md)** (before 1788 - )
 - **[William Alexander Mackay](people/@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
 - **[William Mackay](people/@i69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
-- **[William Mackay](people/@i99871003@-william-mackay-b1843-d.md)** (1843 - )
+- **[William Mackay](people/@i99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
 
 ## Macrae
 
 - **[Janet Macrae](people/@i66584000@-janet-macrae-b1781-d.md)** (1781 - )
+
+## Matheson
+
+- **[Hector Matheson](people/@i28800527@-hector-matheson-b-d1896.md)** ( - before 1896)
+- **[Lucy Matheson](people/@i67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
 
 ## Mathews
 
@@ -175,6 +183,7 @@ permalink: /indexes/by-family-name
 - **[Alexander Ross](people/@i52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
 - **[Christina Ross](people/@i10478196@-christina-ross-b1893-d.md)** (1893 - )
 - **[Jeanie Ross](people/@i71751658@-jeanie-ross-b1907-d.md)** (1907 - )
+- **[Johan or Janet Ross](people/@i18017632@-johan-or-janet-ross-b1905-d.md)** (1905 - )
 - **[John Ross](people/@i75057664@-john-ross-b1889-11-19-d.md)** (19/Nov/1889 - )
 - **[John Ross](people/@i35298145@-john-ross-b1899-d.md)** (1899 - )
 - **[Peter Ross](people/@i67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )

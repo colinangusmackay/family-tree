@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i89641618",
+    "Name": "Cate Grant",
+    "Gender": "Female",
+    "DateOfBirth": "bet' 1849 and 1851",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i89641618",
+      "Name": "Cate Grant",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 1849 and 1851",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i99871003",
+      "Name": "William Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "bet' 1843 and 1846",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "7/Nov/1876",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

@@ -3,7 +3,7 @@
     "Id": "i33764614",
     "Name": "George Mackay",
     "Gender": "Male",
-    "DateOfBirth": "1816",
+    "DateOfBirth": "bet' 1805 and 1816",
     "DateOfDeath": "25/Nov/1893"
   },
   "Parents": [
@@ -29,7 +29,7 @@
       "Id": "i33764614",
       "Name": "George Mackay",
       "Gender": "Male",
-      "DateOfBirth": "1816",
+      "DateOfBirth": "bet' 1805 and 1816",
       "DateOfDeath": "25/Nov/1893",
       "RelationToSubject": "self",
       "ParentGroupIds": [
@@ -43,28 +43,16 @@
   "Spouses": [
     {
       "Id": "i67811996",
-      "Name": "X",
+      "Name": "Lucy Matheson",
       "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
+      "DateOfBirth": "bet' 1813 and 1820",
+      "DateOfDeath": "23/Aug/1896",
       "RelationToSubject": "wife",
-      "DateOfMarriage": "12/Oct/1838",
+      "DateOfMarriage": "16/Oct/1840",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
-    {
-      "Id": "i74868546",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i33764614",
-        "i67811996"
-      ]
-    },
     {
       "Id": "i42213240",
       "Name": "Janet or Jessie Mackay",
@@ -93,7 +81,7 @@
       "Id": "i99871003",
       "Name": "William Mackay",
       "Gender": "Male",
-      "DateOfBirth": "1843",
+      "DateOfBirth": "bet' 1843 and 1846",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [
@@ -105,7 +93,7 @@
       "Id": "i2381836",
       "Name": "Alexander Mackay",
       "Gender": "Male",
-      "DateOfBirth": "1844",
+      "DateOfBirth": "bet' 1844 and 1849",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [
@@ -126,10 +114,10 @@
       ]
     },
     {
-      "Id": "i26872816",
-      "Name": "Catherine Mackay",
+      "Id": "i52409786",
+      "Name": "Barbara Mackay",
       "Gender": "Female",
-      "DateOfBirth": "1849",
+      "DateOfBirth": "bet' 1849 and 1854",
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
       "ParentIds": [
@@ -138,10 +126,10 @@
       ]
     },
     {
-      "Id": "i52409786",
-      "Name": "Barbara Mackay",
+      "Id": "i26872816",
+      "Name": "Catherine Mackay",
       "Gender": "Female",
-      "DateOfBirth": "1854",
+      "DateOfBirth": "bet' 1849 and 1856",
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
       "ParentIds": [
@@ -153,7 +141,7 @@
       "Id": "i32633938",
       "Name": "Donald Mackay",
       "Gender": "Male",
-      "DateOfBirth": "1855",
+      "DateOfBirth": "about 1855",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [
@@ -162,12 +150,12 @@
       ]
     },
     {
-      "Id": "i60572122",
-      "Name": "James Mackay",
-      "Gender": "Male",
-      "DateOfBirth": "1859",
+      "Id": "i74868546",
+      "Name": "Ann Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "5/Nov/1855",
       "DateOfDeath": "",
-      "RelationToSubject": "son",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i33764614",
         "i67811996"
@@ -177,9 +165,21 @@
       "Id": "i4172390",
       "Name": "Jane or Jean Mackay",
       "Gender": "Female",
-      "DateOfBirth": "1859",
+      "DateOfBirth": "bet' 1859 and 1863",
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i33764614",
+        "i67811996"
+      ]
+    },
+    {
+      "Id": "i60572122",
+      "Name": "James Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "12/Apr/1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
       "ParentIds": [
         "i33764614",
         "i67811996"

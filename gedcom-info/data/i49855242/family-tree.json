@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i49855242",
+    "Name": "Betsy",
+    "Gender": "Female",
+    "DateOfBirth": "bet' 1855 and 1856",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i27357972",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i19799810",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i49855242",
+      "Name": "Betsy",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 1855 and 1856",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i19799810",
+          "i27357972"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i32633938",
+      "Name": "Donald Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1855",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "1/Dec/1881",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

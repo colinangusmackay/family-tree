@@ -9,8 +9,8 @@ permalink: /people/i48909111
 
 ## Immediate Family
 
-* Father: [James Mackay](./@i60572122@-james-mackay-b1859-d.md) (1859 - )
 * Mother: [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
+* Father: [James Mackay](./@i60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
 * Sister: [Lucy Mackay](./@i16587624@-lucy-mackay-b1889-9-23-d.md) (23/Sep/1889 - )
 * Brother: [George Mackay](./@i72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
 * Sister: [Janet Mackay](./@i22499038@-janet-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
@@ -23,7 +23,7 @@ permalink: /people/i48909111
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1895 | Born | Born to [James Mackay](./@i60572122@-james-mackay-b1859-d.md) and [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md). | [1](#1) | [2](#2)
+about 1895 | Born | Born to [James Mackay](./@i60572122@-james-mackay-b1861-4-12-d.md) and [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md). | [1](#1) | [2](#2)
 
 ## Footnotes
 
@@ -47,7 +47,7 @@ about 1895 | Born | Born to [James Mackay](./@i60572122@-james-mackay-b1859-d.md
 
 - People Mentioned
   - [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
-  - [James Mackay](./@i60572122@-james-mackay-b1859-d.md) (1859 - )
+  - [James Mackay](./@i60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
 - Indexes
   - [By family name](../index-by-family-name.md)
   - [Sources](../index-of-sources-by-title.md)

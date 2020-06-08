@@ -15,8 +15,8 @@ permalink: /people/i178005
 
 ## Immediate Family
 
-* Father: [James Mackay](./@i60572122@-james-mackay-b1859-d.md) (1859 - )
 * Mother: [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
+* Father: [James Mackay](./@i60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
 * Husband: [Kenneth Fraser](./@i91376191@-kenneth-fraser-b1877-10-19-d.md) (19/Oct/1877 - )
 * Sister: [Lucy Mackay](./@i16587624@-lucy-mackay-b1889-9-23-d.md) (23/Sep/1889 - )
 * Brother: [George Mackay](./@i72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
@@ -31,7 +31,7 @@ permalink: /people/i178005
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-27/Jun/1901 | Born | Born to [James Mackay](./@i60572122@-james-mackay-b1859-d.md) and [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+27/Jun/1901 | Born | Born to [James Mackay](./@i60572122@-james-mackay-b1861-4-12-d.md) and [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
 1918 | Death of sister | [Annie Mackay](./@i51252926@-annie-mackay-b1893-d1918.md) died. | [2](#2) | [3](#3)
 1934 | Residence | 6 Terrace Street, Embo, Sutherland, Scotland | [4](#4) | [5](#5)
 1934 | Occupation | Fishworker | [4](#4) | 
@@ -96,7 +96,12 @@ Date | Item | Description | Sources | Notes
 **P176 Embo - genealogy, Uncle Sandy's Story and a little history**
 
 * [Full text and notes](../sources/@s93618561@-p176-embo-genealogy,-uncle-sandy's-story-and-a-little-history.md)
+* Publication: Embo - genealogy, Uncle Sandy's Story and a little history
 * Originator / Author: Catriona Grigg
+* Date: 2016
+* Filed by Entry: EMBO/P176/Fr1.9
+* References: 
+  * (ISBN) 978-1-910205-49-5
 
 ### 7
 
@@ -124,7 +129,7 @@ Date | Item | Description | Sources | Notes
   - [Kenneth Fraser](./@i91376191@-kenneth-fraser-b1877-10-19-d.md) (19/Oct/1877 - )
   - [Annie Mackay](./@i51252926@-annie-mackay-b1893-d1918.md) (about 1893 - 1918)
   - [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
-  - [James Mackay](./@i60572122@-james-mackay-b1859-d.md) (1859 - )
+  - [James Mackay](./@i60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
   - [John Paul Mackay](./@i57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
   - [Margaret Moyes Mackay](./@i178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)
 - Indexes

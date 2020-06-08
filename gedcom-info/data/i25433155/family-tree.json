@@ -3,7 +3,7 @@
     "Id": "i25433155",
     "Name": "Alexander Mackay",
     "Gender": "Male",
-    "DateOfBirth": "1850",
+    "DateOfBirth": "about 1850",
     "DateOfDeath": ""
   },
   "Parents": [],
@@ -12,7 +12,7 @@
       "Id": "i25433155",
       "Name": "Alexander Mackay",
       "Gender": "Male",
-      "DateOfBirth": "1850",
+      "DateOfBirth": "about 1850",
       "DateOfDeath": "",
       "RelationToSubject": "self",
       "ParentGroupIds": []
@@ -23,7 +23,7 @@
       "Id": "i26872816",
       "Name": "Catherine Mackay",
       "Gender": "Female",
-      "DateOfBirth": "1849",
+      "DateOfBirth": "bet' 1849 and 1856",
       "DateOfDeath": "",
       "RelationToSubject": "wife",
       "DateOfMarriage": "21/Oct/1873",

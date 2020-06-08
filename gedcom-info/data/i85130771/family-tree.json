@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i85130771",
+    "Name": "Ann Mackay",
+    "Gender": "Female",
+    "DateOfBirth": "bet' 1858 and 1859",
+    "DateOfDeath": "14/Jun/1889"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i85130771",
+      "Name": "Ann Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 1858 and 1859",
+      "DateOfDeath": "14/Jun/1889",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i2381836",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "bet' 1844 and 1849",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "23/Oct/1877",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

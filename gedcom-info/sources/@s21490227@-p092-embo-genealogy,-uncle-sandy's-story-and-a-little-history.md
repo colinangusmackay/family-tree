@@ -7,7 +7,7 @@ permalink: /sources/s21490227
 
 Field | Detail
 ---:|:---
-Publication | 
+Publication | Embo - genealogy, Uncle Sandy's Story and a little history
 Originator / Author | Catriona Grigg
 Date | 2016
 Responsible Agency | 

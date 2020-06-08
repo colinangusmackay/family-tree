@@ -16,7 +16,7 @@ permalink: /people/i71751658
 * Brother: [William Ross](./@i21369571@-william-ross-b1897-d.md) (1897 - )
 * Brother: [John Ross](./@i35298145@-john-ross-b1899-d.md) (1899 - )
 * Brother: [Peter Ross](./@i67099773@-peter-ross-b1900-11-12-d.md) (12/Nov/1900 - )
-* Sister: [JohanJanet Ross](./@i18017632@-johanjanet-ross-b1905-d.md) (1905 - )
+* Sister: [Johan or Janet Ross](./@i18017632@-johan-or-janet-ross-b1905-d.md) (1905 - )
 * Brother: [Alexander Ross](./@i52064896@-alexander-ross-b1910-9-24-d.md) (24/Sep/1910 - )
 
 ## Timeline

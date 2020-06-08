@@ -15,8 +15,8 @@ permalink: /people/i9383584
 
 ## Immediate Family
 
-* Father: [James Mackay](./@i60572122@-james-mackay-b1859-d.md) (1859 - )
 * Mother: [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
+* Father: [James Mackay](./@i60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
 * Sister: [Lucy Mackay](./@i16587624@-lucy-mackay-b1889-9-23-d.md) (23/Sep/1889 - )
 * Brother: [George Mackay](./@i72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
 * Sister: [Janet Mackay](./@i22499038@-janet-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
@@ -37,8 +37,8 @@ permalink: /people/i9383584
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-24/Feb/1900 | Born | Born to [James Mackay](./@i60572122@-james-mackay-b1859-d.md) and [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
-27/Jun/1901 | Birth of sister | [Margaret Moyes Mackay](./@i178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) born to [James Mackay](./@i60572122@-james-mackay-b1859-d.md) and [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) in Embo, Sutherland, Scotland. | [3](#3), [2](#2) | 
+24/Feb/1900 | Born | Born to [James Mackay](./@i60572122@-james-mackay-b1861-4-12-d.md) and [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+27/Jun/1901 | Birth of sister | [Margaret Moyes Mackay](./@i178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) born to [James Mackay](./@i60572122@-james-mackay-b1861-4-12-d.md) and [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) in Embo, Sutherland, Scotland. | [3](#3), [2](#2) | 
 1918 | Death of sister | [Annie Mackay](./@i51252926@-annie-mackay-b1893-d1918.md) died. | [2](#2) | [4](#4)
 about 1930 | Occupation | Cement Finisher | [5](#5) | 
 21/Mar/1930 | Married | Married to [Mary Ann Cumming](./@i48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Toronto, York, Ontario, Canada | [5](#5), [2](#2), [6](#6) | 
@@ -216,7 +216,7 @@ about 1935 | Occupation | Cement Finisher | [10](#10) |
   - [Donald James Mackay](./@i43065376@-donald-james-mackay-b1931-d2011-12-29.md) (1931 - 29/Dec/2011)
   - [Isabella Mackay](./@i32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
   - [Isabella Mackay](./@i25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) (1/Jan/1936 - 18/Dec/2019)
-  - [James Mackay](./@i60572122@-james-mackay-b1859-d.md) (1859 - )
+  - [James Mackay](./@i60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
   - [John Paul Mackay](./@i57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
   - [Margaret Moyes Mackay](./@i178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)
   - [William Alexander Mackay](./@i9383584@-william-alexander-mackay-b1900-2-24-d1982.md) (24/Feb/1900 - 1982)

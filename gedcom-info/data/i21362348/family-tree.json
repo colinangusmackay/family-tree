@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i21362348",
+    "Name": "Kenneth Mackay",
+    "Gender": "Male",
+    "DateOfBirth": "calc'd 1815",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i21362348",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "calc'd 1815",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i52409786",
+      "Name": "Barbara Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 1849 and 1854",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "16/Nov/1869",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

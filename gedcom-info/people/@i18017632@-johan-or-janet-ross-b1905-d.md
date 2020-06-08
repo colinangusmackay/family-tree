@@ -4,7 +4,7 @@ subject_key: i18017632
 permalink: /people/i18017632
 ---
 
-# JohanJanet Ross
+# Johan or Janet Ross
 (1905 - ?)
 
 ## Immediate Family
