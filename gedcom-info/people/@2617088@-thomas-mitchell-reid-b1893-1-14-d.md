@@ -56,9 +56,3 @@ about 14/Jan/1893 | Born | Born in Wishaw, Lanarkshire, Scotland. | [1](#1), [2]
 >
 
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

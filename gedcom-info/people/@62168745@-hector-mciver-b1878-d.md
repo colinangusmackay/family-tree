@@ -24,8 +24,3 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1878 | Born | Born to X and X. |  | 
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)

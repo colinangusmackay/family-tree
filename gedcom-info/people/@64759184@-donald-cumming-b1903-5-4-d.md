@@ -26,11 +26,3 @@ Date | Item | Description | Sources | Notes
 
 * Responsible Agency: National Records of Scotland
 
-
-## See also
-
-- People Mentioned
-  - [Jessie or Janet Mackay](./@76315420@-jessie-or-janet-mackay-b1866-d.md) (1866 - )
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

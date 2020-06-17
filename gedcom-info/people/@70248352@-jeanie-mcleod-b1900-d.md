@@ -31,8 +31,3 @@ before 1900 | Born | Born. |  | [1](#1)
 >
 
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)

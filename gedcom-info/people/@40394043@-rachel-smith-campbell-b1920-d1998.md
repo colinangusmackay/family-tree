@@ -75,13 +75,3 @@ Date | Item | Description | Sources | Notes
 * References: 
   * 1998 D 389/40
 
-
-## See also
-
-- People Mentioned
-  - [Rachel Smith Campbell](./@40394043@-rachel-smith-campbell-b1920-d1998.md) (1920 - 1998)
-  - [XXXX Campbell](./@4716977@-xxxx-campbell-b1904-d.md) (before 1904 - )
-  - [XXXX McTurk](./@54145218@-xxxx-mcturk-b1904-d.md) (before 1904 - )
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

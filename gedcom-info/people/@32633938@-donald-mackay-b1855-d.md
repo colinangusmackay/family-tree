@@ -53,12 +53,3 @@ about 1855 | Born | Born to [George Mackay](./@33764614@-george-mackay-b1805~181
 * References: 
   * (ISBN) 978-1-910205-49-5
 
-
-## See also
-
-- People Mentioned
-  - [George Mackay](./@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
-  - [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

@@ -31,8 +31,3 @@ Date | Item | Description | Sources | Notes
 >
 
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)

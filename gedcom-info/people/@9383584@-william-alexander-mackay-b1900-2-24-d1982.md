@@ -41,7 +41,7 @@ Date | Item | Description | Sources | Notes
 27/Jun/1901 | Birth of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d.md) in Embo, Sutherland, Scotland. | [3](#3), [2](#2) | 
 1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1893-d1918.md) died. | [2](#2) | [4](#4)
 about 1930 | Occupation | Cement Finisher | [5](#5) | 
-21/Mar/1930 | Married | Married to [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Toronto, York, Ontario, Canada | [5](#5), [2](#2), [6](#6) | 
+21/Mar/1930 | Marriage | Married to [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Toronto, York, Ontario, Canada | [5](#5), [2](#2), [6](#6) | 
 before 31/Mar/1930 | Residence | 271 Springdale Blvd, Toronto, Ontario, Canada | [5](#5) | [7](#7)
 1931 | Birth of son | [Donald James Mackay](./@43065376@-donald-james-mackay-b1931-d2011-12-29.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md). | [2](#2) | 
 27/May/1932 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md). | [8](#8), [9](#9) | 
@@ -209,18 +209,4 @@ about 1935 | Occupation | Cement Finisher | [10](#10) |
 
 ## See also
 
-- People Mentioned
-  - [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
-  - [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) (11/Jan/1935 - 1935)
-  - [Annie Mackay](./@51252926@-annie-mackay-b1893-d1918.md) (about 1893 - 1918)
-  - [Donald James Mackay](./@43065376@-donald-james-mackay-b1931-d2011-12-29.md) (1931 - 29/Dec/2011)
-  - [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
-  - [Isabella Mackay](./@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) (1/Jan/1936 - 18/Dec/2019)
-  - [James Mackay](./@60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
-  - [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
-  - [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)
-  - [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) (24/Feb/1900 - 1982)
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)
 - [Family Search Person Details](https://www.familysearch.org/tree/person/details/M3WZ-HZ5)

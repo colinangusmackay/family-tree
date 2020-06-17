@@ -28,9 +28,3 @@ Date | Item | Description | Sources | Notes
 
 * Responsible Agency: National Records of Scotland
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

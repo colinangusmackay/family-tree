@@ -35,7 +35,7 @@ Date | Item | Description | Sources | Notes
 1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1893-d1918.md) died. | [2](#2) | [3](#3)
 1934 | Residence | 6 Terrace Street, Embo, Sutherland, Scotland | [4](#4) | [5](#5)
 1934 | Occupation | Fishworker | [4](#4) | 
-2/Mar/1934 | Married | Married to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d.md) in Dornoch, Sutherland, Scotland | [4](#4) | 
+2/Mar/1934 | Marriage | Married to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d.md) in Dornoch, Sutherland, Scotland | [4](#4) | 
 1935 | Birth of daughter | X born to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d.md) and [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md). | [6](#6) | 
 3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [7](#7) | 
 1973 | Died | Died in Dornoch, Sutherland, Scotland. | [8](#8) | 
@@ -125,14 +125,4 @@ Date | Item | Description | Sources | Notes
 
 ## See also
 
-- People Mentioned
-  - [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d.md) (19/Oct/1877 - )
-  - [Annie Mackay](./@51252926@-annie-mackay-b1893-d1918.md) (about 1893 - 1918)
-  - [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
-  - [James Mackay](./@60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
-  - [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
-  - [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)
 - [Family Search Person Details](https://www.familysearch.org/tree/person/details/M3WZ-H82)

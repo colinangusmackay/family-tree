@@ -43,9 +43,3 @@ about 1856 | Born | Born. | [1](#1) |
 * References: 
   * 1880 B 047/48
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

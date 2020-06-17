@@ -26,11 +26,3 @@ Date | Item | Description | Sources | Notes
 >
 
 
-
-## See also
-
-- People Mentioned
-  - [Kenneth Fraser](./@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md) (5/May/1800 - 19/Jan/1883)
-  - [Isabella Mackay](./@26104572@-isabella-mackay-b-d1881-12-8.md) ( - 8/Dec/1881)
-- Indexes
-  - [By family name](../index-by-family-name.md)

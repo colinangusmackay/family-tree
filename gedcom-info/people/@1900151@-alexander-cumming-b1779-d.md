@@ -18,8 +18,3 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 before 1779 | Born | Born. |  | 
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)

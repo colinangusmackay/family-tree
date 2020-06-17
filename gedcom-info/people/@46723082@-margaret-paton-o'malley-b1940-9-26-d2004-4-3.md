@@ -36,7 +36,7 @@ Date | Item | Description | Sources | Notes
 21/Sep/1962 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b-d2004~2016.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, England. | [10](#10), [7](#7) | 
 2/Apr/1966 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b-d2004~2016.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Glasgow, Scotland. | [11](#11) | 
 before 1969 | Divorced | Divorced from [Norman Stead](./@69808462@-norman-stead-b-d2004~2016.md)  | [12](#12) | [13](#13)
-25/Jul/1969 | Married | Married to X in East Calder, Scotland | [12](#12) | 
+25/Jul/1969 | Marriage | Married to X in East Calder, Scotland | [12](#12) | 
 5/Sep/1969 | Birth of son | X born to X and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md). | [14](#14) | 
 before 2004 | Occupation | Office/Contract Cleaner | [15](#15), [16](#16) | [17](#17)
 before 2004 | Death of father | [Thomas O'Malley](./@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) died. | [15](#15) | 
@@ -211,13 +211,4 @@ bet' 2004 and 2016 | Death of partner | [Norman Stead](./@69808462@-norman-stead
 
 ## See also
 
-- People Mentioned
-  - [Linda Margaret Campbell](./@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) (16/Oct/1961 - 28/Sep/2016)
-  - [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) (26/Sep/1940 - 3/Apr/2004)
-  - [Thomas O'Malley](./@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
-  - [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
-  - [Norman Stead](./@69808462@-norman-stead-b-d2004~2016.md) ( - bet' 2004 and 2016)
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)
 - [Family Search Person Details](https://www.familysearch.org/tree/person/details/G7GR-982)

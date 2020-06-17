@@ -46,16 +46,3 @@ about 1881 | Birth of brother | [James Cumming](./@64418166@-james-cumming-b1881
 * References: 
   * (ISBN) 978-1-910205-49-5
 
-
-## See also
-
-- People Mentioned
-  - [Christy Cumming](./@94377968@-christy-cumming-b1878-d.md) (about 1878 - )
-  - [James Cumming](./@66384942@-james-cumming-b1836-d.md) (1836 - )
-  - [James Cumming](./@64418166@-james-cumming-b1881-d.md) (about 1881 - )
-  - [John Cumming](./@87723702@-john-cumming-b1873-d.md) (about 1873 - )
-  - [Kenneth Cumming](./@14447152@-kenneth-cumming-b1867-d.md) (about 1867 - )
-  - [William Cumming](./@10016098@-william-cumming-b1870-d.md) (about 1870 - )
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

@@ -42,8 +42,3 @@ before 1904 | Born | Born. |  | [1](#1)
 >
 
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)

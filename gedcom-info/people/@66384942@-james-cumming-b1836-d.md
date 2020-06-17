@@ -36,11 +36,3 @@ Date | Item | Description | Sources | Notes
 >
 
 
-
-## See also
-
-- People Mentioned
-  - [Donald Cumming](./@45726416@-donald-cumming-b1806-d.md) (1806 - )
-  - [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d.md) (1807 - )
-- Indexes
-  - [By family name](../index-by-family-name.md)

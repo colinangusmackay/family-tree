@@ -28,7 +28,7 @@ permalink: /people/i88610293
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1884 | Born | Born to X and X. |  | 
-31/Dec/1909 | Married | Married to [Hector McIver](./@62168745@-hector-mciver-b1878-d.md) in Glasgow, Scotland | [1](#1) | 
+31/Dec/1909 | Marriage | Married to [Hector McIver](./@62168745@-hector-mciver-b1878-d.md) in Glasgow, Scotland | [1](#1) | 
 1910 | Birth of son | [Roderick McIver](./@90830540@-roderick-mciver-b1910-d1999.md) born to [Hector McIver](./@62168745@-hector-mciver-b1878-d.md) and [Margaret Patterson McKenzie](./@88610293@-margaret-patterson-mckenzie-b1884-d1964.md). |  | 
 1914 | Death of daughter | [Elizabeth McIver](./@80366022@-elizabeth-mciver-b-d1914.md) died. |  | 
 1918 | Birth of daughter | [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015.md) born to [Hector McIver](./@62168745@-hector-mciver-b1878-d.md) and [Margaret Patterson McKenzie](./@88610293@-margaret-patterson-mckenzie-b1884-d1964.md). |  | 
@@ -49,17 +49,3 @@ Date | Item | Description | Sources | Notes
 * References: 
   * 1919 B 644/13326
 
-
-## See also
-
-- People Mentioned
-  - [Elizabeth McIver](./@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
-  - [Hector McIver](./@62168745@-hector-mciver-b1878-d.md) (1878 - )
-  - [Hector Spence McIver](./@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) (12/Apr/1919 - 27/Jan/2008)
-  - [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015.md) (1918 - 2015)
-  - [Roderick McIver](./@90830540@-roderick-mciver-b1910-d1999.md) (1910 - 1999)
-  - [Tom Clephan McIver](./@74287888@-tom-clephan-mciver-b1924-d2019.md) (1924 - 2019)
-  - [Margaret Patterson McKenzie](./@88610293@-margaret-patterson-mckenzie-b1884-d1964.md) (1884 - 1964)
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

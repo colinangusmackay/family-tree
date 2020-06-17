@@ -75,12 +75,3 @@ before 1925 | Residence | Embo, Sutherland, Scotland | [3](#3) |
 >
 
 
-
-## See also
-
-- People Mentioned
-  - [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
-  - [Ann Fraser](./@70425788@-ann-fraser-b1865-d.md) (before 1865 - )
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

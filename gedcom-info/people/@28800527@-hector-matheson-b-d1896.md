@@ -42,9 +42,3 @@ before 1896 | Occupation | Crofter | [1](#1) | [3](#3)
 >
 
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

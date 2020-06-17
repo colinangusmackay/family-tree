@@ -48,9 +48,3 @@ before 1865 | Born | Born. | [1](#1) | [2](#2)
 >
 
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

@@ -24,8 +24,3 @@ Date | Item | Description | Sources | Notes
 1/Sep/1804 | CHR |  |  | 
 8/Dec/1881 | Died | Died in Embo, Sutherland, Scotland. |  | 
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)

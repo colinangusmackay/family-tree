@@ -23,8 +23,3 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1866 | Born | Born. |  | 
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)

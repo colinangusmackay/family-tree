@@ -36,9 +36,3 @@ Date | Item | Description | Sources | Notes
 * References: 
   * (ISBN) 978-1-910205-49-5
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

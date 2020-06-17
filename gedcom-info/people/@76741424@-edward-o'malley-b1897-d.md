@@ -36,9 +36,3 @@ before 1897 | Born | Born. |  | [1](#1)
 * References: 
   * 1939 M 644/10 421
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

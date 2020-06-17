@@ -22,11 +22,3 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1806 | Born | Born to [Alexander Cumming](./@1900151@-alexander-cumming-b1779-d.md) and [Margaret Grant](./@39612304@-margaret-grant-b1781-d.md). |  | 
 
-
-## See also
-
-- People Mentioned
-  - [Alexander Cumming](./@1900151@-alexander-cumming-b1779-d.md) (before 1779 - )
-  - [Margaret Grant](./@39612304@-margaret-grant-b1781-d.md) (before 1781 - )
-- Indexes
-  - [By family name](../index-by-family-name.md)

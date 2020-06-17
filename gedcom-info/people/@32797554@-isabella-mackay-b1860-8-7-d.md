@@ -50,9 +50,3 @@ Date | Item | Description | Sources | Notes
 * Date: 19/Jul/1984
 * Responsible Agency: Highland Regional Council
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

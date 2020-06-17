@@ -24,7 +24,7 @@ Date | Item | Description | Sources | Notes
 1954 | Born | Born to X and X. | [1](#1) | 
 6/Dec/1956 | Birth of brother | X born to X and X in Blackburn, West Lothian, Scotland. | [2](#2) | 
 6/Dec/1956 | Birth of brother | X born to X and X in Blackburn, West Lothian, Scotland. | [3](#3) | 
-1978 | Married | Married to X  | [4](#4) | 
+1978 | Marriage | Married to X  | [4](#4) | 
 2004 | Died | Died. | [5](#5) | 
 
 ## Footnotes
@@ -73,9 +73,3 @@ Date | Item | Description | Sources | Notes
 * References: 
   * 2004 D 772/8
 
-
-## See also
-
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

@@ -47,11 +47,3 @@ about 1867 | Born | Born to [James Cumming](./@66384942@-james-cumming-b1836-d.m
 * References: 
   * (ISBN) 978-1-910205-49-5
 
-
-## See also
-
-- People Mentioned
-  - [James Cumming](./@66384942@-james-cumming-b1836-d.md) (1836 - )
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)

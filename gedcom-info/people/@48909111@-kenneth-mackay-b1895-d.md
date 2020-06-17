@@ -42,12 +42,3 @@ about 1895 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-
 ### 2
 
 
-
-## See also
-
-- People Mentioned
-  - [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
-  - [James Mackay](./@60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
-- Indexes
-  - [By family name](../index-by-family-name.md)
-  - [Sources](../index-of-sources-by-title.md)
