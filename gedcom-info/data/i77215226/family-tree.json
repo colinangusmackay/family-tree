@@ -1,0 +1,59 @@
+﻿{
+  "Subject": {
+    "Id": "i77215226",
+    "Name": "George Stead",
+    "Gender": "Male",
+    "DateOfBirth": "Mar/1911",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i68661720",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i68900898",
+      "Name": "Harry Stead",
+      "Gender": "Male",
+      "DateOfBirth": "about 1888",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i61214710",
+      "Name": "Cyril Stead",
+      "Gender": "Male",
+      "DateOfBirth": "11/Mar/1908",
+      "DateOfDeath": "25/Nov/1980",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i68661720",
+          "i68900898"
+        ]
+      ]
+    },
+    {
+      "Id": "i77215226",
+      "Name": "George Stead",
+      "Gender": "Male",
+      "DateOfBirth": "Mar/1911",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i68661720",
+          "i68900898"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

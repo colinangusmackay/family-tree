@@ -3,19 +3,41 @@
     "Id": "i69808462",
     "Name": "Norman Stead",
     "Gender": "Male",
-    "DateOfBirth": "",
-    "DateOfDeath": "bet' 2004 and 2016"
+    "DateOfBirth": "Oct/1937",
+    "DateOfDeath": "2011"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i7539126",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i61214710",
+      "Name": "Cyril Stead",
+      "Gender": "Male",
+      "DateOfBirth": "11/Mar/1908",
+      "DateOfDeath": "25/Nov/1980",
+      "RelationToSubject": "father"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i69808462",
       "Name": "Norman Stead",
       "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "bet' 2004 and 2016",
+      "DateOfBirth": "Oct/1937",
+      "DateOfDeath": "2011",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i61214710",
+          "i7539126"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -25,8 +47,8 @@
       "Gender": "Female",
       "DateOfBirth": "26/Sep/1940",
       "DateOfDeath": "3/Apr/2004",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "ex-wife",
+      "DateOfMarriage": "1959",
       "DateOfDivorce": "before 1969"
     }
   ],

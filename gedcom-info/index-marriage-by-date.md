@@ -57,6 +57,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1881**
   * **1/Dec/1881** : **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ) and **[Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - ) at Dornoch, Sutherland, Scotland.
 * **1887**
+  * **about 1887** : **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ).
   * **25/Oct/1887** : **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-d.md)** (before 1865 - ) at Dornoch, Sutherland, Scotland.
 * **1888**
   * **23/Oct/1888** : **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - ) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - ) at Dornoch, Sutherland, Scotland.
@@ -81,6 +82,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **22/Jan/1901** : **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ).
 * **1903**
   * **27/Nov/1903** : **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939) and **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - ).
+* **1906**
+  * **about 1906** : **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) and X.
 * **1909**
   * **31/Dec/1909** : **[Hector McIver](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - ) and **[Margaret Patterson McKenzie](people/@88610293@-margaret-patterson-mckenzie-b1884-d1964.md)** (1884 - 1964) at Glasgow, Scotland.
 
@@ -91,7 +94,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1916**
   * **22/Dec/1916** : **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ) and X at Dingwall, Ross & Cromarty, Scotland.
 * **1918**
-  * **1918** : **[XXXX Campbell](people/@4716977@-xxxx-campbell-b1904-d.md)** (before 1904 - ) and **[XXXX McTurk](people/@54145218@-xxxx-mcturk-b1904-d.md)** (before 1904 - ).
+  * **1918** : **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - ).
 * **1919**
   * **24/Jun/1919** : X and **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d.md)** (23/Sep/1889 - ) at Glasgow, Scotland.
 
@@ -116,9 +119,18 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1945**
   * **1945** : **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) and **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) at Edinburgh, Scotland.
+* **1948**
+  * **26/Nov/1948** : **[William Gardiner](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986) and **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998) at Dryfesdale, Dumfrieshire, Scotland.
+
+### 1950s
+
+* **1959**
+  * **1959** : **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011) and **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) at Glasgow, Scotland.
 
 ### 1960s
 
+* **1962**
+  * **1962** : X and **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019) at Glasgow, Scotland.
 * **1969**
   * **25/Jul/1969** : X and **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) at East Calder, Scotland.
 

@@ -103,7 +103,9 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1866.**
   * **[Mackay, Jessie or Janet](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - )
 * **Born in 1867.**
+  * **[, Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
   * **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
+  * **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
 
 ### 1870s
 
@@ -135,6 +137,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1885.**
   * **[Cumming, Barbara Ann](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - )
 * **Born in 1888.**
+  * **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - )
   * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - )
 * **Born in 1889.**
   * **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d.md)** (23/Sep/1889 - )
@@ -148,6 +151,8 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Janet](people/@22499038@-janet-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
 * **Born in 1891.**
   * **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
+* **Born in 1892.**
+  * **[Stead, Emily](people/@58190216@-emily-stead-b1892-d.md)** (about 1892 - )
 * **Born in 1893.**
   * **[Mackay, Annie](people/@51252926@-annie-mackay-b1893-d1918.md)** (about 1893 - 1918)
   * **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
@@ -179,14 +184,16 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md)** (26/Jul/1900 - 1981)
   * **[Ross, Peter](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
 * **Born in 1901.**
+  * **[Stead, Albert](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
   * **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
 * **Born in 1902.**
   * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
 * **Born in 1903.**
   * **[Cumming, Donald](people/@64759184@-donald-cumming-b1903-5-4-d.md)** (4/May/1903 - )
 * **Born in 1904.**
-  * **[Campbell, XXXX](people/@4716977@-xxxx-campbell-b1904-d.md)** (before 1904 - )
-  * **[McTurk, XXXX](people/@54145218@-xxxx-mcturk-b1904-d.md)** (before 1904 - )
+  * **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - )
+  * **[McTurk, Grace](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - )
+  * **[Stead, Laura](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
   * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 * **Born in 1905.**
   * **[Ramsay, Jack](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
@@ -195,15 +202,19 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d.md)** (29/Nov/1906 - )
 * **Born in 1907.**
   * **[Ross, Jeanie](people/@71751658@-jeanie-ross-b1907-d.md)** (1907 - )
+* **Born in 1908.**
+  * **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
 
 ### 1910s
 
 * **Born in 1910.**
   * **[McIver, Roderick](people/@90830540@-roderick-mciver-b1910-d1999.md)** (1910 - 1999)
   * **[Gillie, Williamina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
+  * **[Gardiner, William](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986)
   * **[Ross, Alexander](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
 * **Born in 1911.**
   * **[Ramsay, Alan](people/@62219744@-alan-ramsay-b1911-d1932.md)** (1911 - 1932)
+  * **[Stead, George](people/@77215226@-george-stead-b1911-3-d.md)** (Mar/1911 - )
 * **Born in 1912.**
   * **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
 * **Born in 1914.**
@@ -221,7 +232,7 @@ permalink: /indexes/by-date-of-birth
 ### 1920s
 
 * **Born in 1920.**
-  * **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-d1998.md)** (1920 - 1998)
+  * **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
   * **[Cumming, Anne](people/@14926290@-anne-cumming-b1920-2-23-d2002-11-14.md)** (23/Feb/1920 - 14/Nov/2002)
   * **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 * **Born in 1924.**
@@ -235,6 +246,8 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Alexina](people/@75066880@-alexina-mackay-b1935-1-11-d1935.md)** (11/Jan/1935 - 1935)
 * **Born in 1936.**
   * **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019)
+* **Born in 1937.**
+  * **[Stead, Norman](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
 
 ### 1940s
 
@@ -264,4 +277,3 @@ permalink: /indexes/by-date-of-birth
 * [Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md) ( - 8/Dec/1881)
 * [Hector Matheson](people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
 * [Elizabeth McIver](people/@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
-* [Norman Stead](people/@69808462@-norman-stead-b-d2004~2016.md) ( - bet' 2004 and 2016)

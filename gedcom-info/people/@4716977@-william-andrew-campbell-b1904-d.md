@@ -4,13 +4,13 @@ subject_key: i4716977
 permalink: /people/i4716977
 ---
 
-# XXXX Campbell
+# William Andrew Campbell
 (BEFORE 1904 - ?)
 
 ## Immediate Family
 
-* Wife: [XXXX McTurk](./@54145218@-xxxx-mcturk-b1904-d.md) (before 1904 - )
-* Daughter: [Rachel Smith Campbell](./@40394043@-rachel-smith-campbell-b1920-d1998.md) (1920 - 1998)
+* Wife: [Grace McTurk](./@54145218@-grace-mcturk-b1904-d.md) (before 1904 - )
+* Daughter: [Rachel Smith Campbell](./@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md) (6/Jan/1920 - 11/Dec/1998)
 
 ## Timeline
 

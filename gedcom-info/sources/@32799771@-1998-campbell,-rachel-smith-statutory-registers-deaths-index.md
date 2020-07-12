@@ -33,4 +33,4 @@ References | 1998 D 389/40
 
 ## Source Referenced by
 
-* [Rachel Smith Campbell](../people/@40394043@-rachel-smith-campbell-b1920-d1998.md) (1920 - 1998)
+* [Rachel Smith Campbell](../people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md) (6/Jan/1920 - 11/Dec/1998)

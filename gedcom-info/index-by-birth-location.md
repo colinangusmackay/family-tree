@@ -9,7 +9,7 @@ permalink: /indexes/by-birth-location
 
 - **[, Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - )
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
-- **[Campbell, XXXX](people/@4716977@-xxxx-campbell-b1904-d.md)** (before 1904 - )
+- **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - )
 - **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
 - **[Cumming, Alexander](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
 - **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
@@ -66,7 +66,7 @@ permalink: /indexes/by-birth-location
 - **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 - **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-d1964.md)** (1884 - 1964)
 - **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
-- **[McTurk, XXXX](people/@54145218@-xxxx-mcturk-b1904-d.md)** (before 1904 - )
+- **[McTurk, Grace](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - )
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
 - **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - )
 - **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
@@ -87,7 +87,7 @@ permalink: /indexes/by-birth-location
 - **[Ross, Peter](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
 - **[Ross, Sarah](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - )
 - **[Ross, William](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
-- **[Stead, Norman](people/@69808462@-norman-stead-b-d2004~2016.md)** ( - bet' 2004 and 2016)
+- **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
 - **[Sutherland, Isabella](people/@79967653@-isabella-sutherland-b1838-d.md)** (1838 - )
 - **[Thomson, Agnes](people/@96590245@-agnes-thomson-b1897-d.md)** (before 1897 - )
 
@@ -97,6 +97,22 @@ permalink: /indexes/by-birth-location
 ### Dewsbury
 
 - **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
+- **[Stead, Norman](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
+
+### Yorkshire
+
+#### Morley
+
+- **[, Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
+- **[Stead, Albert](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
+- **[Stead, Emily](people/@58190216@-emily-stead-b1892-d.md)** (about 1892 - )
+- **[Stead, George](people/@77215226@-george-stead-b1911-3-d.md)** (Mar/1911 - )
+- **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - )
+- **[Stead, Laura](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
+
+#### Bramley
+
+- **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
 
 
 ## Scotland
@@ -105,7 +121,7 @@ permalink: /indexes/by-birth-location
 
 #### Johnstone
 
-- **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-d1998.md)** (1920 - 1998)
+- **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
 
 ### Sutherland
 
@@ -164,4 +180,10 @@ permalink: /indexes/by-birth-location
 #### Wishaw
 
 - **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (about 14/Jan/1893 - )
+
+### Perthshire
+
+#### Findo Gask
+
+- **[Gardiner, William](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986)
 

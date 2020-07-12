@@ -4,7 +4,9 @@ title: Sources
 permalink: /source-data-sets
 ---
 
-Details of where to find information. Icons next to each entry represent:
+Details of where to find information. Any costs mentioned were correct at the time they were added or last updated.
+
+Icons next to each entry represent:
 
 {% include free-data.html description="Free data" %}
 {% include paid-data.html description="Paid data" %}
@@ -17,7 +19,7 @@ Details of where to find information. Icons next to each entry represent:
 
 ## Scotland
 
-{% include paid-data.html url="https://www.scotlandspeople.gov.uk/search-our-records" title="Scotland's People" description="is the official Scottish Government site for searching people oriented records and archives." %} 
+{% include paid-data.html url="https://www.scotlandspeople.gov.uk/search-our-records" title="Scotland's People" description="is the official Scottish Government site for searching people oriented records and archives. Index searches are free, but it costs £1.50 per digital extract." %} 
 
 ## International 
 

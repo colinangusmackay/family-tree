@@ -1,6 +1,6 @@
 ﻿{
   "Id": "i4716977",
-  "Name": "XXXX Campbell",
+  "Name": "William Andrew Campbell",
   "Gender": "Male",
   "Relationship": "Self",
   "DateOfBirth": "before 1904",
@@ -11,8 +11,8 @@
       "Name": "Rachel Smith Campbell",
       "Gender": "Female",
       "Relationship": "daughter",
-      "DateOfBirth": "1920",
-      "DateOfDeath": "1998",
+      "DateOfBirth": "6/Jan/1920",
+      "DateOfDeath": "11/Dec/1998",
       "Children": [
         {
           "Id": "i35451666",
@@ -63,7 +63,7 @@
                   "Name": "X",
                   "Gender": "Male",
                   "Relationship": "son",
-                  "DateOfBirth": "1989",
+                  "DateOfBirth": "",
                   "DateOfDeath": "",
                   "Children": []
                 }

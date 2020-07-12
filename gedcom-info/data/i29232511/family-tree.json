@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i29232511",
+    "Name": "William Gardiner",
+    "Gender": "Male",
+    "DateOfBirth": "17/Jul/1910",
+    "DateOfDeath": "18/Apr/1986"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i29232511",
+      "Name": "William Gardiner",
+      "Gender": "Male",
+      "DateOfBirth": "17/Jul/1910",
+      "DateOfDeath": "18/Apr/1986",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i40394043",
+      "Name": "Rachel Smith Campbell",
+      "Gender": "Female",
+      "DateOfBirth": "6/Jan/1920",
+      "DateOfDeath": "11/Dec/1998",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "26/Nov/1948",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

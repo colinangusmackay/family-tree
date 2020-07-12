@@ -1,0 +1,83 @@
+﻿{
+  "Subject": {
+    "Id": "i44546659",
+    "Name": "William Stead",
+    "Gender": "Male",
+    "DateOfBirth": "about 1867",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i44546659",
+      "Name": "William Stead",
+      "Gender": "Male",
+      "DateOfBirth": "about 1867",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i98128898",
+      "Name": "Harriet",
+      "Gender": "Female",
+      "DateOfBirth": "about 1867",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "about 1887",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i68900898",
+      "Name": "Harry Stead",
+      "Gender": "Male",
+      "DateOfBirth": "about 1888",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i44546659",
+        "i98128898"
+      ]
+    },
+    {
+      "Id": "i58190216",
+      "Name": "Emily Stead",
+      "Gender": "Female",
+      "DateOfBirth": "about 1892",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i44546659",
+        "i98128898"
+      ]
+    },
+    {
+      "Id": "i51674188",
+      "Name": "Albert Stead",
+      "Gender": "Male",
+      "DateOfBirth": "1901",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i44546659",
+        "i98128898"
+      ]
+    },
+    {
+      "Id": "i67809808",
+      "Name": "Laura Stead",
+      "Gender": "Female",
+      "DateOfBirth": "about 1904",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i44546659",
+        "i98128898"
+      ]
+    }
+  ]
+}

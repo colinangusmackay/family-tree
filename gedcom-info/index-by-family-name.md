@@ -8,6 +8,7 @@ permalink: /indexes/by-family-name
 ## ???
 
 - **[Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - )
+- **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
 
 ## Byrne
 
@@ -16,8 +17,8 @@ permalink: /indexes/by-family-name
 ## Campbell
 
 - **[Linda Margaret Campbell](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
-- **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-d1998.md)** (1920 - 1998)
-- **[XXXX Campbell](people/@4716977@-xxxx-campbell-b1904-d.md)** (before 1904 - )
+- **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
+- **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - )
 
 ## Clark
 
@@ -60,6 +61,10 @@ permalink: /indexes/by-family-name
 - **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
 - **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d.md)** (19/Oct/1877 - )
 - **[Thomas Fraser](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
+
+## Gardiner
+
+- **[William Gardiner](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986)
 
 ## Gillie
 
@@ -147,7 +152,7 @@ permalink: /indexes/by-family-name
 
 ## McTurk
 
-- **[XXXX McTurk](people/@54145218@-xxxx-mcturk-b1904-d.md)** (before 1904 - )
+- **[Grace McTurk](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - )
 
 ## Miller
 
@@ -192,7 +197,14 @@ permalink: /indexes/by-family-name
 
 ## Stead
 
-- **[Norman Stead](people/@69808462@-norman-stead-b-d2004~2016.md)** ( - bet' 2004 and 2016)
+- **[Albert Stead](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
+- **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
+- **[Emily Stead](people/@58190216@-emily-stead-b1892-d.md)** (about 1892 - )
+- **[George Stead](people/@77215226@-george-stead-b1911-3-d.md)** (Mar/1911 - )
+- **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - )
+- **[Laura Stead](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
+- **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
+- **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
 
 ## Sutherland
 

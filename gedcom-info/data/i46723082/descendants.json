@@ -47,7 +47,7 @@
           "Name": "X",
           "Gender": "Male",
           "Relationship": "son",
-          "DateOfBirth": "1989",
+          "DateOfBirth": "",
           "DateOfDeath": "",
           "Children": []
         }

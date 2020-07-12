@@ -3,7 +3,64 @@
   "Name": "Norman Stead",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
-  "DateOfDeath": "bet' 2004 and 2016",
-  "Parents": []
+  "DateOfBirth": "Oct/1937",
+  "DateOfDeath": "2011",
+  "Parents": [
+    {
+      "Id": "i7539126",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i61214710",
+      "Name": "Cyril Stead",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "11/Mar/1908",
+      "DateOfDeath": "25/Nov/1980",
+      "Parents": [
+        {
+          "Id": "i68661720",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i68900898",
+          "Name": "Harry Stead",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1888",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i98128898",
+              "Name": "Harriet",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "about 1867",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i44546659",
+              "Name": "William Stead",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "about 1867",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

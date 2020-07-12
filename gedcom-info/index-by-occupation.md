@@ -16,13 +16,17 @@ permalink: /indexes/by-occupation
 
 * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982), mentioned 2 times.
 
+## Crane Driver
+
+* **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ).
+
 ## Crofter
 
 * **[Matheson, Hector](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896).
 
 ## Dairy Maid
 
-* **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-d1998.md)** (1920 - 1998).
+* **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998).
 
 ## Electrician
 
@@ -35,6 +39,10 @@ permalink: /indexes/by-occupation
 ## Farm Servant
 
 * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ).
+
+## Fettler (Woollen)
+
+* **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980).
 
 ## Fisherman
 
@@ -63,6 +71,14 @@ permalink: /indexes/by-occupation
 
 * **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - ).
 
+## Mason
+
+* **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ).
+
+## Midwife
+
+* **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019).
+
 ## Nurse
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 2 times.
@@ -90,5 +106,5 @@ permalink: /indexes/by-occupation
 
 ## Woollen Mill Worker
 
-* **[Stead, Norman](people/@69808462@-norman-stead-b-d2004~2016.md)** ( - bet' 2004 and 2016).
+* **[Stead, Norman](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011).
 

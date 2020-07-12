@@ -10,11 +10,13 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## 
 
   * **[Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - ) and **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ) **on 1st of December 1881** at Dornoch, Sutherland, Scotland.
+  * **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ) and **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) **about 1887**.
 
 ## Campbell
 
   * **[Linda Margaret Campbell](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016) and X **on 6th of June 1981** at Blackburn, West Lothian, Scotland.
-  * **[XXXX Campbell](people/@4716977@-xxxx-campbell-b1904-d.md)** (before 1904 - ) and **[XXXX McTurk](people/@54145218@-xxxx-mcturk-b1904-d.md)** (before 1904 - ) **in 1918**.
+  * **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998) and **[William Gardiner](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986) **on 26th of November 1948** at Dryfesdale, Dumfrieshire, Scotland.
+  * **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - ) **in 1918**.
 
 ## Cumming
 
@@ -40,6 +42,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883) and **[Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881) **on 24th of November 1820** at Embo, Sutherland, Scotland.
   * **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d.md)** (19/Oct/1877 - ) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) **on 16th of January 1912** at Dornoch, Sutherland, Scotland.
   * **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d.md)** (19/Oct/1877 - ) and **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) **on 2nd of March 1934** at Dornoch, Sutherland, Scotland.
+
+## Gardiner
+
+  * **[William Gardiner](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986) and **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998) **on 26th of November 1948** at Dryfesdale, Dumfrieshire, Scotland.
 
 ## Gillie
 
@@ -68,6 +74,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881) and **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883) **on 24th of November 1820** at Embo, Sutherland, Scotland.
   * **[Isabella Mackay](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - ) and **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ) **on 16th of October 1857** at Dornoch, Sutherland, Scotland.
   * **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - ) and **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - ) **on 23rd of October 1888** at Dornoch, Sutherland, Scotland.
+  * **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019) and X **in 1962** at Glasgow, Scotland.
   * **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - ) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - ) **on 23rd of October 1888** at Dornoch, Sutherland, Scotland.
   * **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - ) and **[John Mackay](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ) **on 24th of March 1892** at Embo, Sutherland, Scotland.
   * **[Janet or Jessie Mackay](people/@42213240@-janet-or-jessie-mackay-b1840-d.md)** (1840 - ) and X **on 13th of November 1877**.
@@ -104,7 +111,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## McTurk
 
-  * **[XXXX McTurk](people/@54145218@-xxxx-mcturk-b1904-d.md)** (before 1904 - ) and **[XXXX Campbell](people/@4716977@-xxxx-campbell-b1904-d.md)** (before 1904 - ) **in 1918**.
+  * **[Grace McTurk](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - ) and **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - ) **in 1918**.
 
 ## Miller
 
@@ -112,6 +119,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## O'Malley
 
+  * **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) and **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011) **in 1959** at Glasgow, Scotland.
   * **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) and X **on 25th of July 1969** at East Calder, Scotland.
   * **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004) and **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004) **on 28th of December 1939** at Glasgow, Scotland.
 
@@ -131,6 +139,12 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[John Ross](people/@75057664@-john-ross-b1889-11-19-d.md)** (19/Nov/1889 - ) and **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954) **on 19th of November 1889**.
   * **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ) and **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) **on 22nd of January 1901**.
+
+## Stead
+
+  * **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) and X **about 1906**.
+  * **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011) and **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) **in 1959** at Glasgow, Scotland.
+  * **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ) **about 1887**.
 
 ## Sutherland
 

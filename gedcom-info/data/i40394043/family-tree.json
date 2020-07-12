@@ -3,13 +3,13 @@
     "Id": "i40394043",
     "Name": "Rachel Smith Campbell",
     "Gender": "Female",
-    "DateOfBirth": "1920",
-    "DateOfDeath": "1998"
+    "DateOfBirth": "6/Jan/1920",
+    "DateOfDeath": "11/Dec/1998"
   },
   "Parents": [
     {
       "Id": "i4716977",
-      "Name": "XXXX Campbell",
+      "Name": "William Andrew Campbell",
       "Gender": "Male",
       "DateOfBirth": "before 1904",
       "DateOfDeath": "",
@@ -17,7 +17,7 @@
     },
     {
       "Id": "i54145218",
-      "Name": "XXXX McTurk",
+      "Name": "Grace McTurk",
       "Gender": "Female",
       "DateOfBirth": "before 1904",
       "DateOfDeath": "",
@@ -29,8 +29,8 @@
       "Id": "i40394043",
       "Name": "Rachel Smith Campbell",
       "Gender": "Female",
-      "DateOfBirth": "1920",
-      "DateOfDeath": "1998",
+      "DateOfBirth": "6/Jan/1920",
+      "DateOfDeath": "11/Dec/1998",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -40,7 +40,18 @@
       ]
     }
   ],
-  "Spouses": [],
+  "Spouses": [
+    {
+      "Id": "i29232511",
+      "Name": "William Gardiner",
+      "Gender": "Male",
+      "DateOfBirth": "17/Jul/1910",
+      "DateOfDeath": "18/Apr/1986",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "26/Nov/1948",
+      "DateOfDivorce": ""
+    }
+  ],
   "Children": [
     {
       "Id": "i35451666",

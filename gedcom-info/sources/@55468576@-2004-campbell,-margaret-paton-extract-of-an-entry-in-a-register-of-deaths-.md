@@ -24,3 +24,4 @@ _Redacted because this source is referenced by a (potentially) living person and
 * [Margaret Paton O'Malley](../people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) (26/Sep/1940 - 3/Apr/2004)
 * [Thomas O'Malley](../people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
 * [Margaret McLeod Paton](../people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
+* [Norman Stead](../people/@69808462@-norman-stead-b1937-10-d2011.md) (Oct/1937 - 2011)

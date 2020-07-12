@@ -3,8 +3,8 @@
   "Name": "Norman Stead",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
-  "DateOfDeath": "bet' 2004 and 2016",
+  "DateOfBirth": "Oct/1937",
+  "DateOfDeath": "2011",
   "Children": [
     {
       "Id": "i38419168",
@@ -47,7 +47,7 @@
           "Name": "X",
           "Gender": "Male",
           "Relationship": "son",
-          "DateOfBirth": "1989",
+          "DateOfBirth": "",
           "DateOfDeath": "",
           "Children": []
         }
