@@ -103,10 +103,10 @@
     },
     {
       "Id": "i13773669",
-      "Name": "George Davidson Cumming",
+      "Name": "George Davidson Smith Cumming",
       "Gender": "Male",
-      "DateOfBirth": "about 1899",
-      "DateOfDeath": "",
+      "DateOfBirth": "31/May/1898",
+      "DateOfDeath": "Aug/1965",
       "RelationToSubject": "son",
       "ParentIds": [
         "i20465544",

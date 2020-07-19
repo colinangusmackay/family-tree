@@ -20,7 +20,7 @@ permalink: /people/i178005
 * Husband: [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d.md) (19/Oct/1877 - )
 * Sister: [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d.md) (23/Sep/1889 - )
 * Brother: [George Mackay](./@72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
-* Sister: [Janet Mackay](./@22499038@-janet-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
+* Sister: [Janet Mackay](./@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md) (12/Nov/1890 - 15/May/1891)
 * Sister: [Annie Mackay](./@51252926@-annie-mackay-b1893-d1918.md) (about 1893 - 1918)
 * Brother: [Kenneth Mackay](./@48909111@-kenneth-mackay-b1895-d.md) (about 1895 - )
 * Brother: [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)

@@ -24,7 +24,6 @@ permalink: /indexes/by-death-location
 - **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
 - **[Cumming, Donald](people/@64759184@-donald-cumming-b1903-5-4-d.md)** (4/May/1903 - )
 - **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d.md)** (29/Nov/1906 - )
-- **[Cumming, George Davidson](people/@13773669@-george-davidson-cumming-b1899-d.md)** (about 1899 - )
 - **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - )
 - **[Cumming, James](people/@66384942@-james-cumming-b1836-d.md)** (1836 - )
 - **[Cumming, James](people/@64418166@-james-cumming-b1881-d.md)** (about 1881 - )
@@ -43,6 +42,7 @@ permalink: /indexes/by-death-location
 - **[Grant, Cate](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
 - **[Grant, Christy](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
 - **[Grant, Margaret](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
+- **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-d1977.md)** (1897 - 1977)
 - **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d.md)** (1807 - )
 - **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - )
 - **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
@@ -63,7 +63,6 @@ permalink: /indexes/by-death-location
 - **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019)
 - **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - )
 - **[Mackay, Jane or Jean](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - )
-- **[Mackay, Janet](people/@22499038@-janet-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
 - **[Mackay, Janet or Jessie](people/@42213240@-janet-or-jessie-mackay-b1840-d.md)** (1840 - )
 - **[Mackay, Jessie or Janet](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - )
 - **[Mackay, John](people/@58430005@-john-mackay-b1841-2-18-d.md)** (18/Feb/1841 - )
@@ -144,6 +143,7 @@ permalink: /indexes/by-death-location
 - **[Fraser, Kenneth](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
 - **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
 - **[Mackay, Isabella](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881)
+- **[Mackay, Janet](people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md)** (12/Nov/1890 - 15/May/1891)
 - **[Mackay, Jessie](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932)
 - **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969)
 - **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
@@ -180,5 +180,6 @@ permalink: /indexes/by-death-location
 
 #### Palm Beach
 
+- **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
 

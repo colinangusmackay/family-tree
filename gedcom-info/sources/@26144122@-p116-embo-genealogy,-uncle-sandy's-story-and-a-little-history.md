@@ -26,7 +26,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 * [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
 * [Isabella Mackay](../people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) (1/Jan/1936 - 18/Dec/2019)
 * [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
-* [Janet Mackay](../people/@22499038@-janet-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
+* [Janet Mackay](../people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md) (12/Nov/1890 - 15/May/1891)
 * [John Paul Mackay](../people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
 * [Kenneth Mackay](../people/@48909111@-kenneth-mackay-b1895-d.md) (about 1895 - )
 * [Lucy Mackay](../people/@16587624@-lucy-mackay-b1889-9-23-d.md) (23/Sep/1889 - )

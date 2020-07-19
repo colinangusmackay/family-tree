@@ -26,6 +26,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - ) and **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939) **on 27th of November 1903**.
   * **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-d.md)** (before 1865 - ) **on 25th of October 1887** at Dornoch, Sutherland, Scotland.
   * **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ) and X **on 22nd of December 1916** at Dingwall, Ross & Cromarty, Scotland.
+  * **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-d1977.md)** (1897 - 1977) **on 10th of December 1943** at , Broward, Florida, United States of America.
   * **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - ) and **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (about 14/Jan/1893 - ) **on 12th of April 1929** at Brookline, Massachusetts, USA.
   * **[James Cumming](people/@66384942@-james-cumming-b1836-d.md)** (1836 - ) and X **on 21st of February 1860** at Dornoch, Sutherland, Scotland.
   * **[James Cumming](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975) and **[Williamina Gillie](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003) **on 2nd of May 1928** at Inverness, Scotland.
@@ -56,6 +57,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - ) and **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ) **on 7th of November 1876** at Dornoch, Sutherland, Scotland.
   * **[Christy Grant](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - ) and **[Alexander Mackay](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ) **on 21st of November 1877** at Dornoch, Sutherland, Scotland.
   * **[Margaret Grant](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - ) and **[Alexander Cumming](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - ) **on 22nd of February 1793**.
+
+## Hatelie
+
+  * **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-d1977.md)** (1897 - 1977) and **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) **on 10th of December 1943** at , Broward, Florida, United States of America.
 
 ## Mackay
 

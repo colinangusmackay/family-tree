@@ -43,3 +43,4 @@ References | 1890-047/47
 
 * [George Mackay](../people/@72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
 * [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
+* [Janet Mackay](../people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md) (12/Nov/1890 - 15/May/1891)

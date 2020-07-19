@@ -45,6 +45,7 @@ References | 1906 B 047/48
 * [Christine Cumming](../people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) (15/Dec/1904 - 10/Nov/1996)
 * [Donald Cumming](../people/@20465544@-donald-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
 * [Donald John Cumming](../people/@22331378@-donald-john-cumming-b1906-11-29-d.md) (29/Nov/1906 - )
+* [George Davidson Smith Cumming](../people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md) (31/May/1898 - Aug/1965)
 * [James Cumming](../people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md) (7/Nov/1894 - 2/Jul/1975)
 * [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
 * [Thomasina Ian Cumming](../people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) (24/Nov/1902 - 1/Jun/1973)

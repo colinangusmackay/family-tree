@@ -117,6 +117,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 ### 1940s
 
+* **1943**
+  * **10/Dec/1943** : **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-d1977.md)** (1897 - 1977) at , Broward, Florida, United States of America.
 * **1945**
   * **1945** : **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) and **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) at Edinburgh, Scotland.
 * **1948**

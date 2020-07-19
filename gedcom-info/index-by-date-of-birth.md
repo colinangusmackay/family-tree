@@ -148,7 +148,7 @@ permalink: /indexes/by-date-of-birth
 
 * **Born in 1890.**
   * **[Mackay, George](people/@72941728@-george-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
-  * **[Mackay, Janet](people/@22499038@-janet-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
+  * **[Mackay, Janet](people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md)** (12/Nov/1890 - 15/May/1891)
 * **Born in 1891.**
   * **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
 * **Born in 1892.**
@@ -163,13 +163,14 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1895.**
   * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-d.md)** (about 1895 - )
 * **Born in 1897.**
+  * **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-d1977.md)** (1897 - 1977)
   * **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - )
   * **[Ross, William](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
   * **[Thomson, Agnes](people/@96590245@-agnes-thomson-b1897-d.md)** (before 1897 - )
 * **Born in 1898.**
+  * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
   * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - )
 * **Born in 1899.**
-  * **[Cumming, George Davidson](people/@13773669@-george-davidson-cumming-b1899-d.md)** (about 1899 - )
   * **[Ross, John](people/@35298145@-john-ross-b1899-d.md)** (1899 - )
   * **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969)
 

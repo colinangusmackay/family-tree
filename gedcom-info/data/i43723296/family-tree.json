@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i43723296",
+    "Name": "Margaret Hogg Hatelie",
+    "Gender": "Female",
+    "DateOfBirth": "1897",
+    "DateOfDeath": "1977"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i43723296",
+      "Name": "Margaret Hogg Hatelie",
+      "Gender": "Female",
+      "DateOfBirth": "1897",
+      "DateOfDeath": "1977",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i13773669",
+      "Name": "George Davidson Smith Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "31/May/1898",
+      "DateOfDeath": "Aug/1965",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "10/Dec/1943",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

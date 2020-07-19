@@ -15,7 +15,7 @@ permalink: /people/i22331378
 * Sister: [Alexandrina Cumming](./@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md) (30/Mar/1891 - 10/Apr/1987)
 * Sister: [Jessie-Ann Cumming](./@66222886@-jessie-ann-cumming-b1893-1-8-d.md) (8/Jan/1893 - )
 * Brother: [James Cumming](./@492889@-james-cumming-b1894-11-7-d1975-7-2.md) (7/Nov/1894 - 2/Jul/1975)
-* Brother: [George Davidson Cumming](./@13773669@-george-davidson-cumming-b1899-d.md) (about 1899 - )
+* Brother: [George Davidson Smith Cumming](./@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md) (31/May/1898 - Aug/1965)
 * Sister: [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
 * Sister: [Thomasina Ian Cumming](./@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) (24/Nov/1902 - 1/Jun/1973)
 * Sister: [Christine Cumming](./@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) (15/Dec/1904 - 10/Nov/1996)
@@ -27,9 +27,15 @@ Date | Item | Description | Sources | Notes
 29/Nov/1906 | Born | Born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
 before 1925 | Residence | Embo, Sutherland, Scotland | [3](#3) | 
 15/Jun/1925 | Immigrated | Immigrated to New York, New York, USA. (SS Cameronia) | [3](#3) | [4](#4)
+1930 | Residence | 80 Summit Ave., Brookline, Massachusetts, USA |  | 
 1934 | Residence | 80 Summit Ave, Brookline, Norfolk Co, Massachussets, USA | [3](#3) | 
 1934 | Occupation | Bookkeeper | [3](#3) | 
-27/Mar/1934 | Naturalised | Naturalised in Boston, Massachusetts, USA. (Petition) | [3](#3) | 
+27/Mar/1934 | Naturalised | Naturalised in Boston, Massachusetts, USA. (Declaration of Intention) | [3](#3) | 
+1937 | Occupation | Mill Worker | [5](#5) | 
+1937 | Residence | 661 Roger Street, Lowell, Massachusetts, USA | [5](#5) | 
+11/Feb/1937 | Naturalised | Naturalised in Boston, Massachusetts, USA. (Petition for Naturalization) | [5](#5) | 
+1940 | EVEN:Military Conscription/Draft |  | [6](#6) | 
+1940 | Residence | 80 Summit Avenue, Brookline, Mass., USA |  | 
 
 ## Notes
 
@@ -74,4 +80,20 @@ before 1925 | Residence | Embo, Sutherland, Scotland | [3](#3) |
 > SS Cameronia on WIkipedia: [https://en.wikipedia.org/wiki/RMS_Cameronia_(1920)](https://en.wikipedia.org/wiki/RMS_Cameronia_(1920))
 >
 
+
+### 5
+
+**1937, CUMMING, DONALD JOHN - Petition for Naturalization**
+
+* [Full text and notes](../sources/@26809436@-1937,-cumming,-donald-john-petition-for-naturalization.md)
+* Date: 11/Feb/1937
+* References: 
+  * 175965
+
+### 6
+
+**1940 CUMMING, DONALD JOHN - U.S. WWII Draft Cards Young Men, 1940-1947**
+
+* [Full text and notes](../sources/@50984294@-1940-cumming,-donald-john-u.s.-wwii-draft-cards-young-men,-1940-1947.md)
+* Date: 28/Oct/1940
 
