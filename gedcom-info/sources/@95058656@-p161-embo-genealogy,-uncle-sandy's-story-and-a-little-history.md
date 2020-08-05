@@ -32,7 +32,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 * [Isabella Cumming](../people/@84684994@-isabella-cumming-b1888-7-21-d.md) (21/Jul/1888 - )
 * [James Cumming](../people/@64418166@-james-cumming-b1881-d.md) (about 1881 - )
 * [James Cumming](../people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md) (7/Nov/1894 - 2/Jul/1975)
-* [Jessie-Ann Cumming](../people/@66222886@-jessie-ann-cumming-b1893-1-8-d.md) (8/Jan/1893 - )
+* [Jessie Ann Cumming](../people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md) (8/Jan/1893 - 31/Oct/1978)
 * [John Cumming](../people/@87723702@-john-cumming-b1873-d.md) (about 1873 - )
 * [Kenneth Cumming](../people/@14447152@-kenneth-cumming-b1867-d.md) (about 1867 - )
 * [Marion Cumming](../people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md) (20/May/1863 - 15/Nov/1954)

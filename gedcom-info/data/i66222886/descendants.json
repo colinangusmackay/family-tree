@@ -1,9 +1,37 @@
 ﻿{
   "Id": "i66222886",
-  "Name": "Jessie-Ann Cumming",
+  "Name": "Jessie Ann Cumming",
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "8/Jan/1893",
-  "DateOfDeath": "",
-  "Children": []
+  "DateOfDeath": "31/Oct/1978",
+  "Children": [
+    {
+      "Id": "i65743680",
+      "Name": "Jessie Ann Cumming",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1920",
+      "DateOfDeath": "before 1938",
+      "Children": []
+    },
+    {
+      "Id": "i42110198",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "19/Jan/1922",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i44164031",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "29/Jul/1923",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
 }

@@ -95,6 +95,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **22/Dec/1916** : **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ) and X at Dingwall, Ross & Cromarty, Scotland.
 * **1918**
   * **1918** : **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - ).
+  * **12/Apr/1918** : **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d.md)** (11/Nov/1891 - ) and **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) at Middlesborough, England.
 * **1919**
   * **24/Jun/1919** : X and **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d.md)** (23/Sep/1889 - ) at Glasgow, Scotland.
 
@@ -103,7 +104,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1928**
   * **2/May/1928** : **[James Cumming](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975) and **[Williamina Gillie](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003) at Inverness, Scotland.
 * **1929**
-  * **12/Apr/1929** : **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (about 14/Jan/1893 - ) and **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - ) at Brookline, Massachusetts, USA.
+  * **12/Apr/1929** : **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - ) and **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - ) at Brookline, Massachusetts, USA.
 
 ### 1930s
 

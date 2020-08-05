@@ -30,7 +30,7 @@ References | 3898
 >
 > (5) My personal description is as follows: Sex Female, completion Fair, color of eyes: Hazel, color of hair Lt. Grey, height 5 feet 5 inches, weight 128 pounds, visible distinctive marks None; country of which I am a citizen, subject, or national Great Britain
 >
-> (6) I am married; the name of my husband is Thomas Mitchel Reid, we were married on April 12, 192, at Brookline Massachusetts, he was born at Wishaw, Lanarkshire, Scotland, on Jan. 14, 1893 and entered the United States at New York, New York on Sept. 2, 1923 for permanent residence in the United States and now resides with me.
+> (6) I am married; the name of my husband is Thomas Mitchel Reid, we were married on April 12, 1929, at Brookline Massachusetts, he was born at Wishaw, Lanarkshire, Scotland, on Jan. 14, 1893 and entered the United States at New York, New York on Sept. 2, 1923 for permanent residence in the United States and now resides with me.
 >
 > <br/>
 >
@@ -104,4 +104,4 @@ References | 3898
 ## Source Referenced by
 
 * [Isabella Cumming](../people/@84684994@-isabella-cumming-b1888-7-21-d.md) (21/Jul/1888 - )
-* [Thomas Mitchell Reid](../people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md) (about 14/Jan/1893 - )
+* [Thomas Mitchell Reid](../people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md) (14/Jan/1893 - )

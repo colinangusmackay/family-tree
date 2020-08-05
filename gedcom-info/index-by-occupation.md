@@ -69,7 +69,7 @@ permalink: /indexes/by-occupation
 
 ## Gardener
 
-* **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (about 14/Jan/1893 - ).
+* **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - ).
 
 ## Library Attendant
 
@@ -100,9 +100,17 @@ permalink: /indexes/by-occupation
 
 * **[O'Malley, Margaret Paton](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004).
 
+## Painter
+
+* **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d.md)** (11/Nov/1891 - ).
+
 ## Practical Nursing
 
 * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - ).
+
+## Printer
+
+* **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d.md)** (11/Nov/1891 - ).
 
 ## Proprietor Childrens Nursery
 
@@ -114,7 +122,7 @@ permalink: /indexes/by-occupation
 
 ## Tinsmith
 
-* **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (about 14/Jan/1893 - ).
+* **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - ).
 
 ## Tramcar Driver
 

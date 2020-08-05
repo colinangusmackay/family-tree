@@ -97,4 +97,4 @@ References | 3899
 
 ## Source Referenced by
 
-* [Thomas Mitchell Reid](../people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md) (about 14/Jan/1893 - )
+* [Thomas Mitchell Reid](../people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md) (14/Jan/1893 - )

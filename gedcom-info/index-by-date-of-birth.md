@@ -151,13 +151,14 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Janet](people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md)** (12/Nov/1890 - 15/May/1891)
 * **Born in 1891.**
   * **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
+  * **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d.md)** (11/Nov/1891 - )
 * **Born in 1892.**
   * **[Stead, Emily](people/@58190216@-emily-stead-b1892-d.md)** (about 1892 - )
 * **Born in 1893.**
   * **[Mackay, Annie](people/@51252926@-annie-mackay-b1893-d1918.md)** (about 1893 - 1918)
   * **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
-  * **[Cumming, Jessie-Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d.md)** (8/Jan/1893 - )
-  * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (about 14/Jan/1893 - )
+  * **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
+  * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - )
 * **Born in 1894.**
   * **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 * **Born in 1895.**
@@ -233,6 +234,7 @@ permalink: /indexes/by-date-of-birth
 ### 1920s
 
 * **Born in 1920.**
+  * **[Cumming, Jessie Ann](people/@65743680@-jessie-ann-cumming-b1920-d1938.md)** (1920 - before 1938)
   * **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
   * **[Cumming, Anne](people/@14926290@-anne-cumming-b1920-2-23-d2002-11-14.md)** (23/Feb/1920 - 14/Nov/2002)
   * **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)

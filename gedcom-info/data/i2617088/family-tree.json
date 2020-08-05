@@ -3,19 +3,41 @@
     "Id": "i2617088",
     "Name": "Thomas Mitchell Reid",
     "Gender": "Male",
-    "DateOfBirth": "about 14/Jan/1893",
+    "DateOfBirth": "14/Jan/1893",
     "DateOfDeath": ""
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i95320597",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i37924612",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i2617088",
       "Name": "Thomas Mitchell Reid",
       "Gender": "Male",
-      "DateOfBirth": "about 14/Jan/1893",
+      "DateOfBirth": "14/Jan/1893",
       "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i37924612",
+          "i95320597"
+        ]
+      ]
     }
   ],
   "Spouses": [

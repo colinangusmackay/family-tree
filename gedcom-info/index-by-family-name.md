@@ -38,6 +38,7 @@ permalink: /indexes/by-family-name
 - **[Donald Cumming](people/@45726416@-donald-cumming-b1806-d.md)** (1806 - )
 - **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - )
 - **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
+- **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d.md)** (11/Nov/1891 - )
 - **[Donald Cumming](people/@64759184@-donald-cumming-b1903-5-4-d.md)** (4/May/1903 - )
 - **[Donald John Cumming](people/@22331378@-donald-john-cumming-b1906-11-29-d.md)** (29/Nov/1906 - )
 - **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
@@ -45,7 +46,8 @@ permalink: /indexes/by-family-name
 - **[James Cumming](people/@66384942@-james-cumming-b1836-d.md)** (1836 - )
 - **[James Cumming](people/@64418166@-james-cumming-b1881-d.md)** (about 1881 - )
 - **[James Cumming](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
-- **[Jessie-Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d.md)** (8/Jan/1893 - )
+- **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
+- **[Jessie Ann Cumming](people/@65743680@-jessie-ann-cumming-b1920-d1938.md)** (1920 - before 1938)
 - **[John Cumming](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
 - **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
 - **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
@@ -185,7 +187,7 @@ permalink: /indexes/by-family-name
 
 ## Reid
 
-- **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (about 14/Jan/1893 - )
+- **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - )
 
 ## Ross
 

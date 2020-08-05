@@ -26,6 +26,7 @@ permalink: /people/i87723702
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1873 | Born | Born to [James Cumming](./@66384942@-james-cumming-b1836-d.md) and X. | [1](#1) | 
+1921 | Residence | 16 Beethoven St. Roxbury, Boston, Massachusetts, USA | [2](#2) | 
 
 ## Notes
 
@@ -46,4 +47,12 @@ about 1873 | Born | Born to [James Cumming](./@66384942@-james-cumming-b1836-d.m
 * Filed by Entry: EMBO/P161/C1.3
 * References: 
   * (ISBN) 978-1-910205-49-5
+
+### 2
+
+**1921 CUMMING DONALD, JESSIE, JESSIE & THOMASINA - Passenger and Crew Lists**
+
+* [Full text and notes](../sources/@67676004@-1921-cumming-donald,-jessie,-jessie-&-thomasina-passenger-and-crew-lists.md)
+* Publication: List or Manifest of Alien Passengers for the United States Immigration Officer at Port of Arrival
+* Date: 28/Feb/1921
 

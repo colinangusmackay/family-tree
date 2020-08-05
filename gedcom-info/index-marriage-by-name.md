@@ -26,10 +26,12 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - ) and **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939) **on 27th of November 1903**.
   * **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-d.md)** (before 1865 - ) **on 25th of October 1887** at Dornoch, Sutherland, Scotland.
   * **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ) and X **on 22nd of December 1916** at Dingwall, Ross & Cromarty, Scotland.
+  * **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d.md)** (11/Nov/1891 - ) and **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) **on 12th of April 1918** at Middlesborough, England.
   * **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-d1977.md)** (1897 - 1977) **on 10th of December 1943** at , Broward, Florida, United States of America.
-  * **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - ) and **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (about 14/Jan/1893 - ) **on 12th of April 1929** at Brookline, Massachusetts, USA.
+  * **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - ) and **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - ) **on 12th of April 1929** at Brookline, Massachusetts, USA.
   * **[James Cumming](people/@66384942@-james-cumming-b1836-d.md)** (1836 - ) and X **on 21st of February 1860** at Dornoch, Sutherland, Scotland.
   * **[James Cumming](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975) and **[Williamina Gillie](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003) **on 2nd of May 1928** at Inverness, Scotland.
+  * **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) and **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d.md)** (11/Nov/1891 - ) **on 12th of April 1918** at Middlesborough, England.
   * **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ) **on 22nd of January 1901**.
   * **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954) and **[John Ross](people/@75057664@-john-ross-b1889-11-19-d.md)** (19/Nov/1889 - ) **on 19th of November 1889**.
   * **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md)** (26/Jul/1900 - 1981) and **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982) **on 21st of March 1930** at Toronto, York, Ontario, Canada.
@@ -138,7 +140,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Reid
 
-  * **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (about 14/Jan/1893 - ) and **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - ) **on 12th of April 1929** at Brookline, Massachusetts, USA.
+  * **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - ) and **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - ) **on 12th of April 1929** at Brookline, Massachusetts, USA.
 
 ## Ross
 

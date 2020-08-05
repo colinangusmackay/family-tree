@@ -1,10 +1,10 @@
 ﻿{
   "Subject": {
     "Id": "i66222886",
-    "Name": "Jessie-Ann Cumming",
+    "Name": "Jessie Ann Cumming",
     "Gender": "Female",
     "DateOfBirth": "8/Jan/1893",
-    "DateOfDeath": ""
+    "DateOfDeath": "31/Oct/1978"
   },
   "Parents": [
     {
@@ -55,10 +55,10 @@
     },
     {
       "Id": "i66222886",
-      "Name": "Jessie-Ann Cumming",
+      "Name": "Jessie Ann Cumming",
       "Gender": "Female",
       "DateOfBirth": "8/Jan/1893",
-      "DateOfDeath": "",
+      "DateOfDeath": "31/Oct/1978",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -152,6 +152,54 @@
       ]
     }
   ],
-  "Spouses": [],
-  "Children": []
+  "Spouses": [
+    {
+      "Id": "i11846578",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "11/Nov/1891",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "12/Apr/1918",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i65743680",
+      "Name": "Jessie Ann Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "1920",
+      "DateOfDeath": "before 1938",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i11846578",
+        "i66222886"
+      ]
+    },
+    {
+      "Id": "i42110198",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1922",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i11846578",
+        "i66222886"
+      ]
+    },
+    {
+      "Id": "i44164031",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "29/Jul/1923",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i11846578",
+        "i66222886"
+      ]
+    }
+  ]
 }

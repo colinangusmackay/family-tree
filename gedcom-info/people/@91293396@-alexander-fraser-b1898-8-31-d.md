@@ -10,9 +10,9 @@ permalink: /people/i91293396
 ## Immediate Family
 
 * Wife: X
-* Daughter: X
 * Father: X
 * Mother: X
+* Daughter: X
 
 ## Timeline
 
