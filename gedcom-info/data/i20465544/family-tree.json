@@ -1,7 +1,7 @@
 ﻿{
   "Subject": {
     "Id": "i20465544",
-    "Name": "Donald Cumming",
+    "Name": "Donald James? Cumming",
     "Gender": "Male",
     "DateOfBirth": "22/Mar/1861",
     "DateOfDeath": ""
@@ -27,7 +27,7 @@
   "Siblings": [
     {
       "Id": "i20465544",
-      "Name": "Donald Cumming",
+      "Name": "Donald James? Cumming",
       "Gender": "Male",
       "DateOfBirth": "22/Mar/1861",
       "DateOfDeath": "",
@@ -157,7 +157,7 @@
       "Id": "i70425788",
       "Name": "Ann Fraser",
       "Gender": "Female",
-      "DateOfBirth": "before 1865",
+      "DateOfBirth": "18/Sep/1865",
       "DateOfDeath": "",
       "RelationToSubject": "wife",
       "DateOfMarriage": "25/Oct/1887",

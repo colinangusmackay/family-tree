@@ -90,7 +90,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1860.**
   * **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - )
 * **Born in 1861.**
-  * **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - )
+  * **[Cumming, Donald James?](people/@20465544@-donald-james-cumming-b1861-3-22-d.md)** (22/Mar/1861 - )
   * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - )
 * **Born in 1863.**
   * **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
@@ -98,8 +98,8 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - )
 * **Born in 1865.**
   * **[Cumming, Alexander](people/@7306221@-alexander-cumming-b1865-d1884-5-7.md)** (about 1865 - 7/May/1884)
-  * **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-d.md)** (before 1865 - )
   * **[Grant, Christy](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
+  * **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d.md)** (18/Sep/1865 - )
 * **Born in 1866.**
   * **[Mackay, Jessie or Janet](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - )
 * **Born in 1867.**
@@ -151,7 +151,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Janet](people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md)** (12/Nov/1890 - 15/May/1891)
 * **Born in 1891.**
   * **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
-  * **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d.md)** (11/Nov/1891 - )
+  * **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
 * **Born in 1892.**
   * **[Stead, Emily](people/@58190216@-emily-stead-b1892-d.md)** (about 1892 - )
 * **Born in 1893.**

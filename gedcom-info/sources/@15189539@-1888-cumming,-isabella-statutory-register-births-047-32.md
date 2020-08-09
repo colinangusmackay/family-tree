@@ -41,5 +41,5 @@ References | 1888 047/32
 
 ## Source Referenced by
 
-* [Donald Cumming](../people/@20465544@-donald-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
+* [Donald James? Cumming](../people/@20465544@-donald-james-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
 * [Isabella Cumming](../people/@84684994@-isabella-cumming-b1888-7-21-d.md) (21/Jul/1888 - )

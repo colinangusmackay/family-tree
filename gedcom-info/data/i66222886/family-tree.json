@@ -9,7 +9,7 @@
   "Parents": [
     {
       "Id": "i20465544",
-      "Name": "Donald Cumming",
+      "Name": "Donald James? Cumming",
       "Gender": "Male",
       "DateOfBirth": "22/Mar/1861",
       "DateOfDeath": "",
@@ -19,7 +19,7 @@
       "Id": "i70425788",
       "Name": "Ann Fraser",
       "Gender": "Female",
-      "DateOfBirth": "before 1865",
+      "DateOfBirth": "18/Sep/1865",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     }
@@ -158,7 +158,7 @@
       "Name": "Donald Cumming",
       "Gender": "Male",
       "DateOfBirth": "11/Nov/1891",
-      "DateOfDeath": "",
+      "DateOfDeath": "Dec/1967",
       "RelationToSubject": "husband",
       "DateOfMarriage": "12/Apr/1918",
       "DateOfDivorce": ""

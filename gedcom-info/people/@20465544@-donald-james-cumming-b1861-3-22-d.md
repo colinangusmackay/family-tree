@@ -4,12 +4,12 @@ subject_key: i20465544
 permalink: /people/i20465544
 ---
 
-# Donald Cumming
+# Donald James? Cumming
 (22 March, 1861 - ?)
 
 ## Names
 
-* Donald Cumming
+* Donald James? Cumming
 * Donald James Cumming (variation)
 * Donald John Cumming (variation)
 
@@ -18,8 +18,8 @@ permalink: /people/i20465544
 * Mother: X
 * Father: [James Cumming](./@66384942@-james-cumming-b1836-d.md) (1836 - )
 * Sister: [Marion Cumming](./@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md) (20/May/1863 - 15/Nov/1954)
-* Wife: [Ann Fraser](./@70425788@-ann-fraser-b1865-d.md) (before 1865 - )
 * Brother: [Alexander Cumming](./@7306221@-alexander-cumming-b1865-d1884-5-7.md) (about 1865 - 7/May/1884)
+* Wife: [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) (18/Sep/1865 - )
 * Brother: [Kenneth Cumming](./@14447152@-kenneth-cumming-b1867-d.md) (about 1867 - )
 * Brother: [William Cumming](./@10016098@-william-cumming-b1870-d.md) (about 1870 - )
 * Brother: [John Cumming](./@87723702@-john-cumming-b1873-d.md) (about 1873 - )
@@ -64,6 +64,7 @@ Date | Item | Description | Sources | Notes
 
 **1861 X, DONALD Statutory registers births 047/19**
 
+* [Full text and notes](../sources/@26315820@-1861-cumming,-donald-statutory-registers-births-047-19.md)
 * Responsible Agency: National Records of Scotland
 
 ### 2
@@ -143,7 +144,7 @@ Date | Item | Description | Sources | Notes
 
 ### 10
 
-**1921 CUMMING DONALD, JESSIE, JESSIE & THOMASINA - Passenger and Crew Lists**
+**1921 X X, JESSIE, JESSIE & THOMASINA - Passenger and Crew Lists**
 
 * [Full text and notes](../sources/@67676004@-1921-cumming-donald,-jessie,-jessie-&-thomasina-passenger-and-crew-lists.md)
 * Publication: List or Manifest of Alien Passengers for the United States Immigration Officer at Port of Arrival

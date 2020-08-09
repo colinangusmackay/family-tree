@@ -11,7 +11,7 @@ permalink: /people/i7306221
 
 * Mother: X
 * Father: [James Cumming](./@66384942@-james-cumming-b1836-d.md) (1836 - )
-* Brother: [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
+* Brother: [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
 * Sister: [Marion Cumming](./@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md) (20/May/1863 - 15/Nov/1954)
 * Brother: [Kenneth Cumming](./@14447152@-kenneth-cumming-b1867-d.md) (about 1867 - )
 * Brother: [William Cumming](./@10016098@-william-cumming-b1870-d.md) (about 1870 - )

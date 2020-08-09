@@ -58,7 +58,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **1/Dec/1881** : **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ) and **[Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - ) at Dornoch, Sutherland, Scotland.
 * **1887**
   * **about 1887** : **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ).
-  * **25/Oct/1887** : **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-d.md)** (before 1865 - ) at Dornoch, Sutherland, Scotland.
+  * **25/Oct/1887** : **[Donald James? Cumming](people/@20465544@-donald-james-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d.md)** (18/Sep/1865 - ) at Dornoch, Sutherland, Scotland.
 * **1888**
   * **23/Oct/1888** : **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - ) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - ) at Dornoch, Sutherland, Scotland.
 * **1889**
@@ -95,7 +95,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **22/Dec/1916** : **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ) and X at Dingwall, Ross & Cromarty, Scotland.
 * **1918**
   * **1918** : **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - ).
-  * **12/Apr/1918** : **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d.md)** (11/Nov/1891 - ) and **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) at Middlesborough, England.
+  * **12/Apr/1918** : **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967) and **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) at Middlesborough, England.
 * **1919**
   * **24/Jun/1919** : X and **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d.md)** (23/Sep/1889 - ) at Glasgow, Scotland.
 

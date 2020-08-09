@@ -9,8 +9,8 @@ permalink: /people/i22331378
 
 ## Immediate Family
 
-* Father: [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
-* Mother: [Ann Fraser](./@70425788@-ann-fraser-b1865-d.md) (before 1865 - )
+* Father: [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
+* Mother: [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) (18/Sep/1865 - )
 * Sister: [Isabella Cumming](./@84684994@-isabella-cumming-b1888-7-21-d.md) (21/Jul/1888 - )
 * Sister: [Alexandrina Cumming](./@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md) (30/Mar/1891 - 10/Apr/1987)
 * Sister: [Jessie Ann Cumming](./@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md) (8/Jan/1893 - 31/Oct/1978)
@@ -24,7 +24,7 @@ permalink: /people/i22331378
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-29/Nov/1906 | Born | Born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+29/Nov/1906 | Born | Born to [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
 before 1925 | Residence | Embo, Sutherland, Scotland | [3](#3) | 
 15/Jun/1925 | Immigrated | Immigrated to New York, New York, USA. (SS Cameronia) | [3](#3) | [4](#4)
 1930 | Residence | 80 Summit Ave., Brookline, Massachusetts, USA |  | 

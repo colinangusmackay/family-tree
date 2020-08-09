@@ -47,7 +47,9 @@ permalink: /indexes/by-occupation
 ## Fisherman
 
 * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - ).
-* **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ), mentioned 7 times.
+* **[Cumming, Donald James?](people/@20465544@-donald-james-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ), mentioned 7 times.
+* **[Cumming, James](people/@66384942@-james-cumming-b1836-d.md)** (1836 - ).
+* **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d.md)** (19/Oct/1877 - ).
 * **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ).
 * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ).
@@ -61,7 +63,7 @@ permalink: /indexes/by-occupation
 
 ## Fishermand
 
-* **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ).
+* **[Cumming, Donald James?](people/@20465544@-donald-james-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ).
 
 ## Fishworker
 
@@ -102,7 +104,7 @@ permalink: /indexes/by-occupation
 
 ## Painter
 
-* **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d.md)** (11/Nov/1891 - ).
+* **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967), mentioned 2 times.
 
 ## Practical Nursing
 
@@ -110,15 +112,19 @@ permalink: /indexes/by-occupation
 
 ## Printer
 
-* **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d.md)** (11/Nov/1891 - ).
+* **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967).
 
 ## Proprietor Childrens Nursery
 
 * **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016).
 
+## Shorthand Typist
+
+* **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973).
+
 ## Stenographer
 
-* **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973), mentioned 2 times.
+* **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973), mentioned 3 times.
 
 ## Tinsmith
 

@@ -9,8 +9,8 @@ permalink: /people/i13773669
 
 ## Immediate Family
 
-* Father: [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
-* Mother: [Ann Fraser](./@70425788@-ann-fraser-b1865-d.md) (before 1865 - )
+* Father: [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
+* Mother: [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) (18/Sep/1865 - )
 * Sister: [Isabella Cumming](./@84684994@-isabella-cumming-b1888-7-21-d.md) (21/Jul/1888 - )
 * Sister: [Alexandrina Cumming](./@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md) (30/Mar/1891 - 10/Apr/1987)
 * Sister: [Jessie Ann Cumming](./@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md) (8/Jan/1893 - 31/Oct/1978)
@@ -25,12 +25,12 @@ permalink: /people/i13773669
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-31/May/1898 | Born | Born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2), [3](#3) | 
-26/Jul/1900 | Birth of sister | [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-d.md) in Embo, Sutherland, Scotland. | [4](#4) | 
+31/May/1898 | Born | Born to [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2), [3](#3) | 
+26/Jul/1900 | Birth of sister | [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) born to [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) in Embo, Sutherland, Scotland. | [4](#4) | 
 1901 | Residence | 9 Back Street, Embo, Sutherland, Scotland | [5](#5) | 
-24/Nov/1902 | Birth of sister | [Thomasina Ian Cumming](./@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-d.md) in Embo, Sutherland, Scotland. | [6](#6), [3](#3) | 
-15/Dec/1904 | Birth of sister | [Christine Cumming](./@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-d.md) in Embo, Sutherland, Scotland. | [7](#7), [8](#8) | 
-29/Nov/1906 | Birth of brother | [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-d.md) in Embo, Sutherland, Scotland. | [9](#9), [3](#3) | 
+24/Nov/1902 | Birth of sister | [Thomasina Ian Cumming](./@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) born to [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) in Embo, Sutherland, Scotland. | [6](#6), [3](#3) | 
+15/Dec/1904 | Birth of sister | [Christine Cumming](./@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) born to [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) in Embo, Sutherland, Scotland. | [7](#7), [8](#8) | 
+29/Nov/1906 | Birth of brother | [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d.md) born to [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) in Embo, Sutherland, Scotland. | [9](#9), [3](#3) | 
 1915 | Residence | 9 Front Street, Embo, Sutherland, Scotland | [10](#10) | 
 20/May/1920 | Residence | 25 Steven Street, St George's Cross, Glasgow, Scotland | [10](#10) | 
 20/Aug/1920 | Immigrated | Immigrated to New York, New York, USA. | [11](#11), [12](#12) | 

@@ -43,4 +43,4 @@ References |
 
 ## Source Referenced by
 
-* [Donald Cumming](../people/@11846578@-donald-cumming-b1891-11-11-d.md) (11/Nov/1891 - )
+* [Donald Cumming](../people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md) (11/Nov/1891 - Dec/1967)

@@ -4,7 +4,7 @@
     "Name": "Donald Cumming",
     "Gender": "Male",
     "DateOfBirth": "11/Nov/1891",
-    "DateOfDeath": ""
+    "DateOfDeath": "Dec/1967"
   },
   "Parents": [
     {
@@ -22,7 +22,7 @@
       "Name": "Donald Cumming",
       "Gender": "Male",
       "DateOfBirth": "11/Nov/1891",
-      "DateOfDeath": "",
+      "DateOfDeath": "Dec/1967",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
