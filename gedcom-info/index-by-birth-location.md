@@ -101,6 +101,10 @@ permalink: /indexes/by-birth-location
 
 ### Yorkshire
 
+#### Bramley
+
+- **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
+
 #### Morley
 
 - **[, Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
@@ -109,10 +113,6 @@ permalink: /indexes/by-birth-location
 - **[Stead, George](people/@77215226@-george-stead-b1911-3-d.md)** (Mar/1911 - )
 - **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - )
 - **[Stead, Laura](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
-
-#### Bramley
-
-- **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
 
 
 ## Scotland
@@ -123,7 +123,33 @@ permalink: /indexes/by-birth-location
 
 - **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
 
+### Glasgow
+
+- **[O'Malley, Margaret Paton](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
+
+### Lanarkshire
+
+#### Wishaw
+
+- **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - )
+
+### Perthshire
+
+#### Findo Gask
+
+- **[Gardiner, William](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986)
+
+### Ross and Cromarty
+
+#### Tain
+
+- **[Fraser, Kenneth](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
+
 ### Sutherland
+
+#### Brora
+
+- **[Cumming, Anne](people/@14926290@-anne-cumming-b1920-2-23-d2002-11-14.md)** (23/Feb/1920 - 14/Nov/2002)
 
 #### Embo
 
@@ -163,30 +189,4 @@ permalink: /indexes/by-birth-location
 #### Helmsdale
 
 - **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
-
-#### Brora
-
-- **[Cumming, Anne](people/@14926290@-anne-cumming-b1920-2-23-d2002-11-14.md)** (23/Feb/1920 - 14/Nov/2002)
-
-### Glasgow
-
-- **[O'Malley, Margaret Paton](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
-
-### Ross and Cromarty
-
-#### Tain
-
-- **[Fraser, Kenneth](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
-
-### Lanarkshire
-
-#### Wishaw
-
-- **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - )
-
-### Perthshire
-
-#### Findo Gask
-
-- **[Gardiner, William](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986)
 

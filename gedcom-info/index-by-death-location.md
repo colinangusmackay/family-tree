@@ -130,6 +130,16 @@ permalink: /indexes/by-death-location
 
 ## Scotland
 
+### Edinburgh
+
+- **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
+- **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
+- **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
+
+### Glasgow
+
+- **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md)** (26/Jul/1900 - 1981)
+
 ### Perthshire
 
 #### Perth
@@ -138,6 +148,10 @@ permalink: /indexes/by-death-location
 - **[Gardiner, William](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986)
 
 ### Sutherland
+
+#### Dornoch
+
+- **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
 
 #### Embo
 
@@ -149,39 +163,25 @@ permalink: /indexes/by-death-location
 - **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969)
 - **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
 
-#### Dornoch
-
-- **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
-
-### Glasgow
-
-- **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md)** (26/Jul/1900 - 1981)
-
 ### West Lothian
 
 #### Livingston
 
 - **[O'Malley, Margaret Paton](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
 
-### Edinburgh
-
-- **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
-- **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
-- **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
-
 
 ## USA
 
 ### Florida
-
-#### West Palm Beach, Palm Beach
-
-- **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
-- **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 
 #### Palm Beach
 
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
 - **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
+
+#### West Palm Beach, Palm Beach
+
+- **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
+- **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 
