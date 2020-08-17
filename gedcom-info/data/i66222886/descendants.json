@@ -17,12 +17,40 @@
     },
     {
       "Id": "i42110198",
-      "Name": "X",
+      "Name": "Donald James Cumming",
       "Gender": "Male",
       "Relationship": "son",
       "DateOfBirth": "19/Jan/1922",
-      "DateOfDeath": "",
-      "Children": []
+      "DateOfDeath": "15/Jan/1976",
+      "Children": [
+        {
+          "Id": "i51372794",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i87118008",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i8072596",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
     },
     {
       "Id": "i44164031",

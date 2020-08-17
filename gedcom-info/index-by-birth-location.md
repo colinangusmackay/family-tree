@@ -160,7 +160,7 @@ permalink: /indexes/by-birth-location
 - **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
 - **[Cumming, Donald](people/@64759184@-donald-cumming-b1903-5-4-d.md)** (4/May/1903 - )
 - **[Cumming, Donald James?](people/@20465544@-donald-james-cumming-b1861-3-22-d.md)** (22/Mar/1861 - )
-- **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d.md)** (29/Nov/1906 - )
+- **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - )
 - **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
@@ -189,4 +189,13 @@ permalink: /indexes/by-birth-location
 #### Helmsdale
 
 - **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
+
+
+## United States of America
+
+### Massachusetts
+
+#### Boston
+
+- **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-15.md)** (19/Jan/1922 - 15/Jan/1976)
 

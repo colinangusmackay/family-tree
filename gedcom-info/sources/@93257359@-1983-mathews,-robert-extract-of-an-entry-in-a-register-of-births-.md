@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s93257359
 ---
 
-# 1983 X, XERT (Extract of an Entry in a REGISTER of BIRTHS)
+# 1983 X, X (Extract of an Entry in a REGISTER of BIRTHS)
 
 Field | Detail
 ---:|:---

@@ -57,4 +57,4 @@ References |
 
 ## Source Referenced by
 
-* [Donald John Cumming](../people/@22331378@-donald-john-cumming-b1906-11-29-d.md) (29/Nov/1906 - )
+* [Donald John Cumming](../people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md) (29/Nov/1906 - 15/Mar/1986)

@@ -22,7 +22,7 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1897 | Born | Born. | [1](#1) | 
 10/Dec/1943 | Marriage | Married to [George Davidson Smith Cumming](./@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md) in , Broward, Florida, United States of America | [2](#2) | 
-Aug/1965 | Death of partner | [George Davidson Smith Cumming](./@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md) died in Palm Beach, Florida, USA. | [3](#3), [4](#4) | 
+Aug/1965 | Death of partner | [George Davidson Smith Cumming](./@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md) died in Palm Beach, Florida, United States of America. | [3](#3), [4](#4) | 
 1977 | Died | Died. | [1](#1) | 
 
 ## Footnotes

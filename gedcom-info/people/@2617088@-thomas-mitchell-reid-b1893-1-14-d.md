@@ -18,14 +18,16 @@ permalink: /people/i2617088
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 14/Jan/1893 | Born | Born to X and X in Wishaw, Lanarkshire, Scotland. | [1](#1), [2](#2), [3](#3), [4](#4) | [5](#5)
-2/Sep/1923 | Immigrated | Immigrated to New York, New York, USA. | [3](#3) | 
+2/Sep/1923 | Immigrated | Immigrated to New York, New York, United States of America. | [3](#3) | 
 1930 | Residence | 82 Summit Ave., Brookline, Massachusetts, USA | [6](#6) | 
 1930 | Occupation | Tinsmith | [6](#6) | 
+1940 | Residence | 80 Summit Ave, Brookline, Massachusetts, USA | [7](#7) | 
+1940 | Occupation | Caretaker | [7](#7) | 
 1942 | Residence | 80 Summit Avenue, Brookline, Norfolk, Massachusetts, USA | [2](#2) | 
 27/Apr/1942 | EVEN:Military Conscription/Draft |  | [2](#2) | 
 1960 | Occupation | Gardener | [4](#4) | 
-1960 | Residence | 427 "I" Aveune, National City, San Diego, California, USA | [4](#4) | [7](#7)
-8/Sep/1960 | Naturalised | Naturalised in San Diego, California, USA. | [4](#4) | 
+1960 | Residence | 427 "I" Aveune, National City, San Diego, California, USA | [4](#4) | [8](#8)
+8/Sep/1960 | Naturalised | Naturalised in San Diego, California, United States of America. | [4](#4) | 
 
 ## Footnotes
 
@@ -77,6 +79,13 @@ Date | Item | Description | Sources | Notes
 * Date: 7/Apr/1930
 
 ### 7
+
+**1940 REID, THOMAS & ISABELLA - 1940 United States Federal Census**
+
+* [Full text and notes](../sources/@82313037@-1940-reid,-thomas-&-isabella-1940-united-states-federal-census.md)
+* Date: 1940
+
+### 8
 
 > Google Maps link for 427 "I" Avenue, National City.
 >

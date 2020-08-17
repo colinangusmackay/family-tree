@@ -19,7 +19,7 @@ permalink: /people/i13773669
 * Sister: [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
 * Sister: [Thomasina Ian Cumming](./@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) (24/Nov/1902 - 1/Jun/1973)
 * Sister: [Christine Cumming](./@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) (15/Dec/1904 - 10/Nov/1996)
-* Brother: [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d.md) (29/Nov/1906 - )
+* Brother: [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md) (29/Nov/1906 - 15/Mar/1986)
 
 ## Timeline
 
@@ -30,24 +30,26 @@ Date | Item | Description | Sources | Notes
 1901 | Residence | 9 Back Street, Embo, Sutherland, Scotland | [5](#5) | 
 24/Nov/1902 | Birth of sister | [Thomasina Ian Cumming](./@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) born to [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) in Embo, Sutherland, Scotland. | [6](#6), [3](#3) | 
 15/Dec/1904 | Birth of sister | [Christine Cumming](./@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) born to [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) in Embo, Sutherland, Scotland. | [7](#7), [8](#8) | 
-29/Nov/1906 | Birth of brother | [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d.md) born to [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) in Embo, Sutherland, Scotland. | [9](#9), [3](#3) | 
+29/Nov/1906 | Birth of brother | [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md) born to [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) in Embo, Sutherland, Scotland. | [9](#9), [3](#3) | 
 1915 | Residence | 9 Front Street, Embo, Sutherland, Scotland | [10](#10) | 
 20/May/1920 | Residence | 25 Steven Street, St George's Cross, Glasgow, Scotland | [10](#10) | 
-20/Aug/1920 | Immigrated | Immigrated to New York, New York, USA. | [11](#11), [12](#12) | 
+20/Aug/1920 | Immigrated | Immigrated to New York, New York, United States of America. | [11](#11), [12](#12) | 
 1922 | Residence | 152 Pearl Street, Cambridge, Mass. USA | [10](#10) | 
 1930 | Residence | 80 Summit Avenue, Brookline, Massachusetts, USA | [13](#13) | 
 1930 | Occupation | Machinist | [13](#13) | 
+1935 | Residence | 80 Summit Ave, Brookline, Massachusetts, USA | [14](#14) | 
 1936 | Occupation | Machinist | [12](#12) | 
 1936 | Residence | 80 Summit Avenue, Brookline, Massachusetts, USA | [12](#12) | 
-26/Mar/1936 | Naturalised | Naturalised in Boston, Massachusetts, USA. (Declaration of Intent) | [12](#12) | 
-1937 | Occupation | Machinist | [14](#14) | 
-1939 | Occupation | Machinist | [15](#15) | 
+26/Mar/1936 | Naturalised | Naturalised in Boston, Massachusetts, United States of America. (Declaration of Intent) | [12](#12) | 
+1937 | Occupation | Machinist | [15](#15) | 
+1939 | Occupation | Machinist | [16](#16) | 
 1939 | Residence | 80 Summit Avenue, Brookline, Massachusetts, USA |  | 
-2/May/1939 | Naturalised | Naturalised in Boston, Massachusetts, USA. (Petition for Naturalization) | [15](#15) | 
+2/May/1939 | Naturalised | Naturalised in Boston, Massachusetts, United States of America. (Petition for Naturalization) | [16](#16) | 
+1940 | Residence | 80 Summit Ave, Brookline, Massachusetts, USA | [14](#14) | 
 1942 | Residence | 80 Summit Avenue, Brookline, Norfolk, Massachusetts, USA | [2](#2) | 
 16/Feb/1942 | EVEN:Military Conscription/Draft |  | [2](#2) | 
-10/Dec/1943 | Marriage | Married to [Margaret Hogg Hatelie](./@43723296@-margaret-hogg-hatelie-b1897-d1977.md) in , Broward, Florida, United States of America | [16](#16) | 
-Aug/1965 | Died | Died in Palm Beach, Florida, USA. | [17](#17), [18](#18) | 
+10/Dec/1943 | Marriage | Married to [Margaret Hogg Hatelie](./@43723296@-margaret-hogg-hatelie-b1897-d1977.md) in , Broward, Florida, United States of America | [17](#17) | 
+Aug/1965 | Died | Died in Palm Beach, Florida, United States of America. | [18](#18), [19](#19) | 
 
 ## Notes
 
@@ -169,12 +171,18 @@ Aug/1965 | Died | Died in Palm Beach, Florida, USA. | [17](#17), [18](#18) |
 
 ### 14
 
+**1940 CUMMING, ALEXINA, GEORGE, THOMASINA, & CHRISTINE - 1940 United States Federal Census**
+
+* [Full text and notes](../sources/@80891523@-1940-cumming,-alexina,-george,-thomasina,-&-christine-1940-united-states-federal-census.md)
+
+### 15
+
 **1937 CUMMING, GEORGE DAVIDSON SMITH**
 
 * [Full text and notes](../sources/@63974962@-1937-cumming,-george-davidson-smith.md)
 * Date: 16/Jul/1937
 
-### 15
+### 16
 
 **1939 CUMMING, GEORGE DAVIDSON SMITH - Petition for Naturalization**
 
@@ -183,7 +191,7 @@ Aug/1965 | Died | Died in Palm Beach, Florida, USA. | [17](#17), [18](#18) |
 * References: 
   * 199316
 
-### 16
+### 17
 
 **1943 CUMMING, GEORGE DAVIDSON SMITH - Florida County Marriage Records**
 
@@ -192,14 +200,14 @@ Aug/1965 | Died | Died in Palm Beach, Florida, USA. | [17](#17), [18](#18) |
 * References: 
   * (Film Number) 002241560
 
-### 17
+### 18
 
 **1965 CUMMING, GEORGE D S - Florida Death Index**
 
 * [Full text and notes](../sources/@66019328@-1965-cumming,-george-d-s-florida-death-index.md)
 * Publication: Florida Death Index 1877-1998
 
-### 18
+### 19
 
 **1965 CUMMING, GEORGE DAVIDSON SMITH - FindAGrave.com memorial**
 

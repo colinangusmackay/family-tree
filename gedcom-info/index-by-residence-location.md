@@ -60,7 +60,7 @@ permalink: /indexes/by-residence-location
 - **[Cumming, Adam](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - )
 - **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
 - **[Cumming, Donald James?](people/@20465544@-donald-james-cumming-b1861-3-22-d.md)** (22/Mar/1861 - )
-- **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d.md)** (29/Nov/1906 - )
+- **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - )
 - **[Cumming, James](people/@66384942@-james-cumming-b1836-d.md)** (1836 - )
@@ -97,7 +97,7 @@ permalink: /indexes/by-residence-location
 - **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 
 
-## United Stated of America
+## United States of America
 
 ### California
 
@@ -105,42 +105,25 @@ permalink: /indexes/by-residence-location
 
 - **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
 - **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - )
+- **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
 - **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - )
 
-
-## United States of America
-
-### Massachusetts
-
-#### Lowell, Middlesex
-
-- **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d.md)** (29/Nov/1906 - )
-
-#### Newton Highlands, Middlesex
-
-- **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
-- **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
-
-### Washington
-
-#### Seattle
-
-- **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
-
-
-## USA
-
-### California
-
-#### National City, San Diego
-
-- **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
-
 ### Florida
+
+#### Polk City, Polk
+
+- **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
+- **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
 
 #### West Palm Beach, Palm Beach
 
 - **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
+
+### Hawaii
+
+#### Honolulu
+
+- **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 
 ### Massachusetts
 
@@ -153,7 +136,8 @@ permalink: /indexes/by-residence-location
 
 - **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
 - **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
-- **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d.md)** (29/Nov/1906 - )
+- **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-15.md)** (19/Jan/1922 - 15/Jan/1976)
+- **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - )
 - **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
@@ -165,4 +149,28 @@ permalink: /indexes/by-residence-location
 - **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
+
+#### Lowell, Middlesex
+
+- **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
+
+#### Newton Highlands, Middlesex
+
+- **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
+- **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-15.md)** (19/Jan/1922 - 15/Jan/1976)
+- **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
+
+#### Quincy
+
+- **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-15.md)** (19/Jan/1922 - 15/Jan/1976)
+
+#### Weymouth
+
+- **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-15.md)** (19/Jan/1922 - 15/Jan/1976)
+
+### Washington
+
+#### Seattle
+
+- **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
 

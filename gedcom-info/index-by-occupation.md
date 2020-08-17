@@ -10,7 +10,11 @@ permalink: /indexes/by-occupation
 
 ## Bookkeeper
 
-* **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d.md)** (29/Nov/1906 - ).
+* **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
+
+## Caretaker
+
+* **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - ).
 
 ## Cement Finisher
 
@@ -27,6 +31,10 @@ permalink: /indexes/by-occupation
 ## Dairy Maid
 
 * **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998).
+
+## Draftsman
+
+* **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-15.md)** (19/Jan/1922 - 15/Jan/1976).
 
 ## Electrician
 
@@ -47,7 +55,7 @@ permalink: /indexes/by-occupation
 ## Fisherman
 
 * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - ).
-* **[Cumming, Donald James?](people/@20465544@-donald-james-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ), mentioned 7 times.
+* **[Cumming, Donald James?](people/@20465544@-donald-james-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ), mentioned 8 times.
 * **[Cumming, James](people/@66384942@-james-cumming-b1836-d.md)** (1836 - ).
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d.md)** (19/Oct/1877 - ).
@@ -60,10 +68,6 @@ permalink: /indexes/by-occupation
 * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ).
 * **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ).
-
-## Fishermand
-
-* **[Cumming, Donald James?](people/@20465544@-donald-james-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ).
 
 ## Fishworker
 
@@ -91,12 +95,16 @@ permalink: /indexes/by-occupation
 
 ## Mill Worker
 
-* **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d.md)** (29/Nov/1906 - ).
+* **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 
 ## Nurse
 
-* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 3 times.
+* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 5 times.
 * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md)** (26/Jul/1900 - 1981), mentioned 2 times.
+
+## Nurse Director
+
+* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 2 times.
 
 ## Office/Contract Cleaner
 
@@ -124,7 +132,7 @@ permalink: /indexes/by-occupation
 
 ## Stenographer
 
-* **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973), mentioned 3 times.
+* **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973), mentioned 4 times.
 
 ## Tinsmith
 

@@ -43,12 +43,40 @@
         },
         {
           "Id": "i42110198",
-          "Name": "X",
+          "Name": "Donald James Cumming",
           "Gender": "Male",
           "Relationship": "son",
           "DateOfBirth": "19/Jan/1922",
-          "DateOfDeath": "",
-          "Children": []
+          "DateOfDeath": "15/Jan/1976",
+          "Children": [
+            {
+              "Id": "i51372794",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i87118008",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i8072596",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
         },
         {
           "Id": "i44164031",
@@ -332,7 +360,7 @@
                   "Id": "i76071256",
                   "Name": "X",
                   "Gender": "Male",
-                  "Relationship": "son",
+                  "Relationship": "step-son",
                   "DateOfBirth": "12/Feb/1999",
                   "DateOfDeath": "",
                   "Children": []
@@ -543,7 +571,7 @@
       "Gender": "Male",
       "Relationship": "son",
       "DateOfBirth": "29/Nov/1906",
-      "DateOfDeath": "",
+      "DateOfDeath": "15/Mar/1986",
       "Children": []
     }
   ]

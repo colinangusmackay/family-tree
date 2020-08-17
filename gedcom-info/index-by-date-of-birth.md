@@ -201,7 +201,7 @@ permalink: /indexes/by-date-of-birth
   * **[Ramsay, Jack](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
   * **[Ross, Johan or Janet](people/@18017632@-johan-or-janet-ross-b1905-d.md)** (1905 - )
 * **Born in 1906.**
-  * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d.md)** (29/Nov/1906 - )
+  * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
 * **Born in 1907.**
   * **[Ross, Jeanie](people/@71751658@-jeanie-ross-b1907-d.md)** (1907 - )
 * **Born in 1908.**
@@ -238,6 +238,8 @@ permalink: /indexes/by-date-of-birth
   * **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
   * **[Cumming, Anne](people/@14926290@-anne-cumming-b1920-2-23-d2002-11-14.md)** (23/Feb/1920 - 14/Nov/2002)
   * **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
+* **Born in 1922.**
+  * **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-15.md)** (19/Jan/1922 - 15/Jan/1976)
 * **Born in 1924.**
   * **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 

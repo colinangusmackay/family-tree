@@ -142,7 +142,7 @@
       "Name": "Donald John Cumming",
       "Gender": "Male",
       "DateOfBirth": "29/Nov/1906",
-      "DateOfDeath": "",
+      "DateOfDeath": "15/Mar/1986",
       "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
@@ -179,10 +179,10 @@
     },
     {
       "Id": "i42110198",
-      "Name": "X",
+      "Name": "Donald James Cumming",
       "Gender": "Male",
       "DateOfBirth": "19/Jan/1922",
-      "DateOfDeath": "",
+      "DateOfDeath": "15/Jan/1976",
       "RelationToSubject": "son",
       "ParentIds": [
         "i11846578",

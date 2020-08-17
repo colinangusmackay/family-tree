@@ -25,7 +25,7 @@ permalink: /people/i84684994
 * Sister: [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
 * Sister: [Thomasina Ian Cumming](./@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) (24/Nov/1902 - 1/Jun/1973)
 * Sister: [Christine Cumming](./@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) (15/Dec/1904 - 10/Nov/1996)
-* Brother: [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d.md) (29/Nov/1906 - )
+* Brother: [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md) (29/Nov/1906 - 15/Mar/1986)
 
 ## Timeline
 
@@ -33,13 +33,13 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 21/Jul/1888 | Born | Born to [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
 1901 | Residence | 9 Back Street, Embo, Sutherland, Scotland | [3](#3) | 
-7/May/1920 | Immigrated | Immigrated to New York, New York, USA. (Arrived on the S.S. Celtic) | [4](#4) | 
+7/May/1920 | Immigrated | Immigrated to New York, New York, United States of America. (Arrived on the S.S. Celtic) | [4](#4) | 
 1930 | Residence | 82 Summit Ave., Brookline, Massachusetts, USA | [5](#5) | 
-1940 | Residence | 80 Summit Avenue, Brookline, Mass., USA | [6](#6) | 
-1942 | Residence | 82 Summit Avenue, Brookline, Massachusetts, USA | [7](#7) | 
+1940 | Residence | 80 Summit Avenue, Brookline, Mass., USA | [6](#6), [7](#7) | 
+1942 | Residence | 82 Summit Avenue, Brookline, Massachusetts, USA | [8](#8) | 
 1960 | Occupation | Practical Nursing | [4](#4) | 
-1960 | Residence | 427 "I" Avenue, National City, San Diego, California, USA |  | [8](#8)
-8/Sep/1960 | Naturalised | Naturalised in San Diego, California, USA. (USA Petition for Naturalization No 3898) | [4](#4) | 
+1960 | Residence | 427 "I" Avenue, National City, San Diego, California, USA |  | [9](#9)
+8/Sep/1960 | Naturalised | Naturalised in San Diego, California, United States of America. (USA Petition for Naturalization No 3898) | [4](#4) | 
 
 ## Notes
 
@@ -104,12 +104,19 @@ Date | Item | Description | Sources | Notes
 
 ### 7
 
+**1940 REID, THOMAS & ISABELLA - 1940 United States Federal Census**
+
+* [Full text and notes](../sources/@82313037@-1940-reid,-thomas-&-isabella-1940-united-states-federal-census.md)
+* Date: 1940
+
+### 8
+
 **1942 CUMMING, GEORGE DAVIDSON SMITH - U.S. World War II Draft Card**
 
 * [Full text and notes](../sources/@46960065@-1942-cumming,-george-davidson-smith-u.s.-world-war-ii-draft-card.md)
 * Date: 16/Feb/1942
 
-### 8
+### 9
 
 > Google Maps link for 427 "I" Avenue, National City.
 >

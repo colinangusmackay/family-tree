@@ -34,7 +34,7 @@ permalink: /people/i20465544
 * Daughter: [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
 * Daughter: [Thomasina Ian Cumming](./@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) (24/Nov/1902 - 1/Jun/1973)
 * Daughter: [Christine Cumming](./@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) (15/Dec/1904 - 10/Nov/1996)
-* Son: [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d.md) (29/Nov/1906 - )
+* Son: [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md) (29/Nov/1906 - 15/Mar/1986)
 
 ## Timeline
 
@@ -43,9 +43,9 @@ Date | Item | Description | Sources | Notes
 22/Mar/1861 | Born | Born to [James Cumming](./@66384942@-james-cumming-b1836-d.md) and X in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
 1888 | Occupation | Fisherman | [3](#3) | 
 1891 | Occupation | Fisherman | [4](#4) | 
-1898 | Occupation | Fishermand |  | 
+1898 | Occupation | Fisherman |  | 
 1900 | Occupation | Fisherman | [5](#5) | 
-1901 | Residence | 9 Back Street, Embo, Sutherland, Scotland | [6](#6) | 
+1901 | Residence | Mizpah Cottage, 9 Front Street, Embo, Sutherland, Scotland | [6](#6) | 
 1901 | Occupation | Fisherman | [6](#6) | 
 1902 | Occupation | Fisherman | [7](#7) | 
 1904 | Occupation | Fisherman | [8](#8) | 
