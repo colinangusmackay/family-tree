@@ -33,6 +33,7 @@ Here are some starting points:
   * [date of birth](gedcom-info/index-by-date-of-birth.md).
   * [birth location](gedcom-info/index-by-birth-location.md).
   * [death location](gedcom-info/index-by-death-location.md).
+  * [residence location](gedcom-info/index-by-residence-location.md).
 * Index of marriages by
   * [date](gedcom-info/index-marriage-by-date.md).
   * [family name](gedcom-info/index-marriage-by-name.md). Note: this is by birth name.
