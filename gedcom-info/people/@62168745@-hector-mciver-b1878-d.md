@@ -9,9 +9,9 @@ permalink: /people/i62168745
 
 ## Immediate Family
 
-* Daughter: [Elizabeth McIver](./@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
 * Father: X
 * Mother: X
+* Daughter: [Elizabeth McIver](./@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
 * Wife: [Margaret Patterson McKenzie](./@88610293@-margaret-patterson-mckenzie-b1884-d1964.md) (1884 - 1964)
 * Son: [Roderick McIver](./@90830540@-roderick-mciver-b1910-d1999.md) (1910 - 1999)
 * Daughter: [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015.md) (1918 - 2015)

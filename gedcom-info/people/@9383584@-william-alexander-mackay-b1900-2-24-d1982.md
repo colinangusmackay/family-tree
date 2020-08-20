@@ -245,7 +245,3 @@ about 1935 | Occupation | Cement Finisher | [12](#12) |
 * Date: 9/Oct/1981
 * Responsible Agency: The Post Star (Glen Falls, New York)
 
-
-## See also
-
-- [Family Search Person Details](https://www.familysearch.org/tree/person/details/M3WZ-HZ5)

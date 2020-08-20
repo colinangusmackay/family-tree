@@ -19,7 +19,7 @@ permalink: /indexes/by-birth-location
 - **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d.md)** (1806 - )
 - **[Cumming, James](people/@66384942@-james-cumming-b1836-d.md)** (1836 - )
 - **[Cumming, James](people/@64418166@-james-cumming-b1881-d.md)** (about 1881 - )
-- **[Cumming, Jessie Ann](people/@65743680@-jessie-ann-cumming-b1920-d1938.md)** (1920 - before 1938)
+- **[Cumming, Jessie Ann](people/@65743680@-jessie-ann-cumming-b1920-6-16-d1921-3-26.md)** (16/Jun/1920 - 26/Mar/1921)
 - **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
 - **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
 - **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
@@ -197,5 +197,5 @@ permalink: /indexes/by-birth-location
 
 #### Boston
 
-- **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-15.md)** (19/Jan/1922 - 15/Jan/1976)
+- **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976)
 

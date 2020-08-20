@@ -9,10 +9,10 @@ permalink: /people/i35875756
 
 ## Immediate Family
 
-* Daughter: X
-* Daughter: X
 * Father: X
 * Mother: X
+* Daughter: X
+* Daughter: X
 * Wife: X
 * Brother: X
 * Brother: X

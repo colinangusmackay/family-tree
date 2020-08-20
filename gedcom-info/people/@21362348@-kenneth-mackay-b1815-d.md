@@ -16,8 +16,8 @@ permalink: /people/i21362348
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 calc'd 1815 | Born | Born. | [1](#1) | [2](#2)
-1869 | Residence | Embo, Sutherland, Scotland | [1](#1) | 
 1869 | Occupation | Fisherman |  | 
+1869 | Residence | Embo, Sutherland, Scotland | [1](#1) | 
 
 ## Notes
 

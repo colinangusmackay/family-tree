@@ -14,9 +14,9 @@ permalink: /people/i88610293
 
 ## Immediate Family
 
-* Daughter: [Elizabeth McIver](./@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
 * Father: X
 * Mother: X
+* Daughter: [Elizabeth McIver](./@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
 * Husband: [Hector McIver](./@62168745@-hector-mciver-b1878-d.md) (1878 - )
 * Son: [Roderick McIver](./@90830540@-roderick-mciver-b1910-d1999.md) (1910 - 1999)
 * Daughter: [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015.md) (1918 - 2015)

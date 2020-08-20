@@ -4,7 +4,7 @@
     "Name": "Donald James Cumming",
     "Gender": "Male",
     "DateOfBirth": "19/Jan/1922",
-    "DateOfDeath": "15/Jan/1976"
+    "DateOfDeath": "16/Jan/1976"
   },
   "Parents": [
     {
@@ -29,8 +29,8 @@
       "Id": "i65743680",
       "Name": "Jessie Ann Cumming",
       "Gender": "Female",
-      "DateOfBirth": "1920",
-      "DateOfDeath": "before 1938",
+      "DateOfBirth": "16/Jun/1920",
+      "DateOfDeath": "26/Mar/1921",
       "RelationToSubject": "sister",
       "ParentGroupIds": [
         [
@@ -44,7 +44,7 @@
       "Name": "Donald James Cumming",
       "Gender": "Male",
       "DateOfBirth": "19/Jan/1922",
-      "DateOfDeath": "15/Jan/1976",
+      "DateOfDeath": "16/Jan/1976",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [

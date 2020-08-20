@@ -35,8 +35,8 @@ Date | Item | Description | Sources | Notes
 20/May/1920 | Residence | 25 Steven Street, St George's Cross, Glasgow, Scotland | [10](#10) | 
 20/Aug/1920 | Immigrated | Immigrated to New York, New York, United States of America. | [11](#11), [12](#12) | 
 1922 | Residence | 152 Pearl Street, Cambridge, Mass. USA | [10](#10) | 
-1930 | Residence | 80 Summit Avenue, Brookline, Massachusetts, USA | [13](#13) | 
 1930 | Occupation | Machinist | [13](#13) | 
+1930 | Residence | 80 Summit Avenue, Brookline, Massachusetts, USA | [13](#13) | 
 1935 | Residence | 80 Summit Ave, Brookline, Massachusetts, USA | [14](#14) | 
 1936 | Occupation | Machinist | [12](#12) | 
 1936 | Residence | 80 Summit Avenue, Brookline, Massachusetts, USA | [12](#12) | 

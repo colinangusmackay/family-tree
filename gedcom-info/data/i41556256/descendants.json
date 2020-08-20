@@ -45,8 +45,8 @@
               "Name": "Jessie Ann Cumming",
               "Gender": "Female",
               "Relationship": "daughter",
-              "DateOfBirth": "1920",
-              "DateOfDeath": "before 1938",
+              "DateOfBirth": "16/Jun/1920",
+              "DateOfDeath": "26/Mar/1921",
               "Children": []
             },
             {
@@ -55,7 +55,7 @@
               "Gender": "Male",
               "Relationship": "son",
               "DateOfBirth": "19/Jan/1922",
-              "DateOfDeath": "15/Jan/1976",
+              "DateOfDeath": "16/Jan/1976",
               "Children": [
                 {
                   "Id": "i51372794",

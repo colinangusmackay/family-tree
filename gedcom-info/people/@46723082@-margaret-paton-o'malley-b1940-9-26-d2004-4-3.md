@@ -32,8 +32,8 @@ Date | Item | Description | Sources | Notes
 26/Sep/1940 | Born | Born to [Thomas O'Malley](./@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) and [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) in Glasgow, Scotland. | [1](#1), [2](#2) | 
 26/Nov/1940 | Baptism | Baptised at Renfield Street Church, Glasgow, Scotland | [3](#3) | [4](#4)
 1959 | Marriage | Married to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) in Glasgow, Scotland | [5](#5) | 
-22/Oct/1960 | Birth of son | X born to X and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Morley, Yorkshire, England. | [6](#6), [7](#7), [8](#8) | 
-16/Oct/1961 | Birth of daughter | [Linda Margaret Campbell](./@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) born to X and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, England. | [9](#9), [10](#10) | 
+22/Oct/1960 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Morley, Yorkshire, England. | [6](#6), [7](#7), [8](#8) | 
+16/Oct/1961 | Birth of daughter | [Linda Margaret Campbell](./@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, England. | [9](#9), [10](#10) | 
 21/Sep/1962 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, England. | [11](#11), [8](#8) | 
 2/Apr/1966 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Glasgow, Scotland. | [12](#12) | 
 before 1969 | Divorced | Divorced from [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md)  | [13](#13) | [14](#14)
@@ -211,7 +211,3 @@ before 2004 | Death of mother | [Margaret McLeod Paton](./@56209708@-margaret-mc
 * Publication: [https://billiongraves.com/grave/Margaret-Paton-Campbell/2755876](https://billiongraves.com/grave/Margaret-Paton-Campbell/2755876)
 * Date: 17/Nov/2012
 
-
-## See also
-
-- [Family Search Person Details](https://www.familysearch.org/tree/person/details/G7GR-982)

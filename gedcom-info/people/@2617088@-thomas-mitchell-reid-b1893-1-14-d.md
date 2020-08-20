@@ -19,10 +19,10 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 14/Jan/1893 | Born | Born to X and X in Wishaw, Lanarkshire, Scotland. | [1](#1), [2](#2), [3](#3), [4](#4) | [5](#5)
 2/Sep/1923 | Immigrated | Immigrated to New York, New York, United States of America. | [3](#3) | 
-1930 | Residence | 82 Summit Ave., Brookline, Massachusetts, USA | [6](#6) | 
 1930 | Occupation | Tinsmith | [6](#6) | 
-1940 | Residence | 80 Summit Ave, Brookline, Massachusetts, USA | [7](#7) | 
+1930 | Residence | 82 Summit Ave., Brookline, Massachusetts, USA | [6](#6) | 
 1940 | Occupation | Caretaker | [7](#7) | 
+1940 | Residence | 80 Summit Ave, Brookline, Massachusetts, USA | [7](#7) | 
 1942 | Residence | 80 Summit Avenue, Brookline, Norfolk, Massachusetts, USA | [2](#2) | 
 27/Apr/1942 | EVEN:Military Conscription/Draft |  | [2](#2) | 
 1960 | Occupation | Gardener | [4](#4) | 

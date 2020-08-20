@@ -34,7 +34,7 @@ permalink: /indexes/by-occupation
 
 ## Draftsman
 
-* **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-15.md)** (19/Jan/1922 - 15/Jan/1976).
+* **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976).
 
 ## Electrician
 
@@ -112,7 +112,7 @@ permalink: /indexes/by-occupation
 
 ## Painter
 
-* **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967), mentioned 2 times.
+* **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967), mentioned 3 times.
 
 ## Practical Nursing
 

@@ -45,8 +45,8 @@ Date | Item | Description | Sources | Notes
 1891 | Occupation | Fisherman | [4](#4) | 
 1898 | Occupation | Fisherman |  | 
 1900 | Occupation | Fisherman | [5](#5) | 
-1901 | Residence | Mizpah Cottage, 9 Front Street, Embo, Sutherland, Scotland | [6](#6) | 
 1901 | Occupation | Fisherman | [6](#6) | 
+1901 | Residence | Mizpah Cottage, 9 Front Street, Embo, Sutherland, Scotland | [6](#6) | 
 1902 | Occupation | Fisherman | [7](#7) | 
 1904 | Occupation | Fisherman | [8](#8) | 
 1906 | Occupation | Fisherman | [9](#9) | 
