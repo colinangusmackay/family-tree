@@ -33,12 +33,20 @@ Date | Item | Description | Sources | Notes
 7/Aug/1860 | Born | Born to X and X in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
 1888 | Residence | Embo, Sutherland, Scotland | [2](#2) | 
 
+## Notes
+
+> Rona Grigg's 2016 ref: F1.9.3
+>
+
+
 ## Footnotes
 
 ### 1
 
 **1860 X, ISABELLA Statutory registers Births 047/41**
 
+* [Full text and notes](../sources/@86735665@-1860-mackay,-isabella-statutory-registers-births-047-41.md)
+* Date: 21/Aug/1860
 * Responsible Agency: National Records of Scotland
 
 ### 2

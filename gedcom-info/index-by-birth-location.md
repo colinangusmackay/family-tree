@@ -8,6 +8,7 @@ permalink: /indexes/by-birth-location
 ## _Unknown_
 
 - **[, Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - )
+- **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
 - **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - )
 - **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
@@ -24,6 +25,7 @@ permalink: /indexes/by-birth-location
 - **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
 - **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
 - **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
+- **[Farnham, Mae](people/@53003230@-mae-farnham-b1885-d.md)** (before 1885 - )
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
 - **[Grant, Cate](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
 - **[Grant, Christy](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
@@ -56,6 +58,8 @@ permalink: /indexes/by-birth-location
 - **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
 - **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
 - **[Macrae, Janet](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - )
+- **[Martensen, Charles Raymond](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
+- **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
 - **[Matheson, Hector](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896)
 - **[Mathews, John Albert](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 - **[McIver, Elizabeth](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
@@ -79,6 +83,7 @@ permalink: /indexes/by-birth-location
 - **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
 - **[Ramsay, Jack](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
 - **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d.md)** (21/Feb/1880 - )
+- **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
 - **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
 - **[Ross, Jeanie](people/@71751658@-jeanie-ross-b1907-d.md)** (1907 - )
 - **[Ross, Johan or Janet](people/@18017632@-johan-or-janet-ross-b1905-d.md)** (1905 - )
@@ -88,6 +93,7 @@ permalink: /indexes/by-birth-location
 - **[Ross, Sarah](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - )
 - **[Ross, William](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
 - **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
+- **[Stevens, Thomas](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 - **[Sutherland, Isabella](people/@79967653@-isabella-sutherland-b1838-d.md)** (1838 - )
 - **[Thomson, Agnes](people/@96590245@-agnes-thomson-b1897-d.md)** (before 1897 - )
 
@@ -165,7 +171,7 @@ permalink: /indexes/by-birth-location
 - **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - )
 - **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 - **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
-- **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md)** (26/Jul/1900 - 1981)
+- **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981)
 - **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
 - **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
 - **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - )
@@ -198,4 +204,10 @@ permalink: /indexes/by-birth-location
 #### Boston
 
 - **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976)
+
+### New York
+
+#### Ilion
+
+- **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
 

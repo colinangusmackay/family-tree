@@ -62,7 +62,7 @@ permalink: /indexes/by-occupation
 * **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ).
 * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ).
 * **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ).
-* **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 2 times.
+* **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 3 times.
 * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - ), mentioned 5 times.
 * **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ).
 * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ).
@@ -100,7 +100,7 @@ permalink: /indexes/by-occupation
 ## Nurse
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 5 times.
-* **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md)** (26/Jul/1900 - 1981), mentioned 2 times.
+* **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981), mentioned 2 times.
 
 ## Nurse Director
 

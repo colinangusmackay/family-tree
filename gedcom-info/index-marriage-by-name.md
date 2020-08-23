@@ -26,7 +26,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - ) and **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939) **on 27th of November 1903**.
   * **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ) and X **on 22nd of December 1916** at Dingwall, Ross & Cromarty, Scotland.
   * **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967) and **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) **on 12th of April 1918** at Middlesborough, England.
-  * **[Donald James Cumming](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976) and X **in 1947** at , Norfolk County, Massachusetts, United States of America.
+  * **[Donald James Cumming](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976) and **[Phylis Martensen](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018) **in 1947** at , Norfolk County, Massachusetts, United States of America.
   * **[Donald James? Cumming](people/@20465544@-donald-james-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d.md)** (18/Sep/1865 - ) **on 25th of October 1887** at Dornoch, Sutherland, Scotland.
   * **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-d1977.md)** (1897 - 1977) **on 10th of December 1943** at , Broward, Florida, United States of America.
   * **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d.md)** (21/Jul/1888 - ) and **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - ) **on 12th of April 1929** at Brookline, Massachusetts, United States of America.
@@ -35,7 +35,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) and **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967) **on 12th of April 1918** at Middlesborough, England.
   * **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ) **on 22nd of January 1901**.
   * **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954) and **[John Ross](people/@75057664@-john-ross-b1889-11-19-d.md)** (19/Nov/1889 - ) **on 19th of November 1889**.
-  * **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md)** (26/Jul/1900 - 1981) and **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982) **on 21st of March 1930** at Toronto, York, Ontario, Canada.
+  * **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981) and **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982) **on 21st of March 1930** at Toronto, York, Ontario, Canada.
   * **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ) and **[May Miller](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - ) **on 2nd of January 1900**.
 
 ## Fraser
@@ -94,11 +94,15 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) and **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d.md)** (19/Oct/1877 - ) **on 2nd of March 1934** at Dornoch, Sutherland, Scotland.
   * **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841) and **[Janet Macrae](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - ).
   * **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ) and **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - ) **on 7th of November 1876** at Dornoch, Sutherland, Scotland.
-  * **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md)** (26/Jul/1900 - 1981) **on 21st of March 1930** at Toronto, York, Ontario, Canada.
+  * **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981) **on 21st of March 1930** at Toronto, York, Ontario, Canada.
 
 ## Macrae
 
   * **[Janet Macrae](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - ) and **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
+
+## Martensen
+
+  * **[Phylis Martensen](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018) and **[Donald James Cumming](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976) **in 1947** at , Norfolk County, Massachusetts, United States of America.
 
 ## Matheson
 

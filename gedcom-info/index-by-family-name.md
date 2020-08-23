@@ -9,6 +9,7 @@ permalink: /indexes/by-family-name
 
 - **[Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - )
 - **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
+- **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 
 ## Byrne
 
@@ -52,9 +53,13 @@ permalink: /indexes/by-family-name
 - **[John Cumming](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
 - **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
 - **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
-- **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md)** (26/Jul/1900 - 1981)
+- **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981)
 - **[Thomasina Ian Cumming](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
 - **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
+
+## Farnham
+
+- **[Mae Farnham](people/@53003230@-mae-farnham-b1885-d.md)** (before 1885 - )
 
 ## Fraser
 
@@ -131,6 +136,11 @@ permalink: /indexes/by-family-name
 
 - **[Janet Macrae](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - )
 
+## Martensen
+
+- **[Charles Raymond Martensen](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
+- **[Phylis Martensen](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
+
 ## Matheson
 
 - **[Hector Matheson](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896)
@@ -190,6 +200,11 @@ permalink: /indexes/by-family-name
 
 - **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - )
 
+## Roberts
+
+- **[Frederick Roberts](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
+- **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
+
 ## Ross
 
 - **[Alexander Ross](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
@@ -212,6 +227,10 @@ permalink: /indexes/by-family-name
 - **[Laura Stead](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
 - **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
 - **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
+
+## Stevens
+
+- **[Thomas Stevens](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 
 ## Sutherland
 

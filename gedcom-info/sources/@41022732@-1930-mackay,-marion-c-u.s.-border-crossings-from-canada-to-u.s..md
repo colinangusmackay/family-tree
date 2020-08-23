@@ -83,4 +83,4 @@ References |
 
 ## Source Referenced by
 
-* [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
+* [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) (26/Jul/1900 - 7/Oct/1981)

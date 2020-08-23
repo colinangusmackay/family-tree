@@ -135,6 +135,8 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1884.**
   * **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-d1964.md)** (1884 - 1964)
 * **Born in 1885.**
+  * **[Farnham, Mae](people/@53003230@-mae-farnham-b1885-d.md)** (before 1885 - )
+  * **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
   * **[Cumming, Barbara Ann](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - )
 * **Born in 1888.**
   * **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - )
@@ -183,7 +185,7 @@ permalink: /indexes/by-date-of-birth
   * **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
   * **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - )
   * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
-  * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md)** (26/Jul/1900 - 1981)
+  * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981)
   * **[Ross, Peter](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
 * **Born in 1901.**
   * **[Stead, Albert](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
@@ -200,6 +202,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1905.**
   * **[Ramsay, Jack](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
   * **[Ross, Johan or Janet](people/@18017632@-johan-or-janet-ross-b1905-d.md)** (1905 - )
+  * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
 * **Born in 1906.**
   * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
 * **Born in 1907.**
@@ -210,6 +213,8 @@ permalink: /indexes/by-date-of-birth
 ### 1910s
 
 * **Born in 1910.**
+  * **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
+  * **[Martensen, Charles Raymond](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
   * **[McIver, Roderick](people/@90830540@-roderick-mciver-b1910-d1999.md)** (1910 - 1999)
   * **[Gillie, Williamina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
   * **[Gardiner, William](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986)
@@ -228,6 +233,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1918.**
   * **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
   * **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
+  * **[Stevens, Thomas](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 * **Born in 1919.**
   * **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
 
@@ -242,6 +248,8 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976)
 * **Born in 1924.**
   * **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
+* **Born in 1926.**
+  * **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
 
 ### 1930s
 

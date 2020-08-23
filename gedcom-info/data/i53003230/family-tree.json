@@ -1,0 +1,59 @@
+﻿{
+  "Subject": {
+    "Id": "i53003230",
+    "Name": "Mae Farnham",
+    "Gender": "Female",
+    "DateOfBirth": "before 1885",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i53003230",
+      "Name": "Mae Farnham",
+      "Gender": "Female",
+      "DateOfBirth": "before 1885",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i36552681",
+      "Name": "Frederick Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "before 1885",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i46105652",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i36552681",
+        "i53003230"
+      ]
+    },
+    {
+      "Id": "i21721539",
+      "Name": "Malcolm DeWitt Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "30/Sep/1905",
+      "DateOfDeath": "6/May/1990",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i36552681",
+        "i53003230"
+      ]
+    }
+  ]
+}

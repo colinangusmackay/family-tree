@@ -1,0 +1,102 @@
+﻿{
+  "Id": "i17287208",
+  "Name": "Margaret",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "before 1910",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i16839684",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i21623356",
+      "Name": "Thomas Stevens",
+      "Gender": "Male",
+      "Relationship": "step-son",
+      "DateOfBirth": "21/Aug/1918",
+      "DateOfDeath": "6/Apr/1971",
+      "Children": [
+        {
+          "Id": "i39860859",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i51400056",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i56946964",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i68553478",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Id": "i56344636",
+      "Name": "Phylis Martensen",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "21/Oct/1926",
+      "DateOfDeath": "17/Mar/2018",
+      "Children": [
+        {
+          "Id": "i51372794",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i87118008",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i8072596",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

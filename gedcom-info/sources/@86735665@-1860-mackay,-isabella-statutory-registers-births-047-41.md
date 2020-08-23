@@ -9,10 +9,14 @@ Field | Detail
 ---:|:---
 Publication | 
 Originator / Author | 
-Date | 
+Date | 21/Aug/1860
 Responsible Agency | National Records of Scotland
 Filed by Entry | 
 References | 
+
+## Text
+
+_Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
 
 ## Source Referenced by
 

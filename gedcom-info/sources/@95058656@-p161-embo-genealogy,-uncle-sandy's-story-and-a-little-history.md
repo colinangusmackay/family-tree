@@ -36,7 +36,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 * [John Cumming](../people/@87723702@-john-cumming-b1873-d.md) (about 1873 - )
 * [Kenneth Cumming](../people/@14447152@-kenneth-cumming-b1867-d.md) (about 1867 - )
 * [Marion Cumming](../people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md) (20/May/1863 - 15/Nov/1954)
-* [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
+* [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) (26/Jul/1900 - 7/Oct/1981)
 * [Thomasina Ian Cumming](../people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) (24/Nov/1902 - 1/Jun/1973)
 * [William Cumming](../people/@10016098@-william-cumming-b1870-d.md) (about 1870 - )
 * [Williamina Gillie](../people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md) (4/Apr/1910 - 4/Nov/2003)

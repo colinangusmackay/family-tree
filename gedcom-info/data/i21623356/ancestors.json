@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i21623356",
+  "Name": "Thomas Stevens",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "21/Aug/1918",
+  "DateOfDeath": "6/Apr/1971",
+  "Parents": [
+    {
+      "Id": "i83409318",
+      "Name": "Charles Raymond Martensen",
+      "Gender": "Male",
+      "Relationship": "step-father",
+      "DateOfBirth": "before 1910",
+      "DateOfDeath": "after 1971",
+      "Parents": []
+    },
+    {
+      "Id": "i17287208",
+      "Name": "Margaret",
+      "Gender": "Female",
+      "Relationship": "step-mother",
+      "DateOfBirth": "before 1910",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

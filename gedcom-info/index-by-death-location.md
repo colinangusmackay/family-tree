@@ -9,6 +9,7 @@ permalink: /indexes/by-death-location
 
 - **[, Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - )
 - **[, Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
+- **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
 - **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - )
 - **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
@@ -32,6 +33,7 @@ permalink: /indexes/by-death-location
 - **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
 - **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
 - **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
+- **[Farnham, Mae](people/@53003230@-mae-farnham-b1885-d.md)** (before 1885 - )
 - **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
 - **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - )
 - **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d.md)** (18/Sep/1865 - )
@@ -74,6 +76,7 @@ permalink: /indexes/by-death-location
 - **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
 - **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
 - **[Macrae, Janet](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - )
+- **[Martensen, Charles Raymond](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
 - **[Matheson, Hector](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896)
 - **[Mathews, John Albert](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 - **[McIver, Elizabeth](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
@@ -96,6 +99,8 @@ permalink: /indexes/by-death-location
 - **[Ramsay, Jack](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
 - **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d.md)** (21/Feb/1880 - )
 - **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md)** (14/Jan/1893 - )
+- **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
+- **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
 - **[Ross, Alexander](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
 - **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
 - **[Ross, Jeanie](people/@71751658@-jeanie-ross-b1907-d.md)** (1907 - )
@@ -136,7 +141,7 @@ permalink: /indexes/by-death-location
 
 ### Glasgow
 
-- **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md)** (26/Jul/1900 - 1981)
+- **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981)
 
 ### Perthshire
 
@@ -188,6 +193,14 @@ permalink: /indexes/by-death-location
 - **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 
 ### Massachusetts
+
+#### Boston
+
+- **[Stevens, Thomas](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
+
+#### Falmouth, Barnstable County
+
+- **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
 
 #### Weymouth
 

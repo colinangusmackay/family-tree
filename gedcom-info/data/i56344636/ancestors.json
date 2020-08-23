@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i56344636",
+  "Name": "Phylis Martensen",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "21/Oct/1926",
+  "DateOfDeath": "17/Mar/2018",
+  "Parents": [
+    {
+      "Id": "i83409318",
+      "Name": "Charles Raymond Martensen",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "before 1910",
+      "DateOfDeath": "after 1971",
+      "Parents": []
+    },
+    {
+      "Id": "i17287208",
+      "Name": "Margaret",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "before 1910",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

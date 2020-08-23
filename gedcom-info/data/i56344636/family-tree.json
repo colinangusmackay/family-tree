@@ -1,0 +1,121 @@
+﻿{
+  "Subject": {
+    "Id": "i56344636",
+    "Name": "Phylis Martensen",
+    "Gender": "Female",
+    "DateOfBirth": "21/Oct/1926",
+    "DateOfDeath": "17/Mar/2018"
+  },
+  "Parents": [
+    {
+      "Id": "i83409318",
+      "Name": "Charles Raymond Martensen",
+      "Gender": "Male",
+      "DateOfBirth": "before 1910",
+      "DateOfDeath": "after 1971",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i17287208",
+      "Name": "Margaret",
+      "Gender": "Female",
+      "DateOfBirth": "before 1910",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i16839684",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i17287208",
+          "i83409318"
+        ]
+      ]
+    },
+    {
+      "Id": "i21623356",
+      "Name": "Thomas Stevens",
+      "Gender": "Male",
+      "DateOfBirth": "21/Aug/1918",
+      "DateOfDeath": "6/Apr/1971",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i17287208",
+          "i83409318"
+        ]
+      ]
+    },
+    {
+      "Id": "i56344636",
+      "Name": "Phylis Martensen",
+      "Gender": "Female",
+      "DateOfBirth": "21/Oct/1926",
+      "DateOfDeath": "17/Mar/2018",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i17287208",
+          "i83409318"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i42110198",
+      "Name": "Donald James Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1922",
+      "DateOfDeath": "16/Jan/1976",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "1947",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i51372794",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i42110198",
+        "i56344636"
+      ]
+    },
+    {
+      "Id": "i87118008",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i42110198",
+        "i56344636"
+      ]
+    },
+    {
+      "Id": "i8072596",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i42110198",
+        "i56344636"
+      ]
+    }
+  ]
+}

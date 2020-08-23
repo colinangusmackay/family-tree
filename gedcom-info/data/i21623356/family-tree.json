@@ -1,0 +1,133 @@
+﻿{
+  "Subject": {
+    "Id": "i21623356",
+    "Name": "Thomas Stevens",
+    "Gender": "Male",
+    "DateOfBirth": "21/Aug/1918",
+    "DateOfDeath": "6/Apr/1971"
+  },
+  "Parents": [
+    {
+      "Id": "i83409318",
+      "Name": "Charles Raymond Martensen",
+      "Gender": "Male",
+      "DateOfBirth": "before 1910",
+      "DateOfDeath": "after 1971",
+      "RelationToSubject": "step-father"
+    },
+    {
+      "Id": "i17287208",
+      "Name": "Margaret",
+      "Gender": "Female",
+      "DateOfBirth": "before 1910",
+      "DateOfDeath": "",
+      "RelationToSubject": "step-mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i16839684",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i17287208",
+          "i83409318"
+        ]
+      ]
+    },
+    {
+      "Id": "i21623356",
+      "Name": "Thomas Stevens",
+      "Gender": "Male",
+      "DateOfBirth": "21/Aug/1918",
+      "DateOfDeath": "6/Apr/1971",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i17287208",
+          "i83409318"
+        ]
+      ]
+    },
+    {
+      "Id": "i56344636",
+      "Name": "Phylis Martensen",
+      "Gender": "Female",
+      "DateOfBirth": "21/Oct/1926",
+      "DateOfDeath": "17/Mar/2018",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i17287208",
+          "i83409318"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i7465538",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i39860859",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21623356",
+        "i7465538"
+      ]
+    },
+    {
+      "Id": "i51400056",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21623356",
+        "i7465538"
+      ]
+    },
+    {
+      "Id": "i56946964",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21623356",
+        "i7465538"
+      ]
+    },
+    {
+      "Id": "i68553478",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21623356",
+        "i7465538"
+      ]
+    }
+  ]
+}

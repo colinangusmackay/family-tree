@@ -1,0 +1,71 @@
+﻿{
+  "Subject": {
+    "Id": "i17287208",
+    "Name": "Margaret",
+    "Gender": "Female",
+    "DateOfBirth": "before 1910",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i17287208",
+      "Name": "Margaret",
+      "Gender": "Female",
+      "DateOfBirth": "before 1910",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i83409318",
+      "Name": "Charles Raymond Martensen",
+      "Gender": "Male",
+      "DateOfBirth": "before 1910",
+      "DateOfDeath": "after 1971",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i16839684",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i83409318",
+        "i17287208"
+      ]
+    },
+    {
+      "Id": "i21623356",
+      "Name": "Thomas Stevens",
+      "Gender": "Male",
+      "DateOfBirth": "21/Aug/1918",
+      "DateOfDeath": "6/Apr/1971",
+      "RelationToSubject": "step-son",
+      "ParentIds": [
+        "i83409318",
+        "i17287208"
+      ]
+    },
+    {
+      "Id": "i56344636",
+      "Name": "Phylis Martensen",
+      "Gender": "Female",
+      "DateOfBirth": "21/Oct/1926",
+      "DateOfDeath": "17/Mar/2018",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i83409318",
+        "i17287208"
+      ]
+    }
+  ]
+}

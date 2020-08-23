@@ -109,7 +109,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1930s
 
 * **1930**
-  * **21/Mar/1930** : **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981.md)** (26/Jul/1900 - 1981) at Toronto, York, Ontario, Canada.
+  * **21/Mar/1930** : **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981) at Toronto, York, Ontario, Canada.
 * **1934**
   * **9/Feb/1934** : **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - ) and X at Dornoch, Sutherland, Scotland.
   * **2/Mar/1934** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d.md)** (19/Oct/1877 - ) and **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) at Dornoch, Sutherland, Scotland.
@@ -123,7 +123,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1945**
   * **1945** : **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) and **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) at Edinburgh, Scotland.
 * **1947**
-  * **1947** : **[Donald James Cumming](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976) and X at , Norfolk County, Massachusetts, United States of America.
+  * **1947** : **[Donald James Cumming](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976) and **[Phylis Martensen](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018) at , Norfolk County, Massachusetts, United States of America.
 * **1948**
   * **26/Nov/1948** : **[William Gardiner](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986) and **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998) at Dryfesdale, Dumfrieshire, Scotland.
 

@@ -23,7 +23,7 @@ permalink: /people/i9383584
 * Sister: [Annie Mackay](./@51252926@-annie-mackay-b1893-d1918.md) (about 1893 - 1918)
 * Brother: [Kenneth Mackay](./@48909111@-kenneth-mackay-b1895-d.md) (about 1895 - )
 * Brother: [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
-* Wife: [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) (26/Jul/1900 - 1981)
+* Wife: [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) (26/Jul/1900 - 7/Oct/1981)
 * Sister: [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)
 * Son: [Donald James Mackay](./@43065376@-donald-james-mackay-b1931-d2011-12-29.md) (1931 - 29/Dec/2011)
 * Son: X
@@ -42,24 +42,24 @@ Date | Item | Description | Sources | Notes
 1918 | Residence | 6 Terrace Street, Embo, Sutherlandshire | [2](#2) | 
 1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1893-d1918.md) died. | [3](#3) | [5](#5)
 about 1930 | Occupation | Cement Finisher | [6](#6) | 
-21/Mar/1930 | Marriage | Married to [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Toronto, York, Ontario, Canada | [6](#6), [3](#3), [7](#7) | 
+21/Mar/1930 | Marriage | Married to [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Toronto, York, Ontario, Canada | [6](#6), [3](#3), [7](#7) | 
 before 31/Mar/1930 | Residence | 271 Springdale Blvd, Toronto, Ontario, Canada | [6](#6) | [8](#8)
 1931 | Occupation | Cement Finisher | [9](#9) | 
-1931 | Birth of son | [Donald James Mackay](./@43065376@-donald-james-mackay-b1931-d2011-12-29.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md). | [9](#9), [3](#3) | 
+1931 | Birth of son | [Donald James Mackay](./@43065376@-donald-james-mackay-b1931-d2011-12-29.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md). | [9](#9), [3](#3) | 
 6/Dec/1931 | Immigrated | Immigrated to Embo, Sutherland, Scotland. | [9](#9) | 
-27/May/1932 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md). | [10](#10), [11](#11) | 
+27/May/1932 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md). | [10](#10), [11](#11) | 
 about 1935 | Occupation | Cement Finisher | [12](#12) | 
 1935 | Death of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) died. |  | [13](#13)
-11/Jan/1935 | Birth of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Embo, Sutherland, Scotland. | [12](#12) | 
-1/Jan/1936 | Birth of daughter | [Isabella Mackay](./@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Embo, Sutherland, Scotland. | [14](#14) | 
-7/Jul/1938 | Birth of daughter | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Coigach, Ross and Cromerty, Scotland. | [15](#15) | 
-1939 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md). | [3](#3) | 
-2/Jan/1942 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) in Embo, Sutherland, Scotland. |  | 
+11/Jan/1935 | Birth of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Embo, Sutherland, Scotland. | [12](#12) | 
+1/Jan/1936 | Birth of daughter | [Isabella Mackay](./@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Embo, Sutherland, Scotland. | [14](#14) | 
+7/Jul/1938 | Birth of daughter | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Coigach, Ross and Cromerty, Scotland. | [15](#15) | 
+1939 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md). | [3](#3) | 
+2/Jan/1942 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Embo, Sutherland, Scotland. |  | 
 1960 | Residence | 57 Kersland Street, Glasgow | [16](#16) | 
 3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [17](#17) | 
 1973 | Death of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) died in Dornoch, Sutherland, Scotland. | [18](#18) | 
 1980 | Residence | 57 Kersland Street, Glasgow | [19](#19) | 
-1981 | Death of partner | [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981.md) died in Glasgow, Scotland. | [20](#20) | 
+7/Oct/1981 | Death of partner | [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) died in Glasgow, Scotland. | [20](#20), [21](#21) | 
 1982 | Died | Died. |  | 
 
 ## Notes
@@ -244,4 +244,12 @@ about 1935 | Occupation | Cement Finisher | [12](#12) |
 * Publication: Newspapers.com Obituary Index 1800-Currentthe o
 * Date: 9/Oct/1981
 * Responsible Agency: The Post Star (Glen Falls, New York)
+
+### 21
+
+**1981 X, MARY ANN - The Post Star Fri Oct 9 1981**
+
+* [Full text and notes](../sources/@24664672@-1981-mackay,-mary-ann-the-post-star-fri-oct-9-1981.md)
+* Publication: The Post Star
+* Date: 9/Oct/1981
 

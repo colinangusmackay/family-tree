@@ -71,10 +71,10 @@
   "Spouses": [
     {
       "Id": "i56344636",
-      "Name": "X",
+      "Name": "Phylis Martensen",
       "Gender": "Female",
-      "DateOfBirth": "1926",
-      "DateOfDeath": "",
+      "DateOfBirth": "21/Oct/1926",
+      "DateOfDeath": "17/Mar/2018",
       "RelationToSubject": "wife",
       "DateOfMarriage": "1947",
       "DateOfDivorce": ""
