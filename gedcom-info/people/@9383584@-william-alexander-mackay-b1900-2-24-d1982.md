@@ -40,15 +40,12 @@ Date | Item | Description | Sources | Notes
 24/Feb/1900 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2), [3](#3) | 
 27/Jun/1901 | Birth of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d.md) in Embo, Sutherland, Scotland. | [4](#4), [3](#3) | 
 1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1893-d1918.md) died. | [3](#3) | [5](#5)
-about 1930 | Occupation | Cement Finisher | [6](#6) | 
 21/Mar/1930 | Marriage | Married to [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Toronto, York, Ontario, Canada | [6](#6), [3](#3), [7](#7) | 
-1931 | Occupation | Cement Finisher | [8](#8) | 
 1931 | Birth of son | [Donald James Mackay](./@43065376@-donald-james-mackay-b1931-d2011-12-29.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md). | [8](#8), [3](#3) | 
 6/Dec/1931 | Immigrated | Immigrated to Embo, Sutherland, Scotland. | [8](#8) | 
 27/May/1932 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md). | [9](#9), [10](#10) | 
-about 1935 | Occupation | Cement Finisher | [11](#11) | 
-1935 | Death of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) died. |  | [12](#12)
-11/Jan/1935 | Birth of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Embo, Sutherland, Scotland. | [11](#11) | 
+1935 | Death of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) died. |  | [11](#11)
+11/Jan/1935 | Birth of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Embo, Sutherland, Scotland. | [12](#12) | 
 1/Jan/1936 | Birth of daughter | [Isabella Mackay](./@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Embo, Sutherland, Scotland. | [13](#13) | 
 7/Jul/1938 | Birth of daughter | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Coigach, Ross and Cromerty, Scotland. | [14](#14) | 
 1939 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md). | [3](#3) | 
@@ -67,6 +64,14 @@ Unknown | Glasgow, Scotland | [18](#18)
 before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [6](#6), [19](#19)
 1960 | 57 Kersland Street, Glasgow | [20](#20)
 1980 | 57 Kersland Street, Glasgow | [21](#21)
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [6](#6)
+1931 | Cement Finisher | [8](#8)
+about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [12](#12)
 
 ## Notes
 
@@ -169,6 +174,12 @@ before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [6](#6), [1
 
 ### 11
 
+> Oral history
+>
+
+
+### 12
+
 **1935 MACKAY, ALEXINA (Extract of an entry from the Register of Births)**
 
 * [Full text and notes](../sources/@53853408@-1935-mackay,-alexina-extract-of-an-entry-from-the-register-of-births-.md)
@@ -177,12 +188,6 @@ before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [6](#6), [1
 * Responsible Agency: General Register Office for Scotland
 * References: 
   * 1935 047/5
-
-### 12
-
-> Oral history
->
-
 
 ### 13
 

@@ -17,7 +17,12 @@ permalink: /people/i28800527
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 before 1896 | Died | Died. | [1](#1) | [2](#2)
-before 1896 | Occupation | Crofter | [1](#1) | [3](#3)
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+before 1896 | Crofter | [1](#1), [3](#3)
 
 ## Footnotes
 

@@ -41,21 +41,26 @@ permalink: /people/i20465544
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 22/Mar/1861 | Born | Born to [James Cumming](./@66384942@-james-cumming-b1836-d.md) and X in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
-1888 | Occupation | Fisherman | [3](#3) | 
-1891 | Occupation | Fisherman | [4](#4) | 
-1898 | Occupation | Fisherman |  | 
-1900 | Occupation | Fisherman | [5](#5) | 
-1901 | Occupation | Fisherman | [6](#6) | 
-1902 | Occupation | Fisherman | [7](#7) | 
-1904 | Occupation | Fisherman | [8](#8) | 
-1906 | Occupation | Fisherman | [9](#9) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1901 | Mizpah Cottage, 9 Front Street, Embo, Sutherland, Scotland | [6](#6)
-1921 | Mizpah Cottage, Embo, Sutherland, Scotland | [10](#10)
+1901 | Mizpah Cottage, 9 Front Street, Embo, Sutherland, Scotland | [3](#3)
+1921 | Mizpah Cottage, Embo, Sutherland, Scotland | [4](#4)
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+1888 | Fisherman in Embo, Sutherland, Scotland | [5](#5)
+1891 | Fisherman | [6](#6)
+1898 | Fisherman | 
+1900 | Fisherman | [7](#7)
+1901 | Fisherman in Embo, Sutherland, Scotland | [3](#3)
+1902 | Fisherman | [8](#8)
+1904 | Fisherman | [9](#9)
+1906 | Fisherman | [10](#10)
 
 ## Notes
 
@@ -86,6 +91,21 @@ Date | Residence | Sources & Notes
 
 ### 3
 
+**1901 CUMMING, DONALD - 1901 Census 047/2/18**
+
+* [Full text and notes](../sources/@9522719@-1901-cumming,-donald-1901-census-047-2-18.md)
+* Responsible Agency: National Records of Scotland
+
+### 4
+
+**1921 X X, JESSIE, JESSIE & THOMASINA - Passenger and Crew Lists**
+
+* [Full text and notes](../sources/@67676004@-1921-cumming-donald,-jessie,-jessie-&-thomasina-passenger-and-crew-lists.md)
+* Publication: List or Manifest of Alien Passengers for the United States Immigration Officer at Port of Arrival
+* Date: 28/Feb/1921
+
+### 5
+
 **1888 CUMMING, ISABELLA Statutory register Births 047/32**
 
 * [Full text and notes](../sources/@15189539@-1888-cumming,-isabella-statutory-register-births-047-32.md)
@@ -94,7 +114,7 @@ Date | Residence | Sources & Notes
 * References: 
   * 1888 047/32
 
-### 4
+### 6
 
 **1891 CUMMING, ALEXANDERINA statutory registers births 047/12**
 
@@ -104,7 +124,7 @@ Date | Residence | Sources & Notes
 * References: 
   * 1891 B 047/12
 
-### 5
+### 7
 
 **1900 CUMMING, MARY ANN, Statutory Registers Births 047/37**
 
@@ -114,14 +134,7 @@ Date | Residence | Sources & Notes
 * References: 
   * 1900 B 047/37
 
-### 6
-
-**1901 CUMMING, DONALD - 1901 Census 047/2/18**
-
-* [Full text and notes](../sources/@9522719@-1901-cumming,-donald-1901-census-047-2-18.md)
-* Responsible Agency: National Records of Scotland
-
-### 7
+### 8
 
 **1902 CUMMING, THOMASINA IAN (statutory registers Births 047/55)**
 
@@ -130,14 +143,14 @@ Date | Residence | Sources & Notes
 * References: 
   * 1902 B 047/55
 
-### 8
+### 9
 
 **1904 CUMMING, CHRISTINA (statutory registers Births 047/55)**
 
 * [Full text and notes](../sources/@54224404@-1904-cumming,-christina-statutory-registers-births-047-55-.md)
 * Responsible Agency: National Records of Scotland
 
-### 9
+### 10
 
 **1906 CUMMING, (D/R)ONALD JOHN Statutory Registers Births 047/48**
 
@@ -146,12 +159,4 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1906 B 047/48
-
-### 10
-
-**1921 X X, JESSIE, JESSIE & THOMASINA - Passenger and Crew Lists**
-
-* [Full text and notes](../sources/@67676004@-1921-cumming-donald,-jessie,-jessie-&-thomasina-passenger-and-crew-lists.md)
-* Publication: List or Manifest of Alien Passengers for the United States Immigration Officer at Port of Arrival
-* Date: 28/Feb/1921
 

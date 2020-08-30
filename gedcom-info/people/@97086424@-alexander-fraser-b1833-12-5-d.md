@@ -19,7 +19,12 @@ permalink: /people/i97086424
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 5/Dec/1833 | Born | Born to [Kenneth Fraser](./@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md) and [Isabella Mackay](./@26104572@-isabella-mackay-b-d1881-12-8.md) in Embo, Sutherland, Scotland. |  | 
-1865 | Occupation | Fisherman | [1](#1) | 
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+1865 | Fisherman | [1](#1)
 
 ## Notes
 

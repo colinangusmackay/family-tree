@@ -19,10 +19,7 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 14/Jan/1893 | Born | Born to X and X in Wishaw, Lanarkshire, Scotland. | [1](#1), [2](#2), [3](#3), [4](#4) | [5](#5)
 2/Sep/1923 | Immigrated | Immigrated to New York, New York, United States of America. | [3](#3) | 
-1930 | Occupation | Tinsmith | [6](#6) | 
-1940 | Occupation | Caretaker | [7](#7) | 
 27/Apr/1942 | EVEN:Military Conscription/Draft |  | [2](#2) | 
-1960 | Occupation | Gardener | [4](#4) | 
 8/Sep/1960 | Naturalised | Naturalised in San Diego, California, United States of America. | [4](#4) | 
 
 ## Known Residences
@@ -33,6 +30,14 @@ Date | Residence | Sources & Notes
 1940 | 80 Summit Ave, Brookline, Massachusetts, USA | [7](#7)
 1942 | 80 Summit Avenue, Brookline, Norfolk, Massachusetts, USA | [2](#2)
 1960 | 427 "I" Aveune, National City, San Diego, California, USA | [4](#4), [8](#8)
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+1930 | Tinsmith | [6](#6)
+1940 | Caretaker | [7](#7)
+1960 | Gardener | [4](#4)
 
 ## Footnotes
 

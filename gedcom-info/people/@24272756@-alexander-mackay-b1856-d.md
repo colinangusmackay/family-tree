@@ -17,7 +17,12 @@ permalink: /people/i24272756
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1856 | Born | Born. | [1](#1) | 
-1880 | Occupation | Fisherman | [2](#2) | 
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+1880 | Fisherman | [2](#2)
 
 ## Footnotes
 

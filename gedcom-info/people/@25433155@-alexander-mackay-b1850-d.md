@@ -16,13 +16,18 @@ permalink: /people/i25433155
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1850 | Born | Born. | [1](#1) | [2](#2)
-1873 | Occupation | Fisherman | [1](#1) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
 Unknown | Embo, Sutherland, Scotland | 
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+1873 | Fisherman in Embo, Sutherland, Scotland | [1](#1)
 
 ## Notes
 

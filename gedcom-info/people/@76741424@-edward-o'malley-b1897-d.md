@@ -17,7 +17,12 @@ permalink: /people/i76741424
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 before 1897 | Born | Born. |  | [1](#1)
-1939 | Occupation | Library Attendant | [2](#2) | 
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+1939 | Library Attendant | [2](#2)
 
 ## Footnotes
 

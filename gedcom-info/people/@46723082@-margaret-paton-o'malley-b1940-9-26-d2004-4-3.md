@@ -39,10 +39,15 @@ Date | Item | Description | Sources | Notes
 before 1969 | Divorced | Divorced from [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md)  | [13](#13) | [14](#14)
 25/Jul/1969 | Marriage | Married to X in East Calder, Scotland | [13](#13) | 
 5/Sep/1969 | Birth of son | X born to X and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md). | [15](#15) | 
-before 2004 | Occupation | Office/Contract Cleaner | [16](#16), [17](#17) | [18](#18)
 before 2004 | Death of father | [Thomas O'Malley](./@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) died. | [16](#16) | 
 before 2004 | Death of mother | [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) died. | [16](#16) | 
-3/Apr/2004 | Died | Died in Livingston, West Lothian, Scotland. | [16](#16), [19](#19), [20](#20), [17](#17) | 
+3/Apr/2004 | Died | Died in Livingston, West Lothian, Scotland. | [16](#16), [17](#17), [18](#18), [19](#19) | 
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+before 2004 | Office/Contract Cleaner | [16](#16), [19](#19), [20](#20)
 
 ## Footnotes
 
@@ -179,6 +184,23 @@ before 2004 | Death of mother | [Margaret McLeod Paton](./@56209708@-margaret-mc
 
 ### 17
 
+**2004 CAMPBELL, MARGARET PATON Index entry from Register of Deaths**
+
+* [Full text and notes](../sources/@73665994@-2004-campbell,-margaret-paton-index-entry-from-register-of-deaths.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 2004 D 772/107
+
+### 18
+
+**2012 CAMPBELL, MARGARET PATON - Billion Graves.com**
+
+* [Full text and notes](../sources/@67208942@-2012-campbell,-margaret-paton-billion-graves.com.md)
+* Publication: [https://billiongraves.com/grave/Margaret-Paton-Campbell/2755876](https://billiongraves.com/grave/Margaret-Paton-Campbell/2755876)
+* Date: 17/Nov/2012
+
+### 19
+
 **2016 X, LINDA MARGARET (Extract of an entry in a REGISTER of DEATHS)**
 
 * [Full text and notes](../sources/@18604774@-2016-mathews,-linda-margaret-extract-of-an-entry-in-a-register-of-deaths-.md)
@@ -188,26 +210,9 @@ before 2004 | Death of mother | [Margaret McLeod Paton](./@56209708@-margaret-mc
 * References: 
   * 2016 D 773/14
 
-### 18
+### 20
 
 > Don't know date of retirement, so occupation is sometime before 2004.
 >
 
-
-### 19
-
-**2004 CAMPBELL, MARGARET PATON Index entry from Register of Deaths**
-
-* [Full text and notes](../sources/@73665994@-2004-campbell,-margaret-paton-index-entry-from-register-of-deaths.md)
-* Responsible Agency: National Records of Scotland
-* References: 
-  * 2004 D 772/107
-
-### 20
-
-**2012 CAMPBELL, MARGARET PATON - Billion Graves.com**
-
-* [Full text and notes](../sources/@67208942@-2012-campbell,-margaret-paton-billion-graves.com.md)
-* Publication: [https://billiongraves.com/grave/Margaret-Paton-Campbell/2755876](https://billiongraves.com/grave/Margaret-Paton-Campbell/2755876)
-* Date: 17/Nov/2012
 
