@@ -31,7 +31,12 @@ permalink: /people/i32797554
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 7/Aug/1860 | Born | Born to X and X in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
-1888 | Residence | Embo, Sutherland, Scotland | [2](#2) | 
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1888 | Embo, Sutherland, Scotland | [2](#2)
 
 ## Notes
 

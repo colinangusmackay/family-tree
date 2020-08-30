@@ -18,6 +18,12 @@ Date | Item | Description | Sources | Notes
 about 1850 | Born | Born. | [1](#1) | [2](#2)
 1873 | Occupation | Fisherman | [1](#1) | 
 
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+Unknown | Embo, Sutherland, Scotland | 
+
 ## Notes
 
 > Rona Grigg 2016 Ref: F1.4.4

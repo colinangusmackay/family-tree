@@ -26,7 +26,12 @@ permalink: /people/i87723702
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1873 | Born | Born to [James Cumming](./@66384942@-james-cumming-b1836-d.md) and X. | [1](#1) | 
-1921 | Residence | 16 Beethoven St. Roxbury, Boston, Massachusetts, USA | [2](#2) | 
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1921 | 16 Beethoven St. Roxbury, Boston, Massachusetts, USA | [2](#2)
 
 ## Notes
 

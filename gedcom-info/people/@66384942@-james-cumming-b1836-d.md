@@ -30,7 +30,12 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1836 | Born | Born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d.md). |  | 
 1861 | Occupation | Fisherman | [1](#1) | 
-1861 | Residence | Embo, Sutherland, Scotland | [1](#1) | 
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1861 | Embo, Sutherland, Scotland | [1](#1)
 
 ## Notes
 

@@ -32,14 +32,19 @@ permalink: /people/i84684994
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 21/Jul/1888 | Born | Born to [Donald James? Cumming](./@20465544@-donald-james-cumming-b1861-3-22-d.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
-1901 | Residence | 9 Back Street, Embo, Sutherland, Scotland | [3](#3) | 
-7/May/1920 | Immigrated | Immigrated to New York, New York, United States of America. (Arrived on the S.S. Celtic) | [4](#4) | 
-1930 | Residence | 82 Summit Ave., Brookline, Massachusetts, USA | [5](#5) | 
-1940 | Residence | 80 Summit Avenue, Brookline, Mass., USA | [6](#6), [7](#7) | 
-1942 | Residence | 82 Summit Avenue, Brookline, Massachusetts, USA | [8](#8) | 
-1960 | Occupation | Practical Nursing | [4](#4) | 
-1960 | Residence | 427 "I" Avenue, National City, San Diego, California, USA |  | [9](#9)
-8/Sep/1960 | Naturalised | Naturalised in San Diego, California, United States of America. (USA Petition for Naturalization No 3898) | [4](#4) | 
+7/May/1920 | Immigrated | Immigrated to New York, New York, United States of America. (Arrived on the S.S. Celtic) | [3](#3) | 
+1960 | Occupation | Practical Nursing | [3](#3) | 
+8/Sep/1960 | Naturalised | Naturalised in San Diego, California, United States of America. (USA Petition for Naturalization No 3898) | [3](#3) | 
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1901 | 9 Back Street, Embo, Sutherland, Scotland | [4](#4)
+1930 | 82 Summit Ave., Brookline, Massachusetts, USA | [5](#5)
+1940 | 80 Summit Avenue, Brookline, Mass., USA | [6](#6), [7](#7)
+1942 | 82 Summit Avenue, Brookline, Massachusetts, USA | [8](#8)
+1960 | 427 "I" Avenue, National City, San Diego, California, USA | [9](#9)
 
 ## Notes
 
@@ -73,19 +78,19 @@ Date | Item | Description | Sources | Notes
 
 ### 3
 
-**1901 CUMMING, DONALD - 1901 Census 047/2/18**
-
-* [Full text and notes](../sources/@9522719@-1901-cumming,-donald-1901-census-047-2-18.md)
-* Responsible Agency: National Records of Scotland
-
-### 4
-
 **1960 CUMMING REID, ISABELLA Petition for Naturalization No 3898**
 
 * [Full text and notes](../sources/@17659132@-1960-cumming-reid,-isabella-petition-for-naturalization-no-3898.md)
 * Responsible Agency: United States Department of Justice Immigration and Naturalisation Service
 * References: 
   * 3898
+
+### 4
+
+**1901 CUMMING, DONALD - 1901 Census 047/2/18**
+
+* [Full text and notes](../sources/@9522719@-1901-cumming,-donald-1901-census-047-2-18.md)
+* Responsible Agency: National Records of Scotland
 
 ### 5
 

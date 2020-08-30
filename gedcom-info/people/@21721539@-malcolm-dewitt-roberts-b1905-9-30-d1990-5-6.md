@@ -28,8 +28,13 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 30/Sep/1905 | Born | Born to [Frederick Roberts](./@36552681@-frederick-roberts-b1885-d.md) and [Mae Farnham](./@53003230@-mae-farnham-b1885-d.md) in Ilion, New York, United States of America. |  | 
 8/Feb/1936 | Birth of son | X born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and X in Ilion, New York, United States of America. | [1](#1) | 
-1990 | Residence | 62 Cove Ave, Norwalk, Connecticut, USA |  | 
 6/May/1990 | Died | Died. | [2](#2) | 
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1990 | 62 Cove Ave, Norwalk, Connecticut, USA | 
 
 ## Footnotes
 

@@ -30,7 +30,12 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 bet' 1844 and 1849 | Born | Born to [George Mackay](./@33764614@-george-mackay-b1805~1816-d1893-11-25.md) and [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md). | [1](#1), [2](#2) | [3](#3)
 1877 | Occupation | Fisherman |  | 
-1877 | Residence | Embo, Sutherland, Scotland |  | 
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1877 | Embo, Sutherland, Scotland | 
 
 ## Notes
 

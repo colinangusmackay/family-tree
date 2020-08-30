@@ -34,11 +34,16 @@ Date | Item | Description | Sources | Notes
 27/Jun/1901 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
 1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1893-d1918.md) died. | [2](#2) | [3](#3)
 1934 | Occupation | Fishworker | [4](#4) | 
-1934 | Residence | 6 Terrace Street, Embo, Sutherland, Scotland | [4](#4) | [5](#5)
 2/Mar/1934 | Marriage | Married to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d.md) in Dornoch, Sutherland, Scotland | [4](#4) | 
-1935 | Birth of daughter | X born to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d.md) and [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md). | [6](#6) | 
-3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [7](#7) | 
-1973 | Died | Died in Dornoch, Sutherland, Scotland. | [8](#8) | 
+1935 | Birth of daughter | X born to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d.md) and [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md). | [5](#5) | 
+3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [6](#6) | 
+1973 | Died | Died in Dornoch, Sutherland, Scotland. | [7](#7) | 
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1934 | 6 Terrace Street, Embo, Sutherland, Scotland | [4](#4), [8](#8)
 
 ## Notes
 
@@ -87,12 +92,6 @@ Date | Item | Description | Sources | Notes
 
 ### 5
 
-> 6 Terrace Street, Embo: [https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656](https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656)
->
-
-
-### 6
-
 **P176 Embo - genealogy, Uncle Sandy's Story and a little history**
 
 * [Full text and notes](../sources/@93618561@-p176-embo-genealogy,-uncle-sandy's-story-and-a-little-history.md)
@@ -103,7 +102,7 @@ Date | Item | Description | Sources | Notes
 * References: 
   * (ISBN) 978-1-910205-49-5
 
-### 7
+### 6
 
 **1969 X, JOHN PAUL (Statutory registers Deaths 047/18)**
 
@@ -113,7 +112,7 @@ Date | Item | Description | Sources | Notes
 * References: 
   * 1969 D 047/18
 
-### 8
+### 7
 
 **1973 FRASER, MARGARET MOYES (Index of Register of Deaths)**
 
@@ -121,4 +120,10 @@ Date | Item | Description | Sources | Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1973 M 182/22
+
+### 8
+
+> 6 Terrace Street, Embo: [https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656](https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656)
+>
+
 

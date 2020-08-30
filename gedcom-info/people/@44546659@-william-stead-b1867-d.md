@@ -21,7 +21,12 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1867 | Born | Born in Bramley, Yorkshire, England. | [1](#1) | 
 1911 | Occupation | Crane Driver | [1](#1) | 
-1911 | Residence | 23 Denton Terrace High Street, Morley, Yorkshire |  | 
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1911 | 23 Denton Terrace High Street, Morley, Yorkshire | 
 
 ## Footnotes
 
