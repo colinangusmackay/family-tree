@@ -3,12 +3,12 @@
   "Name": "James Cumming",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "1836",
+  "DateOfBirth": "bet' 1836 and 1841",
   "DateOfDeath": "",
   "Children": [
     {
       "Id": "i20465544",
-      "Name": "Donald James? Cumming",
+      "Name": "Donald Cumming",
       "Gender": "Male",
       "Relationship": "son",
       "DateOfBirth": "22/Mar/1861",
@@ -20,7 +20,7 @@
           "Gender": "Female",
           "Relationship": "daughter",
           "DateOfBirth": "21/Jul/1888",
-          "DateOfDeath": "",
+          "DateOfDeath": "1/Feb/1986",
           "Children": []
         },
         {

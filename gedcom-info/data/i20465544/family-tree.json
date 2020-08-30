@@ -1,33 +1,33 @@
 ﻿{
   "Subject": {
     "Id": "i20465544",
-    "Name": "Donald James? Cumming",
+    "Name": "Donald Cumming",
     "Gender": "Male",
     "DateOfBirth": "22/Mar/1861",
     "DateOfDeath": ""
   },
   "Parents": [
     {
-      "Id": "i60546968",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "mother"
-    },
-    {
       "Id": "i66384942",
       "Name": "James Cumming",
       "Gender": "Male",
-      "DateOfBirth": "1836",
+      "DateOfBirth": "bet' 1836 and 1841",
       "DateOfDeath": "",
       "RelationToSubject": "father"
+    },
+    {
+      "Id": "i60546968",
+      "Name": "Jessie Ross",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 1840 and 1842",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
     }
   ],
   "Siblings": [
     {
       "Id": "i20465544",
-      "Name": "Donald James? Cumming",
+      "Name": "Donald Cumming",
       "Gender": "Male",
       "DateOfBirth": "22/Mar/1861",
       "DateOfDeath": "",
@@ -170,7 +170,7 @@
       "Name": "Isabella Cumming",
       "Gender": "Female",
       "DateOfBirth": "21/Jul/1888",
-      "DateOfDeath": "",
+      "DateOfDeath": "1/Feb/1986",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i20465544",

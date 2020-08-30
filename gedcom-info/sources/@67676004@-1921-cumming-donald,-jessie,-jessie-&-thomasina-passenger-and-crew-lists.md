@@ -26,8 +26,8 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
+* [Donald Cumming](../people/@20465544@-donald-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
 * [Donald Cumming](../people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md) (11/Nov/1891 - Dec/1967)
-* [Donald James? Cumming](../people/@20465544@-donald-james-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
 * [Jessie Ann Cumming](../people/@65743680@-jessie-ann-cumming-b1920-6-16-d1921-3-26.md) (16/Jun/1920 - 26/Mar/1921)
 * [John Cumming](../people/@87723702@-john-cumming-b1873-d.md) (about 1873 - )
 * [Thomasina Ian Cumming](../people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) (24/Nov/1902 - 1/Jun/1973)

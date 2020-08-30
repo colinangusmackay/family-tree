@@ -42,5 +42,6 @@ References | (Statutory Register Births) 1900 047/8
 ## Source Referenced by
 
 * [Annie Mackay](../people/@51252926@-annie-mackay-b1893-d1918.md) (about 1893 - 1918)
+* [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
 * [John Paul Mackay](../people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
 * [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) (24/Feb/1900 - 1982)

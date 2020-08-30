@@ -4,31 +4,22 @@
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "21/Jul/1888",
-  "DateOfDeath": "",
+  "DateOfDeath": "1/Feb/1986",
   "Parents": [
     {
       "Id": "i20465544",
-      "Name": "Donald James? Cumming",
+      "Name": "Donald Cumming",
       "Gender": "Male",
       "Relationship": "father",
       "DateOfBirth": "22/Mar/1861",
       "DateOfDeath": "",
       "Parents": [
         {
-          "Id": "i60546968",
-          "Name": "X",
-          "Gender": "Female",
-          "Relationship": "mother",
-          "DateOfBirth": "",
-          "DateOfDeath": "",
-          "Parents": []
-        },
-        {
           "Id": "i66384942",
           "Name": "James Cumming",
           "Gender": "Male",
           "Relationship": "father",
-          "DateOfBirth": "1836",
+          "DateOfBirth": "bet' 1836 and 1841",
           "DateOfDeath": "",
           "Parents": [
             {
@@ -65,6 +56,34 @@
               "Gender": "Female",
               "Relationship": "mother",
               "DateOfBirth": "1807",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i60546968",
+          "Name": "Jessie Ross",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "bet' 1840 and 1842",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i81387900",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i78930004",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
               "DateOfDeath": "",
               "Parents": []
             }

@@ -3,7 +3,7 @@
     "Id": "i66384942",
     "Name": "James Cumming",
     "Gender": "Male",
-    "DateOfBirth": "1836",
+    "DateOfBirth": "bet' 1836 and 1841",
     "DateOfDeath": ""
   },
   "Parents": [
@@ -43,7 +43,7 @@
       "Id": "i66384942",
       "Name": "James Cumming",
       "Gender": "Male",
-      "DateOfBirth": "1836",
+      "DateOfBirth": "bet' 1836 and 1841",
       "DateOfDeath": "",
       "RelationToSubject": "self",
       "ParentGroupIds": [
@@ -71,9 +71,9 @@
   "Spouses": [
     {
       "Id": "i60546968",
-      "Name": "X",
+      "Name": "Jessie Ross",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "bet' 1840 and 1842",
       "DateOfDeath": "",
       "RelationToSubject": "wife",
       "DateOfMarriage": "21/Feb/1860",
@@ -83,7 +83,7 @@
   "Children": [
     {
       "Id": "i20465544",
-      "Name": "Donald James? Cumming",
+      "Name": "Donald Cumming",
       "Gender": "Male",
       "DateOfBirth": "22/Mar/1861",
       "DateOfDeath": "",

@@ -12,7 +12,7 @@ permalink: /people/i7028096
 * Son: X
 * Father: [Donald Cumming](./@45726416@-donald-cumming-b1806-d.md) (1806 - )
 * Mother: [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d.md) (1807 - )
-* Brother: [James Cumming](./@66384942@-james-cumming-b1836-d.md) (1836 - )
+* Brother: [James Cumming](./@66384942@-james-cumming-b1836~1841-d.md) (bet' 1836 and 1841 - )
 * Wife: [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d.md) (1838 - )
 * Brother: [Adam Cumming](./@55409960@-adam-cumming-b1841~1849-d.md) (bet' 1841 and 1849 - )
 
@@ -21,14 +21,32 @@ permalink: /people/i7028096
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1833 | Born | Born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d.md). |  | 
-1836 | Birth of brother | [James Cumming](./@66384942@-james-cumming-b1836-d.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d.md). |  | 
-bet' 1841 and 1849 | Birth of brother | [Adam Cumming](./@55409960@-adam-cumming-b1841~1849-d.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2), [3](#3) | [4](#4)
+bet' 1836 and 1841 | Birth of brother | [James Cumming](./@66384942@-james-cumming-b1836~1841-d.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d.md). | [1](#1) | [2](#2)
+bet' 1841 and 1849 | Birth of brother | [Adam Cumming](./@55409960@-adam-cumming-b1841~1849-d.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d.md) in Embo, Sutherland, Scotland. | [3](#3), [4](#4), [5](#5) | [6](#6)
 5/Dec/1856 | Marriage | Married to [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d.md)  |  | 
 7/May/1884 | Died | Died. |  | 
 
 ## Footnotes
 
 ### 1
+
+**1860 CUMMING, JAMES - Statutory Register Marriages**
+
+* [Full text and notes](../sources/@18366368@-1860-cumming,-james-statutory-register-marriages.md)
+* Date: 22/Feb/1860
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1860 M 047/4
+
+### 2
+
+> Birth year of 1836 comes from Rona Grigg's book Embo
+>
+> Birth year of 1841 calculated back 19 years from date of marriage.
+>
+
+
+### 3
 
 **1984 TULLOCH, BARRIE M - Letter from Registrar in Brora**
 
@@ -37,7 +55,7 @@ bet' 1841 and 1849 | Birth of brother | [Adam Cumming](./@55409960@-adam-cumming
 * Date: 19/Jul/1984
 * Responsible Agency: Highland Regional Council
 
-### 2
+### 4
 
 **2020 CUMMING, ADAM 1/3 Descendant Report**
 
@@ -45,7 +63,7 @@ bet' 1841 and 1849 | Birth of brother | [Adam Cumming](./@55409960@-adam-cumming
 * Originator / Author: Helen McDermott
 * Date: 13/Jan/2020
 
-### 3
+### 5
 
 **P113 Embo - genealogy, Uncle Sandy's Story and a little history**
 
@@ -57,7 +75,7 @@ bet' 1841 and 1849 | Birth of brother | [Adam Cumming](./@55409960@-adam-cumming
 * References: 
   * (ISBN) 978-1-910205-49-5
 
-### 4
+### 6
 
 > Some conflicting information on the date of birth.
 >

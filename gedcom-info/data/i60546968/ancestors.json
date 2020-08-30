@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i60546968",
+  "Name": "Jessie Ross",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "bet' 1840 and 1842",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i81387900",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i78930004",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

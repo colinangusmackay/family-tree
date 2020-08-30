@@ -149,5 +149,5 @@ References |
 
 ## Source Referenced by
 
-* [Isabella Cumming](../people/@84684994@-isabella-cumming-b1888-7-21-d.md) (21/Jul/1888 - )
-* [Thomas Mitchell Reid](../people/@2617088@-thomas-mitchell-reid-b1893-1-14-d.md) (14/Jan/1893 - )
+* [Isabella Cumming](../people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md) (21/Jul/1888 - 1/Feb/1986)
+* [Thomas Mitchell Reid](../people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md) (14/Jan/1893 - 10/May/1974)

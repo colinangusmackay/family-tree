@@ -9,7 +9,7 @@
   "Parents": [
     {
       "Id": "i20465544",
-      "Name": "Donald James? Cumming",
+      "Name": "Donald Cumming",
       "Gender": "Male",
       "DateOfBirth": "22/Mar/1861",
       "DateOfDeath": "",
@@ -30,7 +30,7 @@
       "Name": "Isabella Cumming",
       "Gender": "Female",
       "DateOfBirth": "21/Jul/1888",
-      "DateOfDeath": "",
+      "DateOfDeath": "1/Feb/1986",
       "RelationToSubject": "sister",
       "ParentGroupIds": [
         [
