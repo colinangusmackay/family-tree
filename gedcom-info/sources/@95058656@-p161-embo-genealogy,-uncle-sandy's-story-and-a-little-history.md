@@ -43,5 +43,5 @@ _Redacted because this source is referenced by a (potentially) living person and
 * [Donald Mackay](../people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md) (25/Nov/1876 - 22/Nov/1939)
 * [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) (24/Feb/1900 - 1982)
 * [May Miller](../people/@41411602@-may-miller-b1881-d.md) (about 1881 - )
-* [John Ross](../people/@75057664@-john-ross-b1889-11-19-d.md) (19/Nov/1889 - )
+* [John Ross](../people/@75057664@-john-ross-b1861-d.md) (1861 - )
 * [Sarah Ross](../people/@39957256@-sarah-ross-b1880-d.md) (about 1880 - )

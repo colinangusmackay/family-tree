@@ -3,19 +3,41 @@
     "Id": "i75057664",
     "Name": "John Ross",
     "Gender": "Male",
-    "DateOfBirth": "19/Nov/1889",
+    "DateOfBirth": "1861",
     "DateOfDeath": ""
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i10594034",
+      "Name": "Hugh Ross",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i59598912",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i75057664",
       "Name": "John Ross",
       "Gender": "Male",
-      "DateOfBirth": "19/Nov/1889",
+      "DateOfBirth": "1861",
       "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i10594034",
+          "i59598912"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -30,5 +52,30 @@
       "DateOfDivorce": ""
     }
   ],
-  "Children": []
+  "Children": [
+    {
+      "Id": "i52613824",
+      "Name": "Ann Ross",
+      "Gender": "Female",
+      "DateOfBirth": "28/Nov/1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i75057664",
+        "i59851647"
+      ]
+    },
+    {
+      "Id": "i22731476",
+      "Name": "Hugh Alexander Ross",
+      "Gender": "Male",
+      "DateOfBirth": "17/Nov/1896",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i75057664",
+        "i59851647"
+      ]
+    }
+  ]
 }

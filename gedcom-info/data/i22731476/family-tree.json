@@ -1,0 +1,119 @@
+﻿{
+  "Subject": {
+    "Id": "i22731476",
+    "Name": "Hugh Alexander Ross",
+    "Gender": "Male",
+    "DateOfBirth": "17/Nov/1896",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i75057664",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i59851647",
+      "Name": "Marion Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "20/May/1863",
+      "DateOfDeath": "15/Nov/1954",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i52613824",
+      "Name": "Ann Ross",
+      "Gender": "Female",
+      "DateOfBirth": "28/Nov/1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i59851647",
+          "i75057664"
+        ]
+      ]
+    },
+    {
+      "Id": "i22731476",
+      "Name": "Hugh Alexander Ross",
+      "Gender": "Male",
+      "DateOfBirth": "17/Nov/1896",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i59851647",
+          "i75057664"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i42765132",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i91563348",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i22731476",
+        "i42765132"
+      ]
+    },
+    {
+      "Id": "i16347095",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i22731476",
+        "i42765132"
+      ]
+    },
+    {
+      "Id": "i79193296",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i22731476",
+        "i42765132"
+      ]
+    },
+    {
+      "Id": "i18624262",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i22731476",
+        "i42765132"
+      ]
+    }
+  ]
+}

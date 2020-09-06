@@ -3,7 +3,26 @@
   "Name": "John Ross",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "19/Nov/1889",
+  "DateOfBirth": "1861",
   "DateOfDeath": "",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i59598912",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i10594034",
+      "Name": "Hugh Ross",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "Parents": []
+    }
+  ]
 }
