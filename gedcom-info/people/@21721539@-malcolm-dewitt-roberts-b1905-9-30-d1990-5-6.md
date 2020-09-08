@@ -37,7 +37,7 @@ Date | Residence | Sources & Notes
 ---|---|---
 1971 | East Norwalk, Fairfield County, Connecticut, United States of America | [2](#2)
 1972 | 62 Cove Avenue, East Norwalk, Connecticut, USA | [3](#3)
-1990 | 62 Cove Ave, Norwalk, Connecticut, USA | 
+1990 | 62 Cove Ave, Norwalk, Connecticut, USA | [4](#4)
 
 ## Footnotes
 

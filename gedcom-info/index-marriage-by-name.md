@@ -65,6 +65,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-d1977.md)** (1897 - 1977) and **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) **on 10th of December 1943** at , Broward, Florida, United States of America.
 
+## Hayes
+
+  * **[Dan Hayes](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018) and X **on 14th of December 1968**.
+
 ## Mackay
 
   * **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ) and **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - ) **on 21st of October 1873**.

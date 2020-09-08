@@ -262,6 +262,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Donald James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 * **Born in 1935.**
   * **[Mackay, Alexina](people/@75066880@-alexina-mackay-b1935-1-11-d1935.md)** (11/Jan/1935 - 1935)
+  * **[Hayes, Dan](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018)
 * **Born in 1936.**
   * **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019)
 * **Born in 1937.**
@@ -291,8 +292,18 @@ permalink: /indexes/by-date-of-birth
 
 ## Unknown Date of Birth
 
+* [Ada Hayes](people/@80079834@-ada-hayes-b-d2018.md) ( - before 2018)
+* [Claude Hayes](people/@99088640@-claude-hayes-b-d2018.md) ( - before 2018)
+* [Lena Hayes](people/@80081989@-lena-hayes-b-d2018.md) ( - before 2018)
+* [Leonard Hayes](people/@36021443@-leonard-hayes-b-d2018.md) ( - before 2018)
+* [Marion Hayes](people/@15147548@-marion-hayes-b-d2018.md) ( - before 2018)
+* [Mildred Hayes](people/@57477342@-mildred-hayes-b-d2018.md) ( - before 2018)
+* [Nellie Hayes](people/@5410300@-nellie-hayes-b-d2018.md) ( - before 2018)
+* [Sarah Hayes](people/@32431312@-sarah-hayes-b-d2018.md) ( - before 2018)
+* [Vernon Hayes](people/@31599970@-vernon-hayes-b-d2018.md) ( - before 2018)
 * [Barbara Mackay](people/@61459684@-barbara-mackay-b-d1896.md) ( - before 1896)
 * [Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md) ( - 8/Dec/1881)
 * [Hector Matheson](people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
 * [Elizabeth McIver](people/@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
+* [Goldie Raymond](people/@2876469@-goldie-raymond-b-d2018.md) ( - before 2018)
 * [Hugh Ross](people/@10594034@-hugh-ross-b-d1889.md) ( - before 1889)

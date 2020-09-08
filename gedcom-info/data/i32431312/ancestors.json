@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i32431312",
+  "Name": "Sarah Hayes",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "before 2018",
+  "Parents": [
+    {
+      "Id": "i99088640",
+      "Name": "Claude Hayes",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 2018",
+      "Parents": []
+    },
+    {
+      "Id": "i2876469",
+      "Name": "Goldie Raymond",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 2018",
+      "Parents": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿---
+layout: person
+subject_key: i31599970
+permalink: /people/i31599970
+---
+
+# Vernon Hayes
+(? - BEFORE 2018)
+
+## Immediate Family
+
+* Father: [Claude Hayes](./@99088640@-claude-hayes-b-d2018.md) ( - before 2018)
+* Mother: [Goldie Raymond](./@2876469@-goldie-raymond-b-d2018.md) ( - before 2018)
+* Sister: [Ada Hayes](./@80079834@-ada-hayes-b-d2018.md) ( - before 2018)
+* Sister: [Lena Hayes](./@80081989@-lena-hayes-b-d2018.md) ( - before 2018)
+* Brother: [Leonard Hayes](./@36021443@-leonard-hayes-b-d2018.md) ( - before 2018)
+* Sister: [Marion Hayes](./@15147548@-marion-hayes-b-d2018.md) ( - before 2018)
+* Sister: [Mildred Hayes](./@57477342@-mildred-hayes-b-d2018.md) ( - before 2018)
+* Sister: [Nellie Hayes](./@5410300@-nellie-hayes-b-d2018.md) ( - before 2018)
+* Sister: [Sarah Hayes](./@32431312@-sarah-hayes-b-d2018.md) ( - before 2018)
+* Brother: [Dan Hayes](./@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md) (25/Sep/1935 - 31/Aug/2018)
+
+## Timeline
+
+Date | Item | Description | Sources | Notes
+---|---|---|---|---
+before 2018 | Died | Died. | [1](#1) | 
+
+## Footnotes
+
+### 1
+
+**2018 X, DANIEL B. - The Post Star Mon Sep 3 2018**
+
+* [Full text and notes](../sources/@85440892@-2018-hayes,-daniel-b.-the-post-star-mon-sep-3-2018.md)
+* Publication: The Post Star
+* Date: 3/Sep/2018
+

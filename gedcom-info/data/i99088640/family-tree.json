@@ -1,0 +1,143 @@
+﻿{
+  "Subject": {
+    "Id": "i99088640",
+    "Name": "Claude Hayes",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 2018"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i99088640",
+      "Name": "Claude Hayes",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 2018",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i2876469",
+      "Name": "Goldie Raymond",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 2018",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i80079834",
+      "Name": "Ada Hayes",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 2018",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i99088640",
+        "i2876469"
+      ]
+    },
+    {
+      "Id": "i80081989",
+      "Name": "Lena Hayes",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 2018",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i99088640",
+        "i2876469"
+      ]
+    },
+    {
+      "Id": "i36021443",
+      "Name": "Leonard Hayes",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 2018",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i99088640",
+        "i2876469"
+      ]
+    },
+    {
+      "Id": "i15147548",
+      "Name": "Marion Hayes",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 2018",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i99088640",
+        "i2876469"
+      ]
+    },
+    {
+      "Id": "i57477342",
+      "Name": "Mildred Hayes",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 2018",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i99088640",
+        "i2876469"
+      ]
+    },
+    {
+      "Id": "i5410300",
+      "Name": "Nellie Hayes",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 2018",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i99088640",
+        "i2876469"
+      ]
+    },
+    {
+      "Id": "i32431312",
+      "Name": "Sarah Hayes",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 2018",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i99088640",
+        "i2876469"
+      ]
+    },
+    {
+      "Id": "i31599970",
+      "Name": "Vernon Hayes",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 2018",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i99088640",
+        "i2876469"
+      ]
+    },
+    {
+      "Id": "i76918782",
+      "Name": "Dan Hayes",
+      "Gender": "Male",
+      "DateOfBirth": "25/Sep/1935",
+      "DateOfDeath": "31/Aug/2018",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i99088640",
+        "i2876469"
+      ]
+    }
+  ]
+}

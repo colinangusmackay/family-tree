@@ -30,6 +30,15 @@ permalink: /indexes/by-birth-location
 - **[Grant, Christy](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
 - **[Grant, Margaret](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
 - **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-d1977.md)** (1897 - 1977)
+- **[Hayes, Ada](people/@80079834@-ada-hayes-b-d2018.md)** ( - before 2018)
+- **[Hayes, Claude](people/@99088640@-claude-hayes-b-d2018.md)** ( - before 2018)
+- **[Hayes, Lena](people/@80081989@-lena-hayes-b-d2018.md)** ( - before 2018)
+- **[Hayes, Leonard](people/@36021443@-leonard-hayes-b-d2018.md)** ( - before 2018)
+- **[Hayes, Marion](people/@15147548@-marion-hayes-b-d2018.md)** ( - before 2018)
+- **[Hayes, Mildred](people/@57477342@-mildred-hayes-b-d2018.md)** ( - before 2018)
+- **[Hayes, Nellie](people/@5410300@-nellie-hayes-b-d2018.md)** ( - before 2018)
+- **[Hayes, Sarah](people/@32431312@-sarah-hayes-b-d2018.md)** ( - before 2018)
+- **[Hayes, Vernon](people/@31599970@-vernon-hayes-b-d2018.md)** ( - before 2018)
 - **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d.md)** (1807 - )
 - **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - )
 - **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
@@ -81,6 +90,7 @@ permalink: /indexes/by-birth-location
 - **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
 - **[Ramsay, Jack](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
 - **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d.md)** (21/Feb/1880 - )
+- **[Raymond, Goldie](people/@2876469@-goldie-raymond-b-d2018.md)** ( - before 2018)
 - **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
 - **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
 - **[Ross, Hugh](people/@10594034@-hugh-ross-b-d1889.md)** ( - before 1889)
@@ -214,6 +224,10 @@ permalink: /indexes/by-birth-location
 #### Bolton Landing, Warren County
 
 - **[, Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+
+#### Brant Lake, Warren County
+
+- **[Hayes, Dan](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018)
 
 #### Ilion
 

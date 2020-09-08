@@ -136,6 +136,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1962**
   * **1962** : X and **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019) at Glasgow, Scotland.
+* **1968**
+  * **14/Dec/1968** : **[Dan Hayes](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018) and X.
 * **1969**
   * **25/Jul/1969** : X and **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) at East Calder, Scotland.
 
