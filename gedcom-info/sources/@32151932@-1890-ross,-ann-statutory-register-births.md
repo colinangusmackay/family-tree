@@ -45,3 +45,4 @@ References |
 
 * [Marion Cumming](../people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md) (20/May/1863 - 15/Nov/1954)
 * [Ann Ross](../people/@52613824@-ann-ross-b1890-11-28-d.md) (28/Nov/1890 - )
+* [John Ross](../people/@75057664@-john-ross-b1861-d.md) (1861 - )

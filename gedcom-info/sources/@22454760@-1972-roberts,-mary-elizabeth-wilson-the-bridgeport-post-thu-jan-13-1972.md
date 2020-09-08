@@ -1,18 +1,22 @@
 ﻿---
 layout: page
-permalink: /sources/s52161638
+permalink: /sources/s22454760
 ---
 
-# X X in the New York State Birth Index 1881-1942
+# 1972 X, X ELIZAX WILSON - The Bridgeport Post Thu Xan 13 1972
 
 Field | Detail
 ---:|:---
-Publication | Ancestry.com
+Publication | The Bridgeport Post
 Originator / Author | 
-Date | 
-Responsible Agency | New York State Department of Health;
+Date | 13/Jan/1972
+Responsible Agency | 
 Filed by Entry | 
-References | (New York State Birth Index) 
+References | 
+
+## Text
+
+_Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
 
 ## Source Referenced by
 

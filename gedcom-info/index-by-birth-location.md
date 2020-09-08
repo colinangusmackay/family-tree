@@ -211,6 +211,10 @@ permalink: /indexes/by-birth-location
 
 ### New York
 
+#### Bolton Landing, Warren County
+
+- **[, Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+
 #### Ilion
 
 - **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)

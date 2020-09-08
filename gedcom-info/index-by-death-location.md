@@ -177,6 +177,12 @@ permalink: /indexes/by-death-location
 
 ## United States of America
 
+### Connecticut
+
+#### Hartford, Hartford County
+
+- **[, Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+
 ### Florida
 
 #### Palm Beach

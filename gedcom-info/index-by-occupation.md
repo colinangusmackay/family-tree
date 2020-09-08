@@ -69,11 +69,7 @@ permalink: /indexes/by-occupation
 * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ).
 * **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ).
-* **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - ).
-
-## Fishermn
-
-* **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - ).
+* **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - ), mentioned 2 times.
 
 ## Fishworker
 

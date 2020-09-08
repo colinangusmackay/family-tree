@@ -10,6 +10,7 @@ permalink: /indexes/by-family-name
 - **[Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - )
 - **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
 - **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
+- **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
 
 ## Byrne
 

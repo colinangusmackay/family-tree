@@ -56,7 +56,7 @@
   ],
   "Spouses": [
     {
-      "Id": "i99819804",
+      "Id": "i33863084",
       "Name": "X",
       "Gender": "Female",
       "DateOfBirth": "",
@@ -66,11 +66,11 @@
       "DateOfDivorce": ""
     },
     {
-      "Id": "i33863084",
-      "Name": "X",
+      "Id": "i99819804",
+      "Name": "Mary",
       "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
+      "DateOfBirth": "calc'd 1904",
+      "DateOfDeath": "16/Dec/1971",
       "RelationToSubject": "partner",
       "DateOfMarriage": "",
       "DateOfDivorce": ""

@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s12992908
 ---
 
-# 1930 CUMMING, GEORGE - 1930 United States Federal Census
+# 1930 CUMMING, GEORGE / ALEXINA / THOMASINA / CHRISTINE - 1930 United States Federal Census
 
 Field | Detail
 ---:|:---

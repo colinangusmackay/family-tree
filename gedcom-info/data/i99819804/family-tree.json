@@ -1,0 +1,83 @@
+﻿{
+  "Subject": {
+    "Id": "i99819804",
+    "Name": "Mary",
+    "Gender": "Female",
+    "DateOfBirth": "calc'd 1904",
+    "DateOfDeath": "16/Dec/1971"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i99819804",
+      "Name": "Mary",
+      "Gender": "Female",
+      "DateOfBirth": "calc'd 1904",
+      "DateOfDeath": "16/Dec/1971",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i21721539",
+      "Name": "Malcolm DeWitt Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "30/Sep/1905",
+      "DateOfDeath": "6/May/1990",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i44331192",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
+      "Id": "i21326189",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
+      "Id": "i40000604",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
+      "Id": "i38836920",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "8/Feb/1936",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    }
+  ]
+}
