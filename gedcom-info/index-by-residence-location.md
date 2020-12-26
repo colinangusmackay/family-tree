@@ -36,12 +36,18 @@ permalink: /indexes/by-residence-location
 
 ## Scotland
 
+### Edinburgh
+
+- **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
+
 ### Glasgow
 
 - **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019)
 - **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
+- **[McIver, Hector](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - )
+- **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 
 ### Perthshire
 

@@ -136,6 +136,10 @@ permalink: /indexes/by-occupation
 
 * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973), mentioned 4 times.
 
+## Tailor's Cutter
+
+* **[McIver, Hector](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - ).
+
 ## Tinsmith
 
 * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974).

@@ -10,7 +10,7 @@ permalink: /people/i80366022
 ## Immediate Family
 
 * Father: [Hector McIver](./@62168745@-hector-mciver-b1878-d.md) (1878 - )
-* Mother: [Margaret Patterson McKenzie](./@88610293@-margaret-patterson-mckenzie-b1884-d1964.md) (1884 - 1964)
+* Mother: [Margaret Patterson McKenzie](./@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)
 * Brother: [Roderick McIver](./@90830540@-roderick-mciver-b1910-d1999.md) (1910 - 1999)
 * Sister: [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015.md) (1918 - 2015)
 * Brother: [Hector Spence McIver](./@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) (12/Apr/1919 - 27/Jan/2008)

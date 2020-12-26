@@ -92,7 +92,6 @@ permalink: /indexes/by-death-location
 - **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
 - **[McIver, Roderick](people/@90830540@-roderick-mciver-b1910-d1999.md)** (1910 - 1999)
 - **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
-- **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-d1964.md)** (1884 - 1964)
 - **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
 - **[McTurk, Grace](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - )
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
@@ -149,6 +148,7 @@ permalink: /indexes/by-death-location
 
 - **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
+- **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 
 ### Glasgow

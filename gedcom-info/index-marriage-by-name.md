@@ -118,12 +118,12 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## McIver
 
-  * **[Hector McIver](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - ) and **[Margaret Patterson McKenzie](people/@88610293@-margaret-patterson-mckenzie-b1884-d1964.md)** (1884 - 1964) **on 31st of December 1909** at Glasgow, Scotland.
+  * **[Hector McIver](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - ) and **[Margaret Patterson McKenzie](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) **on 31st of December 1909** at Glasgow, Scotland.
   * **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) and **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) **in 1945** at Edinburgh, Scotland.
 
 ## McKenzie
 
-  * **[Margaret Patterson McKenzie](people/@88610293@-margaret-patterson-mckenzie-b1884-d1964.md)** (1884 - 1964) and **[Hector McIver](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - ) **on 31st of December 1909** at Glasgow, Scotland.
+  * **[Margaret Patterson McKenzie](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) and **[Hector McIver](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - ) **on 31st of December 1909** at Glasgow, Scotland.
 
 ## McTurk
 

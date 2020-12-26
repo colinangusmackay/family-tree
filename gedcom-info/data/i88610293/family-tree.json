@@ -3,8 +3,8 @@
     "Id": "i88610293",
     "Name": "Margaret Patterson McKenzie",
     "Gender": "Female",
-    "DateOfBirth": "1884",
-    "DateOfDeath": "1964"
+    "DateOfBirth": "26/May/1884",
+    "DateOfDeath": "5/Apr/1964"
   },
   "Parents": [
     {
@@ -29,8 +29,8 @@
       "Id": "i88610293",
       "Name": "Margaret Patterson McKenzie",
       "Gender": "Female",
-      "DateOfBirth": "1884",
-      "DateOfDeath": "1964",
+      "DateOfBirth": "26/May/1884",
+      "DateOfDeath": "5/Apr/1964",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [

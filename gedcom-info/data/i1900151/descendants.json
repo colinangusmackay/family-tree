@@ -286,7 +286,17 @@
                           "Relationship": "son",
                           "DateOfBirth": "26/Mar/1966",
                           "DateOfDeath": "",
-                          "Children": []
+                          "Children": [
+                            {
+                              "Id": "i96135872",
+                              "Name": "X",
+                              "Gender": "Male",
+                              "Relationship": "son",
+                              "DateOfBirth": "30/Nov/2020",
+                              "DateOfDeath": "",
+                              "Children": []
+                            }
+                          ]
                         }
                       ]
                     },
@@ -577,20 +587,20 @@
                           "DateOfDeath": "",
                           "Children": [
                             {
-                              "Id": "i1137137",
-                              "Name": "X",
-                              "Gender": "Female",
-                              "Relationship": "daughter",
-                              "DateOfBirth": "",
-                              "DateOfDeath": "",
-                              "Children": []
-                            },
-                            {
                               "Id": "i29773832",
                               "Name": "X",
                               "Gender": "Male",
                               "Relationship": "son",
                               "DateOfBirth": "",
+                              "DateOfDeath": "",
+                              "Children": []
+                            },
+                            {
+                              "Id": "i1137137",
+                              "Name": "X",
+                              "Gender": "Female",
+                              "Relationship": "daughter",
+                              "DateOfBirth": "31/Oct/2012",
                               "DateOfDeath": "",
                               "Children": []
                             }

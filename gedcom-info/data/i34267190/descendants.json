@@ -32,20 +32,20 @@
           "DateOfDeath": "",
           "Children": [
             {
-              "Id": "i1137137",
-              "Name": "X",
-              "Gender": "Female",
-              "Relationship": "daughter",
-              "DateOfBirth": "",
-              "DateOfDeath": "",
-              "Children": []
-            },
-            {
               "Id": "i29773832",
               "Name": "X",
               "Gender": "Male",
               "Relationship": "son",
               "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i1137137",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "31/Oct/2012",
               "DateOfDeath": "",
               "Children": []
             }

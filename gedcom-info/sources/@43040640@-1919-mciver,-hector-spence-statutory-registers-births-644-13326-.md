@@ -46,4 +46,4 @@ References | 1919 B 644/13326
 * [Hector Spence McIver](../people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) (12/Apr/1919 - 27/Jan/2008)
 * [Margaret McIver](../people/@24380064@-margaret-mciver-b1918-d2015.md) (1918 - 2015)
 * [Roderick McIver](../people/@90830540@-roderick-mciver-b1910-d1999.md) (1910 - 1999)
-* [Margaret Patterson McKenzie](../people/@88610293@-margaret-patterson-mckenzie-b1884-d1964.md) (1884 - 1964)
+* [Margaret Patterson McKenzie](../people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)

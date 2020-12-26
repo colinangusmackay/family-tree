@@ -75,7 +75,6 @@ permalink: /indexes/by-birth-location
 - **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
 - **[McIver, Roderick](people/@90830540@-roderick-mciver-b1910-d1999.md)** (1910 - 1999)
 - **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
-- **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-d1964.md)** (1884 - 1964)
 - **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
 - **[McTurk, Grace](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - )
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
@@ -141,6 +140,7 @@ permalink: /indexes/by-birth-location
 
 ### Glasgow
 
+- **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[O'Malley, Margaret Paton](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
 
 ### Lanarkshire

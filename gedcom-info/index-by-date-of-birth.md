@@ -135,7 +135,7 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, James](people/@64418166@-james-cumming-b1881-d.md)** (about 1881 - )
   * **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
 * **Born in 1884.**
-  * **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-d1964.md)** (1884 - 1964)
+  * **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 * **Born in 1885.**
   * **[Farnham, Mae](people/@53003230@-mae-farnham-b1885-d.md)** (before 1885 - )
   * **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )

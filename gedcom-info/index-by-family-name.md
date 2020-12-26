@@ -175,7 +175,7 @@ permalink: /indexes/by-family-name
 
 ## McKenzie
 
-- **[Margaret Patterson McKenzie](people/@88610293@-margaret-patterson-mckenzie-b1884-d1964.md)** (1884 - 1964)
+- **[Margaret Patterson McKenzie](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 
 ## McLeod
 

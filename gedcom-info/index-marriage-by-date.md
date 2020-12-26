@@ -85,7 +85,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1906**
   * **about 1906** : **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) and X.
 * **1909**
-  * **31/Dec/1909** : **[Hector McIver](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - ) and **[Margaret Patterson McKenzie](people/@88610293@-margaret-patterson-mckenzie-b1884-d1964.md)** (1884 - 1964) at Glasgow, Scotland.
+  * **31/Dec/1909** : **[Hector McIver](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - ) and **[Margaret Patterson McKenzie](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) at Glasgow, Scotland.
 
 ### 1910s
 
