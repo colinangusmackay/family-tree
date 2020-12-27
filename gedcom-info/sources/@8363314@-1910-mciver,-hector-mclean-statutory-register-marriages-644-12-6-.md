@@ -89,5 +89,5 @@ References | 1910 M 644/12 6
 
 ## Source Referenced by
 
-* [Hector McIver](../people/@62168745@-hector-mciver-b1878-d.md) (1878 - )
-* [Margaret Patterson McKenzie](../people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)
+* [Hector McLean McIver](../people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) (17/Aug/1878 - 21/Feb/1938)
+* [Margaret Paterson McKenzie](../people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)

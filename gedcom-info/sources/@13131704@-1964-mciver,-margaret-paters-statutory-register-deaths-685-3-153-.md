@@ -51,6 +51,6 @@ References | 1964 D 685/3 153
 
 * [Hector Spence McIver](../people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) (12/Apr/1919 - 27/Jan/2008)
 * [Margaret McIver](../people/@24380064@-margaret-mciver-b1918-d2015.md) (1918 - 2015)
-* [Roderick McIver](../people/@90830540@-roderick-mciver-b1910-d1999.md) (1910 - 1999)
+* [Roderick M McIver](../people/@90830540@-roderick-m-mciver-b1910-d1999.md) (1910 - 1999)
 * [Tom Clephan McIver](../people/@74287888@-tom-clephan-mciver-b1924-d2019.md) (1924 - 2019)
-* [Margaret Patterson McKenzie](../people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)
+* [Margaret Paterson McKenzie](../people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)

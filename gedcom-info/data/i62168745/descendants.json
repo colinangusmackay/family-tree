@@ -1,10 +1,10 @@
 ﻿{
   "Id": "i62168745",
-  "Name": "Hector McIver",
+  "Name": "Hector McLean McIver",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "1878",
-  "DateOfDeath": "",
+  "DateOfBirth": "17/Aug/1878",
+  "DateOfDeath": "21/Feb/1938",
   "Children": [
     {
       "Id": "i80366022",
@@ -17,7 +17,7 @@
     },
     {
       "Id": "i90830540",
-      "Name": "Roderick McIver",
+      "Name": "Roderick M McIver",
       "Gender": "Male",
       "Relationship": "son",
       "DateOfBirth": "1910",
@@ -103,7 +103,17 @@
               "Relationship": "daughter",
               "DateOfBirth": "16/Jan/1987",
               "DateOfDeath": "",
-              "Children": []
+              "Children": [
+                {
+                  "Id": "i18891591",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
             },
             {
               "Id": "i54061529",

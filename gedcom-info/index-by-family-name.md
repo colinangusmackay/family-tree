@@ -167,15 +167,22 @@ permalink: /indexes/by-family-name
 ## McIver
 
 - **[Elizabeth McIver](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
-- **[Hector McIver](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - )
+- **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
 - **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
 - **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
-- **[Roderick McIver](people/@90830540@-roderick-mciver-b1910-d1999.md)** (1910 - 1999)
+- **[Roderick M McIver](people/@90830540@-roderick-m-mciver-b1910-d1999.md)** (1910 - 1999)
+- **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
 - **[Tom Clephan McIver](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 
 ## McKenzie
 
-- **[Margaret Patterson McKenzie](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
+- **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
+
+## McLean
+
+- **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
+- **[Christy McLean](people/@62955988@-christy-mclean-b1846-d.md)** (about 1846 - )
+- **[Mary McLean](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - )
 
 ## McLeod
 
@@ -188,6 +195,10 @@ permalink: /indexes/by-family-name
 ## Miller
 
 - **[May Miller](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
+
+## Morrison
+
+- **[Mary Morrison](people/@18316154@-mary-morrison-b1806-d.md)** (about 1806 - )
 
 ## O'Malley
 

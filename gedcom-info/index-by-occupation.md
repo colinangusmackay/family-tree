@@ -27,10 +27,15 @@ permalink: /indexes/by-occupation
 ## Crofter
 
 * **[Matheson, Hector](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896).
+* **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
 
 ## Dairy Maid
 
 * **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998).
+
+## Domestic Servant
+
+* **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ).
 
 ## Draftsman
 
@@ -116,6 +121,10 @@ permalink: /indexes/by-occupation
 
 * **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967), mentioned 3 times.
 
+## Ploughman
+
+* **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
+
 ## Practical Nursing
 
 * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
@@ -128,6 +137,10 @@ permalink: /indexes/by-occupation
 
 * **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016).
 
+## Servant
+
+* **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
+
 ## Shorthand Typist
 
 * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973).
@@ -138,7 +151,7 @@ permalink: /indexes/by-occupation
 
 ## Tailor's Cutter
 
-* **[McIver, Hector](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - ).
+* **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938).
 
 ## Tinsmith
 

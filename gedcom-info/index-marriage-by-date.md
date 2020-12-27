@@ -37,6 +37,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1860**
   * **21/Feb/1860** : **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d.md)** (bet' 1836 and 1841 - ) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d.md)** (bet' 1840 and 1842 - ) at Dornoch, Sutherland, Scotland.
+* **1861**
+  * **14/Feb/1861** : **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) and **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) at Gairloch, Ross, Scotland.
 * **1869**
   * **16/Nov/1869** : **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ) and **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - ) at Dornoch, Sutherland, Scotland.
 
@@ -85,7 +87,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1906**
   * **about 1906** : **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) and X.
 * **1909**
-  * **31/Dec/1909** : **[Hector McIver](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - ) and **[Margaret Patterson McKenzie](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) at Glasgow, Scotland.
+  * **31/Dec/1909** : **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938) and **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) at Glasgow, Scotland.
 
 ### 1910s
 

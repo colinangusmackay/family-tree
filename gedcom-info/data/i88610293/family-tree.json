@@ -1,7 +1,7 @@
 ﻿{
   "Subject": {
     "Id": "i88610293",
-    "Name": "Margaret Patterson McKenzie",
+    "Name": "Margaret Paterson McKenzie",
     "Gender": "Female",
     "DateOfBirth": "26/May/1884",
     "DateOfDeath": "5/Apr/1964"
@@ -27,7 +27,7 @@
   "Siblings": [
     {
       "Id": "i88610293",
-      "Name": "Margaret Patterson McKenzie",
+      "Name": "Margaret Paterson McKenzie",
       "Gender": "Female",
       "DateOfBirth": "26/May/1884",
       "DateOfDeath": "5/Apr/1964",
@@ -43,10 +43,10 @@
   "Spouses": [
     {
       "Id": "i62168745",
-      "Name": "Hector McIver",
+      "Name": "Hector McLean McIver",
       "Gender": "Male",
-      "DateOfBirth": "1878",
-      "DateOfDeath": "",
+      "DateOfBirth": "17/Aug/1878",
+      "DateOfDeath": "21/Feb/1938",
       "RelationToSubject": "husband",
       "DateOfMarriage": "31/Dec/1909",
       "DateOfDivorce": ""
@@ -67,7 +67,7 @@
     },
     {
       "Id": "i90830540",
-      "Name": "Roderick McIver",
+      "Name": "Roderick M McIver",
       "Gender": "Male",
       "DateOfBirth": "1910",
       "DateOfDeath": "1999",

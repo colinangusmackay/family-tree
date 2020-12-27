@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i45920386",
+  "Name": "Mary McLean",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1849",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i91397610",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i18316154",
+      "Name": "Mary Morrison",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1806",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

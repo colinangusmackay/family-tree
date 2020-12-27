@@ -38,7 +38,7 @@ permalink: /indexes/by-residence-location
 
 ### Edinburgh
 
-- **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
+- **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 
 ### Glasgow
 
@@ -46,14 +46,25 @@ permalink: /indexes/by-residence-location
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019)
 - **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
-- **[McIver, Hector](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - )
-- **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
+- **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
+- **[McIver, Roderick M](people/@90830540@-roderick-m-mciver-b1910-d1999.md)** (1910 - 1999)
+- **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 
 ### Perthshire
 
 #### Inchture
 
 - **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
+
+### Ross
+
+#### Aultbea
+
+- **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
+
+#### Talladale
+
+- **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
 
 ### Sutherland
 

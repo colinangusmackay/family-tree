@@ -20,4 +20,4 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [Margaret Patterson McKenzie](../people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)
+* [Margaret Paterson McKenzie](../people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)

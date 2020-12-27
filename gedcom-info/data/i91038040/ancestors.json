@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i91038040",
+  "Name": "Rodrick McIver",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1821",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i8610974",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i53638178",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

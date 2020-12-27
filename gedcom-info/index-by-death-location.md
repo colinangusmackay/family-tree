@@ -88,13 +88,17 @@ permalink: /indexes/by-death-location
 - **[Matheson, Hector](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896)
 - **[Mathews, John Albert](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 - **[McIver, Elizabeth](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
-- **[McIver, Hector](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - )
 - **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
-- **[McIver, Roderick](people/@90830540@-roderick-mciver-b1910-d1999.md)** (1910 - 1999)
+- **[McIver, Roderick M](people/@90830540@-roderick-m-mciver-b1910-d1999.md)** (1910 - 1999)
+- **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
 - **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
+- **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
+- **[McLean, Christy](people/@62955988@-christy-mclean-b1846-d.md)** (about 1846 - )
+- **[McLean, Mary](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - )
 - **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
 - **[McTurk, Grace](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - )
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
+- **[Morrison, Mary](people/@18316154@-mary-morrison-b1806-d.md)** (about 1806 - )
 - **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - )
 - **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
 - **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - )
@@ -147,8 +151,9 @@ permalink: /indexes/by-death-location
 ### Edinburgh
 
 - **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
+- **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
 - **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
-- **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
+- **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 
 ### Glasgow

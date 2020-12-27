@@ -31,6 +31,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
 * **Born in 1806.**
   * **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d.md)** (1806 - )
+  * **[Morrison, Mary](people/@18316154@-mary-morrison-b1806-d.md)** (about 1806 - )
 * **Born in 1807.**
   * **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d.md)** (1807 - )
 
@@ -41,11 +42,18 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1815.**
   * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - )
 
+### 1820s
+
+* **Born in 1821.**
+  * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
+
 ### 1830s
 
 * **Born in 1833.**
   * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
   * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
+* **Born in 1835.**
+  * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
 * **Born in 1836.**
   * **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d.md)** (bet' 1836 and 1841 - )
 * **Born in 1838.**
@@ -66,10 +74,12 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - )
 * **Born in 1846.**
   * **[Mackay, David](people/@46263680@-david-mackay-b1846-d1860.md)** (1846 - 1860)
+  * **[McLean, Christy](people/@62955988@-christy-mclean-b1846-d.md)** (about 1846 - )
 * **Born in 1849.**
   * **[Grant, Cate](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
   * **[Mackay, Barbara](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - )
   * **[Mackay, Catherine](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - )
+  * **[McLean, Mary](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - )
 
 ### 1850s
 
@@ -121,7 +131,7 @@ permalink: /indexes/by-date-of-birth
   * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d.md)** (19/Oct/1877 - )
 * **Born in 1878.**
   * **[Cumming, Christy](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
-  * **[McIver, Hector](people/@62168745@-hector-mciver-b1878-d.md)** (1878 - )
+  * **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
 * **Born in 1879.**
   * **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
 
@@ -135,7 +145,7 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, James](people/@64418166@-james-cumming-b1881-d.md)** (about 1881 - )
   * **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
 * **Born in 1884.**
-  * **[McKenzie, Margaret Patterson](people/@88610293@-margaret-patterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
+  * **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 * **Born in 1885.**
   * **[Farnham, Mae](people/@53003230@-mae-farnham-b1885-d.md)** (before 1885 - )
   * **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
@@ -220,7 +230,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1910.**
   * **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
   * **[Martensen, Charles Raymond](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
-  * **[McIver, Roderick](people/@90830540@-roderick-mciver-b1910-d1999.md)** (1910 - 1999)
+  * **[McIver, Roderick M](people/@90830540@-roderick-m-mciver-b1910-d1999.md)** (1910 - 1999)
   * **[Gillie, Williamina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
   * **[Gardiner, William](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986)
   * **[Ross, Alexander](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )

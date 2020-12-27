@@ -1,25 +1,25 @@
 ﻿{
   "Subject": {
     "Id": "i62168745",
-    "Name": "Hector McIver",
+    "Name": "Hector McLean McIver",
     "Gender": "Male",
-    "DateOfBirth": "1878",
-    "DateOfDeath": ""
+    "DateOfBirth": "17/Aug/1878",
+    "DateOfDeath": "21/Feb/1938"
   },
   "Parents": [
     {
       "Id": "i91038040",
-      "Name": "X",
+      "Name": "Rodrick McIver",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1821",
       "DateOfDeath": "",
       "RelationToSubject": "father"
     },
     {
       "Id": "i68658880",
-      "Name": "X",
+      "Name": "Annie McLean",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1835",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     }
@@ -27,10 +27,10 @@
   "Siblings": [
     {
       "Id": "i62168745",
-      "Name": "Hector McIver",
+      "Name": "Hector McLean McIver",
       "Gender": "Male",
-      "DateOfBirth": "1878",
-      "DateOfDeath": "",
+      "DateOfBirth": "17/Aug/1878",
+      "DateOfDeath": "21/Feb/1938",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -43,7 +43,7 @@
   "Spouses": [
     {
       "Id": "i88610293",
-      "Name": "Margaret Patterson McKenzie",
+      "Name": "Margaret Paterson McKenzie",
       "Gender": "Female",
       "DateOfBirth": "26/May/1884",
       "DateOfDeath": "5/Apr/1964",
@@ -67,7 +67,7 @@
     },
     {
       "Id": "i90830540",
-      "Name": "Roderick McIver",
+      "Name": "Roderick M McIver",
       "Gender": "Male",
       "DateOfBirth": "1910",
       "DateOfDeath": "1999",
