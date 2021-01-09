@@ -75,6 +75,11 @@ permalink: /indexes/by-family-name
 
 - **[William Gardiner](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986)
 
+## Gibson
+
+- **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
+- **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939)
+
 ## Gillie
 
 - **[Williamina Gillie](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
@@ -170,7 +175,7 @@ permalink: /indexes/by-family-name
 - **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
 - **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
 - **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
-- **[Roderick M McIver](people/@90830540@-roderick-m-mciver-b1910-d1999.md)** (1910 - 1999)
+- **[Roderick McKenzie McIver](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
 - **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
 - **[Tom Clephan McIver](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 
@@ -219,7 +224,7 @@ permalink: /indexes/by-family-name
 - **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 - **[Isabella Ramsay](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
 - **[Jack Ramsay](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
-- **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d.md)** (21/Feb/1880 - )
+- **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
 
 ## Raymond
 

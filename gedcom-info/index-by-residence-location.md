@@ -38,7 +38,14 @@ permalink: /indexes/by-residence-location
 
 ### Edinburgh
 
+- **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
+- **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
+- **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
+- **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 - **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
+- **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
+- **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
+- **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
 
 ### Glasgow
 
@@ -47,8 +54,14 @@ permalink: /indexes/by-residence-location
 - **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019)
 - **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
 - **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
-- **[McIver, Roderick M](people/@90830540@-roderick-m-mciver-b1910-d1999.md)** (1910 - 1999)
+- **[McIver, Roderick McKenzie](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
 - **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
+
+### Midlothian
+
+#### Corstorphine
+
+- **[Gibson, Alexander](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939)
 
 ### Perthshire
 

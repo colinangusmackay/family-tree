@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i21968540",
+    "Name": "Alexander Gibson",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1939"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i21968540",
+      "Name": "Alexander Gibson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1939",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i71295041",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "16/Jun/1897",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i3963708",
+      "Name": "Alastair McDonald Gibson",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1914",
+      "DateOfDeath": "1978",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21968540",
+        "i71295041"
+      ]
+    }
+  ]
+}

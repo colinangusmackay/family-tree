@@ -41,9 +41,9 @@
     },
     {
       "Id": "i90830540",
-      "Name": "Roderick M McIver",
+      "Name": "Roderick McKenzie McIver",
       "Gender": "Male",
-      "DateOfBirth": "1910",
+      "DateOfBirth": "22/Oct/1910",
       "DateOfDeath": "1999",
       "RelationToSubject": "brother",
       "ParentGroupIds": [
@@ -99,12 +99,12 @@
   "Spouses": [
     {
       "Id": "i3963708",
-      "Name": "X",
+      "Name": "Alastair McDonald Gibson",
       "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "DateOfBirth": "19/Jan/1914",
+      "DateOfDeath": "1978",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "1/Sep/1939",
       "DateOfDivorce": ""
     }
   ],

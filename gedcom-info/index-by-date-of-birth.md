@@ -139,7 +139,7 @@ permalink: /indexes/by-date-of-birth
 
 * **Born in 1880.**
   * **[Ross, Sarah](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - )
-  * **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d.md)** (21/Feb/1880 - )
+  * **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
   * **[Mackay, Jessie](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932)
 * **Born in 1881.**
   * **[Cumming, James](people/@64418166@-james-cumming-b1881-d.md)** (about 1881 - )
@@ -230,10 +230,10 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1910.**
   * **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
   * **[Martensen, Charles Raymond](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
-  * **[McIver, Roderick M](people/@90830540@-roderick-m-mciver-b1910-d1999.md)** (1910 - 1999)
   * **[Gillie, Williamina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
   * **[Gardiner, William](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986)
   * **[Ross, Alexander](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
+  * **[McIver, Roderick McKenzie](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
 * **Born in 1911.**
   * **[Ramsay, Alan](people/@62219744@-alan-ramsay-b1911-d1932.md)** (1911 - 1932)
   * **[Stead, George](people/@77215226@-george-stead-b1911-3-d.md)** (Mar/1911 - )
@@ -241,6 +241,7 @@ permalink: /indexes/by-date-of-birth
   * **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
 * **Born in 1914.**
   * **[Ramsay, Bruce](people/@49046148@-bruce-ramsay-b1914-d1965-11-29.md)** (1914 - 29/Nov/1965)
+  * **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
 * **Born in 1915.**
   * **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
 * **Born in 1916.**
@@ -302,6 +303,7 @@ permalink: /indexes/by-date-of-birth
 
 ## Unknown Date of Birth
 
+* [Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md) ( - before 1939)
 * [Ada Hayes](people/@80079834@-ada-hayes-b-d2018.md) ( - before 2018)
 * [Claude Hayes](people/@99088640@-claude-hayes-b-d2018.md) ( - before 2018)
 * [Lena Hayes](people/@80081989@-lena-hayes-b-d2018.md) ( - before 2018)

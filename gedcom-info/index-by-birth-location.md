@@ -26,6 +26,7 @@ permalink: /indexes/by-birth-location
 - **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
 - **[Farnham, Mae](people/@53003230@-mae-farnham-b1885-d.md)** (before 1885 - )
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
+- **[Gibson, Alexander](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939)
 - **[Grant, Cate](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
 - **[Grant, Christy](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
 - **[Grant, Margaret](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
@@ -72,7 +73,6 @@ permalink: /indexes/by-birth-location
 - **[McIver, Elizabeth](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
 - **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
 - **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
-- **[McIver, Roderick M](people/@90830540@-roderick-m-mciver-b1910-d1999.md)** (1910 - 1999)
 - **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
 - **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 - **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
@@ -87,10 +87,9 @@ permalink: /indexes/by-birth-location
 - **[Ramsay, Alan](people/@62219744@-alan-ramsay-b1911-d1932.md)** (1911 - 1932)
 - **[Ramsay, Bruce](people/@49046148@-bruce-ramsay-b1914-d1965-11-29.md)** (1914 - 29/Nov/1965)
 - **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
-- **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 - **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
 - **[Ramsay, Jack](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
-- **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d.md)** (21/Feb/1880 - )
+- **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
 - **[Raymond, Goldie](people/@2876469@-goldie-raymond-b-d2018.md)** ( - before 2018)
 - **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
 - **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
@@ -140,8 +139,13 @@ permalink: /indexes/by-birth-location
 
 - **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
 
+### Edinburgh
+
+- **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
+
 ### Glasgow
 
+- **[McIver, Roderick McKenzie](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
 - **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[O'Malley, Margaret Paton](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
 
@@ -150,6 +154,12 @@ permalink: /indexes/by-birth-location
 #### Wishaw
 
 - **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974)
+
+### Midlothian
+
+#### Corstorphine
+
+- **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
 
 ### Perthshire
 

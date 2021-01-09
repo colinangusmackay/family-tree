@@ -13,7 +13,26 @@
       "Relationship": "mother",
       "DateOfBirth": "",
       "DateOfDeath": "",
-      "Parents": []
+      "Parents": [
+        {
+          "Id": "i22540348",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i45571672",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
     },
     {
       "Id": "i64225415",
@@ -21,7 +40,7 @@
       "Gender": "Male",
       "Relationship": "father",
       "DateOfBirth": "21/Feb/1880",
-      "DateOfDeath": "",
+      "DateOfDeath": "20/Jun/1920",
       "Parents": [
         {
           "Id": "i60684755",

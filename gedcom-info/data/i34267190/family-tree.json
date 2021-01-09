@@ -20,7 +20,7 @@
       "Name": "John Ramsay",
       "Gender": "Male",
       "DateOfBirth": "21/Feb/1880",
-      "DateOfDeath": "",
+      "DateOfDeath": "20/Jun/1920",
       "RelationToSubject": "father"
     }
   ],
@@ -118,7 +118,7 @@
       "DateOfBirth": "12/Apr/1919",
       "DateOfDeath": "27/Jan/2008",
       "RelationToSubject": "husband",
-      "DateOfMarriage": "1945",
+      "DateOfMarriage": "6/Apr/1945",
       "DateOfDivorce": ""
     }
   ],

@@ -38,6 +38,7 @@ permalink: /indexes/by-death-location
 - **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d.md)** (18/Sep/1865 - )
 - **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d.md)** (19/Oct/1877 - )
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
+- **[Gibson, Alexander](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939)
 - **[Gillie, Williamina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 - **[Grant, Cate](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
 - **[Grant, Christy](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
@@ -89,7 +90,7 @@ permalink: /indexes/by-death-location
 - **[Mathews, John Albert](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 - **[McIver, Elizabeth](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
 - **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
-- **[McIver, Roderick M](people/@90830540@-roderick-m-mciver-b1910-d1999.md)** (1910 - 1999)
+- **[McIver, Roderick McKenzie](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
 - **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
 - **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 - **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
@@ -108,7 +109,7 @@ permalink: /indexes/by-death-location
 - **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
 - **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
 - **[Ramsay, Jack](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
-- **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d.md)** (21/Feb/1880 - )
+- **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
 - **[Raymond, Goldie](people/@2876469@-goldie-raymond-b-d2018.md)** ( - before 2018)
 - **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
 - **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
@@ -166,6 +167,12 @@ permalink: /indexes/by-death-location
 
 - **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
 - **[Gardiner, William](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986)
+
+### South Lanarkshire
+
+#### Rutherglen
+
+- **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
 
 ### Sutherland
 

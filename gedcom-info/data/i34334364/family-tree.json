@@ -41,9 +41,9 @@
     },
     {
       "Id": "i90830540",
-      "Name": "Roderick M McIver",
+      "Name": "Roderick McKenzie McIver",
       "Gender": "Male",
-      "DateOfBirth": "1910",
+      "DateOfBirth": "22/Oct/1910",
       "DateOfDeath": "1999",
       "RelationToSubject": "brother",
       "ParentGroupIds": [
@@ -104,7 +104,7 @@
       "DateOfBirth": "28/Sep/1920",
       "DateOfDeath": "15/Oct/2015",
       "RelationToSubject": "wife",
-      "DateOfMarriage": "1945",
+      "DateOfMarriage": "6/Apr/1945",
       "DateOfDivorce": ""
     }
   ],

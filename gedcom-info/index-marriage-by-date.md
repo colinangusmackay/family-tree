@@ -73,6 +73,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **24/Mar/1892** : **[John Mackay](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ) and **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - ) at Embo, Sutherland, Scotland.
 * **1895**
   * **19/Feb/1895** : X and **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - ) at Dornoch, Sutherland, Scotland.
+* **1897**
+  * **16/Jun/1897** : **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939) and X at Golspie, Sutherland, Scotland.
 
 ## 20th Century
 
@@ -84,6 +86,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **22/Jan/1901** : **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ).
 * **1903**
   * **27/Nov/1903** : **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939) and **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - ).
+* **1905**
+  * **13/Jan/1905** : **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920) and X at Edinburgh, Scotland.
 * **1906**
   * **about 1906** : **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) and X.
 * **1909**
@@ -116,6 +120,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **9/Feb/1934** : **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - ) and X at Dornoch, Sutherland, Scotland.
   * **2/Mar/1934** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d.md)** (19/Oct/1877 - ) and **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) at Dornoch, Sutherland, Scotland.
 * **1939**
+  * **1/Sep/1939** : **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) and **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015) at Edinburgh, Scotland.
   * **28/Dec/1939** : **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004) and **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004) at Glasgow, Scotland.
 
 ### 1940s
@@ -123,7 +128,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1943**
   * **10/Dec/1943** : **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-d1977.md)** (1897 - 1977) at , Broward, Florida, United States of America.
 * **1945**
-  * **1945** : **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) and **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) at Edinburgh, Scotland.
+  * **6/Apr/1945** : **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) and **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) at Edinburgh, Scotland.
 * **1947**
   * **1947** : **[Donald James Cumming](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976) and **[Phylis Martensen](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018) at , Norfolk County, Massachusetts, United States of America.
 * **1948**

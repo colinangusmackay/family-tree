@@ -1,9 +1,9 @@
 ﻿{
   "Subject": {
     "Id": "i90830540",
-    "Name": "Roderick M McIver",
+    "Name": "Roderick McKenzie McIver",
     "Gender": "Male",
-    "DateOfBirth": "1910",
+    "DateOfBirth": "22/Oct/1910",
     "DateOfDeath": "1999"
   },
   "Parents": [
@@ -41,9 +41,9 @@
     },
     {
       "Id": "i90830540",
-      "Name": "Roderick M McIver",
+      "Name": "Roderick McKenzie McIver",
       "Gender": "Male",
-      "DateOfBirth": "1910",
+      "DateOfBirth": "22/Oct/1910",
       "DateOfDeath": "1999",
       "RelationToSubject": "self",
       "ParentGroupIds": [

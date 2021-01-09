@@ -4,6 +4,10 @@ permalink: /indexes/by-occupation
 ---
 
 # Index - By Occupation
+## Assistant Librarian
+
+* **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015).
+
 ## Biscuit Factory Operative
 
 * **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004).
@@ -84,6 +88,14 @@ permalink: /indexes/by-occupation
 
 * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974).
 
+## Gunner, Royal Artillery
+
+* **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008).
+
+## Ladies Outfitters Shop Assistant
+
+* **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015).
+
 ## Library Attendant
 
 * **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - ).
@@ -103,6 +115,10 @@ permalink: /indexes/by-occupation
 ## Mill Worker
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
+
+## Minister, Church of Scotland
+
+* **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978).
 
 ## Nurse
 
@@ -137,6 +153,22 @@ permalink: /indexes/by-occupation
 
 * **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016).
 
+## Railway Engine Driver
+
+* **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920).
+
+## Railway Fireman
+
+* **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920).
+
+## Saddler
+
+* **[Gibson, Alexander](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939).
+
+## Saddler and Harness Maker
+
+* **[Gibson, Alexander](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939).
+
 ## Servant
 
 * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
@@ -149,9 +181,13 @@ permalink: /indexes/by-occupation
 
 * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973), mentioned 4 times.
 
+## Tailor
+
+* **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008).
+
 ## Tailor's Cutter
 
-* **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938).
+* **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938), mentioned 2 times.
 
 ## Tinsmith
 
