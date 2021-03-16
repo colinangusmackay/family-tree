@@ -21,6 +21,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 ## Source Referenced by
 
 * [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) (26/Jul/1900 - 7/Oct/1981)
+* [Anna Jess Mackay](../people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md) (7/Jul/1938 - 12/Mar/2021)
 * [Annie Mackay](../people/@51252926@-annie-mackay-b1892-12-15-d1918.md) (15/Dec/1892 - 1918)
 * [Donald James Mackay](../people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md) (1931 - 29/Dec/2011)
 * [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)

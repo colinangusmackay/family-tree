@@ -4,18 +4,40 @@
     "Name": "Kenneth Fraser",
     "Gender": "Male",
     "DateOfBirth": "19/Oct/1877",
-    "DateOfDeath": ""
+    "DateOfDeath": "9/May/1954"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i16594334",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i10983472",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i91376191",
       "Name": "Kenneth Fraser",
       "Gender": "Male",
       "DateOfBirth": "19/Oct/1877",
-      "DateOfDeath": "",
+      "DateOfDeath": "9/May/1954",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i10983472",
+          "i16594334"
+        ]
+      ]
     }
   ],
   "Spouses": [

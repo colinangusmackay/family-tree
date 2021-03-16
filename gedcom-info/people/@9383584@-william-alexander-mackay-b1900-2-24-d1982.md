@@ -29,7 +29,7 @@ permalink: /people/i9383584
 * Son: X
 * Daughter: [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) (11/Jan/1935 - 1935)
 * Daughter: [Isabella Mackay](./@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) (1/Jan/1936 - 18/Dec/2019)
-* Daughter: X
+* Daughter: [Anna Jess Mackay](./@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md) (7/Jul/1938 - 12/Mar/2021)
 * Son: X
 * Son: X
 
@@ -47,23 +47,23 @@ Date | Item | Description | Sources | Notes
 1935 | Death of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) died. |  | [11](#11)
 11/Jan/1935 | Birth of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Embo, Sutherland, Scotland. | [12](#12) | 
 1/Jan/1936 | Birth of daughter | [Isabella Mackay](./@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Embo, Sutherland, Scotland. | [13](#13) | 
-7/Jul/1938 | Birth of daughter | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Coigach, Ross and Cromerty, Scotland. | [14](#14) | 
+7/Jul/1938 | Birth of daughter | [Anna Jess Mackay](./@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Achiltibue, Rosshire, Scotland. | [14](#14), [15](#15) | 
 1939 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md). | [3](#3) | 
 2/Jan/1942 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) in Embo, Sutherland, Scotland. |  | 
-3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [15](#15) | 
-1973 | Death of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) died in Dornoch, Sutherland, Scotland. | [16](#16) | 
-7/Oct/1981 | Death of partner | [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) died in Glasgow, Scotland. | [17](#17), [18](#18) | 
+3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [16](#16) | 
+1973 | Death of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) died in Dornoch, Sutherland, Scotland. | [17](#17) | 
+7/Oct/1981 | Death of partner | [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) died in Glasgow, Scotland. | [18](#18), [19](#19) | 
 1982 | Died | Died. |  | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-Unknown | Glasgow, Scotland | [18](#18)
+Unknown | Glasgow, Scotland | [19](#19)
 1918 | 6 Terrace Street, Embo, Sutherlandshire | [2](#2)
-before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [6](#6), [19](#19)
-1960 | 57 Kersland Street, Glasgow | [20](#20)
-1980 | 57 Kersland Street, Glasgow | [21](#21)
+before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [6](#6), [20](#20)
+1960 | 57 Kersland Street, Glasgow | [21](#21)
+1980 | 57 Kersland Street, Glasgow | [22](#22)
 
 ## Known Occupations
 
@@ -198,13 +198,23 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [12](#12)
 
 ### 14
 
-**New York State, Passenger and Crew Lists, 1917-1967 for X J X**
+**1959 MACKAY, ANNA J - New York State, Passenger and Crew Lists, 1917-1967**
 
 * Responsible Agency: Immigration and Naturalization Service
 * References: 
   * A3998 - New York, 1957-1967, roll number 161
 
 ### 15
+
+**2021 MACKAY, ANNA JESSE - Obituary**
+
+* [Full text and notes](../sources/@9852302@-2021-mackay,-anna-jesse-obituary.md)
+* Publication: The POST STAR
+* Date: 16/Mar/2021
+* References: 
+  * (URL) https://www.legacy.com/us/obituaries/poststar/name/anna-roberts-obituary?pid=198059055&fbclid=IwAR2F39iQXzoFaTQV1m_tIRAu2OZ-ZmViqY-A1eMnVYQevymzYILBYghZmS0
+
+### 16
 
 **1969 X, JOHN PAUL (Statutory registers Deaths 047/18)**
 
@@ -214,7 +224,7 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [12](#12)
 * References: 
   * 1969 D 047/18
 
-### 16
+### 17
 
 **1973 FRASER, MARGARET MOYES (Index of Register of Deaths)**
 
@@ -223,7 +233,7 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [12](#12)
 * References: 
   * 1973 M 182/22
 
-### 17
+### 18
 
 **1981 Index entry of Obituary Mary Ann Mackay (Post Star, GF, NY)**
 
@@ -232,7 +242,7 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [12](#12)
 * Date: 9/Oct/1981
 * Responsible Agency: The Post Star (Glen Falls, New York)
 
-### 18
+### 19
 
 **1981 X, MARY ANN - The Post Star Fri Oct 9 1981**
 
@@ -240,13 +250,13 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [12](#12)
 * Publication: The Post Star
 * Date: 9/Oct/1981
 
-### 19
+### 20
 
 > On Google maps: [https://www.google.com/maps/@43.6887457,-79.3186802,3a,20.3y,147.68h,90.09t/data=!3m6!1e1!3m4!1sCBT9uFW1WbIbebZypxNMTw!2e0!7i16384!8i8192](https://www.google.com/maps/@43.6887457,-79.3186802,3a,20.3y,147.68h,90.09t/data=!3m6!1e1!3m4!1sCBT9uFW1WbIbebZypxNMTw!2e0!7i16384!8i8192)
 >
 
 
-### 20
+### 21
 
 **1960 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1960**
 
@@ -255,7 +265,7 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [12](#12)
 * Date: May/1960
 * Responsible Agency: The Post Office
 
-### 21
+### 22
 
 **1980 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1980**
 

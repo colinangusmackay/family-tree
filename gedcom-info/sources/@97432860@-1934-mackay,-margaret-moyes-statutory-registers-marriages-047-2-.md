@@ -20,5 +20,6 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [Kenneth Fraser](../people/@91376191@-kenneth-fraser-b1877-10-19-d.md) (19/Oct/1877 - )
+* [Kenneth Fraser](../people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) (19/Oct/1877 - 9/May/1954)
+* [John Paul Mackay](../people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
 * [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)

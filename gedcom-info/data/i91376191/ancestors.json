@@ -4,6 +4,25 @@
   "Gender": "Male",
   "Relationship": "Self",
   "DateOfBirth": "19/Oct/1877",
-  "DateOfDeath": "",
-  "Parents": []
+  "DateOfDeath": "9/May/1954",
+  "Parents": [
+    {
+      "Id": "i10983472",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i16594334",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

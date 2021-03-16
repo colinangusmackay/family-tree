@@ -45,4 +45,5 @@ References | D1932-047/3
 
 ## Source Referenced by
 
+* [Kenneth Fraser](../people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) (19/Oct/1877 - 9/May/1954)
 * [Jessie Mackay](../people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md) (12/Sep/1880 - 7/Feb/1932)
