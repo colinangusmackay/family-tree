@@ -200,15 +200,16 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [12](#12)
 
 **1959 MACKAY, ANNA J - New York State, Passenger and Crew Lists, 1917-1967**
 
+* [Full text and notes](../sources/@64284008@-1959-mackay,-anna-j-new-york-state,-passenger-and-crew-lists,-1917-1967.md)
 * Responsible Agency: Immigration and Naturalization Service
 * References: 
   * A3998 - New York, 1957-1967, roll number 161
 
 ### 15
 
-**2021 MACKAY, ANNA JESSE - Obituary**
+**2021 MACKAY, ANNA JESSE - Obituary, The Post Star**
 
-* [Full text and notes](../sources/@9852302@-2021-mackay,-anna-jesse-obituary.md)
+* [Full text and notes](../sources/@9852302@-2021-mackay,-anna-jesse-obituary,-the-post-star.md)
 * Publication: The POST STAR
 * Date: 16/Mar/2021
 * References: 
