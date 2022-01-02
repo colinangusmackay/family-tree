@@ -101,6 +101,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1860.**
   * **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - )
 * **Born in 1861.**
+  * **[MacLeod, Matilda](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
   * **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - )
   * **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - )
   * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - )
@@ -200,6 +201,7 @@ permalink: /indexes/by-date-of-birth
   * **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - )
   * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
   * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981)
+  * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
   * **[Ross, Peter](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
 * **Born in 1901.**
   * **[Stead, Albert](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
@@ -315,8 +317,10 @@ permalink: /indexes/by-date-of-birth
 * [Nellie Hayes](people/@5410300@-nellie-hayes-b-d2018.md) ( - before 2018)
 * [Sarah Hayes](people/@32431312@-sarah-hayes-b-d2018.md) ( - before 2018)
 * [Vernon Hayes](people/@31599970@-vernon-hayes-b-d2018.md) ( - before 2018)
+* [Catherine MacDonald](people/@97950336@-catherine-macdonald-b-d1949.md) ( - before 1949)
 * [Barbara Mackay](people/@61459684@-barbara-mackay-b-d1896.md) ( - before 1896)
 * [Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md) ( - 8/Dec/1881)
+* [Hector MacLeod](people/@28404010@-hector-macleod-b-d1949.md) ( - before 1949)
 * [Hector Matheson](people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
 * [Elizabeth McIver](people/@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
 * [Goldie Raymond](people/@2876469@-goldie-raymond-b-d2018.md) ( - before 2018)

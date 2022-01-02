@@ -109,6 +109,7 @@ permalink: /indexes/by-family-name
 
 ## MacDonald
 
+- **[Catherine MacDonald](people/@97950336@-catherine-macdonald-b-d1949.md)** ( - before 1949)
 - **[Kate MacDonald](people/@28255030@-kate-macdonald-b1807-d.md)** (1807 - )
 
 ## Mackay
@@ -124,6 +125,7 @@ permalink: /indexes/by-family-name
 - **[Barbara Mackay](people/@61459684@-barbara-mackay-b-d1896.md)** ( - before 1896)
 - **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - )
 - **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - )
+- **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
 - **[David Mackay](people/@46263680@-david-mackay-b1846-d1860.md)** (1846 - 1860)
 - **[Donald James Mackay](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
@@ -151,6 +153,11 @@ permalink: /indexes/by-family-name
 - **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
 - **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
 - **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
+
+## MacLeod
+
+- **[Hector MacLeod](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949)
+- **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
 
 ## Macrae
 

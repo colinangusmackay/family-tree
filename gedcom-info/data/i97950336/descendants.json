@@ -1,0 +1,39 @@
+﻿{
+  "Id": "i97950336",
+  "Name": "Catherine MacDonald",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "before 1949",
+  "Children": [
+    {
+      "Id": "i31540392",
+      "Name": "Matilda MacLeod",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "9/Nov/1949",
+      "Children": [
+        {
+          "Id": "i28166672",
+          "Name": "Catherine Mackay",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "3/Sep/1900",
+          "DateOfDeath": "",
+          "Children": [
+            {
+              "Id": "i56962662",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

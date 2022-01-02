@@ -78,10 +78,12 @@ permalink: /indexes/by-occupation
 * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ).
 * **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ).
+* **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949).
 * **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - ), mentioned 2 times.
 
 ## Fishworker
 
+* **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
 * **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973).
 
 ## Gardener
@@ -176,6 +178,10 @@ permalink: /indexes/by-occupation
 ## Saddler and Harness Maker
 
 * **[Gibson, Alexander](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939).
+
+## Seaman
+
+* **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969).
 
 ## Servant
 

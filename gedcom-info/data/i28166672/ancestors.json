@@ -1,0 +1,47 @@
+﻿{
+  "Id": "i28166672",
+  "Name": "Catherine Mackay",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "3/Sep/1900",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i53390906",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i31540392",
+      "Name": "Matilda MacLeod",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "9/Nov/1949",
+      "Parents": [
+        {
+          "Id": "i97950336",
+          "Name": "Catherine MacDonald",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1949",
+          "Parents": []
+        },
+        {
+          "Id": "i28404010",
+          "Name": "Hector MacLeod",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1949",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i31540392",
+    "Name": "Matilda MacLeod",
+    "Gender": "Female",
+    "DateOfBirth": "about 1861",
+    "DateOfDeath": "9/Nov/1949"
+  },
+  "Parents": [
+    {
+      "Id": "i28404010",
+      "Name": "Hector MacLeod",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1949",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i97950336",
+      "Name": "Catherine MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1949",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i31540392",
+      "Name": "Matilda MacLeod",
+      "Gender": "Female",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "9/Nov/1949",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i28404010",
+          "i97950336"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i53390906",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "15/Jan/1885",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i28166672",
+      "Name": "Catherine Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "3/Sep/1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i53390906",
+        "i31540392"
+      ]
+    }
+  ]
+}

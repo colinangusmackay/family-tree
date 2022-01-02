@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i97950336",
+    "Name": "Catherine MacDonald",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1949"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i97950336",
+      "Name": "Catherine MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1949",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i28404010",
+      "Name": "Hector MacLeod",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1949",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i31540392",
+      "Name": "Matilda MacLeod",
+      "Gender": "Female",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "9/Nov/1949",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i28404010",
+        "i97950336"
+      ]
+    }
+  ]
+}

@@ -58,6 +58,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1881**
   * **1/Dec/1881** : **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ) and **[Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - ) at Dornoch, Sutherland, Scotland.
+* **1885**
+  * **15/Jan/1885** : X and **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949) at Stornoway, Eilean Siar, Scotland.
 * **1887**
   * **about 1887** : **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ).
   * **25/Oct/1887** : **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d.md)** (18/Sep/1865 - ) at Dornoch, Sutherland, Scotland.
@@ -119,6 +121,8 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1934**
   * **9/Feb/1934** : **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - ) and X at Dornoch, Sutherland, Scotland.
   * **2/Mar/1934** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) at Dornoch, Sutherland, Scotland.
+* **1936**
+  * **10/Nov/1936** : **[John Paul Mackay](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969) and **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ) at Embo, Sutherland, Scotland.
 * **1939**
   * **1/Sep/1939** : **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) and **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015) at Edinburgh, Scotland.
   * **28/Dec/1939** : **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004) and **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004) at Glasgow, Scotland.

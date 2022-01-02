@@ -141,12 +141,12 @@
   "Spouses": [
     {
       "Id": "i28166672",
-      "Name": "X",
+      "Name": "Catherine Mackay",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "3/Sep/1900",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "10/Nov/1936",
       "DateOfDivorce": ""
     }
   ],

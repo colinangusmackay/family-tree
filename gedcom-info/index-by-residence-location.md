@@ -47,6 +47,12 @@ permalink: /indexes/by-residence-location
 - **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
 - **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
 
+### Eilean Siar
+
+#### Stornoway
+
+- **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
+
 ### Glasgow
 
 - **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)

@@ -40,6 +40,7 @@ permalink: /indexes/by-birth-location
 - **[Hayes, Nellie](people/@5410300@-nellie-hayes-b-d2018.md)** ( - before 2018)
 - **[Hayes, Sarah](people/@32431312@-sarah-hayes-b-d2018.md)** ( - before 2018)
 - **[Hayes, Vernon](people/@31599970@-vernon-hayes-b-d2018.md)** ( - before 2018)
+- **[MacDonald, Catherine](people/@97950336@-catherine-macdonald-b-d1949.md)** ( - before 1949)
 - **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d.md)** (1807 - )
 - **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - )
 - **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
@@ -65,6 +66,8 @@ permalink: /indexes/by-birth-location
 - **[Mackay, Marion](people/@56151384@-marion-mackay-b1788-d.md)** (before 1788 - )
 - **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
 - **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
+- **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949)
+- **[MacLeod, Matilda](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
 - **[Macrae, Janet](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - )
 - **[Martensen, Charles Raymond](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
 - **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
@@ -142,6 +145,12 @@ permalink: /indexes/by-birth-location
 ### Edinburgh
 
 - **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
+
+### Eilean Siar
+
+#### Stornoway
+
+- **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
 
 ### Glasgow
 

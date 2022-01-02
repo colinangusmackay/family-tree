@@ -85,6 +85,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Anna Jess Mackay](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021) and X **on 30th of July 1960** at Bolton, New York, United States of America.
   * **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - ) and **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ) **on 16th of November 1869** at Dornoch, Sutherland, Scotland.
   * **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - ) and **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ) **on 21st of October 1873**.
+  * **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ) and **[John Paul Mackay](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969) **on 10th of November 1936** at Embo, Sutherland, Scotland.
   * **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ) and **[Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - ) **on 1st of December 1881** at Dornoch, Sutherland, Scotland.
   * **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939) and **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - ) **on 27th of November 1903**.
   * **[Donald James Mackay](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011) and X.
@@ -99,12 +100,17 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) and **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) **on 16th of January 1912** at Dornoch, Sutherland, Scotland.
   * **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - ) and X **on 19th of February 1895** at Dornoch, Sutherland, Scotland.
   * **[John Mackay](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ) and **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - ) **on 24th of March 1892** at Embo, Sutherland, Scotland.
+  * **[John Paul Mackay](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969) and **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ) **on 10th of November 1936** at Embo, Sutherland, Scotland.
   * **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ) and **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - ) **on 16th of November 1869** at Dornoch, Sutherland, Scotland.
   * **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d.md)** (23/Sep/1889 - ) and X **on 24th of June 1919** at Glasgow, Scotland.
   * **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) and **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) **on 2nd of March 1934** at Dornoch, Sutherland, Scotland.
   * **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841) and **[Janet Macrae](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - ).
   * **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ) and **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - ) **on 7th of November 1876** at Dornoch, Sutherland, Scotland.
   * **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981) **on 21st of March 1930** at Toronto, York, Ontario, Canada.
+
+## MacLeod
+
+  * **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949) and X **on 15th of January 1885** at Stornoway, Eilean Siar, Scotland.
 
 ## Macrae
 

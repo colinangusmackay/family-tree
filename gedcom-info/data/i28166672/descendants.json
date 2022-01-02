@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i28166672",
+  "Name": "Catherine Mackay",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "3/Sep/1900",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i56962662",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}
