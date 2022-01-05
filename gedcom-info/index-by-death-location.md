@@ -78,7 +78,7 @@ permalink: /indexes/by-death-location
 - **[Mackay, John](people/@58430005@-john-mackay-b1841-2-18-d.md)** (18/Feb/1841 - )
 - **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - )
 - **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - )
-- **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-d.md)** (about 1895 - )
+- **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - )
 - **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d.md)** (23/Sep/1889 - )
 - **[Mackay, Marion](people/@56151384@-marion-mackay-b1788-d.md)** (before 1788 - )
 - **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)

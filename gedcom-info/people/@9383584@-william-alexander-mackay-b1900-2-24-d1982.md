@@ -21,7 +21,7 @@ permalink: /people/i9383584
 * Brother: [George Mackay](./@72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
 * Sister: [Janet Mackay](./@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md) (12/Nov/1890 - 15/May/1891)
 * Sister: [Annie Mackay](./@51252926@-annie-mackay-b1892-12-15-d1918.md) (15/Dec/1892 - 1918)
-* Brother: [Kenneth Mackay](./@48909111@-kenneth-mackay-b1895-d.md) (about 1895 - )
+* Brother: [Kenneth Mackay](./@48909111@-kenneth-mackay-b1895-2-2-d.md) (2/Feb/1895 - )
 * Brother: [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
 * Wife: [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) (26/Jul/1900 - 7/Oct/1981)
 * Sister: [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)
@@ -60,10 +60,11 @@ Date | Item | Description | Sources | Notes
 Date | Residence | Sources & Notes
 ---|---|---
 Unknown | Glasgow, Scotland | [19](#19)
+1901 | 6 Terrace Street, Embo, Sutherland, Scotland | [20](#20)
 1918 | 6 Terrace Street, Embo, Sutherlandshire | [2](#2)
-before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [6](#6), [20](#20)
-1960 | 57 Kersland Street, Glasgow | [21](#21)
-1980 | 57 Kersland Street, Glasgow | [22](#22)
+before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [6](#6), [21](#21)
+1960 | 57 Kersland Street, Glasgow | [22](#22)
+1980 | 57 Kersland Street, Glasgow | [23](#23)
 
 ## Known Occupations
 
@@ -253,11 +254,21 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [12](#12)
 
 ### 20
 
+**1901 MACKAY, JAMES & Family (Census 047/2/14)**
+
+* [Full text and notes](../sources/@77386974@-1901-mackay,-james-&-family-census-047-2-14-.md)
+* Date: 31/Mar/1901
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1901 047/2/14
+
+### 21
+
 > On Google maps: [https://www.google.com/maps/@43.6887457,-79.3186802,3a,20.3y,147.68h,90.09t/data=!3m6!1e1!3m4!1sCBT9uFW1WbIbebZypxNMTw!2e0!7i16384!8i8192](https://www.google.com/maps/@43.6887457,-79.3186802,3a,20.3y,147.68h,90.09t/data=!3m6!1e1!3m4!1sCBT9uFW1WbIbebZypxNMTw!2e0!7i16384!8i8192)
 >
 
 
-### 21
+### 22
 
 **1960 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1960**
 
@@ -266,7 +277,7 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [12](#12)
 * Date: May/1960
 * Responsible Agency: The Post Office
 
-### 22
+### 23
 
 **1980 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1980**
 

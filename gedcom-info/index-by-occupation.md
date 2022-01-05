@@ -73,13 +73,17 @@ permalink: /indexes/by-occupation
 * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ).
 * **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ).
 * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 3 times.
-* **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - ), mentioned 7 times.
+* **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - ), mentioned 8 times.
 * **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ).
 * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ).
 * **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ).
 * **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949).
 * **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - ), mentioned 2 times.
+
+## Fishwife
+
+* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - ).
 
 ## Fishworker
 

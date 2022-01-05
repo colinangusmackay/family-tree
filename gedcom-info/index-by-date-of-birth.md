@@ -177,7 +177,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1894.**
   * **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 * **Born in 1895.**
-  * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-d.md)** (about 1895 - )
+  * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - )
 * **Born in 1896.**
   * **[Ross, Hugh Alexander](people/@22731476@-hugh-alexander-ross-b1896-11-17-d.md)** (17/Nov/1896 - )
 * **Born in 1897.**

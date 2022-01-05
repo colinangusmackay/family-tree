@@ -5,7 +5,7 @@ permalink: /people/i48909111
 ---
 
 # Kenneth Mackay
-(about 1895 - ?)
+(2 February, 1895 - ?)
 
 ## Immediate Family
 
@@ -23,11 +23,27 @@ permalink: /people/i48909111
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1895 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d.md). | [1](#1) | [2](#2)
+2/Feb/1895 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | [3](#3)
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1901 | 6 Terrace Street, Embo, Sutherland, Scotland | [4](#4)
 
 ## Footnotes
 
 ### 1
+
+**1895 MACKAY, KENNETH (Statutory Registers Births 047/9)**
+
+* [Full text and notes](../sources/@24683442@-1895-mackay,-kenneth-statutory-registers-births-047-9-.md)
+* Date: 5/Feb/1895
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1895 B 047/9
+
+### 2
 
 **P116 Embo - genealogy, Uncle Sandy's Story and a little history**
 
@@ -39,6 +55,16 @@ about 1895 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-
 * References: 
   * (ISBN) 978-1-910205-49-5
 
-### 2
+### 3
 
+
+### 4
+
+**1901 MACKAY, JAMES & Family (Census 047/2/14)**
+
+* [Full text and notes](../sources/@77386974@-1901-mackay,-james-&-family-census-047-2-14-.md)
+* Date: 31/Mar/1901
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1901 047/2/14
 

@@ -3,6 +3,24 @@ layout: home
 title: Home
 ---
 
+# TL;DR Show me the data
+
+Here are some starting points:
+* Index of people by
+  * [family name](gedcom-info/index-by-family-name.md). Note: this is by birth name.
+  * [date of birth](gedcom-info/index-by-date-of-birth.md).
+  * [birth location](gedcom-info/index-by-birth-location.md).
+  * [death location](gedcom-info/index-by-death-location.md).
+  * [residence location](gedcom-info/index-by-residence-location.md).
+* Index of marriages by
+  * [date](gedcom-info/index-marriage-by-date.md).
+  * [family name](gedcom-info/index-marriage-by-name.md). Note: this is by birth name.
+* [Index of sources by title](gedcom-info/index-of-sources-by-title.md).
+
+There is also a [blog](blog.md) which contains various information about site changes and various articles and notes I've put together.
+
+All these links can be found in the hamburger menu at the top-right of each page too.
+
 ## Background
 
 At the start of 2020, I decided to spend more time looking into my family tree. To that end I have been cataloguing details of my family history.
@@ -27,27 +45,12 @@ At the bottom of each page there are contact links. You can either [contact me v
 
 ## The information
 
-Here are some starting points:
-* Index of people by
-  * [family name](gedcom-info/index-by-family-name.md). Note: this is by birth name.
-  * [date of birth](gedcom-info/index-by-date-of-birth.md).
-  * [birth location](gedcom-info/index-by-birth-location.md).
-  * [death location](gedcom-info/index-by-death-location.md).
-  * [residence location](gedcom-info/index-by-residence-location.md).
-* Index of marriages by
-  * [date](gedcom-info/index-marriage-by-date.md).
-  * [family name](gedcom-info/index-marriage-by-name.md). Note: this is by birth name.
-* [Index of sources by title](gedcom-info/index-of-sources-by-title.md).
-
-There is also a [blog](blog.md) which contains various information about site changes and various articles and notes I've put together.
-
-All these links can be found in the hamburger menu at the top-right of each page too.
-
 ## The Geeky Bit
 
 If you are interested in the software side of it. I am using:
-* [MobileFamilyTree 9](https://www.syniumsoftware.com/mobilefamilytree) - To store and catalogue the information on my iPad.
-* [Working Copy](https://workingcopyapp.com/) - To move the raw data from MobileFamilyTree to [GitHub.com](https://github.com).
+* [FamilyTree 9](https://www.syniumsoftware.com/macfamilytree) - To store and catalogue the information on my Mac.
+* [MobileFamilyTree 9](https://www.syniumsoftware.com/mobilefamilytree) - To store and catalogue the information on my iPad. Both the iPad and Mac versions are sync'ed.
+* [GitKraken](https://www.gitkraken.com) - To move the raw data from FamilyTree to [GitHub.com](https://github.com).
 * [Stravaig Gedcom](https://github.com/Stravaig-Projects/Gedcom) - My own rendering software (a work in progress) written in C#.
 * [Jekyll](https://jekyllrb.com/) - A Ruby based transformer that generates this site.
 * [GitHub Pages](https://pages.github.com/) - To host this site.

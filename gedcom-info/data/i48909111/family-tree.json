@@ -3,7 +3,7 @@
     "Id": "i48909111",
     "Name": "Kenneth Mackay",
     "Gender": "Male",
-    "DateOfBirth": "about 1895",
+    "DateOfBirth": "2/Feb/1895",
     "DateOfDeath": ""
   },
   "Parents": [
@@ -85,7 +85,7 @@
       "Id": "i48909111",
       "Name": "Kenneth Mackay",
       "Gender": "Male",
-      "DateOfBirth": "about 1895",
+      "DateOfBirth": "2/Feb/1895",
       "DateOfDeath": "",
       "RelationToSubject": "self",
       "ParentGroupIds": [

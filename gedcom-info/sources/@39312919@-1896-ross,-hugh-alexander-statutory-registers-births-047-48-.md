@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s39312919
 ---
 
-# 1896 ROSS, HUGH ALEXANDER - Statutory Registers Births
+# 1896 ROSS, HUGH ALEXANDER - (Statutory Registers Births 047/48)
 
 Field | Detail
 ---:|:---

@@ -41,6 +41,12 @@ References | 1890-B-047/46
 > Signature of Registrar: Charles Neil
 >
 
+## Notes
+
+> Fishertown, Dornoch is an alternative name for Embo.
+>
+
+
 ## Source Referenced by
 
 * [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
