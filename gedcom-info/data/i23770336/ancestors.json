@@ -13,7 +13,26 @@
       "Relationship": "father",
       "DateOfBirth": "",
       "DateOfDeath": "",
-      "Parents": []
+      "Parents": [
+        {
+          "Id": "i8049072",
+          "Name": "Elizabeth Pritchard",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1910",
+          "Parents": []
+        },
+        {
+          "Id": "i95851656",
+          "Name": "John Gillie",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1910",
+          "Parents": []
+        }
+      ]
     },
     {
       "Id": "i86024374",

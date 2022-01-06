@@ -308,6 +308,7 @@ permalink: /indexes/by-date-of-birth
 ## Unknown Date of Birth
 
 * [Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md) ( - before 1939)
+* [John Gillie](people/@95851656@-john-gillie-b-d1910.md) ( - before 1910)
 * [Ada Hayes](people/@80079834@-ada-hayes-b-d2018.md) ( - before 2018)
 * [Claude Hayes](people/@99088640@-claude-hayes-b-d2018.md) ( - before 2018)
 * [Lena Hayes](people/@80081989@-lena-hayes-b-d2018.md) ( - before 2018)
@@ -323,5 +324,6 @@ permalink: /indexes/by-date-of-birth
 * [Hector MacLeod](people/@28404010@-hector-macleod-b-d1949.md) ( - before 1949)
 * [Hector Matheson](people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
 * [Elizabeth McIver](people/@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
+* [Elizabeth Pritchard](people/@8049072@-elizabeth-pritchard-b-d1910.md) ( - before 1910)
 * [Goldie Raymond](people/@2876469@-goldie-raymond-b-d2018.md) ( - before 2018)
 * [Hugh Ross](people/@10594034@-hugh-ross-b-d1889.md) ( - before 1889)

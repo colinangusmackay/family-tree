@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i95851656",
+    "Name": "John Gillie",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1910"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i95851656",
+      "Name": "John Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1910",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i8049072",
+      "Name": "Elizabeth Pritchard",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1910",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i60068056",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i95851656",
+        "i8049072"
+      ]
+    }
+  ]
+}

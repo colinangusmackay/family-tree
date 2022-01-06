@@ -82,6 +82,7 @@ permalink: /indexes/by-family-name
 
 ## Gillie
 
+- **[John Gillie](people/@95851656@-john-gillie-b-d1910.md)** ( - before 1910)
 - **[Williamina Gillie](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 
 ## Grant
@@ -223,6 +224,10 @@ permalink: /indexes/by-family-name
 
 - **[John Paton](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - )
 - **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
+
+## Pritchard
+
+- **[Elizabeth Pritchard](people/@8049072@-elizabeth-pritchard-b-d1910.md)** ( - before 1910)
 
 ## Ramsay
 
