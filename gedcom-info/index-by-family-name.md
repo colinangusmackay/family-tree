@@ -82,7 +82,12 @@ permalink: /indexes/by-family-name
 
 ## Gillie
 
-- **[John Gillie](people/@95851656@-john-gillie-b-d1910.md)** ( - before 1910)
+- **[Alexander Gillie](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
+- **[Andrew Gillie](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - )
+- **[Jane Gillie](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
+- **[John Gillie](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901)
+- **[John Gillie](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881)
+- **[William Gillie](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - )
 - **[Williamina Gillie](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 
 ## Grant
@@ -108,9 +113,16 @@ permalink: /indexes/by-family-name
 - **[Sarah Hayes](people/@32431312@-sarah-hayes-b-d2018.md)** ( - before 2018)
 - **[Vernon Hayes](people/@31599970@-vernon-hayes-b-d2018.md)** ( - before 2018)
 
+## Lindores
+
+- **[Ann Lindores](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
+- **[William Lindores](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - )
+
 ## MacDonald
 
 - **[Catherine MacDonald](people/@97950336@-catherine-macdonald-b-d1949.md)** ( - before 1949)
+- **[Donald MacDonald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - )
+- **[Isabella MacDonald](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
 - **[Kate MacDonald](people/@28255030@-kate-macdonald-b1807-d.md)** (1807 - )
 
 ## Mackay
@@ -151,6 +163,8 @@ permalink: /indexes/by-family-name
 - **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d.md)** (23/Sep/1889 - )
 - **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
 - **[Marion Mackay](people/@56151384@-marion-mackay-b1788-d.md)** (before 1788 - )
+- **[Mary Mackay](people/@78757487@-mary-mackay-b1840-d.md)** (before 1840 - )
+- **[Sophia Mackay](people/@52720474@-sophia-mackay-b1850-d.md)** (before 1850 - )
 - **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
 - **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
 - **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
@@ -227,7 +241,11 @@ permalink: /indexes/by-family-name
 
 ## Pritchard
 
-- **[Elizabeth Pritchard](people/@8049072@-elizabeth-pritchard-b-d1910.md)** ( - before 1910)
+- **[Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md)** ( - before 1910)
+
+## Punton
+
+- **[Joan Punton](people/@98605400@-joan-punton-b1850-d.md)** (before 1850 - )
 
 ## Ramsay
 
@@ -254,6 +272,7 @@ permalink: /indexes/by-family-name
 
 ## Ross
 
+- **[Alex Ross](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
 - **[Alexander Ross](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
 - **[Ann Ross](people/@52613824@-ann-ross-b1890-11-28-d.md)** (28/Nov/1890 - )
 - **[Christina Ross](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
@@ -262,11 +281,13 @@ permalink: /indexes/by-family-name
 - **[Jeanie Ross](people/@71751658@-jeanie-ross-b1907-d.md)** (1907 - )
 - **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d.md)** (bet' 1840 and 1842 - )
 - **[Johan or Janet Ross](people/@18017632@-johan-or-janet-ross-b1905-d.md)** (1905 - )
+- **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
 - **[John Ross](people/@75057664@-john-ross-b1861-d.md)** (1861 - )
 - **[John Ross](people/@35298145@-john-ross-b1899-d.md)** (1899 - )
 - **[Peter Ross](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
 - **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - )
 - **[William Ross](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
+- **[Williamina Ross](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - )
 
 ## Stead
 

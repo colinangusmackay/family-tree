@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i86024374",
+  "Name": "Williamina Ross",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "22/Aug/1883",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i23770336",
+      "Name": "Williamina Gillie",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "4/Apr/1910",
+      "DateOfDeath": "4/Nov/2003",
+      "Children": []
+    }
+  ]
+}

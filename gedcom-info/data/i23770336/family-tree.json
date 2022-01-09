@@ -9,17 +9,17 @@
   "Parents": [
     {
       "Id": "i60068056",
-      "Name": "X",
+      "Name": "Andrew Gillie",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "28/Dec/1868",
       "DateOfDeath": "",
       "RelationToSubject": "father"
     },
     {
       "Id": "i86024374",
-      "Name": "X",
+      "Name": "Williamina Ross",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "22/Aug/1883",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     }

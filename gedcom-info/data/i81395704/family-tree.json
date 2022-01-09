@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i81395704",
+    "Name": "John Ross",
+    "Gender": "Male",
+    "DateOfBirth": "about 1856",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i58451451",
+      "Name": "Alex Ross",
+      "Gender": "Male",
+      "DateOfBirth": "before 1840",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i78757487",
+      "Name": "Mary Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "before 1840",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i81395704",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i58451451",
+          "i78757487"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i80818668",
+      "Name": "Isabella MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "about 1863",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "30/Dec/1881",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i86024374",
+      "Name": "Williamina Ross",
+      "Gender": "Female",
+      "DateOfBirth": "22/Aug/1883",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i81395704",
+        "i80818668"
+      ]
+    }
+  ]
+}

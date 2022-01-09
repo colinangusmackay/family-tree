@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i80440796",
+    "Name": "William Lindores",
+    "Gender": "Male",
+    "DateOfBirth": "before 1850",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i80440796",
+      "Name": "William Lindores",
+      "Gender": "Male",
+      "DateOfBirth": "before 1850",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i98605400",
+      "Name": "Joan Punton",
+      "Gender": "Female",
+      "DateOfBirth": "before 1850",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i44575087",
+      "Name": "Ann Lindores",
+      "Gender": "Female",
+      "DateOfBirth": "about 1859",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i80440796",
+        "i98605400"
+      ]
+    }
+  ]
+}

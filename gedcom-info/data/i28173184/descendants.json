@@ -1,0 +1,39 @@
+﻿{
+  "Id": "i28173184",
+  "Name": "Donald MacDonald",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "before 1850",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i80818668",
+      "Name": "Isabella MacDonald",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1863",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i86024374",
+          "Name": "Williamina Ross",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "22/Aug/1883",
+          "DateOfDeath": "",
+          "Children": [
+            {
+              "Id": "i23770336",
+              "Name": "Williamina Gillie",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "4/Apr/1910",
+              "DateOfDeath": "4/Nov/2003",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

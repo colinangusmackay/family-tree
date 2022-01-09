@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i81395704",
+  "Name": "John Ross",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1856",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i58451451",
+      "Name": "Alex Ross",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "before 1840",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i78757487",
+      "Name": "Mary Mackay",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "before 1840",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

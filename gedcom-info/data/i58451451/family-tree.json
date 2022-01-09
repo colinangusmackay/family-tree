@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i58451451",
+    "Name": "Alex Ross",
+    "Gender": "Male",
+    "DateOfBirth": "before 1840",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i58451451",
+      "Name": "Alex Ross",
+      "Gender": "Male",
+      "DateOfBirth": "before 1840",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i78757487",
+      "Name": "Mary Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "before 1840",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i81395704",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i58451451",
+        "i78757487"
+      ]
+    }
+  ]
+}

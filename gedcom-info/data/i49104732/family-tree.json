@@ -1,0 +1,112 @@
+﻿{
+  "Subject": {
+    "Id": "i49104732",
+    "Name": "John Gillie",
+    "Gender": "Male",
+    "DateOfBirth": "about 1859",
+    "DateOfDeath": "14/Oct/1881"
+  },
+  "Parents": [
+    {
+      "Id": "i95851656",
+      "Name": "John Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1901",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i8049072",
+      "Name": "Elisabeth Pritchard",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1910",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i49104732",
+      "Name": "John Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1859",
+      "DateOfDeath": "14/Oct/1881",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i8049072",
+          "i95851656"
+        ]
+      ]
+    },
+    {
+      "Id": "i60068056",
+      "Name": "Andrew Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "28/Dec/1868",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i8049072",
+          "i95851656"
+        ]
+      ]
+    },
+    {
+      "Id": "i33381968",
+      "Name": "Jane Gillie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i8049072",
+          "i95851656"
+        ]
+      ]
+    },
+    {
+      "Id": "i42722433",
+      "Name": "William Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1878",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i8049072",
+          "i95851656"
+        ]
+      ]
+    },
+    {
+      "Id": "i44750545",
+      "Name": "Alexander Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1881",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i8049072",
+          "i95851656"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i44575087",
+      "Name": "Ann Lindores",
+      "Gender": "Female",
+      "DateOfBirth": "about 1859",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "26/May/1880",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

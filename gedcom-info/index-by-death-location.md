@@ -38,7 +38,11 @@ permalink: /indexes/by-death-location
 - **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d.md)** (18/Sep/1865 - )
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
 - **[Gibson, Alexander](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939)
-- **[Gillie, John](people/@95851656@-john-gillie-b-d1910.md)** ( - before 1910)
+- **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
+- **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - )
+- **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
+- **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901)
+- **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - )
 - **[Gillie, Williamina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 - **[Grant, Cate](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
 - **[Grant, Christy](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
@@ -53,7 +57,11 @@ permalink: /indexes/by-death-location
 - **[Hayes, Nellie](people/@5410300@-nellie-hayes-b-d2018.md)** ( - before 2018)
 - **[Hayes, Sarah](people/@32431312@-sarah-hayes-b-d2018.md)** ( - before 2018)
 - **[Hayes, Vernon](people/@31599970@-vernon-hayes-b-d2018.md)** ( - before 2018)
+- **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
+- **[Lindores, William](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - )
 - **[MacDonald, Catherine](people/@97950336@-catherine-macdonald-b-d1949.md)** ( - before 1949)
+- **[MacDonald, Donald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - )
+- **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
 - **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d.md)** (1807 - )
 - **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - )
 - **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
@@ -82,6 +90,8 @@ permalink: /indexes/by-death-location
 - **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - )
 - **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d.md)** (23/Sep/1889 - )
 - **[Mackay, Marion](people/@56151384@-marion-mackay-b1788-d.md)** (before 1788 - )
+- **[Mackay, Mary](people/@78757487@-mary-mackay-b1840-d.md)** (before 1840 - )
+- **[Mackay, Sophia](people/@52720474@-sophia-mackay-b1850-d.md)** (before 1850 - )
 - **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
 - **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
 - **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
@@ -107,7 +117,8 @@ permalink: /indexes/by-death-location
 - **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
 - **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - )
 - **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
-- **[Pritchard, Elizabeth](people/@8049072@-elizabeth-pritchard-b-d1910.md)** ( - before 1910)
+- **[Pritchard, Elisabeth](people/@8049072@-elisabeth-pritchard-b-d1910.md)** ( - before 1910)
+- **[Punton, Joan](people/@98605400@-joan-punton-b1850-d.md)** (before 1850 - )
 - **[Ramsay, Alan](people/@62219744@-alan-ramsay-b1911-d1932.md)** (1911 - 1932)
 - **[Ramsay, Bruce](people/@49046148@-bruce-ramsay-b1914-d1965-11-29.md)** (1914 - 29/Nov/1965)
 - **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
@@ -117,6 +128,7 @@ permalink: /indexes/by-death-location
 - **[Raymond, Goldie](people/@2876469@-goldie-raymond-b-d2018.md)** ( - before 2018)
 - **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
 - **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
+- **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
 - **[Ross, Alexander](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
 - **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d.md)** (28/Nov/1890 - )
 - **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
@@ -125,11 +137,13 @@ permalink: /indexes/by-death-location
 - **[Ross, Jeanie](people/@71751658@-jeanie-ross-b1907-d.md)** (1907 - )
 - **[Ross, Jessie](people/@60546968@-jessie-ross-b1840~1842-d.md)** (bet' 1840 and 1842 - )
 - **[Ross, Johan or Janet](people/@18017632@-johan-or-janet-ross-b1905-d.md)** (1905 - )
+- **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
 - **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - )
 - **[Ross, John](people/@35298145@-john-ross-b1899-d.md)** (1899 - )
 - **[Ross, Peter](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
 - **[Ross, Sarah](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - )
 - **[Ross, William](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
+- **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - )
 - **[Stead, Albert](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
 - **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
 - **[Stead, Emily](people/@58190216@-emily-stead-b1892-d.md)** (about 1892 - )
@@ -149,6 +163,13 @@ permalink: /indexes/by-death-location
 #### Basingstoke
 
 - **[Mackay, Donald James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
+
+
+## German Ocean
+
+#### German Ocean
+
+- **[Gillie, John](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881)
 
 
 ## Scotland

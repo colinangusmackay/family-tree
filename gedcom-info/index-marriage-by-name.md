@@ -58,6 +58,9 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Gillie
 
+  * **[Andrew Gillie](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ) and **[Williamina Ross](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ) **on 14th of January 1910** at Dornoch, Sutherland, Scotland.
+  * **[John Gillie](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901) and **[Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md)** ( - before 1910) **in December 1855** at Lamberton, Berwickshire, Scotland.
+  * **[John Gillie](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881) and **[Ann Lindores](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ) **on 26th of May 1880** at Eyemouth, Berwickshire, Scotland.
   * **[Williamina Gillie](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003) and **[James Cumming](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975) **on 2nd of May 1928** at Inverness, Scotland.
 
 ## Grant
@@ -73,6 +76,14 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Hayes
 
   * **[Dan Hayes](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018) and X **on 14th of December 1968**.
+
+## Lindores
+
+  * **[Ann Lindores](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ) and **[John Gillie](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881) **on 26th of May 1880** at Eyemouth, Berwickshire, Scotland.
+
+## MacDonald
+
+  * **[Isabella MacDonald](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - ) and **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ) **on 30th of December 1881** at Golspie, Sutherland, Scotland.
 
 ## Mackay
 
@@ -161,6 +172,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004) and **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004) **on 28th of December 1939** at Glasgow, Scotland.
 
+## Pritchard
+
+  * **[Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md)** ( - before 1910) and **[John Gillie](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901) **in December 1855** at Lamberton, Berwickshire, Scotland.
+
 ## Ramsay
 
   * **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) and **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) **on 6th of April 1945** at Edinburgh, Scotland.
@@ -173,8 +188,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Ross
 
   * **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d.md)** (bet' 1840 and 1842 - ) and **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d.md)** (bet' 1836 and 1841 - ) **on 21st of February 1860** at Dornoch, Sutherland, Scotland.
+  * **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ) and **[Isabella MacDonald](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - ) **on 30th of December 1881** at Golspie, Sutherland, Scotland.
   * **[John Ross](people/@75057664@-john-ross-b1861-d.md)** (1861 - ) and **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954) **on 19th of November 1889** at Dornoch, Sutherland, Scotland.
   * **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ) and **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) **on 22nd of January 1901**.
+  * **[Williamina Ross](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ) and **[Andrew Gillie](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ) **on 14th of January 1910** at Dornoch, Sutherland, Scotland.
 
 ## Stead
 

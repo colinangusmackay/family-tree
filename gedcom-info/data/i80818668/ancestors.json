@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i80818668",
+  "Name": "Isabella MacDonald",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1863",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i28173184",
+      "Name": "Donald MacDonald",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "before 1850",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i52720474",
+      "Name": "Sophia Mackay",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "before 1850",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

@@ -36,6 +36,18 @@ permalink: /indexes/by-residence-location
 
 ## Scotland
 
+### Berwickshire
+
+#### Eyemouth
+
+- **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
+- **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - )
+- **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
+- **[Gillie, John](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881)
+- **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - )
+- **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
+- **[Pritchard, Elisabeth](people/@8049072@-elisabeth-pritchard-b-d1910.md)** ( - before 1910)
+
 ### Edinburgh
 
 - **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
@@ -127,7 +139,13 @@ permalink: /indexes/by-residence-location
 - **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
 - **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
 - **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
+- **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
 - **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - )
+- **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - )
+
+#### Golspie
+
+- **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
 
 #### Rogart
 

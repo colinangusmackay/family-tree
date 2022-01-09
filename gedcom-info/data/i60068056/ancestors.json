@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i60068056",
+  "Name": "Andrew Gillie",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "28/Dec/1868",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i8049072",
+      "Name": "Elisabeth Pritchard",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1910",
+      "Parents": []
+    },
+    {
+      "Id": "i95851656",
+      "Name": "John Gillie",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1901",
+      "Parents": []
+    }
+  ]
+}

@@ -28,6 +28,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 ### 1850s
 
+* **1855**
+  * **Dec/1855** : **[John Gillie](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901) and **[Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md)** ( - before 1910) at Lamberton, Berwickshire, Scotland.
 * **1856**
   * **5/Dec/1856** : **[Alexander Cumming](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884) and **[Isabella Sutherland](people/@79967653@-isabella-sutherland-b1838-d.md)** (1838 - ).
 * **1857**
@@ -56,8 +58,11 @@ A list of marriages, civil partnerships and civil unions by date.
 
 ### 1880s
 
+* **1880**
+  * **26/May/1880** : **[John Gillie](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881) and **[Ann Lindores](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ) at Eyemouth, Berwickshire, Scotland.
 * **1881**
   * **1/Dec/1881** : **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ) and **[Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - ) at Dornoch, Sutherland, Scotland.
+  * **30/Dec/1881** : **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ) and **[Isabella MacDonald](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - ) at Golspie, Sutherland, Scotland.
 * **1885**
   * **15/Jan/1885** : X and **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949) at Stornoway, Eilean Siar, Scotland.
 * **1887**
@@ -97,6 +102,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 ### 1910s
 
+* **1910**
+  * **14/Jan/1910** : **[Andrew Gillie](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ) and **[Williamina Ross](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ) at Dornoch, Sutherland, Scotland.
 * **1912**
   * **16/Jan/1912** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) at Dornoch, Sutherland, Scotland.
 * **1916**

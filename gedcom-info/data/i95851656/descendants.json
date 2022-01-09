@@ -4,14 +4,23 @@
   "Gender": "Male",
   "Relationship": "Self",
   "DateOfBirth": "",
-  "DateOfDeath": "before 1910",
+  "DateOfDeath": "before 1901",
   "Children": [
     {
-      "Id": "i60068056",
-      "Name": "X",
+      "Id": "i49104732",
+      "Name": "John Gillie",
       "Gender": "Male",
       "Relationship": "son",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1859",
+      "DateOfDeath": "14/Oct/1881",
+      "Children": []
+    },
+    {
+      "Id": "i60068056",
+      "Name": "Andrew Gillie",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "28/Dec/1868",
       "DateOfDeath": "",
       "Children": [
         {
@@ -24,6 +33,33 @@
           "Children": []
         }
       ]
+    },
+    {
+      "Id": "i33381968",
+      "Name": "Jane Gillie",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i42722433",
+      "Name": "William Gillie",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1878",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i44750545",
+      "Name": "Alexander Gillie",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1881",
+      "DateOfDeath": "",
+      "Children": []
     }
   ]
 }

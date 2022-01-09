@@ -1,0 +1,125 @@
+﻿{
+  "Subject": {
+    "Id": "i60068056",
+    "Name": "Andrew Gillie",
+    "Gender": "Male",
+    "DateOfBirth": "28/Dec/1868",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i95851656",
+      "Name": "John Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1901",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i8049072",
+      "Name": "Elisabeth Pritchard",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1910",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i49104732",
+      "Name": "John Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1859",
+      "DateOfDeath": "14/Oct/1881",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i8049072",
+          "i95851656"
+        ]
+      ]
+    },
+    {
+      "Id": "i60068056",
+      "Name": "Andrew Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "28/Dec/1868",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i8049072",
+          "i95851656"
+        ]
+      ]
+    },
+    {
+      "Id": "i33381968",
+      "Name": "Jane Gillie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i8049072",
+          "i95851656"
+        ]
+      ]
+    },
+    {
+      "Id": "i42722433",
+      "Name": "William Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1878",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i8049072",
+          "i95851656"
+        ]
+      ]
+    },
+    {
+      "Id": "i44750545",
+      "Name": "Alexander Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1881",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i8049072",
+          "i95851656"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i86024374",
+      "Name": "Williamina Ross",
+      "Gender": "Female",
+      "DateOfBirth": "22/Aug/1883",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "14/Jan/1910",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i23770336",
+      "Name": "Williamina Gillie",
+      "Gender": "Female",
+      "DateOfBirth": "4/Apr/1910",
+      "DateOfDeath": "4/Nov/2003",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i60068056",
+        "i86024374"
+      ]
+    }
+  ]
+}

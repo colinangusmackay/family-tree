@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i86024374",
+    "Name": "Williamina Ross",
+    "Gender": "Female",
+    "DateOfBirth": "22/Aug/1883",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i81395704",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i80818668",
+      "Name": "Isabella MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "about 1863",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i86024374",
+      "Name": "Williamina Ross",
+      "Gender": "Female",
+      "DateOfBirth": "22/Aug/1883",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i80818668",
+          "i81395704"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i60068056",
+      "Name": "Andrew Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "28/Dec/1868",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "14/Jan/1910",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i23770336",
+      "Name": "Williamina Gillie",
+      "Gender": "Female",
+      "DateOfBirth": "4/Apr/1910",
+      "DateOfDeath": "4/Nov/2003",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i60068056",
+        "i86024374"
+      ]
+    }
+  ]
+}

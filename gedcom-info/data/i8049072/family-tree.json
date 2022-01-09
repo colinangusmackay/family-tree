@@ -1,7 +1,7 @@
 ﻿{
   "Subject": {
     "Id": "i8049072",
-    "Name": "Elizabeth Pritchard",
+    "Name": "Elisabeth Pritchard",
     "Gender": "Female",
     "DateOfBirth": "",
     "DateOfDeath": "before 1910"
@@ -10,7 +10,7 @@
   "Siblings": [
     {
       "Id": "i8049072",
-      "Name": "Elizabeth Pritchard",
+      "Name": "Elisabeth Pritchard",
       "Gender": "Female",
       "DateOfBirth": "",
       "DateOfDeath": "before 1910",
@@ -24,18 +24,66 @@
       "Name": "John Gillie",
       "Gender": "Male",
       "DateOfBirth": "",
-      "DateOfDeath": "before 1910",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "DateOfDeath": "before 1901",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "Dec/1855",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
     {
-      "Id": "i60068056",
-      "Name": "X",
+      "Id": "i49104732",
+      "Name": "John Gillie",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1859",
+      "DateOfDeath": "14/Oct/1881",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i95851656",
+        "i8049072"
+      ]
+    },
+    {
+      "Id": "i60068056",
+      "Name": "Andrew Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "28/Dec/1868",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i95851656",
+        "i8049072"
+      ]
+    },
+    {
+      "Id": "i33381968",
+      "Name": "Jane Gillie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i95851656",
+        "i8049072"
+      ]
+    },
+    {
+      "Id": "i42722433",
+      "Name": "William Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1878",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i95851656",
+        "i8049072"
+      ]
+    },
+    {
+      "Id": "i44750545",
+      "Name": "Alexander Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1881",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [

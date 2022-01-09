@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i44575087",
+    "Name": "Ann Lindores",
+    "Gender": "Female",
+    "DateOfBirth": "about 1859",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i80440796",
+      "Name": "William Lindores",
+      "Gender": "Male",
+      "DateOfBirth": "before 1850",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i98605400",
+      "Name": "Joan Punton",
+      "Gender": "Female",
+      "DateOfBirth": "before 1850",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i44575087",
+      "Name": "Ann Lindores",
+      "Gender": "Female",
+      "DateOfBirth": "about 1859",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i80440796",
+          "i98605400"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i49104732",
+      "Name": "John Gillie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1859",
+      "DateOfDeath": "14/Oct/1881",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "26/May/1880",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

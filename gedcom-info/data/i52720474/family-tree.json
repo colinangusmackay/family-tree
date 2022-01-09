@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i52720474",
+    "Name": "Sophia Mackay",
+    "Gender": "Female",
+    "DateOfBirth": "before 1850",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i52720474",
+      "Name": "Sophia Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "before 1850",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i28173184",
+      "Name": "Donald MacDonald",
+      "Gender": "Male",
+      "DateOfBirth": "before 1850",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i80818668",
+      "Name": "Isabella MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "about 1863",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i28173184",
+        "i52720474"
+      ]
+    }
+  ]
+}

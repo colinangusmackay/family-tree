@@ -24,6 +24,10 @@ permalink: /indexes/by-occupation
 
 * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982), mentioned 3 times.
 
+## Cooper
+
+* **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ).
+
 ## Crane Driver
 
 * **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ).
@@ -39,7 +43,9 @@ permalink: /indexes/by-occupation
 
 ## Domestic Servant
 
+* **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ).
 * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ).
+* **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ).
 
 ## Draftsman
 
@@ -57,9 +63,21 @@ permalink: /indexes/by-occupation
 
 * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ).
 
+## Farmer
+
+* **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - ).
+
 ## Fettler (Woollen)
 
 * **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980).
+
+## Fish Salesman
+
+* **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - ).
+
+## Fishergirl
+
+* **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - ).
 
 ## Fisherman
 
@@ -69,7 +87,11 @@ permalink: /indexes/by-occupation
 * **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d.md)** (bet' 1836 and 1841 - ), mentioned 4 times.
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
-* **[Gillie, John](people/@95851656@-john-gillie-b-d1910.md)** ( - before 1910).
+* **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ), mentioned 2 times.
+* **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901).
+* **[Gillie, John](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881), mentioned 2 times.
+* **[Lindores, William](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - ).
+* **[MacDonald, Donald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - ).
 * **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ).
 * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ).
 * **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ).
@@ -80,6 +102,8 @@ permalink: /indexes/by-occupation
 * **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ).
 * **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949).
+* **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - ).
+* **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ), mentioned 2 times.
 * **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - ), mentioned 2 times.
 
 ## Fishwife
@@ -88,6 +112,7 @@ permalink: /indexes/by-occupation
 
 ## Fishworker
 
+* **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
 * **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973).
 
@@ -98,6 +123,10 @@ permalink: /indexes/by-occupation
 ## Gunner, Royal Artillery
 
 * **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008).
+
+## Laborour
+
+* **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - ).
 
 ## Ladies Outfitters Shop Assistant
 
@@ -118,6 +147,10 @@ permalink: /indexes/by-occupation
 ## Mason
 
 * **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ).
+
+## Merchant
+
+* **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ).
 
 ## Midwife
 
@@ -154,6 +187,7 @@ permalink: /indexes/by-occupation
 
 ## Ploughman
 
+* **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - ).
 * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
 
 ## Practical Nursing
