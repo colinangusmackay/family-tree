@@ -1,0 +1,71 @@
+﻿{
+  "Subject": {
+    "Id": "i91397610",
+    "Name": "John McLean",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "after 1877"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i91397610",
+      "Name": "John McLean",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1877",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i18316154",
+      "Name": "Mary Morrison",
+      "Gender": "Female",
+      "DateOfBirth": "about 1805",
+      "DateOfDeath": "23/Oct/1877",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i68658880",
+      "Name": "Annie McLean",
+      "Gender": "Female",
+      "DateOfBirth": "about 1835",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i91397610",
+        "i18316154"
+      ]
+    },
+    {
+      "Id": "i62955988",
+      "Name": "Christy McLean",
+      "Gender": "Female",
+      "DateOfBirth": "about 1846",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i91397610",
+        "i18316154"
+      ]
+    },
+    {
+      "Id": "i45920386",
+      "Name": "Mary McLean",
+      "Gender": "Female",
+      "DateOfBirth": "about 1849",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i91397610",
+        "i18316154"
+      ]
+    }
+  ]
+}

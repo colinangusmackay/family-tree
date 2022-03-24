@@ -22,6 +22,10 @@ permalink: /indexes/by-family-name
 - **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
 - **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - )
 
+## Chisholm
+
+- **[Anne Chisholm](people/@48064613@-anne-chisholm-b-d1877.md)** ( - before 1877)
+
 ## Clark
 
 - **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
@@ -38,7 +42,7 @@ permalink: /indexes/by-family-name
 - **[Christine Cumming](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 - **[Christy Cumming](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
 - **[Donald Cumming](people/@45726416@-donald-cumming-b1806-d.md)** (1806 - )
-- **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - )
+- **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
 - **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
 - **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
 - **[Donald Cumming](people/@64759184@-donald-cumming-b1903-5-4-d.md)** (4/May/1903 - )
@@ -52,10 +56,12 @@ permalink: /indexes/by-family-name
 - **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
 - **[Jessie Ann Cumming](people/@65743680@-jessie-ann-cumming-b1920-6-16-d1921-3-26.md)** (16/Jun/1920 - 26/Mar/1921)
 - **[John Cumming](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
+- **[John Cumming](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - )
 - **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
 - **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
 - **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981)
 - **[Thomasina Ian Cumming](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
+- **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
 - **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
 
 ## Farnham
@@ -66,7 +72,7 @@ permalink: /indexes/by-family-name
 
 - **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
 - **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - )
-- **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d.md)** (18/Sep/1865 - )
+- **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946.md)** (18/Sep/1865 - 1946)
 - **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
 - **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
 - **[Thomas Fraser](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
@@ -122,6 +128,7 @@ permalink: /indexes/by-family-name
 
 - **[Catherine MacDonald](people/@97950336@-catherine-macdonald-b-d1949.md)** ( - before 1949)
 - **[Donald MacDonald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - )
+- **[Helen MacDonald](people/@83660564@-helen-macdonald-b-d1856.md)** ( - after 1856)
 - **[Isabella MacDonald](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
 - **[Kate MacDonald](people/@28255030@-kate-macdonald-b1807-d.md)** (1807 - )
 
@@ -210,6 +217,7 @@ permalink: /indexes/by-family-name
 
 - **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
 - **[Christy McLean](people/@62955988@-christy-mclean-b1846-d.md)** (about 1846 - )
+- **[John McLean](people/@91397610@-john-mclean-b-d1877.md)** ( - after 1877)
 - **[Mary McLean](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - )
 
 ## McLeod
@@ -226,7 +234,8 @@ permalink: /indexes/by-family-name
 
 ## Morrison
 
-- **[Mary Morrison](people/@18316154@-mary-morrison-b1806-d.md)** (about 1806 - )
+- **[John Morrison](people/@39757210@-john-morrison-b-d1877.md)** ( - before 1877)
+- **[Mary Morrison](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
 
 ## O'Malley
 
@@ -307,6 +316,7 @@ permalink: /indexes/by-family-name
 ## Sutherland
 
 - **[Isabella Sutherland](people/@79967653@-isabella-sutherland-b1838-d.md)** (1838 - )
+- **[William Sutherland](people/@72992640@-william-sutherland-b-d1856.md)** ( - after 1856)
 
 ## Thomson
 

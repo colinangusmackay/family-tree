@@ -26,11 +26,21 @@ Date | Item | Description | Sources | Notes
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1860 | Fisherman | [1](#1)
+1856 | Fisherman | [1](#1)
+1860 | Fisherman | [2](#2)
 
 ## Footnotes
 
 ### 1
+
+**1856 CUMMING, ALEXANDER (Statutory Registers Marriages)**
+
+* [Full text and notes](../sources/@68937264@-1856-cumming,-alexander-statutory-registers-marriages-.md)
+* Responsible Agency: National Records Scotland
+* References: 
+  * 1856 M 051/5
+
+### 2
 
 **1860 CUMMING, JAMES - Statutory Register Marriages**
 

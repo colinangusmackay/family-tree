@@ -39,7 +39,7 @@
           "Gender": "Male",
           "Relationship": "father",
           "DateOfBirth": "22/Mar/1861",
-          "DateOfDeath": "",
+          "DateOfDeath": "28/Feb/1940",
           "Parents": [
             {
               "Id": "i66384942",
@@ -124,7 +124,7 @@
           "Gender": "Female",
           "Relationship": "mother",
           "DateOfBirth": "18/Sep/1865",
-          "DateOfDeath": "",
+          "DateOfDeath": "1946",
           "Parents": [
             {
               "Id": "i97086424",

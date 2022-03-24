@@ -42,15 +42,6 @@
       "DateOfDeath": "",
       "Children": [
         {
-          "Id": "i18685039",
-          "Name": "X",
-          "Gender": "Male",
-          "Relationship": "adopted-son",
-          "DateOfBirth": "",
-          "DateOfDeath": "",
-          "Children": []
-        },
-        {
           "Id": "i58454492",
           "Name": "X",
           "Gender": "Female",
@@ -124,6 +115,15 @@
               "Children": []
             }
           ]
+        },
+        {
+          "Id": "i18685039",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "adopted-son",
+          "DateOfBirth": "22/May/1974",
+          "DateOfDeath": "",
+          "Children": []
         },
         {
           "Id": "i25217139",

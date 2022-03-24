@@ -1,0 +1,59 @@
+﻿{
+  "Subject": {
+    "Id": "i7323242",
+    "Name": "John Cumming",
+    "Gender": "Male",
+    "DateOfBirth": "10/Oct/1895",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i55409960",
+      "Name": "Adam Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "bet' 1841 and 1849",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i74868546",
+      "Name": "Ann Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "5/Nov/1855",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i89853996",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "17/Dec/1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i55409960",
+          "i74868546"
+        ]
+      ]
+    },
+    {
+      "Id": "i7323242",
+      "Name": "John Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "10/Oct/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i55409960",
+          "i74868546"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

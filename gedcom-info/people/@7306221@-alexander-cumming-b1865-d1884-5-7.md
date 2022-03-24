@@ -11,7 +11,7 @@ permalink: /people/i7306221
 
 * Father: [James Cumming](./@66384942@-james-cumming-b1836~1841-d.md) (bet' 1836 and 1841 - )
 * Mother: [Jessie Ross](./@60546968@-jessie-ross-b1840~1842-d.md) (bet' 1840 and 1842 - )
-* Brother: [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
+* Brother: [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
 * Sister: [Marion Cumming](./@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md) (20/May/1863 - 15/Nov/1954)
 * Brother: [Kenneth Cumming](./@14447152@-kenneth-cumming-b1867-d.md) (about 1867 - )
 * Brother: [William Cumming](./@10016098@-william-cumming-b1870-d.md) (about 1870 - )

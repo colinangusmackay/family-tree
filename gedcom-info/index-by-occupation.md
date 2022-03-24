@@ -20,6 +20,10 @@ permalink: /indexes/by-occupation
 
 * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974).
 
+## Cattle Dealer
+
+* **[Morrison, John](people/@39757210@-john-morrison-b-d1877.md)** ( - before 1877).
+
 ## Cement Finisher
 
 * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982), mentioned 3 times.
@@ -36,6 +40,7 @@ permalink: /indexes/by-occupation
 
 * **[Matheson, Hector](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896).
 * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
+* **[McLean, John](people/@91397610@-john-mclean-b-d1877.md)** ( - after 1877).
 
 ## Dairy Maid
 
@@ -54,6 +59,10 @@ permalink: /indexes/by-occupation
 ## Electrician
 
 * **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004), mentioned 2 times.
+
+## Engineer
+
+* **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ).
 
 ## Factory Worker
 
@@ -81,9 +90,10 @@ permalink: /indexes/by-occupation
 
 ## Fisherman
 
-* **[Cumming, Adam](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - ).
-* **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d.md)** (1806 - ).
-* **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ), mentioned 9 times.
+* **[Cumming, Adam](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - ), mentioned 3 times.
+* **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884), mentioned 2 times.
+* **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d.md)** (1806 - ), mentioned 2 times.
+* **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 9 times.
 * **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d.md)** (bet' 1836 and 1841 - ), mentioned 4 times.
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
@@ -105,6 +115,7 @@ permalink: /indexes/by-occupation
 * **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - ).
 * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ), mentioned 2 times.
 * **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - ), mentioned 2 times.
+* **[Sutherland, William](people/@72992640@-william-sutherland-b-d1856.md)** ( - after 1856).
 
 ## Fishwife
 
@@ -237,6 +248,7 @@ permalink: /indexes/by-occupation
 ## Tailor
 
 * **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008).
+* **[McLean, John](people/@91397610@-john-mclean-b-d1877.md)** ( - after 1877).
 
 ## Tailor's Cutter
 

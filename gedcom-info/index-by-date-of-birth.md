@@ -29,9 +29,9 @@ permalink: /indexes/by-date-of-birth
   * **[Fraser, Kenneth](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
 * **Born in 1805.**
   * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
+  * **[Morrison, Mary](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
 * **Born in 1806.**
   * **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d.md)** (1806 - )
-  * **[Morrison, Mary](people/@18316154@-mary-morrison-b1806-d.md)** (about 1806 - )
 * **Born in 1807.**
   * **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d.md)** (1807 - )
 
@@ -112,7 +112,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1861.**
   * **[MacLeod, Matilda](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
   * **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - )
-  * **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - )
+  * **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
   * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - )
 * **Born in 1863.**
   * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
@@ -122,7 +122,8 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1865.**
   * **[Cumming, Alexander](people/@7306221@-alexander-cumming-b1865-d1884-5-7.md)** (about 1865 - 7/May/1884)
   * **[Grant, Christy](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
-  * **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d.md)** (18/Sep/1865 - )
+  * **[Cumming, William](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
+  * **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946.md)** (18/Sep/1865 - 1946)
 * **Born in 1866.**
   * **[Mackay, Jessie or Janet](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - )
 * **Born in 1867.**
@@ -195,6 +196,7 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 * **Born in 1895.**
   * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - )
+  * **[Cumming, John](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - )
 * **Born in 1896.**
   * **[Ross, Hugh Alexander](people/@22731476@-hugh-alexander-ross-b1896-11-17-d.md)** (17/Nov/1896 - )
 * **Born in 1897.**
@@ -324,6 +326,7 @@ permalink: /indexes/by-date-of-birth
 
 ## Unknown Date of Birth
 
+* [Anne Chisholm](people/@48064613@-anne-chisholm-b-d1877.md) ( - before 1877)
 * [Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md) ( - before 1939)
 * [John Gillie](people/@95851656@-john-gillie-b-d1901.md) ( - before 1901)
 * [Ada Hayes](people/@80079834@-ada-hayes-b-d2018.md) ( - before 2018)
@@ -336,11 +339,15 @@ permalink: /indexes/by-date-of-birth
 * [Sarah Hayes](people/@32431312@-sarah-hayes-b-d2018.md) ( - before 2018)
 * [Vernon Hayes](people/@31599970@-vernon-hayes-b-d2018.md) ( - before 2018)
 * [Catherine MacDonald](people/@97950336@-catherine-macdonald-b-d1949.md) ( - before 1949)
+* [Helen MacDonald](people/@83660564@-helen-macdonald-b-d1856.md) ( - after 1856)
 * [Barbara Mackay](people/@61459684@-barbara-mackay-b-d1896.md) ( - before 1896)
 * [Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md) ( - 8/Dec/1881)
 * [Hector MacLeod](people/@28404010@-hector-macleod-b-d1949.md) ( - before 1949)
 * [Hector Matheson](people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
 * [Elizabeth McIver](people/@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
+* [John McLean](people/@91397610@-john-mclean-b-d1877.md) ( - after 1877)
+* [John Morrison](people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
 * [Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md) ( - before 1910)
 * [Goldie Raymond](people/@2876469@-goldie-raymond-b-d2018.md) ( - before 2018)
 * [Hugh Ross](people/@10594034@-hugh-ross-b-d1889.md) ( - before 1889)
+* [William Sutherland](people/@72992640@-william-sutherland-b-d1856.md) ( - after 1856)

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i39757210",
+    "Name": "John Morrison",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1877"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i39757210",
+      "Name": "John Morrison",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1877",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i48064613",
+      "Name": "Anne Chisholm",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1877",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i18316154",
+      "Name": "Mary Morrison",
+      "Gender": "Female",
+      "DateOfBirth": "about 1805",
+      "DateOfDeath": "23/Oct/1877",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i39757210",
+        "i48064613"
+      ]
+    }
+  ]
+}

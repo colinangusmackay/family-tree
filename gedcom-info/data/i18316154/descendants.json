@@ -3,8 +3,8 @@
   "Name": "Mary Morrison",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "about 1806",
-  "DateOfDeath": "",
+  "DateOfBirth": "about 1805",
+  "DateOfDeath": "23/Oct/1877",
   "Children": [
     {
       "Id": "i68658880",
@@ -87,7 +87,7 @@
                           "Name": "X",
                           "Gender": "Male",
                           "Relationship": "son",
-                          "DateOfBirth": "",
+                          "DateOfBirth": "14/Mar/2010",
                           "DateOfDeath": "",
                           "Children": []
                         },

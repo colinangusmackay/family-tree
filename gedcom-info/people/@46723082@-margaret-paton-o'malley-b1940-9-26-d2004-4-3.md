@@ -107,6 +107,7 @@ before 2004 | Office/Contract Cleaner | [16](#16), [19](#19), [20](#20)
 
 **2016 X, LINDA (A Celebration of the Life of Linda X)**
 
+* [Full text and notes](../sources/@17101956@-2016-mathews,-linda-a-celebration-of-the-life-of-linda-mathews-.md)
 * Originator / Author: Chris Robinson
 * Date: 10/Oct/2016
 * Responsible Agency: Humanist Society of Scotland

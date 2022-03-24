@@ -12,6 +12,7 @@ permalink: /indexes/by-death-location
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
 - **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - )
+- **[Chisholm, Anne](people/@48064613@-anne-chisholm-b-d1877.md)** ( - before 1877)
 - **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
 - **[Cumming, Adam](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - )
 - **[Cumming, Alexander](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
@@ -21,7 +22,6 @@ permalink: /indexes/by-death-location
 - **[Cumming, Barbara Ann](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - )
 - **[Cumming, Christy](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
 - **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d.md)** (1806 - )
-- **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - )
 - **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
 - **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
 - **[Cumming, Donald](people/@64759184@-donald-cumming-b1903-5-4-d.md)** (4/May/1903 - )
@@ -29,13 +29,15 @@ permalink: /indexes/by-death-location
 - **[Cumming, James](people/@64418166@-james-cumming-b1881-d.md)** (about 1881 - )
 - **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 - **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
+- **[Cumming, John](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - )
 - **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
 - **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
+- **[Cumming, William](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
 - **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
 - **[Farnham, Mae](people/@53003230@-mae-farnham-b1885-d.md)** (before 1885 - )
 - **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
 - **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - )
-- **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d.md)** (18/Sep/1865 - )
+- **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946.md)** (18/Sep/1865 - 1946)
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
 - **[Gibson, Alexander](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939)
 - **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
@@ -61,6 +63,7 @@ permalink: /indexes/by-death-location
 - **[Lindores, William](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - )
 - **[MacDonald, Catherine](people/@97950336@-catherine-macdonald-b-d1949.md)** ( - before 1949)
 - **[MacDonald, Donald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - )
+- **[MacDonald, Helen](people/@83660564@-helen-macdonald-b-d1856.md)** ( - after 1856)
 - **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
 - **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d.md)** (1807 - )
 - **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - )
@@ -108,11 +111,12 @@ permalink: /indexes/by-death-location
 - **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 - **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
 - **[McLean, Christy](people/@62955988@-christy-mclean-b1846-d.md)** (about 1846 - )
+- **[McLean, John](people/@91397610@-john-mclean-b-d1877.md)** ( - after 1877)
 - **[McLean, Mary](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - )
 - **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
 - **[McTurk, Grace](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - )
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
-- **[Morrison, Mary](people/@18316154@-mary-morrison-b1806-d.md)** (about 1806 - )
+- **[Morrison, John](people/@39757210@-john-morrison-b-d1877.md)** ( - before 1877)
 - **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - )
 - **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
 - **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - )
@@ -153,6 +157,7 @@ permalink: /indexes/by-death-location
 - **[Stead, Norman](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
 - **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
 - **[Sutherland, Isabella](people/@79967653@-isabella-sutherland-b1838-d.md)** (1838 - )
+- **[Sutherland, William](people/@72992640@-william-sutherland-b-d1856.md)** ( - after 1856)
 - **[Thomson, Agnes](people/@96590245@-agnes-thomson-b1897-d.md)** (before 1897 - )
 
 
@@ -193,6 +198,12 @@ permalink: /indexes/by-death-location
 - **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
 - **[Gardiner, William](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986)
 
+### Ross
+
+#### Talladale
+
+- **[Morrison, Mary](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
+
 ### Ross and Cromarty
 
 #### Alness
@@ -213,6 +224,7 @@ permalink: /indexes/by-death-location
 
 #### Embo
 
+- **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
 - **[Fraser, Kenneth](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
 - **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
 - **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)

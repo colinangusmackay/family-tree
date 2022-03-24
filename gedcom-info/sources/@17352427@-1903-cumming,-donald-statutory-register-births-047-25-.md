@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s17352427
 ---
 
-# 1903 X, DONALD (statutory register births 047/25)
+# 1903 CUMMING, DONALD (statutory register births 047/25)
 
 Field | Detail
 ---:|:---

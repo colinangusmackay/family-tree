@@ -16,10 +16,10 @@
       "Children": [
         {
           "Id": "i90082380",
-          "Name": "X",
+          "Name": "William Cumming",
           "Gender": "Male",
           "Relationship": "son",
-          "DateOfBirth": "",
+          "DateOfBirth": "27/Feb/1865",
           "DateOfDeath": "",
           "Children": [
             {
@@ -49,7 +49,7 @@
           "Gender": "Male",
           "Relationship": "son",
           "DateOfBirth": "22/Mar/1861",
-          "DateOfDeath": "",
+          "DateOfDeath": "28/Feb/1940",
           "Children": [
             {
               "Id": "i84684994",
@@ -301,15 +301,6 @@
                   "DateOfDeath": "12/Mar/2021",
                   "Children": [
                     {
-                      "Id": "i18685039",
-                      "Name": "X",
-                      "Gender": "Male",
-                      "Relationship": "adopted-son",
-                      "DateOfBirth": "",
-                      "DateOfDeath": "",
-                      "Children": []
-                    },
-                    {
                       "Id": "i58454492",
                       "Name": "X",
                       "Gender": "Female",
@@ -383,6 +374,15 @@
                           "Children": []
                         }
                       ]
+                    },
+                    {
+                      "Id": "i18685039",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "adopted-son",
+                      "DateOfBirth": "22/May/1974",
+                      "DateOfDeath": "",
+                      "Children": []
                     },
                     {
                       "Id": "i25217139",
@@ -592,7 +592,7 @@
                           "Name": "X",
                           "Gender": "Male",
                           "Relationship": "son",
-                          "DateOfBirth": "",
+                          "DateOfBirth": "14/Mar/2010",
                           "DateOfDeath": "",
                           "Children": []
                         },
@@ -796,6 +796,15 @@
               "Children": []
             }
           ]
+        },
+        {
+          "Id": "i7323242",
+          "Name": "John Cumming",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "10/Oct/1895",
+          "DateOfDeath": "",
+          "Children": []
         }
       ]
     }

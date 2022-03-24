@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i90082380",
+    "Name": "William Cumming",
+    "Gender": "Male",
+    "DateOfBirth": "27/Feb/1865",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i7028096",
+      "Name": "Alexander Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1833",
+      "DateOfDeath": "7/May/1884",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i79967653",
+      "Name": "Isabella Sutherland",
+      "Gender": "Female",
+      "DateOfBirth": "1838",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i90082380",
+      "Name": "William Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "27/Feb/1865",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i7028096",
+          "i79967653"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i76315420",
+      "Name": "Jessie or Janet Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "1866",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "19/Feb/1895",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i64759184",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "4/May/1903",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i90082380",
+        "i76315420"
+      ]
+    }
+  ]
+}

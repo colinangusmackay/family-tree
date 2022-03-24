@@ -8,10 +8,10 @@
   "Parents": [
     {
       "Id": "i90082380",
-      "Name": "X",
+      "Name": "William Cumming",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "",
+      "DateOfBirth": "27/Feb/1865",
       "DateOfDeath": "",
       "Parents": [
         {
@@ -68,7 +68,26 @@
           "Relationship": "mother",
           "DateOfBirth": "1838",
           "DateOfDeath": "",
-          "Parents": []
+          "Parents": [
+            {
+              "Id": "i83660564",
+              "Name": "Helen MacDonald",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "after 1856",
+              "Parents": []
+            },
+            {
+              "Id": "i72992640",
+              "Name": "William Sutherland",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "after 1856",
+              "Parents": []
+            }
+          ]
         }
       ]
     },

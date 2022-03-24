@@ -22,7 +22,7 @@ References | 227566
 >
 > (1) My full, true, and correct name is Christine Cumming
 >
-> (2) My présent place of residence is 80 Summit Ave, Brookline, Mass. (Norfolk)
+> (2) My present place of residence is 80 Summit Ave, Brookline, Mass. (Norfolk)
 >
 > (3) My occupation is nurse
 >

@@ -106,8 +106,9 @@ permalink: /indexes/by-residence-location
 #### Embo
 
 - **[Cumming, Adam](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - )
+- **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
 - **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
-- **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - )
+- **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
 - **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986)
@@ -116,7 +117,7 @@ permalink: /indexes/by-residence-location
 - **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
 - **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
 - **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981)
-- **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d.md)** (18/Sep/1865 - )
+- **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946.md)** (18/Sep/1865 - 1946)
 - **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
 - **[Gillie, Williamina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 - **[Grant, Cate](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
@@ -146,6 +147,7 @@ permalink: /indexes/by-residence-location
 #### Golspie
 
 - **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
+- **[Sutherland, Isabella](people/@79967653@-isabella-sutherland-b1838-d.md)** (1838 - )
 
 #### Rogart
 
@@ -160,6 +162,15 @@ permalink: /indexes/by-residence-location
 #### Livingston
 
 - **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
+
+
+## United States
+
+### Massachusetts
+
+#### Lynn, Essex County
+
+- **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
 
 
 ## United States of America

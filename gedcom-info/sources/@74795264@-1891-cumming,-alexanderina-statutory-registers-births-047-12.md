@@ -50,5 +50,6 @@ References | 1891 B 047/12
 ## Source Referenced by
 
 * [Alexandrina Cumming](../people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md) (30/Mar/1891 - 10/Apr/1987)
-* [Donald Cumming](../people/@20465544@-donald-cumming-b1861-3-22-d.md) (22/Mar/1861 - )
+* [Donald Cumming](../people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
 * [Isabella Cumming](../people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md) (21/Jul/1888 - 1/Feb/1986)
+* [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946.md) (18/Sep/1865 - 1946)

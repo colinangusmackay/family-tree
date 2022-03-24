@@ -49,7 +49,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1873**
   * **21/Oct/1873** : **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ) and **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - ).
 * **1876**
-  * **17/Oct/1876** : **[Adam Cumming](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - ) and **[Ann Mackay](people/@74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - ).
+  * **17/Oct/1876** : **[Adam Cumming](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - ) and **[Ann Mackay](people/@74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - ) at Dornoch, Sutherland, Scotland.
   * **7/Nov/1876** : **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ) and **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - ) at Dornoch, Sutherland, Scotland.
 * **1877**
   * **23/Oct/1877** : **[Alexander Mackay](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ) and **[Ann Mackay](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889) at Dornoch, Sutherland, Scotland.
@@ -67,7 +67,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **15/Jan/1885** : X and **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949) at Stornoway, Eilean Siar, Scotland.
 * **1887**
   * **about 1887** : **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ).
-  * **25/Oct/1887** : **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d.md)** (22/Mar/1861 - ) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d.md)** (18/Sep/1865 - ) at Dornoch, Sutherland, Scotland.
+  * **25/Oct/1887** : **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946.md)** (18/Sep/1865 - 1946) at Dornoch, Sutherland, Scotland.
 * **1888**
   * **23/Oct/1888** : **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - ) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - ) at Dornoch, Sutherland, Scotland.
 * **1889**
@@ -79,7 +79,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1892**
   * **24/Mar/1892** : **[John Mackay](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ) and **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - ) at Embo, Sutherland, Scotland.
 * **1895**
-  * **19/Feb/1895** : X and **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - ) at Dornoch, Sutherland, Scotland.
+  * **19/Feb/1895** : **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - ) and **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - ) at Dornoch, Sutherland, Scotland.
 * **1897**
   * **16/Jun/1897** : **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939) and X at Golspie, Sutherland, Scotland.
 

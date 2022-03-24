@@ -44,11 +44,11 @@
       "Parents": [
         {
           "Id": "i91397610",
-          "Name": "X",
+          "Name": "John McLean",
           "Gender": "Male",
           "Relationship": "father",
           "DateOfBirth": "",
-          "DateOfDeath": "",
+          "DateOfDeath": "after 1877",
           "Parents": []
         },
         {
@@ -56,9 +56,28 @@
           "Name": "Mary Morrison",
           "Gender": "Female",
           "Relationship": "mother",
-          "DateOfBirth": "about 1806",
-          "DateOfDeath": "",
-          "Parents": []
+          "DateOfBirth": "about 1805",
+          "DateOfDeath": "23/Oct/1877",
+          "Parents": [
+            {
+              "Id": "i48064613",
+              "Name": "Anne Chisholm",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "before 1877",
+              "Parents": []
+            },
+            {
+              "Id": "i39757210",
+              "Name": "John Morrison",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "before 1877",
+              "Parents": []
+            }
+          ]
         }
       ]
     }

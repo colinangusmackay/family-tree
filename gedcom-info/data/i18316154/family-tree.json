@@ -3,28 +3,50 @@
     "Id": "i18316154",
     "Name": "Mary Morrison",
     "Gender": "Female",
-    "DateOfBirth": "about 1806",
-    "DateOfDeath": ""
+    "DateOfBirth": "about 1805",
+    "DateOfDeath": "23/Oct/1877"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i39757210",
+      "Name": "John Morrison",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1877",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i48064613",
+      "Name": "Anne Chisholm",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1877",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i18316154",
       "Name": "Mary Morrison",
       "Gender": "Female",
-      "DateOfBirth": "about 1806",
-      "DateOfDeath": "",
+      "DateOfBirth": "about 1805",
+      "DateOfDeath": "23/Oct/1877",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i39757210",
+          "i48064613"
+        ]
+      ]
     }
   ],
   "Spouses": [
     {
       "Id": "i91397610",
-      "Name": "X",
+      "Name": "John McLean",
       "Gender": "Male",
       "DateOfBirth": "",
-      "DateOfDeath": "",
+      "DateOfDeath": "after 1877",
       "RelationToSubject": "partner",
       "DateOfMarriage": "",
       "DateOfDivorce": ""

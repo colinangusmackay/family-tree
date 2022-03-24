@@ -12,7 +12,7 @@
       "Name": "Donald Cumming",
       "Gender": "Male",
       "DateOfBirth": "22/Mar/1861",
-      "DateOfDeath": "",
+      "DateOfDeath": "28/Feb/1940",
       "RelationToSubject": "father"
     },
     {
@@ -20,7 +20,7 @@
       "Name": "Ann Fraser",
       "Gender": "Female",
       "DateOfBirth": "18/Sep/1865",
-      "DateOfDeath": "",
+      "DateOfDeath": "1946",
       "RelationToSubject": "mother"
     }
   ],

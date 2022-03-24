@@ -12,7 +12,7 @@ Originator / Author |
 Date | 1967
 Responsible Agency | 
 Filed by Entry | 
-References | (URL) 
+References | 
 
 ## Text
 

@@ -130,4 +130,4 @@ References | 1861 C 066/2 3/4
 * [Rodrick McIver](../people/@91038040@-rodrick-mciver-b1821-d.md) (about 1821 - )
 * [Christy McLean](../people/@62955988@-christy-mclean-b1846-d.md) (about 1846 - )
 * [Mary McLean](../people/@45920386@-mary-mclean-b1849-d.md) (about 1849 - )
-* [Mary Morrison](../people/@18316154@-mary-morrison-b1806-d.md) (about 1806 - )
+* [Mary Morrison](../people/@18316154@-mary-morrison-b1805-d1877-10-23.md) (about 1805 - 23/Oct/1877)

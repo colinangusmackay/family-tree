@@ -12,7 +12,7 @@ Originator / Author |
 Date | 
 Responsible Agency | New York State Department of Health;
 Filed by Entry | 
-References | (New York State Birth Index) 
+References | 
 
 ## Source Referenced by
 

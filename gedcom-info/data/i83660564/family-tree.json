@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i83660564",
+    "Name": "Helen MacDonald",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "after 1856"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i83660564",
+      "Name": "Helen MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1856",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i72992640",
+      "Name": "William Sutherland",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1856",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i79967653",
+      "Name": "Isabella Sutherland",
+      "Gender": "Female",
+      "DateOfBirth": "1838",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i72992640",
+        "i83660564"
+      ]
+    }
+  ]
+}

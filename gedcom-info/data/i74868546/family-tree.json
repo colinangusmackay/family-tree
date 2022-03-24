@@ -204,6 +204,18 @@
         "i55409960",
         "i74868546"
       ]
+    },
+    {
+      "Id": "i7323242",
+      "Name": "John Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "10/Oct/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i55409960",
+        "i74868546"
+      ]
     }
   ]
 }
