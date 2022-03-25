@@ -64,9 +64,19 @@ permalink: /indexes/by-family-name
 - **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
 - **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
 
+## Currie
+
+- **[Helen Currie](people/@14506844@-helen-currie-b-d1880.md)** ( - before 1880)
+
 ## Farnham
 
 - **[Mae Farnham](people/@53003230@-mae-farnham-b1885-d.md)** (before 1885 - )
+
+## Fisher
+
+- **[Helen Currie Fisher](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - )
+- **[James Fisher](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
+- **[John Fisher](people/@81248806@-john-fisher-b-d1880.md)** ( - after 1880)
 
 ## Fraser
 
@@ -175,6 +185,10 @@ permalink: /indexes/by-family-name
 - **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
 - **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
 - **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
+
+## MacLean
+
+- **[Janet MacLean](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - )
 
 ## MacLeod
 
@@ -298,6 +312,11 @@ permalink: /indexes/by-family-name
 - **[William Ross](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
 - **[Williamina Ross](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - )
 
+## Seaton
+
+- **[Margaret Dickson Seaton](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
+- **[William Seaton](people/@58232144@-william-seaton-b-d1880.md)** ( - after 1880)
+
 ## Stead
 
 - **[Albert Stead](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
@@ -317,6 +336,10 @@ permalink: /indexes/by-family-name
 
 - **[Isabella Sutherland](people/@79967653@-isabella-sutherland-b1838-d.md)** (1838 - )
 - **[William Sutherland](people/@72992640@-william-sutherland-b-d1856.md)** ( - after 1856)
+
+## Taylor
+
+- **[Helen Taylor](people/@47549486@-helen-taylor-b-d1880.md)** ( - before 1880)
 
 ## Thomson
 

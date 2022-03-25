@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s94342520
 ---
 
-# 1920 X, X X (Statutory registers Births 685/9 413)
+# 1920 RAMSAY, HELEN FISHER (Statutory registers Births 685/9 413)
 
 Field | Detail
 ---:|:---
@@ -16,10 +16,34 @@ References | 1920 B 685/9 413
 
 ## Text
 
-_Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
+> 1920 BIRTHS in the District of Portobello in the City of Edinburgh
+>
+> <br/>
+>
+> No 413
+>
+> Name and Surname: Helen Fisher Ramsay
+>
+> When and Where Born: 1920 September Twenty Eighth __H 45M P.M.; 136 Restalrig Road, Edinburgh
+>
+> Sex: F
+>
+> Name, Surname and Profession of Father: John Ramsay; Railway Engine Driver (Died at Edinburgh, 20th June 1920)
+>
+> Name, Surname, and Maiden Surname of Mother: Helen Currie Ramsay M.S. Fisher
+>
+> Date and Place of Marriage: 1905 January 13th, Edinburgh
+>
+> Signature and Qualification of Informant: Helen Ramsay, Mother
+>
+> When and Where Registered: 1920 October 12th at Portobello
+>
+> Signature of Registrar: Wm. _____ Registrar
+>
 
 ## Source Referenced by
 
+* [Helen Currie Fisher](../people/@18426904@-helen-currie-fisher-b1882-d.md) (about 1882 - )
 * [Alan Ramsay](../people/@62219744@-alan-ramsay-b1911-d1932.md) (1911 - 1932)
 * [Bruce Ramsay](../people/@49046148@-bruce-ramsay-b1914-d1965-11-29.md) (1914 - 29/Nov/1965)
 * [Douglas Ramsay](../people/@12977578@-douglas-ramsay-b1918-d1993.md) (1918 - 1993)

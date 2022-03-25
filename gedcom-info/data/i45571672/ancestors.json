@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i45571672",
+  "Name": "Margaret Dickson Seaton",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1856",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i14506844",
+      "Name": "Helen Currie",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1880",
+      "Parents": []
+    },
+    {
+      "Id": "i58232144",
+      "Name": "William Seaton",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1880",
+      "Parents": []
+    }
+  ]
+}

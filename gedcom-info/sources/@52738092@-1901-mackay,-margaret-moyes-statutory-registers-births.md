@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s52738092
 ---
 
-# 1901 MACKAY, MARGARET MOYES Statutory registers Births 
+# 1901 MACKAY, MARGARET MOYES Statutory registers Births
 
 Field | Detail
 ---:|:---

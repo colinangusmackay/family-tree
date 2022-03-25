@@ -4,6 +4,10 @@ permalink: /indexes/by-occupation
 ---
 
 # Index - By Occupation
+## ____ Caster
+
+* **[Seaton, William](people/@58232144@-william-seaton-b-d1880.md)** ( - after 1880).
+
 ## Assistant Librarian
 
 * **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015).
@@ -15,6 +19,14 @@ permalink: /indexes/by-occupation
 ## Bookkeeper
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
+
+## Brass Moulder
+
+* **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - ), mentioned 2 times.
+
+## Brassmoulder
+
+* **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - ).
 
 ## Caretaker
 
@@ -49,6 +61,7 @@ permalink: /indexes/by-occupation
 ## Domestic Servant
 
 * **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ).
+* **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - ).
 * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ).
 * **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ).
 
@@ -71,6 +84,7 @@ permalink: /indexes/by-occupation
 ## Farm Servant
 
 * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ).
+* **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - ).
 
 ## Farmer
 
@@ -93,7 +107,7 @@ permalink: /indexes/by-occupation
 * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - ), mentioned 3 times.
 * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884), mentioned 2 times.
 * **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d.md)** (1806 - ), mentioned 2 times.
-* **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 9 times.
+* **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 10 times.
 * **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d.md)** (bet' 1836 and 1841 - ), mentioned 4 times.
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
@@ -130,6 +144,10 @@ permalink: /indexes/by-occupation
 ## Gardener
 
 * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974).
+
+## General Servant
+
+* **[McLean, Mary](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - ).
 
 ## Gunner, Royal Artillery
 
@@ -196,6 +214,10 @@ permalink: /indexes/by-occupation
 
 * **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967), mentioned 3 times.
 
+## Patten Maker
+
+* **[Fisher, John](people/@81248806@-john-fisher-b-d1880.md)** ( - after 1880).
+
 ## Ploughman
 
 * **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - ).
@@ -208,6 +230,10 @@ permalink: /indexes/by-occupation
 ## Printer
 
 * **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967).
+
+## Printer's Machinist
+
+* **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - ).
 
 ## Proprietor Childrens Nursery
 

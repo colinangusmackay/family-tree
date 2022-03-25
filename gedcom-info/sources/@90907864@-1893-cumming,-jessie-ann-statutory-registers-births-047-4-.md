@@ -9,10 +9,49 @@ Field | Detail
 ---:|:---
 Publication | 
 Originator / Author | 
-Date | 
-Responsible Agency | National Records of Scotlanf
+Date | 21/Jan/1893
+Responsible Agency | National Records of Scotland
 Filed by Entry | 
-References | 
+References | 1893 B 047/4
+
+## Text
+
+> 1893 BIRTHS in the District of Dornoch in the County of Sutherland
+>
+> <br/>
+>
+> No 4
+>
+> Name and Surname: Jessie-Ann Cumming
+>
+> When and Where Born: 1893 January Eighth 1H 0M AM; Fishertown, Dornoch
+>
+> Sex: F
+>
+> <br/>
+>
+> Name, Surname and Profession of Father: Donald Cumming; Fisherman
+>
+> Name and Maiden Surname of Mother: Ann Cumming M.S. Fraser
+>
+> Date and Place of Marriage: 1887 October 25th, Dornoch
+>
+> <br/>
+>
+> Signature and Qualification of Informant: Donald Cumming, Father (Present)
+>
+> <br/>
+>
+> When and Where Registered: 1893 January 21st at Dornoch
+>
+> Signature of Registrar: Charles Neill, Registrar.
+>
+
+## Notes
+
+> Fishertown, Dornoch = Embo
+>
+
 
 ## Source Referenced by
 

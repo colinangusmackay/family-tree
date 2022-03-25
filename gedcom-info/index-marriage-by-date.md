@@ -60,6 +60,7 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1880**
   * **26/May/1880** : **[John Gillie](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881) and **[Ann Lindores](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ) at Eyemouth, Berwickshire, Scotland.
+  * **24/Dec/1880** : **[James Fisher](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - ) and **[Margaret Dickson Seaton](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - ) at Edinburgh, Scotland.
 * **1881**
   * **1/Dec/1881** : **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ) and **[Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - ) at Dornoch, Sutherland, Scotland.
   * **30/Dec/1881** : **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ) and **[Isabella MacDonald](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - ) at Golspie, Sutherland, Scotland.
@@ -94,7 +95,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1903**
   * **27/Nov/1903** : **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939) and **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - ).
 * **1905**
-  * **13/Jan/1905** : **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920) and X at Edinburgh, Scotland.
+  * **13/Jan/1905** : **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920) and **[Helen Currie Fisher](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - ) at Edinburgh, Scotland.
 * **1906**
   * **about 1906** : **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) and X.
 * **1909**

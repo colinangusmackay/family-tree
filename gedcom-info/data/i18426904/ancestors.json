@@ -1,0 +1,66 @@
+﻿{
+  "Id": "i18426904",
+  "Name": "Helen Currie Fisher",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1882",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i22540348",
+      "Name": "James Fisher",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1854",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i47549486",
+          "Name": "Helen Taylor",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1880",
+          "Parents": []
+        },
+        {
+          "Id": "i81248806",
+          "Name": "John Fisher",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "after 1880",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i45571672",
+      "Name": "Margaret Dickson Seaton",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i14506844",
+          "Name": "Helen Currie",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1880",
+          "Parents": []
+        },
+        {
+          "Id": "i58232144",
+          "Name": "William Seaton",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "after 1880",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

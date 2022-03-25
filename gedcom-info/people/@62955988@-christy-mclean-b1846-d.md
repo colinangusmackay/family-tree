@@ -12,6 +12,7 @@ permalink: /people/i62955988
 * Father: [John McLean](./@91397610@-john-mclean-b-d1877.md) ( - after 1877)
 * Mother: [Mary Morrison](./@18316154@-mary-morrison-b1805-d1877-10-23.md) (about 1805 - 23/Oct/1877)
 * Sister: [Annie McLean](./@68658880@-annie-mclean-b1835-d.md) (about 1835 - )
+* Brother: [Janet MacLean](./@4850940@-janet-maclean-b1839-d.md) (about 1839 - )
 * Sister: [Mary McLean](./@45920386@-mary-mclean-b1849-d.md) (about 1849 - )
 
 ## Timeline
@@ -19,6 +20,12 @@ permalink: /people/i62955988
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1846 | Born | Born to [John McLean](./@91397610@-john-mclean-b-d1877.md) and [Mary Morrison](./@18316154@-mary-morrison-b1805-d1877-10-23.md) in Gairloch, Ross, Scotland. | [1](#1) | 
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1861 | Talladale, Ross, Scotland | [1](#1)
 
 ## Footnotes
 

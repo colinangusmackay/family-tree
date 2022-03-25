@@ -8,20 +8,20 @@
   },
   "Parents": [
     {
-      "Id": "i18426904",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "mother"
-    },
-    {
       "Id": "i64225415",
       "Name": "John Ramsay",
       "Gender": "Male",
       "DateOfBirth": "21/Feb/1880",
       "DateOfDeath": "20/Jun/1920",
       "RelationToSubject": "father"
+    },
+    {
+      "Id": "i18426904",
+      "Name": "Helen Currie Fisher",
+      "Gender": "Female",
+      "DateOfBirth": "about 1882",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
     }
   ],
   "Siblings": [

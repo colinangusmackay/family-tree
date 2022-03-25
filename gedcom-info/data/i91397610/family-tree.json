@@ -44,6 +44,18 @@
       ]
     },
     {
+      "Id": "i4850940",
+      "Name": "Janet MacLean",
+      "Gender": "Male",
+      "DateOfBirth": "about 1839",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i91397610",
+        "i18316154"
+      ]
+    },
+    {
       "Id": "i62955988",
       "Name": "Christy McLean",
       "Gender": "Female",

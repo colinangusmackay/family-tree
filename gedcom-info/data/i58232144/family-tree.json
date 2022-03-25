@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i58232144",
+    "Name": "William Seaton",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "after 1880"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i58232144",
+      "Name": "William Seaton",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1880",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i14506844",
+      "Name": "Helen Currie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1880",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i45571672",
+      "Name": "Margaret Dickson Seaton",
+      "Gender": "Female",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i58232144",
+        "i14506844"
+      ]
+    }
+  ]
+}

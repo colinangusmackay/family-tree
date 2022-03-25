@@ -59,6 +59,8 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1838.**
   * **[Sutherland, Isabella](people/@79967653@-isabella-sutherland-b1838-d.md)** (1838 - )
   * **[Mackay, Isabella](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
+* **Born in 1839.**
+  * **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - )
 
 ### 1840s
 
@@ -91,6 +93,8 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
   * **[Mackay, Sophia](people/@52720474@-sophia-mackay-b1850-d.md)** (before 1850 - )
   * **[Punton, Joan](people/@98605400@-joan-punton-b1850-d.md)** (before 1850 - )
+* **Born in 1854.**
+  * **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
 * **Born in 1855.**
   * **[, Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - )
   * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
@@ -98,6 +102,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1856.**
   * **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - )
   * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
+  * **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
 * **Born in 1858.**
   * **[Mackay, Ann](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
 * **Born in 1859.**
@@ -161,6 +166,8 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, James](people/@64418166@-james-cumming-b1881-d.md)** (about 1881 - )
   * **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
   * **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
+* **Born in 1882.**
+  * **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - )
 * **Born in 1883.**
   * **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - )
 * **Born in 1884.**
@@ -327,6 +334,8 @@ permalink: /indexes/by-date-of-birth
 ## Unknown Date of Birth
 
 * [Anne Chisholm](people/@48064613@-anne-chisholm-b-d1877.md) ( - before 1877)
+* [Helen Currie](people/@14506844@-helen-currie-b-d1880.md) ( - before 1880)
+* [John Fisher](people/@81248806@-john-fisher-b-d1880.md) ( - after 1880)
 * [Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md) ( - before 1939)
 * [John Gillie](people/@95851656@-john-gillie-b-d1901.md) ( - before 1901)
 * [Ada Hayes](people/@80079834@-ada-hayes-b-d2018.md) ( - before 2018)
@@ -350,4 +359,6 @@ permalink: /indexes/by-date-of-birth
 * [Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md) ( - before 1910)
 * [Goldie Raymond](people/@2876469@-goldie-raymond-b-d2018.md) ( - before 2018)
 * [Hugh Ross](people/@10594034@-hugh-ross-b-d1889.md) ( - before 1889)
+* [William Seaton](people/@58232144@-william-seaton-b-d1880.md) ( - after 1880)
 * [William Sutherland](people/@72992640@-william-sutherland-b-d1856.md) ( - after 1856)
+* [Helen Taylor](people/@47549486@-helen-taylor-b-d1880.md) ( - before 1880)

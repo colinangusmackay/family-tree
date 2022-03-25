@@ -18,6 +18,7 @@ permalink: /people/i68658880
 * Father: [John McLean](./@91397610@-john-mclean-b-d1877.md) ( - after 1877)
 * Mother: [Mary Morrison](./@18316154@-mary-morrison-b1805-d1877-10-23.md) (about 1805 - 23/Oct/1877)
 * Husband: [Rodrick McIver](./@91038040@-rodrick-mciver-b1821-d.md) (about 1821 - )
+* Brother: [Janet MacLean](./@4850940@-janet-maclean-b1839-d.md) (about 1839 - )
 * Sister: [Christy McLean](./@62955988@-christy-mclean-b1846-d.md) (about 1846 - )
 * Sister: [Mary McLean](./@45920386@-mary-mclean-b1849-d.md) (about 1849 - )
 * Son: [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) (17/Aug/1878 - 21/Feb/1938)

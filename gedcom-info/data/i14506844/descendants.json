@@ -1,0 +1,188 @@
+﻿{
+  "Id": "i14506844",
+  "Name": "Helen Currie",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "before 1880",
+  "Children": [
+    {
+      "Id": "i45571672",
+      "Name": "Margaret Dickson Seaton",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i18426904",
+          "Name": "Helen Currie Fisher",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "about 1882",
+          "DateOfDeath": "",
+          "Children": [
+            {
+              "Id": "i55070438",
+              "Name": "Jack Ramsay",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "1905",
+              "DateOfDeath": "1967",
+              "Children": []
+            },
+            {
+              "Id": "i62219744",
+              "Name": "Alan Ramsay",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "1911",
+              "DateOfDeath": "1932",
+              "Children": []
+            },
+            {
+              "Id": "i49046148",
+              "Name": "Bruce Ramsay",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "1914",
+              "DateOfDeath": "29/Nov/1965",
+              "Children": []
+            },
+            {
+              "Id": "i80504300",
+              "Name": "Isabella Ramsay",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "1916",
+              "DateOfDeath": "1974",
+              "Children": []
+            },
+            {
+              "Id": "i12977578",
+              "Name": "Douglas Ramsay",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "1918",
+              "DateOfDeath": "1993",
+              "Children": []
+            },
+            {
+              "Id": "i34267190",
+              "Name": "Helen Fisher Ramsay",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "28/Sep/1920",
+              "DateOfDeath": "15/Oct/2015",
+              "Children": [
+                {
+                  "Id": "i24651580",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "29/Mar/1947",
+                  "DateOfDeath": "",
+                  "Children": [
+                    {
+                      "Id": "i91696144",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "2/Sep/1974",
+                      "DateOfDeath": "",
+                      "Children": []
+                    },
+                    {
+                      "Id": "i41199488",
+                      "Name": "X",
+                      "Gender": "Female",
+                      "Relationship": "daughter",
+                      "DateOfBirth": "25/Apr/1977",
+                      "DateOfDeath": "",
+                      "Children": [
+                        {
+                          "Id": "i29773832",
+                          "Name": "X",
+                          "Gender": "Male",
+                          "Relationship": "son",
+                          "DateOfBirth": "14/Mar/2010",
+                          "DateOfDeath": "",
+                          "Children": []
+                        },
+                        {
+                          "Id": "i1137137",
+                          "Name": "X",
+                          "Gender": "Female",
+                          "Relationship": "daughter",
+                          "DateOfBirth": "31/Oct/2012",
+                          "DateOfDeath": "",
+                          "Children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Id": "i98087335",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "23/Oct/1953",
+                  "DateOfDeath": "",
+                  "Children": [
+                    {
+                      "Id": "i78267971",
+                      "Name": "X",
+                      "Gender": "Female",
+                      "Relationship": "daughter",
+                      "DateOfBirth": "16/Jan/1987",
+                      "DateOfDeath": "",
+                      "Children": [
+                        {
+                          "Id": "i18891591",
+                          "Name": "X",
+                          "Gender": "Female",
+                          "Relationship": "daughter",
+                          "DateOfBirth": "2019",
+                          "DateOfDeath": "",
+                          "Children": []
+                        }
+                      ]
+                    },
+                    {
+                      "Id": "i54061529",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "3/Oct/1992",
+                      "DateOfDeath": "",
+                      "Children": []
+                    },
+                    {
+                      "Id": "i94136164",
+                      "Name": "X",
+                      "Gender": "Female",
+                      "Relationship": "daughter",
+                      "DateOfBirth": "29/Oct/2016",
+                      "DateOfDeath": "",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Id": "i52997952",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "29/Jun/1961",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

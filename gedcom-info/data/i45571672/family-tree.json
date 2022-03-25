@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i45571672",
+    "Name": "Margaret Dickson Seaton",
+    "Gender": "Female",
+    "DateOfBirth": "about 1856",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i58232144",
+      "Name": "William Seaton",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1880",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i14506844",
+      "Name": "Helen Currie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1880",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i45571672",
+      "Name": "Margaret Dickson Seaton",
+      "Gender": "Female",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i14506844",
+          "i58232144"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i22540348",
+      "Name": "James Fisher",
+      "Gender": "Male",
+      "DateOfBirth": "about 1854",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "24/Dec/1880",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i18426904",
+      "Name": "Helen Currie Fisher",
+      "Gender": "Female",
+      "DateOfBirth": "about 1882",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i22540348",
+        "i45571672"
+      ]
+    }
+  ]
+}

@@ -61,9 +61,9 @@ Date | Occupation | Sources & Notes
 
 ### 1
 
-**1901 MACKAY, MARGARET MOYES Statutory registers Births **
+**1901 MACKAY, MARGARET MOYES Statutory registers Births**
 
-* [Full text and notes](../sources/@52738092@-1901-mackay,-margaret-moyes-statutory-registers-births-.md)
+* [Full text and notes](../sources/@52738092@-1901-mackay,-margaret-moyes-statutory-registers-births.md)
 * Date: 12/Jul/1901
 * Responsible Agency: National Records of Scotland
 * References: 

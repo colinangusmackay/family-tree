@@ -64,7 +64,7 @@ References | 1861 C 066/2 3/4
 >
 > Name & Surname: Mary McLean
 >
-> Relationship to head of family: Wife
+> Relationship to head of family: Daughter
 >
 > Condition: Single
 >
@@ -73,6 +73,10 @@ References | 1861 C 066/2 3/4
 > Profession or Occupation: Daughter
 >
 > Where Born: Rossshire, Gairloch
+>
+> <br/>
+>
+> ---
 >
 > <br/>
 >
@@ -127,6 +131,7 @@ References | 1861 C 066/2 3/4
 
 ## Source Referenced by
 
+* [Janet MacLean](../people/@4850940@-janet-maclean-b1839-d.md) (about 1839 - )
 * [Rodrick McIver](../people/@91038040@-rodrick-mciver-b1821-d.md) (about 1821 - )
 * [Christy McLean](../people/@62955988@-christy-mclean-b1846-d.md) (about 1846 - )
 * [Mary McLean](../people/@45920386@-mary-mclean-b1849-d.md) (about 1849 - )
