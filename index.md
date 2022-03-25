@@ -19,7 +19,7 @@ Here are some starting points:
 
 There is also a [blog](blog.md) which contains various information about site changes and various articles and notes I've put together.
 
-All these links can be found in the hamburger menu at the top-right of each page too.
+All these links can be found in the "hamburger menu" (the icon with three horizonal lines) at the top-right of each page too.
 
 ## Background
 
@@ -43,13 +43,11 @@ I am, naturally, looking to fill in the gaps and fix any errors. If you can help
 
 At the bottom of each page there are contact links. You can either [contact me via email at github@colinmackay.scot](mailto:github@colinmackay.scot?subject=Family%20tree%20of%20Colin%20Mackay), or [raise an issue in GitHub](https://github.com/colinangusmackay/family-tree/issues/new?title=Issue%20or%20request%20from%20the%20homepage). The links at the bottom of the page will pre-populate the email subject or GitHub issue with the page you are on. The email link will only work if you have an email client set up for the browser to open.
 
-## The information
-
 ## The Geeky Bit
 
 If you are interested in the software side of it. I am using:
-* [FamilyTree 9](https://www.syniumsoftware.com/macfamilytree) - To store and catalogue the information on my Mac.
-* [MobileFamilyTree 9](https://www.syniumsoftware.com/mobilefamilytree) - To store and catalogue the information on my iPad. Both the iPad and Mac versions are sync'ed.
+* [FamilyTree 10](https://www.syniumsoftware.com/macfamilytree) - To store and catalogue the information on my Mac.
+* [MobileFamilyTree 10](https://www.syniumsoftware.com/mobilefamilytree) - To store and catalogue the information on my iPad. Both the iPad and Mac versions are sync'ed.
 * [GitKraken](https://www.gitkraken.com) - To move the raw data from FamilyTree to [GitHub.com](https://github.com).
 * [Stravaig Gedcom](https://github.com/Stravaig-Projects/Gedcom) - My own rendering software (a work in progress) written in C#.
 * [Jekyll](https://jekyllrb.com/) - A Ruby based transformer that generates this site.
