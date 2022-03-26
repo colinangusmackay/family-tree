@@ -9,9 +9,9 @@ permalink: /people/i7028096
 
 ## Immediate Family
 
-* Father: [Donald Cumming](./@45726416@-donald-cumming-b1806-d.md) (1806 - )
-* Mother: [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d.md) (1807 - )
-* Brother: [James Cumming](./@66384942@-james-cumming-b1836~1841-d.md) (bet' 1836 and 1841 - )
+* Father: [Donald Cumming](./@45726416@-donald-cumming-b1806-d1923.md) (1806 - before 1923)
+* Mother: [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1923.md) (1807 - before 1923)
+* Brother: [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
 * Wife: [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d.md) (1838 - )
 * Brother: [Adam Cumming](./@55409960@-adam-cumming-b1841~1849-d.md) (bet' 1841 and 1849 - )
 * Son: [William Cumming](./@90082380@-william-cumming-b1865-2-27-d.md) (27/Feb/1865 - )
@@ -20,9 +20,9 @@ permalink: /people/i7028096
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-1833 | Born | Born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d.md). |  | 
-bet' 1836 and 1841 | Birth of brother | [James Cumming](./@66384942@-james-cumming-b1836~1841-d.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d.md). | [1](#1) | [2](#2)
-bet' 1841 and 1849 | Birth of brother | [Adam Cumming](./@55409960@-adam-cumming-b1841~1849-d.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d.md) in Embo, Sutherland, Scotland. | [3](#3), [4](#4), [5](#5), [6](#6) | [7](#7)
+1833 | Born | Born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d1923.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1923.md). |  | 
+bet' 1836 and 1841 | Birth of brother | [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d1923.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1923.md). | [1](#1) | [2](#2)
+bet' 1841 and 1849 | Birth of brother | [Adam Cumming](./@55409960@-adam-cumming-b1841~1849-d.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d1923.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1923.md) in Embo, Sutherland, Scotland. | [3](#3), [4](#4), [5](#5), [6](#6) | [7](#7)
 5/Dec/1856 | Marriage | Married to [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d.md)  | [8](#8) | 
 27/Feb/1865 | Birth of son | [William Cumming](./@90082380@-william-cumming-b1865-2-27-d.md) born to [Alexander Cumming](./@7028096@-alexander-cumming-b1833-d1884-5-7.md) and [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d.md). | [9](#9) | 
 7/May/1884 | Died | Died. |  | 

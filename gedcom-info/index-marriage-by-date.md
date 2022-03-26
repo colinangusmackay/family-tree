@@ -38,7 +38,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1860s
 
 * **1860**
-  * **21/Feb/1860** : **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d.md)** (bet' 1836 and 1841 - ) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d.md)** (bet' 1840 and 1842 - ) at Dornoch, Sutherland, Scotland.
+  * **21/Feb/1860** : **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1923.md)** (bet' 1840 and 1842 - before 1923) at Dornoch, Sutherland, Scotland.
 * **1861**
   * **14/Feb/1861** : **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) and **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) at Gairloch, Ross, Scotland.
 * **1869**
@@ -68,7 +68,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **15/Jan/1885** : X and **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949) at Stornoway, Eilean Siar, Scotland.
 * **1887**
   * **about 1887** : **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ).
-  * **25/Oct/1887** : **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946.md)** (18/Sep/1865 - 1946) at Dornoch, Sutherland, Scotland.
+  * **25/Oct/1887** : **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946) at Dornoch, Sutherland, Scotland.
 * **1888**
   * **23/Oct/1888** : **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - ) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - ) at Dornoch, Sutherland, Scotland.
 * **1889**

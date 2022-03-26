@@ -12,7 +12,7 @@
       "Name": "James Cumming",
       "Gender": "Male",
       "DateOfBirth": "bet' 1836 and 1841",
-      "DateOfDeath": "",
+      "DateOfDeath": "11/Jan/1923",
       "RelationToSubject": "father"
     },
     {
@@ -20,7 +20,7 @@
       "Name": "Jessie Ross",
       "Gender": "Female",
       "DateOfBirth": "bet' 1840 and 1842",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1923",
       "RelationToSubject": "mother"
     }
   ],
@@ -158,7 +158,7 @@
       "Name": "Ann Fraser",
       "Gender": "Female",
       "DateOfBirth": "18/Sep/1865",
-      "DateOfDeath": "1946",
+      "DateOfDeath": "20/Jun/1946",
       "RelationToSubject": "wife",
       "DateOfMarriage": "25/Oct/1887",
       "DateOfDivorce": ""

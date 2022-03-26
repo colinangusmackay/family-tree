@@ -41,7 +41,7 @@ permalink: /indexes/by-family-name
 - **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - )
 - **[Christine Cumming](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 - **[Christy Cumming](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
-- **[Donald Cumming](people/@45726416@-donald-cumming-b1806-d.md)** (1806 - )
+- **[Donald Cumming](people/@45726416@-donald-cumming-b1806-d1923.md)** (1806 - before 1923)
 - **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
 - **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
 - **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
@@ -50,7 +50,7 @@ permalink: /indexes/by-family-name
 - **[Donald John Cumming](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
 - **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986)
-- **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d.md)** (bet' 1836 and 1841 - )
+- **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923)
 - **[James Cumming](people/@64418166@-james-cumming-b1881-d.md)** (about 1881 - )
 - **[James Cumming](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 - **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
@@ -82,7 +82,7 @@ permalink: /indexes/by-family-name
 
 - **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
 - **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - )
-- **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946.md)** (18/Sep/1865 - 1946)
+- **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
 - **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
 - **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
 - **[Thomas Fraser](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
@@ -140,7 +140,7 @@ permalink: /indexes/by-family-name
 - **[Donald MacDonald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - )
 - **[Helen MacDonald](people/@83660564@-helen-macdonald-b-d1856.md)** ( - after 1856)
 - **[Isabella MacDonald](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
-- **[Kate MacDonald](people/@28255030@-kate-macdonald-b1807-d.md)** (1807 - )
+- **[Kate MacDonald](people/@28255030@-kate-macdonald-b1807-d1923.md)** (1807 - before 1923)
 
 ## Mackay
 
@@ -302,7 +302,7 @@ permalink: /indexes/by-family-name
 - **[Hugh Alexander Ross](people/@22731476@-hugh-alexander-ross-b1896-11-17-d.md)** (17/Nov/1896 - )
 - **[Hugh Ross](people/@10594034@-hugh-ross-b-d1889.md)** ( - before 1889)
 - **[Jeanie Ross](people/@71751658@-jeanie-ross-b1907-d.md)** (1907 - )
-- **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d.md)** (bet' 1840 and 1842 - )
+- **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1923.md)** (bet' 1840 and 1842 - before 1923)
 - **[Johan or Janet Ross](people/@18017632@-johan-or-janet-ross-b1905-d.md)** (1905 - )
 - **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
 - **[John Ross](people/@75057664@-john-ross-b1861-d.md)** (1861 - )

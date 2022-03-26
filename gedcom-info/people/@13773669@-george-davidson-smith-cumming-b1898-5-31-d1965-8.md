@@ -10,7 +10,7 @@ permalink: /people/i13773669
 ## Immediate Family
 
 * Father: [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
-* Mother: [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946.md) (18/Sep/1865 - 1946)
+* Mother: [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) (18/Sep/1865 - 20/Jun/1946)
 * Sister: [Isabella Cumming](./@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md) (21/Jul/1888 - 1/Feb/1986)
 * Sister: [Alexandrina Cumming](./@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md) (30/Mar/1891 - 10/Apr/1987)
 * Sister: [Jessie Ann Cumming](./@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md) (8/Jan/1893 - 31/Oct/1978)
@@ -25,18 +25,18 @@ permalink: /people/i13773669
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-31/May/1898 | Born | Born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2), [3](#3) | 
-26/Jul/1900 | Birth of sister | [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946.md) in Embo, Sutherland, Scotland. | [4](#4) | 
-24/Nov/1902 | Birth of sister | [Thomasina Ian Cumming](./@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946.md) in Embo, Sutherland, Scotland. | [5](#5), [3](#3) | 
-15/Dec/1904 | Birth of sister | [Christine Cumming](./@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946.md) in Embo, Sutherland, Scotland. | [6](#6), [7](#7) | 
-29/Nov/1906 | Birth of brother | [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946.md) in Embo, Sutherland, Scotland. | [8](#8), [3](#3) | 
+31/May/1898 | Born | Born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2), [3](#3) | 
+26/Jul/1900 | Birth of sister | [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [4](#4) | 
+24/Nov/1902 | Birth of sister | [Thomasina Ian Cumming](./@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [5](#5), [3](#3) | 
+15/Dec/1904 | Birth of sister | [Christine Cumming](./@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [6](#6), [7](#7) | 
+29/Nov/1906 | Birth of brother | [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [8](#8), [3](#3) | 
 20/Aug/1920 | Immigrated | Immigrated to New York, New York, United States of America. | [9](#9), [10](#10) | 
 26/Mar/1936 | Naturalised | Naturalised in Boston, Massachusetts, United States of America. (Declaration of Intent) | [10](#10) | 
 2/May/1939 | Naturalised | Naturalised in Boston, Massachusetts, United States of America. (Petition for Naturalization) | [11](#11) | 
 28/Feb/1940 | Death of father | [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) died in Embo, Sutherland, Scotland. | [12](#12) | 
 16/Feb/1942 | EVEN:Military Conscription/Draft |  | [2](#2) | 
 10/Dec/1943 | Marriage | Married to [Margaret Hogg Hatelie](./@43723296@-margaret-hogg-hatelie-b1897-d1977.md) in , Broward, Florida, United States of America | [13](#13) | 
-1946 | Death of mother | [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946.md) died. | [14](#14), [12](#12), [15](#15) | 
+20/Jun/1946 | Death of mother | [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) died. | [14](#14), [12](#12), [15](#15) | 
 Aug/1965 | Died | Died in Palm Beach, Florida, United States of America. | [16](#16), [17](#17) | 
 
 ## Known Residences

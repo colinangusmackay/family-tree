@@ -31,9 +31,9 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
   * **[Morrison, Mary](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
 * **Born in 1806.**
-  * **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d.md)** (1806 - )
+  * **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1923.md)** (1806 - before 1923)
 * **Born in 1807.**
-  * **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d.md)** (1807 - )
+  * **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d1923.md)** (1807 - before 1923)
 
 ### 1810s
 
@@ -55,7 +55,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1835.**
   * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
 * **Born in 1836.**
-  * **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d.md)** (bet' 1836 and 1841 - )
+  * **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923)
 * **Born in 1838.**
   * **[Sutherland, Isabella](people/@79967653@-isabella-sutherland-b1838-d.md)** (1838 - )
   * **[Mackay, Isabella](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
@@ -68,7 +68,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Janet or Jessie](people/@42213240@-janet-or-jessie-mackay-b1840-d.md)** (1840 - )
   * **[Mackay, Mary](people/@78757487@-mary-mackay-b1840-d.md)** (before 1840 - )
   * **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
-  * **[Ross, Jessie](people/@60546968@-jessie-ross-b1840~1842-d.md)** (bet' 1840 and 1842 - )
+  * **[Ross, Jessie](people/@60546968@-jessie-ross-b1840~1842-d1923.md)** (bet' 1840 and 1842 - before 1923)
 * **Born in 1841.**
   * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - )
   * **[Mackay, John](people/@58430005@-john-mackay-b1841-2-18-d.md)** (18/Feb/1841 - )
@@ -128,7 +128,7 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, Alexander](people/@7306221@-alexander-cumming-b1865-d1884-5-7.md)** (about 1865 - 7/May/1884)
   * **[Grant, Christy](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
   * **[Cumming, William](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
-  * **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946.md)** (18/Sep/1865 - 1946)
+  * **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
 * **Born in 1866.**
   * **[Mackay, Jessie or Janet](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - )
 * **Born in 1867.**

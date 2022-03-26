@@ -12,7 +12,7 @@
       "Name": "Donald Cumming",
       "Gender": "Male",
       "DateOfBirth": "1806",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1923",
       "RelationToSubject": "father"
     },
     {
@@ -20,7 +20,7 @@
       "Name": "Kate MacDonald",
       "Gender": "Female",
       "DateOfBirth": "1807",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1923",
       "RelationToSubject": "mother"
     }
   ],
@@ -44,7 +44,7 @@
       "Name": "James Cumming",
       "Gender": "Male",
       "DateOfBirth": "bet' 1836 and 1841",
-      "DateOfDeath": "",
+      "DateOfDeath": "11/Jan/1923",
       "RelationToSubject": "brother",
       "ParentGroupIds": [
         [

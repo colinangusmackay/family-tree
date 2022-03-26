@@ -77,3 +77,6 @@ References | 1876 M 047/12
 
 * [Adam Cumming](../people/@55409960@-adam-cumming-b1841~1849-d.md) (bet' 1841 and 1849 - )
 * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
+* [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1923.md) (1806 - before 1923)
+* [James Cumming](../people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
+* [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1923.md) (1807 - before 1923)

@@ -21,6 +21,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 ## Source Referenced by
 
 * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
-* [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d.md) (1806 - )
-* [James Cumming](../people/@66384942@-james-cumming-b1836~1841-d.md) (bet' 1836 and 1841 - )
-* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1842-d.md) (bet' 1840 and 1842 - )
+* [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1923.md) (1806 - before 1923)
+* [James Cumming](../people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
+* [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1923.md) (1807 - before 1923)
+* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1842-d1923.md) (bet' 1840 and 1842 - before 1923)

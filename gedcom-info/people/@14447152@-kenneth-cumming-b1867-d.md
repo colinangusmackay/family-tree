@@ -9,8 +9,8 @@ permalink: /people/i14447152
 
 ## Immediate Family
 
-* Father: [James Cumming](./@66384942@-james-cumming-b1836~1841-d.md) (bet' 1836 and 1841 - )
-* Mother: [Jessie Ross](./@60546968@-jessie-ross-b1840~1842-d.md) (bet' 1840 and 1842 - )
+* Father: [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
+* Mother: [Jessie Ross](./@60546968@-jessie-ross-b1840~1842-d1923.md) (bet' 1840 and 1842 - before 1923)
 * Brother: [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
 * Sister: [Marion Cumming](./@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md) (20/May/1863 - 15/Nov/1954)
 * Brother: [Alexander Cumming](./@7306221@-alexander-cumming-b1865-d1884-5-7.md) (about 1865 - 7/May/1884)
@@ -25,7 +25,7 @@ permalink: /people/i14447152
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1867 | Born | Born to [James Cumming](./@66384942@-james-cumming-b1836~1841-d.md) and [Jessie Ross](./@60546968@-jessie-ross-b1840~1842-d.md). | [1](#1) | 
+about 1867 | Born | Born to [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) and [Jessie Ross](./@60546968@-jessie-ross-b1840~1842-d1923.md). | [1](#1) | 
 
 ## Notes
 

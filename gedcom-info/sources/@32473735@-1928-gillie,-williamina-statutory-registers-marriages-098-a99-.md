@@ -79,6 +79,6 @@ References | 1928 M 098/A99
 * [Jessie Ann Cumming](../people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md) (8/Jan/1893 - 31/Oct/1978)
 * [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) (26/Jul/1900 - 7/Oct/1981)
 * [Thomasina Ian Cumming](../people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) (24/Nov/1902 - 1/Jun/1973)
-* [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946.md) (18/Sep/1865 - 1946)
+* [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) (18/Sep/1865 - 20/Jun/1946)
 * [Andrew Gillie](../people/@60068056@-andrew-gillie-b1868-12-28-d.md) (28/Dec/1868 - )
 * [Williamina Gillie](../people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md) (4/Apr/1910 - 4/Nov/2003)

@@ -4,7 +4,7 @@
     "Name": "Jessie Ross",
     "Gender": "Female",
     "DateOfBirth": "bet' 1840 and 1842",
-    "DateOfDeath": ""
+    "DateOfDeath": "before 1923"
   },
   "Parents": [
     {
@@ -30,7 +30,7 @@
       "Name": "Jessie Ross",
       "Gender": "Female",
       "DateOfBirth": "bet' 1840 and 1842",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1923",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -46,7 +46,7 @@
       "Name": "James Cumming",
       "Gender": "Male",
       "DateOfBirth": "bet' 1836 and 1841",
-      "DateOfDeath": "",
+      "DateOfDeath": "11/Jan/1923",
       "RelationToSubject": "husband",
       "DateOfMarriage": "21/Feb/1860",
       "DateOfDivorce": ""

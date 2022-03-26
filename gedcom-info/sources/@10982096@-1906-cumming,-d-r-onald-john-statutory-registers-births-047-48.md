@@ -51,4 +51,4 @@ References | 1906 B 047/48
 * [Jessie Ann Cumming](../people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md) (8/Jan/1893 - 31/Oct/1978)
 * [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md) (26/Jul/1900 - 7/Oct/1981)
 * [Thomasina Ian Cumming](../people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) (24/Nov/1902 - 1/Jun/1973)
-* [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946.md) (18/Sep/1865 - 1946)
+* [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) (18/Sep/1865 - 20/Jun/1946)

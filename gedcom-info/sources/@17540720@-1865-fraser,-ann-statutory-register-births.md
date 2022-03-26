@@ -50,4 +50,4 @@ References | 1865 B 047/44
 ## Source Referenced by
 
 * [Alexander Fraser](../people/@97086424@-alexander-fraser-b1833-12-5-d.md) (5/Dec/1833 - )
-* [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946.md) (18/Sep/1865 - 1946)
+* [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) (18/Sep/1865 - 20/Jun/1946)

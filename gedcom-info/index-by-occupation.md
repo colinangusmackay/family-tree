@@ -106,9 +106,9 @@ permalink: /indexes/by-occupation
 
 * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - ), mentioned 3 times.
 * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884), mentioned 2 times.
-* **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d.md)** (1806 - ), mentioned 2 times.
+* **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1923.md)** (1806 - before 1923), mentioned 2 times.
 * **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 10 times.
-* **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d.md)** (bet' 1836 and 1841 - ), mentioned 4 times.
+* **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923), mentioned 4 times.
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
 * **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ), mentioned 2 times.
@@ -179,6 +179,7 @@ permalink: /indexes/by-occupation
 
 ## Merchant
 
+* **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923).
 * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ).
 
 ## Midwife

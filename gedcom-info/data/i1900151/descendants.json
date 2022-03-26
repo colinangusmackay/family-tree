@@ -12,7 +12,7 @@
       "Gender": "Male",
       "Relationship": "son",
       "DateOfBirth": "1806",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1923",
       "Children": [
         {
           "Id": "i7028096",
@@ -49,7 +49,7 @@
           "Gender": "Male",
           "Relationship": "son",
           "DateOfBirth": "bet' 1836 and 1841",
-          "DateOfDeath": "",
+          "DateOfDeath": "11/Jan/1923",
           "Children": [
             {
               "Id": "i20465544",

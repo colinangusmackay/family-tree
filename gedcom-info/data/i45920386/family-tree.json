@@ -42,10 +42,10 @@
     {
       "Id": "i4850940",
       "Name": "Janet MacLean",
-      "Gender": "Male",
+      "Gender": "Female",
       "DateOfBirth": "about 1839",
       "DateOfDeath": "",
-      "RelationToSubject": "brother",
+      "RelationToSubject": "sister",
       "ParentGroupIds": [
         [
           "i18316154",

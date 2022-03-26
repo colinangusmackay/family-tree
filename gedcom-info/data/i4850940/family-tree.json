@@ -2,7 +2,7 @@
   "Subject": {
     "Id": "i4850940",
     "Name": "Janet MacLean",
-    "Gender": "Male",
+    "Gender": "Female",
     "DateOfBirth": "about 1839",
     "DateOfDeath": ""
   },
@@ -42,7 +42,7 @@
     {
       "Id": "i4850940",
       "Name": "Janet MacLean",
-      "Gender": "Male",
+      "Gender": "Female",
       "DateOfBirth": "about 1839",
       "DateOfDeath": "",
       "RelationToSubject": "self",

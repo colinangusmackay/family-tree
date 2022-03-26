@@ -42,4 +42,5 @@ References |
 ## Source Referenced by
 
 * [Donald Cumming](../people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
-* [James Cumming](../people/@66384942@-james-cumming-b1836~1841-d.md) (bet' 1836 and 1841 - )
+* [James Cumming](../people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
+* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1842-d1923.md) (bet' 1840 and 1842 - before 1923)

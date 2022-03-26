@@ -28,7 +28,7 @@
               "Gender": "Male",
               "Relationship": "father",
               "DateOfBirth": "1806",
-              "DateOfDeath": "",
+              "DateOfDeath": "before 1923",
               "Parents": [
                 {
                   "Id": "i1900151",
@@ -56,7 +56,7 @@
               "Gender": "Female",
               "Relationship": "mother",
               "DateOfBirth": "1807",
-              "DateOfDeath": "",
+              "DateOfDeath": "before 1923",
               "Parents": []
             }
           ]

@@ -74,7 +74,7 @@ References | 1856 M 051/5
 ## Source Referenced by
 
 * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
-* [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d.md) (1806 - )
+* [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1923.md) (1806 - before 1923)
 * [Helen MacDonald](../people/@83660564@-helen-macdonald-b-d1856.md) ( - after 1856)
 * [Isabella Sutherland](../people/@79967653@-isabella-sutherland-b1838-d.md) (1838 - )
 * [William Sutherland](../people/@72992640@-william-sutherland-b-d1856.md) ( - after 1856)

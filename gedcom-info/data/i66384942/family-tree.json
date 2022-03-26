@@ -4,7 +4,7 @@
     "Name": "James Cumming",
     "Gender": "Male",
     "DateOfBirth": "bet' 1836 and 1841",
-    "DateOfDeath": ""
+    "DateOfDeath": "11/Jan/1923"
   },
   "Parents": [
     {
@@ -12,7 +12,7 @@
       "Name": "Donald Cumming",
       "Gender": "Male",
       "DateOfBirth": "1806",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1923",
       "RelationToSubject": "father"
     },
     {
@@ -20,7 +20,7 @@
       "Name": "Kate MacDonald",
       "Gender": "Female",
       "DateOfBirth": "1807",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1923",
       "RelationToSubject": "mother"
     }
   ],
@@ -44,7 +44,7 @@
       "Name": "James Cumming",
       "Gender": "Male",
       "DateOfBirth": "bet' 1836 and 1841",
-      "DateOfDeath": "",
+      "DateOfDeath": "11/Jan/1923",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -74,7 +74,7 @@
       "Name": "Jessie Ross",
       "Gender": "Female",
       "DateOfBirth": "bet' 1840 and 1842",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1923",
       "RelationToSubject": "wife",
       "DateOfMarriage": "21/Feb/1860",
       "DateOfDivorce": ""

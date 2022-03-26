@@ -40,6 +40,8 @@ Date | Occupation | Sources & Notes
 **1871 MACLEAN, MARY (Census 066/2 3/2)**
 
 * [Full text and notes](../sources/@94484692@-1871-maclean,-mary-census-066-2-3-2-.md)
+* Date: 1871
+* Responsible Agency: National Records Scotland
 
 ### 2
 

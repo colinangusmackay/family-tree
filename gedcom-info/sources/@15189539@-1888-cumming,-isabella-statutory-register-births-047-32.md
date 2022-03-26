@@ -43,4 +43,4 @@ References | 1888 047/32
 
 * [Donald Cumming](../people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
 * [Isabella Cumming](../people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md) (21/Jul/1888 - 1/Feb/1986)
-* [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946.md) (18/Sep/1865 - 1946)
+* [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) (18/Sep/1865 - 20/Jun/1946)
