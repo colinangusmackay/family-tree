@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i78930004",
+    "Name": "Marion Mackay",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1918"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i78930004",
+      "Name": "Marion Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1918",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i81387900",
+      "Name": "Alexander Ross",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1918",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i60546968",
+      "Name": "Jessie Ross",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 1840 and 1842",
+      "DateOfDeath": "13/Jan/1918",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i81387900",
+        "i78930004"
+      ]
+    }
+  ]
+}

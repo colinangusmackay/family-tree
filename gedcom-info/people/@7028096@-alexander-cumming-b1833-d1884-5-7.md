@@ -9,8 +9,9 @@ permalink: /people/i7028096
 
 ## Immediate Family
 
-* Father: [Donald Cumming](./@45726416@-donald-cumming-b1806-d1923.md) (1806 - before 1923)
-* Mother: [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1923.md) (1807 - before 1923)
+* Brother: [Donald Cumming](./@69575920@-donald-cumming-b-d1875.md) ( - after 1875)
+* Father: [Donald Cumming](./@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
+* Mother: [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1875-10-29.md) (about 1807 - 29/Oct/1875)
 * Brother: [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
 * Wife: [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d.md) (1838 - )
 * Brother: [Adam Cumming](./@55409960@-adam-cumming-b1841~1849-d.md) (bet' 1841 and 1849 - )
@@ -20,11 +21,14 @@ permalink: /people/i7028096
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-1833 | Born | Born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d1923.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1923.md). |  | 
-bet' 1836 and 1841 | Birth of brother | [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d1923.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1923.md). | [1](#1) | [2](#2)
-bet' 1841 and 1849 | Birth of brother | [Adam Cumming](./@55409960@-adam-cumming-b1841~1849-d.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d1923.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1923.md) in Embo, Sutherland, Scotland. | [3](#3), [4](#4), [5](#5), [6](#6) | [7](#7)
+1833 | Born | Born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d1875-10-2.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1875-10-29.md). |  | 
+bet' 1836 and 1841 | Birth of brother | [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d1875-10-2.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1875-10-29.md). | [1](#1) | [2](#2)
+bet' 1841 and 1849 | Birth of brother | [Adam Cumming](./@55409960@-adam-cumming-b1841~1849-d.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d1875-10-2.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1875-10-29.md) in Embo, Sutherland, Scotland. | [3](#3), [4](#4), [5](#5), [6](#6) | [7](#7)
 5/Dec/1856 | Marriage | Married to [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d.md)  | [8](#8) | 
 27/Feb/1865 | Birth of son | [William Cumming](./@90082380@-william-cumming-b1865-2-27-d.md) born to [Alexander Cumming](./@7028096@-alexander-cumming-b1833-d1884-5-7.md) and [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d.md). | [9](#9) | 
+after 1875 | Death of brother | [Donald Cumming](./@69575920@-donald-cumming-b-d1875.md) died. | [10](#10) | 
+2/Oct/1875 | Death of father | [Donald Cumming](./@45726416@-donald-cumming-b1806-d1875-10-2.md) died. | [10](#10), [11](#11), [12](#12) | 
+29/Oct/1875 | Death of mother | [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1875-10-29.md) died. | [10](#10), [12](#12) | 
 7/May/1884 | Died | Died. |  | 
 
 ## Known Residences
@@ -129,4 +133,33 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records Scotland
 * References: 
   * 1865 B 047/13
+
+### 10
+
+**1875 CUMMING, CATHERINE (Statutory Registers Deaths 047/45)**
+
+* [Full text and notes](../sources/@33233488@-1875-cumming,-catherine-statutory-registers-deaths-047-45-.md)
+* Date: 29/Oct/1875
+* Responsible Agency: National Records Scotland
+* References: 
+  * 1875 D 047/45
+
+### 11
+
+**1875 CUMMING, DONALD (Statutory Registers Deaths 047/42)**
+
+* [Full text and notes](../sources/@45089720@-1875-cumming,-donald-statutory-registers-deaths-047-42-.md)
+* Responsible Agency: National Records Scotland
+* References: 
+  * 1875 D 047/42
+
+### 12
+
+**1923 CUMMING, JAMES (Statutory Registers Deaths 047/1)**
+
+* [Full text and notes](../sources/@1949468@-1923-cumming,-james-statutory-registers-deaths-047-1-.md)
+* Date: 11/Jan/1923
+* Responsible Agency: National Records Scotland
+* References: 
+  * 1923 D 047/1
 

@@ -1,0 +1,87 @@
+﻿{
+  "Subject": {
+    "Id": "i69575920",
+    "Name": "Donald Cumming",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "after 1875"
+  },
+  "Parents": [
+    {
+      "Id": "i45726416",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1806",
+      "DateOfDeath": "2/Oct/1875",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i28255030",
+      "Name": "Kate MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "about 1807",
+      "DateOfDeath": "29/Oct/1875",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i69575920",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1875",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    },
+    {
+      "Id": "i7028096",
+      "Name": "Alexander Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "1833",
+      "DateOfDeath": "7/May/1884",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    },
+    {
+      "Id": "i66384942",
+      "Name": "James Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "bet' 1836 and 1841",
+      "DateOfDeath": "11/Jan/1923",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    },
+    {
+      "Id": "i55409960",
+      "Name": "Adam Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "bet' 1841 and 1849",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

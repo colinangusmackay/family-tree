@@ -41,7 +41,8 @@ permalink: /indexes/by-family-name
 - **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - )
 - **[Christine Cumming](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 - **[Christy Cumming](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
-- **[Donald Cumming](people/@45726416@-donald-cumming-b1806-d1923.md)** (1806 - before 1923)
+- **[Donald Cumming](people/@69575920@-donald-cumming-b-d1875.md)** ( - after 1875)
+- **[Donald Cumming](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
 - **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
 - **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
 - **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
@@ -67,6 +68,10 @@ permalink: /indexes/by-family-name
 ## Currie
 
 - **[Helen Currie](people/@14506844@-helen-currie-b-d1880.md)** ( - before 1880)
+
+## Davies
+
+- **[Ann Davies](people/@759904@-ann-davies-b-d1875.md)** ( - before 1875)
 
 ## Farnham
 
@@ -136,11 +141,12 @@ permalink: /indexes/by-family-name
 
 ## MacDonald
 
+- **[Alexander MacDonald](people/@47072524@-alexander-macdonald-b-d1875.md)** ( - before 1875)
 - **[Catherine MacDonald](people/@97950336@-catherine-macdonald-b-d1949.md)** ( - before 1949)
 - **[Donald MacDonald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - )
 - **[Helen MacDonald](people/@83660564@-helen-macdonald-b-d1856.md)** ( - after 1856)
 - **[Isabella MacDonald](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
-- **[Kate MacDonald](people/@28255030@-kate-macdonald-b1807-d1923.md)** (1807 - before 1923)
+- **[Kate MacDonald](people/@28255030@-kate-macdonald-b1807-d1875-10-29.md)** (about 1807 - 29/Oct/1875)
 
 ## Mackay
 
@@ -179,6 +185,7 @@ permalink: /indexes/by-family-name
 - **[Kenneth Mackay](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - )
 - **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d.md)** (23/Sep/1889 - )
 - **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
+- **[Marion Mackay](people/@78930004@-marion-mackay-b-d1918.md)** ( - before 1918)
 - **[Marion Mackay](people/@56151384@-marion-mackay-b1788-d.md)** (before 1788 - )
 - **[Mary Mackay](people/@78757487@-mary-mackay-b1840-d.md)** (before 1840 - )
 - **[Sophia Mackay](people/@52720474@-sophia-mackay-b1850-d.md)** (before 1850 - )
@@ -296,13 +303,14 @@ permalink: /indexes/by-family-name
 ## Ross
 
 - **[Alex Ross](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
+- **[Alexander Ross](people/@81387900@-alexander-ross-b-d1918.md)** ( - before 1918)
 - **[Alexander Ross](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
 - **[Ann Ross](people/@52613824@-ann-ross-b1890-11-28-d.md)** (28/Nov/1890 - )
 - **[Christina Ross](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
 - **[Hugh Alexander Ross](people/@22731476@-hugh-alexander-ross-b1896-11-17-d.md)** (17/Nov/1896 - )
 - **[Hugh Ross](people/@10594034@-hugh-ross-b-d1889.md)** ( - before 1889)
 - **[Jeanie Ross](people/@71751658@-jeanie-ross-b1907-d.md)** (1907 - )
-- **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1923.md)** (bet' 1840 and 1842 - before 1923)
+- **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918)
 - **[Johan or Janet Ross](people/@18017632@-johan-or-janet-ross-b1905-d.md)** (1905 - )
 - **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
 - **[John Ross](people/@75057664@-john-ross-b1861-d.md)** (1861 - )

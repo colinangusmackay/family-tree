@@ -55,8 +55,8 @@
               "Name": "Donald Cumming",
               "Gender": "Male",
               "Relationship": "father",
-              "DateOfBirth": "1806",
-              "DateOfDeath": "before 1923",
+              "DateOfBirth": "about 1806",
+              "DateOfDeath": "2/Oct/1875",
               "Parents": [
                 {
                   "Id": "i1900151",
@@ -83,9 +83,28 @@
               "Name": "Kate MacDonald",
               "Gender": "Female",
               "Relationship": "mother",
-              "DateOfBirth": "1807",
-              "DateOfDeath": "before 1923",
-              "Parents": []
+              "DateOfBirth": "about 1807",
+              "DateOfDeath": "29/Oct/1875",
+              "Parents": [
+                {
+                  "Id": "i47072524",
+                  "Name": "Alexander MacDonald",
+                  "Gender": "Male",
+                  "Relationship": "father",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "before 1875",
+                  "Parents": []
+                },
+                {
+                  "Id": "i759904",
+                  "Name": "Ann Davies",
+                  "Gender": "Female",
+                  "Relationship": "mother",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "before 1875",
+                  "Parents": []
+                }
+              ]
             }
           ]
         },
@@ -95,24 +114,24 @@
           "Gender": "Female",
           "Relationship": "mother",
           "DateOfBirth": "bet' 1840 and 1842",
-          "DateOfDeath": "before 1923",
+          "DateOfDeath": "13/Jan/1918",
           "Parents": [
             {
               "Id": "i81387900",
-              "Name": "X",
+              "Name": "Alexander Ross",
               "Gender": "Male",
               "Relationship": "father",
               "DateOfBirth": "",
-              "DateOfDeath": "",
+              "DateOfDeath": "before 1918",
               "Parents": []
             },
             {
               "Id": "i78930004",
-              "Name": "X",
+              "Name": "Marion Mackay",
               "Gender": "Female",
               "Relationship": "mother",
               "DateOfBirth": "",
-              "DateOfDeath": "",
+              "DateOfDeath": "before 1918",
               "Parents": []
             }
           ]

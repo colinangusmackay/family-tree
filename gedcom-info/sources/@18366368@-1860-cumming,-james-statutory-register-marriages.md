@@ -16,12 +16,58 @@ References | 1860 M 047/4
 
 ## Text
 
-_Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
+> 1860 MARRIAGES in the District of Dornoch in the County of Sutherland
+>
+> <br/>
+>
+> No. 4
+>
+> When, Where, and How Married: On the Twentyfirst day of February 1860 at Dornoch, Marriage (after banns) and solemnised between us according to the rights of the Free Church
+>
+> Signature of Parties: Signed James Cumming, his X mark; Signed Jessie Ross, her X mark; Signed William MacKay Witness; John Cumming Witness
+>
+> <br/>
+>
+> GROOM:
+>
+> Age: 19
+>
+> Residence: Embo
+>
+> Profession and Condition: Fisherman (Bachelor)
+>
+> Name, Surname and Profession of Father: Donald Cumming, Fisherman
+>
+> Name Surname and Maiden Name of Mother: Catherine Cumming, maiden name Macdonald
+>
+> <br/>
+>
+> BRIDE:
+>
+> Age: 18
+>
+> Residence:Embo
+>
+> Profession and Condition:(Spinster)
+>
+> Name, Surname and Profession of Father: Alexander Ross, Fisherman
+>
+> Name Surnbame and Maiden Name of Mother: Marion Ross, maiden name Mackay
+>
+> <br/>
+>
+> Signature of officiating minister and witnesses: George XXXX Free Church Minister, Dornoch; William Mackay, Witness; John Cumming, Witness
+>
+> <br/>
+>
+> The above marriage was registered by me at Dornoch, on the twenty second day of February, 1860, George Fowles, Registrar
+>
 
 ## Source Referenced by
 
 * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
-* [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1923.md) (1806 - before 1923)
+* [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
 * [James Cumming](../people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
-* [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1923.md) (1807 - before 1923)
-* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1842-d1923.md) (bet' 1840 and 1842 - before 1923)
+* [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1875-10-29.md) (about 1807 - 29/Oct/1875)
+* [Alexander Ross](../people/@81387900@-alexander-ross-b-d1918.md) ( - before 1918)
+* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md) (bet' 1840 and 1842 - 13/Jan/1918)

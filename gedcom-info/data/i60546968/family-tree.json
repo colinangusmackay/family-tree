@@ -4,23 +4,23 @@
     "Name": "Jessie Ross",
     "Gender": "Female",
     "DateOfBirth": "bet' 1840 and 1842",
-    "DateOfDeath": "before 1923"
+    "DateOfDeath": "13/Jan/1918"
   },
   "Parents": [
     {
       "Id": "i81387900",
-      "Name": "X",
+      "Name": "Alexander Ross",
       "Gender": "Male",
       "DateOfBirth": "",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1918",
       "RelationToSubject": "father"
     },
     {
       "Id": "i78930004",
-      "Name": "X",
+      "Name": "Marion Mackay",
       "Gender": "Female",
       "DateOfBirth": "",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1918",
       "RelationToSubject": "mother"
     }
   ],
@@ -30,7 +30,7 @@
       "Name": "Jessie Ross",
       "Gender": "Female",
       "DateOfBirth": "bet' 1840 and 1842",
-      "DateOfDeath": "before 1923",
+      "DateOfDeath": "13/Jan/1918",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [

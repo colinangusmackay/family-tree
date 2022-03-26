@@ -38,7 +38,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1860s
 
 * **1860**
-  * **21/Feb/1860** : **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1923.md)** (bet' 1840 and 1842 - before 1923) at Dornoch, Sutherland, Scotland.
+  * **21/Feb/1860** : **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918) at Dornoch, Sutherland, Scotland.
 * **1861**
   * **14/Feb/1861** : **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) and **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) at Gairloch, Ross, Scotland.
 * **1869**

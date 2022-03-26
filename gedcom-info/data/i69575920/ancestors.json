@@ -1,0 +1,66 @@
+﻿{
+  "Id": "i69575920",
+  "Name": "Donald Cumming",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "after 1875",
+  "Parents": [
+    {
+      "Id": "i45726416",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1806",
+      "DateOfDeath": "2/Oct/1875",
+      "Parents": [
+        {
+          "Id": "i1900151",
+          "Name": "Alexander Cumming",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "before 1779",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i39612304",
+          "Name": "Margaret Grant",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "before 1781",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i28255030",
+      "Name": "Kate MacDonald",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1807",
+      "DateOfDeath": "29/Oct/1875",
+      "Parents": [
+        {
+          "Id": "i47072524",
+          "Name": "Alexander MacDonald",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1875",
+          "Parents": []
+        },
+        {
+          "Id": "i759904",
+          "Name": "Ann Davies",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1875",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

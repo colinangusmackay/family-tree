@@ -3,9 +3,18 @@
   "Name": "Kate MacDonald",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "1807",
-  "DateOfDeath": "before 1923",
+  "DateOfBirth": "about 1807",
+  "DateOfDeath": "29/Oct/1875",
   "Children": [
+    {
+      "Id": "i69575920",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1875",
+      "Children": []
+    },
     {
       "Id": "i7028096",
       "Name": "Alexander Cumming",

@@ -31,9 +31,9 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
   * **[Morrison, Mary](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
 * **Born in 1806.**
-  * **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1923.md)** (1806 - before 1923)
+  * **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
 * **Born in 1807.**
-  * **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d1923.md)** (1807 - before 1923)
+  * **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d1875-10-29.md)** (about 1807 - 29/Oct/1875)
 
 ### 1810s
 
@@ -68,7 +68,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Janet or Jessie](people/@42213240@-janet-or-jessie-mackay-b1840-d.md)** (1840 - )
   * **[Mackay, Mary](people/@78757487@-mary-mackay-b1840-d.md)** (before 1840 - )
   * **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
-  * **[Ross, Jessie](people/@60546968@-jessie-ross-b1840~1842-d1923.md)** (bet' 1840 and 1842 - before 1923)
+  * **[Ross, Jessie](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918)
 * **Born in 1841.**
   * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - )
   * **[Mackay, John](people/@58430005@-john-mackay-b1841-2-18-d.md)** (18/Feb/1841 - )
@@ -334,7 +334,9 @@ permalink: /indexes/by-date-of-birth
 ## Unknown Date of Birth
 
 * [Anne Chisholm](people/@48064613@-anne-chisholm-b-d1877.md) ( - before 1877)
+* [Donald Cumming](people/@69575920@-donald-cumming-b-d1875.md) ( - after 1875)
 * [Helen Currie](people/@14506844@-helen-currie-b-d1880.md) ( - before 1880)
+* [Ann Davies](people/@759904@-ann-davies-b-d1875.md) ( - before 1875)
 * [John Fisher](people/@81248806@-john-fisher-b-d1880.md) ( - after 1880)
 * [Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md) ( - before 1939)
 * [John Gillie](people/@95851656@-john-gillie-b-d1901.md) ( - before 1901)
@@ -347,10 +349,12 @@ permalink: /indexes/by-date-of-birth
 * [Nellie Hayes](people/@5410300@-nellie-hayes-b-d2018.md) ( - before 2018)
 * [Sarah Hayes](people/@32431312@-sarah-hayes-b-d2018.md) ( - before 2018)
 * [Vernon Hayes](people/@31599970@-vernon-hayes-b-d2018.md) ( - before 2018)
+* [Alexander MacDonald](people/@47072524@-alexander-macdonald-b-d1875.md) ( - before 1875)
 * [Catherine MacDonald](people/@97950336@-catherine-macdonald-b-d1949.md) ( - before 1949)
 * [Helen MacDonald](people/@83660564@-helen-macdonald-b-d1856.md) ( - after 1856)
 * [Barbara Mackay](people/@61459684@-barbara-mackay-b-d1896.md) ( - before 1896)
 * [Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md) ( - 8/Dec/1881)
+* [Marion Mackay](people/@78930004@-marion-mackay-b-d1918.md) ( - before 1918)
 * [Hector MacLeod](people/@28404010@-hector-macleod-b-d1949.md) ( - before 1949)
 * [Hector Matheson](people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
 * [Elizabeth McIver](people/@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
@@ -358,6 +362,7 @@ permalink: /indexes/by-date-of-birth
 * [John Morrison](people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
 * [Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md) ( - before 1910)
 * [Goldie Raymond](people/@2876469@-goldie-raymond-b-d2018.md) ( - before 2018)
+* [Alexander Ross](people/@81387900@-alexander-ross-b-d1918.md) ( - before 1918)
 * [Hugh Ross](people/@10594034@-hugh-ross-b-d1889.md) ( - before 1889)
 * [William Seaton](people/@58232144@-william-seaton-b-d1880.md) ( - after 1880)
 * [William Sutherland](people/@72992640@-william-sutherland-b-d1856.md) ( - after 1856)

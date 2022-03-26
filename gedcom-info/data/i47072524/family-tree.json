@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i47072524",
+    "Name": "Alexander MacDonald",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1875"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i47072524",
+      "Name": "Alexander MacDonald",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1875",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i759904",
+      "Name": "Ann Davies",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1875",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i28255030",
+      "Name": "Kate MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "about 1807",
+      "DateOfDeath": "29/Oct/1875",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i47072524",
+        "i759904"
+      ]
+    }
+  ]
+}

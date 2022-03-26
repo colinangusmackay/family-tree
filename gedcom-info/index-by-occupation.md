@@ -106,7 +106,7 @@ permalink: /indexes/by-occupation
 
 * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841~1849-d.md)** (bet' 1841 and 1849 - ), mentioned 3 times.
 * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884), mentioned 2 times.
-* **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1923.md)** (1806 - before 1923), mentioned 2 times.
+* **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875), mentioned 2 times.
 * **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 10 times.
 * **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923), mentioned 4 times.
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
@@ -115,6 +115,7 @@ permalink: /indexes/by-occupation
 * **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901).
 * **[Gillie, John](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881), mentioned 2 times.
 * **[Lindores, William](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - ).
+* **[MacDonald, Alexander](people/@47072524@-alexander-macdonald-b-d1875.md)** ( - before 1875).
 * **[MacDonald, Donald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - ).
 * **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ).
 * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ).
@@ -127,6 +128,7 @@ permalink: /indexes/by-occupation
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ).
 * **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949).
 * **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - ).
+* **[Ross, Alexander](people/@81387900@-alexander-ross-b-d1918.md)** ( - before 1918).
 * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ), mentioned 2 times.
 * **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - ), mentioned 2 times.
 * **[Sutherland, William](people/@72992640@-william-sutherland-b-d1856.md)** ( - after 1856).
@@ -179,7 +181,7 @@ permalink: /indexes/by-occupation
 
 ## Merchant
 
-* **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923).
+* **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923), mentioned 2 times.
 * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ).
 
 ## Midwife
