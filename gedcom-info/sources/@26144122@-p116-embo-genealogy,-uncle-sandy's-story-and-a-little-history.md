@@ -32,5 +32,5 @@ _Redacted because this source is referenced by a (potentially) living person and
 * [Kenneth Mackay](../people/@48909111@-kenneth-mackay-b1895-2-2-d.md) (2/Feb/1895 - )
 * [Lucy Mackay](../people/@16587624@-lucy-mackay-b1889-9-23-d.md) (23/Sep/1889 - )
 * [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)
-* [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) (24/Feb/1900 - 1982)
+* [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)
 * [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)

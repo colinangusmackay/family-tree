@@ -3,19 +3,41 @@
     "Id": "i78930004",
     "Name": "Marion Mackay",
     "Gender": "Female",
-    "DateOfBirth": "",
-    "DateOfDeath": "before 1918"
+    "DateOfBirth": "about 1819",
+    "DateOfDeath": "30/Dec/1909"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i3089092",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "before 1803",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i45275253",
+      "Name": "Christina Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "before 1803",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i78930004",
       "Name": "Marion Mackay",
       "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "before 1918",
+      "DateOfBirth": "about 1819",
+      "DateOfDeath": "30/Dec/1909",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i3089092",
+          "i45275253"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,8 +45,8 @@
       "Id": "i81387900",
       "Name": "Alexander Ross",
       "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "before 1918",
+      "DateOfBirth": "about 1814",
+      "DateOfDeath": "20/Jan/1896",
       "RelationToSubject": "partner",
       "DateOfMarriage": "",
       "DateOfDivorce": ""

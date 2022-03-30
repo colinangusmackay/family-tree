@@ -47,4 +47,4 @@ References | BT 377/7/9475 (page 1 of 2)
 
 * [Annie Mackay](../people/@51252926@-annie-mackay-b1892-12-15-d1918.md) (15/Dec/1892 - 1918)
 * [John Paul Mackay](../people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
-* [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) (24/Feb/1900 - 1982)
+* [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)

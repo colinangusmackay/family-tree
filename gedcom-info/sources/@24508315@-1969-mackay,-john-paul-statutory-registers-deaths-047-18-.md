@@ -22,4 +22,4 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 * [John Paul Mackay](../people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
 * [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)
-* [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) (24/Feb/1900 - 1982)
+* [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)

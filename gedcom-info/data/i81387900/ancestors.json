@@ -3,7 +3,26 @@
   "Name": "Alexander Ross",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
-  "DateOfDeath": "before 1918",
-  "Parents": []
+  "DateOfBirth": "about 1814",
+  "DateOfDeath": "20/Jan/1896",
+  "Parents": [
+    {
+      "Id": "i14483646",
+      "Name": "Janet MacLeod",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "before 1798",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i39617772",
+      "Name": "William Ross",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "before 1798",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

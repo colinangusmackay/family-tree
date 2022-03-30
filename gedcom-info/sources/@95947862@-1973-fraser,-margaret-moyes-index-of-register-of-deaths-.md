@@ -32,4 +32,4 @@ References | 1973 M 182/22
 ## Source Referenced by
 
 * [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)
-* [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) (24/Feb/1900 - 1982)
+* [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)

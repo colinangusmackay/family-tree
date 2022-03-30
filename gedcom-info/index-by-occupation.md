@@ -38,7 +38,7 @@ permalink: /indexes/by-occupation
 
 ## Cement Finisher
 
-* **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982), mentioned 3 times.
+* **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982), mentioned 3 times.
 
 ## Cooper
 
@@ -128,7 +128,7 @@ permalink: /indexes/by-occupation
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ).
 * **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949).
 * **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - ).
-* **[Ross, Alexander](people/@81387900@-alexander-ross-b-d1918.md)** ( - before 1918).
+* **[Ross, Alexander](people/@81387900@-alexander-ross-b1814-d1896-1-20.md)** (about 1814 - 20/Jan/1896).
 * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ), mentioned 2 times.
 * **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - ), mentioned 2 times.
 * **[Sutherland, William](people/@72992640@-william-sutherland-b-d1856.md)** ( - after 1856).

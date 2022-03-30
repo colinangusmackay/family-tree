@@ -24,7 +24,7 @@ permalink: /people/i178005
 * Sister: [Annie Mackay](./@51252926@-annie-mackay-b1892-12-15-d1918.md) (15/Dec/1892 - 1918)
 * Brother: [Kenneth Mackay](./@48909111@-kenneth-mackay-b1895-2-2-d.md) (2/Feb/1895 - )
 * Brother: [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
-* Brother: [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982.md) (24/Feb/1900 - 1982)
+* Brother: [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)
 * Daughter: X
 
 ## Timeline

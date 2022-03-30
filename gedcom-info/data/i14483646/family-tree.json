@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i14483646",
+    "Name": "Janet MacLeod",
+    "Gender": "Female",
+    "DateOfBirth": "before 1798",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i14483646",
+      "Name": "Janet MacLeod",
+      "Gender": "Female",
+      "DateOfBirth": "before 1798",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i39617772",
+      "Name": "William Ross",
+      "Gender": "Male",
+      "DateOfBirth": "before 1798",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i81387900",
+      "Name": "Alexander Ross",
+      "Gender": "Male",
+      "DateOfBirth": "about 1814",
+      "DateOfDeath": "20/Jan/1896",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i39617772",
+        "i14483646"
+      ]
+    }
+  ]
+}

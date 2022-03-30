@@ -21,12 +21,21 @@ permalink: /indexes/by-date-of-birth
   * **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
   * **[Mackay, Marion](people/@56151384@-marion-mackay-b1788-d.md)** (before 1788 - )
 
+### 1790s
+
+* **Born in 1798.**
+  * **[MacLeod, Janet](people/@14483646@-janet-macleod-b1798-d.md)** (before 1798 - )
+  * **[Ross, William](people/@39617772@-william-ross-b1798-d.md)** (before 1798 - )
+
 ## 19th Century
 
 ### 1800s
 
 * **Born in 1800.**
   * **[Fraser, Kenneth](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
+* **Born in 1803.**
+  * **[Fraser, Christina](people/@45275253@-christina-fraser-b1803-d.md)** (before 1803 - )
+  * **[Mackay, Alexander](people/@3089092@-alexander-mackay-b1803-d.md)** (before 1803 - )
 * **Born in 1805.**
   * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
   * **[Morrison, Mary](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
@@ -39,8 +48,12 @@ permalink: /indexes/by-date-of-birth
 
 * **Born in 1813.**
   * **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
+* **Born in 1814.**
+  * **[Ross, Alexander](people/@81387900@-alexander-ross-b1814-d1896-1-20.md)** (about 1814 - 20/Jan/1896)
 * **Born in 1815.**
   * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - )
+* **Born in 1819.**
+  * **[Mackay, Marion](people/@78930004@-marion-mackay-b1819-d1909-12-30.md)** (about 1819 - 30/Dec/1909)
 
 ### 1820s
 
@@ -225,7 +238,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1900.**
   * **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
   * **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - )
-  * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
+  * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
   * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981)
   * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
   * **[Ross, Peter](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
@@ -354,7 +367,6 @@ permalink: /indexes/by-date-of-birth
 * [Helen MacDonald](people/@83660564@-helen-macdonald-b-d1856.md) ( - after 1856)
 * [Barbara Mackay](people/@61459684@-barbara-mackay-b-d1896.md) ( - before 1896)
 * [Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md) ( - 8/Dec/1881)
-* [Marion Mackay](people/@78930004@-marion-mackay-b-d1918.md) ( - before 1918)
 * [Hector MacLeod](people/@28404010@-hector-macleod-b-d1949.md) ( - before 1949)
 * [Hector Matheson](people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
 * [Elizabeth McIver](people/@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
@@ -362,7 +374,6 @@ permalink: /indexes/by-date-of-birth
 * [John Morrison](people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
 * [Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md) ( - before 1910)
 * [Goldie Raymond](people/@2876469@-goldie-raymond-b-d2018.md) ( - before 2018)
-* [Alexander Ross](people/@81387900@-alexander-ross-b-d1918.md) ( - before 1918)
 * [Hugh Ross](people/@10594034@-hugh-ross-b-d1889.md) ( - before 1889)
 * [William Seaton](people/@58232144@-william-seaton-b-d1880.md) ( - after 1880)
 * [William Sutherland](people/@72992640@-william-sutherland-b-d1856.md) ( - after 1856)

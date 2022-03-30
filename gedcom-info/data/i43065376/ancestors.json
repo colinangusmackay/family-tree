@@ -12,7 +12,7 @@
       "Gender": "Male",
       "Relationship": "father",
       "DateOfBirth": "24/Feb/1900",
-      "DateOfDeath": "1982",
+      "DateOfDeath": "24/Sep/1982",
       "Parents": [
         {
           "Id": "i32797554",
@@ -205,18 +205,56 @@
                   "Name": "Alexander Ross",
                   "Gender": "Male",
                   "Relationship": "father",
-                  "DateOfBirth": "",
-                  "DateOfDeath": "before 1918",
-                  "Parents": []
+                  "DateOfBirth": "about 1814",
+                  "DateOfDeath": "20/Jan/1896",
+                  "Parents": [
+                    {
+                      "Id": "i14483646",
+                      "Name": "Janet MacLeod",
+                      "Gender": "Female",
+                      "Relationship": "mother",
+                      "DateOfBirth": "before 1798",
+                      "DateOfDeath": "",
+                      "Parents": []
+                    },
+                    {
+                      "Id": "i39617772",
+                      "Name": "William Ross",
+                      "Gender": "Male",
+                      "Relationship": "father",
+                      "DateOfBirth": "before 1798",
+                      "DateOfDeath": "",
+                      "Parents": []
+                    }
+                  ]
                 },
                 {
                   "Id": "i78930004",
                   "Name": "Marion Mackay",
                   "Gender": "Female",
                   "Relationship": "mother",
-                  "DateOfBirth": "",
-                  "DateOfDeath": "before 1918",
-                  "Parents": []
+                  "DateOfBirth": "about 1819",
+                  "DateOfDeath": "30/Dec/1909",
+                  "Parents": [
+                    {
+                      "Id": "i3089092",
+                      "Name": "Alexander Mackay",
+                      "Gender": "Male",
+                      "Relationship": "father",
+                      "DateOfBirth": "before 1803",
+                      "DateOfDeath": "",
+                      "Parents": []
+                    },
+                    {
+                      "Id": "i45275253",
+                      "Name": "Christina Fraser",
+                      "Gender": "Female",
+                      "Relationship": "mother",
+                      "DateOfBirth": "before 1803",
+                      "DateOfDeath": "",
+                      "Parents": []
+                    }
+                  ]
                 }
               ]
             }

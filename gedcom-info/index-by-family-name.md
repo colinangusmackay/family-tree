@@ -88,6 +88,7 @@ permalink: /indexes/by-family-name
 - **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
 - **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - )
 - **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
+- **[Christina Fraser](people/@45275253@-christina-fraser-b1803-d.md)** (before 1803 - )
 - **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
 - **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
 - **[Thomas Fraser](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
@@ -150,6 +151,7 @@ permalink: /indexes/by-family-name
 
 ## Mackay
 
+- **[Alexander Mackay](people/@3089092@-alexander-mackay-b1803-d.md)** (before 1803 - )
 - **[Alexander Mackay](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - )
 - **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
 - **[Alexander Mackay](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - )
@@ -185,11 +187,11 @@ permalink: /indexes/by-family-name
 - **[Kenneth Mackay](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - )
 - **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d.md)** (23/Sep/1889 - )
 - **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
-- **[Marion Mackay](people/@78930004@-marion-mackay-b-d1918.md)** ( - before 1918)
 - **[Marion Mackay](people/@56151384@-marion-mackay-b1788-d.md)** (before 1788 - )
+- **[Marion Mackay](people/@78930004@-marion-mackay-b1819-d1909-12-30.md)** (about 1819 - 30/Dec/1909)
 - **[Mary Mackay](people/@78757487@-mary-mackay-b1840-d.md)** (before 1840 - )
 - **[Sophia Mackay](people/@52720474@-sophia-mackay-b1850-d.md)** (before 1850 - )
-- **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982)
+- **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
 - **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
 - **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
 
@@ -200,6 +202,7 @@ permalink: /indexes/by-family-name
 ## MacLeod
 
 - **[Hector MacLeod](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949)
+- **[Janet MacLeod](people/@14483646@-janet-macleod-b1798-d.md)** (before 1798 - )
 - **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
 
 ## Macrae
@@ -303,7 +306,7 @@ permalink: /indexes/by-family-name
 ## Ross
 
 - **[Alex Ross](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
-- **[Alexander Ross](people/@81387900@-alexander-ross-b-d1918.md)** ( - before 1918)
+- **[Alexander Ross](people/@81387900@-alexander-ross-b1814-d1896-1-20.md)** (about 1814 - 20/Jan/1896)
 - **[Alexander Ross](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
 - **[Ann Ross](people/@52613824@-ann-ross-b1890-11-28-d.md)** (28/Nov/1890 - )
 - **[Christina Ross](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
@@ -317,6 +320,7 @@ permalink: /indexes/by-family-name
 - **[John Ross](people/@35298145@-john-ross-b1899-d.md)** (1899 - )
 - **[Peter Ross](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
 - **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - )
+- **[William Ross](people/@39617772@-william-ross-b1798-d.md)** (before 1798 - )
 - **[William Ross](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
 - **[Williamina Ross](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - )
 

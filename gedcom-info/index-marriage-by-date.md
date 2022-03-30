@@ -125,7 +125,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1930s
 
 * **1930**
-  * **21/Mar/1930** : **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981) at Toronto, York, Ontario, Canada.
+  * **21/Mar/1930** : **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981) at Toronto, York, Ontario, Canada.
 * **1934**
   * **9/Feb/1934** : **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - ) and X at Dornoch, Sutherland, Scotland.
   * **2/Mar/1934** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) at Dornoch, Sutherland, Scotland.

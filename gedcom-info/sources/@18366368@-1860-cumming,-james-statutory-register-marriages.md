@@ -69,5 +69,6 @@ References | 1860 M 047/4
 * [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
 * [James Cumming](../people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
 * [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1875-10-29.md) (about 1807 - 29/Oct/1875)
-* [Alexander Ross](../people/@81387900@-alexander-ross-b-d1918.md) ( - before 1918)
+* [Marion Mackay](../people/@78930004@-marion-mackay-b1819-d1909-12-30.md) (about 1819 - 30/Dec/1909)
+* [Alexander Ross](../people/@81387900@-alexander-ross-b1814-d1896-1-20.md) (about 1814 - 20/Jan/1896)
 * [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md) (bet' 1840 and 1842 - 13/Jan/1918)

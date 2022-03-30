@@ -35,7 +35,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) and **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967) **on 12th of April 1918** at Middlesborough, England.
   * **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ) **on 22nd of January 1901**.
   * **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954) and **[John Ross](people/@75057664@-john-ross-b1861-d.md)** (1861 - ) **on 19th of November 1889** at Dornoch, Sutherland, Scotland.
-  * **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981) and **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982) **on 21st of March 1930** at Toronto, York, Ontario, Canada.
+  * **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981) and **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982) **on 21st of March 1930** at Toronto, York, Ontario, Canada.
   * **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - ) and **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - ) **on 19th of February 1895** at Dornoch, Sutherland, Scotland.
   * **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ) and **[May Miller](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - ) **on 2nd of January 1900**.
 
@@ -123,7 +123,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) and **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) **on 2nd of March 1934** at Dornoch, Sutherland, Scotland.
   * **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841) and **[Janet Macrae](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - ).
   * **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ) and **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - ) **on 7th of November 1876** at Dornoch, Sutherland, Scotland.
-  * **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982.md)** (24/Feb/1900 - 1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981) **on 21st of March 1930** at Toronto, York, Ontario, Canada.
+  * **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981) **on 21st of March 1930** at Toronto, York, Ontario, Canada.
 
 ## MacLeod
 

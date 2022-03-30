@@ -3,19 +3,41 @@
     "Id": "i81387900",
     "Name": "Alexander Ross",
     "Gender": "Male",
-    "DateOfBirth": "",
-    "DateOfDeath": "before 1918"
+    "DateOfBirth": "about 1814",
+    "DateOfDeath": "20/Jan/1896"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i39617772",
+      "Name": "William Ross",
+      "Gender": "Male",
+      "DateOfBirth": "before 1798",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i14483646",
+      "Name": "Janet MacLeod",
+      "Gender": "Female",
+      "DateOfBirth": "before 1798",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i81387900",
       "Name": "Alexander Ross",
       "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "before 1918",
+      "DateOfBirth": "about 1814",
+      "DateOfDeath": "20/Jan/1896",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i14483646",
+          "i39617772"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,8 +45,8 @@
       "Id": "i78930004",
       "Name": "Marion Mackay",
       "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "before 1918",
+      "DateOfBirth": "about 1819",
+      "DateOfDeath": "30/Dec/1909",
       "RelationToSubject": "partner",
       "DateOfMarriage": "",
       "DateOfDivorce": ""
