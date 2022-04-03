@@ -12,11 +12,11 @@ Originator / Author |
 Date | 
 Responsible Agency | National Records Scotland
 Filed by Entry | 
-References | 
+References | 1946 D 
 
 ## Text
 
-> 1946 DEATHS in the District of Dornoch inthe County of Suthrland
+> 1946 DEATHS in the District of Dornoch in the County of Sutherland
 >
 > <br/>
 >
@@ -24,7 +24,7 @@ References |
 >
 > <br/>
 >
-> Name and Surname: Ann Mackay
+> Name and Surname: Ann Cumming
 >
 > Condition: Widow of Donald Cumming, Fisherman
 >

@@ -1,14 +1,14 @@
 ﻿{
   "Subject": {
-    "Id": "i91293396",
-    "Name": "Alexander Fraser",
-    "Gender": "Male",
-    "DateOfBirth": "31/Aug/1898",
-    "DateOfDeath": "17/Feb/1966"
+    "Id": "i81075921",
+    "Name": "Jean Grant",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "after 1966"
   },
   "Parents": [
     {
-      "Id": "i69725432",
+      "Id": "i31066628",
       "Name": "X",
       "Gender": "Male",
       "DateOfBirth": "",
@@ -16,7 +16,7 @@
       "RelationToSubject": "father"
     },
     {
-      "Id": "i33561724",
+      "Id": "i503334",
       "Name": "X",
       "Gender": "Female",
       "DateOfBirth": "",
@@ -26,28 +26,28 @@
   ],
   "Siblings": [
     {
-      "Id": "i91293396",
-      "Name": "Alexander Fraser",
-      "Gender": "Male",
-      "DateOfBirth": "31/Aug/1898",
-      "DateOfDeath": "17/Feb/1966",
+      "Id": "i81075921",
+      "Name": "Jean Grant",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1966",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
-          "i33561724",
-          "i69725432"
+          "i31066628",
+          "i503334"
         ]
       ]
     }
   ],
   "Spouses": [
     {
-      "Id": "i81075921",
-      "Name": "Jean Grant",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "after 1966",
-      "RelationToSubject": "wife",
+      "Id": "i91293396",
+      "Name": "Alexander Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "31/Aug/1898",
+      "DateOfDeath": "17/Feb/1966",
+      "RelationToSubject": "husband",
       "DateOfMarriage": "9/Feb/1934",
       "DateOfDivorce": ""
     }

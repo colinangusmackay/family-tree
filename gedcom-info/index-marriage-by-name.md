@@ -47,7 +47,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Fraser
 
   * **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ) and **[Isabella Mackay](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - ) **on 16th of October 1857** at Dornoch, Sutherland, Scotland.
-  * **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - ) and X **on 9th of February 1934** at Dornoch, Sutherland, Scotland.
+  * **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966) and **[Jean Grant](people/@81075921@-jean-grant-b-d1966.md)** ( - after 1966) **on 9th of February 1934** at Dornoch, Sutherland, Scotland.
   * **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946) and **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940) **on 25th of October 1887** at Dornoch, Sutherland, Scotland.
   * **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883) and **[Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881) **on 24th of November 1820** at Embo, Sutherland, Scotland.
   * **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) **on 16th of January 1912** at Dornoch, Sutherland, Scotland.
@@ -73,6 +73,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - ) and **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ) **on 7th of November 1876** at Dornoch, Sutherland, Scotland.
   * **[Christy Grant](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - ) and **[Alexander Mackay](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ) **on 21st of November 1877** at Dornoch, Sutherland, Scotland.
+  * **[Jean Grant](people/@81075921@-jean-grant-b-d1966.md)** ( - after 1966) and **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966) **on 9th of February 1934** at Dornoch, Sutherland, Scotland.
   * **[Margaret Grant](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - ) and **[Alexander Cumming](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - ) **on 22nd of February 1793**.
 
 ## Hatelie

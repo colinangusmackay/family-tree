@@ -28,13 +28,19 @@ References | 1865 B 047/44
 >
 > Sex: F
 >
+> <br/>
+>
 > Name, Surname and Profession of Father: Alexander Fraser; Fisherman
 >
 > Name and Maiden Surname of Mother: Isabella Fraser M.S. Mackay
 >
 > Date and Place of Marriage: 1857, October 16th; Dornoch
 >
+> <br/>
+>
 > Signature and Qualification of Informant: Alexander Fraser, his X mark (Present). Charles Neill, Registrar, Witness
+>
+> <br/>
 >
 > When and Where Registered: 1865 September 23rd at Dornoch
 >

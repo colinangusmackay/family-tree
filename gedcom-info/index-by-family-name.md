@@ -86,7 +86,7 @@ permalink: /indexes/by-family-name
 ## Fraser
 
 - **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
-- **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - )
+- **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966)
 - **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
 - **[Christina Fraser](people/@45275253@-christina-fraser-b1803-d.md)** (before 1803 - )
 - **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
@@ -116,6 +116,7 @@ permalink: /indexes/by-family-name
 
 - **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
 - **[Christy Grant](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
+- **[Jean Grant](people/@81075921@-jean-grant-b-d1966.md)** ( - after 1966)
 - **[Margaret Grant](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
 
 ## Hatelie

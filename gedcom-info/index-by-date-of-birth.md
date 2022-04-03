@@ -226,7 +226,7 @@ permalink: /indexes/by-date-of-birth
   * **[Thomson, Agnes](people/@96590245@-agnes-thomson-b1897-d.md)** (before 1897 - )
 * **Born in 1898.**
   * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
-  * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d.md)** (31/Aug/1898 - )
+  * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966)
 * **Born in 1899.**
   * **[Ross, John](people/@35298145@-john-ross-b1899-d.md)** (1899 - )
   * **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969)
@@ -353,6 +353,7 @@ permalink: /indexes/by-date-of-birth
 * [John Fisher](people/@81248806@-john-fisher-b-d1880.md) ( - after 1880)
 * [Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md) ( - before 1939)
 * [John Gillie](people/@95851656@-john-gillie-b-d1901.md) ( - before 1901)
+* [Jean Grant](people/@81075921@-jean-grant-b-d1966.md) ( - after 1966)
 * [Ada Hayes](people/@80079834@-ada-hayes-b-d2018.md) ( - before 2018)
 * [Claude Hayes](people/@99088640@-claude-hayes-b-d2018.md) ( - before 2018)
 * [Lena Hayes](people/@80081989@-lena-hayes-b-d2018.md) ( - before 2018)

@@ -44,6 +44,10 @@ permalink: /indexes/by-occupation
 
 * **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ).
 
+## County Roadman
+
+* **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966).
+
 ## Crane Driver
 
 * **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ).
@@ -132,6 +136,10 @@ permalink: /indexes/by-occupation
 * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ), mentioned 2 times.
 * **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - ), mentioned 2 times.
 * **[Sutherland, William](people/@72992640@-william-sutherland-b-d1856.md)** ( - after 1856).
+
+## Fisherwoman
+
+* **[Ross, Jessie](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918).
 
 ## Fishwife
 

@@ -9,10 +9,10 @@ Field | Detail
 ---:|:---
 Publication | 
 Originator / Author | 
-Date | 
+Date | 25/Mar/1861
 Responsible Agency | National Records of Scotland
 Filed by Entry | 
-References | 
+References | 1871 B 047/19
 
 ## Text
 
