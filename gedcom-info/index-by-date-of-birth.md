@@ -150,11 +150,15 @@ permalink: /indexes/by-date-of-birth
   * **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
 * **Born in 1868.**
   * **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - )
+* **Born in 1869.**
+  * **[Fraser, Thomas](people/@69725432@-thomas-fraser-b1869-8-12-d.md)** (12/Aug/1869 - )
 
 ### 1870s
 
 * **Born in 1870.**
   * **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
+* **Born in 1872.**
+  * **[Mackay, Jane](people/@33561724@-jane-mackay-b1872-d.md)** (about 1872 - )
 * **Born in 1873.**
   * **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
 * **Born in 1876.**

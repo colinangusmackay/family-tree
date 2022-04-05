@@ -82,6 +82,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1895**
   * **19/Feb/1895** : **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - ) and **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - ) at Dornoch, Sutherland, Scotland.
 * **1897**
+  * **19/Jan/1897** : **[Thomas Fraser](people/@69725432@-thomas-fraser-b1869-8-12-d.md)** (12/Aug/1869 - ) and **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d.md)** (about 1872 - ) at Dornoch, Sutherland, Scotland.
   * **16/Jun/1897** : **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939) and X at Golspie, Sutherland, Scotland.
 
 ## 20th Century

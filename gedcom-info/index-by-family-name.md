@@ -92,6 +92,7 @@ permalink: /indexes/by-family-name
 - **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
 - **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
 - **[Thomas Fraser](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
+- **[Thomas Fraser](people/@69725432@-thomas-fraser-b1869-8-12-d.md)** (12/Aug/1869 - )
 
 ## Gardiner
 
@@ -176,6 +177,7 @@ permalink: /indexes/by-family-name
 - **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - )
 - **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019)
 - **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - )
+- **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d.md)** (about 1872 - )
 - **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - )
 - **[Janet Mackay](people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md)** (12/Nov/1890 - 15/May/1891)
 - **[Janet or Jessie Mackay](people/@42213240@-janet-or-jessie-mackay-b1840-d.md)** (1840 - )

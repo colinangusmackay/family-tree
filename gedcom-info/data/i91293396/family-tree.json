@@ -9,17 +9,17 @@
   "Parents": [
     {
       "Id": "i69725432",
-      "Name": "X",
+      "Name": "Thomas Fraser",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "12/Aug/1869",
       "DateOfDeath": "",
       "RelationToSubject": "father"
     },
     {
       "Id": "i33561724",
-      "Name": "X",
+      "Name": "Jane Mackay",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1872",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     }

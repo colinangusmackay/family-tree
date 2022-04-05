@@ -52,6 +52,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883) and **[Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881) **on 24th of November 1820** at Embo, Sutherland, Scotland.
   * **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) **on 16th of January 1912** at Dornoch, Sutherland, Scotland.
   * **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) **on 2nd of March 1934** at Dornoch, Sutherland, Scotland.
+  * **[Thomas Fraser](people/@69725432@-thomas-fraser-b1869-8-12-d.md)** (12/Aug/1869 - ) and **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d.md)** (about 1872 - ) **on 19th of January 1897** at Dornoch, Sutherland, Scotland.
 
 ## Gardiner
 
@@ -113,6 +114,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - ) and **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - ) **on 23rd of October 1888** at Dornoch, Sutherland, Scotland.
   * **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019) and X **in 1962** at Glasgow, Scotland.
   * **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - ) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - ) **on 23rd of October 1888** at Dornoch, Sutherland, Scotland.
+  * **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d.md)** (about 1872 - ) and **[Thomas Fraser](people/@69725432@-thomas-fraser-b1869-8-12-d.md)** (12/Aug/1869 - ) **on 19th of January 1897** at Dornoch, Sutherland, Scotland.
   * **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - ) and **[John Mackay](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ) **on 24th of March 1892** at Embo, Sutherland, Scotland.
   * **[Janet or Jessie Mackay](people/@42213240@-janet-or-jessie-mackay-b1840-d.md)** (1840 - ) and X **on 13th of November 1877**.
   * **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) and **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) **on 16th of January 1912** at Dornoch, Sutherland, Scotland.

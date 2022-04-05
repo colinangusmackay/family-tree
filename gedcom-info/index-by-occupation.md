@@ -115,6 +115,7 @@ permalink: /indexes/by-occupation
 * **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923), mentioned 4 times.
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
+* **[Fraser, Thomas](people/@69725432@-thomas-fraser-b1869-8-12-d.md)** (12/Aug/1869 - ), mentioned 2 times.
 * **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ), mentioned 2 times.
 * **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901).
 * **[Gillie, John](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881), mentioned 2 times.

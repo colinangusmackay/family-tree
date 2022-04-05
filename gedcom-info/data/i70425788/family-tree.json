@@ -38,6 +38,20 @@
           "i97086424"
         ]
       ]
+    },
+    {
+      "Id": "i69725432",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "12/Aug/1869",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i41556256",
+          "i97086424"
+        ]
+      ]
     }
   ],
   "Spouses": [

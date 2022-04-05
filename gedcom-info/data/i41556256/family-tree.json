@@ -64,6 +64,18 @@
         "i97086424",
         "i41556256"
       ]
+    },
+    {
+      "Id": "i69725432",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "12/Aug/1869",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i97086424",
+        "i41556256"
+      ]
     }
   ]
 }
