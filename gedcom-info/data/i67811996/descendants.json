@@ -131,7 +131,7 @@
       "Gender": "Male",
       "Relationship": "son",
       "DateOfBirth": "12/Apr/1861",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1919",
       "Children": [
         {
           "Id": "i16587624",
@@ -139,8 +139,18 @@
           "Gender": "Female",
           "Relationship": "daughter",
           "DateOfBirth": "23/Sep/1889",
-          "DateOfDeath": "",
-          "Children": []
+          "DateOfDeath": "15/May/1970",
+          "Children": [
+            {
+              "Id": "i52754046",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
         },
         {
           "Id": "i72941728",

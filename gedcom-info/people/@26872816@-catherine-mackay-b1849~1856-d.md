@@ -26,7 +26,7 @@ permalink: /people/i26872816
 * Brother: [Donald Mackay](./@32633938@-donald-mackay-b1855-d.md) (about 1855 - )
 * Sister: [Ann Mackay](./@74868546@-ann-mackay-b1855-11-5-d.md) (5/Nov/1855 - )
 * Sister: [Jane or Jean Mackay](./@4172390@-jane-or-jean-mackay-b1859~1863-d.md) (bet' 1859 and 1863 - )
-* Brother: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
+* Brother: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) (12/Apr/1861 - before 1919)
 
 ## Timeline
 

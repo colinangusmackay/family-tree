@@ -52,4 +52,4 @@ References | 1869 B 047/44
 ## Source Referenced by
 
 * [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) (18/Sep/1865 - 20/Jun/1946)
-* [Thomas Fraser](../people/@69725432@-thomas-fraser-b1869-8-12-d.md) (12/Aug/1869 - )
+* [Thomas Fraser](../people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md) (12/Aug/1869 - 20/Apr/1932)

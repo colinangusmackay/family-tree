@@ -10,8 +10,8 @@ permalink: /people/i68658880
 ## Names
 
 * Annie McLean
-* McIver (married name)
-* Ann (variation)
+* Ann McIver (married name)
+* Ann McLean (variation)
 
 ## Immediate Family
 

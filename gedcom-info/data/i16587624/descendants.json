@@ -4,6 +4,16 @@
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "23/Sep/1889",
-  "DateOfDeath": "",
-  "Children": []
+  "DateOfDeath": "15/May/1970",
+  "Children": [
+    {
+      "Id": "i52754046",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
 }

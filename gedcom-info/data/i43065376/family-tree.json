@@ -20,7 +20,7 @@
       "Name": "Mary Ann Cumming",
       "Gender": "Female",
       "DateOfBirth": "26/Jul/1900",
-      "DateOfDeath": "7/Oct/1981",
+      "DateOfDeath": "8/Oct/1981",
       "RelationToSubject": "mother"
     }
   ],
@@ -129,7 +129,7 @@
       "Id": "i28456848",
       "Name": "X",
       "Gender": "Female",
-      "DateOfBirth": "1937",
+      "DateOfBirth": "28/Aug/1937",
       "DateOfDeath": "",
       "RelationToSubject": "wife",
       "DateOfMarriage": "",

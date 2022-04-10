@@ -18,7 +18,7 @@ permalink: /people/i41556256
 * Mother: X
 * Husband: [Alexander Fraser](./@97086424@-alexander-fraser-b1833-12-5-d.md) (5/Dec/1833 - )
 * Daughter: [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) (18/Sep/1865 - 20/Jun/1946)
-* Son: [Thomas Fraser](./@69725432@-thomas-fraser-b1869-8-12-d.md) (12/Aug/1869 - )
+* Son: [Thomas Fraser](./@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md) (12/Aug/1869 - 20/Apr/1932)
 
 ## Timeline
 

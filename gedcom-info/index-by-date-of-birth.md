@@ -109,7 +109,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1854.**
   * **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
 * **Born in 1855.**
-  * **[, Betsy](people/@49855242@-betsy-b1855~1856-d.md)** (bet' 1855 and 1856 - )
+  * **[Mackay, Betsy](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - )
   * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
   * **[Mackay, Ann](people/@74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - )
 * **Born in 1856.**
@@ -126,12 +126,12 @@ permalink: /indexes/by-date-of-birth
 ### 1860s
 
 * **Born in 1860.**
-  * **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d.md)** (7/Aug/1860 - )
+  * **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1919.md)** (7/Aug/1860 - after 1919)
 * **Born in 1861.**
   * **[MacLeod, Matilda](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
   * **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - )
   * **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
-  * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d.md)** (12/Apr/1861 - )
+  * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1919.md)** (12/Apr/1861 - before 1919)
 * **Born in 1863.**
   * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
   * **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
@@ -151,7 +151,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1868.**
   * **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - )
 * **Born in 1869.**
-  * **[Fraser, Thomas](people/@69725432@-thomas-fraser-b1869-8-12-d.md)** (12/Aug/1869 - )
+  * **[Fraser, Thomas](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932)
 
 ### 1870s
 
@@ -197,7 +197,7 @@ permalink: /indexes/by-date-of-birth
   * **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - )
   * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986)
 * **Born in 1889.**
-  * **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d.md)** (23/Sep/1889 - )
+  * **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970)
   * **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
 
 ### 1890s
@@ -243,13 +243,14 @@ permalink: /indexes/by-date-of-birth
   * **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
   * **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - )
   * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
-  * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-7.md)** (26/Jul/1900 - 7/Oct/1981)
+  * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
   * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
   * **[Ross, Peter](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
 * **Born in 1901.**
   * **[Stead, Albert](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
   * **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
 * **Born in 1902.**
+  * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
   * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
 * **Born in 1903.**
   * **[Cumming, Donald](people/@64759184@-donald-cumming-b1903-5-4-d.md)** (4/May/1903 - )
@@ -357,7 +358,6 @@ permalink: /indexes/by-date-of-birth
 * [John Fisher](people/@81248806@-john-fisher-b-d1880.md) ( - after 1880)
 * [Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md) ( - before 1939)
 * [John Gillie](people/@95851656@-john-gillie-b-d1901.md) ( - before 1901)
-* [Jean Grant](people/@81075921@-jean-grant-b-d1966.md) ( - after 1966)
 * [Ada Hayes](people/@80079834@-ada-hayes-b-d2018.md) ( - before 2018)
 * [Claude Hayes](people/@99088640@-claude-hayes-b-d2018.md) ( - before 2018)
 * [Lena Hayes](people/@80081989@-lena-hayes-b-d2018.md) ( - before 2018)

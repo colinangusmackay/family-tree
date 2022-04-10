@@ -1,7 +1,7 @@
 ﻿{
   "Subject": {
     "Id": "i49855242",
-    "Name": "Betsy",
+    "Name": "Betsy Mackay",
     "Gender": "Female",
     "DateOfBirth": "bet' 1855 and 1856",
     "DateOfDeath": ""
@@ -27,7 +27,7 @@
   "Siblings": [
     {
       "Id": "i49855242",
-      "Name": "Betsy",
+      "Name": "Betsy Mackay",
       "Gender": "Female",
       "DateOfBirth": "bet' 1855 and 1856",
       "DateOfDeath": "",

@@ -3,8 +3,8 @@
     "Id": "i81075921",
     "Name": "Jean Grant",
     "Gender": "Female",
-    "DateOfBirth": "",
-    "DateOfDeath": "after 1966"
+    "DateOfBirth": "30/Jun/1902",
+    "DateOfDeath": "31/Oct/1971"
   },
   "Parents": [
     {
@@ -29,8 +29,8 @@
       "Id": "i81075921",
       "Name": "Jean Grant",
       "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "after 1966",
+      "DateOfBirth": "30/Jun/1902",
+      "DateOfDeath": "31/Oct/1971",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -69,7 +69,7 @@
       "Id": "i28456848",
       "Name": "X",
       "Gender": "Female",
-      "DateOfBirth": "1937",
+      "DateOfBirth": "28/Aug/1937",
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
       "ParentIds": [

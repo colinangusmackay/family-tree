@@ -4,7 +4,7 @@
     "Name": "James Mackay",
     "Gender": "Male",
     "DateOfBirth": "12/Apr/1861",
-    "DateOfDeath": ""
+    "DateOfDeath": "before 1919"
   },
   "Parents": [
     {
@@ -170,7 +170,7 @@
       "Name": "James Mackay",
       "Gender": "Male",
       "DateOfBirth": "12/Apr/1861",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1919",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -186,7 +186,7 @@
       "Name": "Isabella Mackay",
       "Gender": "Female",
       "DateOfBirth": "7/Aug/1860",
-      "DateOfDeath": "",
+      "DateOfDeath": "after 1919",
       "RelationToSubject": "wife",
       "DateOfMarriage": "23/Oct/1888",
       "DateOfDivorce": ""
@@ -198,7 +198,7 @@
       "Name": "Lucy Mackay",
       "Gender": "Female",
       "DateOfBirth": "23/Sep/1889",
-      "DateOfDeath": "",
+      "DateOfDeath": "15/May/1970",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i60572122",

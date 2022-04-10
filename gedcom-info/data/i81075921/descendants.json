@@ -3,8 +3,8 @@
   "Name": "Jean Grant",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "",
-  "DateOfDeath": "after 1966",
+  "DateOfBirth": "30/Jun/1902",
+  "DateOfDeath": "31/Oct/1971",
   "Children": [
     {
       "Id": "i35053528",
@@ -20,7 +20,7 @@
       "Name": "X",
       "Gender": "Female",
       "Relationship": "daughter",
-      "DateOfBirth": "1937",
+      "DateOfBirth": "28/Aug/1937",
       "DateOfDeath": "",
       "Children": [
         {

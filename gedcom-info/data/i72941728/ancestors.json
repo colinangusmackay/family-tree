@@ -12,7 +12,7 @@
       "Gender": "Female",
       "Relationship": "mother",
       "DateOfBirth": "7/Aug/1860",
-      "DateOfDeath": "",
+      "DateOfDeath": "after 1919",
       "Parents": [
         {
           "Id": "i20237816",
@@ -40,7 +40,7 @@
       "Gender": "Male",
       "Relationship": "father",
       "DateOfBirth": "12/Apr/1861",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1919",
       "Parents": [
         {
           "Id": "i33764614",

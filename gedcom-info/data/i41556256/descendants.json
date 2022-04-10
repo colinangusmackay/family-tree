@@ -121,7 +121,7 @@
           "Gender": "Female",
           "Relationship": "daughter",
           "DateOfBirth": "26/Jul/1900",
-          "DateOfDeath": "7/Oct/1981",
+          "DateOfDeath": "8/Oct/1981",
           "Children": [
             {
               "Id": "i43065376",
@@ -609,7 +609,7 @@
       "Gender": "Male",
       "Relationship": "son",
       "DateOfBirth": "12/Aug/1869",
-      "DateOfDeath": "",
+      "DateOfDeath": "20/Apr/1932",
       "Children": [
         {
           "Id": "i91293396",
@@ -633,7 +633,7 @@
               "Name": "X",
               "Gender": "Female",
               "Relationship": "daughter",
-              "DateOfBirth": "1937",
+              "DateOfBirth": "28/Aug/1937",
               "DateOfDeath": "",
               "Children": [
                 {

@@ -20,4 +20,4 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d.md) (7/Aug/1860 - )
+* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1919.md) (7/Aug/1860 - after 1919)

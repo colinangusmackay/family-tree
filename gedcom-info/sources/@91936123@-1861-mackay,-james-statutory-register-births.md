@@ -44,5 +44,5 @@ References | 1861 B 047/25
 ## Source Referenced by
 
 * [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
-* [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d.md) (12/Apr/1861 - )
+* [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1919.md) (12/Apr/1861 - before 1919)
 * [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)
