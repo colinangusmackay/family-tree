@@ -8,10 +8,12 @@ title: Home
 Here are some starting points:
 * Index of people by
   * [family name](gedcom-info/index-by-family-name.md). Note: this is by birth name.
+  * [all name variations](gedcom-info/index-by-all-names.md). This is also grouped by family name.
   * [date of birth](gedcom-info/index-by-date-of-birth.md).
-  * [birth location](gedcom-info/index-by-birth-location.md).
-  * [death location](gedcom-info/index-by-death-location.md).
-  * [residence location](gedcom-info/index-by-residence-location.md).
+  * location
+    * [birth](gedcom-info/index-by-birth-location.md).
+    * [death](gedcom-info/index-by-death-location.md).
+    * [residence](gedcom-info/index-by-residence-location.md).
 * Index of marriages by
   * [date](gedcom-info/index-marriage-by-date.md).
   * [family name](gedcom-info/index-marriage-by-name.md). Note: this is by birth name.
@@ -46,7 +48,7 @@ At the bottom of each page there are contact links. You can either [contact me v
 ## The Geeky Bit
 
 If you are interested in the software side of it. I am using:
-* [FamilyTree 10](https://www.syniumsoftware.com/macfamilytree) - To store and catalogue the information on my Mac.
+* [MacFamilyTree 10](https://www.syniumsoftware.com/macfamilytree) - To store and catalogue the information on my Mac.
 * [MobileFamilyTree 10](https://www.syniumsoftware.com/mobilefamilytree) - To store and catalogue the information on my iPad. Both the iPad and Mac versions are sync'ed.
 * [GitKraken](https://www.gitkraken.com) - To move the raw data from FamilyTree to [GitHub.com](https://github.com).
 * [Stravaig Gedcom](https://github.com/Stravaig-Projects/Gedcom) - My own rendering software (a work in progress) written in C#.
