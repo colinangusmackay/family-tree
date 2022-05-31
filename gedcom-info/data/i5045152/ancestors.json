@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i5045152",
+  "Name": "Thomas Mackay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1884",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i53955929",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i43646316",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

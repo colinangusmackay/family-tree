@@ -15,7 +15,7 @@ permalink: /people/i83660564
 ## Immediate Family
 
 * Partner: [William Sutherland](./@72992640@-william-sutherland-b-d1856.md) ( - after 1856)
-* Daughter: [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d.md) (1838 - )
+* Daughter: [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d1884.md) (1838 - after 1884)
 
 ## Timeline
 

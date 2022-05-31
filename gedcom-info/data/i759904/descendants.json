@@ -728,7 +728,7 @@
               "Gender": "Male",
               "Relationship": "son",
               "DateOfBirth": "about 1865",
-              "DateOfDeath": "7/May/1884",
+              "DateOfDeath": "",
               "Children": []
             },
             {
@@ -792,8 +792,8 @@
           "Name": "Adam Cumming",
           "Gender": "Male",
           "Relationship": "son",
-          "DateOfBirth": "bet' 1841 and 1849",
-          "DateOfDeath": "",
+          "DateOfBirth": "2/Jul/1841",
+          "DateOfDeath": "18/Jan/1926",
           "Children": [
             {
               "Id": "i89853996",

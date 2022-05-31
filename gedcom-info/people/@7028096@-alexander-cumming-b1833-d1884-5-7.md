@@ -13,8 +13,8 @@ permalink: /people/i7028096
 * Father: [Donald Cumming](./@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
 * Mother: [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1875-10-29.md) (about 1807 - 29/Oct/1875)
 * Brother: [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
-* Wife: [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d.md) (1838 - )
-* Brother: [Adam Cumming](./@55409960@-adam-cumming-b1841~1849-d.md) (bet' 1841 and 1849 - )
+* Wife: [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d1884.md) (1838 - after 1884)
+* Brother: [Adam Cumming](./@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) (2/Jul/1841 - 18/Jan/1926)
 * Son: [William Cumming](./@90082380@-william-cumming-b1865-2-27-d.md) (27/Feb/1865 - )
 
 ## Timeline
@@ -23,27 +23,29 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1833 | Born | Born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d1875-10-2.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1875-10-29.md). |  | 
 bet' 1836 and 1841 | Birth of brother | [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d1875-10-2.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1875-10-29.md). | [1](#1) | [2](#2)
-bet' 1841 and 1849 | Birth of brother | [Adam Cumming](./@55409960@-adam-cumming-b1841~1849-d.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d1875-10-2.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1875-10-29.md) in Embo, Sutherland, Scotland. | [3](#3), [4](#4), [5](#5), [6](#6) | [7](#7)
-5/Dec/1856 | Marriage | Married to [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d.md)  | [8](#8) | 
-27/Feb/1865 | Birth of son | [William Cumming](./@90082380@-william-cumming-b1865-2-27-d.md) born to [Alexander Cumming](./@7028096@-alexander-cumming-b1833-d1884-5-7.md) and [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d.md). | [9](#9) | 
-after 1875 | Death of brother | [Donald Cumming](./@69575920@-donald-cumming-b-d1875.md) died. | [10](#10) | 
-2/Oct/1875 | Death of father | [Donald Cumming](./@45726416@-donald-cumming-b1806-d1875-10-2.md) died. | [10](#10), [11](#11), [12](#12) | 
-29/Oct/1875 | Death of mother | [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1875-10-29.md) died. | [10](#10), [12](#12) | 
-7/May/1884 | Died | Died. |  | 
+2/Jul/1841 | Birth of brother | [Adam Cumming](./@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) born to [Donald Cumming](./@45726416@-donald-cumming-b1806-d1875-10-2.md) and [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1875-10-29.md) in Embo, Sutherland, Scotland. | [3](#3), [4](#4), [5](#5), [6](#6), [7](#7) | [8](#8)
+5/Dec/1856 | Marriage | Married to [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d1884.md)  | [9](#9) | 
+27/Feb/1865 | Birth of son | [William Cumming](./@90082380@-william-cumming-b1865-2-27-d.md) born to [Alexander Cumming](./@7028096@-alexander-cumming-b1833-d1884-5-7.md) and [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d1884.md). | [10](#10) | 
+after 1875 | Death of brother | [Donald Cumming](./@69575920@-donald-cumming-b-d1875.md) died. | [11](#11) | 
+2/Oct/1875 | Death of father | [Donald Cumming](./@45726416@-donald-cumming-b1806-d1875-10-2.md) died. | [11](#11), [12](#12), [13](#13) | 
+29/Oct/1875 | Death of mother | [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1875-10-29.md) died. | [11](#11), [13](#13) | 
+after 1884 | Death of partner | [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d1884.md) died. | [14](#14) | 
+7/May/1884 | Died | Died in Embo, Sutherland, Scotland. | [14](#14), [15](#15) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
 1856 | Embo, Sutherland, Scotland | 
-1865 | Embo, Sutherland, Scotland | [9](#9)
+1865 | Embo, Sutherland, Scotland | [10](#10)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1856 | Fisherman | [8](#8)
-1865 | Fisherman | [9](#9)
+1856 | Fisherman | [9](#9)
+1865 | Fisherman | [10](#10)
+1884 | Fisherman | [14](#14)
 
 ## Footnotes
 
@@ -67,6 +69,15 @@ Date | Occupation | Sources & Notes
 
 ### 3
 
+**1841 Dornoch Births Page 75/205 (OPR 047/2075)**
+
+* [Full text and notes](../sources/@48526604@-1841-dornoch-births-page-75-205-opr-047-2075-.md)
+* Responsible Agency: National Records Scotland
+* References: 
+  * 1841 OPR-B 047/2075
+
+### 4
+
 **1876 CUMMING, ADAM (Statutory Register Marriages 047/12)**
 
 * [Full text and notes](../sources/@83474524@-1876-cumming,-adam-statutory-register-marriages-047-12-.md)
@@ -75,7 +86,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1876 M 047/12
 
-### 4
+### 5
 
 **1984 TULLOCH, BARRIE M - Letter from Registrar in Brora**
 
@@ -84,7 +95,7 @@ Date | Occupation | Sources & Notes
 * Date: 19/Jul/1984
 * Responsible Agency: Highland Regional Council
 
-### 5
+### 6
 
 **2020 CUMMING, ADAM 1/3 Descendant Report**
 
@@ -92,7 +103,7 @@ Date | Occupation | Sources & Notes
 * Originator / Author: Helen McDermott
 * Date: 13/Jan/2020
 
-### 6
+### 7
 
 **P113 Embo - genealogy, Uncle Sandy's Story and a little history**
 
@@ -104,7 +115,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * (ISBN) 978-1-910205-49-5
 
-### 7
+### 8
 
 > Some conflicting information on the date of birth.
 >
@@ -116,7 +127,7 @@ Date | Occupation | Sources & Notes
 >
 
 
-### 8
+### 9
 
 **1856 CUMMING, ALEXANDER (Statutory Registers Marriages)**
 
@@ -125,7 +136,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1856 M 051/5
 
-### 9
+### 10
 
 **1865 CUMMING, WILLIAM (Statutory Registers - Births)**
 
@@ -134,7 +145,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1865 B 047/13
 
-### 10
+### 11
 
 **1875 CUMMING, CATHERINE (Statutory Registers Deaths 047/45)**
 
@@ -144,7 +155,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1875 D 047/45
 
-### 11
+### 12
 
 **1875 CUMMING, DONALD (Statutory Registers Deaths 047/42)**
 
@@ -153,7 +164,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1875 D 047/42
 
-### 12
+### 13
 
 **1923 CUMMING, JAMES (Statutory Registers Deaths 047/1)**
 
@@ -162,4 +173,26 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records Scotland
 * References: 
   * 1923 D 047/1
+
+### 14
+
+**1884 CUMMING, ALEXANDER (Statutory Register Deaths 047/27)**
+
+* [Full text and notes](../sources/@82952138@-1884-cumming,-alexander-statutory-register-deaths-047-27-.md)
+* Date: 9/Jun/1884
+* Responsible Agency: National Records Scotland
+* References: 
+  * 1884 D 047/27
+
+### 15
+
+**P161 Embo - genealogy, Uncle Sandy's Story and a little history**
+
+* [Full text and notes](../sources/@95058656@-p161-embo-genealogy,-uncle-sandy's-story-and-a-little-history.md)
+* Publication: Embo - genealogy, Uncle Sandy's Story and a little history
+* Originator / Author: Catriona Grigg
+* Date: 2016
+* Filed by Entry: EMBO/P161/C1.3
+* References: 
+  * (ISBN) 978-1-910205-49-5
 

@@ -71,8 +71,8 @@
       "Id": "i55409960",
       "Name": "Adam Cumming",
       "Gender": "Male",
-      "DateOfBirth": "bet' 1841 and 1849",
-      "DateOfDeath": "",
+      "DateOfBirth": "2/Jul/1841",
+      "DateOfDeath": "18/Jan/1926",
       "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
@@ -124,7 +124,7 @@
       "Name": "Alexander Cumming",
       "Gender": "Male",
       "DateOfBirth": "about 1865",
-      "DateOfDeath": "7/May/1884",
+      "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [
         "i66384942",

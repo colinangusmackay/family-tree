@@ -16,4 +16,4 @@ References |
 
 ## Source Referenced by
 
-* [Margaret Hogg Hatelie](../people/@43723296@-margaret-hogg-hatelie-b1897-d1977.md) (1897 - 1977)
+* [Margaret Hogg Hatelie](../people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md) (11/Sep/1897 - 23/Dec/1977)

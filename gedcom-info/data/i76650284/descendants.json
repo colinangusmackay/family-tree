@@ -28,8 +28,8 @@
     {
       "Id": "i69897025",
       "Name": "X",
-      "Gender": "Male",
-      "Relationship": "son",
+      "Gender": "Undetermined",
+      "Relationship": "child",
       "DateOfBirth": "19/Mar/1985",
       "DateOfDeath": "",
       "Children": []

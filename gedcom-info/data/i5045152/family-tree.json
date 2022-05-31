@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i5045152",
+    "Name": "Thomas Mackay",
+    "Gender": "Male",
+    "DateOfBirth": "about 1884",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i43646316",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i53955929",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i5045152",
+      "Name": "Thomas Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1884",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i43646316",
+          "i53955929"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i16587624",
+      "Name": "Lucy Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "23/Sep/1889",
+      "DateOfDeath": "15/May/1970",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "24/Jun/1919",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i52754046",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i5045152",
+        "i16587624"
+      ]
+    }
+  ]
+}

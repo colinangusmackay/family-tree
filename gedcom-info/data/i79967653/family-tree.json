@@ -4,7 +4,7 @@
     "Name": "Isabella Sutherland",
     "Gender": "Female",
     "DateOfBirth": "1838",
-    "DateOfDeath": ""
+    "DateOfDeath": "after 1884"
   },
   "Parents": [
     {
@@ -30,7 +30,7 @@
       "Name": "Isabella Sutherland",
       "Gender": "Female",
       "DateOfBirth": "1838",
-      "DateOfDeath": "",
+      "DateOfDeath": "after 1884",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [

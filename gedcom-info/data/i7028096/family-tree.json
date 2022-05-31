@@ -71,8 +71,8 @@
       "Id": "i55409960",
       "Name": "Adam Cumming",
       "Gender": "Male",
-      "DateOfBirth": "bet' 1841 and 1849",
-      "DateOfDeath": "",
+      "DateOfBirth": "2/Jul/1841",
+      "DateOfDeath": "18/Jan/1926",
       "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
@@ -88,7 +88,7 @@
       "Name": "Isabella Sutherland",
       "Gender": "Female",
       "DateOfBirth": "1838",
-      "DateOfDeath": "",
+      "DateOfDeath": "after 1884",
       "RelationToSubject": "wife",
       "DateOfMarriage": "5/Dec/1856",
       "DateOfDivorce": ""

@@ -10,7 +10,7 @@ permalink: /people/i72992640
 ## Immediate Family
 
 * Partner: [Helen MacDonald](./@83660564@-helen-macdonald-b-d1856.md) ( - after 1856)
-* Daughter: [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d.md) (1838 - )
+* Daughter: [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d1884.md) (1838 - after 1884)
 
 ## Timeline
 

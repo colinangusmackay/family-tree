@@ -5,7 +5,7 @@ permalink: /people/i7306221
 ---
 
 # Alexander Cumming
-(about 1865 - 7 May, 1884)
+(about 1865 - ?)
 
 ## Immediate Family
 
@@ -25,12 +25,6 @@ permalink: /people/i7306221
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1865 | Born | Born to [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) and [Jessie Ross](./@60546968@-jessie-ross-b1840~1842-d1918-1-13.md). | [1](#1) | 
-about 1867 | Birth of brother | [Kenneth Cumming](./@14447152@-kenneth-cumming-b1867-d.md) born to [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) and [Jessie Ross](./@60546968@-jessie-ross-b1840~1842-d1918-1-13.md). | [1](#1) | 
-about 1870 | Birth of brother | [William Cumming](./@10016098@-william-cumming-b1870-d.md) born to [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) and [Jessie Ross](./@60546968@-jessie-ross-b1840~1842-d1918-1-13.md). | [1](#1) | 
-about 1873 | Birth of brother | [John Cumming](./@87723702@-john-cumming-b1873-d.md) born to [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) and [Jessie Ross](./@60546968@-jessie-ross-b1840~1842-d1918-1-13.md). | [1](#1) | 
-about 1878 | Birth of sister | [Christy Cumming](./@94377968@-christy-cumming-b1878-d.md) born to [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) and [Jessie Ross](./@60546968@-jessie-ross-b1840~1842-d1918-1-13.md). | [1](#1) | 
-about 1881 | Birth of brother | [James Cumming](./@64418166@-james-cumming-b1881-d.md) born to [James Cumming](./@66384942@-james-cumming-b1836~1841-d1923-1-11.md) and [Jessie Ross](./@60546968@-jessie-ross-b1840~1842-d1918-1-13.md). | [1](#1) | 
-7/May/1884 | Died | Died. | [1](#1) | 
 
 ## Footnotes
 

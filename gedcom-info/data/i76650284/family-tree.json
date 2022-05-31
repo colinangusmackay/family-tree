@@ -148,10 +148,10 @@
     {
       "Id": "i69897025",
       "Name": "X",
-      "Gender": "Male",
+      "Gender": "Undetermined",
       "DateOfBirth": "19/Mar/1985",
       "DateOfDeath": "",
-      "RelationToSubject": "son",
+      "RelationToSubject": "child",
       "ParentIds": [
         "i42620544",
         "i76650284"

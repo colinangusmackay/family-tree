@@ -52,4 +52,4 @@ References |
 * [Jessie Ann Cumming](../people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md) (8/Jan/1893 - 31/Oct/1978)
 * [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) (26/Jul/1900 - 8/Oct/1981)
 * [Thomasina Ian Cumming](../people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) (24/Nov/1902 - 1/Jun/1973)
-* [Margaret Hogg Hatelie](../people/@43723296@-margaret-hogg-hatelie-b1897-d1977.md) (1897 - 1977)
+* [Margaret Hogg Hatelie](../people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md) (11/Sep/1897 - 23/Dec/1977)

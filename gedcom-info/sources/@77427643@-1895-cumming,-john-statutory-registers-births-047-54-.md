@@ -45,5 +45,5 @@ References | 1895 B 047/54
 
 ## Source Referenced by
 
-* [Adam Cumming](../people/@55409960@-adam-cumming-b1841~1849-d.md) (bet' 1841 and 1849 - )
+* [Adam Cumming](../people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) (2/Jul/1841 - 18/Jan/1926)
 * [John Cumming](../people/@7323242@-john-cumming-b1895-10-10-d.md) (10/Oct/1895 - )
