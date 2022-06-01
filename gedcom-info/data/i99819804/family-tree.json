@@ -35,31 +35,7 @@
       "Id": "i44331192",
       "Name": "X",
       "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i21721539",
-        "i99819804"
-      ]
-    },
-    {
-      "Id": "i21326189",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i21721539",
-        "i99819804"
-      ]
-    },
-    {
-      "Id": "i40000604",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1931",
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
       "ParentIds": [
@@ -74,6 +50,30 @@
       "DateOfBirth": "8/Feb/1936",
       "DateOfDeath": "",
       "RelationToSubject": "son",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
+      "Id": "i40000604",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "about 1938",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
+      "Id": "i21326189",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "about 1944",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i21721539",
         "i99819804"

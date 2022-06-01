@@ -10,6 +10,7 @@ permalink: /indexes/by-all-names
 - **[Donnie](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[Eileen](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 - **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
+- **[Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[Kenny Pedar Laudie](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
 - **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 - **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
@@ -108,7 +109,7 @@ permalink: /indexes/by-all-names
 
 ## Farnham
 
-- **[Mae Farnham](people/@53003230@-mae-farnham-b1885-d.md)** (before 1885 - )
+- **[Mae Farnham](people/@53003230@-mae-farnham-b1872-d.md)** (about 1872 - )
 
 ## Farrell
 
@@ -126,18 +127,22 @@ permalink: /indexes/by-all-names
 
 - **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
 - **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966)
+- **[Ann Fraser](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891)
 - **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
+- **[Annie Fraser](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891)
 - **[Annie Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
 - **[Christina Fraser](people/@45275253@-christina-fraser-b1803-d.md)** (before 1803 - )
 - **[Fraser](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881)
+- **[Fraser](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[Fraser](people/@56151384@-marion-mackay-b1788-d.md)** (before 1788 - )
 - **[Fraser](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
-- **[Fraser](people/@33561724@-jane-mackay-b1872-d.md)** (about 1872 - )
+- **[Fraser](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934)
 - **[Fraser](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932)
 - **[Jane Fraser](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
 - **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
 - **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
 - **[Maggie Moyes Fraser](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
+- **[Thomas Fraser](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889)
 - **[Thomas Fraser](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
 - **[Thomas Fraser](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932)
 
@@ -170,11 +175,18 @@ permalink: /indexes/by-all-names
 
 ## Grant
 
+- **[Annie Grant](people/@503334@-annie-mackay-b-d1934~1944.md)** ( - bet' 1934 and 1944)
+- **[Annie Grant](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891)
 - **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
 - **[Catherine Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
+- **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - )
 - **[Christy Grant](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
+- **[Hugh Grant](people/@34164542@-hugh-grant-b1843-d.md)** (about 1843 - )
+- **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944)
 - **[Jean Grant](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
+- **[Jessie Ann Grant](people/@15036054@-jessie-ann-grant-b1899-d.md)** (about 1899 - )
 - **[Kate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
+- **[Katie Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - )
 - **[Margaret Grant](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
 
 ## Hatelie
@@ -227,6 +239,7 @@ permalink: /indexes/by-all-names
 - **[Ann Mackay](people/@74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - )
 - **[Ann Mackay](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
 - **[Anna Jess Mackay](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
+- **[Annie Mackay](people/@503334@-annie-mackay-b-d1934~1944.md)** ( - bet' 1934 and 1944)
 - **[Annie Mackay](people/@74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - )
 - **[Annie Mackay](people/@51252926@-annie-mackay-b1892-12-15-d1918.md)** (15/Dec/1892 - 1918)
 - **[Barbara Mackay](people/@61459684@-barbara-mackay-b-d1896.md)** ( - before 1896)
@@ -248,11 +261,11 @@ permalink: /indexes/by-all-names
 - **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1919.md)** (7/Aug/1860 - after 1919)
 - **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019)
 - **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1919.md)** (12/Apr/1861 - before 1919)
-- **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d.md)** (about 1872 - )
+- **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934)
 - **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - )
 - **[Janet Mackay](people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md)** (12/Nov/1890 - 15/May/1891)
 - **[Janet or Jessie Mackay](people/@42213240@-janet-or-jessie-mackay-b1840-d.md)** (1840 - )
-- **[Jeanie Mackay](people/@33561724@-jane-mackay-b1872-d.md)** (about 1872 - )
+- **[Jeanie Mackay](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934)
 - **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932)
 - **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - )
 - **[John Mackay](people/@58430005@-john-mackay-b1841-2-18-d.md)** (18/Feb/1841 - )
@@ -342,6 +355,7 @@ permalink: /indexes/by-all-names
 
 - **[Ann McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
 - **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
+- **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - )
 - **[Christy McLean](people/@62955988@-christy-mclean-b1846-d.md)** (about 1846 - )
 - **[Jessie McLean](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - )
 - **[John McLean](people/@91397610@-john-mclean-b-d1877.md)** ( - after 1877)
@@ -421,7 +435,7 @@ permalink: /indexes/by-all-names
 - **[Frederick Roberts](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
 - **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
 - **[Mary Elizabeth Roberts](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
-- **[Roberts](people/@53003230@-mae-farnham-b1885-d.md)** (before 1885 - )
+- **[May Roberts](people/@53003230@-mae-farnham-b1872-d.md)** (about 1872 - )
 - **[Roberts](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
 
 ## Ross

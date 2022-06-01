@@ -10,7 +10,7 @@ permalink: /people/i36552681
 ## Immediate Family
 
 * Daughter: X
-* Partner: [Mae Farnham](./@53003230@-mae-farnham-b1885-d.md) (before 1885 - )
+* Partner: [Mae Farnham](./@53003230@-mae-farnham-b1872-d.md) (about 1872 - )
 * Son: [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) (30/Sep/1905 - 6/May/1990)
 
 ## Timeline

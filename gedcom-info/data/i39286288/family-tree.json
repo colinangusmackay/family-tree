@@ -1,0 +1,72 @@
+﻿{
+  "Subject": {
+    "Id": "i39286288",
+    "Name": "Thomas Fraser",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1889"
+  },
+  "Parents": [
+    {
+      "Id": "i41136024",
+      "Name": "Isabella",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1864",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i39286288",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i41136024"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i37144832",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i67511231",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i39286288",
+        "i37144832"
+      ]
+    },
+    {
+      "Id": "i83535990",
+      "Name": "Ann Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "4/Aug/1864",
+      "DateOfDeath": "4/May/1891",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i39286288",
+        "i37144832"
+      ]
+    }
+  ]
+}

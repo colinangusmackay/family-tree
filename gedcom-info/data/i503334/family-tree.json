@@ -1,0 +1,93 @@
+﻿{
+  "Subject": {
+    "Id": "i503334",
+    "Name": "Annie Mackay",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "bet' 1934 and 1944"
+  },
+  "Parents": [
+    {
+      "Id": "i56321492",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i31091676",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i503334",
+      "Name": "Annie Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "bet' 1934 and 1944",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i31091676",
+          "i56321492"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i31066628",
+      "Name": "Hugh Grant",
+      "Gender": "Male",
+      "DateOfBirth": "26/Feb/1863",
+      "DateOfDeath": "10/Sep/1944",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "21/Jan/1898",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i15036054",
+      "Name": "Jessie Ann Grant",
+      "Gender": "Female",
+      "DateOfBirth": "about 1899",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i31066628",
+        "i503334"
+      ]
+    },
+    {
+      "Id": "i5052852",
+      "Name": "Catherine Grant",
+      "Gender": "Female",
+      "DateOfBirth": "about 1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i31066628",
+        "i503334"
+      ]
+    },
+    {
+      "Id": "i81075921",
+      "Name": "Jean Grant",
+      "Gender": "Female",
+      "DateOfBirth": "30/Jun/1902",
+      "DateOfDeath": "31/Oct/1971",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i31066628",
+        "i503334"
+      ]
+    }
+  ]
+}

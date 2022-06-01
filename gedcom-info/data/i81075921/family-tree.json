@@ -8,23 +8,51 @@
   },
   "Parents": [
     {
-      "Id": "i31066628",
-      "Name": "X",
-      "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "father"
-    },
-    {
       "Id": "i503334",
-      "Name": "X",
+      "Name": "Annie Mackay",
       "Gender": "Female",
       "DateOfBirth": "",
-      "DateOfDeath": "",
+      "DateOfDeath": "bet' 1934 and 1944",
       "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i31066628",
+      "Name": "Hugh Grant",
+      "Gender": "Male",
+      "DateOfBirth": "26/Feb/1863",
+      "DateOfDeath": "10/Sep/1944",
+      "RelationToSubject": "father"
     }
   ],
   "Siblings": [
+    {
+      "Id": "i15036054",
+      "Name": "Jessie Ann Grant",
+      "Gender": "Female",
+      "DateOfBirth": "about 1899",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i31066628",
+          "i503334"
+        ]
+      ]
+    },
+    {
+      "Id": "i5052852",
+      "Name": "Catherine Grant",
+      "Gender": "Female",
+      "DateOfBirth": "about 1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i31066628",
+          "i503334"
+        ]
+      ]
+    },
     {
       "Id": "i81075921",
       "Name": "Jean Grant",

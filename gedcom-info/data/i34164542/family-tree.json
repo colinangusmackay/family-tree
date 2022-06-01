@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i34164542",
+    "Name": "Hugh Grant",
+    "Gender": "Male",
+    "DateOfBirth": "about 1843",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i34164542",
+      "Name": "Hugh Grant",
+      "Gender": "Male",
+      "DateOfBirth": "about 1843",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i41510480",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i31066628",
+      "Name": "Hugh Grant",
+      "Gender": "Male",
+      "DateOfBirth": "26/Feb/1863",
+      "DateOfDeath": "10/Sep/1944",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i34164542",
+        "i41510480"
+      ]
+    }
+  ]
+}

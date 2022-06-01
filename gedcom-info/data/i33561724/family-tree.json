@@ -4,7 +4,7 @@
     "Name": "Jane Mackay",
     "Gender": "Female",
     "DateOfBirth": "about 1872",
-    "DateOfDeath": ""
+    "DateOfDeath": "after 1934"
   },
   "Parents": [],
   "Siblings": [
@@ -13,7 +13,7 @@
       "Name": "Jane Mackay",
       "Gender": "Female",
       "DateOfBirth": "about 1872",
-      "DateOfDeath": "",
+      "DateOfDeath": "after 1934",
       "RelationToSubject": "self",
       "ParentGroupIds": []
     }

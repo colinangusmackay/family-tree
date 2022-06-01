@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i39286288",
+  "Name": "Thomas Fraser",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "before 1889",
+  "Parents": [
+    {
+      "Id": "i41136024",
+      "Name": "Isabella",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1864",
+      "Parents": []
+    }
+  ]
+}

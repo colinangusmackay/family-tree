@@ -1,0 +1,70 @@
+﻿{
+  "Subject": {
+    "Id": "i83535990",
+    "Name": "Ann Fraser",
+    "Gender": "Female",
+    "DateOfBirth": "4/Aug/1864",
+    "DateOfDeath": "4/May/1891"
+  },
+  "Parents": [
+    {
+      "Id": "i39286288",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i37144832",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i67511231",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i37144832",
+          "i39286288"
+        ]
+      ]
+    },
+    {
+      "Id": "i83535990",
+      "Name": "Ann Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "4/Aug/1864",
+      "DateOfDeath": "4/May/1891",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i37144832",
+          "i39286288"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i31066628",
+      "Name": "Hugh Grant",
+      "Gender": "Male",
+      "DateOfBirth": "26/Feb/1863",
+      "DateOfDeath": "10/Sep/1944",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "12/Nov/1889",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

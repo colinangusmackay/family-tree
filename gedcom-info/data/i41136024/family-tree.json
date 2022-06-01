@@ -1,0 +1,35 @@
+﻿{
+  "Subject": {
+    "Id": "i41136024",
+    "Name": "Isabella",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "after 1864"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i41136024",
+      "Name": "Isabella",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1864",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [],
+  "Children": [
+    {
+      "Id": "i39286288",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i41136024"
+      ]
+    }
+  ]
+}

@@ -8,20 +8,20 @@
   },
   "Parents": [
     {
+      "Id": "i53003230",
+      "Name": "Mae Farnham",
+      "Gender": "Female",
+      "DateOfBirth": "about 1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
       "Id": "i36552681",
       "Name": "Frederick Roberts",
       "Gender": "Male",
       "DateOfBirth": "before 1885",
       "DateOfDeath": "",
       "RelationToSubject": "father"
-    },
-    {
-      "Id": "i53003230",
-      "Name": "Mae Farnham",
-      "Gender": "Female",
-      "DateOfBirth": "before 1885",
-      "DateOfDeath": "",
-      "RelationToSubject": "mother"
     }
   ],
   "Siblings": [
@@ -78,42 +78,6 @@
   ],
   "Children": [
     {
-      "Id": "i44331192",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i21721539",
-        "i99819804"
-      ]
-    },
-    {
-      "Id": "i21326189",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i21721539",
-        "i99819804"
-      ]
-    },
-    {
-      "Id": "i40000604",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i21721539",
-        "i99819804"
-      ]
-    },
-    {
       "Id": "i75556627",
       "Name": "X",
       "Gender": "Male",
@@ -150,12 +114,48 @@
       ]
     },
     {
+      "Id": "i44331192",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "about 1931",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
       "Id": "i38836920",
       "Name": "X",
       "Gender": "Male",
       "DateOfBirth": "8/Feb/1936",
       "DateOfDeath": "",
       "RelationToSubject": "son",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
+      "Id": "i40000604",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "about 1938",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
+      "Id": "i21326189",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "about 1944",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i21721539",
         "i99819804"

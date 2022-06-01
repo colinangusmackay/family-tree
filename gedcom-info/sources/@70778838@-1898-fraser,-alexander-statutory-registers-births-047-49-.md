@@ -59,3 +59,4 @@ References | 1898 B 047/49
 
 * [Alexander Fraser](../people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md) (31/Aug/1898 - 17/Feb/1966)
 * [Thomas Fraser](../people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md) (12/Aug/1869 - 20/Apr/1932)
+* [Jane Mackay](../people/@33561724@-jane-mackay-b1872-d1934.md) (about 1872 - after 1934)

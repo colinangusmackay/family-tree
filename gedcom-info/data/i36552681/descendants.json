@@ -55,25 +55,7 @@
           "Name": "X",
           "Gender": "Female",
           "Relationship": "daughter",
-          "DateOfBirth": "",
-          "DateOfDeath": "",
-          "Children": []
-        },
-        {
-          "Id": "i21326189",
-          "Name": "X",
-          "Gender": "Female",
-          "Relationship": "daughter",
-          "DateOfBirth": "",
-          "DateOfDeath": "",
-          "Children": []
-        },
-        {
-          "Id": "i40000604",
-          "Name": "X",
-          "Gender": "Female",
-          "Relationship": "daughter",
-          "DateOfBirth": "",
+          "DateOfBirth": "about 1931",
           "DateOfDeath": "",
           "Children": []
         },
@@ -290,6 +272,24 @@
               ]
             }
           ]
+        },
+        {
+          "Id": "i40000604",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "about 1938",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i21326189",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "about 1944",
+          "DateOfDeath": "",
+          "Children": []
         }
       ]
     }

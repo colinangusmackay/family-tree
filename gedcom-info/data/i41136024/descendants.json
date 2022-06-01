@@ -1,0 +1,38 @@
+﻿{
+  "Id": "i41136024",
+  "Name": "Isabella",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "after 1864",
+  "Children": [
+    {
+      "Id": "i39286288",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "Children": [
+        {
+          "Id": "i67511231",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i83535990",
+          "Name": "Ann Fraser",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "4/Aug/1864",
+          "DateOfDeath": "4/May/1891",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

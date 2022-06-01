@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i56292410",
+    "Name": "Arthur Fred McLean",
+    "Gender": "Male",
+    "DateOfBirth": "about 1901",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i70471714",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i79435398",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i56292410",
+      "Name": "Arthur Fred McLean",
+      "Gender": "Male",
+      "DateOfBirth": "about 1901",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i70471714",
+          "i79435398"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i5052852",
+      "Name": "Catherine Grant",
+      "Gender": "Female",
+      "DateOfBirth": "about 1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "7/Jun/1930",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i56292410",
+  "Name": "Arthur Fred McLean",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1901",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i79435398",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i70471714",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}
