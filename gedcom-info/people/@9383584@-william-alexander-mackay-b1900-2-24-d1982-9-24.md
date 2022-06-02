@@ -38,12 +38,12 @@ permalink: /people/i9383584
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 24/Feb/1900 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1919.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2), [3](#3) | 
-27/Jun/1901 | Birth of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1919.md) in Embo, Sutherland, Scotland. | [4](#4), [3](#3) | 
+27/Jun/1901 | Birth of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1919.md) in Embo, Sutherland, Scotland. | [3](#3), [4](#4) | 
 1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1892-12-15-d1918.md) died. | [3](#3) | [5](#5)
 before 1919 | Death of father | [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) died. | [6](#6) | 
 after 1919 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1919.md) died. | [6](#6) | 
-21/Mar/1930 | Marriage | Married to [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) in Toronto, York, Ontario, Canada | [7](#7), [3](#3), [8](#8) | 
-1931 | Birth of son | [Donald James Mackay](./@43065376@-donald-james-mackay-b1931-d2011-12-29.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md). | [9](#9), [3](#3) | 
+21/Mar/1930 | Marriage | Married to [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) in Toronto, York, Ontario, Canada | [3](#3), [7](#7), [8](#8) | 
+1931 | Birth of son | [Donald James Mackay](./@43065376@-donald-james-mackay-b1931-d2011-12-29.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md). | [3](#3), [9](#9) | 
 6/Dec/1931 | Immigrated | Immigrated to Embo, Sutherland, Scotland. | [9](#9) | 
 27/May/1932 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md). | [10](#10), [11](#11) | 
 1935 | Death of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) died. |  | [12](#12)

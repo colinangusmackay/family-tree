@@ -34,7 +34,7 @@ Date | Item | Description | Sources | Notes
 1959 | Marriage | Married to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) in Glasgow, Scotland | [5](#5) | 
 22/Oct/1960 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Morley, Yorkshire, England. | [6](#6), [7](#7), [8](#8) | 
 16/Oct/1961 | Birth of daughter | [Linda Margaret Campbell](./@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, England. | [9](#9), [10](#10) | 
-21/Sep/1962 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, England. | [11](#11), [8](#8) | 
+21/Sep/1962 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, England. | [8](#8), [11](#11) | 
 2/Apr/1966 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Glasgow, Scotland. | [12](#12) | 
 before 1969 | Divorced | Divorced from [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md)  | [13](#13) | [14](#14)
 25/Jul/1969 | Marriage | Married to X in East Calder, Scotland | [13](#13) | 
