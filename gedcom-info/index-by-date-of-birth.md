@@ -46,6 +46,9 @@ permalink: /indexes/by-date-of-birth
 
 ### 1810s
 
+* **Born in 1810.**
+  * **[Munro, Hugh](people/@24463792@-hugh-munro-b1810-d.md)** (before 1810 - )
+  * **[Sutherland, Isabella](people/@80519670@-isabella-sutherland-b1810-d.md)** (before 1810 - )
 * **Born in 1813.**
   * **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
 * **Born in 1814.**
@@ -57,8 +60,13 @@ permalink: /indexes/by-date-of-birth
 
 ### 1820s
 
+* **Born in 1820.**
+  * **[Grant, Donald](people/@15156692@-donald-grant-b1820-d.md)** (before 1820 - )
+  * **[Mackay, Janet](people/@44945539@-janet-mackay-b1820-d.md)** (before 1820 - )
 * **Born in 1821.**
   * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
+* **Born in 1829.**
+  * **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
 
 ### 1830s
 
@@ -78,6 +86,7 @@ permalink: /indexes/by-date-of-birth
 ### 1840s
 
 * **Born in 1840.**
+  * **[Grant, Hugh](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - )
   * **[Mackay, Janet or Jessie](people/@42213240@-janet-or-jessie-mackay-b1840-d.md)** (1840 - )
   * **[Mackay, Mary](people/@78757487@-mary-mackay-b1840-d.md)** (before 1840 - )
   * **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
@@ -86,7 +95,6 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, John](people/@58430005@-john-mackay-b1841-2-18-d.md)** (18/Feb/1841 - )
   * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926)
 * **Born in 1843.**
-  * **[Grant, Hugh](people/@34164542@-hugh-grant-b1843-d.md)** (about 1843 - )
   * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
 * **Born in 1844.**
   * **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - )
@@ -143,6 +151,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1865.**
   * **[Cumming, Alexander](people/@7306221@-alexander-cumming-b1865-d.md)** (about 1865 - )
   * **[Grant, Christy](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
+  * **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942)
   * **[Cumming, William](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
   * **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
 * **Born in 1866.**
@@ -376,10 +385,10 @@ permalink: /indexes/by-date-of-birth
 * [Nellie Hayes](people/@5410300@-nellie-hayes-b-d2018.md) ( - before 2018)
 * [Sarah Hayes](people/@32431312@-sarah-hayes-b-d2018.md) ( - before 2018)
 * [Vernon Hayes](people/@31599970@-vernon-hayes-b-d2018.md) ( - before 2018)
+* [Stasia LaFavre](people/@16839684@-stasia-lafavre-b-d2018.md) ( - before 2018)
 * [Alexander MacDonald](people/@47072524@-alexander-macdonald-b-d1875.md) ( - before 1875)
 * [Catherine MacDonald](people/@97950336@-catherine-macdonald-b-d1949.md) ( - before 1949)
 * [Helen MacDonald](people/@83660564@-helen-macdonald-b-d1856.md) ( - after 1856)
-* [Annie Mackay](people/@503334@-annie-mackay-b-d1934~1944.md) ( - bet' 1934 and 1944)
 * [Barbara Mackay](people/@61459684@-barbara-mackay-b-d1896.md) ( - before 1896)
 * [Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md) ( - 8/Dec/1881)
 * [Hector MacLeod](people/@28404010@-hector-macleod-b-d1949.md) ( - before 1949)

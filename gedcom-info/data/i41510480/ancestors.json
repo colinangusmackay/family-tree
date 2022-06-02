@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i41510480",
+  "Name": "Jessie Munro",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1829",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i24463792",
+      "Name": "Hugh Munro",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "before 1810",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i80519670",
+      "Name": "Isabella Sutherland",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "before 1810",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

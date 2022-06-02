@@ -21,4 +21,4 @@ _Redacted because this source is referenced by a (potentially) living person and
 ## Source Referenced by
 
 * [Hugh Grant](../people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md) (26/Feb/1863 - 10/Sep/1944)
-* [Annie Mackay](../people/@503334@-annie-mackay-b-d1934~1944.md) ( - bet' 1934 and 1944)
+* [Annie Mackay](../people/@503334@-annie-mackay-b1865-d1942-5-1.md) (about 1865 - 1/May/1942)

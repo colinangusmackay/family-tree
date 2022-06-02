@@ -9,9 +9,9 @@
   "Parents": [
     {
       "Id": "i41510480",
-      "Name": "X",
+      "Name": "Jessie Munro",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1829",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     },
@@ -19,7 +19,7 @@
       "Id": "i34164542",
       "Name": "Hugh Grant",
       "Gender": "Male",
-      "DateOfBirth": "about 1843",
+      "DateOfBirth": "about 1840",
       "DateOfDeath": "",
       "RelationToSubject": "father"
     }
@@ -42,16 +42,6 @@
   ],
   "Spouses": [
     {
-      "Id": "i503334",
-      "Name": "Annie Mackay",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "bet' 1934 and 1944",
-      "RelationToSubject": "wife",
-      "DateOfMarriage": "21/Jan/1898",
-      "DateOfDivorce": ""
-    },
-    {
       "Id": "i83535990",
       "Name": "Ann Fraser",
       "Gender": "Female",
@@ -59,6 +49,16 @@
       "DateOfDeath": "4/May/1891",
       "RelationToSubject": "wife",
       "DateOfMarriage": "12/Nov/1889",
+      "DateOfDivorce": ""
+    },
+    {
+      "Id": "i503334",
+      "Name": "Annie Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1865",
+      "DateOfDeath": "1/May/1942",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "21/Jan/1898",
       "DateOfDivorce": ""
     }
   ],

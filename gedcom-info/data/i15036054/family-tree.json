@@ -8,20 +8,20 @@
   },
   "Parents": [
     {
-      "Id": "i503334",
-      "Name": "Annie Mackay",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "bet' 1934 and 1944",
-      "RelationToSubject": "mother"
-    },
-    {
       "Id": "i31066628",
       "Name": "Hugh Grant",
       "Gender": "Male",
       "DateOfBirth": "26/Feb/1863",
       "DateOfDeath": "10/Sep/1944",
       "RelationToSubject": "father"
+    },
+    {
+      "Id": "i503334",
+      "Name": "Annie Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1865",
+      "DateOfDeath": "1/May/1942",
+      "RelationToSubject": "mother"
     }
   ],
   "Siblings": [

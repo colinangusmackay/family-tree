@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i15156692",
+    "Name": "Donald Grant",
+    "Gender": "Male",
+    "DateOfBirth": "before 1820",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i15156692",
+      "Name": "Donald Grant",
+      "Gender": "Male",
+      "DateOfBirth": "before 1820",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i44945539",
+      "Name": "Janet Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "before 1820",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i34164542",
+      "Name": "Hugh Grant",
+      "Gender": "Male",
+      "DateOfBirth": "about 1840",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i15156692",
+        "i44945539"
+      ]
+    }
+  ]
+}

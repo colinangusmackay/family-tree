@@ -9,7 +9,7 @@ permalink: /people/i83409318
 
 ## Immediate Family
 
-* Daughter: X
+* Daughter: [Stasia LaFavre](./@16839684@-stasia-lafavre-b-d2018.md) ( - before 2018)
 * Partner: [Margaret](./@17287208@-margaret-b1910-d.md) (before 1910 - )
 * Step Son: [Thomas Stevens](./@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md) (21/Aug/1918 - 6/Apr/1971)
 * Daughter: [Phylis Martensen](./@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md) (21/Oct/1926 - 17/Mar/2018)

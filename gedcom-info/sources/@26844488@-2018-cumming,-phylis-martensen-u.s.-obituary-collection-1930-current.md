@@ -16,7 +16,34 @@ References |
 
 ## Text
 
-_Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
+> Name: Phylis Martensen Cumming
+>
+> Gender: Female
+>
+> Death Age: 91
+>
+> Birth Date: About 1927
+>
+> Birth Place: Quincy
+>
+> Residence Place: Falmouth
+>
+> Death Date: 17 Mar 2018
+>
+> Burial Date: 27 Mar
+>
+> Burial Place: Weymouth
+>
+> Father: Charles R. Martensen
+>
+> Mother: Margaret Martensen
+>
+> Spouse: Donald James Cumming
+>
+> Child: Marla Cumming, Tammie Cumming-Leaver, Heather Cumming-Rowell
+>
+> Siblings: Thomas Stevens, Stasia LaFavre
+>
 
 ## Source Referenced by
 

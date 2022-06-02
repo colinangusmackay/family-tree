@@ -10,8 +10,8 @@ permalink: /people/i46723082
 ## Names
 
 * Margaret Paton O'Malley
-* Campbell (married name)
-* Stead (married name)
+* Margaret Campbell (married name)
+* Margaret Stead (married name)
 
 ## Immediate Family
 

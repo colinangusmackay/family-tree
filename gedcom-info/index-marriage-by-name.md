@@ -75,8 +75,9 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - ) and **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ) **on 7th of November 1876** at Dornoch, Sutherland, Scotland.
   * **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) and **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) **on 7th of June 1930** at Royal Oak, Oakland County, Michigan, United States.
   * **[Christy Grant](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - ) and **[Alexander Mackay](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ) **on 21st of November 1877** at Dornoch, Sutherland, Scotland.
+  * **[Hugh Grant](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - ) and **[Jessie Munro](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ) **on 15th of February 1859** at Golspie, Sutherland, Scotland.
   * **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) and **[Ann Fraser](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891) **on 12th of November 1889** at Dornoch, Sutherland, Scotland.
-  * **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) and **[Annie Mackay](people/@503334@-annie-mackay-b-d1934~1944.md)** ( - bet' 1934 and 1944) **on 21st of January 1898**.
+  * **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) and **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942) **on 21st of January 1898**.
   * **[Jean Grant](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971) and **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966) **on 9th of February 1934** at Dornoch, Sutherland, Scotland.
   * **[Margaret Grant](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - ) and **[Alexander Cumming](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - ) **on 22nd of February 1793**.
 
@@ -105,7 +106,8 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Ann Mackay](people/@74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - ) and **[Adam Cumming](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926) **on 17th of October 1876** at Dornoch, Sutherland, Scotland.
   * **[Ann Mackay](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889) and **[Alexander Mackay](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ) **on 23rd of October 1877** at Dornoch, Sutherland, Scotland.
   * **[Anna Jess Mackay](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021) and X **on 30th of July 1960** at Bolton, New York, United States of America.
-  * **[Annie Mackay](people/@503334@-annie-mackay-b-d1934~1944.md)** ( - bet' 1934 and 1944) and **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) **on 21st of January 1898**.
+  * **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942) and X **before 1897**.
+  * **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942) and **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) **on 21st of January 1898**.
   * **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - ) and **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ) **on 16th of November 1869** at Dornoch, Sutherland, Scotland.
   * **[Betsy Mackay](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - ) and **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ) **on 1st of December 1881** at Dornoch, Sutherland, Scotland.
   * **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - ) and **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ) **on 21st of October 1873**.
@@ -177,6 +179,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Miller
 
   * **[May Miller](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - ) and **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ) **on 2nd of January 1900**.
+
+## Munro
+
+  * **[Jessie Munro](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ) and **[Hugh Grant](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - ) **on 15th of February 1859** at Golspie, Sutherland, Scotland.
 
 ## O'Malley
 

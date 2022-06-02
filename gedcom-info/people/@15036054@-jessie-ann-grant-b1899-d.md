@@ -9,8 +9,8 @@ permalink: /people/i15036054
 
 ## Immediate Family
 
-* Mother: [Annie Mackay](./@503334@-annie-mackay-b-d1934~1944.md) ( - bet' 1934 and 1944)
 * Father: [Hugh Grant](./@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md) (26/Feb/1863 - 10/Sep/1944)
+* Mother: [Annie Mackay](./@503334@-annie-mackay-b1865-d1942-5-1.md) (about 1865 - 1/May/1942)
 * Sister: [Catherine Grant](./@5052852@-catherine-grant-b1900-d.md) (about 1900 - )
 * Sister: [Jean Grant](./@81075921@-jean-grant-b1902-6-30-d1971-10-31.md) (30/Jun/1902 - 31/Oct/1971)
 
@@ -18,7 +18,7 @@ permalink: /people/i15036054
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1899 | Born | Born to [Hugh Grant](./@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md) and [Annie Mackay](./@503334@-annie-mackay-b-d1934~1944.md). | [1](#1) | 
+about 1899 | Born | Born to [Hugh Grant](./@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md) and [Annie Mackay](./@503334@-annie-mackay-b1865-d1942-5-1.md). | [1](#1) | 
 
 ## Known Residences
 

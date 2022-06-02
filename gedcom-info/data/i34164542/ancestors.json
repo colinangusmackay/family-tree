@@ -3,7 +3,26 @@
   "Name": "Hugh Grant",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "about 1843",
+  "DateOfBirth": "about 1840",
   "DateOfDeath": "",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i15156692",
+      "Name": "Donald Grant",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "before 1820",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i44945539",
+      "Name": "Janet Mackay",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "before 1820",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

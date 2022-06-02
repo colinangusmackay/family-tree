@@ -88,13 +88,22 @@ permalink: /indexes/by-occupation
 
 * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971).
 * **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ).
-* **[Mackay, Annie](people/@503334@-annie-mackay-b-d1934~1944.md)** ( - bet' 1934 and 1944).
+* **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
 * **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970).
 * **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - ).
 * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ).
+* **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ).
 * **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ).
 
 ## Draftsman
+
+* **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976).
+
+## Draftsman, Elecrical
+
+* **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018).
+
+## Draftsman, Electrical
 
 * **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976).
 
@@ -105,6 +114,7 @@ permalink: /indexes/by-occupation
 ## Engineer
 
 * **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ).
+* **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
 
 ## Factory Worker
 
@@ -146,7 +156,7 @@ permalink: /indexes/by-occupation
 * **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ), mentioned 2 times.
 * **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901).
 * **[Gillie, John](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881), mentioned 2 times.
-* **[Grant, Hugh](people/@34164542@-hugh-grant-b1843-d.md)** (about 1843 - ).
+* **[Grant, Hugh](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - ), mentioned 2 times.
 * **[Grant, Hugh](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944), mentioned 4 times.
 * **[Lindores, William](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - ).
 * **[MacDonald, Alexander](people/@47072524@-alexander-macdonald-b-d1875.md)** ( - before 1875).
@@ -315,7 +325,7 @@ permalink: /indexes/by-occupation
 
 ## Roadman
 
-* **[Grant, Hugh](people/@34164542@-hugh-grant-b1843-d.md)** (about 1843 - ).
+* **[Grant, Hugh](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - ).
 
 ## Saddler
 

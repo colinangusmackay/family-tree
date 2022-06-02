@@ -3,30 +3,52 @@
     "Id": "i34164542",
     "Name": "Hugh Grant",
     "Gender": "Male",
-    "DateOfBirth": "about 1843",
+    "DateOfBirth": "about 1840",
     "DateOfDeath": ""
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i15156692",
+      "Name": "Donald Grant",
+      "Gender": "Male",
+      "DateOfBirth": "before 1820",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i44945539",
+      "Name": "Janet Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "before 1820",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i34164542",
       "Name": "Hugh Grant",
       "Gender": "Male",
-      "DateOfBirth": "about 1843",
+      "DateOfBirth": "about 1840",
       "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i15156692",
+          "i44945539"
+        ]
+      ]
     }
   ],
   "Spouses": [
     {
       "Id": "i41510480",
-      "Name": "X",
+      "Name": "Jessie Munro",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1829",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "15/Feb/1859",
       "DateOfDivorce": ""
     }
   ],

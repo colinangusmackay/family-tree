@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i16839684",
+  "Name": "Stasia LaFavre",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "before 2018",
+  "Parents": [
+    {
+      "Id": "i83409318",
+      "Name": "Charles Raymond Martensen",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "before 1910",
+      "DateOfDeath": "after 1971",
+      "Parents": []
+    },
+    {
+      "Id": "i17287208",
+      "Name": "Margaret",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "before 1910",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

@@ -120,7 +120,8 @@ permalink: /indexes/by-family-name
 - **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
 - **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - )
 - **[Christy Grant](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
-- **[Hugh Grant](people/@34164542@-hugh-grant-b1843-d.md)** (about 1843 - )
+- **[Donald Grant](people/@15156692@-donald-grant-b1820-d.md)** (before 1820 - )
+- **[Hugh Grant](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - )
 - **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944)
 - **[Jean Grant](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
 - **[Jessie Ann Grant](people/@15036054@-jessie-ann-grant-b1899-d.md)** (about 1899 - )
@@ -142,6 +143,10 @@ permalink: /indexes/by-family-name
 - **[Nellie Hayes](people/@5410300@-nellie-hayes-b-d2018.md)** ( - before 2018)
 - **[Sarah Hayes](people/@32431312@-sarah-hayes-b-d2018.md)** ( - before 2018)
 - **[Vernon Hayes](people/@31599970@-vernon-hayes-b-d2018.md)** ( - before 2018)
+
+## LaFavre
+
+- **[Stasia LaFavre](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
 
 ## Lindores
 
@@ -167,7 +172,7 @@ permalink: /indexes/by-family-name
 - **[Ann Mackay](people/@74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - )
 - **[Ann Mackay](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
 - **[Anna Jess Mackay](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
-- **[Annie Mackay](people/@503334@-annie-mackay-b-d1934~1944.md)** ( - bet' 1934 and 1944)
+- **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942)
 - **[Annie Mackay](people/@51252926@-annie-mackay-b1892-12-15-d1918.md)** (15/Dec/1892 - 1918)
 - **[Barbara Mackay](people/@61459684@-barbara-mackay-b-d1896.md)** ( - before 1896)
 - **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - )
@@ -187,6 +192,7 @@ permalink: /indexes/by-family-name
 - **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1919.md)** (12/Apr/1861 - before 1919)
 - **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934)
 - **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - )
+- **[Janet Mackay](people/@44945539@-janet-mackay-b1820-d.md)** (before 1820 - )
 - **[Janet Mackay](people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md)** (12/Nov/1890 - 15/May/1891)
 - **[Janet or Jessie Mackay](people/@42213240@-janet-or-jessie-mackay-b1840-d.md)** (1840 - )
 - **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932)
@@ -274,6 +280,11 @@ permalink: /indexes/by-family-name
 - **[John Morrison](people/@39757210@-john-morrison-b-d1877.md)** ( - before 1877)
 - **[Mary Morrison](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
 
+## Munro
+
+- **[Hugh Munro](people/@24463792@-hugh-munro-b1810-d.md)** (before 1810 - )
+- **[Jessie Munro](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
+
 ## O'Malley
 
 - **[Edward O'Malley](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - )
@@ -359,6 +370,7 @@ permalink: /indexes/by-family-name
 
 ## Sutherland
 
+- **[Isabella Sutherland](people/@80519670@-isabella-sutherland-b1810-d.md)** (before 1810 - )
 - **[Isabella Sutherland](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884)
 - **[William Sutherland](people/@72992640@-william-sutherland-b-d1856.md)** ( - after 1856)
 

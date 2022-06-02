@@ -111,7 +111,7 @@ permalink: /indexes/by-residence-location
 
 #### Inver, Tain
 
-- **[Mackay, Annie](people/@503334@-annie-mackay-b-d1934~1944.md)** ( - bet' 1934 and 1944)
+- **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942)
 
 ### Sutherland
 
@@ -141,6 +141,7 @@ permalink: /indexes/by-residence-location
 - **[Gillie, Williamina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 - **[Grant, Cate](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
 - **[Grant, Catherine](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - )
+- **[Grant, Hugh](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - )
 - **[Grant, Hugh](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944)
 - **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
 - **[Grant, Jessie Ann](people/@15036054@-jessie-ann-grant-b1899-d.md)** (about 1899 - )
@@ -173,6 +174,10 @@ permalink: /indexes/by-residence-location
 
 - **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
 - **[Sutherland, Isabella](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884)
+
+#### Littleferry
+
+- **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
 
 #### Rogart
 
@@ -309,6 +314,7 @@ permalink: /indexes/by-residence-location
 #### Quincy
 
 - **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976)
+- **[LaFavre, Stasia](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
 - **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
 - **[Stevens, Thomas](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i24463792",
+    "Name": "Hugh Munro",
+    "Gender": "Male",
+    "DateOfBirth": "before 1810",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i24463792",
+      "Name": "Hugh Munro",
+      "Gender": "Male",
+      "DateOfBirth": "before 1810",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i80519670",
+      "Name": "Isabella Sutherland",
+      "Gender": "Female",
+      "DateOfBirth": "before 1810",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i41510480",
+      "Name": "Jessie Munro",
+      "Gender": "Female",
+      "DateOfBirth": "about 1829",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i24463792",
+        "i80519670"
+      ]
+    }
+  ]
+}

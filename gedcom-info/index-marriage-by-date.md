@@ -34,6 +34,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **5/Dec/1856** : **[Alexander Cumming](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884) and **[Isabella Sutherland](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884).
 * **1857**
   * **16/Oct/1857** : **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ) and **[Isabella Mackay](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - ) at Dornoch, Sutherland, Scotland.
+* **1859**
+  * **15/Feb/1859** : **[Hugh Grant](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - ) and **[Jessie Munro](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ) at Golspie, Sutherland, Scotland.
 
 ### 1860s
 
@@ -83,10 +85,11 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1895**
   * **19/Feb/1895** : **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - ) and **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - ) at Dornoch, Sutherland, Scotland.
 * **1897**
+  * **before 1897** : X and **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
   * **19/Jan/1897** : **[Thomas Fraser](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932) and **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934) at Dornoch, Sutherland, Scotland.
   * **16/Jun/1897** : **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939) and X at Golspie, Sutherland, Scotland.
 * **1898**
-  * **21/Jan/1898** : **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) and **[Annie Mackay](people/@503334@-annie-mackay-b-d1934~1944.md)** ( - bet' 1934 and 1944).
+  * **21/Jan/1898** : **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) and **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
 
 ## 20th Century
 
