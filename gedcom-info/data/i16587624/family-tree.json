@@ -12,7 +12,7 @@
       "Name": "Isabella Mackay",
       "Gender": "Female",
       "DateOfBirth": "7/Aug/1860",
-      "DateOfDeath": "after 1919",
+      "DateOfDeath": "after 1923",
       "RelationToSubject": "mother"
     },
     {
@@ -144,18 +144,18 @@
       "Name": "Thomas Mackay",
       "Gender": "Male",
       "DateOfBirth": "about 1884",
-      "DateOfDeath": "",
+      "DateOfDeath": "9/Nov/1934",
       "RelationToSubject": "husband",
-      "DateOfMarriage": "24/Jun/1919",
+      "DateOfMarriage": "27/Jun/1919",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
     {
       "Id": "i52754046",
-      "Name": "X",
+      "Name": "Kenneth Mackay",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "28/Mar/1920",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [

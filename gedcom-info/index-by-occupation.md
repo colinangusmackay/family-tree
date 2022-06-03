@@ -4,6 +4,10 @@ permalink: /indexes/by-occupation
 ---
 
 # Index - By Occupation
+## 
+
+* **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
+
 ## ____ Caster
 
 * **[Seaton, William](people/@58232144@-william-seaton-b-d1880.md)** ( - after 1880).
@@ -168,6 +172,7 @@ permalink: /indexes/by-occupation
 * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1919.md)** (12/Apr/1861 - before 1919), mentioned 8 times.
 * **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ).
 * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ).
+* **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ).
 * **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ).
 * **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949).
@@ -183,7 +188,7 @@ permalink: /indexes/by-occupation
 
 ## Fishwife
 
-* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1919.md)** (7/Aug/1860 - after 1919).
+* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
 
 ## Fishworker
 
@@ -346,7 +351,7 @@ permalink: /indexes/by-occupation
 
 ## Seaman (Merchant Services)
 
-* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1884-d.md)** (about 1884 - ).
+* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1884-d1934-11-9.md)** (about 1884 - 9/Nov/1934).
 
 ## Servant
 

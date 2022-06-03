@@ -7,33 +7,6 @@
   "DateOfDeath": "6/May/1990",
   "Children": [
     {
-      "Id": "i75556627",
-      "Name": "X",
-      "Gender": "Male",
-      "Relationship": "step-son",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Children": []
-    },
-    {
-      "Id": "i61109516",
-      "Name": "X",
-      "Gender": "Male",
-      "Relationship": "step-son",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Children": []
-    },
-    {
-      "Id": "i7372126",
-      "Name": "X",
-      "Gender": "Female",
-      "Relationship": "daughter",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Children": []
-    },
-    {
       "Id": "i44331192",
       "Name": "X",
       "Gender": "Female",

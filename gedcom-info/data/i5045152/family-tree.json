@@ -4,7 +4,7 @@
     "Name": "Thomas Mackay",
     "Gender": "Male",
     "DateOfBirth": "about 1884",
-    "DateOfDeath": ""
+    "DateOfDeath": "9/Nov/1934"
   },
   "Parents": [
     {
@@ -30,7 +30,7 @@
       "Name": "Thomas Mackay",
       "Gender": "Male",
       "DateOfBirth": "about 1884",
-      "DateOfDeath": "",
+      "DateOfDeath": "9/Nov/1934",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -48,16 +48,16 @@
       "DateOfBirth": "23/Sep/1889",
       "DateOfDeath": "15/May/1970",
       "RelationToSubject": "wife",
-      "DateOfMarriage": "24/Jun/1919",
+      "DateOfMarriage": "27/Jun/1919",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
     {
       "Id": "i52754046",
-      "Name": "X",
+      "Name": "Kenneth Mackay",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "28/Mar/1920",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [

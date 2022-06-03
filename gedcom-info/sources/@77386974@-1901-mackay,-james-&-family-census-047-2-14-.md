@@ -194,7 +194,7 @@ References | 1901 047/2/14
 ## Source Referenced by
 
 * [Annie Mackay](../people/@51252926@-annie-mackay-b1892-12-15-d1918.md) (15/Dec/1892 - 1918)
-* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1919.md) (7/Aug/1860 - after 1919)
+* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
 * [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1919.md) (12/Apr/1861 - before 1919)
 * [John Paul Mackay](../people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
 * [Kenneth Mackay](../people/@48909111@-kenneth-mackay-b1895-2-2-d.md) (2/Feb/1895 - )

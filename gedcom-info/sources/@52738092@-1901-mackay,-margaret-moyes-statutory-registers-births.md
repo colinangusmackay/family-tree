@@ -48,7 +48,7 @@ References | 1901-B-047/41
 ## Source Referenced by
 
 * [Annie Mackay](../people/@51252926@-annie-mackay-b1892-12-15-d1918.md) (15/Dec/1892 - 1918)
-* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1919.md) (7/Aug/1860 - after 1919)
+* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
 * [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1919.md) (12/Apr/1861 - before 1919)
 * [John Paul Mackay](../people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
 * [Lucy Mackay](../people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) (23/Sep/1889 - 15/May/1970)

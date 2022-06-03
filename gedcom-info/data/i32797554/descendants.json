@@ -4,7 +4,7 @@
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "7/Aug/1860",
-  "DateOfDeath": "after 1919",
+  "DateOfDeath": "after 1923",
   "Children": [
     {
       "Id": "i16587624",
@@ -16,10 +16,10 @@
       "Children": [
         {
           "Id": "i52754046",
-          "Name": "X",
+          "Name": "Kenneth Mackay",
           "Gender": "Male",
           "Relationship": "son",
-          "DateOfBirth": "",
+          "DateOfBirth": "28/Mar/1920",
           "DateOfDeath": "",
           "Children": []
         }

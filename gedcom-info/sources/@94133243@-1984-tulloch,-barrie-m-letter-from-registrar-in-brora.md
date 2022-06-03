@@ -43,7 +43,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 * [David Mackay](../people/@46263680@-david-mackay-b1846-d1860.md) (1846 - 1860)
 * [Donald Mackay](../people/@32633938@-donald-mackay-b1855-d.md) (about 1855 - )
 * [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
-* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1919.md) (7/Aug/1860 - after 1919)
+* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
 * [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1919.md) (12/Apr/1861 - before 1919)
 * [Jane or Jean Mackay](../people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md) (bet' 1859 and 1863 - )
 * [John Mackay](../people/@15814480@-john-mackay-b1864~1865-d.md) (bet' 1864 and 1865 - )

@@ -1,0 +1,45 @@
+﻿{
+  "Subject": {
+    "Id": "i52754046",
+    "Name": "Kenneth Mackay",
+    "Gender": "Male",
+    "DateOfBirth": "28/Mar/1920",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i5045152",
+      "Name": "Thomas Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1884",
+      "DateOfDeath": "9/Nov/1934",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i16587624",
+      "Name": "Lucy Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "23/Sep/1889",
+      "DateOfDeath": "15/May/1970",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i52754046",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "28/Mar/1920",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i16587624",
+          "i5045152"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

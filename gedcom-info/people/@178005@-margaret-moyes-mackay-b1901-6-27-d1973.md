@@ -15,7 +15,7 @@ permalink: /people/i178005
 
 ## Immediate Family
 
-* Mother: [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1919.md) (7/Aug/1860 - after 1919)
+* Mother: [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
 * Father: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) (12/Apr/1861 - before 1919)
 * Husband: [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) (19/Oct/1877 - 9/May/1954)
 * Sister: [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) (23/Sep/1889 - 15/May/1970)
@@ -31,28 +31,28 @@ permalink: /people/i178005
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-27/Jun/1901 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1919.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+27/Jun/1901 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
 1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1892-12-15-d1918.md) died. | [2](#2) | [3](#3)
 before 1919 | Death of father | [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) died. | [4](#4) | 
-after 1919 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1919.md) died. | [4](#4) | 
-2/Mar/1934 | Marriage | Married to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) in Dornoch, Sutherland, Scotland | [5](#5) | 
-1935 | Birth of daughter | X born to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) and [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md). | [6](#6) | 
-9/May/1954 | Death of partner | [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) died in Embo, Sutherland, Scotland. | [7](#7) | 
-3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [8](#8) | 
-15/May/1970 | Death of sister | [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) died in Inverness, Scotland. | [9](#9) | 
-1973 | Died | Died in Dornoch, Sutherland, Scotland. | [10](#10) | 
+after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) died. | [4](#4), [5](#5) | 
+2/Mar/1934 | Marriage | Married to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) in Dornoch, Sutherland, Scotland | [6](#6) | 
+1935 | Birth of daughter | X born to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) and [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md). | [7](#7) | 
+9/May/1954 | Death of partner | [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) died in Embo, Sutherland, Scotland. | [8](#8) | 
+3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [9](#9) | 
+15/May/1970 | Death of sister | [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) died in Inverness, Scotland. | [10](#10) | 
+1973 | Died | Died in Dornoch, Sutherland, Scotland. | [11](#11) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1934 | 6 Terrace Street, Embo, Sutherland, Scotland | [5](#5), [11](#11)
+1934 | 6 Terrace Street, Embo, Sutherland, Scotland | [6](#6), [12](#12)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1934 | Fishworker in Embo, Sutherland, Scotland | [5](#5)
+1934 | Fishworker in Embo, Sutherland, Scotland | [6](#6)
 
 ## Notes
 
@@ -101,6 +101,14 @@ Date | Occupation | Sources & Notes
 
 ### 5
 
+**1923 MACKAY, KENNETH (Canada, Ocean Arrivals (Form 30A), 1919-1927)**
+
+* [Full text and notes](../sources/@85723388@-1923-mackay,-kenneth-canada,-ocean-arrivals-form-30a-,-1919-1927-.md)
+* Publication: Canada, Ocean Arrivals (Form 30A), 1919-1927
+* Date: 15/Mar/1923
+
+### 6
+
 **1934 X, MARGARET MOYES (statutory registers Marriages 047/2)**
 
 * [Full text and notes](../sources/@97432860@-1934-mackay,-margaret-moyes-statutory-registers-marriages-047-2-.md)
@@ -108,7 +116,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * M1934-047/2
 
-### 6
+### 7
 
 **P176 Embo - genealogy, Uncle Sandy's Story and a little history**
 
@@ -120,7 +128,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * (ISBN) 978-1-910205-49-5
 
-### 7
+### 8
 
 **1954 FRASER, KENNETH - Statutory Register Deathes 047/11**
 
@@ -130,7 +138,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1954 D 047/11
 
-### 8
+### 9
 
 **1969 X, JOHN PAUL (Statutory registers Deaths 047/18)**
 
@@ -140,9 +148,9 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1969 D 047/18
 
-### 9
+### 10
 
-**1970 X, LUCY (Statutory Register Deaths)**
+**1970 MACKAY, LUCY (Statutory Register Deaths)**
 
 * [Full text and notes](../sources/@94309804@-1970-mackay,-lucy-statutory-register-deaths-.md)
 * Date: 15/May/1970
@@ -150,7 +158,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1970 D 98/A 269
 
-### 10
+### 11
 
 **1973 FRASER, MARGARET MOYES (Index of Register of Deaths)**
 
@@ -159,7 +167,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1973 M 182/22
 
-### 11
+### 12
 
 > 6 Terrace Street, Embo: [https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656](https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656)
 >

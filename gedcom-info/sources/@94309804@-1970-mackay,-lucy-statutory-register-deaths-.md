@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s94309804
 ---
 
-# 1970 X, LUCY (Statutory Register Deaths)
+# 1970 MACKAY, LUCY (Statutory Register Deaths)
 
 Field | Detail
 ---:|:---
@@ -16,7 +16,58 @@ References | 1970 D 98/A 269
 
 ## Text
 
-_Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
+> District No 98/A
+>
+> Year 1970
+>
+> Entry No 269
+>
+> <br/>
+>
+> DEATH registered in the district of Inverness in the County of Inverness
+>
+> <br/>
+>
+> Name and Surname: Lucy Mackay
+>
+> Sex: F
+>
+> Marital Status: Widow
+>
+> Date of Birth: 23/9/1889
+>
+> Age: 80 years
+>
+> Name, Surname and Occupation of spouse: Thomas Mackay; Seaman, Merchant Navy
+>
+> <br/>
+>
+> When and Where died: 1970 May Fifthteenth 0445 hours; 1a Leachkin Road, Inverness
+>
+> Usual Residence: 65 White Street, Whitburn, West Lothian
+>
+> <br/>
+>
+> Name, Surname and Occpation of Father: James Mackay; Fisherman (deceased)
+>
+> Name, and Maiden Surname of Mother: Isabella Mackay M.S. Mackay (deceased)
+>
+> <br/>
+>
+> Cause of Death: I(a) Broncho Pneumonia (b) Generalized Atherosclerosis, II Pre-senile Dementia
+>
+> Name and Qualification of Medical Practitioner: M. Wallace M.B. Ch.B
+>
+> <br/>
+>
+> Informant's signature and Qualification: Kenneth Mackay; Son
+>
+> <br/>
+>
+> When Registered: 1970 May 15th
+>
+> Registrar's Signature: J. Mackay, Registrar
+>
 
 ## Notes
 

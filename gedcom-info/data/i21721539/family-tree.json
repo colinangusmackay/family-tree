@@ -61,8 +61,8 @@
       "Gender": "Female",
       "DateOfBirth": "",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "30/Sep/1972",
       "DateOfDivorce": ""
     },
     {
@@ -71,48 +71,12 @@
       "Gender": "Female",
       "DateOfBirth": "calc'd 1904",
       "DateOfDeath": "16/Dec/1971",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "1927",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
-    {
-      "Id": "i75556627",
-      "Name": "X",
-      "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "step-son",
-      "ParentIds": [
-        "i21721539",
-        "i33863084"
-      ]
-    },
-    {
-      "Id": "i61109516",
-      "Name": "X",
-      "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "step-son",
-      "ParentIds": [
-        "i21721539",
-        "i33863084"
-      ]
-    },
-    {
-      "Id": "i7372126",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i21721539",
-        "i33863084"
-      ]
-    },
     {
       "Id": "i44331192",
       "Name": "X",
