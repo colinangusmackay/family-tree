@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s17286223
 ---
 
-# 1911 X, WILLIAM - 1911 England Census
+# 1911 STEAD, WILLIAM - 1911 England Census
 
 Field | Detail
 ---:|:---
@@ -16,7 +16,196 @@ References |
 
 ## Text
 
-_Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
+> 1911 Census for 23 Denton Terrace High Street, Morley, Yorkshire
+>
+> <br/>
+>
+> 1 = Name
+>
+> 2 = Relationship to head of family
+>
+> 3/4 = Age and sex
+>
+> 5 = Marriage state
+>
+> <br/>
+>
+> For each Married Woman (6 - 9)
+>
+> 6 = Years married
+>
+> 7 = Total children born alive
+>
+> 8 = Children still living
+>
+> 9 = Children who have died
+>
+> <br/>
+>
+> 10 = Occupation
+>
+> 11 = Industry
+>
+> 12 = Employer, Worker, etc.
+>
+> 13 = Working at home?
+>
+> 14 = Birthplace
+>
+> 15 = Nationality (if foreign born)
+>
+> 16 = Infirmity
+>
+> <br/>
+>
+> ---
+>
+> <br/>
+>
+> 1. William Stead
+>
+> 2. Head
+>
+> 3: 44 Male
+>
+> 5: Married
+>
+> 10: Crane Drive
+>
+> 11: Stone Quarries
+>
+> 12: Worker
+>
+> 14: Bramley, Yorkshire
+>
+> <br/>
+>
+> ---
+>
+> <br/>
+>
+> 1: Harriet Stead
+>
+> 2: Wife
+>
+> 4: 44 Female
+>
+> 5: Married
+>
+> 6: 24
+>
+> 7: 5
+>
+> 8: 4
+>
+> 9: 1
+>
+> 14: Morley, Yorkshire
+>
+> <br/>
+>
+> ---
+>
+> <br/>
+>
+> 1. George Stead
+>
+> 2. Grandson
+>
+> 3: One Month, Male
+>
+> 14. Morley, Yorkshire
+>
+> <br/>
+>
+> ---
+>
+> <br/>
+>
+> 1: Harry Stead
+>
+> 2: Son
+>
+> 3: 23 Male
+>
+> 5: Married
+>
+> 6: 5
+>
+> 10: Mason
+>
+> 11: Stone Quarries
+>
+> 12: Worker
+>
+> 14: Morley, Yorkshire
+>
+> <br/>
+>
+> ---
+>
+> <br/>
+>
+> 1: Emily Stead
+>
+> 2: Daughter
+>
+> 4: 19 Female
+>
+> 5: Single
+>
+> 10: Weaver
+>
+> 11: Woollen Mill
+>
+> 12: Worker
+>
+> 14: Morley, Yorkshire
+>
+> <br/>
+>
+> ---
+>
+> <br/>
+>
+> 1: Albert Stead
+>
+> 2: Son
+>
+> 3: 10 Male
+>
+> 10: School
+>
+> 14: Morley, Yorkshire
+>
+> <br/>
+>
+> ---
+>
+> <br/>
+>
+> 1: Laura Stead
+>
+> 2: Daughter
+>
+> 4: 7 Female
+>
+> 14: Morley, Yorkshire
+>
+> <br/>
+>
+> ---
+>
+> <br/>
+>
+> 1: Cyril Stead
+>
+> 2: Grandson
+>
+> 3: 3 Male
+>
+> 14: Morley, Yorkshire
+>
 
 ## Source Referenced by
 

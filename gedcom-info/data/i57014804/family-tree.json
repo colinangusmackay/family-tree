@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i57014804",
+    "Name": "Margaret McRae",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i6567214",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i80629743",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i57014804",
+      "Name": "Margaret McRae",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i6567214",
+          "i80629743"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i89853996",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "17/Dec/1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "22/Dec/1916",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i14926290",
+      "Name": "Anne Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "23/Feb/1920",
+      "DateOfDeath": "14/Nov/2002",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i89853996",
+        "i57014804"
+      ]
+    }
+  ]
+}

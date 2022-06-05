@@ -24,7 +24,7 @@
           "Parents": [
             {
               "Id": "i20237816",
-              "Name": "X",
+              "Name": "Janet Mackay",
               "Gender": "Female",
               "Relationship": "mother",
               "DateOfBirth": "",
@@ -33,7 +33,7 @@
             },
             {
               "Id": "i30341840",
-              "Name": "X",
+              "Name": "Kenneth Mackay",
               "Gender": "Male",
               "Relationship": "father",
               "DateOfBirth": "",
@@ -325,7 +325,7 @@
               "Parents": [
                 {
                   "Id": "i60647890",
-                  "Name": "X",
+                  "Name": "Alexander Mackay",
                   "Gender": "Male",
                   "Relationship": "father",
                   "DateOfBirth": "",
@@ -334,7 +334,7 @@
                 },
                 {
                   "Id": "i85807260",
-                  "Name": "X",
+                  "Name": "Ann Johnson",
                   "Gender": "Female",
                   "Relationship": "mother",
                   "DateOfBirth": "",

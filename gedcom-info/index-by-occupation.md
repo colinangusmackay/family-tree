@@ -20,6 +20,10 @@ permalink: /indexes/by-occupation
 
 * **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015).
 
+## Baker (Journeyman)
+
+* **[Ramsay, John](people/@63088441@-john-ramsay-b-d.md)**.
+
 ## Biscuit Factory Operative
 
 * **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004).
@@ -58,6 +62,10 @@ permalink: /indexes/by-occupation
 * **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
 * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
 
+## Coalminer
+
+* **[Reid, John](people/@95320597@-john-reid-b-d.md)**.
+
 ## Cook
 
 * **[Grant, Catherine](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ).
@@ -77,6 +85,7 @@ permalink: /indexes/by-occupation
 ## Crofter
 
 * **[Matheson, Hector](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896).
+* **[McIver, Rodrick](people/@53638178@-rodrick-mciver-b-d.md)**.
 * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
 * **[McLean, John](people/@91397610@-john-mclean-b-d1877.md)** ( - after 1877).
 
@@ -171,6 +180,7 @@ permalink: /indexes/by-occupation
 * **[Lindores, William](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - ).
 * **[MacDonald, Alexander](people/@47072524@-alexander-macdonald-b-d1875.md)** ( - before 1875).
 * **[MacDonald, Donald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - ).
+* **[Mackay, Alexander](people/@56321492@-alexander-mackay-b-d.md)**.
 * **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ).
 * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ).
 * **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ).
@@ -332,6 +342,10 @@ permalink: /indexes/by-occupation
 
 * **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016).
 
+## Railway Driver
+
+* **[Ramsay, John](people/@63088441@-john-ramsay-b-d.md)**.
+
 ## Railway Engine Driver
 
 * **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920).
@@ -347,6 +361,10 @@ permalink: /indexes/by-occupation
 ## Roadman
 
 * **[Grant, Hugh](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - ).
+
+## Rubber Worker
+
+* **[Morgan, Ann](people/@60684755@-ann-morgan-b-d.md)**.
 
 ## Saddler
 
@@ -376,6 +394,10 @@ permalink: /indexes/by-occupation
 ## Ship Steward
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
+
+## Shoemaker (journeyman)
+
+* **[Mackay, Kenneth](people/@27357972@-kenneth-mackay-b-d.md)**.
 
 ## Shorthand Typist
 
@@ -415,6 +437,10 @@ permalink: /indexes/by-occupation
 * **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
 * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
 * **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - ).
+
+## Water Fittings Inspector
+
+* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b-d.md)**.
 
 ## Woollen Mill Worker
 

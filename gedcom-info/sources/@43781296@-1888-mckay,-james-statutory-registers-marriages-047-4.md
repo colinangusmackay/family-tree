@@ -16,7 +16,60 @@ References | 1888 M 047/4
 
 ## Text
 
-_Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
+> 1888 MARRIAGES in the District of Dornoch in the County of Sutherland
+>
+> <br/>
+>
+> No. 4
+>
+> When, Where and How Married: 1888 on the twenty-third day of October at Dornoch. After banns according to the Forms of the established Church of Scotland
+>
+> <br/>
+>
+> Groom:
+>
+> Signatures of Parties: (Signed) Jms. M'Kay 
+>
+> Rank or Profession, whether single or widowed, and relationship (if any): Fisherman (Batchelor)
+>
+> Age: 24
+>
+> Usual Residence: Fishertown, Dornoch
+>
+> Name, Surname, and Rank or Profession of Father: George M'Kay, Fisherman
+>
+> Name, and Maiden Surname of Mother: Elizabeth M'Kay M.S. Mathieson
+>
+> <br/>
+>
+> Bride:
+>
+> Signature of Parties: (Signed) Isabella M'Kay Her X Mark
+>
+> Rank of Profession, whether single of widowed, and relationship (if any): 
+>
+> Age: 20
+>
+> Usual Residence: Fishertown, Dornoch
+>
+> Name, Surname, and Rank or Profession of Father: Kenneth M'Kay, Fisherman
+>
+> Name and Maiden Surname of Mother: Janet M'Kay M.S. M'Kay
+>
+> <br/>
+>
+> If a regular Marriage, Signature of officiating Minister and Witnesses.
+>
+> (Signed) Don. Grant Minister of Dornoch
+>
+> Signed, John M'Kay, Witness
+>
+> Tomas M'Kay, Witness
+>
+> <br/>
+>
+> When & Where Registered and Signature of Registrar: 1888 October 24th at Dornoch. Charles Hill, Registrar
+>
 
 ## Source Referenced by
 

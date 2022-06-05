@@ -14,8 +14,8 @@ permalink: /people/i88610293
 
 ## Immediate Family
 
-* Father: X
-* Mother: X
+* Father: [Roderick McKenzie](./@76793596@-roderick-mckenzie-b-d.md)
+* Mother: [Isabella Patterson](./@24882788@-isabella-patterson-b-d.md)
 * Daughter: [Elizabeth McIver](./@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
 * Husband: [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) (17/Aug/1878 - 21/Feb/1938)
 * Son: [Roderick McKenzie McIver](./@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md) (22/Oct/1910 - 1999)
@@ -27,7 +27,7 @@ permalink: /people/i88610293
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-26/May/1884 | Born | Born to X and X in Glasgow, Scotland. | [1](#1) | 
+26/May/1884 | Born | Born to [Roderick McKenzie](./@76793596@-roderick-mckenzie-b-d.md) and [Isabella Patterson](./@24882788@-isabella-patterson-b-d.md) in Glasgow, Scotland. | [1](#1) | 
 31/Dec/1909 | Marriage | Married to [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) in Glasgow, Scotland | [2](#2), [3](#3), [4](#4) | 
 22/Oct/1910 | Birth of son | [Roderick McKenzie McIver](./@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md) born to [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) and [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) in Glasgow, Scotland. | [3](#3) | 
 1914 | Death of daughter | [Elizabeth McIver](./@80366022@-elizabeth-mciver-b-d1914.md) died. |  | 
@@ -48,7 +48,7 @@ Date | Residence | Sources & Notes
 
 ### 1
 
-**1884 X, MARGARET PATERS (Statutory Registers Births 644/9 832)**
+**1884 MCKENZIE, MARGARET PATERS (Statutory Registers Births 644/9 832)**
 
 * [Full text and notes](../sources/@45499690@-1884-mckenzie,-margaret-paters-statutory-registers-births-644-9-832-.md)
 * Date: 14/Jun/1884

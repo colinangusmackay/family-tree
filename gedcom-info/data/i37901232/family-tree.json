@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i37901232",
+    "Name": "Mary E Prey",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i37901232",
+      "Name": "Mary E Prey",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i69952770",
+      "Name": "Barney Predendall",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i2361090",
+      "Name": "Carrie Elizabeth Predendall",
+      "Gender": "Female",
+      "DateOfBirth": "about 1901",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i69952770",
+        "i37901232"
+      ]
+    }
+  ]
+}

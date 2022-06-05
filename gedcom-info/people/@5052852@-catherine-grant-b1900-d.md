@@ -73,7 +73,7 @@ Date | Occupation | Sources & Notes
 
 ### 4
 
-**1930 X/GRANT (Michigan, U.S., Marriage Records, 1867-1952)**
+**1930 MCLEAN/GRANT (Michigan, U.S., Marriage Records, 1867-1952)**
 
 * [Full text and notes](../sources/@60304245@-1930-mclean-grant-michigan,-u.s.,-marriage-records,-1867-1952-.md)
 

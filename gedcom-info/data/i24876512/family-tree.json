@@ -1,0 +1,35 @@
+﻿{
+  "Subject": {
+    "Id": "i24876512",
+    "Name": "Donald Cumming",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i24876512",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [],
+  "Children": [
+    {
+      "Id": "i11846578",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "11/Nov/1891",
+      "DateOfDeath": "Dec/1967",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i24876512"
+      ]
+    }
+  ]
+}

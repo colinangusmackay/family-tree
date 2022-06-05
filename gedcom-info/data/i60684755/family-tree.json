@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i60684755",
+    "Name": "Ann Morgan",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i38398015",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i96321158",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i60684755",
+      "Name": "Ann Morgan",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i38398015",
+          "i96321158"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i63088441",
+      "Name": "John Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i64225415",
+      "Name": "John Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "21/Feb/1880",
+      "DateOfDeath": "20/Jun/1920",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i63088441",
+        "i60684755"
+      ]
+    }
+  ]
+}

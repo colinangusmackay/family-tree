@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i19799810",
+    "Name": "Jane Gordon",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i19799810",
+      "Name": "Jane Gordon",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i27357972",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i49855242",
+      "Name": "Betsy Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 1855 and 1856",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i27357972",
+        "i19799810"
+      ]
+    }
+  ]
+}

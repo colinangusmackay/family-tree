@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i56321492",
+    "Name": "Alexander Mackay",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i56321492",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i31091676",
+      "Name": "Jessie Grant",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i503334",
+      "Name": "Annie Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1865",
+      "DateOfDeath": "1/May/1942",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i56321492",
+        "i31091676"
+      ]
+    }
+  ]
+}

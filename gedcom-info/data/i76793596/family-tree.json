@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i76793596",
+    "Name": "Roderick McKenzie",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i76793596",
+      "Name": "Roderick McKenzie",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i24882788",
+      "Name": "Isabella Patterson",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "18/Jul/1872",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i88610293",
+      "Name": "Margaret Paterson McKenzie",
+      "Gender": "Female",
+      "DateOfBirth": "26/May/1884",
+      "DateOfDeath": "5/Apr/1964",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i76793596",
+        "i24882788"
+      ]
+    }
+  ]
+}

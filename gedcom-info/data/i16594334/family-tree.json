@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i16594334",
+    "Name": "Peter Fraser",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i16594334",
+      "Name": "Peter Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i10983472",
+      "Name": "Christina Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i91376191",
+      "Name": "Kenneth Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "19/Oct/1877",
+      "DateOfDeath": "9/May/1954",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i16594334",
+        "i10983472"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+﻿{
+  "Subject": {
+    "Id": "i68661720",
+    "Name": "Nancy",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i68661720",
+      "Name": "Nancy",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i68900898",
+      "Name": "Harry Stead",
+      "Gender": "Male",
+      "DateOfBirth": "about 1888",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "about 1906",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i61214710",
+      "Name": "Cyril Stead",
+      "Gender": "Male",
+      "DateOfBirth": "11/Mar/1908",
+      "DateOfDeath": "25/Nov/1980",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i68900898",
+        "i68661720"
+      ]
+    },
+    {
+      "Id": "i77215226",
+      "Name": "George Stead",
+      "Gender": "Male",
+      "DateOfBirth": "Mar/1911",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i68900898",
+        "i68661720"
+      ]
+    }
+  ]
+}

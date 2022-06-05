@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i59598912",
+    "Name": "Ann Mackay",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i59598912",
+      "Name": "Ann Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i10594034",
+      "Name": "Hugh Ross",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i75057664",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i10594034",
+        "i59598912"
+      ]
+    }
+  ]
+}

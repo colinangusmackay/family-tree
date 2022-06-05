@@ -25,7 +25,7 @@ Date | Item | Description | Sources | Notes
 
 ### 1
 
-**1911 X, WILLIAM - 1911 England Census**
+**1911 STEAD, WILLIAM - 1911 England Census**
 
 * [Full text and notes](../sources/@17286223@-1911-stead,-william-1911-england-census.md)
 * Date: 3/Apr/1911

@@ -109,7 +109,7 @@ Date | Occupation | Sources & Notes
 
 ### 6
 
-**1934 X, MARGARET MOYES (statutory registers Marriages 047/2)**
+**1934 MACKAY, MARGARET MOYES (statutory registers Marriages 047/2)**
 
 * [Full text and notes](../sources/@97432860@-1934-mackay,-margaret-moyes-statutory-registers-marriages-047-2-.md)
 * Responsible Agency: National Records of Scotland

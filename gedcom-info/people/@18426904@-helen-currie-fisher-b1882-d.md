@@ -55,7 +55,7 @@ Date | Occupation | Sources & Notes
 
 ### 2
 
-**1905 X, X (Statutory Register Marriages 685/5 18)**
+**1905 RAMSAY, JOHN (Statutory Register Marriages 685/5 18)**
 
 * [Full text and notes](../sources/@83715308@-1905-ramsay,-john-statutory-register-marriages-685-5-18-.md)
 * Date: 14/Jan/1905

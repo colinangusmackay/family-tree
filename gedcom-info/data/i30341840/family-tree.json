@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i30341840",
+    "Name": "Kenneth Mackay",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i30341840",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i20237816",
+      "Name": "Janet Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i32797554",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "7/Aug/1860",
+      "DateOfDeath": "after 1923",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i30341840",
+        "i20237816"
+      ]
+    }
+  ]
+}

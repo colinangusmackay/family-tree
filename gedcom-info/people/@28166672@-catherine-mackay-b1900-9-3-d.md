@@ -14,7 +14,7 @@ permalink: /people/i28166672
 
 ## Immediate Family
 
-* Father: X
+* Father: [John Mackay](./@53390906@-john-mackay-b-d.md)
 * Daughter: X
 * Mother: [Matilda MacLeod](./@31540392@-matilda-macleod-b1861-d1949-11-9.md) (about 1861 - 9/Nov/1949)
 * Husband: [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
@@ -23,7 +23,7 @@ permalink: /people/i28166672
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-3/Sep/1900 | Born | Born to X and [Matilda MacLeod](./@31540392@-matilda-macleod-b1861-d1949-11-9.md) in Stornoway, Eilean Siar, Scotland. | [1](#1) | 
+3/Sep/1900 | Born | Born to [John Mackay](./@53390906@-john-mackay-b-d.md) and [Matilda MacLeod](./@31540392@-matilda-macleod-b1861-d1949-11-9.md) in Stornoway, Eilean Siar, Scotland. | [1](#1) | 
 
 ## Known Residences
 
@@ -41,7 +41,7 @@ Date | Occupation | Sources & Notes
 
 ### 1
 
-**1900 X, CATHERINE (Statutory Registers Births 088/244)**
+**1900 MACKAY, CATHERINE (Statutory Registers Births 088/244)**
 
 * [Full text and notes](../sources/@6192783@-1900-mackay,-catherine-statutory-registers-births-088-244-.md)
 * Date: 24/Sep/1900
@@ -51,7 +51,7 @@ Date | Occupation | Sources & Notes
 
 ### 2
 
-**1936 X, X PAUL (Statutory Registers Marriages 047/8)**
+**1936 MACKAY, JOHN PAUL (Statutory Registers Marriages 047/8)**
 
 * [Full text and notes](../sources/@35370951@-1936-mackay,-john-paul-statutory-registers-marriages-047-8-.md)
 * Date: 10/Nov/1936

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i27357972",
+  "Name": "Kenneth Mackay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i49855242",
+      "Name": "Betsy Mackay",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "bet' 1855 and 1856",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

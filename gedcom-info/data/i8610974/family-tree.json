@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i8610974",
+    "Name": "Christy MacLennan",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i8610974",
+      "Name": "Christy MacLennan",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i53638178",
+      "Name": "Rodrick McIver",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i91038040",
+      "Name": "Rodrick McIver",
+      "Gender": "Male",
+      "DateOfBirth": "about 1821",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i53638178",
+        "i8610974"
+      ]
+    }
+  ]
+}

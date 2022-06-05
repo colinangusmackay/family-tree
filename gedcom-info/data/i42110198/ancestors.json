@@ -16,7 +16,7 @@
       "Parents": [
         {
           "Id": "i24876512",
-          "Name": "X",
+          "Name": "Donald Cumming",
           "Gender": "Male",
           "Relationship": "father",
           "DateOfBirth": "",
@@ -240,7 +240,7 @@
               "Parents": [
                 {
                   "Id": "i60647890",
-                  "Name": "X",
+                  "Name": "Alexander Mackay",
                   "Gender": "Male",
                   "Relationship": "father",
                   "DateOfBirth": "",
@@ -249,7 +249,7 @@
                 },
                 {
                   "Id": "i85807260",
-                  "Name": "X",
+                  "Name": "Ann Johnson",
                   "Gender": "Female",
                   "Relationship": "mother",
                   "DateOfBirth": "",

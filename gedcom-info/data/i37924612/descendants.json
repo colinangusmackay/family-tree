@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i37924612",
+  "Name": "Agnes Russell",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i2617088",
+      "Name": "Thomas Mitchell Reid",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "14/Jan/1893",
+      "DateOfDeath": "10/May/1974",
+      "Children": []
+    }
+  ]
+}

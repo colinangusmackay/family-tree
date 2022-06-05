@@ -9,15 +9,15 @@ permalink: /people/i56292410
 
 ## Immediate Family
 
-* Father: X
-* Mother: X
+* Father: [Harvey McLean](./@70471714@-harvey-mclean-b-d.md)
+* Mother: [Clara Sherwood](./@79435398@-clara-sherwood-b-d.md)
 * Wife: [Catherine Grant](./@5052852@-catherine-grant-b1900-d.md) (about 1900 - )
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1901 | Born | Born to X and X in Waterville, Estrie, Quebec, Canada. | [1](#1) | 
+about 1901 | Born | Born to [Harvey McLean](./@70471714@-harvey-mclean-b-d.md) and [Clara Sherwood](./@79435398@-clara-sherwood-b-d.md) in Waterville, Estrie, Quebec, Canada. | [1](#1) | 
 
 ## Known Residences
 
@@ -35,7 +35,7 @@ Date | Occupation | Sources & Notes
 
 ### 1
 
-**1930 X/GRANT (Michigan, U.S., Marriage Records, 1867-1952)**
+**1930 MCLEAN/GRANT (Michigan, U.S., Marriage Records, 1867-1952)**
 
 * [Full text and notes](../sources/@60304245@-1930-mclean-grant-michigan,-u.s.,-marriage-records,-1867-1952-.md)
 

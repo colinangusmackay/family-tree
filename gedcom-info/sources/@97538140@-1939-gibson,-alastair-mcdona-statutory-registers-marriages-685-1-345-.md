@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s97538140
 ---
 
-# 1939 X, ALASTAIR MCDONA (Statutory Registers Marriages 685/1 345)
+# 1939 GIBSON, ALASTAIR MCDONA (Statutory Registers Marriages 685/1 345)
 
 Field | Detail
 ---:|:---
@@ -16,7 +16,66 @@ References |
 
 ## Text
 
-_Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
+> 1939 MARRIAGES in the District of Haymarket in the City of Edinburgh
+>
+> <br/>
+>
+> No. 345
+>
+> When, Where and How Married: 1939 on the First day of September at 2 St Catherine Gardens, Edinburgh; After Banns according to the forms of the Church of Scotland
+>
+> <br/>
+>
+> <br/>
+>
+> Groom
+>
+> Name (in full): Alastair McDonald Gibson
+>
+> Signed: Alastair Gibson
+>
+> Profession: Minister, Church of Scotland
+>
+> Condition: Bachelor
+>
+> Age: 25
+>
+> Usual Residence: 9 St. Ninnians Road, Corstorphine
+>
+> Name, Surname and Profession of Father: Alexander Gibson; Saddler and Harness Maker (deceased)
+>
+> Name and Maiden Surname of Mother: Elizabeth Gibson M.S. Wilson
+>
+> <br/>
+>
+> <br/>
+>
+> Bride:
+>
+> Name(in full): Margaret McKenzie McIver
+>
+> Signed: Margaret M McIver
+>
+> Profession: Ladies Outfitter's Shop Assistant
+>
+> Condition: Spinster
+>
+> Age: 21
+>
+> Usual Residence: 50 Hillview Crescent, Corstorphine
+>
+> Name, Surname and Profession of Father: Hector McIver; Tailor (deceased)
+>
+> Name, Surname and Maiden Surname of Mother: Margaret McIver M.S. McKenzie
+>
+> <br/>
+>
+> Signature of Officiating Minister: (Signed) S. G. MacLennan, Minister of Roseburn, Edinburgh; R W. Mathewson, 25 Stirling Road, Leith (Witness); Margaret Jamieson, Craigmore Corstorphine, Bank Drive Corstorphine (Witness)
+>
+> When and Where Registered: 1939, September 4th at Edinburgh
+>
+> Signature of Registrar: James Miller, Assistance Registrar.
+>
 
 ## Source Referenced by
 

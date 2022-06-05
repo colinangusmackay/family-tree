@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i95320597",
+    "Name": "John Reid",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i95320597",
+      "Name": "John Reid",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i37924612",
+      "Name": "Agnes Russell",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "31/Dec/1842",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i2617088",
+      "Name": "Thomas Mitchell Reid",
+      "Gender": "Male",
+      "DateOfBirth": "14/Jan/1893",
+      "DateOfDeath": "10/May/1974",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i95320597",
+        "i37924612"
+      ]
+    }
+  ]
+}

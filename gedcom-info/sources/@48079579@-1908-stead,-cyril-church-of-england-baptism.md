@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s48079579
 ---
 
-# 1908 X, CYRIL - Church of England Baptism
+# 1908 STEAD, CYRIL - Church of England Baptism
 
 Field | Detail
 ---:|:---
@@ -16,7 +16,28 @@ References |
 
 ## Text
 
-_Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
+> BAPTISMS solemnised in the Parish of Morley, St. Paul in the County of York in the year One Thousand Nine Hundred and Eight
+>
+> <br/>
+>
+> When Born: 11 March 1908
+>
+> When Baptised: 1908 May 13
+>
+> Child's Christian Name: Cyril
+>
+> Parent's Names:
+>
+> * Christian: Harry & Nancy
+>
+> * Surname: Stead
+>
+> Abode: ???? Morley
+>
+> Quality, Trade or Profession: Mason
+>
+> By whom the Ceremony was performed: ????
+>
 
 ## Source Referenced by
 

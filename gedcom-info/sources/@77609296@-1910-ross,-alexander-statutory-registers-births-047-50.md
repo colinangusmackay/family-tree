@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s77609296
 ---
 
-# 1910 X, ALEXANDER Statutory registers Births 047/50
+# 1910 ROSS, ALEXANDER Statutory registers Births 047/50
 
 Field | Detail
 ---:|:---

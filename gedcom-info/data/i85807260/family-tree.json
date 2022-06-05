@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i85807260",
+    "Name": "Ann Johnson",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i85807260",
+      "Name": "Ann Johnson",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i60647890",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i41556256",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "27/Feb/1838",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i60647890",
+        "i85807260"
+      ]
+    }
+  ]
+}

@@ -10,14 +10,14 @@ permalink: /people/i3963708
 ## Immediate Family
 
 * Father: [Alexander Gibson](./@21968540@-alexander-gibson-b-d1939.md) ( - before 1939)
-* Mother: X
+* Mother: [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b-d.md)
 * Wife: [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015.md) (1918 - 2015)
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-19/Jan/1914 | Born | Born to [Alexander Gibson](./@21968540@-alexander-gibson-b-d1939.md) and X in Corstorphine, Midlothian, Scotland. | [1](#1), [2](#2) | 
+19/Jan/1914 | Born | Born to [Alexander Gibson](./@21968540@-alexander-gibson-b-d1939.md) and [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b-d.md) in Corstorphine, Midlothian, Scotland. | [1](#1), [2](#2) | 
 before 1939 | Death of father | [Alexander Gibson](./@21968540@-alexander-gibson-b-d1939.md) died. | [2](#2) | 
 1/Sep/1939 | Marriage | Married to [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015.md) at 2 St Catherine's Gardens, Cortorphine, Edinburgh, Scotland | [2](#2) | 
 1978 | Died | Died in Rutherglen, South Lanarkshire, Scotland. | [3](#3) | 
@@ -38,7 +38,7 @@ Date | Occupation | Sources & Notes
 
 ### 1
 
-**1914 X, ALASTAIR MACDON (Statutory Register Births 678/7)**
+**1914 GIBSON, ALASTAIR MACDON (Statutory Register Births 678/7)**
 
 * [Full text and notes](../sources/@48317232@-1914-gibson,-alastair-macdon-statutory-register-births-678-7-.md)
 * Date: 11/Feb/1914
@@ -48,7 +48,7 @@ Date | Occupation | Sources & Notes
 
 ### 2
 
-**1939 X, ALASTAIR MCDONA (Statutory Registers Marriages 685/1 345)**
+**1939 GIBSON, ALASTAIR MCDONA (Statutory Registers Marriages 685/1 345)**
 
 * [Full text and notes](../sources/@97538140@-1939-gibson,-alastair-mcdona-statutory-registers-marriages-685-1-345-.md)
 * Date: 4/Sep/1939

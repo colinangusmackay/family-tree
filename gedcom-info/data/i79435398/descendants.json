@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i79435398",
+  "Name": "Clara Sherwood",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i56292410",
+      "Name": "Arthur Fred McLean",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1901",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

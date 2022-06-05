@@ -9,8 +9,8 @@ permalink: /people/i91038040
 
 ## Immediate Family
 
-* Father: X
-* Mother: X
+* Father: [Rodrick McIver](./@53638178@-rodrick-mciver-b-d.md)
+* Mother: [Christy MacLennan](./@8610974@-christy-maclennan-b-d.md)
 * Wife: [Annie McLean](./@68658880@-annie-mclean-b1835-d.md) (about 1835 - )
 * Son: [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) (17/Aug/1878 - 21/Feb/1938)
 
@@ -18,7 +18,7 @@ permalink: /people/i91038040
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1821 | Born | Born to X and X. | [1](#1) | 
+about 1821 | Born | Born to [Rodrick McIver](./@53638178@-rodrick-mciver-b-d.md) and [Christy MacLennan](./@8610974@-christy-maclennan-b-d.md). | [1](#1) | 
 
 ## Known Residences
 

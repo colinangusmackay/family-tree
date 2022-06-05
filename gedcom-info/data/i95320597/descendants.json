@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i95320597",
+  "Name": "John Reid",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i2617088",
+      "Name": "Thomas Mitchell Reid",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "14/Jan/1893",
+      "DateOfDeath": "10/May/1974",
+      "Children": []
+    }
+  ]
+}

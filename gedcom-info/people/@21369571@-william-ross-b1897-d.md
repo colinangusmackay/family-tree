@@ -9,8 +9,8 @@ permalink: /people/i21369571
 
 ## Immediate Family
 
-* Father: X
-* Mother: X
+* Father: [Donald Ross](./@16842942@-donald-ross-b-d.md)
+* Mother: [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md)
 * Sister: X
 * Sister: [Christina Ross](./@10478196@-christina-ross-b1893-d.md) (1893 - )
 * Brother: [John Ross](./@35298145@-john-ross-b1899-d.md) (1899 - )
@@ -23,5 +23,5 @@ permalink: /people/i21369571
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-1897 | Born | Born to X and X. |  | 
+1897 | Born | Born to [Donald Ross](./@16842942@-donald-ross-b-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md). |  | 
 

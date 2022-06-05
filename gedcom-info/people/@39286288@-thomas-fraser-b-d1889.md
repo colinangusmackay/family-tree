@@ -10,7 +10,7 @@ permalink: /people/i39286288
 ## Immediate Family
 
 * Mother: [Isabella](./@41136024@-isabella-b-d1864.md) ( - after 1864)
-* Partner: X
+* Partner: [Christy Ross](./@37144832@-christy-ross-b-d.md)
 * Son: X
 * Daughter: [Ann Fraser](./@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md) (4/Aug/1864 - 4/May/1891)
 

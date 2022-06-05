@@ -9,7 +9,7 @@ permalink: /people/i21968540
 
 ## Immediate Family
 
-* Wife: X
+* Wife: [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b-d.md)
 * Son: [Alastair McDonald Gibson](./@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) (19/Jan/1914 - 1978)
 
 ## Timeline
@@ -35,7 +35,7 @@ before 1939 | Saddler and Harness Maker | [1](#1)
 
 ### 1
 
-**1939 X, ALASTAIR MCDONA (Statutory Registers Marriages 685/1 345)**
+**1939 GIBSON, ALASTAIR MCDONA (Statutory Registers Marriages 685/1 345)**
 
 * [Full text and notes](../sources/@97538140@-1939-gibson,-alastair-mcdona-statutory-registers-marriages-685-1-345-.md)
 * Date: 4/Sep/1939
@@ -43,7 +43,7 @@ before 1939 | Saddler and Harness Maker | [1](#1)
 
 ### 2
 
-**1914 X, ALASTAIR MACDON (Statutory Register Births 678/7)**
+**1914 GIBSON, ALASTAIR MACDON (Statutory Register Births 678/7)**
 
 * [Full text and notes](../sources/@48317232@-1914-gibson,-alastair-macdon-statutory-register-births-678-7-.md)
 * Date: 11/Feb/1914

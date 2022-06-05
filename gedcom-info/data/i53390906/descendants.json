@@ -1,0 +1,29 @@
+﻿{
+  "Id": "i53390906",
+  "Name": "John Mackay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i28166672",
+      "Name": "Catherine Mackay",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "3/Sep/1900",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i56962662",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

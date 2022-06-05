@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i79435398",
+    "Name": "Clara Sherwood",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i79435398",
+      "Name": "Clara Sherwood",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i70471714",
+      "Name": "Harvey McLean",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i56292410",
+      "Name": "Arthur Fred McLean",
+      "Gender": "Male",
+      "DateOfBirth": "about 1901",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i70471714",
+        "i79435398"
+      ]
+    }
+  ]
+}

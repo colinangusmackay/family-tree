@@ -1,0 +1,153 @@
+﻿{
+  "Subject": {
+    "Id": "i16842942",
+    "Name": "Donald Ross",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i39470155",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i10763169",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i16842942",
+      "Name": "Donald Ross",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i10763169",
+          "i39470155"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i89807594",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "4/Feb/1896",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i86126311",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i16842942",
+        "i89807594"
+      ]
+    },
+    {
+      "Id": "i10478196",
+      "Name": "Christina Ross",
+      "Gender": "Female",
+      "DateOfBirth": "1893",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i16842942",
+        "i89807594"
+      ]
+    },
+    {
+      "Id": "i21369571",
+      "Name": "William Ross",
+      "Gender": "Male",
+      "DateOfBirth": "1897",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i16842942",
+        "i89807594"
+      ]
+    },
+    {
+      "Id": "i35298145",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "1899",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i16842942",
+        "i89807594"
+      ]
+    },
+    {
+      "Id": "i67099773",
+      "Name": "Peter Ross",
+      "Gender": "Male",
+      "DateOfBirth": "12/Nov/1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i16842942",
+        "i89807594"
+      ]
+    },
+    {
+      "Id": "i18017632",
+      "Name": "Johan or Janet Ross",
+      "Gender": "Female",
+      "DateOfBirth": "1905",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i16842942",
+        "i89807594"
+      ]
+    },
+    {
+      "Id": "i71751658",
+      "Name": "Jeanie Ross",
+      "Gender": "Female",
+      "DateOfBirth": "1907",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i16842942",
+        "i89807594"
+      ]
+    },
+    {
+      "Id": "i52064896",
+      "Name": "Alexander Ross",
+      "Gender": "Male",
+      "DateOfBirth": "24/Sep/1910",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i16842942",
+        "i89807594"
+      ]
+    }
+  ]
+}

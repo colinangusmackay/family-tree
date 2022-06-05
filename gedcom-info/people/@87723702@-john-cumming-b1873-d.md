@@ -55,7 +55,7 @@ Date | Residence | Sources & Notes
 
 ### 2
 
-**1921 X X, JESSIE, JESSIE & THOMASINA - Passenger and Crew Lists**
+**1921 CUMMING DONALD, JESSIE, JESSIE & THOMASINA - Passenger and Crew Lists**
 
 * [Full text and notes](../sources/@67676004@-1921-cumming-donald,-jessie,-jessie-&-thomasina-passenger-and-crew-lists.md)
 * Publication: List or Manifest of Alien Passengers for the United States Immigration Officer at Port of Arrival

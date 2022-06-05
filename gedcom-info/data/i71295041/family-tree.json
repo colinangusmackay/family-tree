@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i71295041",
+    "Name": "Elizabeth Wilson",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i71295041",
+      "Name": "Elizabeth Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i21968540",
+      "Name": "Alexander Gibson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1939",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "16/Jun/1897",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i3963708",
+      "Name": "Alastair McDonald Gibson",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1914",
+      "DateOfDeath": "1978",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21968540",
+        "i71295041"
+      ]
+    }
+  ]
+}

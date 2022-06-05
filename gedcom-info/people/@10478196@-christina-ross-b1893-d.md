@@ -9,8 +9,8 @@ permalink: /people/i10478196
 
 ## Immediate Family
 
-* Father: X
-* Mother: X
+* Father: [Donald Ross](./@16842942@-donald-ross-b-d.md)
+* Mother: [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md)
 * Sister: X
 * Brother: [William Ross](./@21369571@-william-ross-b1897-d.md) (1897 - )
 * Brother: [John Ross](./@35298145@-john-ross-b1899-d.md) (1899 - )
@@ -23,5 +23,5 @@ permalink: /people/i10478196
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-1893 | Born | Born to X and X. |  | 
+1893 | Born | Born to [Donald Ross](./@16842942@-donald-ross-b-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md). |  | 
 

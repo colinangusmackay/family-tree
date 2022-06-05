@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s48317232
 ---
 
-# 1914 X, ALASTAIR MACDON (Statutory Register Births 678/7)
+# 1914 GIBSON, ALASTAIR MACDON (Statutory Register Births 678/7)
 
 Field | Detail
 ---:|:---
@@ -16,7 +16,28 @@ References | 1914 B 678/7
 
 ## Text
 
-_Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
+> 1914, BIRTHS in the Parish of Corstorphine in the County of Midlothian
+>
+> <br/>
+>
+> No 7
+>
+> Name and Surname: Alastair MacDonald Gibson
+>
+> When and Where Born: 1914 January Nineteenth 4H 0M PM; 5 St Ninnians Road, Corstorphine
+>
+> Sex: M
+>
+> Name, Surname and Profession of Father: Alexander Gibson; Saddler
+>
+> Name and Maiden Surname of Mother: Elizabeth Gibson M.S. Wilson
+>
+> Date and Place of Marriage: 1897 June 16th; Golspie
+>
+> Signature and Qualification of Informant: Alexander Gibson; Father
+>
+> When and Where Signed: 1914 February 11th At Corstorphine
+>
 
 ## Source Referenced by
 

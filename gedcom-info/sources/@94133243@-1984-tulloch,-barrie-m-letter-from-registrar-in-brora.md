@@ -16,7 +16,114 @@ References |
 
 ## Text
 
-_Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
+> Registration District Clyne, Gower Lane, BRORA, Sutherland, KW9 6NT
+>
+> 19 July, 1984
+>
+> Registrar: John MacLennan
+>
+> Tel. 0408 21233
+>
+> <br/>
+>
+> Mrs B. M. Tulloch,
+>
+> XXXX,
+>
+> XXXX XXXX XXX,
+>
+> XXXX
+>
+> XXXX XXXX
+>
+> <br/>
+>
+> Dear Barrie,
+>
+> <br/>
+>
+> As you know, after 1854 it was a requirement of Scottish law that births, marriages and deaths to be registered. I enclose a leaflet showing how records were kept prior to 1855.
+>
+> <br/>
+>
+> I am now in a position to give you some information regarding you great-grandmother Lucy Matheson.
+>
+> <br/>
+>
+> Her name appears in the registers as Elizabeth, Lucy, Louisa and Elspet.
+>
+> <br/>
+>
+> There was much illiteracy among the people in the 1800s, many of the signatures in the registers were made by an X. There are a number of discrepancies in the figures you have received from the census records.
+>
+> <br/>
+>
+> George Mackay, fisherman, married to ELIZABETH MATHESON, died at Fishertown, Dornoch on 25 November 1894, ages 87 years. His parents were William Mackay, fisherman (deceased) and Janet Mackay, maiden surname Macrae (deceased). The death was registered by his son William Mackay.
+>
+> <br/>
+>
+> LUCY MACKAY, widow of George Mackay, fisherman, died at Fishertown, Dornoch on 23 August 1896, aged 82 years. Her parents were Hector Matheson, crofter (deceased), and Barbara Matheson, maiden surname Mackay (deceased). The death was registered by John Mackay's son-in-law.
+>
+> <br/>
+>
+> _Birth_ on 5 November 1855 at Embo Village of Ann Mackay. Father George Mackay, fisherman, 40 years in Embo village, married at Dornoch in 1838. 5 boys and three girls living. Mother, Louisa Mackay, maiden surname Matheson, age 35 years. Her ninth child. Birthplace Helmsdale.
+>
+> <br/>
+>
+> _Birth_ on 12 April 1861 at Embo of James Mackay. Father of George Mackay, fisherman. Mother Lucy Mackay, maiden surname Matheson. Married on 16 October 1840 at Dornoch.
+>
+> <br/>
+>
+> The following is a list of marriages of the family of George and Lucy Mackay.
+>
+> <br/>
+>
+> _1869_ 16 November at Poles, Dornoch. Kenneth Mackay (54) fisherman, Embo, Dornoch (widower) married Barbara Mackay (19) Embo, Dornoch, daughter of George Mackay, fisherman, and Louisa Mackay, maiden surname Matheson.
+>
+> <br/>
+>
+> _1873_ 21 October at Dornoch. Alexander Mackay (22), fisherman, Embo, Dornoch, married Catherine Mackay (17), Embo, Dornoch, daughter of George Mackay, fisherman, and Louisa Mackay, maiden surname Matheson.
+>
+> <br/>
+>
+> _1876_ 17 October at Dornoch. Adam Cumming (27), fisherman, Fishertown, Dornoch married Ann Mackay (18) Fishertown, Dornoch, daughter of George Mackay, fisherman, and Elizabeth Mackay, maiden surname Matheson.
+>
+> <br/>
+>
+> _1876_ 7 November at Dornoch. William Mackay (30) fisherman, Fishertown Dornoch, son of George Mackay, fisherman and Elizabeth Mackay, maiden surname Matheson, married Catherine Grant (24) Fishertown, Dornoch.
+>
+> <br/>
+>
+> _1877_ 23 October at Dornoch. Alexander Mackay (28) fisherman, FIshertown, Dornoch, son of George Mackay, fisherman, and Louisa Mackay, maiden surname Matheson, married Ann Mackay (18) Embo
+>
+> <br/>
+>
+> _1881_ 1 December at Littletown, Dornoch. Donald Mackay (26), farm servant, son of George Mackay, fisherman, and Elspet Mackay, maiden surname Matheson, married Betsy Mackay (25), Dornoch, daughter of Kenneth Mackay, shoemaker (journeyman) and Jane Mackay, maiden surname Gordon.
+>
+> <br/>
+>
+> _1888_ 23 October at Dornoch. James Mackay (24) fisherman, Fishertown, Dornoch, son of George Mackay, fisherman and Elizabeth Mackay, maiden surname Matheson, married Isabella Mackay (20) Fishertown, Dornoch.
+>
+> <br/>
+>
+> _1892_ 24 March at the Public Schoolhouse, Fishertown, Dornoch, John Mackay (27) fisherman, Fishertown, Dornoch, married Jane Mackay (29), Fishertown, Dornoch, daughter of George Mackay and Lucy Mackay, maiden Surname Matheson.
+>
+> <br/>
+>
+> I've gone through the marriage registered from 1855 to 1900 in respect of Dornoch, and the only Matheson married to a George Mackay is your great-grandmother.
+>
+> <br/>
+>
+> There is a search fee of £5.25 due, and please make your cheque payable to Highland Regional Council and send to me.
+>
+> <br/>
+>
+> With Kind Regards,
+>
+> Yours Sincerely,
+>
+> .....
+>
 
 ## Notes
 

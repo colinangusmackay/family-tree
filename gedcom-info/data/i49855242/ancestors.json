@@ -8,7 +8,7 @@
   "Parents": [
     {
       "Id": "i19799810",
-      "Name": "X",
+      "Name": "Jane Gordon",
       "Gender": "Female",
       "Relationship": "mother",
       "DateOfBirth": "",
@@ -17,7 +17,7 @@
     },
     {
       "Id": "i27357972",
-      "Name": "X",
+      "Name": "Kenneth Mackay",
       "Gender": "Male",
       "Relationship": "father",
       "DateOfBirth": "",

@@ -52,7 +52,7 @@
           "Parents": [
             {
               "Id": "i20237816",
-              "Name": "X",
+              "Name": "Janet Mackay",
               "Gender": "Female",
               "Relationship": "mother",
               "DateOfBirth": "",
@@ -61,7 +61,7 @@
             },
             {
               "Id": "i30341840",
-              "Name": "X",
+              "Name": "Kenneth Mackay",
               "Gender": "Male",
               "Relationship": "father",
               "DateOfBirth": "",

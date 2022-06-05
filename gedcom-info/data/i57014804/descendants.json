@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i57014804",
+  "Name": "Margaret McRae",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i14926290",
+      "Name": "Anne Cumming",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "23/Feb/1920",
+      "DateOfDeath": "14/Nov/2002",
+      "Children": []
+    }
+  ]
+}
