@@ -1,0 +1,65 @@
+﻿{
+  "Id": "i43646316",
+  "Name": "Kenneth Mackay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1813",
+  "DateOfDeath": "bet' 1891 and 1901",
+  "Children": [
+    {
+      "Id": "i46319502",
+      "Name": "George Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1875",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i38140776",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i66349958",
+      "Name": "David Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1879",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i5045152",
+      "Name": "Thomas Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1883",
+      "DateOfDeath": "9/Nov/1934",
+      "Children": [
+        {
+          "Id": "i52754046",
+          "Name": "Kenneth Mackay",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "28/Mar/1920",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Id": "i54814674",
+      "Name": "Bella Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1885",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

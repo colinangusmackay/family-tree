@@ -11,24 +11,24 @@
       "Name": "Thomas Mackay",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "about 1884",
+      "DateOfBirth": "about 1883",
       "DateOfDeath": "9/Nov/1934",
       "Parents": [
         {
-          "Id": "i53955929",
-          "Name": "X",
-          "Gender": "Female",
-          "Relationship": "mother",
-          "DateOfBirth": "",
-          "DateOfDeath": "",
+          "Id": "i43646316",
+          "Name": "Kenneth Mackay",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1813",
+          "DateOfDeath": "bet' 1891 and 1901",
           "Parents": []
         },
         {
-          "Id": "i43646316",
-          "Name": "X",
-          "Gender": "Male",
-          "Relationship": "father",
-          "DateOfBirth": "",
+          "Id": "i53955929",
+          "Name": "Barbara Mackay",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "about 1854",
           "DateOfDeath": "",
           "Parents": []
         }

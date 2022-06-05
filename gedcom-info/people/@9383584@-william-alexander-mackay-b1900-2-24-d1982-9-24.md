@@ -134,7 +134,7 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [14](#14)
 
 ### 6
 
-**1919 X, LUCY Statutory Registers Marriages 644/18 240**
+**1919 MACKAY, LUCY Statutory Registers Marriages 644/18 240**
 
 * [Full text and notes](../sources/@28195272@-1919-mackay,-lucy-statutory-registers-marriages-644-18-240.md)
 * Responsible Agency: National Records of Scotland

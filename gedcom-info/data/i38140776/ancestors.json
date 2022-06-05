@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i38140776",
+  "Name": "Kenneth Mackay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1877",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i43646316",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1813",
+      "DateOfDeath": "bet' 1891 and 1901",
+      "Parents": []
+    },
+    {
+      "Id": "i53955929",
+      "Name": "Barbara Mackay",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1854",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

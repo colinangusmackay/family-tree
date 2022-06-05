@@ -19,7 +19,7 @@ permalink: /people/i32633938
 * Sister: [Barbara Mackay](./@52409786@-barbara-mackay-b1849~1854-d.md) (bet' 1849 and 1854 - )
 * Sister: [Catherine Mackay](./@26872816@-catherine-mackay-b1849~1856-d.md) (bet' 1849 and 1856 - )
 * Wife: [Betsy Mackay](./@49855242@-betsy-mackay-b1855~1856-d.md) (bet' 1855 and 1856 - )
-* Sister: [Ann Mackay](./@74868546@-ann-mackay-b1855-11-5-d.md) (5/Nov/1855 - )
+* Sister: [Ann Mackay](./@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)
 * Sister: [Jane or Jean Mackay](./@4172390@-jane-or-jean-mackay-b1859~1863-d.md) (bet' 1859 and 1863 - )
 * Brother: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) (12/Apr/1861 - before 1919)
 

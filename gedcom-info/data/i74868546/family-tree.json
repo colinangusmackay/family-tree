@@ -4,7 +4,7 @@
     "Name": "Ann Mackay",
     "Gender": "Female",
     "DateOfBirth": "5/Nov/1855",
-    "DateOfDeath": ""
+    "DateOfDeath": "21/Apr/1940"
   },
   "Parents": [
     {
@@ -142,7 +142,7 @@
       "Name": "Ann Mackay",
       "Gender": "Female",
       "DateOfBirth": "5/Nov/1855",
-      "DateOfDeath": "",
+      "DateOfDeath": "21/Apr/1940",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -193,6 +193,18 @@
     }
   ],
   "Children": [
+    {
+      "Id": "i35928164",
+      "Name": "Elizabeth Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1882",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i55409960",
+        "i74868546"
+      ]
+    },
     {
       "Id": "i89853996",
       "Name": "Donald Cumming",

@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i2361090",
+    "Name": "Carrie Elizabeth Predendall",
+    "Gender": "Female",
+    "DateOfBirth": "about 1901",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i69952770",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i37901232",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i2361090",
+      "Name": "Carrie Elizabeth Predendall",
+      "Gender": "Female",
+      "DateOfBirth": "about 1901",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i37901232",
+          "i69952770"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i7323242",
+      "Name": "John Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "10/Oct/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "6/Aug/1924",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

@@ -20,11 +20,25 @@
       "Name": "Ann Mackay",
       "Gender": "Female",
       "DateOfBirth": "5/Nov/1855",
-      "DateOfDeath": "",
+      "DateOfDeath": "21/Apr/1940",
       "RelationToSubject": "mother"
     }
   ],
   "Siblings": [
+    {
+      "Id": "i35928164",
+      "Name": "Elizabeth Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1882",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i55409960",
+          "i74868546"
+        ]
+      ]
+    },
     {
       "Id": "i89853996",
       "Name": "Donald Cumming",
@@ -54,6 +68,17 @@
       ]
     }
   ],
-  "Spouses": [],
+  "Spouses": [
+    {
+      "Id": "i2361090",
+      "Name": "Carrie Elizabeth Predendall",
+      "Gender": "Female",
+      "DateOfBirth": "about 1901",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "6/Aug/1924",
+      "DateOfDivorce": ""
+    }
+  ],
   "Children": []
 }

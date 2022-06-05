@@ -7,6 +7,15 @@
   "DateOfDeath": "18/Jan/1926",
   "Children": [
     {
+      "Id": "i35928164",
+      "Name": "Elizabeth Cumming",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1882",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
       "Id": "i89853996",
       "Name": "Donald Cumming",
       "Gender": "Male",

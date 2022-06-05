@@ -51,7 +51,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1873**
   * **21/Oct/1873** : **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ) and **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - ).
 * **1876**
-  * **17/Oct/1876** : **[Adam Cumming](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926) and **[Ann Mackay](people/@74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - ) at Dornoch, Sutherland, Scotland.
+  * **17/Oct/1876** : **[Adam Cumming](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926) and **[Ann Mackay](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940) at Dornoch, Sutherland, Scotland.
   * **7/Nov/1876** : **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ) and **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - ) at Dornoch, Sutherland, Scotland.
 * **1877**
   * **23/Oct/1877** : **[Alexander Mackay](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ) and **[Ann Mackay](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889) at Dornoch, Sutherland, Scotland.
@@ -70,7 +70,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **15/Jan/1885** : X and **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949) at Stornoway, Eilean Siar, Scotland.
 * **1887**
   * **about 1887** : **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ).
-  * **25/Oct/1887** : **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946) at Dornoch, Sutherland, Scotland.
+  * **25/Oct/1887** : **[Donald J Cumming](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946) at Dornoch, Sutherland, Scotland.
 * **1888**
   * **23/Oct/1888** : **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1919.md)** (12/Apr/1861 - before 1919) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923) at Dornoch, Sutherland, Scotland.
 * **1889**
@@ -112,6 +112,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1910**
   * **14/Jan/1910** : **[Andrew Gillie](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ) and **[Williamina Ross](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ) at Dornoch, Sutherland, Scotland.
+* **1911**
+  * **28/Jul/1911** : **[Elizabeth Cumming](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ) and **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - ) at Boston, Massachusetts, United States of America.
 * **1912**
   * **16/Jan/1912** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) at Dornoch, Sutherland, Scotland.
 * **1916**
@@ -120,10 +122,12 @@ A list of marriages, civil partnerships and civil unions by date.
   * **1918** : **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - ).
   * **12/Apr/1918** : **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967) and **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) at Middlesborough, England.
 * **1919**
-  * **27/Jun/1919** : **[Thomas Mackay](people/@5045152@-thomas-mackay-b1884-d1934-11-9.md)** (about 1884 - 9/Nov/1934) and **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970) at Glasgow, Scotland.
+  * **27/Jun/1919** : **[Thomas Mackay](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934) and **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970) at Glasgow, Scotland.
 
 ### 1920s
 
+* **1924**
+  * **6/Aug/1924** : **[John Cumming](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ) and **[Carrie Elizabeth Predendall](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - ).
 * **1927**
   * **1927** : **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) at Lake George, Warren County, New York, United States.
 * **1928**
@@ -174,6 +178,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 ### 1970s
 
+* **1970**
+  * **7/Nov/1970** : X and **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021).
 * **1972**
   * **30/Sep/1972** : **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and X at Norwalk, Fairfield County, Connecticut, United States of America.
 * **1978**

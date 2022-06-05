@@ -3,35 +3,91 @@
     "Id": "i5045152",
     "Name": "Thomas Mackay",
     "Gender": "Male",
-    "DateOfBirth": "about 1884",
+    "DateOfBirth": "about 1883",
     "DateOfDeath": "9/Nov/1934"
   },
   "Parents": [
     {
       "Id": "i43646316",
-      "Name": "X",
+      "Name": "Kenneth Mackay",
       "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
+      "DateOfBirth": "about 1813",
+      "DateOfDeath": "bet' 1891 and 1901",
       "RelationToSubject": "father"
     },
     {
       "Id": "i53955929",
-      "Name": "X",
+      "Name": "Barbara Mackay",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1854",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     }
   ],
   "Siblings": [
     {
+      "Id": "i46319502",
+      "Name": "George Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1875",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i43646316",
+          "i53955929"
+        ]
+      ]
+    },
+    {
+      "Id": "i38140776",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i43646316",
+          "i53955929"
+        ]
+      ]
+    },
+    {
+      "Id": "i66349958",
+      "Name": "David Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1879",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i43646316",
+          "i53955929"
+        ]
+      ]
+    },
+    {
       "Id": "i5045152",
       "Name": "Thomas Mackay",
       "Gender": "Male",
-      "DateOfBirth": "about 1884",
+      "DateOfBirth": "about 1883",
       "DateOfDeath": "9/Nov/1934",
       "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i43646316",
+          "i53955929"
+        ]
+      ]
+    },
+    {
+      "Id": "i54814674",
+      "Name": "Bella Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1885",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
           "i43646316",

@@ -28,7 +28,7 @@ References |
 >
 > <br/>
 >
-> _Thomas McKay, Boatsain, (Deceased)_
+> Thomas McKay, Boatsain, (Deceased)
 >
 > <br/>
 >
@@ -156,4 +156,4 @@ References |
 ## Source Referenced by
 
 * [Lucy Mackay](../people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) (23/Sep/1889 - 15/May/1970)
-* [Thomas Mackay](../people/@5045152@-thomas-mackay-b1884-d1934-11-9.md) (about 1884 - 9/Nov/1934)
+* [Thomas Mackay](../people/@5045152@-thomas-mackay-b1883-d1934-11-9.md) (about 1883 - 9/Nov/1934)

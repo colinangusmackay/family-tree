@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i2361090",
+  "Name": "Carrie Elizabeth Predendall",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1901",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i69952770",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i37901232",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

@@ -34,7 +34,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 * [James Cumming](../people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
 * [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1875-10-29.md) (about 1807 - 29/Oct/1875)
 * [Alexander Mackay](../people/@2381836@-alexander-mackay-b1844~1849-d.md) (bet' 1844 and 1849 - )
-* [Ann Mackay](../people/@74868546@-ann-mackay-b1855-11-5-d.md) (5/Nov/1855 - )
+* [Ann Mackay](../people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)
 * [Ann Mackay](../people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md) (bet' 1858 and 1859 - 14/Jun/1889)
 * [Barbara Mackay](../people/@52409786@-barbara-mackay-b1849~1854-d.md) (bet' 1849 and 1854 - )
 * [Catherine Mackay](../people/@26872816@-catherine-mackay-b1849~1856-d.md) (bet' 1849 and 1856 - )

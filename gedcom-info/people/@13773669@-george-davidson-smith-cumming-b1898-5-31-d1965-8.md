@@ -9,7 +9,7 @@ permalink: /people/i13773669
 
 ## Immediate Family
 
-* Father: [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
+* Father: [Donald J Cumming](./@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
 * Mother: [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) (18/Sep/1865 - 20/Jun/1946)
 * Sister: [Isabella Cumming](./@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md) (21/Jul/1888 - 1/Feb/1986)
 * Sister: [Alexandrina Cumming](./@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md) (30/Mar/1891 - 10/Apr/1987)
@@ -25,47 +25,48 @@ permalink: /people/i13773669
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-31/May/1898 | Born | Born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2), [3](#3) | 
-26/Jul/1900 | Birth of sister | [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [4](#4) | 
-24/Nov/1902 | Birth of sister | [Thomasina Ian Cumming](./@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [3](#3), [5](#5) | 
-15/Dec/1904 | Birth of sister | [Christine Cumming](./@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [6](#6), [7](#7) | 
-29/Nov/1906 | Birth of brother | [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md) born to [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [3](#3), [8](#8) | 
-20/Aug/1920 | Immigrated | Immigrated to New York, New York, United States of America. | [9](#9), [10](#10) | 
-26/Mar/1936 | Naturalised | Naturalised in Boston, Massachusetts, United States of America. (Declaration of Intent) | [10](#10) | 
-2/May/1939 | Naturalised | Naturalised in Boston, Massachusetts, United States of America. (Petition for Naturalization) | [11](#11) | 
-28/Feb/1940 | Death of father | [Donald Cumming](./@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) died in Embo, Sutherland, Scotland. | [12](#12) | 
+31/May/1898 | Born | Born to [Donald J Cumming](./@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2), [3](#3) | 
+26/Jul/1900 | Birth of sister | [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) born to [Donald J Cumming](./@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [4](#4) | 
+24/Nov/1902 | Birth of sister | [Thomasina Ian Cumming](./@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) born to [Donald J Cumming](./@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [3](#3), [5](#5) | 
+15/Dec/1904 | Birth of sister | [Christine Cumming](./@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) born to [Donald J Cumming](./@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [6](#6), [7](#7) | 
+29/Nov/1906 | Birth of brother | [Donald John Cumming](./@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md) born to [Donald J Cumming](./@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) and [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) in Embo, Sutherland, Scotland. | [3](#3), [8](#8) | 
+20/Aug/1920 | Immigrated | Immigrated to New York, New York, United States of America. | [9](#9), [10](#10), [11](#11) | 
+26/Mar/1936 | Naturalised | Naturalised in Boston, Massachusetts, United States of America. (Declaration of Intent) | [11](#11) | 
+2/May/1939 | Naturalised | Naturalised in Boston, Massachusetts, United States of America. (Petition for Naturalization) | [12](#12) | 
+28/Feb/1940 | Death of father | [Donald J Cumming](./@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) died in Embo, Sutherland, Scotland. | [13](#13) | 
 16/Feb/1942 | EVEN:Military Conscription/Draft |  | [2](#2) | 
-10/Dec/1943 | Marriage | Married to [Margaret Hogg Hatelie](./@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md) in Fort Lauderdale, Broward County, Florida, United States | [13](#13), [14](#14) | 
-20/Jun/1946 | Death of mother | [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) died. | [12](#12), [15](#15), [16](#16) | 
-Aug/1965 | Died | Died in Palm Beach, Florida, United States of America. | [17](#17), [18](#18) | 
+10/Dec/1943 | Marriage | Married to [Margaret Hogg Hatelie](./@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md) in Fort Lauderdale, Broward County, Florida, United States | [14](#14), [15](#15) | 
+20/Jun/1946 | Death of mother | [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) died. | [13](#13), [16](#16), [17](#17) | 
+Aug/1965 | Died | Died in Palm Beach, Florida, United States of America. | [18](#18), [19](#19) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1901 | 9 Back Street, Embo, Sutherland, Scotland | [19](#19)
-1915 | 9 Front Street, Embo, Sutherland, Scotland | [20](#20)
-20/May/1920 | 25 Steven Street, St George's Cross, Glasgow, Scotland | [20](#20)
-1922 | 152 Pearl Street, Cambridge, Mass. USA | [20](#20)
-1930 | 80 Summit Avenue, Brookline, Massachusetts, USA | [21](#21)
-1935 | 80 Summit Ave, Brookline, Massachusetts, USA | [22](#22)
-1936 | 80 Summit Avenue, Brookline, Massachusetts, USA | [10](#10)
+1901 | 9 Back Street, Embo, Sutherland, Scotland | [20](#20)
+1915 | 9 Front Street, Embo, Sutherland, Scotland | [21](#21)
+20/May/1920 | 25 Steven Street, St George's Cross, Glasgow, Scotland | [21](#21)
+after 20/Aug/1920 | 16 Beethoven St. Roxbury, Boston, Massachusetts, USA | [9](#9)
+1922 | 152 Pearl Street, Cambridge, Mass. USA | [21](#21)
+1930 | 80 Summit Avenue, Brookline, Massachusetts, USA | [22](#22)
+1935 | 80 Summit Ave, Brookline, Massachusetts, USA | [23](#23)
+1936 | 80 Summit Avenue, Brookline, Massachusetts, USA | [11](#11)
 1939 | 80 Summit Avenue, Brookline, Massachusetts, USA | 
-1940 | 80 Summit Ave, Brookline, Massachusetts, USA | [22](#22)
+1940 | 80 Summit Ave, Brookline, Massachusetts, USA | [23](#23)
 1942 | 80 Summit Avenue, Brookline, Norfolk, Massachusetts, USA | [2](#2)
-1950 | 701 Silver Beach Road, Lake Park, Florida, USA | [23](#23)
-1953 | 701 Silver Beach Road, Lake Park, Florida, USA | [24](#24)
+1950 | 701 Silver Beach Road, Lake Park, Florida, USA | [24](#24)
+1953 | 701 Silver Beach Road, Lake Park, Florida, USA | [25](#25)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1930 | Machinist | [21](#21)
-1936 | Machinist | [10](#10)
-1937 | Machinist | [25](#25)
-1939 | Machinist | [11](#11)
-1949 | Real Estate Business | [26](#26)
-1953 | Superintendent Public Works | [24](#24)
+1930 | Machinist | [22](#22)
+1936 | Machinist | [11](#11)
+1937 | Machinist | [26](#26)
+1939 | Machinist | [12](#12)
+1949 | Real Estate Business | [27](#27)
+1953 | Superintendent Public Works | [25](#25)
 
 ## Notes
 
@@ -147,6 +148,13 @@ Date | Occupation | Sources & Notes
 
 ### 9
 
+**1920 CUMMING, GEORGE (New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957)**
+
+* [Full text and notes](../sources/@92917027@-1920-cumming,-george-new-york,-u.s.,-arriving-passenger-and-crew-lists-including-castle-garden-and-….md)
+* Publication: New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
+
+### 10
+
 **1936 CUMMING, GEORGE - Certificate of Arrival**
 
 * [Full text and notes](../sources/@58508111@-1936-cumming,-george-certificate-of-arrival.md)
@@ -155,7 +163,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1 175660
 
-### 10
+### 11
 
 **1936 CUMMING, GEORGE Davidson Smith Cumming**
 
@@ -164,7 +172,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 261235
 
-### 11
+### 12
 
 **1939 CUMMING, GEORGE DAVIDSON SMITH - Petition for Naturalization**
 
@@ -173,7 +181,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 199316
 
-### 12
+### 13
 
 **1940 CUMMING, DONALD (Statutory Register Deaths 047/12)**
 
@@ -183,7 +191,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1940 D 047/12
 
-### 13
+### 14
 
 **1943 CUMMING, GEORGE DAVIDSON SMITH - Florida County Marriage Records**
 
@@ -192,7 +200,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * (Film Number) 002241560
 
-### 14
+### 15
 
 **1948 CUMMING, MARGARET HOGG (Petition for Naturalization)**
 
@@ -200,7 +208,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1734
 
-### 15
+### 16
 
 **1928 GILLIE, WILLIAMINA (statutory registers marriages 098/A99)**
 
@@ -210,7 +218,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1928 M 098/A99
 
-### 16
+### 17
 
 **1946 CUMMING, ANN (Statutory Registers Deaths 047/11)**
 
@@ -219,14 +227,14 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1946 D 
 
-### 17
+### 18
 
 **1965 CUMMING, GEORGE D S - Florida Death Index**
 
 * [Full text and notes](../sources/@66019328@-1965-cumming,-george-d-s-florida-death-index.md)
 * Publication: Florida Death Index 1877-1998
 
-### 18
+### 19
 
 **1965 CUMMING, GEORGE DAVIDSON SMITH - FindAGrave.com memorial**
 
@@ -236,20 +244,20 @@ Date | Occupation | Sources & Notes
 * References: 
   * 187602426
 
-### 19
+### 20
 
 **1901 CUMMING, DONALD - 1901 Census 047/2/18**
 
 * [Full text and notes](../sources/@9522719@-1901-cumming,-donald-1901-census-047-2-18.md)
 * Responsible Agency: National Records of Scotland
 
-### 20
+### 21
 
 **1915 CUMMING, GEORGE DAVIDSON SMITH - Royal Navy**
 
 * [Full text and notes](../sources/@49170492@-1915-cumming,-george-davidson-smith-royal-navy.md)
 
-### 21
+### 22
 
 **1930 CUMMING, GEORGE / ALEXINA / THOMASINA / CHRISTINE - 1930 United States Federal Census**
 
@@ -257,13 +265,13 @@ Date | Occupation | Sources & Notes
 * Originator / Author: Department of Commerce - Bureau of the Census
 * Date: 7/Apr/1930
 
-### 22
+### 23
 
 **1940 CUMMING, ALEXINA, GEORGE, THOMASINA, & CHRISTINE - 1940 United States Federal Census**
 
 * [Full text and notes](../sources/@80891523@-1940-cumming,-alexina,-george,-thomasina,-&-christine-1940-united-states-federal-census.md)
 
-### 23
+### 24
 
 **1950 CUMMING, GEORGE DS & MARGARET HOGG (1950 Census)**
 
@@ -272,21 +280,21 @@ Date | Occupation | Sources & Notes
 * Date: 7/Apr/1950
 * Responsible Agency: U.S. Department of Commerce, Bureau of the Census
 
-### 24
+### 25
 
 **1953 CUMMING, GEORGE D.S (West Palm Beach, Florida, City Directory, 1953)**
 
 * [Full text and notes](../sources/@64786767@-1953-cumming,-george-d.s-west-palm-beach,-florida,-city-directory,-1953-.md)
 * Date: 1953
 
-### 25
+### 26
 
 **1937 CUMMING, GEORGE DAVIDSON SMITH**
 
 * [Full text and notes](../sources/@63974962@-1937-cumming,-george-davidson-smith.md)
 * Date: 16/Jul/1937
 
-### 26
+### 27
 
 **1949 Sunday Post - 150 Young Men Went out to Seek Their Fortune (15/May/1949)**
 

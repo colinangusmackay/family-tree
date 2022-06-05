@@ -4,8 +4,17 @@
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "5/Nov/1855",
-  "DateOfDeath": "",
+  "DateOfDeath": "21/Apr/1940",
   "Children": [
+    {
+      "Id": "i35928164",
+      "Name": "Elizabeth Cumming",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1882",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i89853996",
       "Name": "Donald Cumming",

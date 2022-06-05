@@ -50,6 +50,7 @@ permalink: /indexes/by-date-of-birth
   * **[Munro, Hugh](people/@24463792@-hugh-munro-b1810-d.md)** (before 1810 - )
   * **[Sutherland, Isabella](people/@80519670@-isabella-sutherland-b1810-d.md)** (before 1810 - )
 * **Born in 1813.**
+  * **[Mackay, Kenneth](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901)
   * **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
 * **Born in 1814.**
   * **[Ross, Alexander](people/@81387900@-alexander-ross-b1814-d1896-1-20.md)** (about 1814 - 20/Jan/1896)
@@ -117,10 +118,11 @@ permalink: /indexes/by-date-of-birth
   * **[Punton, Joan](people/@98605400@-joan-punton-b1850-d.md)** (before 1850 - )
 * **Born in 1854.**
   * **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
+  * **[Mackay, Barbara](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - )
 * **Born in 1855.**
   * **[Mackay, Betsy](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - )
   * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
-  * **[Mackay, Ann](people/@74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - )
+  * **[Mackay, Ann](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940)
 * **Born in 1856.**
   * **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - )
   * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
@@ -139,7 +141,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1861.**
   * **[MacLeod, Matilda](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
   * **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - )
-  * **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
+  * **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
   * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1919.md)** (12/Apr/1861 - before 1919)
 * **Born in 1863.**
   * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
@@ -174,16 +176,20 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Jane](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934)
 * **Born in 1873.**
   * **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
+* **Born in 1875.**
+  * **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
 * **Born in 1876.**
   * **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939)
 * **Born in 1877.**
   * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
+  * **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - )
   * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
 * **Born in 1878.**
   * **[Cumming, Christy](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
   * **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - )
   * **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
 * **Born in 1879.**
+  * **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - )
   * **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
 
 ### 1880s
@@ -195,15 +201,18 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1881.**
   * **[Cumming, James](people/@64418166@-james-cumming-b1881-d.md)** (about 1881 - )
   * **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
+  * **[Henderson, Edward](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - )
   * **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
 * **Born in 1882.**
+  * **[Cumming, Elizabeth](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - )
   * **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - )
 * **Born in 1883.**
+  * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934)
   * **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - )
 * **Born in 1884.**
-  * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1884-d1934-11-9.md)** (about 1884 - 9/Nov/1934)
   * **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 * **Born in 1885.**
+  * **[Mackay, Bella](people/@54814674@-bella-mackay-b1885-d.md)** (about 1885 - )
   * **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
   * **[Cumming, Barbara Ann](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - )
 * **Born in 1888.**
@@ -263,6 +272,7 @@ permalink: /indexes/by-date-of-birth
   * **[Ross, Peter](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
 * **Born in 1901.**
   * **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - )
+  * **[Predendall, Carrie Elizabeth](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - )
   * **[Stead, Albert](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
   * **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
 * **Born in 1902.**
@@ -369,6 +379,7 @@ permalink: /indexes/by-date-of-birth
 ## Unknown Date of Birth
 
 * [Isabella](people/@41136024@-isabella-b-d1864.md) ( - after 1864)
+* [Joan](people/@53960434@-joan-b-d2021-2-18.md) ( - 18/Feb/2021)
 * [Anne Chisholm](people/@48064613@-anne-chisholm-b-d1877.md) ( - before 1877)
 * [Donald Cumming](people/@69575920@-donald-cumming-b-d1875.md) ( - after 1875)
 * [Helen Currie](people/@14506844@-helen-currie-b-d1880.md) ( - before 1880)

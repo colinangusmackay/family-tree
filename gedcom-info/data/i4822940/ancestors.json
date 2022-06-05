@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i4822940",
+  "Name": "Edward Henderson",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1881",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i92250700",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i82771990",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

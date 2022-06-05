@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i4822940",
+    "Name": "Edward Henderson",
+    "Gender": "Female",
+    "DateOfBirth": "about 1881",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i92250700",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i82771990",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i4822940",
+      "Name": "Edward Henderson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1881",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i82771990",
+          "i92250700"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i35928164",
+      "Name": "Elizabeth Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1882",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "28/Jul/1911",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

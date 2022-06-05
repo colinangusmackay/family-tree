@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i53960434",
+    "Name": "Joan",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "18/Feb/2021"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i53960434",
+      "Name": "Joan",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "18/Feb/2021",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i16568277",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "28/Aug/1948",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "7/Nov/1970",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i69699262",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i16568277",
+        "i53960434"
+      ]
+    }
+  ]
+}

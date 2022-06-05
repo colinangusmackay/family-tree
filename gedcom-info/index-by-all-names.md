@@ -11,6 +11,7 @@ permalink: /indexes/by-all-names
 - **[Eileen](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 - **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
 - **[Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
+- **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[Kenny Pedar Laudie](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
 - **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 - **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
@@ -51,12 +52,13 @@ permalink: /indexes/by-all-names
 - **[Alexandrina Cumming](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
 - **[Alexina Cumming](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
 - **[Anne Cumming](people/@14926290@-anne-cumming-b1920-2-23-d2002-11-14.md)** (23/Feb/1920 - 14/Nov/2002)
-- **[Annie Cumming](people/@74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - )
+- **[Annie Cumming](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940)
 - **[Annie Cumming](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
 - **[Annie Cumming](people/@14926290@-anne-cumming-b1920-2-23-d2002-11-14.md)** (23/Feb/1920 - 14/Nov/2002)
 - **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - )
 - **[Bell Cumming](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884)
 - **[Bella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986)
+- **[Carrie Cumming](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - )
 - **[Catherine Cumming](people/@28255030@-kate-macdonald-b1807-d1875-10-29.md)** (about 1807 - 29/Oct/1875)
 - **[Christine Cumming](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 - **[Christy Cumming](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
@@ -65,17 +67,19 @@ permalink: /indexes/by-all-names
 - **[Cumming](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
 - **[Cumming](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - )
 - **[Cumming](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
+- **[Cumming](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - )
 - **[Cumming](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
 - **[Donald Cumming](people/@69575920@-donald-cumming-b-d1875.md)** ( - after 1875)
 - **[Donald Cumming](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
-- **[Donald Cumming](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
 - **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
 - **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
 - **[Donald Cumming](people/@64759184@-donald-cumming-b1903-5-4-d.md)** (4/May/1903 - )
-- **[Donald James Cumming](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
+- **[Donald J Cumming](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
+- **[Donald James Cumming](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
 - **[Donald James Cumming](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976)
-- **[Donald John Cumming](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
+- **[Donald John Cumming](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
 - **[Donald John Cumming](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
+- **[Elizabeth Cumming](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - )
 - **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986)
 - **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923)
@@ -211,6 +215,10 @@ permalink: /indexes/by-all-names
 - **[Sarah Hayes](people/@32431312@-sarah-hayes-b-d2018.md)** ( - before 2018)
 - **[Vernon Hayes](people/@31599970@-vernon-hayes-b-d2018.md)** ( - before 2018)
 
+## Henderson
+
+- **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - )
+
 ## LaFavre
 
 - **[Stasia LaFavre](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
@@ -243,14 +251,16 @@ permalink: /indexes/by-all-names
 - **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
 - **[Alexander Mackay](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - )
 - **[Alexina Mackay](people/@75066880@-alexina-mackay-b1935-1-11-d1935.md)** (11/Jan/1935 - 1935)
-- **[Ann Mackay](people/@74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - )
+- **[Ann Mackay](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940)
 - **[Ann Mackay](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
 - **[Anna Jess Mackay](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
-- **[Annie Mackay](people/@74868546@-ann-mackay-b1855-11-5-d.md)** (5/Nov/1855 - )
+- **[Annie Mackay](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940)
 - **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942)
 - **[Annie Mackay](people/@51252926@-annie-mackay-b1892-12-15-d1918.md)** (15/Dec/1892 - 1918)
 - **[Barbara Mackay](people/@61459684@-barbara-mackay-b-d1896.md)** ( - before 1896)
 - **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - )
+- **[Barbara Mackay](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - )
+- **[Bella Mackay](people/@54814674@-bella-mackay-b1885-d.md)** (about 1885 - )
 - **[Betsy Mackay](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - )
 - **[Betsy Mackay](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - )
 - **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - )
@@ -258,10 +268,12 @@ permalink: /indexes/by-all-names
 - **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
 - **[Christina Mackay](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
 - **[David Mackay](people/@46263680@-david-mackay-b1846-d1860.md)** (1846 - 1860)
+- **[David Mackay](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - )
 - **[Donald James Mackay](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
 - **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939)
 - **[George Mackay](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
+- **[George Mackay](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
 - **[George Mackay](people/@72941728@-george-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
 - **[Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881)
 - **[Isabella Mackay](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
@@ -280,7 +292,9 @@ permalink: /indexes/by-all-names
 - **[John Mackay](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - )
 - **[John Paul Mackay](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969)
 - **[Kate Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - )
+- **[Kenneth Mackay](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901)
 - **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - )
+- **[Kenneth Mackay](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - )
 - **[Kenneth Mackay](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - )
 - **[Kenneth Mackay](people/@52754046@-kenneth-mackay-b1920-3-28-d.md)** (28/Mar/1920 - )
 - **[Lucy Mackay](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
@@ -288,6 +302,7 @@ permalink: /indexes/by-all-names
 - **[Lula Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970)
 - **[Mackay](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - )
 - **[Mackay](people/@45275253@-christina-fraser-b1803-d.md)** (before 1803 - )
+- **[Mackay](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - )
 - **[Mackay](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
 - **[Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923)
 - **[Mackay](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
@@ -301,7 +316,7 @@ permalink: /indexes/by-all-names
 - **[Mary Ann Mackay](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
 - **[Mary Mackay](people/@78757487@-mary-mackay-b1840-d.md)** (before 1840 - )
 - **[Sophia Mackay](people/@52720474@-sophia-mackay-b1850-d.md)** (before 1850 - )
-- **[Thomas Mackay](people/@5045152@-thomas-mackay-b1884-d1934-11-9.md)** (about 1884 - 9/Nov/1934)
+- **[Thomas Mackay](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934)
 - **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
 - **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
 - **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
@@ -418,6 +433,10 @@ permalink: /indexes/by-all-names
 - **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
 - **[Paton](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
 
+## Predendall
+
+- **[Carrie Elizabeth Predendall](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - )
+
 ## Pritchard
 
 - **[Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md)** ( - before 1910)
@@ -523,3 +542,7 @@ permalink: /indexes/by-all-names
 ## Thomson
 
 - **[Agnes Thomson](people/@96590245@-agnes-thomson-b1897-d.md)** (before 1897 - )
+
+## West
+
+- **[Joan West](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)

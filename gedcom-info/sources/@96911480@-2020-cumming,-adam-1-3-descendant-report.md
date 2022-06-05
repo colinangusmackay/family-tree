@@ -25,7 +25,7 @@ _Redacted_
 * [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
 * [James Cumming](../people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
 * [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1875-10-29.md) (about 1807 - 29/Oct/1875)
-* [Ann Mackay](../people/@74868546@-ann-mackay-b1855-11-5-d.md) (5/Nov/1855 - )
+* [Ann Mackay](../people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)
 * [David Mackay](../people/@46263680@-david-mackay-b1846-d1860.md) (1846 - 1860)
 * [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
 * [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)

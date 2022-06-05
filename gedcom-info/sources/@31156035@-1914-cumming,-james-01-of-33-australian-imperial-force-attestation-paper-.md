@@ -75,4 +75,4 @@ References |
 
 ## Source Referenced by
 
-* [Donald Cumming](../people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
+* [Donald J Cumming](../people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)

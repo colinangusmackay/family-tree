@@ -24,9 +24,14 @@ permalink: /indexes/by-occupation
 
 * **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004).
 
+## Boatswain
+
+* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
+
 ## Bookkeeper
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
+* **[Predendall, Carrie Elizabeth](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - ).
 
 ## Brass Moulder
 
@@ -85,6 +90,7 @@ permalink: /indexes/by-occupation
 
 ## Domestic
 
+* **[Cumming, Elizabeth](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ).
 * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971), mentioned 2 times.
 * **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977).
 
@@ -150,7 +156,7 @@ permalink: /indexes/by-occupation
 * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926), mentioned 3 times.
 * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884), mentioned 3 times.
 * **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875), mentioned 3 times.
-* **[Cumming, Donald](people/@20465544@-donald-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 10 times.
+* **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 10 times.
 * **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923), mentioned 4 times.
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
 * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned 2 times.
@@ -168,11 +174,16 @@ permalink: /indexes/by-occupation
 * **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ).
 * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ).
 * **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ).
+* **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - ).
 * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 3 times.
+* **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - ), mentioned 2 times.
 * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1919.md)** (12/Apr/1861 - before 1919), mentioned 8 times.
 * **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ).
+* **[Mackay, Kenneth](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901).
 * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ).
+* **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ).
+* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
 * **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ).
 * **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949).
@@ -188,6 +199,7 @@ permalink: /indexes/by-occupation
 
 ## Fishwife
 
+* **[Mackay, Barbara](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - ).
 * **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
 
 ## Fishworker
@@ -244,6 +256,10 @@ permalink: /indexes/by-occupation
 ## Library Attendant
 
 * **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - ).
+
+## Machinest
+
+* **[Cumming, John](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ).
 
 ## Machinist
 
@@ -351,7 +367,7 @@ permalink: /indexes/by-occupation
 
 ## Seaman (Merchant Services)
 
-* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1884-d1934-11-9.md)** (about 1884 - 9/Nov/1934).
+* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
 
 ## Servant
 
@@ -364,6 +380,10 @@ permalink: /indexes/by-occupation
 ## Shorthand Typist
 
 * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973).
+
+## Stair Builder
+
+* **[Henderson, Edward](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - ).
 
 ## Stenographer
 
