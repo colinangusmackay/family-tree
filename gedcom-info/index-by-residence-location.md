@@ -30,6 +30,7 @@ permalink: /indexes/by-residence-location
 #### Morley
 
 - **[, Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
+- **[, Nancy](people/@68661720@-nancy-b-d.md)**
 - **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
 - **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - )
 - **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
@@ -48,6 +49,19 @@ permalink: /indexes/by-residence-location
 - **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - )
 - **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
 - **[Pritchard, Elisabeth](people/@8049072@-elisabeth-pritchard-b-d1910.md)** ( - before 1910)
+
+### Dumfries
+
+#### Johnstone
+
+- **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - )
+- **[McTurk, Grace](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - )
+
+### Dumfries and Galloway
+
+#### Applegarth
+
+- **[McTurk, Grace](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - )
 
 ### Edinburgh
 
@@ -220,6 +234,12 @@ permalink: /indexes/by-residence-location
 - **[Grant, Catherine](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - )
 - **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
 - **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - )
+
+### New York
+
+#### Horicon, Warren County
+
+- **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
 
 
 ## United States of America

@@ -11,18 +11,56 @@
       "Name": "Claude Hayes",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "",
-      "DateOfDeath": "before 2018",
-      "Parents": []
+      "DateOfBirth": "about 1889",
+      "DateOfDeath": "30/Jan/1958",
+      "Parents": [
+        {
+          "Id": "i49395288",
+          "Name": "Joseph Hayes",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i25511104",
+          "Name": "Mary Younger",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
     },
     {
       "Id": "i2876469",
       "Name": "Goldie Raymond",
       "Gender": "Female",
       "Relationship": "mother",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1894",
       "DateOfDeath": "before 2018",
-      "Parents": []
+      "Parents": [
+        {
+          "Id": "i91101318",
+          "Name": "Belle Gregory",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i30488355",
+          "Name": "Frank Raymond",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
     }
   ]
 }

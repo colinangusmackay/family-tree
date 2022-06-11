@@ -32,7 +32,7 @@ References |
 >
 > * Surname: Stead
 >
-> Abode: ???? Morley
+> Abode: 6 Tomlinson Buildings, High Street, Morley
 >
 > Quality, Trade or Profession: Mason
 >
@@ -41,4 +41,6 @@ References |
 
 ## Source Referenced by
 
+* [Nancy](../people/@68661720@-nancy-b-d.md)
 * [Cyril Stead](../people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md) (11/Mar/1908 - 25/Nov/1980)
+* [Harry Stead](../people/@68900898@-harry-stead-b1888-d.md) (about 1888 - )

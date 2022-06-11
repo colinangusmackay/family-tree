@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i49395288",
+    "Name": "Joseph Hayes",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i49395288",
+      "Name": "Joseph Hayes",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i25511104",
+      "Name": "Mary Younger",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i99088640",
+      "Name": "Claude Hayes",
+      "Gender": "Male",
+      "DateOfBirth": "about 1889",
+      "DateOfDeath": "30/Jan/1958",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i49395288",
+        "i25511104"
+      ]
+    }
+  ]
+}

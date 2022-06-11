@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i39936423",
+    "Name": "Alexander McTurk",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i39936423",
+      "Name": "Alexander McTurk",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i2654341",
+      "Name": "Margaret Beatie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i54145218",
+      "Name": "Grace McTurk",
+      "Gender": "Female",
+      "DateOfBirth": "about 1887",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i39936423",
+        "i2654341"
+      ]
+    }
+  ]
+}

@@ -3,19 +3,41 @@
     "Id": "i4716977",
     "Name": "William Andrew Campbell",
     "Gender": "Male",
-    "DateOfBirth": "before 1904",
+    "DateOfBirth": "about 1889",
     "DateOfDeath": ""
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i70442784",
+      "Name": "William Campbell",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1918",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i58377523",
+      "Name": "Rachel Smith",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i4716977",
       "Name": "William Andrew Campbell",
       "Gender": "Male",
-      "DateOfBirth": "before 1904",
+      "DateOfBirth": "about 1889",
       "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i58377523",
+          "i70442784"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,10 +45,10 @@
       "Id": "i54145218",
       "Name": "Grace McTurk",
       "Gender": "Female",
-      "DateOfBirth": "before 1904",
+      "DateOfBirth": "about 1887",
       "DateOfDeath": "",
       "RelationToSubject": "wife",
-      "DateOfMarriage": "1918",
+      "DateOfMarriage": "21/Mar/1918",
       "DateOfDivorce": ""
     }
   ],

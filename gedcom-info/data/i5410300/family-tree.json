@@ -11,15 +11,15 @@
       "Id": "i99088640",
       "Name": "Claude Hayes",
       "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "before 2018",
+      "DateOfBirth": "about 1889",
+      "DateOfDeath": "30/Jan/1958",
       "RelationToSubject": "father"
     },
     {
       "Id": "i2876469",
       "Name": "Goldie Raymond",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1894",
       "DateOfDeath": "before 2018",
       "RelationToSubject": "mother"
     }

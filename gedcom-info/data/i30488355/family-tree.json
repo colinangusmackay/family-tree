@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i30488355",
+    "Name": "Frank Raymond",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i30488355",
+      "Name": "Frank Raymond",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i91101318",
+      "Name": "Belle Gregory",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i2876469",
+      "Name": "Goldie Raymond",
+      "Gender": "Female",
+      "DateOfBirth": "about 1894",
+      "DateOfDeath": "before 2018",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i30488355",
+        "i91101318"
+      ]
+    }
+  ]
+}

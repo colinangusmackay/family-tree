@@ -3,19 +3,41 @@
     "Id": "i54145218",
     "Name": "Grace McTurk",
     "Gender": "Female",
-    "DateOfBirth": "before 1904",
+    "DateOfBirth": "about 1887",
     "DateOfDeath": ""
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i39936423",
+      "Name": "Alexander McTurk",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i2654341",
+      "Name": "Margaret Beatie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i54145218",
       "Name": "Grace McTurk",
       "Gender": "Female",
-      "DateOfBirth": "before 1904",
+      "DateOfBirth": "about 1887",
       "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i2654341",
+          "i39936423"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,10 +45,10 @@
       "Id": "i4716977",
       "Name": "William Andrew Campbell",
       "Gender": "Male",
-      "DateOfBirth": "before 1904",
+      "DateOfBirth": "about 1889",
       "DateOfDeath": "",
       "RelationToSubject": "husband",
-      "DateOfMarriage": "1918",
+      "DateOfMarriage": "21/Mar/1918",
       "DateOfDivorce": ""
     }
   ],

@@ -18,7 +18,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Linda Margaret Campbell](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016) and X **on 6th of June 1981** at Blackburn, West Lothian, Scotland.
   * **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998) and **[William Gardiner](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986) **on 26th of November 1948** at Dryfesdale, Dumfrieshire, Scotland.
-  * **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - ) **in 1918**.
+  * **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - ) **on 21st of March 1918** at Applegarth, Dumfries and Galloway, Scotland.
 
 ## Cumming
 
@@ -92,6 +92,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Hayes
 
+  * **[Claude Hayes](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958) and **[Goldie Raymond](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018) **on 7th of April 1912** at Horicon, Warren County, New York, United States.
   * **[Dan Hayes](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018) and X **on 14th of December 1968**.
 
 ## Henderson
@@ -190,7 +191,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## McTurk
 
-  * **[Grace McTurk](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - ) and **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - ) **in 1918**.
+  * **[Grace McTurk](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - ) and **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - ) **on 21st of March 1918** at Applegarth, Dumfries and Galloway, Scotland.
 
 ## Miller
 
@@ -226,6 +227,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) and **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) **on 6th of April 1945** at Edinburgh, Scotland.
   * **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920) and **[Helen Currie Fisher](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - ) **on 13th of January 1905** at Edinburgh, Scotland.
+
+## Raymond
+
+  * **[Goldie Raymond](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018) and **[Claude Hayes](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958) **on 7th of April 1912** at Horicon, Warren County, New York, United States.
 
 ## Reid
 

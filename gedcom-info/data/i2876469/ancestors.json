@@ -3,7 +3,26 @@
   "Name": "Goldie Raymond",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1894",
   "DateOfDeath": "before 2018",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i91101318",
+      "Name": "Belle Gregory",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i30488355",
+      "Name": "Frank Raymond",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

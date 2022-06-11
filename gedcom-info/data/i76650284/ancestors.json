@@ -159,18 +159,56 @@
               "Name": "Grace McTurk",
               "Gender": "Female",
               "Relationship": "mother",
-              "DateOfBirth": "before 1904",
+              "DateOfBirth": "about 1887",
               "DateOfDeath": "",
-              "Parents": []
+              "Parents": [
+                {
+                  "Id": "i39936423",
+                  "Name": "Alexander McTurk",
+                  "Gender": "Male",
+                  "Relationship": "father",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Parents": []
+                },
+                {
+                  "Id": "i2654341",
+                  "Name": "Margaret Beatie",
+                  "Gender": "Female",
+                  "Relationship": "mother",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Parents": []
+                }
+              ]
             },
             {
               "Id": "i4716977",
               "Name": "William Andrew Campbell",
               "Gender": "Male",
               "Relationship": "father",
-              "DateOfBirth": "before 1904",
+              "DateOfBirth": "about 1889",
               "DateOfDeath": "",
-              "Parents": []
+              "Parents": [
+                {
+                  "Id": "i58377523",
+                  "Name": "Rachel Smith",
+                  "Gender": "Female",
+                  "Relationship": "mother",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Parents": []
+                },
+                {
+                  "Id": "i70442784",
+                  "Name": "William Campbell",
+                  "Gender": "Male",
+                  "Relationship": "father",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "before 1918",
+                  "Parents": []
+                }
+              ]
             }
           ]
         }

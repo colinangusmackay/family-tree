@@ -164,5 +164,18 @@
       "DateOfDivorce": ""
     }
   ],
-  "Children": []
+  "Children": [
+    {
+      "Id": "i88821212",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "1938",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i492889",
+        "i23770336"
+      ]
+    }
+  ]
 }

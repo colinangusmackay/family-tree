@@ -18,6 +18,10 @@ permalink: /indexes/by-family-name
 
 - **[Janet Abernethy](people/@82771990@-janet-abernethy-b-d.md)**
 
+## Beatie
+
+- **[Margaret Beatie](people/@2654341@-margaret-beatie-b-d.md)**
+
 ## Byrne
 
 - **[Kevin James Byrne](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
@@ -26,7 +30,8 @@ permalink: /indexes/by-family-name
 
 - **[Linda Margaret Campbell](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
-- **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - )
+- **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - )
+- **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918)
 
 ## Chisholm
 
@@ -141,6 +146,10 @@ permalink: /indexes/by-family-name
 - **[Jessie Grant](people/@31091676@-jessie-grant-b-d.md)**
 - **[Margaret Grant](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
 
+## Gregory
+
+- **[Belle Gregory](people/@91101318@-belle-gregory-b-d.md)**
+
 ## Hatelie
 
 - **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977)
@@ -148,8 +157,9 @@ permalink: /indexes/by-family-name
 ## Hayes
 
 - **[Ada Hayes](people/@80079834@-ada-hayes-b-d2018.md)** ( - before 2018)
-- **[Claude Hayes](people/@99088640@-claude-hayes-b-d2018.md)** ( - before 2018)
+- **[Claude Hayes](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958)
 - **[Dan Hayes](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018)
+- **[Joseph Hayes](people/@49395288@-joseph-hayes-b-d.md)**
 - **[Lena Hayes](people/@80081989@-lena-hayes-b-d2018.md)** ( - before 2018)
 - **[Leonard Hayes](people/@36021443@-leonard-hayes-b-d2018.md)** ( - before 2018)
 - **[Marion Hayes](people/@15147548@-marion-hayes-b-d2018.md)** ( - before 2018)
@@ -319,7 +329,8 @@ permalink: /indexes/by-family-name
 
 ## McTurk
 
-- **[Grace McTurk](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - )
+- **[Alexander McTurk](people/@39936423@-alexander-mcturk-b-d.md)**
+- **[Grace McTurk](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - )
 
 ## Miller
 
@@ -384,7 +395,8 @@ permalink: /indexes/by-family-name
 
 ## Raymond
 
-- **[Goldie Raymond](people/@2876469@-goldie-raymond-b-d2018.md)** ( - before 2018)
+- **[Frank Raymond](people/@30488355@-frank-raymond-b-d.md)**
+- **[Goldie Raymond](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
 
 ## Reid
 
@@ -432,6 +444,10 @@ permalink: /indexes/by-family-name
 
 - **[Clara Sherwood](people/@79435398@-clara-sherwood-b-d.md)**
 
+## Smith
+
+- **[Rachel Smith](people/@58377523@-rachel-smith-b-d.md)**
+
 ## Stead
 
 - **[Albert Stead](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
@@ -464,3 +480,7 @@ permalink: /indexes/by-family-name
 ## Wilson
 
 - **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)**
+
+## Younger
+
+- **[Mary Younger](people/@25511104@-mary-younger-b-d.md)**

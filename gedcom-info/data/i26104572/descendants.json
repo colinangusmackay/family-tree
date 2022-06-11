@@ -112,7 +112,17 @@
               "Relationship": "son",
               "DateOfBirth": "7/Nov/1894",
               "DateOfDeath": "2/Jul/1975",
-              "Children": []
+              "Children": [
+                {
+                  "Id": "i88821212",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "1938",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
             },
             {
               "Id": "i13773669",

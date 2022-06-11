@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i70442784",
+    "Name": "William Campbell",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1918"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i70442784",
+      "Name": "William Campbell",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1918",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i58377523",
+      "Name": "Rachel Smith",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i4716977",
+      "Name": "William Andrew Campbell",
+      "Gender": "Male",
+      "DateOfBirth": "about 1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i70442784",
+        "i58377523"
+      ]
+    }
+  ]
+}

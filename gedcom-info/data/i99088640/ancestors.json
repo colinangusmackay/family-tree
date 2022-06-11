@@ -3,7 +3,26 @@
   "Name": "Claude Hayes",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
-  "DateOfDeath": "before 2018",
-  "Parents": []
+  "DateOfBirth": "about 1889",
+  "DateOfDeath": "30/Jan/1958",
+  "Parents": [
+    {
+      "Id": "i49395288",
+      "Name": "Joseph Hayes",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i25511104",
+      "Name": "Mary Younger",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

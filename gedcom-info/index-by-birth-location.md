@@ -12,8 +12,10 @@ permalink: /indexes/by-birth-location
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 - **[, Nancy](people/@68661720@-nancy-b-d.md)**
 - **[Abernethy, Janet](people/@82771990@-janet-abernethy-b-d.md)**
+- **[Beatie, Margaret](people/@2654341@-margaret-beatie-b-d.md)**
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
-- **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - )
+- **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - )
+- **[Campbell, William](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918)
 - **[Chisholm, Anne](people/@48064613@-anne-chisholm-b-d1877.md)** ( - before 1877)
 - **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
 - **[Cumming, Alexander](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
@@ -58,8 +60,9 @@ permalink: /indexes/by-birth-location
 - **[Grant, Jessie Ann](people/@15036054@-jessie-ann-grant-b1899-d.md)** (about 1899 - )
 - **[Grant, Jessie](people/@31091676@-jessie-grant-b-d.md)**
 - **[Grant, Margaret](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
+- **[Gregory, Belle](people/@91101318@-belle-gregory-b-d.md)**
 - **[Hayes, Ada](people/@80079834@-ada-hayes-b-d2018.md)** ( - before 2018)
-- **[Hayes, Claude](people/@99088640@-claude-hayes-b-d2018.md)** ( - before 2018)
+- **[Hayes, Joseph](people/@49395288@-joseph-hayes-b-d.md)**
 - **[Hayes, Lena](people/@80081989@-lena-hayes-b-d2018.md)** ( - before 2018)
 - **[Hayes, Leonard](people/@36021443@-leonard-hayes-b-d2018.md)** ( - before 2018)
 - **[Hayes, Marion](people/@15147548@-marion-hayes-b-d2018.md)** ( - before 2018)
@@ -148,7 +151,8 @@ permalink: /indexes/by-birth-location
 - **[McLean, John](people/@91397610@-john-mclean-b-d1877.md)** ( - after 1877)
 - **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
 - **[McRae, Margaret](people/@57014804@-margaret-mcrae-b-d.md)**
-- **[McTurk, Grace](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - )
+- **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b-d.md)**
+- **[McTurk, Grace](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - )
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
 - **[Morgan, Ann](people/@60684755@-ann-morgan-b-d.md)**
 - **[Morrison, John](people/@39757210@-john-morrison-b-d1877.md)** ( - before 1877)
@@ -172,7 +176,7 @@ permalink: /indexes/by-birth-location
 - **[Ramsay, Jack](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
 - **[Ramsay, John](people/@63088441@-john-ramsay-b-d.md)**
 - **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
-- **[Raymond, Goldie](people/@2876469@-goldie-raymond-b-d2018.md)** ( - before 2018)
+- **[Raymond, Frank](people/@30488355@-frank-raymond-b-d.md)**
 - **[Reid, John](people/@95320597@-john-reid-b-d.md)**
 - **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
 - **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
@@ -195,6 +199,7 @@ permalink: /indexes/by-birth-location
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
 - **[Seaton, William](people/@58232144@-william-seaton-b-d1880.md)** ( - after 1880)
 - **[Sherwood, Clara](people/@79435398@-clara-sherwood-b-d.md)**
+- **[Smith, Rachel](people/@58377523@-rachel-smith-b-d.md)**
 - **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
 - **[Stevens, Thomas](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 - **[Sutherland, Isabella](people/@80519670@-isabella-sutherland-b1810-d.md)** (before 1810 - )
@@ -203,6 +208,7 @@ permalink: /indexes/by-birth-location
 - **[Taylor, Helen](people/@47549486@-helen-taylor-b-d1880.md)** ( - before 1880)
 - **[Thomson, Agnes](people/@96590245@-agnes-thomson-b1897-d.md)** (before 1897 - )
 - **[Wilson, Elizabeth](people/@71295041@-elizabeth-wilson-b-d.md)**
+- **[Younger, Mary](people/@25511104@-mary-younger-b-d.md)**
 
 
 ## Canada
@@ -369,6 +375,16 @@ permalink: /indexes/by-birth-location
 #### Helmsdale
 
 - **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
+
+
+## United States
+
+### New York
+
+#### Horicon, Warren County
+
+- **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958)
+- **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
 
 
 ## United States of America

@@ -122,10 +122,11 @@ A list of marriages, civil partnerships and civil unions by date.
   * **28/Jul/1911** : **[Elizabeth Cumming](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ) and **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - ) at Boston, Massachusetts, United States of America.
 * **1912**
   * **16/Jan/1912** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) at Dornoch, Sutherland, Scotland.
+  * **7/Apr/1912** : **[Claude Hayes](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958) and **[Goldie Raymond](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018) at Horicon, Warren County, New York, United States.
 * **1916**
   * **22/Dec/1916** : **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ) and **[Margaret McRae](people/@57014804@-margaret-mcrae-b-d.md)** at Dingwall, Ross & Cromarty, Scotland.
 * **1918**
-  * **1918** : **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - ).
+  * **21/Mar/1918** : **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - ) at Applegarth, Dumfries and Galloway, Scotland.
   * **12/Apr/1918** : **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967) and **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) at Middlesborough, England.
 * **1919**
   * **27/Jun/1919** : **[Thomas Mackay](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934) and **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970) at Glasgow, Scotland.

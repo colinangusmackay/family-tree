@@ -3,19 +3,41 @@
     "Id": "i2876469",
     "Name": "Goldie Raymond",
     "Gender": "Female",
-    "DateOfBirth": "",
+    "DateOfBirth": "about 1894",
     "DateOfDeath": "before 2018"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i30488355",
+      "Name": "Frank Raymond",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i91101318",
+      "Name": "Belle Gregory",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i2876469",
       "Name": "Goldie Raymond",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1894",
       "DateOfDeath": "before 2018",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i30488355",
+          "i91101318"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,10 +45,10 @@
       "Id": "i99088640",
       "Name": "Claude Hayes",
       "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "before 2018",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "DateOfBirth": "about 1889",
+      "DateOfDeath": "30/Jan/1958",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "7/Apr/1912",
       "DateOfDivorce": ""
     }
   ],

@@ -3,19 +3,41 @@
     "Id": "i99088640",
     "Name": "Claude Hayes",
     "Gender": "Male",
-    "DateOfBirth": "",
-    "DateOfDeath": "before 2018"
+    "DateOfBirth": "about 1889",
+    "DateOfDeath": "30/Jan/1958"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i49395288",
+      "Name": "Joseph Hayes",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i25511104",
+      "Name": "Mary Younger",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i99088640",
       "Name": "Claude Hayes",
       "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "before 2018",
+      "DateOfBirth": "about 1889",
+      "DateOfDeath": "30/Jan/1958",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i25511104",
+          "i49395288"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,10 +45,10 @@
       "Id": "i2876469",
       "Name": "Goldie Raymond",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1894",
       "DateOfDeath": "before 2018",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "7/Apr/1912",
       "DateOfDivorce": ""
     }
   ],

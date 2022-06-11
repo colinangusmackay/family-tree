@@ -6,6 +6,7 @@ permalink: /indexes/by-occupation
 # Index - By Occupation
 ## 
 
+* **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b-d.md)**.
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
 
 ## ____ Caster
@@ -53,9 +54,21 @@ permalink: /indexes/by-occupation
 
 * **[Morrison, John](people/@39757210@-john-morrison-b-d1877.md)** ( - before 1877).
 
+## Cattleman
+
+* **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - ).
+
 ## Cement Finisher
 
 * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982), mentioned 3 times.
+
+## Children's Nurse
+
+* **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
+
+## Clerk
+
+* **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 
 ## Clothing Business
 
@@ -92,6 +105,10 @@ permalink: /indexes/by-occupation
 ## Dairy Maid
 
 * **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998).
+
+## Dairymaid
+
+* **[McTurk, Grace](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - ).
 
 ## District Nurse
 
@@ -242,6 +259,10 @@ permalink: /indexes/by-occupation
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996).
 
+## Housekeeper
+
+* **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018).
+
 ## Houseworker
 
 * **[Grant, Catherine](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ).
@@ -249,6 +270,7 @@ permalink: /indexes/by-occupation
 
 ## Laborer
 
+* **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958).
 * **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ).
 
 ## Laborour
@@ -277,7 +299,7 @@ permalink: /indexes/by-occupation
 
 ## Mason
 
-* **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ).
+* **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ), mentioned 2 times.
 
 ## Merchant
 
@@ -323,6 +345,7 @@ permalink: /indexes/by-occupation
 
 ## Ploughman
 
+* **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - ).
 * **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - ).
 * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
 
@@ -441,6 +464,10 @@ permalink: /indexes/by-occupation
 ## Water Fittings Inspector
 
 * **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b-d.md)**.
+
+## Wood Forester
+
+* **[Campbell, William](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918).
 
 ## Woollen Mill Worker
 

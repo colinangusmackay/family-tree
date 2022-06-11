@@ -21,7 +21,17 @@
           "Relationship": "daughter",
           "DateOfBirth": "4/Apr/1910",
           "DateOfDeath": "4/Nov/2003",
-          "Children": []
+          "Children": [
+            {
+              "Id": "i88821212",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "1938",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
         }
       ]
     }

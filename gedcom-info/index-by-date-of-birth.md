@@ -215,10 +215,14 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Bella](people/@54814674@-bella-mackay-b1885-d.md)** (about 1885 - )
   * **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
   * **[Cumming, Barbara Ann](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - )
+* **Born in 1887.**
+  * **[McTurk, Grace](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - )
 * **Born in 1888.**
   * **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - )
   * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986)
 * **Born in 1889.**
+  * **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - )
+  * **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958)
   * **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970)
   * **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
 
@@ -239,6 +243,7 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
   * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974)
 * **Born in 1894.**
+  * **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
   * **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 * **Born in 1895.**
   * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - )
@@ -282,8 +287,6 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, Donald](people/@64759184@-donald-cumming-b1903-5-4-d.md)** (4/May/1903 - )
 * **Born in 1904.**
   * **[, Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
-  * **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1904-d.md)** (before 1904 - )
-  * **[McTurk, Grace](people/@54145218@-grace-mcturk-b1904-d.md)** (before 1904 - )
   * **[Stead, Laura](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
   * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 * **Born in 1905.**
@@ -382,6 +385,8 @@ permalink: /indexes/by-date-of-birth
 * [Joan](people/@53960434@-joan-b-d2021-2-18.md) ( - 18/Feb/2021)
 * [Nancy](people/@68661720@-nancy-b-d.md)
 * [Janet Abernethy](people/@82771990@-janet-abernethy-b-d.md)
+* [Margaret Beatie](people/@2654341@-margaret-beatie-b-d.md)
+* [William Campbell](people/@70442784@-william-campbell-b-d1918.md) ( - before 1918)
 * [Anne Chisholm](people/@48064613@-anne-chisholm-b-d1877.md) ( - before 1877)
 * [Donald Cumming](people/@24876512@-donald-cumming-b-d.md)
 * [Donald Cumming](people/@69575920@-donald-cumming-b-d1875.md) ( - after 1875)
@@ -394,8 +399,9 @@ permalink: /indexes/by-date-of-birth
 * [John Gillie](people/@95851656@-john-gillie-b-d1901.md) ( - before 1901)
 * [Jane Gordon](people/@19799810@-jane-gordon-b-d.md)
 * [Jessie Grant](people/@31091676@-jessie-grant-b-d.md)
+* [Belle Gregory](people/@91101318@-belle-gregory-b-d.md)
 * [Ada Hayes](people/@80079834@-ada-hayes-b-d2018.md) ( - before 2018)
-* [Claude Hayes](people/@99088640@-claude-hayes-b-d2018.md) ( - before 2018)
+* [Joseph Hayes](people/@49395288@-joseph-hayes-b-d.md)
 * [Lena Hayes](people/@80081989@-lena-hayes-b-d2018.md) ( - before 2018)
 * [Leonard Hayes](people/@36021443@-leonard-hayes-b-d2018.md) ( - before 2018)
 * [Marion Hayes](people/@15147548@-marion-hayes-b-d2018.md) ( - before 2018)
@@ -429,6 +435,7 @@ permalink: /indexes/by-date-of-birth
 * [Harvey McLean](people/@70471714@-harvey-mclean-b-d.md)
 * [John McLean](people/@91397610@-john-mclean-b-d1877.md) ( - after 1877)
 * [Margaret McRae](people/@57014804@-margaret-mcrae-b-d.md)
+* [Alexander McTurk](people/@39936423@-alexander-mcturk-b-d.md)
 * [Ann Morgan](people/@60684755@-ann-morgan-b-d.md)
 * [John Morrison](people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
 * [Isabella Patterson](people/@24882788@-isabella-patterson-b-d.md)
@@ -436,7 +443,7 @@ permalink: /indexes/by-date-of-birth
 * [Mary E Prey](people/@37901232@-mary-e-prey-b-d.md)
 * [Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md) ( - before 1910)
 * [John Ramsay](people/@63088441@-john-ramsay-b-d.md)
-* [Goldie Raymond](people/@2876469@-goldie-raymond-b-d2018.md) ( - before 2018)
+* [Frank Raymond](people/@30488355@-frank-raymond-b-d.md)
 * [John Reid](people/@95320597@-john-reid-b-d.md)
 * [Christy Ross](people/@37144832@-christy-ross-b-d.md)
 * [Donald Ross](people/@16842942@-donald-ross-b-d.md)
@@ -444,6 +451,8 @@ permalink: /indexes/by-date-of-birth
 * [Agnes Russell](people/@37924612@-agnes-russell-b-d.md)
 * [William Seaton](people/@58232144@-william-seaton-b-d1880.md) ( - after 1880)
 * [Clara Sherwood](people/@79435398@-clara-sherwood-b-d.md)
+* [Rachel Smith](people/@58377523@-rachel-smith-b-d.md)
 * [William Sutherland](people/@72992640@-william-sutherland-b-d1856.md) ( - after 1856)
 * [Helen Taylor](people/@47549486@-helen-taylor-b-d1880.md) ( - before 1880)
 * [Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)
+* [Mary Younger](people/@25511104@-mary-younger-b-d.md)
