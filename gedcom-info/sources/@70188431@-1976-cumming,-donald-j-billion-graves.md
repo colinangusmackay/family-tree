@@ -12,7 +12,7 @@ Originator / Author |
 Date | 1976
 Responsible Agency | 
 Filed by Entry | 
-References | (URL) https://billiongraves.com/grave/Donald-J-Cumming/7644409
+References | (URL) [Open original source at https://billiongraves.com/grave/Donald-J-Cumming/7644409](https://billiongraves.com/grave/Donald-J-Cumming/7644409)
 
 ## Text
 

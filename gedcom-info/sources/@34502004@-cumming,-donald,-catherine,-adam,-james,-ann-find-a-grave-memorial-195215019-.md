@@ -12,7 +12,7 @@ Originator / Author |
 Date | 7/Dec/2018
 Responsible Agency | 
 Filed by Entry | 
-References | (URL) https://www.findagrave.com/memorial/195215019/adam-cumming
+References | (URL) [Open original source at https://www.findagrave.com/memorial/195215019/adam-cumming](https://www.findagrave.com/memorial/195215019/adam-cumming)
 
 ## Text
 

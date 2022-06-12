@@ -12,7 +12,7 @@ Originator / Author |
 Date | 
 Responsible Agency | 
 Filed by Entry | 
-References | (URL) https://www.joan-west-memorial.com/last-words/
+References | (URL) [Open original source at https://www.joan-west-memorial.com/last-words/](https://www.joan-west-memorial.com/last-words/)
 
 ## Text
 

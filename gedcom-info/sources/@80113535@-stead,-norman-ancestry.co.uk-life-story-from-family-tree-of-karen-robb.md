@@ -12,7 +12,7 @@ Originator / Author | Karen Robb
 Date | 5/Jul/2020
 Responsible Agency | 
 Filed by Entry | 
-References | (URL) https://www.ancestry.co.uk/family-tree/person/tree/105855969/person/390070559867/story
+References | (URL) [Open original source at https://www.ancestry.co.uk/family-tree/person/tree/105855969/person/390070559867/story](https://www.ancestry.co.uk/family-tree/person/tree/105855969/person/390070559867/story)
 
 ## Text
 

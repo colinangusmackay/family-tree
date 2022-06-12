@@ -12,7 +12,7 @@ Originator / Author |
 Date | 2000
 Responsible Agency | 
 Filed by Entry | 
-References | (URL) https://www.historylinksarchive.org.uk/picture/number909/
+References | (URL) [Open original source at https://www.historylinksarchive.org.uk/picture/number909/](https://www.historylinksarchive.org.uk/picture/number909/)
 
 ## Text
 

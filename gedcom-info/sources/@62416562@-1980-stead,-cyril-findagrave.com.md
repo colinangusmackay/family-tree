@@ -12,7 +12,7 @@ Originator / Author |
 Date | 1980
 Responsible Agency | 
 Filed by Entry | 
-References | (URL) https://www.findagrave.com/memorial/185517192/cyril-stead
+References | (URL) [Open original source at https://www.findagrave.com/memorial/185517192/cyril-stead](https://www.findagrave.com/memorial/185517192/cyril-stead)
 
 ## Text
 

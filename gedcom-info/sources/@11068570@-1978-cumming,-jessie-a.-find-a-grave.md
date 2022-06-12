@@ -12,7 +12,7 @@ Originator / Author |
 Date | 1978
 Responsible Agency | 
 Filed by Entry | 
-References | (URL) https://www.findagrave.com/memorial/195703159
+References | (URL) [Open original source at https://www.findagrave.com/memorial/195703159](https://www.findagrave.com/memorial/195703159)
 
 ## Text
 

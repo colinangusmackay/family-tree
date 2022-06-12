@@ -12,7 +12,7 @@ Originator / Author |
 Date | 3/Jun/2020
 Responsible Agency | 
 Filed by Entry | 
-References | (URL) https://www.familysearch.org/ark:/61903/1:1:2WBC-R8R
+References | (URL) [Open original source at https://www.familysearch.org/ark:/61903/1:1:2WBC-R8R](https://www.familysearch.org/ark:/61903/1:1:2WBC-R8R)
 
 ## Text
 

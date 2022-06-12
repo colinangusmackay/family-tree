@@ -12,7 +12,7 @@ Originator / Author |
 Date | 
 Responsible Agency | 
 Filed by Entry | 
-References | (URL) https://www.legacy.com/us/obituaries/wickedlocal-weymouth/name/phylis-cumming-obituary?n=phylis-cumming&pid=188510819
+References | (URL) [Open original source at https://www.legacy.com/us/obituaries/wickedlocal-weymouth/name/phylis-cumming-obituary?n=phylis-cumming&pid=188510819](https://www.legacy.com/us/obituaries/wickedlocal-weymouth/name/phylis-cumming-obituary?n=phylis-cumming&pid=188510819)
 
 ## Text
 
