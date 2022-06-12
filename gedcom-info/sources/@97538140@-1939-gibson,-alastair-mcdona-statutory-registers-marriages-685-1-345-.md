@@ -81,4 +81,4 @@ References |
 
 * [Alastair McDonald Gibson](../people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) (19/Jan/1914 - 1978)
 * [Alexander Gibson](../people/@21968540@-alexander-gibson-b-d1939.md) ( - before 1939)
-* [Margaret McIver](../people/@24380064@-margaret-mciver-b1918-d2015.md) (1918 - 2015)
+* [Margaret McIver](../people/@24380064@-margaret-mciver-b1918-d2015-9-12.md) (1918 - 12/Sep/2015)

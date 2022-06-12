@@ -141,7 +141,7 @@ permalink: /indexes/by-birth-location
 - **[Mathews, John Albert](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 - **[McIver, Elizabeth](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
 - **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
-- **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
+- **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015)
 - **[McIver, Rodrick](people/@53638178@-rodrick-mciver-b-d.md)**
 - **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
 - **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
@@ -221,6 +221,10 @@ permalink: /indexes/by-birth-location
 
 
 ## England
+
+### Birmingham
+
+- **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
 
 ### Dewsbury
 

@@ -49,7 +49,7 @@ References | 1938 D 685/2 145
 
 * [Hector McLean McIver](../people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) (17/Aug/1878 - 21/Feb/1938)
 * [Hector Spence McIver](../people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) (12/Apr/1919 - 27/Jan/2008)
-* [Margaret McIver](../people/@24380064@-margaret-mciver-b1918-d2015.md) (1918 - 2015)
+* [Margaret McIver](../people/@24380064@-margaret-mciver-b1918-d2015-9-12.md) (1918 - 12/Sep/2015)
 * [Roderick McKenzie McIver](../people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md) (22/Oct/1910 - 1999)
 * [Tom Clephan McIver](../people/@74287888@-tom-clephan-mciver-b1924-d2019.md) (1924 - 2019)
 * [Margaret Paterson McKenzie](../people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)

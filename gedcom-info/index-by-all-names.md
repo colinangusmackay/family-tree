@@ -176,6 +176,7 @@ permalink: /indexes/by-all-names
 - **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
 - **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939)
 - **[Gibson](people/@71295041@-elizabeth-wilson-b-d.md)**
+- **[Margaret McKenzie Gibson](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015)
 
 ## Gilchrist
 
@@ -413,6 +414,7 @@ permalink: /indexes/by-all-names
 
 - **[John Albert Mathews](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 - **[Mathews](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
+- **[Robert Dennis R Mathews](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
 
 ## McIver
 
@@ -421,7 +423,7 @@ permalink: /indexes/by-all-names
 - **[Elizabeth McIver](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
 - **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
 - **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
-- **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
+- **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015)
 - **[McIver](people/@8610974@-christy-maclennan-b-d.md)**
 - **[McIver](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[Roderick McKenzie McIver](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)

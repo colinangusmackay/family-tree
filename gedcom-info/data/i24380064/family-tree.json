@@ -4,7 +4,7 @@
     "Name": "Margaret McIver",
     "Gender": "Female",
     "DateOfBirth": "1918",
-    "DateOfDeath": "2015"
+    "DateOfDeath": "12/Sep/2015"
   },
   "Parents": [
     {
@@ -58,7 +58,7 @@
       "Name": "Margaret McIver",
       "Gender": "Female",
       "DateOfBirth": "1918",
-      "DateOfDeath": "2015",
+      "DateOfDeath": "12/Sep/2015",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -108,5 +108,30 @@
       "DateOfDivorce": ""
     }
   ],
-  "Children": []
+  "Children": [
+    {
+      "Id": "i11866224",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i3963708",
+        "i24380064"
+      ]
+    },
+    {
+      "Id": "i86606770",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i3963708",
+        "i24380064"
+      ]
+    }
+  ]
 }

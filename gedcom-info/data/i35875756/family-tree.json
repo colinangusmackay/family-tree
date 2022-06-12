@@ -8,20 +8,20 @@
   },
   "Parents": [
     {
-      "Id": "i58223940",
-      "Name": "X",
-      "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "father"
-    },
-    {
       "Id": "i97706646",
       "Name": "X",
       "Gender": "Female",
       "DateOfBirth": "",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i58223940",
+      "Name": "Robert Dennis R Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "6/Sep/1928",
+      "DateOfDeath": "11/Feb/2009",
+      "RelationToSubject": "father"
     }
   ],
   "Siblings": [

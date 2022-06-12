@@ -150,8 +150,8 @@ permalink: /indexes/by-death-location
 - **[Martensen, Charles Raymond](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
 - **[Matheson, Hector](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896)
 - **[Mathews, John Albert](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
+- **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
 - **[McIver, Elizabeth](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
-- **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
 - **[McIver, Roderick McKenzie](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
 - **[McIver, Rodrick](people/@53638178@-rodrick-mciver-b-d.md)**
 - **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
@@ -260,6 +260,12 @@ permalink: /indexes/by-death-location
 
 
 ## Scotland
+
+### Ayrshire
+
+#### Dundonald
+
+- **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015)
 
 ### Edinburgh
 

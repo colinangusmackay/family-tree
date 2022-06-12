@@ -69,7 +69,7 @@ permalink: /indexes/by-residence-location
 - **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
 - **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
 - **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
-- **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
+- **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015)
 - **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 - **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
@@ -210,9 +210,14 @@ permalink: /indexes/by-residence-location
 
 ### West Lothian
 
+#### Bathgate
+
+- **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
+
 #### Blackburn
 
 - **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
+- **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
 
 #### Livingston
 

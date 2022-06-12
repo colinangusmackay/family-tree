@@ -11,7 +11,9 @@ permalink: /people/i3963708
 
 * Father: [Alexander Gibson](./@21968540@-alexander-gibson-b-d1939.md) ( - before 1939)
 * Mother: [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b-d.md)
-* Wife: [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015.md) (1918 - 2015)
+* Son: X
+* Son: X
+* Wife: [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015-9-12.md) (1918 - 12/Sep/2015)
 
 ## Timeline
 
@@ -19,7 +21,7 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 19/Jan/1914 | Born | Born to [Alexander Gibson](./@21968540@-alexander-gibson-b-d1939.md) and [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b-d.md) in Corstorphine, Midlothian, Scotland. | [1](#1), [2](#2) | 
 before 1939 | Death of father | [Alexander Gibson](./@21968540@-alexander-gibson-b-d1939.md) died. | [2](#2) | 
-1/Sep/1939 | Marriage | Married to [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015.md) at 2 St Catherine's Gardens, Cortorphine, Edinburgh, Scotland | [2](#2) | 
+1/Sep/1939 | Marriage | Married to [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015-9-12.md) at 2 St Catherine's Gardens, Cortorphine, Edinburgh, Scotland | [2](#2) | 
 1978 | Died | Died in Rutherglen, South Lanarkshire, Scotland. | [3](#3) | 
 
 ## Known Residences

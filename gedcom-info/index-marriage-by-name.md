@@ -3,7 +3,7 @@ layout: page
 permalink: /indexes/marriage-by-name
 ---
 
-# Index - Marriage By Name
+# Index - Marriage by Name
 
 A list of marriages, civil partnerships and civil unions by family name. There will generally be two entries per marriage, one for each spouse.
 
@@ -65,7 +65,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Gibson
 
-  * **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) and **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015) **on 1st of September 1939** at Edinburgh, Scotland.
+  * **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) and **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015) **on 1st of September 1939** at Edinburgh, Scotland.
   * **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939) and **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)** **on 16th of June 1897** at Golspie, Sutherland, Scotland.
 
 ## Gillie
@@ -167,12 +167,13 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Mathews
 
   * **[John Albert Mathews](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004) and X **in 1978**.
+  * **[Robert Dennis R Mathews](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009) and X **in October 1952** at Birmingham, England.
 
 ## McIver
 
   * **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938) and **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) **on 31st of December 1909** at Glasgow, Scotland.
   * **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) and **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) **on 6th of April 1945** at Edinburgh, Scotland.
-  * **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015) and **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) **on 1st of September 1939** at Edinburgh, Scotland.
+  * **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015) and **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) **on 1st of September 1939** at Edinburgh, Scotland.
   * **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) and **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) **on 14th of February 1861** at Gairloch, Ross, Scotland.
 
 ## McKenzie

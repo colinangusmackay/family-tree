@@ -3,7 +3,7 @@ layout: page
 permalink: /indexes/marriage-by-date
 ---
 
-# Index - Marriage By Date
+# Index - Marriage by Date
 
 A list of marriages, civil partnerships and civil unions by date.
 
@@ -153,7 +153,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1936**
   * **10/Nov/1936** : **[John Paul Mackay](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969) and **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ) at Embo, Sutherland, Scotland.
 * **1939**
-  * **1/Sep/1939** : **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) and **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015) at Edinburgh, Scotland.
+  * **1/Sep/1939** : **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) and **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015) at Edinburgh, Scotland.
   * **28/Dec/1939** : **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004) and **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004) at Glasgow, Scotland.
 
 ### 1940s
@@ -169,6 +169,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 ### 1950s
 
+* **1952**
+  * **Oct/1952** : **[Robert Dennis R Mathews](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009) and X at Birmingham, England.
 * **1959**
   * **1959** : **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011) and **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) at Glasgow, Scotland.
 

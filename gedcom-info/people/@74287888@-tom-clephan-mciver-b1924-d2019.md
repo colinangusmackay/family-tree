@@ -13,7 +13,7 @@ permalink: /people/i74287888
 * Father: [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) (17/Aug/1878 - 21/Feb/1938)
 * Mother: [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)
 * Brother: [Roderick McKenzie McIver](./@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md) (22/Oct/1910 - 1999)
-* Sister: [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015.md) (1918 - 2015)
+* Sister: [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015-9-12.md) (1918 - 12/Sep/2015)
 * Brother: [Hector Spence McIver](./@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) (12/Apr/1919 - 27/Jan/2008)
 
 ## Timeline
@@ -25,14 +25,14 @@ Date | Item | Description | Sources | Notes
 5/Apr/1964 | Death of mother | [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) died in Edinburgh, Scotland. | [2](#2) | 
 1999 | Death of brother | [Roderick McKenzie McIver](./@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md) died. |  | 
 27/Jan/2008 | Death of brother | [Hector Spence McIver](./@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) died in Edinburgh, Scotland. |  | 
-2015 | Death of sister | [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015.md) died. |  | 
+12/Sep/2015 | Death of sister | [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015-9-12.md) died in Dundonald, Ayrshire, Scotland. | [3](#3) | 
 2019 | Died | Died. |  | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1945 | 50 Hillview Crescent, Edinburgh, Scotland | [3](#3)
+1945 | 50 Hillview Crescent, Edinburgh, Scotland | [4](#4)
 
 ## Footnotes
 
@@ -56,6 +56,16 @@ Date | Residence | Sources & Notes
   * 1964 D 685/3 153
 
 ### 3
+
+**2015 X, MARGARET MCKENZIE (The Herald - Death Notices and Obituaries)**
+
+* [Full text and notes](../sources/@39254832@-2015-gibson,-margaret-mckenzie-the-herald-death-notices-and-obituaries-.md)
+* Publication: The Herald
+* Date: 23/Sep/2015
+* References: 
+  * (URL) https://www.heraldscotland.com/announcements/deaths/deaths/13777170.Margaret_Gibson/
+
+### 4
 
 **1945 RAMSAY, HELEN FISHER (Statutory Registers Marriages 685/4 313)**
 

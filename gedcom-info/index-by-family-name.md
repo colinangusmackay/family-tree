@@ -293,13 +293,14 @@ permalink: /indexes/by-family-name
 ## Mathews
 
 - **[John Albert Mathews](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
+- **[Robert Dennis R Mathews](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
 
 ## McIver
 
 - **[Elizabeth McIver](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
 - **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
 - **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
-- **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
+- **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015)
 - **[Roderick McKenzie McIver](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
 - **[Rodrick McIver](people/@53638178@-rodrick-mciver-b-d.md)**
 - **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )

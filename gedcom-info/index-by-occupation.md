@@ -279,7 +279,7 @@ permalink: /indexes/by-occupation
 
 ## Ladies Outfitters Shop Assistant
 
-* **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015).
+* **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015).
 
 ## Librarian
 

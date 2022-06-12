@@ -1,0 +1,71 @@
+﻿{
+  "Subject": {
+    "Id": "i58223940",
+    "Name": "Robert Dennis R Mathews",
+    "Gender": "Male",
+    "DateOfBirth": "6/Sep/1928",
+    "DateOfDeath": "11/Feb/2009"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i58223940",
+      "Name": "Robert Dennis R Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "6/Sep/1928",
+      "DateOfDeath": "11/Feb/2009",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i97706646",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "Oct/1952",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i35875756",
+      "Name": "John Albert Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "1954",
+      "DateOfDeath": "2004",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i58223940",
+        "i97706646"
+      ]
+    },
+    {
+      "Id": "i50572114",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "6/Dec/1956",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i58223940",
+        "i97706646"
+      ]
+    },
+    {
+      "Id": "i42620544",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "6/Dec/1956",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i58223940",
+        "i97706646"
+      ]
+    }
+  ]
+}

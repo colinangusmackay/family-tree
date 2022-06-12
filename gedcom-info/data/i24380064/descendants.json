@@ -4,6 +4,25 @@
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "1918",
-  "DateOfDeath": "2015",
-  "Children": []
+  "DateOfDeath": "12/Sep/2015",
+  "Children": [
+    {
+      "Id": "i11866224",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i86606770",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
 }

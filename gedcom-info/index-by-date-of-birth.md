@@ -3,7 +3,7 @@ layout: page
 permalink: /indexes/by-date-of-birth
 ---
 
-# Index - By Date Of Birth
+# Index - By Date of Birth
 ## 18th Century
 
 ### 1770s
@@ -322,7 +322,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1916.**
   * **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
 * **Born in 1918.**
-  * **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015.md)** (1918 - 2015)
+  * **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015)
   * **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
   * **[Stevens, Thomas](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 * **Born in 1919.**
@@ -342,6 +342,8 @@ permalink: /indexes/by-date-of-birth
   * **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 * **Born in 1926.**
   * **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
+* **Born in 1928.**
+  * **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
 
 ### 1930s
 
