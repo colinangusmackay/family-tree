@@ -25,6 +25,7 @@ const siteUrl = "{{ site.url }}";
             if (href.includes("//") && !href.includes(siteUrl)){
                 anchor.innerHTML = anchor.innerHTML + '<span class="ext-link fas fa-external-link-alt"></span>';
                 anchor.setAttribute("target", "_blank");
+                anchor.setAttribute("rel", "noopener");
             }
         }
     }
