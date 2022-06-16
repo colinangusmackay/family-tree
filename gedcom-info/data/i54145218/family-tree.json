@@ -3,33 +3,75 @@
     "Id": "i54145218",
     "Name": "Grace McTurk",
     "Gender": "Female",
-    "DateOfBirth": "about 1887",
+    "DateOfBirth": "20/Dec/1886",
     "DateOfDeath": ""
   },
   "Parents": [
     {
-      "Id": "i39936423",
-      "Name": "Alexander McTurk",
-      "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "father"
-    },
-    {
       "Id": "i2654341",
       "Name": "Margaret Beatie",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1844",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i39936423",
+      "Name": "Alexander McTurk",
+      "Gender": "Male",
+      "DateOfBirth": "about 1854",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
     }
   ],
   "Siblings": [
     {
+      "Id": "i18380667",
+      "Name": "Jane McTurk",
+      "Gender": "Female",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i2654341",
+          "i39936423"
+        ]
+      ]
+    },
+    {
+      "Id": "i51187488",
+      "Name": "Georgina McTurk",
+      "Gender": "Female",
+      "DateOfBirth": "about 1883",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i2654341",
+          "i39936423"
+        ]
+      ]
+    },
+    {
+      "Id": "i78245729",
+      "Name": "Elizabeth McTurk",
+      "Gender": "Female",
+      "DateOfBirth": "about 1885",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i2654341",
+          "i39936423"
+        ]
+      ]
+    },
+    {
       "Id": "i54145218",
       "Name": "Grace McTurk",
       "Gender": "Female",
-      "DateOfBirth": "about 1887",
+      "DateOfBirth": "20/Dec/1886",
       "DateOfDeath": "",
       "RelationToSubject": "self",
       "ParentGroupIds": [
@@ -45,7 +87,7 @@
       "Id": "i4716977",
       "Name": "William Andrew Campbell",
       "Gender": "Male",
-      "DateOfBirth": "about 1889",
+      "DateOfBirth": "2/Jan/1889",
       "DateOfDeath": "",
       "RelationToSubject": "husband",
       "DateOfMarriage": "21/Mar/1918",

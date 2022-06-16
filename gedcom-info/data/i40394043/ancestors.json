@@ -11,24 +11,24 @@
       "Name": "Grace McTurk",
       "Gender": "Female",
       "Relationship": "mother",
-      "DateOfBirth": "about 1887",
+      "DateOfBirth": "20/Dec/1886",
       "DateOfDeath": "",
       "Parents": [
-        {
-          "Id": "i39936423",
-          "Name": "Alexander McTurk",
-          "Gender": "Male",
-          "Relationship": "father",
-          "DateOfBirth": "",
-          "DateOfDeath": "",
-          "Parents": []
-        },
         {
           "Id": "i2654341",
           "Name": "Margaret Beatie",
           "Gender": "Female",
           "Relationship": "mother",
-          "DateOfBirth": "",
+          "DateOfBirth": "about 1844",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i39936423",
+          "Name": "Alexander McTurk",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1854",
           "DateOfDeath": "",
           "Parents": []
         }
@@ -39,18 +39,9 @@
       "Name": "William Andrew Campbell",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "about 1889",
+      "DateOfBirth": "2/Jan/1889",
       "DateOfDeath": "",
       "Parents": [
-        {
-          "Id": "i58377523",
-          "Name": "Rachel Smith",
-          "Gender": "Female",
-          "Relationship": "mother",
-          "DateOfBirth": "",
-          "DateOfDeath": "",
-          "Parents": []
-        },
         {
           "Id": "i70442784",
           "Name": "William Campbell",
@@ -59,6 +50,34 @@
           "DateOfBirth": "",
           "DateOfDeath": "before 1918",
           "Parents": []
+        },
+        {
+          "Id": "i58377523",
+          "Name": "Rachel Smith",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "11/Nov/1862",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i38031148",
+              "Name": "Agnes Lowall",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i3582868",
+              "Name": "John Smith",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
         }
       ]
     }

@@ -20,7 +20,7 @@ permalink: /indexes/by-family-name
 
 ## Beatie
 
-- **[Margaret Beatie](people/@2654341@-margaret-beatie-b-d.md)**
+- **[Margaret Beatie](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - )
 
 ## Byrne
 
@@ -30,7 +30,7 @@ permalink: /indexes/by-family-name
 
 - **[Linda Margaret Campbell](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
-- **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - )
+- **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - )
 - **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918)
 
 ## Chisholm
@@ -89,6 +89,10 @@ permalink: /indexes/by-family-name
 ## Farnham
 
 - **[Mae Farnham](people/@53003230@-mae-farnham-b1872-d.md)** (about 1872 - )
+
+## Fawley
+
+- **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993)
 
 ## Fisher
 
@@ -185,6 +189,10 @@ permalink: /indexes/by-family-name
 
 - **[Ann Lindores](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
 - **[William Lindores](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - )
+
+## Lowall
+
+- **[Agnes Lowall](people/@38031148@-agnes-lowall-b-d.md)**
 
 ## MacDonald
 
@@ -330,8 +338,11 @@ permalink: /indexes/by-family-name
 
 ## McTurk
 
-- **[Alexander McTurk](people/@39936423@-alexander-mcturk-b-d.md)**
-- **[Grace McTurk](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - )
+- **[Alexander McTurk](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - )
+- **[Elizabeth McTurk](people/@78245729@-elizabeth-mcturk-b1885-d.md)** (about 1885 - )
+- **[Georgina McTurk](people/@51187488@-georgina-mcturk-b1883-d.md)** (about 1883 - )
+- **[Grace McTurk](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
+- **[Jane McTurk](people/@18380667@-jane-mcturk-b1880-d.md)** (about 1880 - )
 
 ## Miller
 
@@ -447,16 +458,19 @@ permalink: /indexes/by-family-name
 
 ## Smith
 
-- **[Rachel Smith](people/@58377523@-rachel-smith-b-d.md)**
+- **[John Smith](people/@3582868@-john-smith-b-d.md)**
+- **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - )
 
 ## Stead
 
 - **[Albert Stead](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
+- **[Albert Stead](people/@82189144@-albert-stead-b1934-d1938-8-22.md)** (about 1934 - 22/Aug/1938)
 - **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
 - **[Emily Stead](people/@58190216@-emily-stead-b1892-d.md)** (about 1892 - )
 - **[George Stead](people/@77215226@-george-stead-b1911-3-d.md)** (Mar/1911 - )
 - **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - )
 - **[Laura Stead](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
+- **[Lawrence Stead](people/@18256653@-lawrence-stead-b1933-11-29-d1989-3.md)** (29/Nov/1933 - Mar/1989)
 - **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
 - **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
 

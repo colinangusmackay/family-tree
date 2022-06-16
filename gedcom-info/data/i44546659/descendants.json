@@ -23,6 +23,24 @@
           "DateOfDeath": "25/Nov/1980",
           "Children": [
             {
+              "Id": "i18256653",
+              "Name": "Lawrence Stead",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "29/Nov/1933",
+              "DateOfDeath": "Mar/1989",
+              "Children": []
+            },
+            {
+              "Id": "i82189144",
+              "Name": "Albert Stead",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "about 1934",
+              "DateOfDeath": "22/Aug/1938",
+              "Children": []
+            },
+            {
               "Id": "i69808462",
               "Name": "Norman Stead",
               "Gender": "Male",

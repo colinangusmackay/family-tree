@@ -3,19 +3,41 @@
     "Id": "i58377523",
     "Name": "Rachel Smith",
     "Gender": "Female",
-    "DateOfBirth": "",
+    "DateOfBirth": "11/Nov/1862",
     "DateOfDeath": ""
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i3582868",
+      "Name": "John Smith",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i38031148",
+      "Name": "Agnes Lowall",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i58377523",
       "Name": "Rachel Smith",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "11/Nov/1862",
       "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i3582868",
+          "i38031148"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -25,8 +47,8 @@
       "Gender": "Male",
       "DateOfBirth": "",
       "DateOfDeath": "before 1918",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "12/Mar/1887",
       "DateOfDivorce": ""
     }
   ],
@@ -35,7 +57,7 @@
       "Id": "i4716977",
       "Name": "William Andrew Campbell",
       "Gender": "Male",
-      "DateOfBirth": "about 1889",
+      "DateOfBirth": "2/Jan/1889",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [

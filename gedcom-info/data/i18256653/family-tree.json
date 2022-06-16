@@ -1,0 +1,73 @@
+﻿{
+  "Subject": {
+    "Id": "i18256653",
+    "Name": "Lawrence Stead",
+    "Gender": "Male",
+    "DateOfBirth": "29/Nov/1933",
+    "DateOfDeath": "Mar/1989"
+  },
+  "Parents": [
+    {
+      "Id": "i61214710",
+      "Name": "Cyril Stead",
+      "Gender": "Male",
+      "DateOfBirth": "11/Mar/1908",
+      "DateOfDeath": "25/Nov/1980",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i7539126",
+      "Name": "Clara Fawley",
+      "Gender": "Female",
+      "DateOfBirth": "20/Apr/1912",
+      "DateOfDeath": "12/Aug/1993",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i18256653",
+      "Name": "Lawrence Stead",
+      "Gender": "Male",
+      "DateOfBirth": "29/Nov/1933",
+      "DateOfDeath": "Mar/1989",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i61214710",
+          "i7539126"
+        ]
+      ]
+    },
+    {
+      "Id": "i82189144",
+      "Name": "Albert Stead",
+      "Gender": "Male",
+      "DateOfBirth": "about 1934",
+      "DateOfDeath": "22/Aug/1938",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i61214710",
+          "i7539126"
+        ]
+      ]
+    },
+    {
+      "Id": "i69808462",
+      "Name": "Norman Stead",
+      "Gender": "Male",
+      "DateOfBirth": "Oct/1937",
+      "DateOfDeath": "2011",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i61214710",
+          "i7539126"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

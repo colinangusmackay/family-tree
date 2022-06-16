@@ -79,7 +79,7 @@ References | 1918 M 813/A 2
 
 ## Source Referenced by
 
-* [William Andrew Campbell](../people/@4716977@-william-andrew-campbell-b1889-d.md) (about 1889 - )
+* [William Andrew Campbell](../people/@4716977@-william-andrew-campbell-b1889-1-2-d.md) (2/Jan/1889 - )
 * [William Campbell](../people/@70442784@-william-campbell-b-d1918.md) ( - before 1918)
-* [Alexander McTurk](../people/@39936423@-alexander-mcturk-b-d.md)
-* [Grace McTurk](../people/@54145218@-grace-mcturk-b1887-d.md) (about 1887 - )
+* [Alexander McTurk](../people/@39936423@-alexander-mcturk-b1854-d.md) (about 1854 - )
+* [Grace McTurk](../people/@54145218@-grace-mcturk-b1886-12-20-d.md) (20/Dec/1886 - )

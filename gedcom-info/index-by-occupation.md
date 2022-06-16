@@ -6,7 +6,7 @@ permalink: /indexes/by-occupation
 # Index - By Occupation
 ## 
 
-* **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b-d.md)**.
+* **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
 
 ## ____ Caster
@@ -56,7 +56,7 @@ permalink: /indexes/by-occupation
 
 ## Cattleman
 
-* **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - ).
+* **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ).
 
 ## Cement Finisher
 
@@ -108,7 +108,7 @@ permalink: /indexes/by-occupation
 
 ## Dairymaid
 
-* **[McTurk, Grace](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - ).
+* **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - ).
 
 ## District Nurse
 
@@ -155,6 +155,10 @@ permalink: /indexes/by-occupation
 ## Factory Worker
 
 * **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016).
+
+## Farm Foreman
+
+* **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
 
 ## Farm Servant
 
@@ -345,9 +349,10 @@ permalink: /indexes/by-occupation
 
 ## Ploughman
 
-* **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - ).
+* **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ).
 * **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - ).
 * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
+* **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
 
 ## Practical Nursing
 

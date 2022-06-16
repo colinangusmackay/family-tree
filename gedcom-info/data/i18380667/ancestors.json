@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i18380667",
+  "Name": "Jane McTurk",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1880",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i2654341",
+      "Name": "Margaret Beatie",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1844",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i39936423",
+      "Name": "Alexander McTurk",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1854",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

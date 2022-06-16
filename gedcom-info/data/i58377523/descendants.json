@@ -3,7 +3,7 @@
   "Name": "Rachel Smith",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "11/Nov/1862",
   "DateOfDeath": "",
   "Children": [
     {
@@ -11,7 +11,7 @@
       "Name": "William Andrew Campbell",
       "Gender": "Male",
       "Relationship": "son",
-      "DateOfBirth": "about 1889",
+      "DateOfBirth": "2/Jan/1889",
       "DateOfDeath": "",
       "Children": [
         {

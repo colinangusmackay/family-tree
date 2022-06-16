@@ -66,8 +66,10 @@ Unknown | Glasgow, Scotland | [22](#22)
 1901 | 6 Terrace Street, Embo, Sutherland, Scotland | [25](#25)
 1918 | 6 Terrace Street, Embo, Sutherlandshire | [2](#2)
 before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [8](#8), [26](#26)
-1960 | 57 Kersland Street, Glasgow | [27](#27)
-1980 | 57 Kersland Street, Glasgow | [28](#28)
+1954 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [27](#27)
+1956 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [28](#28)
+1960 | 57 Kersland Street, Glasgow | [29](#29)
+1980 | 57 Kersland Street, Glasgow | [30](#30)
 
 ## Known Occupations
 
@@ -319,6 +321,20 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [14](#14)
 
 ### 27
 
+**1954 X, X A & FAMILY OF VOTING AGE (Register of Voters, Glasgow, Wards 13-26, 1954)**
+
+* [Full text and notes](../sources/@84661563@-1954-mackay,-william-a-&-family-of-voting-age-register-of-voters,-glasgow,-wards-13-26,-1954-.md)
+* Publication: Register of Voters, Glasgow, Wards 13-26, 1954
+
+### 28
+
+**1956 X, X A & FAMILY (Glasgow, Lanarkshire, Scotland, Electoral Registers, 1857-1962)**
+
+* [Full text and notes](../sources/@19773398@-1956-mackay,-william-a-&-family-glasgow,-lanarkshire,-scotland,-electoral-registers,-1857-1962-.md)
+* Publication: Glasgow, Lanarkshire, Scotland, Electoral Registers, 1857-1962
+
+### 29
+
 **1960 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1960**
 
 * [Full text and notes](../sources/@78685500@-1960-mackay,-william-alexander-phonebook-glasgow-area-1960.md)
@@ -326,7 +342,7 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [14](#14)
 * Date: May/1960
 * Responsible Agency: The Post Office
 
-### 28
+### 30
 
 **1980 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1980**
 

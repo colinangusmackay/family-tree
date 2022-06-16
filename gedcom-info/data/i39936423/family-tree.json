@@ -3,7 +3,7 @@
     "Id": "i39936423",
     "Name": "Alexander McTurk",
     "Gender": "Male",
-    "DateOfBirth": "",
+    "DateOfBirth": "about 1854",
     "DateOfDeath": ""
   },
   "Parents": [],
@@ -12,7 +12,7 @@
       "Id": "i39936423",
       "Name": "Alexander McTurk",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1854",
       "DateOfDeath": "",
       "RelationToSubject": "self",
       "ParentGroupIds": []
@@ -23,19 +23,55 @@
       "Id": "i2654341",
       "Name": "Margaret Beatie",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1844",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "2/Oct/1874",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
     {
+      "Id": "i18380667",
+      "Name": "Jane McTurk",
+      "Gender": "Female",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i39936423",
+        "i2654341"
+      ]
+    },
+    {
+      "Id": "i51187488",
+      "Name": "Georgina McTurk",
+      "Gender": "Female",
+      "DateOfBirth": "about 1883",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i39936423",
+        "i2654341"
+      ]
+    },
+    {
+      "Id": "i78245729",
+      "Name": "Elizabeth McTurk",
+      "Gender": "Female",
+      "DateOfBirth": "about 1885",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i39936423",
+        "i2654341"
+      ]
+    },
+    {
       "Id": "i54145218",
       "Name": "Grace McTurk",
       "Gender": "Female",
-      "DateOfBirth": "about 1887",
+      "DateOfBirth": "20/Dec/1886",
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
       "ParentIds": [

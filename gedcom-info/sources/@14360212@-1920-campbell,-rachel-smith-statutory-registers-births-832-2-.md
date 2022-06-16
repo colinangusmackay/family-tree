@@ -42,4 +42,4 @@ References | 1920 B 832/2
 ## Source Referenced by
 
 * [Rachel Smith Campbell](../people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md) (6/Jan/1920 - 11/Dec/1998)
-* [William Andrew Campbell](../people/@4716977@-william-andrew-campbell-b1889-d.md) (about 1889 - )
+* [William Andrew Campbell](../people/@4716977@-william-andrew-campbell-b1889-1-2-d.md) (2/Jan/1889 - )

@@ -14,11 +14,16 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) and **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) **in 1927** at Lake George, Warren County, New York, United States.
   * **[Nancy](people/@68661720@-nancy-b-d.md)** and **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) **about 1906**.
 
+## Beatie
+
+  * **[Margaret Beatie](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - ) and **[Alexander McTurk](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ) **on 2nd of October 1874** at Kirkpatrick-Fleming, Dumfriesshire, Scotland.
+
 ## Campbell
 
   * **[Linda Margaret Campbell](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016) and X **on 6th of June 1981** at Blackburn, West Lothian, Scotland.
   * **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998) and **[William Gardiner](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986) **on 26th of November 1948** at Dryfesdale, Dumfrieshire, Scotland.
-  * **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - ) **on 21st of March 1918** at Applegarth, Dumfries and Galloway, Scotland.
+  * **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918) and **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - ) **on 12th of March 1887** at Canonbie, Dumfriesshire, Scotland.
+  * **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - ) **on 21st of March 1918** at Applegarth, Dumfries and Galloway, Scotland.
 
 ## Cumming
 
@@ -42,6 +47,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981) and **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982) **on 21st of March 1930** at Toronto, York, Ontario, Canada.
   * **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - ) and **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - ) **on 19th of February 1895** at Dornoch, Sutherland, Scotland.
   * **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ) and **[May Miller](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - ) **on 2nd of January 1900**.
+
+## Fawley
+
+  * **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993) and **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980) **in July 1932** at Dewsbury, England.
 
 ## Fisher
 
@@ -102,6 +111,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Lindores
 
   * **[Ann Lindores](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ) and **[John Gillie](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881) **on 26th of May 1880** at Eyemouth, Berwickshire, Scotland.
+
+## Lowall
+
+  * **[Agnes Lowall](people/@38031148@-agnes-lowall-b-d.md)** and **[John Smith](people/@3582868@-john-smith-b-d.md)** **on 28th of December 1859**.
 
 ## MacDonald
 
@@ -192,7 +205,8 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## McTurk
 
-  * **[Grace McTurk](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - ) and **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - ) **on 21st of March 1918** at Applegarth, Dumfries and Galloway, Scotland.
+  * **[Alexander McTurk](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ) and **[Margaret Beatie](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - ) **on 2nd of October 1874** at Kirkpatrick-Fleming, Dumfriesshire, Scotland.
+  * **[Grace McTurk](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - ) and **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ) **on 21st of March 1918** at Applegarth, Dumfries and Galloway, Scotland.
 
 ## Miller
 
@@ -260,8 +274,14 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Margaret Dickson Seaton](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - ) and **[James Fisher](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - ) **on 24th of December 1880** at Edinburgh, Scotland.
 
+## Smith
+
+  * **[John Smith](people/@3582868@-john-smith-b-d.md)** and **[Agnes Lowall](people/@38031148@-agnes-lowall-b-d.md)** **on 28th of December 1859**.
+  * **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - ) and **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918) **on 12th of March 1887** at Canonbie, Dumfriesshire, Scotland.
+
 ## Stead
 
+  * **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980) and **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993) **in July 1932** at Dewsbury, England.
   * **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) and **[Nancy](people/@68661720@-nancy-b-d.md)** **about 1906**.
   * **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011) and **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) **in 1959** at Glasgow, Scotland.
   * **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ) **about 1887**.

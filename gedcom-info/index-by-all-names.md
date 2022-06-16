@@ -8,6 +8,7 @@ permalink: /indexes/by-all-names
 ## ???
 
 - **[Donnie](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
+- **[Donnie James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[Eileen](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 - **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
 - **[Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
@@ -26,7 +27,7 @@ permalink: /indexes/by-all-names
 
 ## Beatie
 
-- **[Margaret Beatie](people/@2654341@-margaret-beatie-b-d.md)**
+- **[Margaret Beatie](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - )
 
 ## Bolton
 
@@ -38,12 +39,12 @@ permalink: /indexes/by-all-names
 
 ## Campbell
 
-- **[Campbell](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - )
+- **[Grace Campbell](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
 - **[Linda Margaret Campbell](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[Margaret Campbell](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
-- **[Rachel Campbell](people/@58377523@-rachel-smith-b-d.md)**
+- **[Rachel Campbell](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - )
 - **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
-- **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-d.md)** (about 1889 - )
+- **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - )
 - **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918)
 
 ## Chisholm
@@ -132,6 +133,10 @@ permalink: /indexes/by-all-names
 ## Farrell
 
 - **[Farrell](people/@32431312@-sarah-hayes-b-d2018.md)** ( - before 2018)
+
+## Fawley
+
+- **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993)
 
 ## Fisher
 
@@ -269,6 +274,10 @@ permalink: /indexes/by-all-names
 - **[Lindores](people/@98605400@-joan-punton-b1850-d.md)** (before 1850 - )
 - **[William Lindores](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - )
 
+## Lowall
+
+- **[Agnes Lowall](people/@38031148@-agnes-lowall-b-d.md)**
+
 ## Macdonald
 
 - **[Catherine Macdonald](people/@28255030@-kate-macdonald-b1807-d1875-10-29.md)** (about 1807 - 29/Oct/1875)
@@ -316,6 +325,8 @@ permalink: /indexes/by-all-names
 - **[Donald James Mackay](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
 - **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939)
+- **[Donnie James Mackay](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
+- **[Donnie Mackay](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[George Mackay](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
 - **[George Mackay](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
 - **[George Mackay](people/@72941728@-george-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
@@ -460,9 +471,14 @@ permalink: /indexes/by-all-names
 
 ## McTurk
 
-- **[Alexander McTurk](people/@39936423@-alexander-mcturk-b-d.md)**
-- **[Grace McTurk](people/@54145218@-grace-mcturk-b1887-d.md)** (about 1887 - )
-- **[Margaret McTurk](people/@2654341@-margaret-beatie-b-d.md)**
+- **[Alexander McTurk](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - )
+- **[Elizabeth McTurk](people/@78245729@-elizabeth-mcturk-b1885-d.md)** (about 1885 - )
+- **[Georgina McTurk](people/@51187488@-georgina-mcturk-b1883-d.md)** (about 1883 - )
+- **[Georgina McTurk](people/@51187488@-georgina-mcturk-b1883-d.md)** (about 1883 - )
+- **[Grace McTurk](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
+- **[Jane McTurk](people/@18380667@-jane-mcturk-b1880-d.md)** (about 1880 - )
+- **[Maggie McTurk](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - )
+- **[Margaret McTurk](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - )
 
 ## Miller
 
@@ -614,21 +630,26 @@ permalink: /indexes/by-all-names
 
 ## Smith
 
-- **[Rachel Smith](people/@58377523@-rachel-smith-b-d.md)**
+- **[Agnes Smith](people/@38031148@-agnes-lowall-b-d.md)**
+- **[John Smith](people/@3582868@-john-smith-b-d.md)**
+- **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - )
 
 ## Stead
 
 - **[Albert Stead](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
+- **[Albert Stead](people/@82189144@-albert-stead-b1934-d1938-8-22.md)** (about 1934 - 22/Aug/1938)
 - **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
 - **[Emily Stead](people/@58190216@-emily-stead-b1892-d.md)** (about 1892 - )
 - **[George Stead](people/@77215226@-george-stead-b1911-3-d.md)** (Mar/1911 - )
 - **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - )
 - **[Laura Stead](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
+- **[Lawrence Stead](people/@18256653@-lawrence-stead-b1933-11-29-d1989-3.md)** (29/Nov/1933 - Mar/1989)
 - **[Linda Stead](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[Margaret Stead](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
 - **[Nancy Stead](people/@68661720@-nancy-b-d.md)**
 - **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
 - **[Stead](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
+- **[Stead](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993)
 - **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
 
 ## Stevens

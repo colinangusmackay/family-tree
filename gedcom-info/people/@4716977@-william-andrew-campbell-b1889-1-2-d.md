@@ -5,33 +5,33 @@ permalink: /people/i4716977
 ---
 
 # William Andrew Campbell
-(ABOUT 1889 - ?)
+(2 January, 1889 - ?)
 
 ## Immediate Family
 
 * Father: [William Campbell](./@70442784@-william-campbell-b-d1918.md) ( - before 1918)
-* Mother: [Rachel Smith](./@58377523@-rachel-smith-b-d.md)
-* Wife: [Grace McTurk](./@54145218@-grace-mcturk-b1887-d.md) (about 1887 - )
+* Mother: [Rachel Smith](./@58377523@-rachel-smith-b1862-11-11-d.md) (11/Nov/1862 - )
+* Wife: [Grace McTurk](./@54145218@-grace-mcturk-b1886-12-20-d.md) (20/Dec/1886 - )
 * Daughter: [Rachel Smith Campbell](./@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md) (6/Jan/1920 - 11/Dec/1998)
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1889 | Born | Born to [William Campbell](./@70442784@-william-campbell-b-d1918.md) and [Rachel Smith](./@58377523@-rachel-smith-b-d.md). | [1](#1) | [2](#2)
+2/Jan/1889 | Born | Born to [William Campbell](./@70442784@-william-campbell-b-d1918.md) and [Rachel Smith](./@58377523@-rachel-smith-b1862-11-11-d.md) in Evertown, Dumfriesshire, Scotland. | [1](#1), [2](#2) | [3](#3)
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1920 | Archwood Cottage, Johnstonebridge, Dumfriesshire, Scotland | [3](#3)
+1920 | Archwood Cottage, Johnstonebridge, Dumfriesshire, Scotland | [4](#4)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1918 | Ploughman | [1](#1)
-1920 | Cattleman | [3](#3)
+1918 | Ploughman | [2](#2)
+1920 | Cattleman | [4](#4)
 
 ## Notes
 
@@ -53,6 +53,15 @@ Date | Occupation | Sources & Notes
 
 ### 1
 
+**1889 CAMPBELL, WILLIAM ANDREW (Statutory Registers Births 814/4)**
+
+* [Full text and notes](../sources/@82073207@-1889-campbell,-william-andrew-statutory-registers-births-814-4-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1889 B 814/4
+
+### 2
+
 **1918 CAMPBELL, WILLIAM ANDREW & MCTURK, GRACE (Statutory Registers Marriages 813/A 2)**
 
 * [Full text and notes](../sources/@61071920@-1918-campbell,-william-andrew-&-mcturk,-grace-statutory-registers-marriages-813-a-2-.md)
@@ -60,13 +69,13 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1918 M 813/A 2
 
-### 2
+### 3
 
 > Based on a calculation from marriage with Grace McTurk
 >
 
 
-### 3
+### 4
 
 **1920 CAMPBELL, RACHEL SMITH (Statutory registers - Births 832/2)**
 

@@ -57,16 +57,40 @@
   "Spouses": [
     {
       "Id": "i7539126",
-      "Name": "X",
+      "Name": "Clara Fawley",
       "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "DateOfBirth": "20/Apr/1912",
+      "DateOfDeath": "12/Aug/1993",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "Jul/1932",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
+    {
+      "Id": "i18256653",
+      "Name": "Lawrence Stead",
+      "Gender": "Male",
+      "DateOfBirth": "29/Nov/1933",
+      "DateOfDeath": "Mar/1989",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i61214710",
+        "i7539126"
+      ]
+    },
+    {
+      "Id": "i82189144",
+      "Name": "Albert Stead",
+      "Gender": "Male",
+      "DateOfBirth": "about 1934",
+      "DateOfDeath": "22/Aug/1938",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i61214710",
+        "i7539126"
+      ]
+    },
     {
       "Id": "i69808462",
       "Name": "Norman Stead",

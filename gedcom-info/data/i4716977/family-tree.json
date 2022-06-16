@@ -3,7 +3,7 @@
     "Id": "i4716977",
     "Name": "William Andrew Campbell",
     "Gender": "Male",
-    "DateOfBirth": "about 1889",
+    "DateOfBirth": "2/Jan/1889",
     "DateOfDeath": ""
   },
   "Parents": [
@@ -19,7 +19,7 @@
       "Id": "i58377523",
       "Name": "Rachel Smith",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "11/Nov/1862",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     }
@@ -29,7 +29,7 @@
       "Id": "i4716977",
       "Name": "William Andrew Campbell",
       "Gender": "Male",
-      "DateOfBirth": "about 1889",
+      "DateOfBirth": "2/Jan/1889",
       "DateOfDeath": "",
       "RelationToSubject": "self",
       "ParentGroupIds": [
@@ -45,7 +45,7 @@
       "Id": "i54145218",
       "Name": "Grace McTurk",
       "Gender": "Female",
-      "DateOfBirth": "about 1887",
+      "DateOfBirth": "20/Dec/1886",
       "DateOfDeath": "",
       "RelationToSubject": "wife",
       "DateOfMarriage": "21/Mar/1918",

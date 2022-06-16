@@ -7,15 +7,6 @@
   "DateOfDeath": "2011",
   "Parents": [
     {
-      "Id": "i7539126",
-      "Name": "X",
-      "Gender": "Female",
-      "Relationship": "mother",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Parents": []
-    },
-    {
       "Id": "i61214710",
       "Name": "Cyril Stead",
       "Gender": "Male",
@@ -61,6 +52,15 @@
           ]
         }
       ]
+    },
+    {
+      "Id": "i7539126",
+      "Name": "Clara Fawley",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "20/Apr/1912",
+      "DateOfDeath": "12/Aug/1993",
+      "Parents": []
     }
   ]
 }

@@ -23,10 +23,10 @@
       "Id": "i58377523",
       "Name": "Rachel Smith",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "11/Nov/1862",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "12/Mar/1887",
       "DateOfDivorce": ""
     }
   ],
@@ -35,7 +35,7 @@
       "Id": "i4716977",
       "Name": "William Andrew Campbell",
       "Gender": "Male",
-      "DateOfBirth": "about 1889",
+      "DateOfBirth": "2/Jan/1889",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [

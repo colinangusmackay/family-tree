@@ -3,15 +3,42 @@
   "Name": "Alexander McTurk",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1854",
   "DateOfDeath": "",
   "Children": [
+    {
+      "Id": "i18380667",
+      "Name": "Jane McTurk",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i51187488",
+      "Name": "Georgina McTurk",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1883",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i78245729",
+      "Name": "Elizabeth McTurk",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1885",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i54145218",
       "Name": "Grace McTurk",
       "Gender": "Female",
       "Relationship": "daughter",
-      "DateOfBirth": "about 1887",
+      "DateOfBirth": "20/Dec/1886",
       "DateOfDeath": "",
       "Children": [
         {

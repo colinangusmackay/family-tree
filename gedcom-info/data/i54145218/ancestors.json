@@ -3,24 +3,24 @@
   "Name": "Grace McTurk",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "about 1887",
+  "DateOfBirth": "20/Dec/1886",
   "DateOfDeath": "",
   "Parents": [
-    {
-      "Id": "i39936423",
-      "Name": "Alexander McTurk",
-      "Gender": "Male",
-      "Relationship": "father",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Parents": []
-    },
     {
       "Id": "i2654341",
       "Name": "Margaret Beatie",
       "Gender": "Female",
       "Relationship": "mother",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1844",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i39936423",
+      "Name": "Alexander McTurk",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1854",
       "DateOfDeath": "",
       "Parents": []
     }
