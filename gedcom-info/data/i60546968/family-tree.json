@@ -141,8 +141,8 @@
       "Id": "i64418166",
       "Name": "James Cumming",
       "Gender": "Male",
-      "DateOfBirth": "about 1881",
-      "DateOfDeath": "",
+      "DateOfBirth": "4/Nov/1881",
+      "DateOfDeath": "before 1918",
       "RelationToSubject": "son",
       "ParentIds": [
         "i66384942",

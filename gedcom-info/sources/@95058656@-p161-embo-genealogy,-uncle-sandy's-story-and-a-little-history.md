@@ -33,7 +33,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 * [George Davidson Smith Cumming](../people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md) (31/May/1898 - Aug/1965)
 * [Isabella Cumming](../people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md) (21/Jul/1888 - 1/Feb/1986)
 * [James Cumming](../people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
-* [James Cumming](../people/@64418166@-james-cumming-b1881-d.md) (about 1881 - )
+* [James Cumming](../people/@64418166@-james-cumming-b1881-11-4-d1918.md) (4/Nov/1881 - before 1918)
 * [James Cumming](../people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md) (7/Nov/1894 - 2/Jul/1975)
 * [Jessie Ann Cumming](../people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md) (8/Jan/1893 - 31/Oct/1978)
 * [John Cumming](../people/@87723702@-john-cumming-b1873-d.md) (about 1873 - )

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i11801376",
+    "Name": "Jamesina Morrison",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i11801376",
+      "Name": "Jamesina Morrison",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i29410614",
+      "Name": "James Clark",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "1/Dec/1876",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i35162161",
+      "Name": "Catherine Wink Clark",
+      "Gender": "Female",
+      "DateOfBirth": "27/Mar/1879",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i29410614",
+        "i11801376"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+﻿{
+  "Subject": {
+    "Id": "i28456848",
+    "Name": "Anna Catherine Fraser",
+    "Gender": "Female",
+    "DateOfBirth": "28/Aug/1937",
+    "DateOfDeath": "1992"
+  },
+  "Parents": [
+    {
+      "Id": "i91293396",
+      "Name": "Alexander Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "31/Aug/1898",
+      "DateOfDeath": "17/Feb/1966",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i81075921",
+      "Name": "Jean Grant",
+      "Gender": "Female",
+      "DateOfBirth": "30/Jun/1902",
+      "DateOfDeath": "31/Oct/1971",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i35053528",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i81075921",
+          "i91293396"
+        ]
+      ]
+    },
+    {
+      "Id": "i28456848",
+      "Name": "Anna Catherine Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "28/Aug/1937",
+      "DateOfDeath": "1992",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i81075921",
+          "i91293396"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i43065376",
+      "Name": "Donald James Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "1931",
+      "DateOfDeath": "29/Dec/2011",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i62528548",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i43065376",
+        "i28456848"
+      ]
+    },
+    {
+      "Id": "i29474700",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i43065376",
+        "i28456848"
+      ]
+    }
+  ]
+}

@@ -3,8 +3,8 @@
     "Id": "i64418166",
     "Name": "James Cumming",
     "Gender": "Male",
-    "DateOfBirth": "about 1881",
-    "DateOfDeath": ""
+    "DateOfBirth": "4/Nov/1881",
+    "DateOfDeath": "before 1918"
   },
   "Parents": [
     {
@@ -127,8 +127,8 @@
       "Id": "i64418166",
       "Name": "James Cumming",
       "Gender": "Male",
-      "DateOfBirth": "about 1881",
-      "DateOfDeath": "",
+      "DateOfBirth": "4/Nov/1881",
+      "DateOfDeath": "before 1918",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -159,10 +159,35 @@
       "Gender": "Female",
       "DateOfBirth": "27/Mar/1879",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "24/Dec/1907",
       "DateOfDivorce": ""
     }
   ],
-  "Children": []
+  "Children": [
+    {
+      "Id": "i86945960",
+      "Name": "Maggie Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1909",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i64418166",
+        "i35162161"
+      ]
+    },
+    {
+      "Id": "i5591850",
+      "Name": "James Edward Cummings",
+      "Gender": "Male",
+      "DateOfBirth": "18/Jan/1912",
+      "DateOfDeath": "11/Dec/2003",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i64418166",
+        "i35162161"
+      ]
+    }
+  ]
 }

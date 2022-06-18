@@ -1,0 +1,38 @@
+﻿{
+  "Id": "i29410614",
+  "Name": "James Clark",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i35162161",
+      "Name": "Catherine Wink Clark",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "27/Mar/1879",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i86945960",
+          "Name": "Maggie Cumming",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "19/Jan/1909",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i5591850",
+          "Name": "James Edward Cummings",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "18/Jan/1912",
+          "DateOfDeath": "11/Dec/2003",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

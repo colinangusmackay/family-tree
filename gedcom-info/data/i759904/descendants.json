@@ -782,9 +782,28 @@
               "Name": "James Cumming",
               "Gender": "Male",
               "Relationship": "son",
-              "DateOfBirth": "about 1881",
-              "DateOfDeath": "",
-              "Children": []
+              "DateOfBirth": "4/Nov/1881",
+              "DateOfDeath": "before 1918",
+              "Children": [
+                {
+                  "Id": "i86945960",
+                  "Name": "Maggie Cumming",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "19/Jan/1909",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i5591850",
+                  "Name": "James Edward Cummings",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "18/Jan/1912",
+                  "DateOfDeath": "11/Dec/2003",
+                  "Children": []
+                }
+              ]
             },
             {
               "Id": "i57039529",

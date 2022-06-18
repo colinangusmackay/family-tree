@@ -23,11 +23,20 @@
           "DateOfDeath": "",
           "Children": [
             {
+              "Id": "i8015715",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
               "Id": "i70539486",
               "Name": "X",
               "Gender": "Female",
               "Relationship": "daughter",
-              "DateOfBirth": "",
+              "DateOfBirth": "21/Mar/1992",
               "DateOfDeath": "",
               "Children": [
                 {
@@ -49,15 +58,6 @@
                   "Children": []
                 }
               ]
-            },
-            {
-              "Id": "i8015715",
-              "Name": "X",
-              "Gender": "Male",
-              "Relationship": "son",
-              "DateOfBirth": "",
-              "DateOfDeath": "",
-              "Children": []
             }
           ]
         },

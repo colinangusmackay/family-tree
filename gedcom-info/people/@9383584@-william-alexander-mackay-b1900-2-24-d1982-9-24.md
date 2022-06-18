@@ -62,7 +62,6 @@ after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1
 
 Date | Residence | Sources & Notes
 ---|---|---
-Unknown | Glasgow, Scotland | [22](#22)
 1901 | 6 Terrace Street, Embo, Sutherland, Scotland | [25](#25)
 1918 | 6 Terrace Street, Embo, Sutherlandshire | [2](#2)
 before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [8](#8), [26](#26)
@@ -70,6 +69,7 @@ before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [8](#8), [2
 1956 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [28](#28)
 1960 | 57 Kersland Street, Glasgow | [29](#29)
 1980 | 57 Kersland Street, Glasgow | [30](#30)
+1981 | Glasgow, Scotland | [22](#22)
 
 ## Known Occupations
 

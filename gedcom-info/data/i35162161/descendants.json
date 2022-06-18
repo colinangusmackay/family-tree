@@ -5,5 +5,24 @@
   "Relationship": "Self",
   "DateOfBirth": "27/Mar/1879",
   "DateOfDeath": "",
-  "Children": []
+  "Children": [
+    {
+      "Id": "i86945960",
+      "Name": "Maggie Cumming",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "19/Jan/1909",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i5591850",
+      "Name": "James Edward Cummings",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "18/Jan/1912",
+      "DateOfDeath": "11/Dec/2003",
+      "Children": []
+    }
+  ]
 }

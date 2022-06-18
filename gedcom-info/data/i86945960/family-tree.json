@@ -1,0 +1,59 @@
+﻿{
+  "Subject": {
+    "Id": "i86945960",
+    "Name": "Maggie Cumming",
+    "Gender": "Male",
+    "DateOfBirth": "19/Jan/1909",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i35162161",
+      "Name": "Catherine Wink Clark",
+      "Gender": "Female",
+      "DateOfBirth": "27/Mar/1879",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i64418166",
+      "Name": "James Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "4/Nov/1881",
+      "DateOfDeath": "before 1918",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i86945960",
+      "Name": "Maggie Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1909",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i35162161",
+          "i64418166"
+        ]
+      ]
+    },
+    {
+      "Id": "i5591850",
+      "Name": "James Edward Cummings",
+      "Gender": "Male",
+      "DateOfBirth": "18/Jan/1912",
+      "DateOfDeath": "11/Dec/2003",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i35162161",
+          "i64418166"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

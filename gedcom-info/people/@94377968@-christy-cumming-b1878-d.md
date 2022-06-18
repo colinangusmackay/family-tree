@@ -23,7 +23,7 @@ permalink: /people/i94377968
 * Brother: [Kenneth Cumming](./@14447152@-kenneth-cumming-b1867-d.md) (about 1867 - )
 * Brother: [William Cumming](./@10016098@-william-cumming-b1870-d.md) (about 1870 - )
 * Brother: [John Cumming](./@87723702@-john-cumming-b1873-d.md) (about 1873 - )
-* Brother: [James Cumming](./@64418166@-james-cumming-b1881-d.md) (about 1881 - )
+* Brother: [James Cumming](./@64418166@-james-cumming-b1881-11-4-d1918.md) (4/Nov/1881 - before 1918)
 * Sister: [Barbara Ann Cumming](./@57039529@-barbara-ann-cumming-b1885-8-30-d.md) (30/Aug/1885 - )
 
 ## Timeline

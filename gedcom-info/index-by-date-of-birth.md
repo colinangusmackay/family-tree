@@ -204,10 +204,10 @@ permalink: /indexes/by-date-of-birth
   * **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
   * **[Mackay, Jessie](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932)
 * **Born in 1881.**
-  * **[Cumming, James](people/@64418166@-james-cumming-b1881-d.md)** (about 1881 - )
   * **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
   * **[Henderson, Edward](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - )
   * **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
+  * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918)
 * **Born in 1882.**
   * **[Cumming, Elizabeth](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - )
   * **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - )
@@ -306,6 +306,8 @@ permalink: /indexes/by-date-of-birth
   * **[Ross, Jeanie](people/@71751658@-jeanie-ross-b1907-d.md)** (1907 - )
 * **Born in 1908.**
   * **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
+* **Born in 1909.**
+  * **[Cumming, Maggie](people/@86945960@-maggie-cumming-b1909-1-19-d.md)** (19/Jan/1909 - )
 
 ### 1910s
 
@@ -320,6 +322,7 @@ permalink: /indexes/by-date-of-birth
   * **[Ramsay, Alan](people/@62219744@-alan-ramsay-b1911-d1932.md)** (1911 - 1932)
   * **[Stead, George](people/@77215226@-george-stead-b1911-3-d.md)** (Mar/1911 - )
 * **Born in 1912.**
+  * **[Cummings, James Edward](people/@5591850@-james-edward-cummings-b1912-1-18-d2003-12-11.md)** (18/Jan/1912 - 11/Dec/2003)
   * **[Fawley, Clara](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993)
   * **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
 * **Born in 1914.**
@@ -367,6 +370,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1936.**
   * **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019)
 * **Born in 1937.**
+  * **[Fraser, Anna Catherine](people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md)** (28/Aug/1937 - 1992)
   * **[Stead, Norman](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
 * **Born in 1938.**
   * **[Mackay, Anna Jess](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
@@ -401,6 +405,7 @@ permalink: /indexes/by-date-of-birth
 * [Janet Abernethy](people/@82771990@-janet-abernethy-b-d.md)
 * [William Campbell](people/@70442784@-william-campbell-b-d1918.md) ( - before 1918)
 * [Anne Chisholm](people/@48064613@-anne-chisholm-b-d1877.md) ( - before 1877)
+* [James Clark](people/@29410614@-james-clark-b-d.md)
 * [Donald Cumming](people/@24876512@-donald-cumming-b-d.md)
 * [Donald Cumming](people/@69575920@-donald-cumming-b-d1875.md) ( - after 1875)
 * [Helen Currie](people/@14506844@-helen-currie-b-d1880.md) ( - before 1880)
@@ -450,6 +455,7 @@ permalink: /indexes/by-date-of-birth
 * [John McLean](people/@91397610@-john-mclean-b-d1877.md) ( - after 1877)
 * [Margaret McRae](people/@57014804@-margaret-mcrae-b-d.md)
 * [Ann Morgan](people/@60684755@-ann-morgan-b-d.md)
+* [Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)
 * [John Morrison](people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
 * [Isabella Patterson](people/@24882788@-isabella-patterson-b-d.md)
 * [Barney Predendall](people/@69952770@-barney-predendall-b-d.md)

@@ -67,10 +67,10 @@
     },
     {
       "Id": "i28456848",
-      "Name": "X",
+      "Name": "Anna Catherine Fraser",
       "Gender": "Female",
       "DateOfBirth": "28/Aug/1937",
-      "DateOfDeath": "",
+      "DateOfDeath": "1992",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i91293396",

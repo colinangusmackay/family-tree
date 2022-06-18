@@ -6,7 +6,24 @@
     "DateOfBirth": "27/Mar/1879",
     "DateOfDeath": ""
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i29410614",
+      "Name": "James Clark",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i11801376",
+      "Name": "Jamesina Morrison",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i35162161",
@@ -15,7 +32,12 @@
       "DateOfBirth": "27/Mar/1879",
       "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i11801376",
+          "i29410614"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,12 +45,37 @@
       "Id": "i64418166",
       "Name": "James Cumming",
       "Gender": "Male",
-      "DateOfBirth": "about 1881",
-      "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "DateOfBirth": "4/Nov/1881",
+      "DateOfDeath": "before 1918",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "24/Dec/1907",
       "DateOfDivorce": ""
     }
   ],
-  "Children": []
+  "Children": [
+    {
+      "Id": "i86945960",
+      "Name": "Maggie Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1909",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i64418166",
+        "i35162161"
+      ]
+    },
+    {
+      "Id": "i5591850",
+      "Name": "James Edward Cummings",
+      "Gender": "Male",
+      "DateOfBirth": "18/Jan/1912",
+      "DateOfDeath": "11/Dec/2003",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i64418166",
+        "i35162161"
+      ]
+    }
+  ]
 }
