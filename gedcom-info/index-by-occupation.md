@@ -29,6 +29,11 @@ permalink: /indexes/by-occupation
 
 * **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004).
 
+## Blacksmith
+
+* **[Fleming, John](people/@49475976@-john-fleming-b1877-d.md)** (about 1877 - ).
+* **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1852-d1920.md)** (about 1852 - before 1920), mentioned 2 times.
+
 ## Boatswain
 
 * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
@@ -124,12 +129,16 @@ permalink: /indexes/by-occupation
 
 ## Domestic
 
+* **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
 * **[Cumming, Elizabeth](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ).
+* **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
 * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971), mentioned 2 times.
 * **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977).
+* **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d.md)** (28/Nov/1890 - ).
 
 ## Domestic Servant
 
+* **[Fleming, Christina](people/@89446044@-christina-fleming-b1896-d.md)** (about 1896 - ).
 * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971).
 * **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ).
 * **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
@@ -247,6 +256,10 @@ permalink: /indexes/by-occupation
 * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
 * **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973).
 
+## Fixer Corporation Tramways
+
+* **[Mathews, Joseph](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - ).
+
 ## Gardener
 
 * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974).
@@ -298,6 +311,11 @@ permalink: /indexes/by-occupation
 
 * **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015).
 
+## Lapidary
+
+* **[Mathews, George](people/@7150388@-george-mathews-b-d.md)**.
+* **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ).
+
 ## Librarian
 
 * **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015).
@@ -305,6 +323,10 @@ permalink: /indexes/by-occupation
 ## Library Attendant
 
 * **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - ).
+
+## Light Duty Cicle Factory Warehouse
+
+* **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ).
 
 ## Machinest
 
@@ -427,6 +449,10 @@ permalink: /indexes/by-occupation
 ## Seaman (Merchant Services)
 
 * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
+
+## Secretary
+
+* **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
 
 ## Servant
 

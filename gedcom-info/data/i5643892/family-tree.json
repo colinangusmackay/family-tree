@@ -1,0 +1,93 @@
+﻿{
+  "Subject": {
+    "Id": "i5643892",
+    "Name": "John Albert Mathews",
+    "Gender": "Male",
+    "DateOfBirth": "21/Nov/1895",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i7150388",
+      "Name": "George Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i63437677",
+      "Name": "Eliza Jane Wynn",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i5643892",
+      "Name": "John Albert Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "21/Nov/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i63437677",
+          "i7150388"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i89446044",
+      "Name": "Christina Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "about 1896",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "15/Apr/1920",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i98232688",
+      "Name": "Joseph Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "15/Jun/1922",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i5643892",
+        "i89446044"
+      ]
+    },
+    {
+      "Id": "i58223940",
+      "Name": "Robert Dennis R Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "6/Sep/1928",
+      "DateOfDeath": "11/Feb/2009",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i5643892",
+        "i89446044"
+      ]
+    },
+    {
+      "Id": "i14711172",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "31/Jul/1931",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i5643892",
+        "i89446044"
+      ]
+    }
+  ]
+}

@@ -33,6 +33,7 @@ permalink: /indexes/by-birth-location
 - **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
 - **[Currie, Helen](people/@14506844@-helen-currie-b-d1880.md)** ( - before 1880)
 - **[Davies, Ann](people/@759904@-ann-davies-b-d1875.md)** ( - before 1875)
+- **[Falloon, Hannah E](people/@97706646@-hannah-e-falloon-b1922-d1982.md)** (about 1922 - 1982)
 - **[Farnham, Mae](people/@53003230@-mae-farnham-b1872-d.md)** (about 1872 - )
 - **[Fawley, Clara](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993)
 - **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - )
@@ -137,7 +138,10 @@ permalink: /indexes/by-birth-location
 - **[Martensen, Charles Raymond](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
 - **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
 - **[Matheson, Hector](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896)
+- **[Mathews, George](people/@7150388@-george-mathews-b-d.md)**
+- **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 - **[Mathews, John Albert](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
+- **[Mathews, Joseph](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - )
 - **[McIver, Elizabeth](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
 - **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
 - **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015)
@@ -208,6 +212,7 @@ permalink: /indexes/by-birth-location
 - **[Taylor, Helen](people/@47549486@-helen-taylor-b-d1880.md)** ( - before 1880)
 - **[Thomson, Agnes](people/@96590245@-agnes-thomson-b1897-d.md)** (before 1897 - )
 - **[Wilson, Elizabeth](people/@71295041@-elizabeth-wilson-b-d.md)**
+- **[Wynn, Eliza Jane](people/@63437677@-eliza-jane-wynn-b-d.md)**
 - **[Younger, Mary](people/@25511104@-mary-younger-b-d.md)**
 
 
@@ -317,6 +322,11 @@ permalink: /indexes/by-birth-location
 
 ### Lanarkshire
 
+#### Carnwath
+
+- **[Fleming, John](people/@49475976@-john-fleming-b1877-d.md)** (about 1877 - )
+- **[Tennant, Margaret](people/@14002910@-margaret-tennant-b1858-d.md)** (about 1858 - )
+
 #### Wishaw
 
 - **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974)
@@ -360,6 +370,12 @@ permalink: /indexes/by-birth-location
 
 - **[Mackay, Anna Jess](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
 
+### South Lanarkshire
+
+#### Carluke
+
+- **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1852-d1920.md)** (about 1852 - before 1920)
+
 ### Sutherland
 
 #### Brora
@@ -377,7 +393,6 @@ permalink: /indexes/by-birth-location
 - **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
 - **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
-- **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986)
 - **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918)
 - **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 - **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
@@ -415,7 +430,18 @@ permalink: /indexes/by-birth-location
 
 #### Helmsdale
 
+- **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986)
 - **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
+
+### West Lothian
+
+#### Livingston
+
+- **[Fleming, Agnes](people/@29204156@-agnes-fleming-b1899-d.md)** (about 1899 - )
+- **[Fleming, Christina](people/@89446044@-christina-fleming-b1896-d.md)** (about 1896 - )
+- **[Fleming, Elizabeth](people/@79236484@-elizabeth-fleming-b1888-d.md)** (about 1888 - )
+- **[Fleming, Joseph](people/@89747088@-joseph-fleming-b1893-d.md)** (about 1893 - )
+- **[Fleming, Lillias](people/@39306088@-lillias-fleming-b1890-d.md)** (about 1890 - )
 
 
 ## United States

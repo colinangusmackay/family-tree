@@ -38,9 +38,10 @@ about 1944 | Birth of daughter | X born to [Malcolm DeWitt Roberts](./@21721539@
 
 Date | Residence | Sources & Notes
 ---|---|---
-1940 | 21 Philip St, Ilion, New York, United States of America | [5](#5)
+1935 | German Flatts, Herkimer County, New York, United States | [10](#10)
+1940 | 21 Philip St, Ilion, New York, United States of America | [10](#10), [5](#5)
 1950 | 1239 Post Road, Fairfield, Connecticut, United States of America | [3](#3)
-1958 | 62 Cove Ave, East Norwalk, Connecticut, USA | [10](#10)
+1958 | 62 Cove Ave, East Norwalk, Connecticut, USA | [11](#11)
 1971 | East Norwalk, Fairfield County, Connecticut, United States of America | [6](#6)
 1972 | 62 Cove Avenue, East Norwalk, Connecticut, USA | [7](#7)
 1990 | 62 Cove Ave, Norwalk, Connecticut, USA | [9](#9)
@@ -50,8 +51,9 @@ Date | Residence | Sources & Notes
 Date | Occupation | Sources & Notes
 ---|---|---
 1940 | Unknown in Ilion, New York, United States of America | [5](#5)
+1940 | Secretary | [10](#10)
 1950 | Tool Engineer | [3](#3)
-1958 | Engineer | [10](#10)
+1958 | Engineer | [11](#11)
 
 ## Footnotes
 
@@ -122,6 +124,13 @@ Date | Occupation | Sources & Notes
 * Date: 9/May/1990
 
 ### 10
+
+**1940 X, MALCOLM & Family (Federal Census)**
+
+* [Full text and notes](../sources/@1486578@-1940-roberts,-malcolm-&-family-federal-census-.md)
+* Publication: 1940 Federal Census
+
+### 11
 
 **1958 ROBERTS, MALCOLM (Norwalk, Connecticut, City Directory, 1958)**
 

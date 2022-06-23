@@ -9,9 +9,9 @@ permalink: /people/i35875756
 
 ## Immediate Family
 
-* Mother: X
 * Daughter: X
 * Daughter: X
+* Mother: [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) (about 1922 - 1982)
 * Father: [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) (6/Sep/1928 - 11/Feb/2009)
 * Wife: X
 * Brother: X
@@ -21,11 +21,12 @@ permalink: /people/i35875756
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-1954 | Born | Born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and X. | [1](#1) | 
-6/Dec/1956 | Birth of brother | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and X in Blackburn, West Lothian, Scotland. | [2](#2) | 
-6/Dec/1956 | Birth of brother | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and X in Blackburn, West Lothian, Scotland. | [3](#3) | 
+1954 | Born | Born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md). | [1](#1) | 
+6/Dec/1956 | Birth of brother | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) in Blackburn, West Lothian, Scotland. | [2](#2) | 
+6/Dec/1956 | Birth of brother | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) in Blackburn, West Lothian, Scotland. | [3](#3) | 
 1978 | Marriage | Married to X  | [4](#4) | 
-2004 | Died | Died. | [5](#5) | 
+1982 | Death of mother | [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) died. | [5](#5) | 
+2004 | Died | Died. | [6](#6) | 
 
 ## Footnotes
 
@@ -66,7 +67,16 @@ Date | Item | Description | Sources | Notes
 
 ### 5
 
-**2004 MATHXWS, JOHN ALBXRT Statutory RXgistXrs - DXath IndXx**
+**1982 MATHEWS, HANNAH ELDER (Statutory Register Deaths, Index 711/216)**
+
+* [Full text and notes](../sources/@26072445@-1982-mathews,-hannah-elder-statutory-register-deaths,-index-711-216-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1982 D 711/216
+
+### 6
+
+**2004 MATHEWS, JOHN ALBERT Statutory Registers - Death Index**
 
 * [Full text and notes](../sources/@70959444@-2004-mathews,-john-albert-statutory-registers-death-index.md)
 * Responsible Agency: National Records of Scotland

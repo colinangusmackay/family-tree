@@ -17,7 +17,7 @@ permalink: /people/i35162161
 * Father: [James Clark](./@29410614@-james-clark-b-d.md)
 * Mother: [Jamesina Morrison](./@11801376@-jamesina-morrison-b-d.md)
 * Husband: [James Cumming](./@64418166@-james-cumming-b1881-11-4-d1918.md) (4/Nov/1881 - before 1918)
-* Son: [Maggie Cumming](./@86945960@-maggie-cumming-b1909-1-19-d.md) (19/Jan/1909 - )
+* Daughter: [Maggie Cumming](./@86945960@-maggie-cumming-b1909-1-19-d.md) (19/Jan/1909 - )
 * Son: [James Edward Cummings](./@5591850@-james-edward-cummings-b1912-1-18-d2003-12-11.md) (18/Jan/1912 - 11/Dec/2003)
 
 ## Timeline

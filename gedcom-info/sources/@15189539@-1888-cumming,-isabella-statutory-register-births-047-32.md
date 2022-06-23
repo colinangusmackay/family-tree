@@ -24,11 +24,11 @@ References | 1888 047/32
 >
 > Name and Surname: Isabella Cumming
 >
-> When and Where Born: 1888 July Twenty First
+> When and Where Born: 1888 July Twenty First 7H 0M AM; Helmsdale
 >
 > Sex: F
 >
-> Name, Surname and Profession of Father: Donald Cumming, Fisherman (XXXX Embo, Parish of Dornoch)
+> Name, Surname and Profession of Father: Donald Cumming, Fisherman (Domiciled Embo, Parish of Dornoch)
 >
 > Name and Maiden Name of Mother: Annie Cumming M.S. Fraser
 >
@@ -36,7 +36,7 @@ References | 1888 047/32
 >
 > Signature and Qualification of Informant: (Signed) Donald Cumming, Father (Present)
 >
-> When and Where Registered: 1888 July 23rd at Helmsdale (Signed) XXXX Campbell Registrar. July 24th, XXXXX at Dornoch. Charles Neill, Registrar
+> When and Where Registered: 1888 July 23rd at Helmsdale (Signed) Jas Campbell Registrar. July 24th, Transcribed at Dornoch. Charles Neill, Registrar
 >
 
 ## Source Referenced by

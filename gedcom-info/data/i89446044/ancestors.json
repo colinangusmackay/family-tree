@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i89446044",
+  "Name": "Christina Fleming",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1896",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i57117702",
+      "Name": "Joseph Fleming",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1852",
+      "DateOfDeath": "before 1920",
+      "Parents": []
+    },
+    {
+      "Id": "i14002910",
+      "Name": "Margaret Tennant",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1858",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

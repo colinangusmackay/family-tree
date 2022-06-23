@@ -140,6 +140,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 ### 1920s
 
+* **1920**
+  * **15/Apr/1920** : **[John Albert Mathews](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ) and **[Christina Fleming](people/@89446044@-christina-fleming-b1896-d.md)** (about 1896 - ) at Glasgow, Scotland.
 * **1924**
   * **6/Aug/1924** : **[John Cumming](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ) and **[Carrie Elizabeth Predendall](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - ).
 * **1927**
@@ -179,7 +181,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1950s
 
 * **1952**
-  * **Oct/1952** : **[Robert Dennis R Mathews](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009) and X at Birmingham, England.
+  * **Oct/1952** : **[Robert Dennis R Mathews](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009) and **[Hannah E Falloon](people/@97706646@-hannah-e-falloon-b1922-d1982.md)** (about 1922 - 1982) at Birmingham, England.
 * **1959**
   * **1959** : **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011) and **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) at Glasgow, Scotland.
 

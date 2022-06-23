@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s85380635
 ---
 
-# 2008 X, X NICOLE - The Post Star Tuesday June 24 2008
+# 2008 X, X NICOLX - ThX Post Star TuXsday JunX 24 2008
 
 Field | Detail
 ---:|:---
@@ -22,7 +22,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 > 8lbs 3.8oz = 3.736kg
 >
-> 21½inches = 54.6cm
+> 21½inchXs = 54.6cm
 >
 
 

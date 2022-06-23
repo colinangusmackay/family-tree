@@ -9,7 +9,11 @@ permalink: /people/i58223940
 
 ## Immediate Family
 
-* Wife: X
+* Father: [John Albert Mathews](./@5643892@-john-albert-mathews-b1895-11-21-d.md) (21/Nov/1895 - )
+* Mother: [Christina Fleming](./@89446044@-christina-fleming-b1896-d.md) (about 1896 - )
+* Wife: [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) (about 1922 - 1982)
+* Brother: [Joseph Mathews](./@98232688@-joseph-mathews-b1922-6-15-d.md) (15/Jun/1922 - )
+* Brother: X
 * Son: [John Albert Mathews](./@35875756@-john-albert-mathews-b1954-d2004.md) (1954 - 2004)
 * Son: X
 * Son: X
@@ -18,19 +22,21 @@ permalink: /people/i58223940
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-6/Sep/1928 | Born | Born in Birmingham, England. | [1](#1), [2](#2) | 
-Oct/1952 | Marriage | Married to X in Birmingham, England | [3](#3) | 
-1954 | Birth of son | [John Albert Mathews](./@35875756@-john-albert-mathews-b1954-d2004.md) born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and X. | [4](#4) | 
-6/Dec/1956 | Birth of son | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and X in Blackburn, West Lothian, Scotland. | [5](#5) | 
-6/Dec/1956 | Birth of son | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and X in Blackburn, West Lothian, Scotland. | [6](#6) | 
-2004 | Death of son | [John Albert Mathews](./@35875756@-john-albert-mathews-b1954-d2004.md) died. | [7](#7) | 
+6/Sep/1928 | Born | Born to [John Albert Mathews](./@5643892@-john-albert-mathews-b1895-11-21-d.md) and [Christina Fleming](./@89446044@-christina-fleming-b1896-d.md) in Birmingham, England. | [1](#1), [2](#2) | 
+31/Jul/1931 | Birth of brother | X born to [John Albert Mathews](./@5643892@-john-albert-mathews-b1895-11-21-d.md) and [Christina Fleming](./@89446044@-christina-fleming-b1896-d.md). | [3](#3) | 
+Oct/1952 | Marriage | Married to [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) in Birmingham, England | [4](#4) | 
+1954 | Birth of son | [John Albert Mathews](./@35875756@-john-albert-mathews-b1954-d2004.md) born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md). | [5](#5) | 
+6/Dec/1956 | Birth of son | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) in Blackburn, West Lothian, Scotland. | [6](#6) | 
+6/Dec/1956 | Birth of son | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) in Blackburn, West Lothian, Scotland. | [7](#7) | 
+1982 | Death of partner | [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) died. | [8](#8) | 
+2004 | Death of son | [John Albert Mathews](./@35875756@-john-albert-mathews-b1954-d2004.md) died. | [9](#9) | 
 11/Feb/2009 | Died | Died. | [2](#2) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-2003 | 8 Ladeside Drive, Blackburn, West Lothian, EH47 7JS, Scotland | [8](#8)
+2003 | 8 Ladeside Drive, Blackburn, West Lothian, EH47 7JS, Scotland | [10](#10)
 2009 | Bathgate, West Lothian, Scotland | [2](#2)
 
 ## Footnotes
@@ -52,13 +58,23 @@ Date | Residence | Sources & Notes
 
 ### 3
 
-**1952 MATHXWS, ROBXRT D.R. & X, HANNA X (Xngland & WalXs, Civil RXgistration MarriagX IndXx, 1916-2005)**
+**1939 X, JOHN A & FAMILY (1939 England and Wales Register)**
+
+* [Full text and notes](../sources/@8791600@-1939-mathews,-john-a-&-family-1939-england-and-wales-register-.md)
+* Publication: 1939 England and Wales Register
+* Responsible Agency: The National Archives; Kew, London, England
+* References: 
+  * Rg 101/5510i
+
+### 4
+
+**1952 MATHEWS, ROBERT D.R. & FALLOON, HANNA E (England & Wales, Civil Registration Marriage Index, 1916-2005)**
 
 * [Full text and notes](../sources/@74855856@-1952-mathews,-robert-d.r.-&-falloon,-hanna-e-england-&-wales,-civil-registration-marriage-index,-19….md)
 * Publication: England & Wales, Civil Registration Marriage Index, 1916-2005
 * Responsible Agency: General Register Office
 
-### 4
+### 5
 
 **1954 MATHEWS, JOHN ALBERT: Statutory Registers - Births Index**
 
@@ -67,14 +83,14 @@ Date | Residence | Sources & Notes
 * References: 
   * 1954 B 672/565
 
-### 5
+### 6
 
 **1956 X, X (Statutory Registers - Births) Index**
 
 * [Full text and notes](../sources/@89989536@-1956-mathews,-george-statutory-registers-births-index.md)
 * Responsible Agency: National Records of Scotland
 
-### 6
+### 7
 
 **1956 X, X X (Statutory Register - Births) Index**
 
@@ -84,16 +100,25 @@ Date | Residence | Sources & Notes
 * References: 
   * 1956 B 669/2 66
 
-### 7
+### 8
 
-**2004 MATHXWS, JOHN ALBXRT Statutory RXgistXrs - DXath IndXx**
+**1982 MATHEWS, HANNAH ELDER (Statutory Register Deaths, Index 711/216)**
+
+* [Full text and notes](../sources/@26072445@-1982-mathews,-hannah-elder-statutory-register-deaths,-index-711-216-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1982 D 711/216
+
+### 9
+
+**2004 MATHEWS, JOHN ALBERT Statutory Registers - Death Index**
 
 * [Full text and notes](../sources/@70959444@-2004-mathews,-john-albert-statutory-registers-death-index.md)
 * Responsible Agency: National Records of Scotland
 * References: 
   * 2004 D 772/8
 
-### 8
+### 10
 
 **2003 MATHEWS, ROBERT D (UK, Electoral Registers, 2003-2010)**
 

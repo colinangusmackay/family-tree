@@ -1,0 +1,73 @@
+﻿{
+  "Subject": {
+    "Id": "i98232688",
+    "Name": "Joseph Mathews",
+    "Gender": "Male",
+    "DateOfBirth": "15/Jun/1922",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i5643892",
+      "Name": "John Albert Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "21/Nov/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i89446044",
+      "Name": "Christina Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "about 1896",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i98232688",
+      "Name": "Joseph Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "15/Jun/1922",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i5643892",
+          "i89446044"
+        ]
+      ]
+    },
+    {
+      "Id": "i58223940",
+      "Name": "Robert Dennis R Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "6/Sep/1928",
+      "DateOfDeath": "11/Feb/2009",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i5643892",
+          "i89446044"
+        ]
+      ]
+    },
+    {
+      "Id": "i14711172",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "31/Jul/1931",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i5643892",
+          "i89446044"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

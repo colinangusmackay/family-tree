@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s70959444
 ---
 
-# 2004 MATHXWS, JOHN ALBXRT Statutory RXgistXrs - DXath IndXx
+# 2004 MATHEWS, JOHN ALBERT Statutory Registers - Death Index
 
 Field | Detail
 ---:|:---
@@ -16,7 +16,20 @@ References | 2004 D 772/8
 
 ## Text
 
-_Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
+> Surname: MATHEWS
+>
+> Forename: JOHN ALBERT
+>
+> Age at Death: 49:
+>
+> Mother's Maiden Name: FALLOON
+>
+> Year: 2004
+>
+> Ref: 772/8
+>
+> RD Name: Livingston
+>
 
 ## Source Referenced by
 

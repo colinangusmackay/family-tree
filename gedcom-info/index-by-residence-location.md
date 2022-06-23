@@ -25,6 +25,11 @@ permalink: /indexes/by-residence-location
 
 ## England
 
+### Birmingham
+
+- **[Fleming, Christina](people/@89446044@-christina-fleming-b1896-d.md)** (about 1896 - )
+- **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
+
 ### Yorkshire
 
 #### Morley
@@ -106,11 +111,13 @@ permalink: /indexes/by-residence-location
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
 - **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
+- **[Fleming, Christina](people/@89446044@-christina-fleming-b1896-d.md)** (about 1896 - )
 - **[Mackay, Donald James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019)
 - **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970)
 - **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934)
 - **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
+- **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 - **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
 - **[McIver, Roderick McKenzie](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
 - **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
@@ -237,6 +244,13 @@ permalink: /indexes/by-residence-location
 #### Blackburn
 
 - **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
+- **[Fleming, Agnes](people/@29204156@-agnes-fleming-b1899-d.md)** (about 1899 - )
+- **[Fleming, Christina](people/@89446044@-christina-fleming-b1896-d.md)** (about 1896 - )
+- **[Fleming, Elizabeth](people/@79236484@-elizabeth-fleming-b1888-d.md)** (about 1888 - )
+- **[Fleming, John](people/@49475976@-john-fleming-b1877-d.md)** (about 1877 - )
+- **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1852-d1920.md)** (about 1852 - before 1920)
+- **[Fleming, Joseph](people/@89747088@-joseph-fleming-b1893-d.md)** (about 1893 - )
+- **[Fleming, Lillias](people/@39306088@-lillias-fleming-b1890-d.md)** (about 1890 - )
 - **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
 
 #### Livingston
@@ -252,6 +266,7 @@ permalink: /indexes/by-residence-location
 
 - **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
 - **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918)
+- **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
 
 #### Lynn, Essex County
 
@@ -266,6 +281,11 @@ permalink: /indexes/by-residence-location
 - **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - )
 
 ### New York
+
+#### German Flatts, Herkimer County
+
+- **[, Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+- **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
 
 #### Horicon, Warren County
 

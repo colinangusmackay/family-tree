@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i63437677",
+    "Name": "Eliza Jane Wynn",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i63437677",
+      "Name": "Eliza Jane Wynn",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i7150388",
+      "Name": "George Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i5643892",
+      "Name": "John Albert Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "21/Nov/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i7150388",
+        "i63437677"
+      ]
+    }
+  ]
+}

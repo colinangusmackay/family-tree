@@ -1,0 +1,163 @@
+﻿{
+  "Subject": {
+    "Id": "i89446044",
+    "Name": "Christina Fleming",
+    "Gender": "Female",
+    "DateOfBirth": "about 1896",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i57117702",
+      "Name": "Joseph Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1852",
+      "DateOfDeath": "before 1920",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i14002910",
+      "Name": "Margaret Tennant",
+      "Gender": "Female",
+      "DateOfBirth": "about 1858",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i49475976",
+      "Name": "John Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i79236484",
+      "Name": "Elizabeth Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1888",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i39306088",
+      "Name": "Lillias Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i89747088",
+      "Name": "Joseph Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1893",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i89446044",
+      "Name": "Christina Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "about 1896",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i29204156",
+      "Name": "Agnes Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1899",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i5643892",
+      "Name": "John Albert Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "21/Nov/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "15/Apr/1920",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i98232688",
+      "Name": "Joseph Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "15/Jun/1922",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i5643892",
+        "i89446044"
+      ]
+    },
+    {
+      "Id": "i58223940",
+      "Name": "Robert Dennis R Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "6/Sep/1928",
+      "DateOfDeath": "11/Feb/2009",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i5643892",
+        "i89446044"
+      ]
+    },
+    {
+      "Id": "i14711172",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "31/Jul/1931",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i5643892",
+        "i89446044"
+      ]
+    }
+  ]
+}

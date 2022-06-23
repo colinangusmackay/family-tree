@@ -1,0 +1,107 @@
+﻿{
+  "Subject": {
+    "Id": "i14002910",
+    "Name": "Margaret Tennant",
+    "Gender": "Female",
+    "DateOfBirth": "about 1858",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i14002910",
+      "Name": "Margaret Tennant",
+      "Gender": "Female",
+      "DateOfBirth": "about 1858",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i57117702",
+      "Name": "Joseph Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1852",
+      "DateOfDeath": "before 1920",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i49475976",
+      "Name": "John Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i57117702",
+        "i14002910"
+      ]
+    },
+    {
+      "Id": "i79236484",
+      "Name": "Elizabeth Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1888",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i57117702",
+        "i14002910"
+      ]
+    },
+    {
+      "Id": "i39306088",
+      "Name": "Lillias Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i57117702",
+        "i14002910"
+      ]
+    },
+    {
+      "Id": "i89747088",
+      "Name": "Joseph Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1893",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i57117702",
+        "i14002910"
+      ]
+    },
+    {
+      "Id": "i89446044",
+      "Name": "Christina Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "about 1896",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i57117702",
+        "i14002910"
+      ]
+    },
+    {
+      "Id": "i29204156",
+      "Name": "Agnes Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1899",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i57117702",
+        "i14002910"
+      ]
+    }
+  ]
+}

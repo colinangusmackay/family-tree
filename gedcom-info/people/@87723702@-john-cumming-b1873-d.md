@@ -31,7 +31,8 @@ about 1873 | Born | Born to [James Cumming](./@66384942@-james-cumming-b1836~184
 
 Date | Residence | Sources & Notes
 ---|---|---
-1921 | 16 Beethoven St. Roxbury, Boston, Massachusetts, USA | [2](#2)
+1911 | 119 Wrentham Street, Dorchester, Massachussets, USA | [2](#2)
+1921 | 16 Beethoven St. Roxbury, Boston, Massachusetts, USA | [3](#3)
 
 ## Notes
 
@@ -54,6 +55,13 @@ Date | Residence | Sources & Notes
   * (ISBN) 978-1-910205-49-5
 
 ### 2
+
+**1911 CUMMING, ALEXINA/BELLA & ROSS, ANNIE (Massachusetts, U.S., Arriving Passenger and Crew Lists, 1820-1963)**
+
+* [Full text and notes](../sources/@258384@-1911-cumming,-alexina-bella-&-ross,-annie-massachusetts,-u.s.,-arriving-passenger-and-crew-lists,-1….md)
+* Publication: Boston, Massachusetts. Passenger Lists of Vessels Arriving at Boston, Massachusetts, 1891-1943. Micropublication T843. RG085. 454 rolls. National Archives, Washington, D.C.
+
+### 3
 
 **1921 CUMMING DONALD, JESSIE, JESSIE & THOMASINA - Passenger and Crew Lists**
 
