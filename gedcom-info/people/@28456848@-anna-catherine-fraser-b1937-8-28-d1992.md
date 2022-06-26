@@ -54,7 +54,7 @@ Date | Item | Description | Sources | Notes
 
 * [Full text and notes](../sources/@37836240@-1966-fraser,-alexander-statutory-register-deaths-.md)
 * Date: 17/Feb/1966
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1966 D 047/9
 
@@ -64,7 +64,7 @@ Date | Item | Description | Sources | Notes
 
 * [Full text and notes](../sources/@1019660@-1971-fraser,-jane-statutory-registers-deaths-.md)
 * Date: 11/Nov/1971
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1971 D 047/33
 

@@ -10,7 +10,7 @@ Field | Detail
 Publication | 
 Originator / Author | 
 Date | 30/Dec/1909
-Responsible Agency | National Records Scotland
+Responsible Agency | National Records of Scotland
 Filed by Entry | 
 References | 1909 D 047/33
 

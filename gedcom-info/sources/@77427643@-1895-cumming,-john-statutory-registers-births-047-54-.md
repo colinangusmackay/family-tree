@@ -10,7 +10,7 @@ Field | Detail
 Publication | 
 Originator / Author | 
 Date | 11/Oct/1895
-Responsible Agency | National Records Scotland
+Responsible Agency | National Records of Scotland
 Filed by Entry | 
 References | 1895 B 047/54
 

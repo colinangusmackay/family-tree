@@ -10,7 +10,7 @@ Field | Detail
 Publication | 
 Originator / Author | 
 Date | 11/Jan/1923
-Responsible Agency | National Records Scotland
+Responsible Agency | National Records of Scotland
 Filed by Entry | 
 References | 1923 D 047/1
 

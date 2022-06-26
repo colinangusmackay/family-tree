@@ -151,11 +151,12 @@ References | 1901 C 669/2/34
 
 ## Source Referenced by
 
-* [Agnes Fleming](../people/@29204156@-agnes-fleming-b1899-d.md) (about 1899 - )
-* [Christina Fleming](../people/@89446044@-christina-fleming-b1896-d.md) (about 1896 - )
-* [Elizabeth Fleming](../people/@79236484@-elizabeth-fleming-b1888-d.md) (about 1888 - )
-* [John Fleming](../people/@49475976@-john-fleming-b1877-d.md) (about 1877 - )
-* [Joseph Fleming](../people/@57117702@-joseph-fleming-b1852-d1920.md) (about 1852 - before 1920)
-* [Joseph Fleming](../people/@89747088@-joseph-fleming-b1893-d.md) (about 1893 - )
-* [Lillias Fleming](../people/@39306088@-lillias-fleming-b1890-d.md) (about 1890 - )
-* [Margaret Tennant](../people/@14002910@-margaret-tennant-b1858-d.md) (about 1858 - )
+* [Agnes Fleming](../people/@29204156@-agnes-fleming-b1898-5-25-d.md) (25/May/1898 - )
+* [Christina Fleming](../people/@89446044@-christina-fleming-b1895-8-23-d.md) (23/Aug/1895 - )
+* [Elizabeth Fleming](../people/@79236484@-elizabeth-fleming-b1887-4-22-d.md) (22/Apr/1887 - )
+* [John Fleming](../people/@49475976@-john-fleming-b1877-3-11-d.md) (11/Mar/1877 - )
+* [Joseph Fleming](../people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md) (7/Oct/1851 - 30/Jan/1912)
+* [Joseph Fleming](../people/@89747088@-joseph-fleming-b1892-10-19-d.md) (19/Oct/1892 - )
+* [Lillias Fleming](../people/@39306088@-lillias-fleming-b1889-5-25-d.md) (25/May/1889 - )
+* [Margaret Tennant](../people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md) (19/Nov/1857 - 29/Jun/1924)
+* [Margaret Wood](../people/@50500805@-margaret-wood-b1827-d1871.md) (about 1827 - before 1871)

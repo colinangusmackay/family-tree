@@ -254,7 +254,7 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [14](#14)
 
 * [Full text and notes](../sources/@94309804@-1970-mackay,-lucy-statutory-register-deaths-.md)
 * Date: 15/May/1970
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1970 D 98/A 269
 
@@ -289,7 +289,7 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [14](#14)
 **1981 X, MARY ANN (Statutory Register Deaths 613/506)**
 
 * [Full text and notes](../sources/@55484888@-1981-mackay,-mary-ann-statutory-register-deaths-613-506-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1981 D 613/506
 

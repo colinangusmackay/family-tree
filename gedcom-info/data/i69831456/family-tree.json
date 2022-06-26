@@ -1,0 +1,209 @@
+﻿{
+  "Subject": {
+    "Id": "i69831456",
+    "Name": "Ellen Fleming",
+    "Gender": "Female",
+    "DateOfBirth": "6/Jul/1875",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i57117702",
+      "Name": "Joseph Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "7/Oct/1851",
+      "DateOfDeath": "30/Jan/1912",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i14002910",
+      "Name": "Margaret Tennant",
+      "Gender": "Female",
+      "DateOfBirth": "19/Nov/1857",
+      "DateOfDeath": "29/Jun/1924",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i69831456",
+      "Name": "Ellen Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "6/Jul/1875",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i49475976",
+      "Name": "John Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "11/Mar/1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i90221940",
+      "Name": "Margaret Wood Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "25/Mar/1879",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i79327488",
+      "Name": "Thomas Tennant Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "29/Aug/1881",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i85123390",
+      "Name": "Christina Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "26/Aug/1883",
+      "DateOfDeath": "10/Mar/1884",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i54628435",
+      "Name": "Mary Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "5/May/1885",
+      "DateOfDeath": "15/Aug/1886",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i79236484",
+      "Name": "Elizabeth Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "22/Apr/1887",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i39306088",
+      "Name": "Lillias Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "25/May/1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i89747088",
+      "Name": "Joseph Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "19/Oct/1892",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i89446044",
+      "Name": "Christina Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "23/Aug/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    },
+    {
+      "Id": "i29204156",
+      "Name": "Agnes Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "25/May/1898",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i14002910",
+          "i57117702"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i63376955",
+      "Name": "Robert Carlyle",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "31/Dec/1896",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i99996424",
+      "Name": "Mary Carlyle",
+      "Gender": "Male",
+      "DateOfBirth": "1907",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i63376955",
+        "i69831456"
+      ]
+    }
+  ]
+}

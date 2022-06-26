@@ -10,7 +10,7 @@ Field | Detail
 Publication | 
 Originator / Author | 
 Date | 
-Responsible Agency | National Records Scotland
+Responsible Agency | National Records of Scotland
 Filed by Entry | 
 References | 1981 D 613/506
 

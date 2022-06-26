@@ -27,7 +27,7 @@ Date | Item | Description | Sources | Notes
 **1865 CUMMING, WILLIAM (Statutory Registers - Births)**
 
 * [Full text and notes](../sources/@65409036@-1865-cumming,-william-statutory-registers-births-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1865 B 047/13
 

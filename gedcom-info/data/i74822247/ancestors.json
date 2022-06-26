@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i74822247",
+  "Name": "Charles A Mathews",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1899",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i7150388",
+      "Name": "George Mathews",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1863",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i63437677",
+      "Name": "Eliza Jane Wynn",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1864",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

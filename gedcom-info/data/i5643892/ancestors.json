@@ -7,20 +7,20 @@
   "DateOfDeath": "",
   "Parents": [
     {
-      "Id": "i63437677",
-      "Name": "Eliza Jane Wynn",
-      "Gender": "Female",
-      "Relationship": "mother",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Parents": []
-    },
-    {
       "Id": "i7150388",
       "Name": "George Mathews",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1863",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i63437677",
+      "Name": "Eliza Jane Wynn",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1864",
       "DateOfDeath": "",
       "Parents": []
     }

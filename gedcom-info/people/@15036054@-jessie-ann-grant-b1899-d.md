@@ -34,7 +34,7 @@ Date | Residence | Sources & Notes
 **1901 GRANT, HUGH & Family (Census 047/2/14 - Page 14 of 33)**
 
 * [Full text and notes](../sources/@46511104@-1901-grant,-hugh-&-family-census-047-2-14-page-14-of-33-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1901 C 047/2/14
 
@@ -43,7 +43,7 @@ Date | Residence | Sources & Notes
 **1911 GRANT, HUGH & Family (Census 047/3/8)**
 
 * [Full text and notes](../sources/@72011177@-1911-grant,-hugh-&-family-census-047-3-8-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1911 C 047/3/8
 

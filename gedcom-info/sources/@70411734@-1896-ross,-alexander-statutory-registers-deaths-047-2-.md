@@ -10,7 +10,7 @@ Field | Detail
 Publication | 
 Originator / Author | 
 Date | 21/Jan/1896
-Responsible Agency | National Records Scotland
+Responsible Agency | National Records of Scotland
 Filed by Entry | 
 References | 1896 D 047/2
 

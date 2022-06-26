@@ -129,6 +129,8 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@54224404@-1904-cumming,-christina-statutory-registers-births-047-55-.md)
 * Responsible Agency: National Records of Scotland
+* References: 
+  * 1904 B 047/55
 
 ### 7
 
@@ -187,7 +189,7 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@1894213@-1940-cumming,-donald-statutory-register-deaths-047-12-.md)
 * Date: 28/Feb/1928
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1940 D 047/12
 
@@ -223,7 +225,7 @@ Date | Occupation | Sources & Notes
 **1946 CUMMING, ANN (Statutory Registers Deaths 047/11)**
 
 * [Full text and notes](../sources/@34218473@-1946-cumming,-ann-statutory-registers-deaths-047-11-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1946 D 
 
@@ -250,6 +252,8 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@9522719@-1901-cumming,-donald-1901-census-047-2-18.md)
 * Responsible Agency: National Records of Scotland
+* References: 
+  * 1901 C 047/2/18
 
 ### 21
 

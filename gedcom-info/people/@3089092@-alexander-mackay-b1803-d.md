@@ -26,7 +26,7 @@ before 1803 | Born | Born. | [1](#1) |
 
 * [Full text and notes](../sources/@62343074@-1909-ross,-mary-ann-statutory-register-deaths-047-33-.md)
 * Date: 30/Dec/1909
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1909 D 047/33
 

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i79475420",
+    "Name": "Helen Collins",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i79475420",
+      "Name": "Helen Collins",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i12974870",
+      "Name": "Thomas Tennant",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i14002910",
+      "Name": "Margaret Tennant",
+      "Gender": "Female",
+      "DateOfBirth": "19/Nov/1857",
+      "DateOfDeath": "29/Jun/1924",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i12974870",
+        "i79475420"
+      ]
+    }
+  ]
+}

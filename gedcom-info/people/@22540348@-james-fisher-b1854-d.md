@@ -42,7 +42,7 @@ Date | Occupation | Sources & Notes
 **1880 FISHER, JAMES (Statutory Registers Marriages 685/5 528)**
 
 * [Full text and notes](../sources/@35889678@-1880-fisher,-james-statutory-registers-marriages-685-5-528-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1880 M 685/5 528
 
@@ -52,7 +52,7 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@23925058@-1881-fisher,-helen-currie-statutory-register-births-644-11-2359-.md)
 * Date: 19/Dec/1881
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 
 ### 3
 

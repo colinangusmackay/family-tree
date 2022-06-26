@@ -3,7 +3,26 @@
   "Name": "Margaret Tennant",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "about 1858",
-  "DateOfDeath": "",
-  "Parents": []
+  "DateOfBirth": "19/Nov/1857",
+  "DateOfDeath": "29/Jun/1924",
+  "Parents": [
+    {
+      "Id": "i79475420",
+      "Name": "Helen Collins",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i12974870",
+      "Name": "Thomas Tennant",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

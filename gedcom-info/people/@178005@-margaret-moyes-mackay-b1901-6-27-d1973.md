@@ -154,7 +154,7 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@94309804@-1970-mackay,-lucy-statutory-register-deaths-.md)
 * Date: 15/May/1970
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1970 D 98/A 269
 

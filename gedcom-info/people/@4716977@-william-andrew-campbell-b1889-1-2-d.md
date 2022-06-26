@@ -65,7 +65,7 @@ Date | Occupation | Sources & Notes
 **1918 CAMPBELL, WILLIAM ANDREW & MCTURK, GRACE (Statutory Registers Marriages 813/A 2)**
 
 * [Full text and notes](../sources/@61071920@-1918-campbell,-william-andrew-&-mcturk,-grace-statutory-registers-marriages-813-a-2-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1918 M 813/A 2
 
@@ -81,7 +81,7 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@14360212@-1920-campbell,-rachel-smith-statutory-registers-births-832-2-.md)
 * Date: 21/Jan/1920
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1920 B 832/2
 

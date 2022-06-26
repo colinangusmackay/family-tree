@@ -46,7 +46,7 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@78170305@-1859-grant,-huge-&-munro-janet-statutory-register-marriages-051-2-.md)
 * Date: 17/Feb/1859
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1859 M 051/2
 

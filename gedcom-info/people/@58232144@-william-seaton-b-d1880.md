@@ -31,7 +31,7 @@ Date | Occupation | Sources & Notes
 **1880 FISHER, JAMES (Statutory Registers Marriages 685/5 528)**
 
 * [Full text and notes](../sources/@35889678@-1880-fisher,-james-statutory-registers-marriages-685-5-528-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1880 M 685/5 528
 

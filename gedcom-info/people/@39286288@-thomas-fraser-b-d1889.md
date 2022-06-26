@@ -51,7 +51,7 @@ Date | Occupation | Sources & Notes
 **1864 FRASER, ANN (Statutory Register Births 047/46)**
 
 * [Full text and notes](../sources/@72927227@-1864-fraser,-ann-statutory-register-births-047-46-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1864 B 047/46
 

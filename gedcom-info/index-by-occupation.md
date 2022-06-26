@@ -17,6 +17,10 @@ permalink: /indexes/by-occupation
 
 * **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969), mentioned 2 times.
 
+## Apprentice Blacksmith
+
+* **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ).
+
 ## Assistant Librarian
 
 * **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015).
@@ -31,8 +35,12 @@ permalink: /indexes/by-occupation
 
 ## Blacksmith
 
-* **[Fleming, John](people/@49475976@-john-fleming-b1877-d.md)** (about 1877 - ).
-* **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1852-d1920.md)** (about 1852 - before 1920), mentioned 2 times.
+* **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ), mentioned 2 times.
+* **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912), mentioned 3 times.
+
+## Blacksmith Labourer
+
+* **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912).
 
 ## Boatswain
 
@@ -88,6 +96,10 @@ permalink: /indexes/by-occupation
 
 * **[Clark, James](people/@29410614@-james-clark-b-d.md)**.
 
+## Coal Miner
+
+* **[Tennant, Thomas](people/@12974870@-thomas-tennant-b-d.md)**.
+
 ## Coalminer
 
 * **[Reid, John](people/@95320597@-john-reid-b-d.md)**.
@@ -138,7 +150,8 @@ permalink: /indexes/by-occupation
 
 ## Domestic Servant
 
-* **[Fleming, Christina](people/@89446044@-christina-fleming-b1896-d.md)** (about 1896 - ).
+* **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - ).
+* **[Fleming, Ellen](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - ).
 * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971).
 * **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ).
 * **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
@@ -159,6 +172,10 @@ permalink: /indexes/by-occupation
 ## Draftsman, Electrical
 
 * **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976).
+
+## Drainer
+
+* **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
 
 ## Electrician
 
@@ -294,6 +311,10 @@ permalink: /indexes/by-occupation
 * **[Grant, Catherine](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ).
 * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971).
 
+## Jeweller Scratch Crusher
+
+* **[Mathews, Georgina E](people/@84093657@-georgina-e-mathews-b1886-d.md)** (about 1886 - ).
+
 ## Joiner
 
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
@@ -307,13 +328,21 @@ permalink: /indexes/by-occupation
 
 * **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - ).
 
+## Labourer
+
+* **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
+
+## Labourer at Colliary
+
+* **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912).
+
 ## Ladies Outfitters Shop Assistant
 
 * **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015).
 
 ## Lapidary
 
-* **[Mathews, George](people/@7150388@-george-mathews-b-d.md)**.
+* **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - ), mentioned 2 times.
 * **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ).
 
 ## Librarian
@@ -339,6 +368,10 @@ permalink: /indexes/by-occupation
 ## Mason
 
 * **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ), mentioned 2 times.
+
+## Mason's Labourer
+
+* **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
 
 ## Merchant
 

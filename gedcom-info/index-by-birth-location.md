@@ -14,8 +14,10 @@ permalink: /indexes/by-birth-location
 - **[Abernethy, Janet](people/@82771990@-janet-abernethy-b-d.md)**
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
 - **[Campbell, William](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918)
+- **[Carlyle, Robert](people/@63376955@-robert-carlyle-b-d.md)**
 - **[Chisholm, Anne](people/@48064613@-anne-chisholm-b-d1877.md)** ( - before 1877)
 - **[Clark, James](people/@29410614@-james-clark-b-d.md)**
+- **[Collins, Helen](people/@79475420@-helen-collins-b-d.md)**
 - **[Cumming, Alexander](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
 - **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
 - **[Cumming, Alexander](people/@7306221@-alexander-cumming-b1865-d.md)** (about 1865 - )
@@ -39,6 +41,7 @@ permalink: /indexes/by-birth-location
 - **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - )
 - **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
 - **[Fisher, John](people/@81248806@-john-fisher-b-d1880.md)** ( - after 1880)
+- **[Fleming, James](people/@45874990@-james-fleming-b1854-d.md)** (about 1854 - )
 - **[Fraser, Christina](people/@45275253@-christina-fraser-b1803-d.md)** (before 1803 - )
 - **[Fraser, Peter](people/@16594334@-peter-fraser-b-d.md)**
 - **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889)
@@ -138,7 +141,6 @@ permalink: /indexes/by-birth-location
 - **[Martensen, Charles Raymond](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
 - **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
 - **[Matheson, Hector](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896)
-- **[Mathews, George](people/@7150388@-george-mathews-b-d.md)**
 - **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 - **[Mathews, John Albert](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 - **[Mathews, Joseph](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - )
@@ -205,14 +207,15 @@ permalink: /indexes/by-birth-location
 - **[Stead, Albert](people/@82189144@-albert-stead-b1934-d1938-8-22.md)** (about 1934 - 22/Aug/1938)
 - **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
 - **[Stead, Lawrence](people/@18256653@-lawrence-stead-b1933-11-29-d1989-3.md)** (29/Nov/1933 - Mar/1989)
+- **[Steedman, Ricky](people/@65047040@-ricky-steedman-b-d2022-6-23.md)** ( - 23/Jun/2022)
 - **[Stevens, Thomas](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 - **[Sutherland, Isabella](people/@80519670@-isabella-sutherland-b1810-d.md)** (before 1810 - )
 - **[Sutherland, Isabella](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884)
 - **[Sutherland, William](people/@72992640@-william-sutherland-b-d1856.md)** ( - after 1856)
 - **[Taylor, Helen](people/@47549486@-helen-taylor-b-d1880.md)** ( - before 1880)
+- **[Tennant, Thomas](people/@12974870@-thomas-tennant-b-d.md)**
 - **[Thomson, Agnes](people/@96590245@-agnes-thomson-b1897-d.md)** (before 1897 - )
 - **[Wilson, Elizabeth](people/@71295041@-elizabeth-wilson-b-d.md)**
-- **[Wynn, Eliza Jane](people/@63437677@-eliza-jane-wynn-b-d.md)**
 - **[Younger, Mary](people/@25511104@-mary-younger-b-d.md)**
 
 
@@ -229,7 +232,17 @@ permalink: /indexes/by-birth-location
 
 ### Birmingham
 
+- **[Mathews, Alfred G](people/@71188720@-alfred-g-mathews-b1892-d.md)** (about 1892 - )
+- **[Mathews, Charles A](people/@74822247@-charles-a-mathews-b1899-d.md)** (about 1899 - )
+- **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
+- **[Mathews, Georgina E](people/@84093657@-georgina-e-mathews-b1886-d.md)** (about 1886 - )
 - **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
+
+### Borough of Wolverhampton
+
+#### Wolverhampton
+
+- **[Wynn, Eliza Jane](people/@63437677@-eliza-jane-wynn-b1864-d.md)** (about 1864 - )
 
 ### Dewsbury
 
@@ -250,6 +263,14 @@ permalink: /indexes/by-birth-location
 - **[Stead, George](people/@77215226@-george-stead-b1911-3-d.md)** (Mar/1911 - )
 - **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - )
 - **[Stead, Laura](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
+
+
+## Ireland
+
+#### Ireland
+
+- **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - )
+- **[Wood, Margaret](people/@50500805@-margaret-wood-b1827-d1871.md)** (about 1827 - before 1871)
 
 
 ## Scotland
@@ -324,8 +345,15 @@ permalink: /indexes/by-birth-location
 
 #### Carnwath
 
-- **[Fleming, John](people/@49475976@-john-fleming-b1877-d.md)** (about 1877 - )
-- **[Tennant, Margaret](people/@14002910@-margaret-tennant-b1858-d.md)** (about 1858 - )
+- **[Fleming, Christina](people/@85123390@-christina-fleming-b1883-8-26-d1884-3-10.md)** (26/Aug/1883 - 10/Mar/1884)
+- **[Tennant, Margaret](people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md)** (19/Nov/1857 - 29/Jun/1924)
+
+#### Forth
+
+- **[Fleming, Ellen](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - )
+- **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - )
+- **[Fleming, Margaret Wood](people/@90221940@-margaret-wood-fleming-b1879-3-25-d.md)** (25/Mar/1879 - )
+- **[Fleming, Thomas Tennant](people/@79327488@-thomas-tennant-fleming-b1881-8-29-d.md)** (29/Aug/1881 - )
 
 #### Wishaw
 
@@ -374,7 +402,10 @@ permalink: /indexes/by-birth-location
 
 #### Carluke
 
-- **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1852-d1920.md)** (about 1852 - before 1920)
+- **[Fleming, John](people/@18678270@-john-fleming-b1856-d.md)** (about 1856 - )
+- **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912)
+- **[Fleming, Samuel](people/@19337566@-samuel-fleming-b1860-d.md)** (about 1860 - )
+- **[Fleming, William](people/@78368531@-william-fleming-b1858-d.md)** (about 1858 - )
 
 ### Sutherland
 
@@ -435,13 +466,19 @@ permalink: /indexes/by-birth-location
 
 ### West Lothian
 
+#### Blackburn
+
+- **[Fleming, Agnes](people/@29204156@-agnes-fleming-b1898-5-25-d.md)** (25/May/1898 - )
+- **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - )
+- **[Fleming, Elizabeth](people/@79236484@-elizabeth-fleming-b1887-4-22-d.md)** (22/Apr/1887 - )
+- **[Fleming, Joseph](people/@89747088@-joseph-fleming-b1892-10-19-d.md)** (19/Oct/1892 - )
+- **[Fleming, Lillias](people/@39306088@-lillias-fleming-b1889-5-25-d.md)** (25/May/1889 - )
+- **[Fleming, Mary](people/@54628435@-mary-fleming-b1885-5-5-d1886-8-15.md)** (5/May/1885 - 15/Aug/1886)
+
 #### Livingston
 
-- **[Fleming, Agnes](people/@29204156@-agnes-fleming-b1899-d.md)** (about 1899 - )
-- **[Fleming, Christina](people/@89446044@-christina-fleming-b1896-d.md)** (about 1896 - )
-- **[Fleming, Elizabeth](people/@79236484@-elizabeth-fleming-b1888-d.md)** (about 1888 - )
-- **[Fleming, Joseph](people/@89747088@-joseph-fleming-b1893-d.md)** (about 1893 - )
-- **[Fleming, Lillias](people/@39306088@-lillias-fleming-b1890-d.md)** (about 1890 - )
+- **[Carlyle, Mary](people/@99996424@-mary-carlyle-b1907-d.md)** (1907 - )
+- **[Rennie, Agnes](people/@57426108@-agnes-rennie-b1878-d.md)** (1878 - )
 
 
 ## United States

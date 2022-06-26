@@ -10,7 +10,7 @@ Field | Detail
 Publication | 
 Originator / Author | 
 Date | 
-Responsible Agency | National records of Scotland
+Responsible Agency | National Records of Scotland
 Filed by Entry | 
 References | 1889 B 047/70
 

@@ -1,0 +1,101 @@
+﻿{
+  "Subject": {
+    "Id": "i45874990",
+    "Name": "James Fleming",
+    "Gender": "Male",
+    "DateOfBirth": "about 1854",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i39983533",
+      "Name": "John Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1827",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i50500805",
+      "Name": "Margaret Wood",
+      "Gender": "Female",
+      "DateOfBirth": "about 1827",
+      "DateOfDeath": "before 1871",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i57117702",
+      "Name": "Joseph Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "7/Oct/1851",
+      "DateOfDeath": "30/Jan/1912",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i39983533",
+          "i50500805"
+        ]
+      ]
+    },
+    {
+      "Id": "i45874990",
+      "Name": "James Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1854",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i39983533",
+          "i50500805"
+        ]
+      ]
+    },
+    {
+      "Id": "i18678270",
+      "Name": "John Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i39983533",
+          "i50500805"
+        ]
+      ]
+    },
+    {
+      "Id": "i78368531",
+      "Name": "William Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1858",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i39983533",
+          "i50500805"
+        ]
+      ]
+    },
+    {
+      "Id": "i19337566",
+      "Name": "Samuel Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1860",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i39983533",
+          "i50500805"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

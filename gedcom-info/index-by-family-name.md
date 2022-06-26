@@ -33,6 +33,11 @@ permalink: /indexes/by-family-name
 - **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - )
 - **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918)
 
+## Carlyle
+
+- **[Mary Carlyle](people/@99996424@-mary-carlyle-b1907-d.md)** (1907 - )
+- **[Robert Carlyle](people/@63376955@-robert-carlyle-b-d.md)**
+
 ## Chisholm
 
 - **[Anne Chisholm](people/@48064613@-anne-chisholm-b-d1877.md)** ( - before 1877)
@@ -41,6 +46,10 @@ permalink: /indexes/by-family-name
 
 - **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
 - **[James Clark](people/@29410614@-james-clark-b-d.md)**
+
+## Collins
+
+- **[Helen Collins](people/@79475420@-helen-collins-b-d.md)**
 
 ## Cumming
 
@@ -112,13 +121,23 @@ permalink: /indexes/by-family-name
 
 ## Fleming
 
-- **[Agnes Fleming](people/@29204156@-agnes-fleming-b1899-d.md)** (about 1899 - )
-- **[Christina Fleming](people/@89446044@-christina-fleming-b1896-d.md)** (about 1896 - )
-- **[Elizabeth Fleming](people/@79236484@-elizabeth-fleming-b1888-d.md)** (about 1888 - )
-- **[John Fleming](people/@49475976@-john-fleming-b1877-d.md)** (about 1877 - )
-- **[Joseph Fleming](people/@57117702@-joseph-fleming-b1852-d1920.md)** (about 1852 - before 1920)
-- **[Joseph Fleming](people/@89747088@-joseph-fleming-b1893-d.md)** (about 1893 - )
-- **[Lillias Fleming](people/@39306088@-lillias-fleming-b1890-d.md)** (about 1890 - )
+- **[Agnes Fleming](people/@29204156@-agnes-fleming-b1898-5-25-d.md)** (25/May/1898 - )
+- **[Christina Fleming](people/@85123390@-christina-fleming-b1883-8-26-d1884-3-10.md)** (26/Aug/1883 - 10/Mar/1884)
+- **[Christina Fleming](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - )
+- **[Elizabeth Fleming](people/@79236484@-elizabeth-fleming-b1887-4-22-d.md)** (22/Apr/1887 - )
+- **[Ellen Fleming](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - )
+- **[James Fleming](people/@45874990@-james-fleming-b1854-d.md)** (about 1854 - )
+- **[John Fleming](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - )
+- **[John Fleming](people/@18678270@-john-fleming-b1856-d.md)** (about 1856 - )
+- **[John Fleming](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - )
+- **[Joseph Fleming](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912)
+- **[Joseph Fleming](people/@89747088@-joseph-fleming-b1892-10-19-d.md)** (19/Oct/1892 - )
+- **[Lillias Fleming](people/@39306088@-lillias-fleming-b1889-5-25-d.md)** (25/May/1889 - )
+- **[Margaret Wood Fleming](people/@90221940@-margaret-wood-fleming-b1879-3-25-d.md)** (25/Mar/1879 - )
+- **[Mary Fleming](people/@54628435@-mary-fleming-b1885-5-5-d1886-8-15.md)** (5/May/1885 - 15/Aug/1886)
+- **[Samuel Fleming](people/@19337566@-samuel-fleming-b1860-d.md)** (about 1860 - )
+- **[Thomas Tennant Fleming](people/@79327488@-thomas-tennant-fleming-b1881-8-29-d.md)** (29/Aug/1881 - )
+- **[William Fleming](people/@78368531@-william-fleming-b1858-d.md)** (about 1858 - )
 
 ## Fraser
 
@@ -321,7 +340,10 @@ permalink: /indexes/by-family-name
 
 ## Mathews
 
-- **[George Mathews](people/@7150388@-george-mathews-b-d.md)**
+- **[Alfred G Mathews](people/@71188720@-alfred-g-mathews-b1892-d.md)** (about 1892 - )
+- **[Charles A Mathews](people/@74822247@-charles-a-mathews-b1899-d.md)** (about 1899 - )
+- **[George Mathews](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
+- **[Georgina E Mathews](people/@84093657@-georgina-e-mathews-b1886-d.md)** (about 1886 - )
 - **[John Albert Mathews](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 - **[John Albert Mathews](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 - **[Joseph Mathews](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - )
@@ -440,6 +462,10 @@ permalink: /indexes/by-family-name
 - **[John Reid](people/@95320597@-john-reid-b-d.md)**
 - **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974)
 
+## Rennie
+
+- **[Agnes Rennie](people/@57426108@-agnes-rennie-b1878-d.md)** (1878 - )
+
 ## Roberts
 
 - **[Frederick Roberts](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
@@ -499,6 +525,10 @@ permalink: /indexes/by-family-name
 - **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
 - **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
 
+## Steedman
+
+- **[Ricky Steedman](people/@65047040@-ricky-steedman-b-d2022-6-23.md)** ( - 23/Jun/2022)
+
 ## Stevens
 
 - **[Thomas Stevens](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
@@ -515,7 +545,8 @@ permalink: /indexes/by-family-name
 
 ## Tennant
 
-- **[Margaret Tennant](people/@14002910@-margaret-tennant-b1858-d.md)** (about 1858 - )
+- **[Margaret Tennant](people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md)** (19/Nov/1857 - 29/Jun/1924)
+- **[Thomas Tennant](people/@12974870@-thomas-tennant-b-d.md)**
 
 ## Thomson
 
@@ -525,9 +556,13 @@ permalink: /indexes/by-family-name
 
 - **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)**
 
+## Wood
+
+- **[Margaret Wood](people/@50500805@-margaret-wood-b1827-d1871.md)** (about 1827 - before 1871)
+
 ## Wynn
 
-- **[Eliza Jane Wynn](people/@63437677@-eliza-jane-wynn-b-d.md)**
+- **[Eliza Jane Wynn](people/@63437677@-eliza-jane-wynn-b1864-d.md)** (about 1864 - )
 
 ## Younger
 

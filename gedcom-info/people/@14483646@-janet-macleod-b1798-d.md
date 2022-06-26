@@ -31,7 +31,7 @@ before 1798 | Born | Born. | [1](#1) | [2](#2)
 
 * [Full text and notes](../sources/@70411734@-1896-ross,-alexander-statutory-registers-deaths-047-2-.md)
 * Date: 21/Jan/1896
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1896 D 047/2
 

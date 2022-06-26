@@ -12,7 +12,7 @@ Originator / Author |
 Date | 
 Responsible Agency | National Records of Scotland
 Filed by Entry | 
-References | D1932-047/3
+References | 1932 D 047/3
 
 ## Text
 

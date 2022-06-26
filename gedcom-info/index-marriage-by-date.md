@@ -57,6 +57,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **21/Oct/1873** : **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ) and **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - ).
 * **1874**
   * **2/Oct/1874** : **[Alexander McTurk](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ) and **[Margaret Beatie](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - ) at Kirkpatrick-Fleming, Dumfriesshire, Scotland.
+* **1875**
+  * **4/Jun/1875** : **[Joseph Fleming](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912) and **[Margaret Tennant](people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md)** (19/Nov/1857 - 29/Jun/1924) at Forth, Lanarkshire, Scotland.
 * **1876**
   * **17/Oct/1876** : **[Adam Cumming](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926) and **[Ann Mackay](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940) at Dornoch, Sutherland, Scotland.
   * **7/Nov/1876** : **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ) and **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - ) at Dornoch, Sutherland, Scotland.
@@ -95,6 +97,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **19/Feb/1895** : **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - ) and **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - ) at Dornoch, Sutherland, Scotland.
 * **1896**
   * **4/Feb/1896** : **[Donald Ross](people/@16842942@-donald-ross-b-d.md)** and **[Isabella Mackay](people/@89807594@-isabella-mackay-b-d.md)** at Dornoch, Sutherland, Scotland.
+  * **31/Dec/1896** : **[Robert Carlyle](people/@63376955@-robert-carlyle-b-d.md)** and **[Ellen Fleming](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - ) at Blackburn, West Lothian, Scotland.
 * **1897**
   * **before 1897** : X and **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
   * **19/Jan/1897** : **[Thomas Fraser](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932) and **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934) at Dornoch, Sutherland, Scotland.
@@ -110,10 +113,12 @@ A list of marriages, civil partnerships and civil unions by date.
   * **2/Jan/1900** : **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ) and **[May Miller](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - ).
 * **1901**
   * **22/Jan/1901** : **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ).
+  * **31/Dec/1901** : **[John Fleming](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ) and **[Agnes Rennie](people/@57426108@-agnes-rennie-b1878-d.md)** (1878 - ) at Blackburn, West Lothian, Scotland.
 * **1903**
   * **27/Nov/1903** : **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939) and **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - ).
 * **1905**
   * **13/Jan/1905** : **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920) and **[Helen Currie Fisher](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - ) at Edinburgh, Scotland.
+  * **30/Jun/1905** : X and **[Margaret Wood Fleming](people/@90221940@-margaret-wood-fleming-b1879-3-25-d.md)** (25/Mar/1879 - ) at Blackburn, West Lothian, Scotland.
 * **1906**
   * **about 1906** : **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) and **[Nancy](people/@68661720@-nancy-b-d.md)**.
 * **1907**
@@ -125,6 +130,7 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1910**
   * **14/Jan/1910** : **[Andrew Gillie](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ) and **[Williamina Ross](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ) at Dornoch, Sutherland, Scotland.
+  * **15/Jul/1910** : X and **[Lillias Fleming](people/@39306088@-lillias-fleming-b1889-5-25-d.md)** (25/May/1889 - ) at Blackburn, West Lothian, Scotland.
 * **1911**
   * **28/Jul/1911** : **[Elizabeth Cumming](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ) and **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - ) at Boston, Massachusetts, United States of America.
 * **1912**
@@ -141,7 +147,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1920s
 
 * **1920**
-  * **15/Apr/1920** : **[John Albert Mathews](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ) and **[Christina Fleming](people/@89446044@-christina-fleming-b1896-d.md)** (about 1896 - ) at Glasgow, Scotland.
+  * **15/Apr/1920** : **[John Albert Mathews](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ) and **[Christina Fleming](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - ) at Glasgow, Scotland.
 * **1924**
   * **6/Aug/1924** : **[John Cumming](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ) and **[Carrie Elizabeth Predendall](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - ).
 * **1927**

@@ -31,7 +31,7 @@ before 1875 | Died | Died. | [1](#1) |
 
 * [Full text and notes](../sources/@33233488@-1875-cumming,-catherine-statutory-registers-deaths-047-45-.md)
 * Date: 29/Oct/1875
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1875 D 047/45
 

@@ -3,7 +3,7 @@
   "Name": "Joseph Fleming",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "about 1893",
+  "DateOfBirth": "19/Oct/1892",
   "DateOfDeath": "",
   "Parents": [
     {
@@ -11,18 +11,56 @@
       "Name": "Joseph Fleming",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "about 1852",
-      "DateOfDeath": "before 1920",
-      "Parents": []
+      "DateOfBirth": "7/Oct/1851",
+      "DateOfDeath": "30/Jan/1912",
+      "Parents": [
+        {
+          "Id": "i39983533",
+          "Name": "John Fleming",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1827",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i50500805",
+          "Name": "Margaret Wood",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "about 1827",
+          "DateOfDeath": "before 1871",
+          "Parents": []
+        }
+      ]
     },
     {
       "Id": "i14002910",
       "Name": "Margaret Tennant",
       "Gender": "Female",
       "Relationship": "mother",
-      "DateOfBirth": "about 1858",
-      "DateOfDeath": "",
-      "Parents": []
+      "DateOfBirth": "19/Nov/1857",
+      "DateOfDeath": "29/Jun/1924",
+      "Parents": [
+        {
+          "Id": "i79475420",
+          "Name": "Helen Collins",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i12974870",
+          "Name": "Thomas Tennant",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
     }
   ]
 }

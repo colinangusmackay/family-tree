@@ -43,7 +43,7 @@ Date | Residence | Sources & Notes
 **1856 CUMMING, ALEXANDER (Statutory Registers Marriages)**
 
 * [Full text and notes](../sources/@68937264@-1856-cumming,-alexander-statutory-registers-marriages-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1856 M 051/5
 
@@ -52,7 +52,7 @@ Date | Residence | Sources & Notes
 **1865 CUMMING, WILLIAM (Statutory Registers - Births)**
 
 * [Full text and notes](../sources/@65409036@-1865-cumming,-william-statutory-registers-births-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1865 B 047/13
 
@@ -62,7 +62,7 @@ Date | Residence | Sources & Notes
 
 * [Full text and notes](../sources/@82952138@-1884-cumming,-alexander-statutory-register-deaths-047-27-.md)
 * Date: 9/Jun/1884
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1884 D 047/27
 

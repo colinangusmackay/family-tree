@@ -51,7 +51,7 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@23925058@-1881-fisher,-helen-currie-statutory-register-births-644-11-2359-.md)
 * Date: 19/Dec/1881
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 
 ### 2
 

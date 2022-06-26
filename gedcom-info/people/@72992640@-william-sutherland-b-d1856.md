@@ -31,7 +31,7 @@ Date | Occupation | Sources & Notes
 **1856 CUMMING, ALEXANDER (Statutory Registers Marriages)**
 
 * [Full text and notes](../sources/@68937264@-1856-cumming,-alexander-statutory-registers-marriages-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1856 M 051/5
 

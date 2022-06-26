@@ -3,33 +3,88 @@
   "Name": "Margaret Tennant",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "about 1858",
-  "DateOfDeath": "",
+  "DateOfBirth": "19/Nov/1857",
+  "DateOfDeath": "29/Jun/1924",
   "Children": [
+    {
+      "Id": "i69831456",
+      "Name": "Ellen Fleming",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "6/Jul/1875",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i99996424",
+          "Name": "Mary Carlyle",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "1907",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    },
     {
       "Id": "i49475976",
       "Name": "John Fleming",
       "Gender": "Male",
       "Relationship": "son",
-      "DateOfBirth": "about 1877",
+      "DateOfBirth": "11/Mar/1877",
       "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i90221940",
+      "Name": "Margaret Wood Fleming",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "25/Mar/1879",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i79327488",
+      "Name": "Thomas Tennant Fleming",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "29/Aug/1881",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i85123390",
+      "Name": "Christina Fleming",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "26/Aug/1883",
+      "DateOfDeath": "10/Mar/1884",
+      "Children": []
+    },
+    {
+      "Id": "i54628435",
+      "Name": "Mary Fleming",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "5/May/1885",
+      "DateOfDeath": "15/Aug/1886",
       "Children": []
     },
     {
       "Id": "i79236484",
       "Name": "Elizabeth Fleming",
-      "Gender": "Male",
-      "Relationship": "son",
-      "DateOfBirth": "about 1888",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "22/Apr/1887",
       "DateOfDeath": "",
       "Children": []
     },
     {
       "Id": "i39306088",
       "Name": "Lillias Fleming",
-      "Gender": "Male",
-      "Relationship": "son",
-      "DateOfBirth": "about 1890",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "25/May/1889",
       "DateOfDeath": "",
       "Children": []
     },
@@ -38,7 +93,7 @@
       "Name": "Joseph Fleming",
       "Gender": "Male",
       "Relationship": "son",
-      "DateOfBirth": "about 1893",
+      "DateOfBirth": "19/Oct/1892",
       "DateOfDeath": "",
       "Children": []
     },
@@ -47,7 +102,7 @@
       "Name": "Christina Fleming",
       "Gender": "Female",
       "Relationship": "daughter",
-      "DateOfBirth": "about 1896",
+      "DateOfBirth": "23/Aug/1895",
       "DateOfDeath": "",
       "Children": [
         {
@@ -168,9 +223,9 @@
     {
       "Id": "i29204156",
       "Name": "Agnes Fleming",
-      "Gender": "Male",
-      "Relationship": "son",
-      "DateOfBirth": "about 1899",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "25/May/1898",
       "DateOfDeath": "",
       "Children": []
     }

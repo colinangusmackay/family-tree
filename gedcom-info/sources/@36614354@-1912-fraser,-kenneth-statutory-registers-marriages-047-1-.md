@@ -12,7 +12,7 @@ Originator / Author |
 Date | 16/Jan/1912
 Responsible Agency | National Records of Scotland
 Filed by Entry | 
-References | M1912-047/1
+References | 1912 M 047/1
 
 ## Text
 

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i45874990",
+  "Name": "James Fleming",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1854",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i39983533",
+      "Name": "John Fleming",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1827",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i50500805",
+      "Name": "Margaret Wood",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1827",
+      "DateOfDeath": "before 1871",
+      "Parents": []
+    }
+  ]
+}

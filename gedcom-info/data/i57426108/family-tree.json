@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i57426108",
+    "Name": "Agnes Rennie",
+    "Gender": "Female",
+    "DateOfBirth": "1878",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i57426108",
+      "Name": "Agnes Rennie",
+      "Gender": "Female",
+      "DateOfBirth": "1878",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i49475976",
+      "Name": "John Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "11/Mar/1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "31/Dec/1901",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

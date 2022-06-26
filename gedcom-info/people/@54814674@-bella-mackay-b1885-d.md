@@ -36,7 +36,7 @@ Date | Residence | Sources & Notes
 **1891 MACKAY, KENNETH & FAMILY (Census 047/2/13)**
 
 * [Full text and notes](../sources/@2993134@-1891-mackay,-kenneth-&-family-census-047-2-13-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1891 C 047/2/13
 
@@ -45,7 +45,7 @@ Date | Residence | Sources & Notes
 **1901 MACKAY, BARBARA & FAMILY (Census 047/2/15)**
 
 * [Full text and notes](../sources/@9213@-1901-mackay,-barbara-&-family-census-047-2-15-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1901 C 047/2/15
 

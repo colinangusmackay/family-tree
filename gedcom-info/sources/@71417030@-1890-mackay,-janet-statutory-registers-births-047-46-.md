@@ -12,7 +12,7 @@ Originator / Author |
 Date | 15/Nov/1890
 Responsible Agency | National Records of Scotland
 Filed by Entry | 
-References | 1890-B-047/46
+References | 1890 B 047/46
 
 ## Text
 

@@ -10,7 +10,7 @@ Field | Detail
 Publication | 
 Originator / Author | 
 Date | 2/May/1910
-Responsible Agency | National records of Scotland
+Responsible Agency | National Records of Scotland
 Filed by Entry | 
 References | 1910 B 047/19
 

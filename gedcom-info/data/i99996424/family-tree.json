@@ -1,0 +1,45 @@
+﻿{
+  "Subject": {
+    "Id": "i99996424",
+    "Name": "Mary Carlyle",
+    "Gender": "Male",
+    "DateOfBirth": "1907",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i63376955",
+      "Name": "Robert Carlyle",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i69831456",
+      "Name": "Ellen Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "6/Jul/1875",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i99996424",
+      "Name": "Mary Carlyle",
+      "Gender": "Male",
+      "DateOfBirth": "1907",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i63376955",
+          "i69831456"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

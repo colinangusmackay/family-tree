@@ -11,7 +11,7 @@
       "Id": "i7150388",
       "Name": "George Mathews",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1863",
       "DateOfDeath": "",
       "RelationToSubject": "father"
     },
@@ -19,12 +19,40 @@
       "Id": "i63437677",
       "Name": "Eliza Jane Wynn",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1864",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     }
   ],
   "Siblings": [
+    {
+      "Id": "i84093657",
+      "Name": "Georgina E Mathews",
+      "Gender": "Female",
+      "DateOfBirth": "about 1886",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i63437677",
+          "i7150388"
+        ]
+      ]
+    },
+    {
+      "Id": "i71188720",
+      "Name": "Alfred G Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "about 1892",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i63437677",
+          "i7150388"
+        ]
+      ]
+    },
     {
       "Id": "i5643892",
       "Name": "John Albert Mathews",
@@ -38,6 +66,20 @@
           "i7150388"
         ]
       ]
+    },
+    {
+      "Id": "i74822247",
+      "Name": "Charles A Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "about 1899",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i63437677",
+          "i7150388"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -45,7 +87,7 @@
       "Id": "i89446044",
       "Name": "Christina Fleming",
       "Gender": "Female",
-      "DateOfBirth": "about 1896",
+      "DateOfBirth": "23/Aug/1895",
       "DateOfDeath": "",
       "RelationToSubject": "wife",
       "DateOfMarriage": "15/Apr/1920",

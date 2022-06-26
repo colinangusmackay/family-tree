@@ -1,0 +1,35 @@
+﻿{
+  "Subject": {
+    "Id": "i65047040",
+    "Name": "Ricky Steedman",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "23/Jun/2022"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i65047040",
+      "Name": "Ricky Steedman",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "23/Jun/2022",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [],
+  "Children": [
+    {
+      "Id": "i80796234",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "1975",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i65047040"
+      ]
+    }
+  ]
+}

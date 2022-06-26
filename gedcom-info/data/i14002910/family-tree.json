@@ -3,19 +3,41 @@
     "Id": "i14002910",
     "Name": "Margaret Tennant",
     "Gender": "Female",
-    "DateOfBirth": "about 1858",
-    "DateOfDeath": ""
+    "DateOfBirth": "19/Nov/1857",
+    "DateOfDeath": "29/Jun/1924"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i12974870",
+      "Name": "Thomas Tennant",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i79475420",
+      "Name": "Helen Collins",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i14002910",
       "Name": "Margaret Tennant",
       "Gender": "Female",
-      "DateOfBirth": "about 1858",
-      "DateOfDeath": "",
+      "DateOfBirth": "19/Nov/1857",
+      "DateOfDeath": "29/Jun/1924",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i12974870",
+          "i79475420"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,21 +45,81 @@
       "Id": "i57117702",
       "Name": "Joseph Fleming",
       "Gender": "Male",
-      "DateOfBirth": "about 1852",
-      "DateOfDeath": "before 1920",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "DateOfBirth": "7/Oct/1851",
+      "DateOfDeath": "30/Jan/1912",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "4/Jun/1875",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
     {
+      "Id": "i69831456",
+      "Name": "Ellen Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "6/Jul/1875",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i57117702",
+        "i14002910"
+      ]
+    },
+    {
       "Id": "i49475976",
       "Name": "John Fleming",
       "Gender": "Male",
-      "DateOfBirth": "about 1877",
+      "DateOfBirth": "11/Mar/1877",
       "DateOfDeath": "",
       "RelationToSubject": "son",
+      "ParentIds": [
+        "i57117702",
+        "i14002910"
+      ]
+    },
+    {
+      "Id": "i90221940",
+      "Name": "Margaret Wood Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "25/Mar/1879",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i57117702",
+        "i14002910"
+      ]
+    },
+    {
+      "Id": "i79327488",
+      "Name": "Thomas Tennant Fleming",
+      "Gender": "Male",
+      "DateOfBirth": "29/Aug/1881",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i57117702",
+        "i14002910"
+      ]
+    },
+    {
+      "Id": "i85123390",
+      "Name": "Christina Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "26/Aug/1883",
+      "DateOfDeath": "10/Mar/1884",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i57117702",
+        "i14002910"
+      ]
+    },
+    {
+      "Id": "i54628435",
+      "Name": "Mary Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "5/May/1885",
+      "DateOfDeath": "15/Aug/1886",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i57117702",
         "i14002910"
@@ -46,10 +128,10 @@
     {
       "Id": "i79236484",
       "Name": "Elizabeth Fleming",
-      "Gender": "Male",
-      "DateOfBirth": "about 1888",
+      "Gender": "Female",
+      "DateOfBirth": "22/Apr/1887",
       "DateOfDeath": "",
-      "RelationToSubject": "son",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i57117702",
         "i14002910"
@@ -58,10 +140,10 @@
     {
       "Id": "i39306088",
       "Name": "Lillias Fleming",
-      "Gender": "Male",
-      "DateOfBirth": "about 1890",
+      "Gender": "Female",
+      "DateOfBirth": "25/May/1889",
       "DateOfDeath": "",
-      "RelationToSubject": "son",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i57117702",
         "i14002910"
@@ -71,7 +153,7 @@
       "Id": "i89747088",
       "Name": "Joseph Fleming",
       "Gender": "Male",
-      "DateOfBirth": "about 1893",
+      "DateOfBirth": "19/Oct/1892",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [
@@ -83,7 +165,7 @@
       "Id": "i89446044",
       "Name": "Christina Fleming",
       "Gender": "Female",
-      "DateOfBirth": "about 1896",
+      "DateOfBirth": "23/Aug/1895",
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
       "ParentIds": [
@@ -94,10 +176,10 @@
     {
       "Id": "i29204156",
       "Name": "Agnes Fleming",
-      "Gender": "Male",
-      "DateOfBirth": "about 1899",
+      "Gender": "Female",
+      "DateOfBirth": "25/May/1898",
       "DateOfDeath": "",
-      "RelationToSubject": "son",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i57117702",
         "i14002910"

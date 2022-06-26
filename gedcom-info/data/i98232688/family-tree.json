@@ -8,20 +8,20 @@
   },
   "Parents": [
     {
+      "Id": "i89446044",
+      "Name": "Christina Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "23/Aug/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
       "Id": "i5643892",
       "Name": "John Albert Mathews",
       "Gender": "Male",
       "DateOfBirth": "21/Nov/1895",
       "DateOfDeath": "",
       "RelationToSubject": "father"
-    },
-    {
-      "Id": "i89446044",
-      "Name": "Christina Fleming",
-      "Gender": "Female",
-      "DateOfBirth": "about 1896",
-      "DateOfDeath": "",
-      "RelationToSubject": "mother"
     }
   ],
   "Siblings": [

@@ -3,9 +3,27 @@
   "Name": "George Mathews",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1863",
   "DateOfDeath": "",
   "Children": [
+    {
+      "Id": "i84093657",
+      "Name": "Georgina E Mathews",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1886",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i71188720",
+      "Name": "Alfred G Mathews",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1892",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i5643892",
       "Name": "John Albert Mathews",
@@ -128,6 +146,15 @@
           "Children": []
         }
       ]
+    },
+    {
+      "Id": "i74822247",
+      "Name": "Charles A Mathews",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1899",
+      "DateOfDeath": "",
+      "Children": []
     }
   ]
 }

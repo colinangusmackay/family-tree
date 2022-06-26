@@ -29,7 +29,7 @@ Date | Occupation | Sources & Notes
 **1898 GRANT, HUGH (Statutory Registers Marriages 082/1)**
 
 * [Full text and notes](../sources/@20178986@-1898-grant,-hugh-statutory-registers-marriages-082-1-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1891 M 082/1
 

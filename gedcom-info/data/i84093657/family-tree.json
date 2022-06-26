@@ -1,0 +1,87 @@
+﻿{
+  "Subject": {
+    "Id": "i84093657",
+    "Name": "Georgina E Mathews",
+    "Gender": "Female",
+    "DateOfBirth": "about 1886",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i7150388",
+      "Name": "George Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "about 1863",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i63437677",
+      "Name": "Eliza Jane Wynn",
+      "Gender": "Female",
+      "DateOfBirth": "about 1864",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i84093657",
+      "Name": "Georgina E Mathews",
+      "Gender": "Female",
+      "DateOfBirth": "about 1886",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i63437677",
+          "i7150388"
+        ]
+      ]
+    },
+    {
+      "Id": "i71188720",
+      "Name": "Alfred G Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "about 1892",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i63437677",
+          "i7150388"
+        ]
+      ]
+    },
+    {
+      "Id": "i5643892",
+      "Name": "John Albert Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "21/Nov/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i63437677",
+          "i7150388"
+        ]
+      ]
+    },
+    {
+      "Id": "i74822247",
+      "Name": "Charles A Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "about 1899",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i63437677",
+          "i7150388"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

@@ -30,7 +30,7 @@ before 1877 | Died | Died. | [1](#1) |
 **1877 MACLEAN, MARY (Statutory Register Deaths 066/2 38)**
 
 * [Full text and notes](../sources/@42301818@-1877-maclean,-mary-statutory-register-deaths-066-2-38-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1877 D 066/2 38
 

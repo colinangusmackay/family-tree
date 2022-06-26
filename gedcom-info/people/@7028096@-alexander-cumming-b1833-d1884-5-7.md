@@ -72,7 +72,7 @@ Date | Occupation | Sources & Notes
 **1841 Dornoch Births Page 75/205 (OPR 047/2075)**
 
 * [Full text and notes](../sources/@48526604@-1841-dornoch-births-page-75-205-opr-047-2075-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1841 OPR-B 047/2075
 
@@ -82,7 +82,7 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@83474524@-1876-cumming,-adam-statutory-register-marriages-047-12-.md)
 * Date: 18/Oct/1876
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1876 M 047/12
 
@@ -132,7 +132,7 @@ Date | Occupation | Sources & Notes
 **1856 CUMMING, ALEXANDER (Statutory Registers Marriages)**
 
 * [Full text and notes](../sources/@68937264@-1856-cumming,-alexander-statutory-registers-marriages-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1856 M 051/5
 
@@ -141,7 +141,7 @@ Date | Occupation | Sources & Notes
 **1865 CUMMING, WILLIAM (Statutory Registers - Births)**
 
 * [Full text and notes](../sources/@65409036@-1865-cumming,-william-statutory-registers-births-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1865 B 047/13
 
@@ -151,7 +151,7 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@33233488@-1875-cumming,-catherine-statutory-registers-deaths-047-45-.md)
 * Date: 29/Oct/1875
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1875 D 047/45
 
@@ -160,7 +160,7 @@ Date | Occupation | Sources & Notes
 **1875 CUMMING, DONALD (Statutory Registers Deaths 047/42)**
 
 * [Full text and notes](../sources/@45089720@-1875-cumming,-donald-statutory-registers-deaths-047-42-.md)
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1875 D 047/42
 
@@ -170,7 +170,7 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@1949468@-1923-cumming,-james-statutory-registers-deaths-047-1-.md)
 * Date: 11/Jan/1923
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1923 D 047/1
 
@@ -180,7 +180,7 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@82952138@-1884-cumming,-alexander-statutory-register-deaths-047-27-.md)
 * Date: 9/Jun/1884
-* Responsible Agency: National Records Scotland
+* Responsible Agency: National Records of Scotland
 * References: 
   * 1884 D 047/27
 
