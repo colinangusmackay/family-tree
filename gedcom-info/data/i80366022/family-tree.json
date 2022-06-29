@@ -55,9 +55,9 @@
     },
     {
       "Id": "i24380064",
-      "Name": "Margaret McIver",
+      "Name": "Margaret McKenzie McIver",
       "Gender": "Female",
-      "DateOfBirth": "1918",
+      "DateOfBirth": "29/Sep/1917",
       "DateOfDeath": "12/Sep/2015",
       "RelationToSubject": "sister",
       "ParentGroupIds": [
@@ -83,7 +83,7 @@
     },
     {
       "Id": "i74287888",
-      "Name": "Tom Clephan McIver",
+      "Name": "Thomas Clephan McIver",
       "Gender": "Male",
       "DateOfBirth": "1924",
       "DateOfDeath": "2019",

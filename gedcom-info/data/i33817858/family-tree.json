@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i33817858",
+    "Name": "George Ramsay",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i33817858",
+      "Name": "George Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i33882736",
+      "Name": "Jane Grieve",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i63088441",
+      "Name": "John Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1852",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i33817858",
+        "i33882736"
+      ]
+    }
+  ]
+}

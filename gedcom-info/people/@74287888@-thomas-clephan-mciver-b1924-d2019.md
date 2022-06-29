@@ -4,8 +4,13 @@ subject_key: i74287888
 permalink: /people/i74287888
 ---
 
-# Tom Clephan McIver
+# Thomas Clephan McIver
 (1924 - 2019)
+
+## Names
+
+* Thomas Clephan McIver
+* Tom McIver (variation)
 
 ## Immediate Family
 
@@ -13,30 +18,38 @@ permalink: /people/i74287888
 * Father: [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) (17/Aug/1878 - 21/Feb/1938)
 * Mother: [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)
 * Brother: [Roderick McKenzie McIver](./@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md) (22/Oct/1910 - 1999)
-* Sister: [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015-9-12.md) (1918 - 12/Sep/2015)
+* Sister: [Margaret McKenzie McIver](./@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) (29/Sep/1917 - 12/Sep/2015)
 * Brother: [Hector Spence McIver](./@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) (12/Apr/1919 - 27/Jan/2008)
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-1924 | Born | Born to [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) and [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md). |  | 
-21/Feb/1938 | Death of father | [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) died in Edinburgh, Scotland. | [1](#1) | 
-5/Apr/1964 | Death of mother | [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) died in Edinburgh, Scotland. | [2](#2) | 
-1999 | Death of brother | [Roderick McKenzie McIver](./@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md) died. |  | 
+1924 | Born | Born to [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) and [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) in Glasgow, Scotland. | [1](#1) | 
+21/Feb/1938 | Death of father | [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) died in Edinburgh, Scotland. | [2](#2) | 
+5/Apr/1964 | Death of mother | [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) died in Edinburgh, Scotland. | [3](#3) | 
+1999 | Death of brother | [Roderick McKenzie McIver](./@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md) died. | [4](#4) | 
 27/Jan/2008 | Death of brother | [Hector Spence McIver](./@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) died in Edinburgh, Scotland. |  | 
-12/Sep/2015 | Death of sister | [Margaret McIver](./@24380064@-margaret-mciver-b1918-d2015-9-12.md) died in Dundonald, Ayrshire, Scotland. | [3](#3) | 
-2019 | Died | Died. |  | 
+12/Sep/2015 | Death of sister | [Margaret McKenzie McIver](./@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) died in Dundonald, Ayrshire, Scotland. | [5](#5) | 
+2019 | Died | Died in Edinburgh, Scotland. | [6](#6) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1945 | 50 Hillview Crescent, Edinburgh, Scotland | [4](#4)
+1945 | 50 Hillview Crescent, Edinburgh, Scotland | [7](#7)
 
 ## Footnotes
 
 ### 1
+
+**1924 MCIVER, THOMAS CLEPHAN (Statutory Register Births Index 644/13 507)**
+
+* [Full text and notes](../sources/@3675766@-1924-mciver,-thomas-clephan-statutory-register-births-index-644-13-507-.md)
+* References: 
+  * 1924 B 644/13 507
+
+### 2
 
 **1938 MCIVER, HECTOR (Statutory register Deaths 685/2 145)**
 
@@ -45,7 +58,7 @@ Date | Residence | Sources & Notes
 * References: 
   * 1938 D 685/2 145
 
-### 2
+### 3
 
 **1964 MCIVER, MARGARET PATERS (Statutory Register Deaths 685/3 153)**
 
@@ -55,7 +68,16 @@ Date | Residence | Sources & Notes
 * References: 
   * 1964 D 685/3 153
 
-### 3
+### 4
+
+**1999 MCIVER, RODERICK MCKENZIE (Statutory Register Deaths Index 507/ 328)**
+
+* [Full text and notes](../sources/@52038382@-1999-mciver,-roderick-mckenzie-statutory-register-deaths-index-507-328-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1999 D 507/ 328
+
+### 5
 
 **2015 X, MARGARET MCKENZIE (The Herald - Death Notices and Obituaries)**
 
@@ -65,7 +87,16 @@ Date | Residence | Sources & Notes
 * References: 
   * (URL) https://www.heraldscotland.com/announcements/deaths/deaths/13777170.Margaret_Gibson/
 
-### 4
+### 6
+
+**2019 MCIVER, THOMAS CLEPHAN (Statutory Register Deaths Index 735/ 939)**
+
+* [Full text and notes](../sources/@15219197@-2019-mciver,-thomas-clephan-statutory-register-deaths-index-735-939-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 2019 D 735/ 939
+
+### 7
 
 **1945 RAMSAY, HELEN FISHER (Statutory Registers Marriages 685/4 313)**
 

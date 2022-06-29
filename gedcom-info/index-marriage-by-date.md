@@ -135,7 +135,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **28/Jul/1911** : **[Elizabeth Cumming](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ) and **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - ) at Boston, Massachusetts, United States of America.
 * **1912**
   * **16/Jan/1912** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) at Dornoch, Sutherland, Scotland.
-  * **7/Apr/1912** : **[Claude Hayes](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958) and **[Goldie Raymond](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018) at Horicon, Warren County, New York, United States.
+  * **7/Apr/1912** : **[Claude Hayes](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958) and **[Goldie Raymond](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018) at Horicon, Warren County, New York, United States of America.
 * **1916**
   * **22/Dec/1916** : **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ) and **[Margaret McRae](people/@57014804@-margaret-mcrae-b-d.md)** at Dingwall, Ross & Cromarty, Scotland.
 * **1918**
@@ -151,7 +151,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1924**
   * **6/Aug/1924** : **[John Cumming](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ) and **[Carrie Elizabeth Predendall](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - ).
 * **1927**
-  * **1927** : **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) at Lake George, Warren County, New York, United States.
+  * **1927** : **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) at Lake George, Warren County, New York, United States of America.
 * **1928**
   * **2/May/1928** : **[James Cumming](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975) and **[Williamina Gillie](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003) at Inverness, Scotland.
 * **1929**
@@ -161,7 +161,7 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1930**
   * **21/Mar/1930** : **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981) at Toronto, York, Ontario, Canada.
-  * **7/Jun/1930** : **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) and **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) at Royal Oak, Oakland County, Michigan, United States.
+  * **7/Jun/1930** : **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) and **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) at Royal Oak, Oakland County, Michigan, United States of America.
 * **1932**
   * **Jul/1932** : **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980) and **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993) at Dewsbury, England.
 * **1934**
@@ -170,13 +170,13 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1936**
   * **10/Nov/1936** : **[John Paul Mackay](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969) and **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ) at Embo, Sutherland, Scotland.
 * **1939**
-  * **1/Sep/1939** : **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) and **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015) at Edinburgh, Scotland.
+  * **1/Sep/1939** : **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) and **[Margaret McKenzie McIver](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015) at Edinburgh, Scotland.
   * **28/Dec/1939** : **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004) and **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004) at Glasgow, Scotland.
 
 ### 1940s
 
 * **1943**
-  * **10/Dec/1943** : **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977) at Fort Lauderdale, Broward County, Florida, United States.
+  * **10/Dec/1943** : **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977) at Fort Lauderdale, Broward County, Florida, United States of America.
 * **1945**
   * **6/Apr/1945** : **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) and **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) at Edinburgh, Scotland.
 * **1947**

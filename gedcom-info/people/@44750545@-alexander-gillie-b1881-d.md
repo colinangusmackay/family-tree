@@ -33,7 +33,7 @@ Date | Residence | Sources & Notes
 Date | Occupation | Sources & Notes
 ---|---|---
 1901 | Fish Salesman | [1](#1)
-1901 | Laborour | [1](#1)
+1901 | Labourer | [1](#1)
 
 ## Footnotes
 

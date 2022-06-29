@@ -24,7 +24,7 @@ permalink: /people/i21721539
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 30/Sep/1905 | Born | Born to [Frederick Roberts](./@36552681@-frederick-roberts-b1885-d.md) and [Mae Farnham](./@53003230@-mae-farnham-b1872-d.md) in Ilion, New York, United States of America. | [1](#1) | 
-1927 | Marriage | Married to [Mary](./@99819804@-mary-b1904-d1971-12-16.md) in Lake George, Warren County, New York, United States | [2](#2) | 
+1927 | Marriage | Married to [Mary](./@99819804@-mary-b1904-d1971-12-16.md) in Lake George, Warren County, New York, United States of America | [2](#2) | 
 about 1931 | Birth of daughter | X born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary](./@99819804@-mary-b1904-d1971-12-16.md). | [3](#3) | 
 8/Feb/1936 | Birth of son | X born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary](./@99819804@-mary-b1904-d1971-12-16.md) in Ilion, New York, United States of America. | [4](#4) | 
 about 1938 | Birth of daughter | X born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary](./@99819804@-mary-b1904-d1971-12-16.md). | [3](#3) | 
@@ -38,7 +38,7 @@ about 1944 | Birth of daughter | X born to [Malcolm DeWitt Roberts](./@21721539@
 
 Date | Residence | Sources & Notes
 ---|---|---
-1935 | German Flatts, Herkimer County, New York, United States | [10](#10)
+1935 | German Flatts, Herkimer County, New York, United States of America | [10](#10)
 1940 | 21 Philip St, Ilion, New York, United States of America | [10](#10), [5](#5)
 1950 | 1239 Post Road, Fairfield, Connecticut, United States of America | [3](#3)
 1958 | 62 Cove Ave, East Norwalk, Connecticut, USA | [11](#11)

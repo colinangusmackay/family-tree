@@ -20,7 +20,7 @@ permalink: /people/i39983533
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1827 | Born | Born in Ireland, . | [1](#1) | 
+about 1827 | Born | Born in Ireland, Ireland. | [1](#1) | 
 
 ## Known Residences
 

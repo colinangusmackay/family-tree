@@ -3,12 +3,12 @@
   "Name": "Ann Morgan",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1845",
   "DateOfDeath": "",
   "Parents": [
     {
       "Id": "i38398015",
-      "Name": "X",
+      "Name": "John Morgan",
       "Gender": "Male",
       "Relationship": "father",
       "DateOfBirth": "",
@@ -17,7 +17,7 @@
     },
     {
       "Id": "i96321158",
-      "Name": "X",
+      "Name": "Mary Robertson",
       "Gender": "Female",
       "Relationship": "mother",
       "DateOfBirth": "",

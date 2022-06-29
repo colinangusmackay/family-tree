@@ -34,4 +34,4 @@ References | 1978 D 572/94
 ## Source Referenced by
 
 * [Alastair McDonald Gibson](../people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) (19/Jan/1914 - 1978)
-* [Margaret McIver](../people/@24380064@-margaret-mciver-b1918-d2015-9-12.md) (1918 - 12/Sep/2015)
+* [Margaret McKenzie McIver](../people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) (29/Sep/1917 - 12/Sep/2015)

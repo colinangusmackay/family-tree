@@ -27,7 +27,7 @@ permalink: /indexes/by-occupation
 
 ## Baker (Journeyman)
 
-* **[Ramsay, John](people/@63088441@-john-ramsay-b-d.md)**.
+* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - ).
 
 ## Biscuit Factory Operative
 
@@ -98,11 +98,8 @@ permalink: /indexes/by-occupation
 
 ## Coal Miner
 
-* **[Tennant, Thomas](people/@12974870@-thomas-tennant-b-d.md)**.
-
-## Coalminer
-
 * **[Reid, John](people/@95320597@-john-reid-b-d.md)**.
+* **[Tennant, Thomas](people/@12974870@-thomas-tennant-b-d.md)**.
 
 ## Cook
 
@@ -165,13 +162,10 @@ permalink: /indexes/by-occupation
 
 * **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976).
 
-## Draftsman, Elecrical
-
-* **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018).
-
 ## Draftsman, Electrical
 
 * **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976).
+* **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018).
 
 ## Drainer
 
@@ -206,6 +200,10 @@ permalink: /indexes/by-occupation
 ## Fettler (Woollen)
 
 * **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980).
+
+## Fireman Steamer
+
+* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - ).
 
 ## Fish Salesman
 
@@ -324,13 +322,10 @@ permalink: /indexes/by-occupation
 * **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958).
 * **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ).
 
-## Laborour
-
-* **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - ).
-
 ## Labourer
 
 * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
+* **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - ).
 
 ## Labourer at Colliary
 
@@ -338,7 +333,7 @@ permalink: /indexes/by-occupation
 
 ## Ladies Outfitters Shop Assistant
 
-* **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015).
+* **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015).
 
 ## Lapidary
 
@@ -353,17 +348,14 @@ permalink: /indexes/by-occupation
 
 * **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - ).
 
-## Light Duty Cicle Factory Warehouse
+## Light Duty Cycle Factory Warehouse
 
 * **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ).
-
-## Machinest
-
-* **[Cumming, John](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ).
 
 ## Machinist
 
 * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965), mentioned 4 times.
+* **[Cumming, John](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ).
 
 ## Mason
 
@@ -422,6 +414,10 @@ permalink: /indexes/by-occupation
 * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
 * **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
 
+## Porter Railway
+
+* **[Morgan, Andrew](people/@23628312@-andrew-morgan-b1849-d.md)** (about 1849 - ).
+
 ## Practical Nursing
 
 * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
@@ -434,13 +430,13 @@ permalink: /indexes/by-occupation
 
 * **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - ).
 
-## Proprietor Childrens Nursery
+## Proprietor, Children's Nursery
 
 * **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016).
 
 ## Railway Driver
 
-* **[Ramsay, John](people/@63088441@-john-ramsay-b-d.md)**.
+* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - ).
 
 ## Railway Engine Driver
 
@@ -460,7 +456,7 @@ permalink: /indexes/by-occupation
 
 ## Rubber Worker
 
-* **[Morgan, Ann](people/@60684755@-ann-morgan-b-d.md)**.
+* **[Morgan, Ann](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - ).
 
 ## Saddler
 
@@ -519,6 +515,10 @@ permalink: /indexes/by-occupation
 
 * **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008).
 * **[McLean, John](people/@91397610@-john-mclean-b-d1877.md)** ( - after 1877).
+
+## Tailor (Master)
+
+* **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938).
 
 ## Tailor's Cutter
 

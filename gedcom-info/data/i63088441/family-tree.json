@@ -3,13 +3,13 @@
     "Id": "i63088441",
     "Name": "John Ramsay",
     "Gender": "Male",
-    "DateOfBirth": "",
+    "DateOfBirth": "about 1852",
     "DateOfDeath": ""
   },
   "Parents": [
     {
       "Id": "i33817858",
-      "Name": "X",
+      "Name": "George Ramsay",
       "Gender": "Male",
       "DateOfBirth": "",
       "DateOfDeath": "",
@@ -17,7 +17,7 @@
     },
     {
       "Id": "i33882736",
-      "Name": "X",
+      "Name": "Jane Grieve",
       "Gender": "Female",
       "DateOfBirth": "",
       "DateOfDeath": "",
@@ -29,7 +29,7 @@
       "Id": "i63088441",
       "Name": "John Ramsay",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1852",
       "DateOfDeath": "",
       "RelationToSubject": "self",
       "ParentGroupIds": [
@@ -45,7 +45,7 @@
       "Id": "i60684755",
       "Name": "Ann Morgan",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1845",
       "DateOfDeath": "",
       "RelationToSubject": "partner",
       "DateOfMarriage": "",
@@ -53,6 +53,42 @@
     }
   ],
   "Children": [
+    {
+      "Id": "i57916783",
+      "Name": "Agnes Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1873",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i63088441",
+        "i60684755"
+      ]
+    },
+    {
+      "Id": "i35547078",
+      "Name": "Cattie Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i63088441",
+        "i60684755"
+      ]
+    },
+    {
+      "Id": "i54722192",
+      "Name": "Isabella Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1878",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i63088441",
+        "i60684755"
+      ]
+    },
     {
       "Id": "i64225415",
       "Name": "John Ramsay",

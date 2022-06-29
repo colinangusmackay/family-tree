@@ -9,8 +9,8 @@
     {
       "Id": "i11866224",
       "Name": "X",
-      "Gender": "Male",
-      "Relationship": "son",
+      "Gender": "Female",
+      "Relationship": "daughter",
       "DateOfBirth": "",
       "DateOfDeath": "",
       "Children": []
@@ -22,7 +22,17 @@
       "Relationship": "son",
       "DateOfBirth": "",
       "DateOfDeath": "",
-      "Children": []
+      "Children": [
+        {
+          "Id": "i14676128",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
     }
   ]
 }

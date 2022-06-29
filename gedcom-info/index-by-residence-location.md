@@ -96,8 +96,8 @@ permalink: /indexes/by-residence-location
 - **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
 - **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
 - **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
-- **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015)
-- **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
+- **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
+- **[McIver, Thomas Clephan](people/@74287888@-thomas-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 - **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 - **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
@@ -109,6 +109,15 @@ permalink: /indexes/by-residence-location
 #### Stornoway
 
 - **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
+
+### Fife
+
+#### Burntisland
+
+- **[Morgan, Andrew](people/@23628312@-andrew-morgan-b1849-d.md)** (about 1849 - )
+- **[Morgan, Ann](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - )
+- **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - )
+- **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
 
 ### Glasgow
 
@@ -293,40 +302,6 @@ permalink: /indexes/by-residence-location
 - **[Rennie, Agnes](people/@57426108@-agnes-rennie-b1878-d.md)** (1878 - )
 
 
-## United States
-
-### Massachusetts
-
-#### Dorchester, Suffolk County
-
-- **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
-- **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918)
-- **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
-
-#### Lynn, Essex County
-
-- **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
-
-### Michigan
-
-#### Royal Oak, Oakland County
-
-- **[Grant, Catherine](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - )
-- **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
-- **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - )
-
-### New York
-
-#### German Flatts, Herkimer County
-
-- **[, Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
-- **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
-
-#### Horicon, Warren County
-
-- **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
-
-
 ## United States of America
 
 ### California
@@ -418,6 +393,12 @@ permalink: /indexes/by-residence-location
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
 
+#### Dorchester, Suffolk County
+
+- **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
+- **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918)
+- **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
+
 #### East Falmouth, Barstable County
 
 - **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
@@ -425,6 +406,10 @@ permalink: /indexes/by-residence-location
 #### Lowell, Middlesex
 
 - **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
+
+#### Lynn, Essex County
+
+- **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
 
 #### Newton Highlands, Middlesex
 
@@ -444,11 +429,28 @@ permalink: /indexes/by-residence-location
 - **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976)
 - **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
 
+### Michigan
+
+#### Royal Oak, Oakland County
+
+- **[Grant, Catherine](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - )
+- **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
+- **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - )
+
 ### New York
 
 #### Bolton Landing, Warren County
 
 - **[Mackay, Anna Jess](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
+
+#### German Flatts, Herkimer County
+
+- **[, Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+- **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
+
+#### Horicon, Warren County
+
+- **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
 
 #### Ilion
 

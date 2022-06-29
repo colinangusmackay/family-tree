@@ -40,7 +40,7 @@ Date | Residence | Sources & Notes
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1930 | Houseworker in Royal Oak, Oakland County, Michigan, United States | [2](#2)
+1930 | Houseworker in Royal Oak, Oakland County, Michigan, United States of America | [2](#2)
 1930 | Cook | [4](#4)
 
 ## Footnotes

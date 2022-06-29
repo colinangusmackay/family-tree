@@ -11,7 +11,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ) and **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) **about 1887**.
   * **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021) and X **on 7th of November 1970**.
-  * **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) and **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) **in 1927** at Lake George, Warren County, New York, United States.
+  * **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) and **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) **in 1927** at Lake George, Warren County, New York, United States of America.
   * **[Nancy](people/@68661720@-nancy-b-d.md)** and **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) **about 1906**.
 
 ## Beatie
@@ -45,7 +45,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Donald J Cumming](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946) **on 25th of October 1887** at Dornoch, Sutherland, Scotland.
   * **[Donald James Cumming](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976) and **[Phylis Martensen](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018) **in 1947** at , Norfolk County, Massachusetts, United States of America.
   * **[Elizabeth Cumming](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ) and **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - ) **on 28th of July 1911** at Boston, Massachusetts, United States of America.
-  * **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977) **on 10th of December 1943** at Fort Lauderdale, Broward County, Florida, United States.
+  * **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977) **on 10th of December 1943** at Fort Lauderdale, Broward County, Florida, United States of America.
   * **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986) and **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974) **on 12th of April 1929** at Brookline, Massachusetts, United States of America.
   * **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918) **on 21st of February 1860** at Dornoch, Sutherland, Scotland.
   * **[James Cumming](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918) and **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - ) **on 24th of December 1907** at Aberdeen, Aberdeen City, Scotland.
@@ -98,7 +98,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Gibson
 
-  * **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) and **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015) **on 1st of September 1939** at Edinburgh, Scotland.
+  * **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) and **[Margaret McKenzie McIver](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015) **on 1st of September 1939** at Edinburgh, Scotland.
   * **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939) and **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)** **on 16th of June 1897** at Golspie, Sutherland, Scotland.
 
 ## Gillie
@@ -111,7 +111,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Grant
 
   * **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - ) and **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ) **on 7th of November 1876** at Dornoch, Sutherland, Scotland.
-  * **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) and **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) **on 7th of June 1930** at Royal Oak, Oakland County, Michigan, United States.
+  * **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) and **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) **on 7th of June 1930** at Royal Oak, Oakland County, Michigan, United States of America.
   * **[Christy Grant](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - ) and **[Alexander Mackay](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ) **on 21st of November 1877** at Dornoch, Sutherland, Scotland.
   * **[Hugh Grant](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - ) and **[Jessie Munro](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ) **on 15th of February 1859** at Golspie, Sutherland, Scotland.
   * **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) and **[Ann Fraser](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891) **on 12th of November 1889** at Dornoch, Sutherland, Scotland.
@@ -121,11 +121,11 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Hatelie
 
-  * **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977) and **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) **on 10th of December 1943** at Fort Lauderdale, Broward County, Florida, United States.
+  * **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977) and **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) **on 10th of December 1943** at Fort Lauderdale, Broward County, Florida, United States of America.
 
 ## Hayes
 
-  * **[Claude Hayes](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958) and **[Goldie Raymond](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018) **on 7th of April 1912** at Horicon, Warren County, New York, United States.
+  * **[Claude Hayes](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958) and **[Goldie Raymond](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018) **on 7th of April 1912** at Horicon, Warren County, New York, United States of America.
   * **[Dan Hayes](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018) and X **on 14th of December 1968**.
 
 ## Henderson
@@ -211,7 +211,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938) and **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) **on 31st of December 1909** at Glasgow, Scotland.
   * **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) and **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) **on 6th of April 1945** at Edinburgh, Scotland.
-  * **[Margaret McIver](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015) and **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) **on 1st of September 1939** at Edinburgh, Scotland.
+  * **[Margaret McKenzie McIver](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015) and **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) **on 1st of September 1939** at Edinburgh, Scotland.
   * **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) and **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) **on 14th of February 1861** at Gairloch, Ross, Scotland.
 
 ## McKenzie
@@ -222,7 +222,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## McLean
 
   * **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) and **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) **on 14th of February 1861** at Gairloch, Ross, Scotland.
-  * **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) and **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) **on 7th of June 1930** at Royal Oak, Oakland County, Michigan, United States.
+  * **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) and **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) **on 7th of June 1930** at Royal Oak, Oakland County, Michigan, United States of America.
 
 ## McRae
 
@@ -274,7 +274,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Raymond
 
-  * **[Goldie Raymond](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018) and **[Claude Hayes](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958) **on 7th of April 1912** at Horicon, Warren County, New York, United States.
+  * **[Goldie Raymond](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018) and **[Claude Hayes](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958) **on 7th of April 1912** at Horicon, Warren County, New York, United States of America.
 
 ## Reid
 
@@ -287,7 +287,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Roberts
 
-  * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) **in 1927** at Lake George, Warren County, New York, United States.
+  * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) **in 1927** at Lake George, Warren County, New York, United States of America.
   * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and X **on 30th of September 1972** at Norwalk, Fairfield County, Connecticut, United States of America.
 
 ## Ross

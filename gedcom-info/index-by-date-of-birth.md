@@ -103,6 +103,8 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1844.**
   * **[Beatie, Margaret](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - )
   * **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - )
+* **Born in 1845.**
+  * **[Morgan, Ann](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - )
 * **Born in 1846.**
   * **[Mackay, David](people/@46263680@-david-mackay-b1846-d1860.md)** (1846 - 1860)
   * **[McLean, Christy](people/@62955988@-christy-mclean-b1846-d.md)** (about 1846 - )
@@ -111,6 +113,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Barbara](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - )
   * **[Mackay, Catherine](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - )
   * **[McLean, Mary](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - )
+  * **[Morgan, Andrew](people/@23628312@-andrew-morgan-b1849-d.md)** (about 1849 - )
 
 ### 1850s
 
@@ -122,6 +125,8 @@ permalink: /indexes/by-date-of-birth
   * **[Punton, Joan](people/@98605400@-joan-punton-b1850-d.md)** (before 1850 - )
 * **Born in 1851.**
   * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912)
+* **Born in 1852.**
+  * **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - )
 * **Born in 1854.**
   * **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
   * **[Fleming, James](people/@45874990@-james-fleming-b1854-d.md)** (about 1854 - )
@@ -193,6 +198,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Jane](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934)
 * **Born in 1873.**
   * **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
+  * **[Ramsay, Agnes](people/@57916783@-agnes-ramsay-b1873-d.md)** (about 1873 - )
 * **Born in 1875.**
   * **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
   * **[Fleming, Ellen](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - )
@@ -201,11 +207,13 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1877.**
   * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
   * **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - )
+  * **[Ramsay, Cattie](people/@35547078@-cattie-ramsay-b1877-d.md)** (about 1877 - )
   * **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - )
   * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
 * **Born in 1878.**
   * **[Cumming, Christy](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
   * **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - )
+  * **[Ramsay, Isabella](people/@54722192@-isabella-ramsay-b1878-d.md)** (about 1878 - )
   * **[Rennie, Agnes](people/@57426108@-agnes-rennie-b1878-d.md)** (1878 - )
   * **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
 * **Born in 1879.**
@@ -363,8 +371,9 @@ permalink: /indexes/by-date-of-birth
   * **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
 * **Born in 1916.**
   * **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
+* **Born in 1917.**
+  * **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
 * **Born in 1918.**
-  * **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015)
   * **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
   * **[Stevens, Thomas](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 * **Born in 1919.**
@@ -383,7 +392,7 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976)
   * **[Mathews, Joseph](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - )
 * **Born in 1924.**
-  * **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
+  * **[McIver, Thomas Clephan](people/@74287888@-thomas-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 * **Born in 1926.**
   * **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
 * **Born in 1928.**
@@ -453,6 +462,7 @@ permalink: /indexes/by-date-of-birth
 * [Jane Gordon](people/@19799810@-jane-gordon-b-d.md)
 * [Jessie Grant](people/@31091676@-jessie-grant-b-d.md)
 * [Belle Gregory](people/@91101318@-belle-gregory-b-d.md)
+* [Jane Grieve](people/@33882736@-jane-grieve-b-d.md)
 * [Ada Hayes](people/@80079834@-ada-hayes-b-d2018.md) ( - before 2018)
 * [Joseph Hayes](people/@49395288@-joseph-hayes-b-d.md)
 * [Lena Hayes](people/@80081989@-lena-hayes-b-d2018.md) ( - before 2018)
@@ -489,16 +499,17 @@ permalink: /indexes/by-date-of-birth
 * [Harvey McLean](people/@70471714@-harvey-mclean-b-d.md)
 * [John McLean](people/@91397610@-john-mclean-b-d1877.md) ( - after 1877)
 * [Margaret McRae](people/@57014804@-margaret-mcrae-b-d.md)
-* [Ann Morgan](people/@60684755@-ann-morgan-b-d.md)
+* [John Morgan](people/@38398015@-john-morgan-b-d.md)
 * [Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)
 * [John Morrison](people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
 * [Isabella Patterson](people/@24882788@-isabella-patterson-b-d.md)
 * [Barney Predendall](people/@69952770@-barney-predendall-b-d.md)
 * [Mary E Prey](people/@37901232@-mary-e-prey-b-d.md)
 * [Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md) ( - before 1910)
-* [John Ramsay](people/@63088441@-john-ramsay-b-d.md)
+* [George Ramsay](people/@33817858@-george-ramsay-b-d.md)
 * [Frank Raymond](people/@30488355@-frank-raymond-b-d.md)
 * [John Reid](people/@95320597@-john-reid-b-d.md)
+* [Mary Robertson](people/@96321158@-mary-robertson-b-d.md)
 * [Christy Ross](people/@37144832@-christy-ross-b-d.md)
 * [Donald Ross](people/@16842942@-donald-ross-b-d.md)
 * [Hugh Ross](people/@10594034@-hugh-ross-b-d1889.md) ( - before 1889)

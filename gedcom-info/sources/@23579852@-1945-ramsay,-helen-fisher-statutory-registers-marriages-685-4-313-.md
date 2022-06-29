@@ -74,7 +74,7 @@ References | 1945 M 685/4 313
 ## Source Referenced by
 
 * [Hector Spence McIver](../people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) (12/Apr/1919 - 27/Jan/2008)
-* [Tom Clephan McIver](../people/@74287888@-tom-clephan-mciver-b1924-d2019.md) (1924 - 2019)
+* [Thomas Clephan McIver](../people/@74287888@-thomas-clephan-mciver-b1924-d2019.md) (1924 - 2019)
 * [Helen Fisher Ramsay](../people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md) (28/Sep/1920 - 15/Oct/2015)
 * [Isabella Ramsay](../people/@80504300@-isabella-ramsay-b1916-d1974.md) (1916 - 1974)
 * [John Ramsay](../people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) (21/Feb/1880 - 20/Jun/1920)

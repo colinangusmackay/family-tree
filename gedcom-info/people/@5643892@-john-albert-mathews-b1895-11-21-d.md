@@ -38,7 +38,7 @@ Date | Residence | Sources & Notes
 Date | Occupation | Sources & Notes
 ---|---|---
 1920 | Lapidary | [2](#2), [4](#4)
-1939 | Light Duty Cicle Factory Warehouse | [3](#3)
+1939 | Light Duty Cycle Factory Warehouse | [3](#3)
 
 ## Footnotes
 

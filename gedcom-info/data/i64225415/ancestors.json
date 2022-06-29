@@ -11,12 +11,12 @@
       "Name": "Ann Morgan",
       "Gender": "Female",
       "Relationship": "mother",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1845",
       "DateOfDeath": "",
       "Parents": [
         {
           "Id": "i38398015",
-          "Name": "X",
+          "Name": "John Morgan",
           "Gender": "Male",
           "Relationship": "father",
           "DateOfBirth": "",
@@ -25,7 +25,7 @@
         },
         {
           "Id": "i96321158",
-          "Name": "X",
+          "Name": "Mary Robertson",
           "Gender": "Female",
           "Relationship": "mother",
           "DateOfBirth": "",
@@ -39,12 +39,12 @@
       "Name": "John Ramsay",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1852",
       "DateOfDeath": "",
       "Parents": [
         {
           "Id": "i33817858",
-          "Name": "X",
+          "Name": "George Ramsay",
           "Gender": "Male",
           "Relationship": "father",
           "DateOfBirth": "",
@@ -53,7 +53,7 @@
         },
         {
           "Id": "i33882736",
-          "Name": "X",
+          "Name": "Jane Grieve",
           "Gender": "Female",
           "Relationship": "mother",
           "DateOfBirth": "",

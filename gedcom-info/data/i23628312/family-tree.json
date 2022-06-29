@@ -1,0 +1,59 @@
+﻿{
+  "Subject": {
+    "Id": "i23628312",
+    "Name": "Andrew Morgan",
+    "Gender": "Male",
+    "DateOfBirth": "about 1849",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i38398015",
+      "Name": "John Morgan",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i96321158",
+      "Name": "Mary Robertson",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i60684755",
+      "Name": "Ann Morgan",
+      "Gender": "Female",
+      "DateOfBirth": "about 1845",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i38398015",
+          "i96321158"
+        ]
+      ]
+    },
+    {
+      "Id": "i23628312",
+      "Name": "Andrew Morgan",
+      "Gender": "Male",
+      "DateOfBirth": "about 1849",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i38398015",
+          "i96321158"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

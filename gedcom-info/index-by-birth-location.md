@@ -63,6 +63,7 @@ permalink: /indexes/by-birth-location
 - **[Grant, Jessie](people/@31091676@-jessie-grant-b-d.md)**
 - **[Grant, Margaret](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
 - **[Gregory, Belle](people/@91101318@-belle-gregory-b-d.md)**
+- **[Grieve, Jane](people/@33882736@-jane-grieve-b-d.md)**
 - **[Hayes, Ada](people/@80079834@-ada-hayes-b-d2018.md)** ( - before 2018)
 - **[Hayes, Joseph](people/@49395288@-joseph-hayes-b-d.md)**
 - **[Hayes, Lena](people/@80081989@-lena-hayes-b-d2018.md)** ( - before 2018)
@@ -145,11 +146,8 @@ permalink: /indexes/by-birth-location
 - **[Mathews, John Albert](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 - **[Mathews, Joseph](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - )
 - **[McIver, Elizabeth](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
-- **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
-- **[McIver, Margaret](people/@24380064@-margaret-mciver-b1918-d2015-9-12.md)** (1918 - 12/Sep/2015)
 - **[McIver, Rodrick](people/@53638178@-rodrick-mciver-b-d.md)**
 - **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
-- **[McIver, Tom Clephan](people/@74287888@-tom-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 - **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b-d.md)**
 - **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
 - **[McLean, Harvey](people/@70471714@-harvey-mclean-b-d.md)**
@@ -157,7 +155,7 @@ permalink: /indexes/by-birth-location
 - **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
 - **[McRae, Margaret](people/@57014804@-margaret-mcrae-b-d.md)**
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
-- **[Morgan, Ann](people/@60684755@-ann-morgan-b-d.md)**
+- **[Morgan, John](people/@38398015@-john-morgan-b-d.md)**
 - **[Morrison, Jamesina](people/@11801376@-jamesina-morrison-b-d.md)**
 - **[Morrison, John](people/@39757210@-john-morrison-b-d1877.md)** ( - before 1877)
 - **[Morrison, Mary](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
@@ -176,13 +174,13 @@ permalink: /indexes/by-birth-location
 - **[Ramsay, Alan](people/@62219744@-alan-ramsay-b1911-d1932.md)** (1911 - 1932)
 - **[Ramsay, Bruce](people/@49046148@-bruce-ramsay-b1914-d1965-11-29.md)** (1914 - 29/Nov/1965)
 - **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
+- **[Ramsay, George](people/@33817858@-george-ramsay-b-d.md)**
 - **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
 - **[Ramsay, Jack](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
-- **[Ramsay, John](people/@63088441@-john-ramsay-b-d.md)**
-- **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
 - **[Raymond, Frank](people/@30488355@-frank-raymond-b-d.md)**
 - **[Reid, John](people/@95320597@-john-reid-b-d.md)**
 - **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
+- **[Robertson, Mary](people/@96321158@-mary-robertson-b-d.md)**
 - **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
 - **[Ross, Alexander](people/@81387900@-alexander-ross-b1814-d1896-1-20.md)** (about 1814 - 20/Jan/1896)
 - **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
@@ -267,7 +265,7 @@ permalink: /indexes/by-birth-location
 
 ## Ireland
 
-#### Ireland
+#### Ireland, Ireland
 
 - **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - )
 - **[Wood, Margaret](people/@50500805@-margaret-wood-b1827-d1871.md)** (about 1827 - before 1871)
@@ -335,9 +333,30 @@ permalink: /indexes/by-birth-location
 
 - **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
 
+### Fife
+
+#### Burntisland
+
+- **[Ramsay, Isabella](people/@54722192@-isabella-ramsay-b1878-d.md)** (about 1878 - )
+- **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
+
+#### Carnbee
+
+- **[Morgan, Andrew](people/@23628312@-andrew-morgan-b1849-d.md)** (about 1849 - )
+- **[Morgan, Ann](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - )
+- **[Ramsay, Agnes](people/@57916783@-agnes-ramsay-b1873-d.md)** (about 1873 - )
+
+#### Crail
+
+- **[Ramsay, Cattie](people/@35547078@-cattie-ramsay-b1877-d.md)** (about 1877 - )
+- **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - )
+
 ### Glasgow
 
+- **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
+- **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
 - **[McIver, Roderick McKenzie](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
+- **[McIver, Thomas Clephan](people/@74287888@-thomas-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 - **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[O'Malley, Margaret Paton](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
 
@@ -481,22 +500,6 @@ permalink: /indexes/by-birth-location
 - **[Rennie, Agnes](people/@57426108@-agnes-rennie-b1878-d.md)** (1878 - )
 
 
-## United States
-
-### Massachusetts
-
-#### Dorchester, Suffolk County
-
-- **[Cummings, James Edward](people/@5591850@-james-edward-cummings-b1912-1-18-d2003-12-11.md)** (18/Jan/1912 - 11/Dec/2003)
-
-### New York
-
-#### Horicon, Warren County
-
-- **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958)
-- **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
-
-
 ## United States of America
 
 ### Massachusetts
@@ -504,6 +507,10 @@ permalink: /indexes/by-birth-location
 #### Boston
 
 - **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976)
+
+#### Dorchester, Suffolk County
+
+- **[Cummings, James Edward](people/@5591850@-james-edward-cummings-b1912-1-18-d2003-12-11.md)** (18/Jan/1912 - 11/Dec/2003)
 
 ### New York
 
@@ -514,6 +521,11 @@ permalink: /indexes/by-birth-location
 #### Brant Lake, Warren County
 
 - **[Hayes, Dan](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018)
+
+#### Horicon, Warren County
+
+- **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958)
+- **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
 
 #### Ilion
 

@@ -35,7 +35,7 @@ Date | Item | Description | Sources | Notes
 2/May/1939 | Naturalised | Naturalised in Boston, Massachusetts, United States of America. (Petition for Naturalization) | [12](#12) | 
 28/Feb/1940 | Death of father | [Donald J Cumming](./@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) died in Embo, Sutherland, Scotland. | [13](#13) | 
 16/Feb/1942 | EVEN:Military Conscription/Draft |  | [2](#2) | 
-10/Dec/1943 | Marriage | Married to [Margaret Hogg Hatelie](./@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md) in Fort Lauderdale, Broward County, Florida, United States | [14](#14), [15](#15) | 
+10/Dec/1943 | Marriage | Married to [Margaret Hogg Hatelie](./@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md) in Fort Lauderdale, Broward County, Florida, United States of America | [14](#14), [15](#15) | 
 20/Jun/1946 | Death of mother | [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) died. | [13](#13), [16](#16), [17](#17) | 
 Aug/1965 | Died | Died in Palm Beach, Florida, United States of America. | [18](#18), [19](#19) | 
 

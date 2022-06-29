@@ -43,9 +43,9 @@
   "Spouses": [
     {
       "Id": "i24380064",
-      "Name": "Margaret McIver",
+      "Name": "Margaret McKenzie McIver",
       "Gender": "Female",
-      "DateOfBirth": "1918",
+      "DateOfBirth": "29/Sep/1917",
       "DateOfDeath": "12/Sep/2015",
       "RelationToSubject": "wife",
       "DateOfMarriage": "1/Sep/1939",
@@ -56,10 +56,10 @@
     {
       "Id": "i11866224",
       "Name": "X",
-      "Gender": "Male",
+      "Gender": "Female",
       "DateOfBirth": "",
       "DateOfDeath": "",
-      "RelationToSubject": "son",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i3963708",
         "i24380064"

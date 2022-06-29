@@ -42,17 +42,17 @@
             },
             {
               "Id": "i24380064",
-              "Name": "Margaret McIver",
+              "Name": "Margaret McKenzie McIver",
               "Gender": "Female",
               "Relationship": "daughter",
-              "DateOfBirth": "1918",
+              "DateOfBirth": "29/Sep/1917",
               "DateOfDeath": "12/Sep/2015",
               "Children": [
                 {
                   "Id": "i11866224",
                   "Name": "X",
-                  "Gender": "Male",
-                  "Relationship": "son",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
                   "DateOfBirth": "",
                   "DateOfDeath": "",
                   "Children": []
@@ -64,7 +64,17 @@
                   "Relationship": "son",
                   "DateOfBirth": "",
                   "DateOfDeath": "",
-                  "Children": []
+                  "Children": [
+                    {
+                      "Id": "i14676128",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "",
+                      "DateOfDeath": "",
+                      "Children": []
+                    }
+                  ]
                 }
               ]
             },
@@ -183,7 +193,7 @@
             },
             {
               "Id": "i74287888",
-              "Name": "Tom Clephan McIver",
+              "Name": "Thomas Clephan McIver",
               "Gender": "Male",
               "Relationship": "son",
               "DateOfBirth": "1924",

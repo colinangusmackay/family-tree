@@ -3,9 +3,36 @@
   "Name": "John Ramsay",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1852",
   "DateOfDeath": "",
   "Children": [
+    {
+      "Id": "i57916783",
+      "Name": "Agnes Ramsay",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1873",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i35547078",
+      "Name": "Cattie Ramsay",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i54722192",
+      "Name": "Isabella Ramsay",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1878",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i64225415",
       "Name": "John Ramsay",

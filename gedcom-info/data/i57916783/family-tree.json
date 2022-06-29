@@ -1,0 +1,87 @@
+﻿{
+  "Subject": {
+    "Id": "i57916783",
+    "Name": "Agnes Ramsay",
+    "Gender": "Female",
+    "DateOfBirth": "about 1873",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i60684755",
+      "Name": "Ann Morgan",
+      "Gender": "Female",
+      "DateOfBirth": "about 1845",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i63088441",
+      "Name": "John Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1852",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i57916783",
+      "Name": "Agnes Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1873",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i60684755",
+          "i63088441"
+        ]
+      ]
+    },
+    {
+      "Id": "i35547078",
+      "Name": "Cattie Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i60684755",
+          "i63088441"
+        ]
+      ]
+    },
+    {
+      "Id": "i54722192",
+      "Name": "Isabella Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1878",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i60684755",
+          "i63088441"
+        ]
+      ]
+    },
+    {
+      "Id": "i64225415",
+      "Name": "John Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "21/Feb/1880",
+      "DateOfDeath": "20/Jun/1920",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i60684755",
+          "i63088441"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

@@ -3,12 +3,12 @@
   "Name": "John Ramsay",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1852",
   "DateOfDeath": "",
   "Parents": [
     {
       "Id": "i33817858",
-      "Name": "X",
+      "Name": "George Ramsay",
       "Gender": "Male",
       "Relationship": "father",
       "DateOfBirth": "",
@@ -17,7 +17,7 @@
     },
     {
       "Id": "i33882736",
-      "Name": "X",
+      "Name": "Jane Grieve",
       "Gender": "Female",
       "Relationship": "mother",
       "DateOfBirth": "",

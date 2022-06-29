@@ -20,5 +20,5 @@ Date | Item | Description | Sources | Notes
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1893 | Coalminer | 
+1893 | Coal Miner | 
 
