@@ -11,8 +11,8 @@
       "Name": "Helen Taylor",
       "Gender": "Female",
       "Relationship": "mother",
-      "DateOfBirth": "",
-      "DateOfDeath": "before 1880",
+      "DateOfBirth": "about 1816",
+      "DateOfDeath": "27/Nov/1865",
       "Parents": []
     },
     {
@@ -20,7 +20,7 @@
       "Name": "John Fisher",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1819",
       "DateOfDeath": "after 1880",
       "Parents": []
     }

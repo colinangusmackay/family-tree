@@ -14,7 +14,7 @@ permalink: /people/i14506844
 
 ## Immediate Family
 
-* Partner: [William Seaton](./@58232144@-william-seaton-b-d1880.md) ( - after 1880)
+* Partner: [William Seaton](./@58232144@-william-seaton-b1824-d1891.md) (about 1824 - after 1891)
 * Daughter: [Margaret Dickson Seaton](./@45571672@-margaret-dickson-seaton-b1856-d.md) (about 1856 - )
 
 ## Timeline

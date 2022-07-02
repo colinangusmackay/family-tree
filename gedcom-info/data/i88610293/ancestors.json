@@ -8,21 +8,59 @@
   "Parents": [
     {
       "Id": "i24882788",
-      "Name": "Isabella Patterson",
+      "Name": "Isabella Paterson",
       "Gender": "Female",
       "Relationship": "mother",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1850",
       "DateOfDeath": "",
-      "Parents": []
+      "Parents": [
+        {
+          "Id": "i28263584",
+          "Name": "Barbara McKenzie",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i55148620",
+          "Name": "William Paterson",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
     },
     {
       "Id": "i76793596",
       "Name": "Roderick McKenzie",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1851",
       "DateOfDeath": "",
-      "Parents": []
+      "Parents": [
+        {
+          "Id": "i23061759",
+          "Name": "Ann Beaton",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i1568232",
+          "Name": "Murdoch McKenzie",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
     }
   ]
 }

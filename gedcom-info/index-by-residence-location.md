@@ -48,7 +48,7 @@ permalink: /indexes/by-residence-location
 
 ## Scotland
 
-### Aberdeen City
+### Aberdeenshire
 
 #### Aberdeen
 
@@ -67,13 +67,6 @@ permalink: /indexes/by-residence-location
 - **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
 - **[Pritchard, Elisabeth](people/@8049072@-elisabeth-pritchard-b-d1910.md)** ( - before 1910)
 
-### Dumfries
-
-#### Johnstone
-
-- **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - )
-- **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
-
 ### Dumfries and Galloway
 
 #### Applegarth
@@ -81,6 +74,11 @@ permalink: /indexes/by-residence-location
 - **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
 
 ### Dumfriesshire
+
+#### Johnstone
+
+- **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - )
+- **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
 
 #### Kirkpatrick-Fleming
 
@@ -92,8 +90,19 @@ permalink: /indexes/by-residence-location
 
 ### Edinburgh
 
-- **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - )
+- **[Fisher, Agnes](people/@45605556@-agnes-fisher-b1887-d.md)** (about 1887 - )
+- **[Fisher, George](people/@35202352@-george-fisher-b1844-d.md)** (about 1844 - )
+- **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md)** (29/Nov/1881 - 6/Jun/1953)
+- **[Fisher, Isabella](people/@74012383@-isabella-fisher-b1846-d.md)** (about 1846 - )
+- **[Fisher, Isabella](people/@51349357@-isabella-fisher-b1884-d.md)** (about 1884 - )
 - **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
+- **[Fisher, James](people/@39137337@-james-fisher-b1896-d.md)** (about 1896 - )
+- **[Fisher, Johanna](people/@76159436@-johanna-fisher-b1851-d.md)** (about 1851 - )
+- **[Fisher, John](people/@81248806@-john-fisher-b1819-d1880.md)** (about 1819 - after 1880)
+- **[Fisher, John](people/@60298048@-john-fisher-b1848-d.md)** (about 1848 - )
+- **[Fisher, John](people/@59036117@-john-fisher-b1892-d.md)** (about 1892 - )
+- **[Fisher, Margaret](people/@21244212@-margaret-fisher-b1889-d.md)** (about 1889 - )
+- **[Fisher, William](people/@85653512@-william-fisher-b1894-d.md)** (about 1894 - )
 - **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
 - **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
 - **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
@@ -101,8 +110,11 @@ permalink: /indexes/by-residence-location
 - **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 - **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
+- **[Ramsay, Jack](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
 - **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
+- **[Seaton, William](people/@58232144@-william-seaton-b1824-d1891.md)** (about 1824 - after 1891)
+- **[Taylor, Helen](people/@47549486@-helen-taylor-b1816-d1865-11-27.md)** (about 1816 - 27/Nov/1865)
 
 ### Eilean Siar
 
@@ -134,12 +146,28 @@ permalink: /indexes/by-residence-location
 - **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 - **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
 - **[McIver, Roderick McKenzie](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
+- **[McKenzie, Annie](people/@80021760@-annie-mckenzie-b1874-d.md)** (about 1874 - )
+- **[McKenzie, Barbara](people/@18932462@-barbara-mckenzie-b1876-d.md)** (about 1876 - )
+- **[McKenzie, Christina](people/@25915316@-christina-mckenzie-b1880-d.md)** (about 1880 - )
+- **[McKenzie, Jessie Paterson](people/@2043547@-jessie-paterson-mckenzie-b1888-d.md)** (about 1888 - )
 - **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
-- **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b-d.md)**
-- **[Patterson, Isabella](people/@24882788@-isabella-patterson-b-d.md)**
+- **[McKenzie, Murdoch](people/@99087108@-murdoch-mckenzie-b1890-d.md)** (1890 - )
+- **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - )
+- **[McKenzie, William P](people/@51734912@-william-p-mckenzie-b1878-d.md)** (about 1878 - )
+- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - )
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
 
 ### Lanarkshire
+
+#### Carluke
+
+- **[Fleming, James](people/@45874990@-james-fleming-b1854-d.md)** (about 1854 - )
+- **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - )
+- **[Fleming, John](people/@18678270@-john-fleming-b1856-d.md)** (about 1856 - )
+- **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912)
+- **[Fleming, Samuel](people/@19337566@-samuel-fleming-b1860-d.md)** (about 1860 - )
+- **[Fleming, William](people/@78368531@-william-fleming-b1858-d.md)** (about 1858 - )
+- **[Wood, Margaret](people/@50500805@-margaret-wood-b1827-d1871.md)** (about 1827 - before 1871)
 
 #### Forth
 
@@ -163,10 +191,6 @@ permalink: /indexes/by-residence-location
 
 ### Ross
 
-#### Aultbea
-
-- **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
-
 #### Talladale
 
 - **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
@@ -174,23 +198,17 @@ permalink: /indexes/by-residence-location
 - **[McLean, Mary](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - )
 - **[Morrison, Mary](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
 
+### Ross & Cromarty
+
+#### Aultbea
+
+- **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
+
 ### Rossshire
 
 #### Inver, Tain
 
 - **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942)
-
-### South Lanarkshire
-
-#### Carluke
-
-- **[Fleming, James](people/@45874990@-james-fleming-b1854-d.md)** (about 1854 - )
-- **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - )
-- **[Fleming, John](people/@18678270@-john-fleming-b1856-d.md)** (about 1856 - )
-- **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912)
-- **[Fleming, Samuel](people/@19337566@-samuel-fleming-b1860-d.md)** (about 1860 - )
-- **[Fleming, William](people/@78368531@-william-fleming-b1858-d.md)** (about 1858 - )
-- **[Wood, Margaret](people/@50500805@-margaret-wood-b1827-d1871.md)** (about 1827 - before 1871)
 
 ### Sutherland
 

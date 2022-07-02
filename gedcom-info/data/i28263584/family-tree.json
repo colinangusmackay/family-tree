@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i28263584",
+    "Name": "Barbara McKenzie",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i28263584",
+      "Name": "Barbara McKenzie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i55148620",
+      "Name": "William Paterson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i24882788",
+      "Name": "Isabella Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1850",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i55148620",
+        "i28263584"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i35202352",
+  "Name": "George Fisher",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1844",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i47549486",
+      "Name": "Helen Taylor",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1816",
+      "DateOfDeath": "27/Nov/1865",
+      "Parents": []
+    },
+    {
+      "Id": "i81248806",
+      "Name": "John Fisher",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1819",
+      "DateOfDeath": "after 1880",
+      "Parents": []
+    }
+  ]
+}

@@ -24,7 +24,7 @@ permalink: /people/i35162161
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-27/Mar/1879 | Born | Born to [James Clark](./@29410614@-james-clark-b-d.md) and [Jamesina Morrison](./@11801376@-jamesina-morrison-b-d.md) in Aberdeen, Aberdeen City, Scotland. | [1](#1), [2](#2), [3](#3) | 
+27/Mar/1879 | Born | Born to [James Clark](./@29410614@-james-clark-b-d.md) and [Jamesina Morrison](./@11801376@-jamesina-morrison-b-d.md) in Aberdeen, Aberdeenshire, Scotland. | [1](#1), [2](#2), [3](#3) | 
 
 ## Known Residences
 

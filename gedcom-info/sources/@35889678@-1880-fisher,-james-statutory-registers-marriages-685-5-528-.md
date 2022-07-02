@@ -81,7 +81,7 @@ References | 1880 M 685/5 528
 
 * [Helen Currie](../people/@14506844@-helen-currie-b-d1880.md) ( - before 1880)
 * [James Fisher](../people/@22540348@-james-fisher-b1854-d.md) (about 1854 - )
-* [John Fisher](../people/@81248806@-john-fisher-b-d1880.md) ( - after 1880)
+* [John Fisher](../people/@81248806@-john-fisher-b1819-d1880.md) (about 1819 - after 1880)
 * [Margaret Dickson Seaton](../people/@45571672@-margaret-dickson-seaton-b1856-d.md) (about 1856 - )
-* [William Seaton](../people/@58232144@-william-seaton-b-d1880.md) ( - after 1880)
-* [Helen Taylor](../people/@47549486@-helen-taylor-b-d1880.md) ( - before 1880)
+* [William Seaton](../people/@58232144@-william-seaton-b1824-d1891.md) (about 1824 - after 1891)
+* [Helen Taylor](../people/@47549486@-helen-taylor-b1816-d1865-11-27.md) (about 1816 - 27/Nov/1865)

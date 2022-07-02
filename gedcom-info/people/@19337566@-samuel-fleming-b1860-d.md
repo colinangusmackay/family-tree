@@ -20,7 +20,7 @@ permalink: /people/i19337566
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1860 | Born | Born to [John Fleming](./@39983533@-john-fleming-b1827-d.md) and [Margaret Wood](./@50500805@-margaret-wood-b1827-d1871.md) in Carluke, South Lanarkshire, Scotland. | [1](#1) | 
+about 1860 | Born | Born to [John Fleming](./@39983533@-john-fleming-b1827-d.md) and [Margaret Wood](./@50500805@-margaret-wood-b1827-d1871.md) in Carluke, Lanarkshire, Scotland. | [1](#1) | 
 
 ## Known Residences
 

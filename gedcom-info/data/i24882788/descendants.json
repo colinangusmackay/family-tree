@@ -1,11 +1,47 @@
 ﻿{
   "Id": "i24882788",
-  "Name": "Isabella Patterson",
+  "Name": "Isabella Paterson",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1850",
   "DateOfDeath": "",
   "Children": [
+    {
+      "Id": "i80021760",
+      "Name": "Annie McKenzie",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1874",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i18932462",
+      "Name": "Barbara McKenzie",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1876",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i51734912",
+      "Name": "William P McKenzie",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1878",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i25915316",
+      "Name": "Christina McKenzie",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i88610293",
       "Name": "Margaret Paterson McKenzie",
@@ -193,6 +229,24 @@
           "Children": []
         }
       ]
+    },
+    {
+      "Id": "i2043547",
+      "Name": "Jessie Paterson McKenzie",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1888",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i99087108",
+      "Name": "Murdoch McKenzie",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1890",
+      "DateOfDeath": "",
+      "Children": []
     }
   ]
 }

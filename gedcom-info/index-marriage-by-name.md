@@ -31,7 +31,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Clark
 
-  * **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - ) and **[James Cumming](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918) **on 24th of December 1907** at Aberdeen, Aberdeen City, Scotland.
+  * **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - ) and **[James Cumming](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918) **on 24th of December 1907** at Aberdeen, Aberdeenshire, Scotland.
   * **[James Clark](people/@29410614@-james-clark-b-d.md)** and **[Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)** **on 1st of December 1876**.
 
 ## Cumming
@@ -48,7 +48,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977) **on 10th of December 1943** at Fort Lauderdale, Broward County, Florida, United States of America.
   * **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986) and **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974) **on 12th of April 1929** at Brookline, Massachusetts, United States of America.
   * **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918) **on 21st of February 1860** at Dornoch, Sutherland, Scotland.
-  * **[James Cumming](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918) and **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - ) **on 24th of December 1907** at Aberdeen, Aberdeen City, Scotland.
+  * **[James Cumming](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918) and **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - ) **on 24th of December 1907** at Aberdeen, Aberdeenshire, Scotland.
   * **[James Cumming](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975) and **[Williamina Gillie](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003) **on 2nd of May 1928** at Inverness, Scotland.
   * **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) and **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967) **on 12th of April 1918** at Middlesborough, England.
   * **[John Cumming](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ) and **[Carrie Elizabeth Predendall](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - ) **on 6th of August 1924**.
@@ -64,11 +64,11 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Fawley
 
-  * **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993) and **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980) **in July 1932** at Dewsbury, England.
+  * **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993) and **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980) **in July 1932** at Dewsbury, Yorkshire, England.
 
 ## Fisher
 
-  * **[Helen Currie Fisher](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - ) and **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920) **on 13th of January 1905** at Edinburgh, Scotland.
+  * **[Helen Currie Fisher](people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md)** (29/Nov/1881 - 6/Jun/1953) and **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920) **on 13th of January 1905** at Edinburgh, Scotland.
   * **[James Fisher](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - ) and **[Margaret Dickson Seaton](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - ) **on 24th of December 1880** at Edinburgh, Scotland.
 
 ## Fleming
@@ -212,16 +212,16 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938) and **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) **on 31st of December 1909** at Glasgow, Scotland.
   * **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) and **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) **on 6th of April 1945** at Edinburgh, Scotland.
   * **[Margaret McKenzie McIver](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015) and **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) **on 1st of September 1939** at Edinburgh, Scotland.
-  * **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) and **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) **on 14th of February 1861** at Gairloch, Ross, Scotland.
+  * **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) and **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) **on 14th of February 1861** at Gairloch, Ross and Cromarty, Scotland.
 
 ## McKenzie
 
   * **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) and **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938) **on 31st of December 1909** at Glasgow, Scotland.
-  * **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b-d.md)** and **[Isabella Patterson](people/@24882788@-isabella-patterson-b-d.md)** **on 18th of July 1872** at Glasgow, Scotland.
+  * **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - ) and **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - ) **on 18th of July 1872** at Glasgow, Scotland.
 
 ## McLean
 
-  * **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) and **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) **on 14th of February 1861** at Gairloch, Ross, Scotland.
+  * **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) and **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) **on 14th of February 1861** at Gairloch, Ross and Cromarty, Scotland.
   * **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) and **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) **on 7th of June 1930** at Royal Oak, Oakland County, Michigan, United States of America.
 
 ## McRae
@@ -251,13 +251,13 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) and X **on 25th of July 1969** at East Calder, Scotland.
   * **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004) and **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004) **on 28th of December 1939** at Glasgow, Scotland.
 
+## Paterson
+
+  * **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - ) and **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - ) **on 18th of July 1872** at Glasgow, Scotland.
+
 ## Paton
 
   * **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004) and **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004) **on 28th of December 1939** at Glasgow, Scotland.
-
-## Patterson
-
-  * **[Isabella Patterson](people/@24882788@-isabella-patterson-b-d.md)** and **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b-d.md)** **on 18th of July 1872** at Glasgow, Scotland.
 
 ## Predendall
 
@@ -270,7 +270,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Ramsay
 
   * **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) and **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) **on 6th of April 1945** at Edinburgh, Scotland.
-  * **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920) and **[Helen Currie Fisher](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - ) **on 13th of January 1905** at Edinburgh, Scotland.
+  * **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920) and **[Helen Currie Fisher](people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md)** (29/Nov/1881 - 6/Jun/1953) **on 13th of January 1905** at Edinburgh, Scotland.
 
 ## Raymond
 
@@ -314,7 +314,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Stead
 
-  * **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980) and **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993) **in July 1932** at Dewsbury, England.
+  * **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980) and **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993) **in July 1932** at Dewsbury, Yorkshire, England.
   * **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) and **[Nancy](people/@68661720@-nancy-b-d.md)** **about 1906**.
   * **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011) and **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) **in 1959** at Glasgow, Scotland.
   * **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ) **about 1887**.

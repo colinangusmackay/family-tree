@@ -24,7 +24,7 @@ permalink: /people/i63437677
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1864 | Born | Born in Wolverhampton, Borough of Wolverhampton, England. | [1](#1) | 
+about 1864 | Born | Born in Wolverhampton, England. | [1](#1) | 
 
 ## Known Residences
 

@@ -1,0 +1,129 @@
+﻿{
+  "Subject": {
+    "Id": "i25915316",
+    "Name": "Christina McKenzie",
+    "Gender": "Female",
+    "DateOfBirth": "about 1880",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i24882788",
+      "Name": "Isabella Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1850",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i76793596",
+      "Name": "Roderick McKenzie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1851",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i80021760",
+      "Name": "Annie McKenzie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1874",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    },
+    {
+      "Id": "i18932462",
+      "Name": "Barbara McKenzie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1876",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    },
+    {
+      "Id": "i51734912",
+      "Name": "William P McKenzie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1878",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    },
+    {
+      "Id": "i25915316",
+      "Name": "Christina McKenzie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    },
+    {
+      "Id": "i88610293",
+      "Name": "Margaret Paterson McKenzie",
+      "Gender": "Female",
+      "DateOfBirth": "26/May/1884",
+      "DateOfDeath": "5/Apr/1964",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    },
+    {
+      "Id": "i2043547",
+      "Name": "Jessie Paterson McKenzie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1888",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    },
+    {
+      "Id": "i99087108",
+      "Name": "Murdoch McKenzie",
+      "Gender": "Male",
+      "DateOfBirth": "1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

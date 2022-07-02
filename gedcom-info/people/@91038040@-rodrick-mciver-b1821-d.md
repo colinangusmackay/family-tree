@@ -24,7 +24,7 @@ about 1821 | Born | Born to [Rodrick McIver](./@53638178@-rodrick-mciver-b-d.md)
 
 Date | Residence | Sources & Notes
 ---|---|---
-1861 | Aultbea, Ross, Scotland | [1](#1)
+1861 | Aultbea, Ross & Cromarty, Scotland | [1](#1)
 
 ## Known Occupations
 

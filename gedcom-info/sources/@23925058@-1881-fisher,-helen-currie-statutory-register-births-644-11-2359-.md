@@ -55,6 +55,6 @@ References |
 
 ## Source Referenced by
 
-* [Helen Currie Fisher](../people/@18426904@-helen-currie-fisher-b1882-d.md) (about 1882 - )
+* [Helen Currie Fisher](../people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md) (29/Nov/1881 - 6/Jun/1953)
 * [James Fisher](../people/@22540348@-james-fisher-b1854-d.md) (about 1854 - )
 * [Margaret Dickson Seaton](../people/@45571672@-margaret-dickson-seaton-b1856-d.md) (about 1856 - )

@@ -11,7 +11,7 @@ permalink: /indexes/by-occupation
 
 ## ____ Caster
 
-* **[Seaton, William](people/@58232144@-william-seaton-b-d1880.md)** ( - after 1880).
+* **[Seaton, William](people/@58232144@-william-seaton-b1824-d1891.md)** (about 1824 - after 1891).
 
 ## Able Seaman
 
@@ -53,11 +53,7 @@ permalink: /indexes/by-occupation
 
 ## Brass Moulder
 
-* **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - ), mentioned 2 times.
-
-## Brassmoulder
-
-* **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - ).
+* **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - ), mentioned 5 times.
 
 ## Caretaker
 
@@ -95,6 +91,10 @@ permalink: /indexes/by-occupation
 ## Coach Painter (Journeyman)
 
 * **[Clark, James](people/@29410614@-james-clark-b-d.md)**.
+
+## Coachman (Domestic Servant)
+
+* **[Paterson, William](people/@55148620@-william-paterson-b-d.md)**.
 
 ## Coal Miner
 
@@ -156,6 +156,7 @@ permalink: /indexes/by-occupation
 * **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - ).
 * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ).
 * **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ).
+* **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - ).
 * **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ).
 
 ## Draftsman
@@ -292,6 +293,10 @@ permalink: /indexes/by-occupation
 
 * **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008).
 
+## Ham Curer's Vanman
+
+* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - ).
+
 ## Head Janitor
 
 * **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975).
@@ -316,6 +321,7 @@ permalink: /indexes/by-occupation
 ## Joiner
 
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
+* **[Fisher, John](people/@81248806@-john-fisher-b1819-d1880.md)** (about 1819 - after 1880).
 
 ## Laborer
 
@@ -357,6 +363,10 @@ permalink: /indexes/by-occupation
 * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965), mentioned 4 times.
 * **[Cumming, John](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ).
 
+## Mantlemaker
+
+* **[McKenzie, Annie](people/@80021760@-annie-mckenzie-b1874-d.md)** (about 1874 - ).
+
 ## Mason
 
 * **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ), mentioned 2 times.
@@ -386,6 +396,10 @@ permalink: /indexes/by-occupation
 
 * **[Mackay, Anna Jess](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021).
 
+## Night Inspector of Water Fittings
+
+* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - ).
+
 ## Nurse
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 5 times.
@@ -405,7 +419,7 @@ permalink: /indexes/by-occupation
 
 ## Patten Maker
 
-* **[Fisher, John](people/@81248806@-john-fisher-b-d1880.md)** ( - after 1880).
+* **[Fisher, John](people/@81248806@-john-fisher-b1819-d1880.md)** (about 1819 - after 1880).
 
 ## Ploughman
 
@@ -428,7 +442,8 @@ permalink: /indexes/by-occupation
 
 ## Printer's Machinist
 
-* **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1882-d.md)** (about 1882 - ).
+* **[Fisher, Agnes](people/@45605556@-agnes-fisher-b1887-d.md)** (about 1887 - ).
+* **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md)** (29/Nov/1881 - 6/Jun/1953), mentioned 2 times.
 
 ## Proprietor, Children's Nursery
 
@@ -478,6 +493,7 @@ permalink: /indexes/by-occupation
 ## Seaman (Merchant Services)
 
 * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
+* **[McKenzie, Murdoch](people/@1568232@-murdoch-mckenzie-b-d.md)**.
 
 ## Secretary
 
@@ -538,9 +554,13 @@ permalink: /indexes/by-occupation
 * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
 * **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - ).
 
+## Vulcanite Worker
+
+* **[Fisher, Isabella](people/@51349357@-isabella-fisher-b1884-d.md)** (about 1884 - ).
+
 ## Water Fittings Inspector
 
-* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b-d.md)**.
+* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - ).
 
 ## Wood Forester
 

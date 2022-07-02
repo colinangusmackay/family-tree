@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i23061759",
+    "Name": "Ann Beaton",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i23061759",
+      "Name": "Ann Beaton",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i1568232",
+      "Name": "Murdoch McKenzie",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i76793596",
+      "Name": "Roderick McKenzie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1851",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i1568232",
+        "i23061759"
+      ]
+    }
+  ]
+}

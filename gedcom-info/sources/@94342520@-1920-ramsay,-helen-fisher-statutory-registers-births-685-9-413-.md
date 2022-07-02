@@ -43,7 +43,7 @@ References | 1920 B 685/9 413
 
 ## Source Referenced by
 
-* [Helen Currie Fisher](../people/@18426904@-helen-currie-fisher-b1882-d.md) (about 1882 - )
+* [Helen Currie Fisher](../people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md) (29/Nov/1881 - 6/Jun/1953)
 * [Alan Ramsay](../people/@62219744@-alan-ramsay-b1911-d1932.md) (1911 - 1932)
 * [Bruce Ramsay](../people/@49046148@-bruce-ramsay-b1914-d1965-11-29.md) (1914 - 29/Nov/1965)
 * [Douglas Ramsay](../people/@12977578@-douglas-ramsay-b1918-d1993.md) (1918 - 1993)

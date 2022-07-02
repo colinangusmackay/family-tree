@@ -1,0 +1,101 @@
+﻿{
+  "Subject": {
+    "Id": "i74012383",
+    "Name": "Isabella Fisher",
+    "Gender": "Female",
+    "DateOfBirth": "about 1846",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i47549486",
+      "Name": "Helen Taylor",
+      "Gender": "Female",
+      "DateOfBirth": "about 1816",
+      "DateOfDeath": "27/Nov/1865",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i81248806",
+      "Name": "John Fisher",
+      "Gender": "Male",
+      "DateOfBirth": "about 1819",
+      "DateOfDeath": "after 1880",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i35202352",
+      "Name": "George Fisher",
+      "Gender": "Male",
+      "DateOfBirth": "about 1844",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i47549486",
+          "i81248806"
+        ]
+      ]
+    },
+    {
+      "Id": "i74012383",
+      "Name": "Isabella Fisher",
+      "Gender": "Female",
+      "DateOfBirth": "about 1846",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i47549486",
+          "i81248806"
+        ]
+      ]
+    },
+    {
+      "Id": "i60298048",
+      "Name": "John Fisher",
+      "Gender": "Male",
+      "DateOfBirth": "about 1848",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i47549486",
+          "i81248806"
+        ]
+      ]
+    },
+    {
+      "Id": "i76159436",
+      "Name": "Johanna Fisher",
+      "Gender": "Female",
+      "DateOfBirth": "about 1851",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i47549486",
+          "i81248806"
+        ]
+      ]
+    },
+    {
+      "Id": "i22540348",
+      "Name": "James Fisher",
+      "Gender": "Male",
+      "DateOfBirth": "about 1854",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i47549486",
+          "i81248806"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

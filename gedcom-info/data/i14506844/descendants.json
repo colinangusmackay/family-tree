@@ -19,8 +19,8 @@
           "Name": "Helen Currie Fisher",
           "Gender": "Female",
           "Relationship": "daughter",
-          "DateOfBirth": "about 1882",
-          "DateOfDeath": "",
+          "DateOfBirth": "29/Nov/1881",
+          "DateOfDeath": "6/Jun/1953",
           "Children": [
             {
               "Id": "i55070438",
@@ -181,6 +181,60 @@
               ]
             }
           ]
+        },
+        {
+          "Id": "i51349357",
+          "Name": "Isabella Fisher",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "about 1884",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i45605556",
+          "Name": "Agnes Fisher",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "about 1887",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i21244212",
+          "Name": "Margaret Fisher",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "about 1889",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i59036117",
+          "Name": "John Fisher",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "about 1892",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i85653512",
+          "Name": "William Fisher",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "about 1894",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i39137337",
+          "Name": "James Fisher",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "about 1896",
+          "DateOfDeath": "",
+          "Children": []
         }
       ]
     }
