@@ -36,6 +36,8 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1803.**
   * **[Fraser, Christina](people/@45275253@-christina-fraser-b1803-d.md)** (before 1803 - )
   * **[Mackay, Alexander](people/@3089092@-alexander-mackay-b1803-d.md)** (before 1803 - )
+* **Born in 1804.**
+  * **[Paterson, William](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906)
 * **Born in 1805.**
   * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
   * **[Morrison, Mary](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
@@ -69,6 +71,8 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Janet](people/@44945539@-janet-mackay-b1820-d.md)** (before 1820 - )
 * **Born in 1821.**
   * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
+* **Born in 1822.**
+  * **[Mackenzie, Barbara](people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md)** (bet' 1822 and 1831 - 27/Apr/1884)
 * **Born in 1824.**
   * **[Seaton, William](people/@58232144@-william-seaton-b1824-d1891.md)** (about 1824 - after 1891)
 * **Born in 1827.**
@@ -117,6 +121,7 @@ permalink: /indexes/by-date-of-birth
   * **[McLean, Christy](people/@62955988@-christy-mclean-b1846-d.md)** (about 1846 - )
 * **Born in 1848.**
   * **[Fisher, John](people/@60298048@-john-fisher-b1848-d.md)** (about 1848 - )
+  * **[Paterson, Margaret](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
 * **Born in 1849.**
   * **[Grant, Cate](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
   * **[Mackay, Barbara](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - )
@@ -131,14 +136,16 @@ permalink: /indexes/by-date-of-birth
   * **[MacDonald, Donald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - )
   * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
   * **[Mackay, Sophia](people/@52720474@-sophia-mackay-b1850-d.md)** (before 1850 - )
-  * **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - )
+  * **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
   * **[Punton, Joan](people/@98605400@-joan-punton-b1850-d.md)** (before 1850 - )
 * **Born in 1851.**
   * **[Fisher, Johanna](people/@76159436@-johanna-fisher-b1851-d.md)** (about 1851 - )
-  * **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - )
+  * **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929)
   * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912)
 * **Born in 1852.**
   * **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - )
+* **Born in 1853.**
+  * **[Paterson, Ann](people/@11400006@-ann-paterson-b1853-d.md)** (about 1853 - )
 * **Born in 1854.**
   * **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
   * **[Fleming, James](people/@45874990@-james-fleming-b1854-d.md)** (about 1854 - )
@@ -147,6 +154,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1855.**
   * **[Mackay, Betsy](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - )
   * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
+  * **[Paterson, John](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - )
   * **[Mackay, Ann](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940)
 * **Born in 1856.**
   * **[Fleming, John](people/@18678270@-john-fleming-b1856-d.md)** (about 1856 - )
@@ -154,6 +162,7 @@ permalink: /indexes/by-date-of-birth
   * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
   * **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
 * **Born in 1857.**
+  * **[Paterson, Barbara](people/@65135072@-barbara-paterson-b1857-d.md)** (about 1857 - )
   * **[Tennant, Margaret](people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md)** (19/Nov/1857 - 29/Jun/1924)
 * **Born in 1858.**
   * **[Fleming, William](people/@78368531@-william-fleming-b1858-d.md)** (about 1858 - )
@@ -162,6 +171,7 @@ permalink: /indexes/by-date-of-birth
   * **[Gillie, John](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881)
   * **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
   * **[Mackay, Jane or Jean](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - )
+  * **[Paterson, Jessie](people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md)** (11/Oct/1859 - 11/Mar/1881)
 
 ### 1860s
 
@@ -520,7 +530,6 @@ permalink: /indexes/by-date-of-birth
 * [Hector Matheson](people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
 * [Elizabeth McIver](people/@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
 * [Rodrick McIver](people/@53638178@-rodrick-mciver-b-d.md)
-* [Barbara McKenzie](people/@28263584@-barbara-mckenzie-b-d.md)
 * [Murdoch McKenzie](people/@1568232@-murdoch-mckenzie-b-d.md)
 * [Harvey McLean](people/@70471714@-harvey-mclean-b-d.md)
 * [John McLean](people/@91397610@-john-mclean-b-d1877.md) ( - after 1877)
@@ -528,7 +537,6 @@ permalink: /indexes/by-date-of-birth
 * [John Morgan](people/@38398015@-john-morgan-b-d.md)
 * [Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)
 * [John Morrison](people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
-* [William Paterson](people/@55148620@-william-paterson-b-d.md)
 * [Barney Predendall](people/@69952770@-barney-predendall-b-d.md)
 * [Mary E Prey](people/@37901232@-mary-e-prey-b-d.md)
 * [Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md) ( - before 1910)

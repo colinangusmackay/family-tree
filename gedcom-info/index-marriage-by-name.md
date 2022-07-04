@@ -185,6 +185,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ) and **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - ) **on 7th of November 1876** at Dornoch, Sutherland, Scotland.
   * **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981) **on 21st of March 1930** at Toronto, York, Ontario, Canada.
 
+## Mackenzie
+
+  * **[Barbara Mackenzie](people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md)** (bet' 1822 and 1831 - 27/Apr/1884) and **[William Paterson](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906) **on 7th of August 1847** at Knockbain, Ross and Cromarty, Scotland.
+
 ## MacLeod
 
   * **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949) and **[John Mackay](people/@53390906@-john-mackay-b-d.md)** **on 15th of January 1885** at Stornoway, Eilean Siar, Scotland.
@@ -217,7 +221,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## McKenzie
 
   * **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) and **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938) **on 31st of December 1909** at Glasgow, Scotland.
-  * **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - ) and **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - ) **on 18th of July 1872** at Glasgow, Scotland.
+  * **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929) and **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929) **on 18th of July 1872** at Glasgow, Scotland.
 
 ## McLean
 
@@ -253,7 +257,8 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Paterson
 
-  * **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - ) and **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - ) **on 18th of July 1872** at Glasgow, Scotland.
+  * **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929) and **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929) **on 18th of July 1872** at Glasgow, Scotland.
+  * **[William Paterson](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906) and **[Barbara Mackenzie](people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md)** (bet' 1822 and 1831 - 27/Apr/1884) **on 7th of August 1847** at Knockbain, Ross and Cromarty, Scotland.
 
 ## Paton
 

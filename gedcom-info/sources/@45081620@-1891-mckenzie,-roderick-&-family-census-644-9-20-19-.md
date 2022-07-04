@@ -191,12 +191,14 @@ References | 1891 C 644/9 20/ 19
 
 ## Source Referenced by
 
+* [Barbara Mackenzie](../people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md) (bet' 1822 and 1831 - 27/Apr/1884)
 * [Annie McKenzie](../people/@80021760@-annie-mckenzie-b1874-d.md) (about 1874 - )
 * [Barbara McKenzie](../people/@18932462@-barbara-mckenzie-b1876-d.md) (about 1876 - )
 * [Christina McKenzie](../people/@25915316@-christina-mckenzie-b1880-d.md) (about 1880 - )
 * [Jessie Paterson McKenzie](../people/@2043547@-jessie-paterson-mckenzie-b1888-d.md) (about 1888 - )
 * [Margaret Paterson McKenzie](../people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)
 * [Murdoch McKenzie](../people/@99087108@-murdoch-mckenzie-b1890-d.md) (1890 - )
-* [Roderick McKenzie](../people/@76793596@-roderick-mckenzie-b1851-d.md) (about 1851 - )
+* [Roderick McKenzie](../people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) (about 1851 - 23/Jan/1929)
 * [William P McKenzie](../people/@51734912@-william-p-mckenzie-b1878-d.md) (about 1878 - )
-* [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d.md) (about 1850 - )
+* [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
+* [William Paterson](../people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md) (bet' 1804 and 1823 - 26/Apr/1906)

@@ -44,5 +44,5 @@ References | 1884 B 644/9 832
 ## Source Referenced by
 
 * [Margaret Paterson McKenzie](../people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)
-* [Roderick McKenzie](../people/@76793596@-roderick-mckenzie-b1851-d.md) (about 1851 - )
-* [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d.md) (about 1850 - )
+* [Roderick McKenzie](../people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) (about 1851 - 23/Jan/1929)
+* [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)

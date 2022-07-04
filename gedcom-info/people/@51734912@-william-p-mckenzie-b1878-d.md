@@ -9,8 +9,8 @@ permalink: /people/i51734912
 
 ## Immediate Family
 
-* Mother: [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d.md) (about 1850 - )
-* Father: [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d.md) (about 1851 - )
+* Mother: [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
+* Father: [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) (about 1851 - 23/Jan/1929)
 * Sister: [Annie McKenzie](./@80021760@-annie-mckenzie-b1874-d.md) (about 1874 - )
 * Sister: [Barbara McKenzie](./@18932462@-barbara-mckenzie-b1876-d.md) (about 1876 - )
 * Sister: [Christina McKenzie](./@25915316@-christina-mckenzie-b1880-d.md) (about 1880 - )
@@ -22,7 +22,7 @@ permalink: /people/i51734912
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1878 | Born | Born to [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d.md) and [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d.md) in Glasgow, Scotland. | [1](#1) | 
+about 1878 | Born | Born to [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) and [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d1929.md) in Glasgow, Scotland. | [1](#1) | 
 
 ## Known Residences
 

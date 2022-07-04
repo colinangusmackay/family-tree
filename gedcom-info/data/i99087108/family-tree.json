@@ -12,7 +12,7 @@
       "Name": "Isabella Paterson",
       "Gender": "Female",
       "DateOfBirth": "about 1850",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1929",
       "RelationToSubject": "mother"
     },
     {
@@ -20,7 +20,7 @@
       "Name": "Roderick McKenzie",
       "Gender": "Male",
       "DateOfBirth": "about 1851",
-      "DateOfDeath": "",
+      "DateOfDeath": "23/Jan/1929",
       "RelationToSubject": "father"
     }
   ],

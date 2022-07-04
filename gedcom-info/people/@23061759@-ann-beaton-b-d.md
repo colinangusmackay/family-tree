@@ -14,5 +14,5 @@ permalink: /people/i23061759
 ## Immediate Family
 
 * Partner: [Murdoch McKenzie](./@1568232@-murdoch-mckenzie-b-d.md)
-* Son: [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d.md) (about 1851 - )
+* Son: [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) (about 1851 - 23/Jan/1929)
 

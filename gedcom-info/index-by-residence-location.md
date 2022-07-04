@@ -152,10 +152,30 @@ permalink: /indexes/by-residence-location
 - **[McKenzie, Jessie Paterson](people/@2043547@-jessie-paterson-mckenzie-b1888-d.md)** (about 1888 - )
 - **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[McKenzie, Murdoch](people/@99087108@-murdoch-mckenzie-b1890-d.md)** (1890 - )
-- **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - )
+- **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929)
 - **[McKenzie, William P](people/@51734912@-william-p-mckenzie-b1878-d.md)** (about 1878 - )
-- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - )
+- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
+
+### Inverness
+
+- **[Mackenzie, Barbara](people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md)** (bet' 1822 and 1831 - 27/Apr/1884)
+- **[Paterson, Ann](people/@11400006@-ann-paterson-b1853-d.md)** (about 1853 - )
+- **[Paterson, Barbara](people/@65135072@-barbara-paterson-b1857-d.md)** (about 1857 - )
+- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
+- **[Paterson, Jessie](people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md)** (11/Oct/1859 - 11/Mar/1881)
+- **[Paterson, John](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - )
+- **[Paterson, Margaret](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
+- **[Paterson, William](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906)
+
+### Inverness-shire
+
+#### Kirkhill
+
+- **[Mackenzie, Barbara](people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md)** (bet' 1822 and 1831 - 27/Apr/1884)
+- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
+- **[Paterson, Margaret](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
+- **[Paterson, William](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906)
 
 ### Lanarkshire
 
@@ -198,7 +218,7 @@ permalink: /indexes/by-residence-location
 - **[McLean, Mary](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - )
 - **[Morrison, Mary](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
 
-### Ross & Cromarty
+### Ross and Cromarty
 
 #### Aultbea
 

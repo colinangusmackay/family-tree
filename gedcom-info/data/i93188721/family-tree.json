@@ -1,0 +1,115 @@
+﻿{
+  "Subject": {
+    "Id": "i93188721",
+    "Name": "Margaret Paterson",
+    "Gender": "Female",
+    "DateOfBirth": "about 1848",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i55148620",
+      "Name": "William Paterson",
+      "Gender": "Male",
+      "DateOfBirth": "bet' 1804 and 1823",
+      "DateOfDeath": "26/Apr/1906",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i28263584",
+      "Name": "Barbara Mackenzie",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 1822 and 1831",
+      "DateOfDeath": "27/Apr/1884",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i93188721",
+      "Name": "Margaret Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1848",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i28263584",
+          "i55148620"
+        ]
+      ]
+    },
+    {
+      "Id": "i24882788",
+      "Name": "Isabella Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1850",
+      "DateOfDeath": "before 1929",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i28263584",
+          "i55148620"
+        ]
+      ]
+    },
+    {
+      "Id": "i11400006",
+      "Name": "Ann Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1853",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i28263584",
+          "i55148620"
+        ]
+      ]
+    },
+    {
+      "Id": "i54157362",
+      "Name": "John Paterson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1855",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i28263584",
+          "i55148620"
+        ]
+      ]
+    },
+    {
+      "Id": "i65135072",
+      "Name": "Barbara Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1857",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i28263584",
+          "i55148620"
+        ]
+      ]
+    },
+    {
+      "Id": "i992704",
+      "Name": "Jessie Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "11/Oct/1859",
+      "DateOfDeath": "11/Mar/1881",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i28263584",
+          "i55148620"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

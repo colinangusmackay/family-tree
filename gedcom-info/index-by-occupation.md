@@ -17,6 +17,10 @@ permalink: /indexes/by-occupation
 
 * **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969), mentioned 2 times.
 
+## Agricultural Labourer
+
+* **[Paterson, William](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906).
+
 ## Apprentice Blacksmith
 
 * **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ).
@@ -94,7 +98,7 @@ permalink: /indexes/by-occupation
 
 ## Coachman (Domestic Servant)
 
-* **[Paterson, William](people/@55148620@-william-paterson-b-d.md)**.
+* **[Paterson, William](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906).
 
 ## Coal Miner
 
@@ -156,7 +160,7 @@ permalink: /indexes/by-occupation
 * **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - ).
 * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ).
 * **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ).
-* **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - ).
+* **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929).
 * **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ).
 
 ## Draftsman
@@ -188,6 +192,10 @@ permalink: /indexes/by-occupation
 ## Farm Foreman
 
 * **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
+
+## Farm Grieve
+
+* **[Paterson, William](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906).
 
 ## Farm Servant
 
@@ -295,7 +303,7 @@ permalink: /indexes/by-occupation
 
 ## Ham Curer's Vanman
 
-* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - ).
+* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929).
 
 ## Head Janitor
 
@@ -398,7 +406,7 @@ permalink: /indexes/by-occupation
 
 ## Night Inspector of Water Fittings
 
-* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - ).
+* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929).
 
 ## Nurse
 
@@ -560,7 +568,7 @@ permalink: /indexes/by-occupation
 
 ## Water Fittings Inspector
 
-* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - ).
+* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929).
 
 ## Wood Forester
 

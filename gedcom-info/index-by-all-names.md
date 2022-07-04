@@ -452,6 +452,10 @@ permalink: /indexes/by-all-names
 - **[William Matheson Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
 - **[Willie M Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
 
+## Mackenzie
+
+- **[Barbara Mackenzie](people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md)** (bet' 1822 and 1831 - 27/Apr/1884)
+
 ## MacLean
 
 - **[Janet MacLean](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - )
@@ -521,16 +525,15 @@ permalink: /indexes/by-all-names
 
 - **[Ann McKenzie](people/@23061759@-ann-beaton-b-d.md)**
 - **[Annie McKenzie](people/@80021760@-annie-mckenzie-b1874-d.md)** (about 1874 - )
-- **[Barbara McKenzie](people/@28263584@-barbara-mckenzie-b-d.md)**
 - **[Barbara McKenzie](people/@18932462@-barbara-mckenzie-b1876-d.md)** (about 1876 - )
 - **[Christina McKenzie](people/@25915316@-christina-mckenzie-b1880-d.md)** (about 1880 - )
-- **[Isabella McKenzie](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - )
+- **[Isabella McKenzie](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
 - **[Jessie Paterson McKenzie](people/@2043547@-jessie-paterson-mckenzie-b1888-d.md)** (about 1888 - )
 - **[Maggie P McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[Murdoch McKenzie](people/@1568232@-murdoch-mckenzie-b-d.md)**
 - **[Murdoch McKenzie](people/@99087108@-murdoch-mckenzie-b1890-d.md)** (1890 - )
-- **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - )
+- **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929)
 - **[William P McKenzie](people/@51734912@-william-p-mckenzie-b1878-d.md)** (about 1878 - )
 
 ## McLean
@@ -608,10 +611,15 @@ permalink: /indexes/by-all-names
 
 ## Paterson
 
-- **[Barbara Paterson](people/@28263584@-barbara-mckenzie-b-d.md)**
-- **[Bella Paterson](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - )
-- **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - )
-- **[William Paterson](people/@55148620@-william-paterson-b-d.md)**
+- **[Ann Paterson](people/@11400006@-ann-paterson-b1853-d.md)** (about 1853 - )
+- **[Barbara Paterson](people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md)** (bet' 1822 and 1831 - 27/Apr/1884)
+- **[Barbara Paterson](people/@65135072@-barbara-paterson-b1857-d.md)** (about 1857 - )
+- **[Bella Paterson](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
+- **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
+- **[Jessie Paterson](people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md)** (11/Oct/1859 - 11/Mar/1881)
+- **[John Paterson](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - )
+- **[Margaret Paterson](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
+- **[William Paterson](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906)
 
 ## Paton
 

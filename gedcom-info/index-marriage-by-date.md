@@ -27,6 +27,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **16/Oct/1840** : **[George Mackay](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893) and **[Lucy Matheson](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896) at Dornoch, Sutherland, Scotland.
 * **1842**
   * **31/Dec/1842** : **[John Reid](people/@95320597@-john-reid-b-d.md)** and **[Agnes Russell](people/@37924612@-agnes-russell-b-d.md)** at Wishaw, Lanarkshire, Scotland.
+* **1847**
+  * **7/Aug/1847** : **[William Paterson](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906) and **[Barbara Mackenzie](people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md)** (bet' 1822 and 1831 - 27/Apr/1884) at Knockbain, Ross and Cromarty, Scotland.
 
 ### 1850s
 
@@ -52,7 +54,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1870s
 
 * **1872**
-  * **18/Jul/1872** : **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - ) and **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - ) at Glasgow, Scotland.
+  * **18/Jul/1872** : **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929) and **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929) at Glasgow, Scotland.
 * **1873**
   * **21/Oct/1873** : **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ) and **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - ).
 * **1874**

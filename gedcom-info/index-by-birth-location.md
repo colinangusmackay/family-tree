@@ -146,7 +146,6 @@ permalink: /indexes/by-birth-location
 - **[McIver, Elizabeth](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
 - **[McIver, Rodrick](people/@53638178@-rodrick-mciver-b-d.md)**
 - **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
-- **[McKenzie, Barbara](people/@28263584@-barbara-mckenzie-b-d.md)**
 - **[McKenzie, Murdoch](people/@1568232@-murdoch-mckenzie-b-d.md)**
 - **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
 - **[McLean, Harvey](people/@70471714@-harvey-mclean-b-d.md)**
@@ -162,7 +161,6 @@ permalink: /indexes/by-birth-location
 - **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
 - **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - )
 - **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
-- **[Paterson, William](people/@55148620@-william-paterson-b-d.md)**
 - **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - )
 - **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
 - **[Predendall, Barney](people/@69952770@-barney-predendall-b-d.md)**
@@ -379,6 +377,19 @@ permalink: /indexes/by-birth-location
 - **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md)** (29/Nov/1881 - 6/Jun/1953)
 - **[Fisher, Isabella](people/@51349357@-isabella-fisher-b1884-d.md)** (about 1884 - )
 
+### Inverness
+
+- **[Paterson, Jessie](people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md)** (11/Oct/1859 - 11/Mar/1881)
+
+### Inverness-shire
+
+#### Kirkhill
+
+- **[Paterson, Ann](people/@11400006@-ann-paterson-b1853-d.md)** (about 1853 - )
+- **[Paterson, Barbara](people/@65135072@-barbara-paterson-b1857-d.md)** (about 1857 - )
+- **[Paterson, John](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - )
+- **[Paterson, Margaret](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
+
 ### Lanarkshire
 
 #### Carluke
@@ -422,16 +433,6 @@ permalink: /indexes/by-birth-location
 
 - **[Gardiner, William](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986)
 
-### Ross & Cromarty
-
-#### Aultbea
-
-- **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d.md)** (about 1851 - )
-
-#### Beauly
-
-- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d.md)** (about 1850 - )
-
 ### Ross and Cromarty
 
 #### Achiltibue
@@ -442,6 +443,14 @@ permalink: /indexes/by-birth-location
 
 - **[Cumming, Maggie](people/@86945960@-maggie-cumming-b1909-1-19-d.md)** (19/Jan/1909 - )
 
+#### Aultbea
+
+- **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929)
+
+#### Beauly
+
+- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
+
 #### Gairloch
 
 - **[McLean, Christy](people/@62955988@-christy-mclean-b1846-d.md)** (about 1846 - )
@@ -450,6 +459,11 @@ permalink: /indexes/by-birth-location
 #### Isle of Ewe
 
 - **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
+
+#### Knockbain
+
+- **[Mackenzie, Barbara](people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md)** (bet' 1822 and 1831 - 27/Apr/1884)
+- **[Paterson, William](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906)
 
 #### Tain
 

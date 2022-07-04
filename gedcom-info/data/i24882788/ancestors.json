@@ -4,24 +4,24 @@
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "about 1850",
-  "DateOfDeath": "",
+  "DateOfDeath": "before 1929",
   "Parents": [
-    {
-      "Id": "i28263584",
-      "Name": "Barbara McKenzie",
-      "Gender": "Female",
-      "Relationship": "mother",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Parents": []
-    },
     {
       "Id": "i55148620",
       "Name": "William Paterson",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
+      "DateOfBirth": "bet' 1804 and 1823",
+      "DateOfDeath": "26/Apr/1906",
+      "Parents": []
+    },
+    {
+      "Id": "i28263584",
+      "Name": "Barbara Mackenzie",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "bet' 1822 and 1831",
+      "DateOfDeath": "27/Apr/1884",
       "Parents": []
     }
   ]

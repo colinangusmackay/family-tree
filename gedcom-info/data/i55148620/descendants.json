@@ -3,16 +3,25 @@
   "Name": "William Paterson",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
-  "DateOfDeath": "",
+  "DateOfBirth": "bet' 1804 and 1823",
+  "DateOfDeath": "26/Apr/1906",
   "Children": [
+    {
+      "Id": "i93188721",
+      "Name": "Margaret Paterson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1848",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i24882788",
       "Name": "Isabella Paterson",
       "Gender": "Female",
       "Relationship": "daughter",
       "DateOfBirth": "about 1850",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1929",
       "Children": [
         {
           "Id": "i80021760",
@@ -257,6 +266,42 @@
           "Children": []
         }
       ]
+    },
+    {
+      "Id": "i11400006",
+      "Name": "Ann Paterson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1853",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i54157362",
+      "Name": "John Paterson",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1855",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i65135072",
+      "Name": "Barbara Paterson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1857",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i992704",
+      "Name": "Jessie Paterson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "11/Oct/1859",
+      "DateOfDeath": "11/Mar/1881",
+      "Children": []
     }
   ]
 }

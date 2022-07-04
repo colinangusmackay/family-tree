@@ -1,0 +1,87 @@
+﻿---
+layout: page
+permalink: /sources/s60950938
+---
+
+# 1851 PATERSON, WILLIAM & FAMILY (Census 103/ 1/ 7)
+
+Field | Detail
+---:|:---
+Publication | 
+Originator / Author | 
+Date | 
+Responsible Agency | National Records of Scotland
+Filed by Entry | 
+References | 1851 C 103/ 1/ 7
+
+## Text
+
+> Parish of Kirkhill
+>
+> Road: Donaldston
+>
+> <br/>
+>
+> Name: William Paterson
+>
+> Relation: Head
+>
+> Condition: Married
+>
+> Sex: M
+>
+> Age: 47
+>
+> Profession: Agricultural Labourer
+>
+> Where Born: Rossshire, Knockbain
+>
+> ---
+>
+> Name: Barbara Paterson
+>
+> Relation: Wife
+>
+> Condition: Married
+>
+> Sex: F
+>
+> Age: 20
+>
+> Where Born: Rossshire, Knockbain
+>
+> ---
+>
+> Name: Margaret Paterson
+>
+> Relation: Daughter
+>
+> Condition: Single
+>
+> Sex: F
+>
+> Age: 3
+>
+> Where Born: Invernessshire, Kirkhill
+>
+> ---
+>
+> Name: Isabella Paterson
+>
+> Relation: Daughter
+>
+> Condition: Single
+>
+> Sex: F
+>
+> Age: 1
+>
+> Where Born: Invernessshire, Kirkhill
+>
+
+## Source Referenced by
+
+* [Barbara Mackenzie](../people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md) (bet' 1822 and 1831 - 27/Apr/1884)
+* [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
+* [Margaret Paterson](../people/@93188721@-margaret-paterson-b1848-d.md) (about 1848 - )
+* [William Paterson](../people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md) (bet' 1804 and 1823 - 26/Apr/1906)

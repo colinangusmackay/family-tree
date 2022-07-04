@@ -16,8 +16,8 @@ permalink: /people/i88610293
 ## Immediate Family
 
 * Daughter: [Elizabeth McIver](./@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
-* Mother: [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d.md) (about 1850 - )
-* Father: [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d.md) (about 1851 - )
+* Mother: [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
+* Father: [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) (about 1851 - 23/Jan/1929)
 * Sister: [Annie McKenzie](./@80021760@-annie-mckenzie-b1874-d.md) (about 1874 - )
 * Sister: [Barbara McKenzie](./@18932462@-barbara-mckenzie-b1876-d.md) (about 1876 - )
 * Brother: [William P McKenzie](./@51734912@-william-p-mckenzie-b1878-d.md) (about 1878 - )
@@ -34,17 +34,19 @@ permalink: /people/i88610293
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-26/May/1884 | Born | Born to [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d.md) and [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d.md) in Glasgow, Scotland. | [1](#1) | 
-about 1888 | Birth of sister | [Jessie Paterson McKenzie](./@2043547@-jessie-paterson-mckenzie-b1888-d.md) born to [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d.md) and [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d.md) in Glasgow, Scotland. | [2](#2) | 
-1890 | Birth of brother | [Murdoch McKenzie](./@99087108@-murdoch-mckenzie-b1890-d.md) born to [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d.md) and [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d.md) in Glasgow, Scotland. | [2](#2) | 
+26/May/1884 | Born | Born to [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) and [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d1929.md) in Glasgow, Scotland. | [1](#1) | 
+about 1888 | Birth of sister | [Jessie Paterson McKenzie](./@2043547@-jessie-paterson-mckenzie-b1888-d.md) born to [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) and [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d1929.md) in Glasgow, Scotland. | [2](#2) | 
+1890 | Birth of brother | [Murdoch McKenzie](./@99087108@-murdoch-mckenzie-b1890-d.md) born to [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) and [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d1929.md) in Glasgow, Scotland. | [2](#2) | 
 31/Dec/1909 | Marriage | Married to [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) in Glasgow, Scotland | [3](#3), [4](#4), [5](#5) | 
 22/Oct/1910 | Birth of son | [Roderick McKenzie McIver](./@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md) born to [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) and [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) in Glasgow, Scotland. | [4](#4) | 
 1914 | Death of daughter | [Elizabeth McIver](./@80366022@-elizabeth-mciver-b-d1914.md) died. |  | 
 29/Sep/1917 | Birth of daughter | [Margaret McKenzie McIver](./@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) born to [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) and [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) in Glasgow, Scotland. | [6](#6) | 
 12/Apr/1919 | Birth of son | [Hector Spence McIver](./@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) born to [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) and [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) in Glasgow, Scotland. | [5](#5) | 
 1924 | Birth of son | [Thomas Clephan McIver](./@74287888@-thomas-clephan-mciver-b1924-d2019.md) born to [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) and [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) in Glasgow, Scotland. | [7](#7) | 
-21/Feb/1938 | Death of partner | [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) died in Edinburgh, Scotland. | [8](#8) | 
-5/Apr/1964 | Died | Died in Edinburgh, Scotland. | [9](#9) | 
+before 1929 | Death of mother | [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d1929.md) died. | [8](#8) | 
+23/Jan/1929 | Death of father | [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) died in Glasgow, Scotland. | [8](#8) | 
+21/Feb/1938 | Death of partner | [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) died in Edinburgh, Scotland. | [9](#9) | 
+5/Apr/1964 | Died | Died in Edinburgh, Scotland. | [10](#10) | 
 
 ## Known Residences
 
@@ -52,7 +54,7 @@ Date | Residence | Sources & Notes
 ---|---|---
 1891 | 104 Berkeley Street, Glasgow | [2](#2)
 1909 | 104 Berkeley Street, Glasgow, Scotland | [3](#3)
-1964 | 76 Northfield Drive, Edinburgh, Scotland | [9](#9)
+1964 | 76 Northfield Drive, Edinburgh, Scotland | [10](#10)
 
 ## Footnotes
 
@@ -125,6 +127,15 @@ Date | Residence | Sources & Notes
 
 ### 8
 
+**1929 MCKENZIE, RODERICK (Statutory Registers Death 644/11 122)**
+
+* [Full text and notes](../sources/@26663326@-1929-mckenzie,-roderick-statutory-registers-death-644-11-122-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1929 D 644/11 122
+
+### 9
+
 **1938 MCIVER, HECTOR (Statutory register Deaths 685/2 145)**
 
 * [Full text and notes](../sources/@21259320@-1938-mciver,-hector-statutory-register-deaths-685-2-145-.md)
@@ -132,7 +143,7 @@ Date | Residence | Sources & Notes
 * References: 
   * 1938 D 685/2 145
 
-### 9
+### 10
 
 **1964 MCIVER, MARGARET PATERS (Statutory Register Deaths 685/3 153)**
 

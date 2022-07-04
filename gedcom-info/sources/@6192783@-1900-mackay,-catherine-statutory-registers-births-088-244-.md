@@ -24,7 +24,7 @@ References | 1900 B 088/244
 >
 > Name and Surname: Catherine Mackay
 >
-> When and Where Born: 1900 September Third 4 h 0 n PM; Sheshader, Stornoway
+> When and Where Born: 1900 September Third 4h 0m PM; Sheshader, Stornoway
 >
 > Sex: F
 >
