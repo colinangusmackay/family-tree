@@ -27,7 +27,7 @@ permalink: /people/i79327488
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 29/Aug/1881 | Born | Born to [Joseph Fleming](./@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md) and [Margaret Tennant](./@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md) in Forth, Lanarkshire, Scotland. | [1](#1), [2](#2) | 
-24/Jun/1888 | BURI |  | [2](#2) | 
+24/Jun/1888 | Burial | Was buried in Blackburn, West Lothian, Scotland. | [2](#2) | 
 
 ## Footnotes
 
