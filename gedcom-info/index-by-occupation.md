@@ -6,7 +6,6 @@ permalink: /indexes/by-occupation
 # Index - By Occupation
 ## 
 
-* **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
 
 ## ____ Caster
@@ -66,6 +65,10 @@ permalink: /indexes/by-occupation
 ## Carpenter
 
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
+
+## Carter
+
+* **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
 
 ## Cattle Dealer
 

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i23268600",
+    "Name": "Margaret MacKintosh",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i23268600",
+      "Name": "Margaret MacKintosh",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i78511456",
+      "Name": "William Paterson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i55148620",
+      "Name": "William Paterson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1823",
+      "DateOfDeath": "26/Apr/1906",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i78511456",
+        "i23268600"
+      ]
+    }
+  ]
+}

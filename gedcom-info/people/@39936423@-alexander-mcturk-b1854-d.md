@@ -33,7 +33,7 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1886 | Ploughman | [2](#2)
 1891 | Farm Foreman | [1](#1)
-1918 | Unknown | [3](#3)
+1918 | Carter | [3](#3)
 
 ## Footnotes
 

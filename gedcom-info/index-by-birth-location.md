@@ -131,6 +131,7 @@ permalink: /indexes/by-birth-location
 - **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934)
 - **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
 - **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
+- **[MacKintosh, Margaret](people/@23268600@-margaret-mackintosh-b-d.md)**
 - **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - )
 - **[MacLennan, Christy](people/@8610974@-christy-maclennan-b-d.md)**
 - **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949)
@@ -161,6 +162,7 @@ permalink: /indexes/by-birth-location
 - **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
 - **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - )
 - **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
+- **[Paterson, William](people/@78511456@-william-paterson-b-d.md)**
 - **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - )
 - **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
 - **[Predendall, Barney](people/@69952770@-barney-predendall-b-d.md)**

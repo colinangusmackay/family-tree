@@ -6,7 +6,24 @@
     "DateOfBirth": "about 1823",
     "DateOfDeath": "26/Apr/1906"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i78511456",
+      "Name": "William Paterson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i23268600",
+      "Name": "Margaret MacKintosh",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i55148620",
@@ -15,7 +32,12 @@
       "DateOfBirth": "about 1823",
       "DateOfDeath": "26/Apr/1906",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i23268600",
+          "i78511456"
+        ]
+      ]
     }
   ],
   "Spouses": [

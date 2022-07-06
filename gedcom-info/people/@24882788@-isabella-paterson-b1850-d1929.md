@@ -55,14 +55,14 @@ about 1880 | Birth of daughter | [Christina McKenzie](./@25915316@-christina-mck
 about 1888 | Birth of daughter | [Jessie Paterson McKenzie](./@2043547@-jessie-paterson-mckenzie-b1888-d.md) born to [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) and [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d1929.md) in Glasgow, Scotland. | [1](#1) | 
 1890 | Birth of son | [Murdoch McKenzie](./@99087108@-murdoch-mckenzie-b1890-d.md) born to [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) and [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d1929.md) in Glasgow, Scotland. | [1](#1) | 
 1906 | Burial of father | [William Paterson](./@55148620@-william-paterson-b1823-d1906-4-26.md) was buried in Inverness, Scotland. | [9](#9) | 
-26/Apr/1906 | Death of father | [William Paterson](./@55148620@-william-paterson-b1823-d1906-4-26.md) died. | [9](#9) | 
-before 1929 | Died | Died. | [10](#10) | 
+26/Apr/1906 | Death of father | [William Paterson](./@55148620@-william-paterson-b1823-d1906-4-26.md) died in Inverness, Scotland. | [9](#9), [10](#10) | 
+before 1929 | Died | Died. | [11](#11) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1851 | Donaldston, Kirkhill, Inverness-shire, Scotland | [11](#11)
+1851 | Donaldston, Kirkhill, Inverness-shire, Scotland | [12](#12)
 1861 | Bught Farm, Inverness, Scotland | [2](#2)
 1872 | 62 Brown Street, Glasgow, Scotland | [5](#5)
 1884 | 104 Berkeley Street, Glasgow, Scotland | [6](#6)
@@ -158,6 +158,15 @@ Date | Occupation | Sources & Notes
 
 ### 10
 
+**1906 PATERSON, WILLIAM (Statutory Registers Deaths 098/ 163)**
+
+* [Full text and notes](../sources/@35468592@-1906-paterson,-william-statutory-registers-deaths-098-163-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1906 C 098/ 163
+
+### 11
+
 **1929 MCKENZIE, RODERICK (Statutory Registers Death 644/11 122)**
 
 * [Full text and notes](../sources/@26663326@-1929-mckenzie,-roderick-statutory-registers-death-644-11-122-.md)
@@ -165,7 +174,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1929 D 644/11 122
 
-### 11
+### 12
 
 **1851 PATERSON, WILLIAM & FAMILY (Census 103/ 1/ 7)**
 

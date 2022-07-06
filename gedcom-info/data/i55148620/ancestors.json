@@ -5,5 +5,24 @@
   "Relationship": "Self",
   "DateOfBirth": "about 1823",
   "DateOfDeath": "26/Apr/1906",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i23268600",
+      "Name": "Margaret MacKintosh",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i78511456",
+      "Name": "William Paterson",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

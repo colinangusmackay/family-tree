@@ -178,6 +178,7 @@ permalink: /indexes/by-death-location
 - **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
 - **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
 - **[Mackenzie, Barbara](people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md)** (about 1823 - 27/Apr/1884)
+- **[MacKintosh, Margaret](people/@23268600@-margaret-mackintosh-b-d.md)**
 - **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - )
 - **[MacLennan, Christy](people/@8610974@-christy-maclennan-b-d.md)**
 - **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949)
@@ -234,7 +235,7 @@ permalink: /indexes/by-death-location
 - **[Paterson, Jessie](people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md)** (11/Oct/1859 - 11/Mar/1881)
 - **[Paterson, John](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - )
 - **[Paterson, Margaret](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
-- **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906)
+- **[Paterson, William](people/@78511456@-william-paterson-b-d.md)**
 - **[Paterson, Williamina](people/@90589456@-williamina-paterson-b1862-d.md)** (about 1862 - )
 - **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - )
 - **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
@@ -364,6 +365,7 @@ permalink: /indexes/by-death-location
 ### Inverness
 
 - **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970)
+- **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906)
 
 ### Lanarkshire
 

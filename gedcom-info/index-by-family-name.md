@@ -332,6 +332,10 @@ permalink: /indexes/by-family-name
 
 - **[Barbara Mackenzie](people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md)** (about 1823 - 27/Apr/1884)
 
+## MacKintosh
+
+- **[Margaret MacKintosh](people/@23268600@-margaret-mackintosh-b-d.md)**
+
 ## MacLean
 
 - **[Janet MacLean](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - )
@@ -454,6 +458,7 @@ permalink: /indexes/by-family-name
 - **[Jessie Paterson](people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md)** (11/Oct/1859 - 11/Mar/1881)
 - **[John Paterson](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - )
 - **[Margaret Paterson](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
+- **[William Paterson](people/@78511456@-william-paterson-b-d.md)**
 - **[William Paterson](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906)
 - **[Williamina Paterson](people/@90589456@-williamina-paterson-b1862-d.md)** (about 1862 - )
 
