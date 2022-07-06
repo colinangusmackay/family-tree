@@ -19,7 +19,7 @@ permalink: /indexes/by-occupation
 
 ## Agricultural Labourer
 
-* **[Paterson, William](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906).
+* **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
 
 ## Apprentice Blacksmith
 
@@ -98,7 +98,7 @@ permalink: /indexes/by-occupation
 
 ## Coachman (Domestic Servant)
 
-* **[Paterson, William](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906).
+* **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
 
 ## Coal Miner
 
@@ -195,7 +195,7 @@ permalink: /indexes/by-occupation
 
 ## Farm Grieve
 
-* **[Paterson, William](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906).
+* **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
 
 ## Farm Servant
 
@@ -286,6 +286,7 @@ permalink: /indexes/by-occupation
 
 ## Gardener
 
+* **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
 * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974).
 
 ## General Merchant
@@ -296,6 +297,10 @@ permalink: /indexes/by-occupation
 ## General Servant
 
 * **[McLean, Mary](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - ).
+
+## Grocer's Apprentice
+
+* **[Paterson, John](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - ).
 
 ## Gunner, Royal Artillery
 

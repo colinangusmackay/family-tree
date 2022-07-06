@@ -78,4 +78,4 @@ References | 1872 M 644/5 121
 * [Murdoch McKenzie](../people/@1568232@-murdoch-mckenzie-b-d.md)
 * [Roderick McKenzie](../people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) (about 1851 - 23/Jan/1929)
 * [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
-* [William Paterson](../people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md) (bet' 1804 and 1823 - 26/Apr/1906)
+* [William Paterson](../people/@55148620@-william-paterson-b1823-d1906-4-26.md) (about 1823 - 26/Apr/1906)

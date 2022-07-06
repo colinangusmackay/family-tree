@@ -29,5 +29,5 @@ References | 1847 OPR 073/ 20 220
 
 ## Source Referenced by
 
-* [Barbara Mackenzie](../people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md) (bet' 1822 and 1831 - 27/Apr/1884)
-* [William Paterson](../people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md) (bet' 1804 and 1823 - 26/Apr/1906)
+* [Barbara Mackenzie](../people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md) (about 1823 - 27/Apr/1884)
+* [William Paterson](../people/@55148620@-william-paterson-b1823-d1906-4-26.md) (about 1823 - 26/Apr/1906)

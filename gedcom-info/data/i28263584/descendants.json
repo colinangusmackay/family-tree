@@ -3,7 +3,7 @@
   "Name": "Barbara Mackenzie",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "bet' 1822 and 1831",
+  "DateOfBirth": "about 1823",
   "DateOfDeath": "27/Apr/1884",
   "Children": [
     {
@@ -301,6 +301,15 @@
       "Relationship": "daughter",
       "DateOfBirth": "11/Oct/1859",
       "DateOfDeath": "11/Mar/1881",
+      "Children": []
+    },
+    {
+      "Id": "i90589456",
+      "Name": "Williamina Paterson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1862",
+      "DateOfDeath": "",
       "Children": []
     }
   ]

@@ -1,9 +1,9 @@
 ﻿{
   "Subject": {
-    "Id": "i93188721",
-    "Name": "Margaret Paterson",
+    "Id": "i90589456",
+    "Name": "Williamina Paterson",
     "Gender": "Female",
-    "DateOfBirth": "about 1848",
+    "DateOfBirth": "about 1862",
     "DateOfDeath": ""
   },
   "Parents": [
@@ -31,7 +31,7 @@
       "Gender": "Female",
       "DateOfBirth": "about 1848",
       "DateOfDeath": "",
-      "RelationToSubject": "self",
+      "RelationToSubject": "sister",
       "ParentGroupIds": [
         [
           "i28263584",
@@ -115,7 +115,7 @@
       "Gender": "Female",
       "DateOfBirth": "about 1862",
       "DateOfDeath": "",
-      "RelationToSubject": "sister",
+      "RelationToSubject": "self",
       "ParentGroupIds": [
         [
           "i28263584",

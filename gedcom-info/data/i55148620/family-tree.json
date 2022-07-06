@@ -3,7 +3,7 @@
     "Id": "i55148620",
     "Name": "William Paterson",
     "Gender": "Male",
-    "DateOfBirth": "bet' 1804 and 1823",
+    "DateOfBirth": "about 1823",
     "DateOfDeath": "26/Apr/1906"
   },
   "Parents": [],
@@ -12,7 +12,7 @@
       "Id": "i55148620",
       "Name": "William Paterson",
       "Gender": "Male",
-      "DateOfBirth": "bet' 1804 and 1823",
+      "DateOfBirth": "about 1823",
       "DateOfDeath": "26/Apr/1906",
       "RelationToSubject": "self",
       "ParentGroupIds": []
@@ -23,7 +23,7 @@
       "Id": "i28263584",
       "Name": "Barbara Mackenzie",
       "Gender": "Female",
-      "DateOfBirth": "bet' 1822 and 1831",
+      "DateOfBirth": "about 1823",
       "DateOfDeath": "27/Apr/1884",
       "RelationToSubject": "wife",
       "DateOfMarriage": "7/Aug/1847",
@@ -97,6 +97,18 @@
       "Gender": "Female",
       "DateOfBirth": "11/Oct/1859",
       "DateOfDeath": "11/Mar/1881",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i55148620",
+        "i28263584"
+      ]
+    },
+    {
+      "Id": "i90589456",
+      "Name": "Williamina Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1862",
+      "DateOfDeath": "",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i55148620",

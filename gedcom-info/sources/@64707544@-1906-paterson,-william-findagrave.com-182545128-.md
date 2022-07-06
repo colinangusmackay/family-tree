@@ -38,4 +38,4 @@ References | (URL) [Open original source at https://www.findagrave.com/memorial/
 ## Source Referenced by
 
 * [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
-* [William Paterson](../people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md) (bet' 1804 and 1823 - 26/Apr/1906)
+* [William Paterson](../people/@55148620@-william-paterson-b1823-d1906-4-26.md) (about 1823 - 26/Apr/1906)

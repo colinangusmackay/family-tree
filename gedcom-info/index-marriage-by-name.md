@@ -187,7 +187,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Mackenzie
 
-  * **[Barbara Mackenzie](people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md)** (bet' 1822 and 1831 - 27/Apr/1884) and **[William Paterson](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906) **on 7th of August 1847** at Knockbain, Ross and Cromarty, Scotland.
+  * **[Barbara Mackenzie](people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md)** (about 1823 - 27/Apr/1884) and **[William Paterson](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906) **on 7th of August 1847** at Knockbain, Ross and Cromarty, Scotland.
 
 ## MacLeod
 
@@ -258,7 +258,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Paterson
 
   * **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929) and **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929) **on 18th of July 1872** at Glasgow, Scotland.
-  * **[William Paterson](people/@55148620@-william-paterson-b1804~1823-d1906-4-26.md)** (bet' 1804 and 1823 - 26/Apr/1906) and **[Barbara Mackenzie](people/@28263584@-barbara-mackenzie-b1822~1831-d1884-4-27.md)** (bet' 1822 and 1831 - 27/Apr/1884) **on 7th of August 1847** at Knockbain, Ross and Cromarty, Scotland.
+  * **[William Paterson](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906) and **[Barbara Mackenzie](people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md)** (about 1823 - 27/Apr/1884) **on 7th of August 1847** at Knockbain, Ross and Cromarty, Scotland.
 
 ## Paton
 
