@@ -4,10 +4,6 @@ permalink: /indexes/by-occupation
 ---
 
 # Index - By Occupation
-## 
-
-* **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
-
 ## ____ Caster
 
 * **[Seaton, William](people/@58232144@-william-seaton-b1824-d1891.md)** (about 1824 - after 1891).
@@ -16,32 +12,22 @@ permalink: /indexes/by-occupation
 
 * **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969), mentioned 2 times.
 
-## Agricultural Labourer
+## Baker
 
-* **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
-
-## Apprentice Blacksmith
-
-* **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ).
-
-## Assistant Librarian
-
-* **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015).
-
-## Baker (Journeyman)
+### Baker (Journeyman)
 
 * **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - ).
-
-## Biscuit Factory Operative
-
-* **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004).
 
 ## Blacksmith
 
 * **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ), mentioned 2 times.
 * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912), mentioned 3 times.
 
-## Blacksmith Labourer
+### Apprentice Blacksmith
+
+* **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ).
+
+### Blacksmith Labourer
 
 * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912).
 
@@ -57,6 +43,21 @@ permalink: /indexes/by-occupation
 ## Brass Moulder
 
 * **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - ), mentioned 5 times.
+
+## Business Owner
+
+### Clothing Business
+
+* **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
+* **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
+
+### Proprietor, Children's Nursery
+
+* **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016).
+
+### Real Estate Business
+
+* **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965).
 
 ## Caretaker
 
@@ -82,31 +83,13 @@ permalink: /indexes/by-occupation
 
 * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982), mentioned 3 times.
 
-## Children's Nurse
-
-* **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
-
 ## Clerk
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 
-## Clothing Business
-
-* **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
-* **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
-
-## Coach Painter (Journeyman)
-
-* **[Clark, James](people/@29410614@-james-clark-b-d.md)**.
-
 ## Coachman (Domestic Servant)
 
 * **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
-
-## Coal Miner
-
-* **[Reid, John](people/@95320597@-john-reid-b-d.md)**.
-* **[Tennant, Thomas](people/@12974870@-thomas-tennant-b-d.md)**.
 
 ## Cook
 
@@ -120,37 +103,12 @@ permalink: /indexes/by-occupation
 
 * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966).
 
-## Crane Driver
-
-* **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ).
-
 ## Crofter
 
 * **[Matheson, Hector](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896).
 * **[McIver, Rodrick](people/@53638178@-rodrick-mciver-b-d.md)**.
 * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
 * **[McLean, John](people/@91397610@-john-mclean-b-d1877.md)** ( - after 1877).
-
-## Dairy Maid
-
-* **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998).
-
-## Dairymaid
-
-* **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - ).
-
-## District Nurse
-
-* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996).
-
-## Domestic
-
-* **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
-* **[Cumming, Elizabeth](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ).
-* **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
-* **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971), mentioned 2 times.
-* **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977).
-* **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d.md)** (28/Nov/1890 - ).
 
 ## Domestic Servant
 
@@ -166,6 +124,24 @@ permalink: /indexes/by-occupation
 * **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929).
 * **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ).
 
+### Domestic
+
+* **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
+* **[Cumming, Elizabeth](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ).
+* **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
+* **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971), mentioned 2 times.
+* **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977).
+* **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d.md)** (28/Nov/1890 - ).
+
+### Housekeeper
+
+* **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018).
+
+### Houseworker
+
+* **[Grant, Catherine](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ).
+* **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971).
+
 ## Draftsman
 
 * **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976).
@@ -179,6 +155,30 @@ permalink: /indexes/by-occupation
 
 * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
 
+## Driver
+
+### Crane Driver
+
+* **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ).
+
+### Ham Curer's Vanman
+
+* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929).
+
+### Railway Driver
+
+* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - ).
+
+### Railway Engine Driver
+
+* **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920).
+
+### Tramcar Driver
+
+* **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
+* **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
+* **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - ).
+
 ## Electrician
 
 * **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004), mentioned 2 times.
@@ -188,9 +188,23 @@ permalink: /indexes/by-occupation
 * **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ).
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
 
+## Estate Agent
+
+### Real Estate Business
+
+* **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965).
+
 ## Factory Worker
 
 * **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016).
+
+### Biscuit Factory Operative
+
+* **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004).
+
+### Light Duty Cycle Factory Warehouse
+
+* **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ).
 
 ## Farm Foreman
 
@@ -200,10 +214,27 @@ permalink: /indexes/by-occupation
 
 * **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
 
-## Farm Servant
+## Farm Worker
+
+### Dairy Maid
+
+* **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998).
+
+### Dairymaid
+
+* **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - ).
+
+### Farm Servant
 
 * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ).
 * **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - ).
+
+### Ploughman
+
+* **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ).
+* **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - ).
+* **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
+* **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
 
 ## Farmer
 
@@ -217,13 +248,16 @@ permalink: /indexes/by-occupation
 
 * **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - ).
 
-## Fish Salesman
+## Fish Worker
 
-* **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - ).
-
-## Fishergirl
+### Fishergirl
 
 * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - ).
+
+### Fishwife
+
+* **[Mackay, Barbara](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - ).
+* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
 
 ## Fisherman
 
@@ -272,11 +306,6 @@ permalink: /indexes/by-occupation
 
 * **[Ross, Jessie](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918).
 
-## Fishwife
-
-* **[Mackay, Barbara](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - ).
-* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
-
 ## Fishworker
 
 * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - ).
@@ -309,10 +338,6 @@ permalink: /indexes/by-occupation
 
 * **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008).
 
-## Ham Curer's Vanman
-
-* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929).
-
 ## Head Janitor
 
 * **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975).
@@ -320,15 +345,6 @@ permalink: /indexes/by-occupation
 ## Hospital Matron
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996).
-
-## Housekeeper
-
-* **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018).
-
-## Houseworker
-
-* **[Grant, Catherine](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ).
-* **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971).
 
 ## Jeweller Scratch Crusher
 
@@ -339,23 +355,27 @@ permalink: /indexes/by-occupation
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
 * **[Fisher, John](people/@81248806@-john-fisher-b1819-d1880.md)** (about 1819 - after 1880).
 
-## Laborer
-
-* **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958).
-* **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ).
-
 ## Labourer
 
 * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
 * **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - ).
 
-## Labourer at Colliary
+### Agricultural Labourer
+
+* **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
+
+### Blacksmith Labourer
 
 * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912).
 
-## Ladies Outfitters Shop Assistant
+### Laborer
 
-* **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015).
+* **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958).
+* **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ).
+
+## Labourer at Colliary
+
+* **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912).
 
 ## Lapidary
 
@@ -366,13 +386,13 @@ permalink: /indexes/by-occupation
 
 * **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015).
 
+### Assistant Librarian
+
+* **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015).
+
 ## Library Attendant
 
 * **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - ).
-
-## Light Duty Cycle Factory Warehouse
-
-* **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ).
 
 ## Machinist
 
@@ -404,6 +424,13 @@ permalink: /indexes/by-occupation
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 
+## Miner
+
+### Coal Miner
+
+* **[Reid, John](people/@95320597@-john-reid-b-d.md)**.
+* **[Tennant, Thomas](people/@12974870@-thomas-tennant-b-d.md)**.
+
 ## Minister, Church of Scotland
 
 * **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978).
@@ -421,6 +448,14 @@ permalink: /indexes/by-occupation
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 5 times.
 * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981), mentioned 2 times.
 
+### Children's Nurse
+
+* **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
+
+### District Nurse
+
+* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996).
+
 ## Nurse Director
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 2 times.
@@ -433,16 +468,13 @@ permalink: /indexes/by-occupation
 
 * **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967), mentioned 4 times.
 
+### Coach Painter (Journeyman)
+
+* **[Clark, James](people/@29410614@-james-clark-b-d.md)**.
+
 ## Patten Maker
 
 * **[Fisher, John](people/@81248806@-john-fisher-b1819-d1880.md)** (about 1819 - after 1880).
-
-## Ploughman
-
-* **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ).
-* **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - ).
-* **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
-* **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
 
 ## Porter Railway
 
@@ -461,25 +493,21 @@ permalink: /indexes/by-occupation
 * **[Fisher, Agnes](people/@45605556@-agnes-fisher-b1887-d.md)** (about 1887 - ).
 * **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md)** (29/Nov/1881 - 6/Jun/1953), mentioned 2 times.
 
-## Proprietor, Children's Nursery
-
-* **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016).
-
-## Railway Driver
-
-* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - ).
-
-## Railway Engine Driver
-
-* **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920).
-
 ## Railway Fireman
 
 * **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920).
 
-## Real Estate Business
+## Realtor
+
+### Real Estate Business
 
 * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965).
+
+## Retail Worker
+
+### Ladies Outfitters Shop Assistant
+
+* **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015).
 
 ## Roadman
 
@@ -497,6 +525,16 @@ permalink: /indexes/by-occupation
 
 * **[Gibson, Alexander](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939).
 
+## Sales
+
+### Fish Salesman
+
+* **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - ).
+
+### Ladies Outfitters Shop Assistant
+
+* **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015).
+
 ## School Janitor
 
 * **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975).
@@ -506,7 +544,7 @@ permalink: /indexes/by-occupation
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 * **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969).
 
-## Seaman (Merchant Services)
+### Seaman (Merchant Services)
 
 * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
 * **[McKenzie, Murdoch](people/@1568232@-murdoch-mckenzie-b-d.md)**.
@@ -530,6 +568,21 @@ permalink: /indexes/by-occupation
 ## Shorthand Typist
 
 * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973).
+
+## Smith
+
+### Blacksmith
+
+* **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ), mentioned 2 times.
+* **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912), mentioned 3 times.
+
+### Blacksmith Labourer
+
+* **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912).
+
+### Tinsmith
+
+* **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974).
 
 ## Stair Builder
 
@@ -556,19 +609,9 @@ permalink: /indexes/by-occupation
 
 * **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938), mentioned 2 times.
 
-## Tinsmith
-
-* **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974).
-
 ## Tool Engineer
 
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
-
-## Tramcar Driver
-
-* **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
-* **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
-* **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - ).
 
 ## Vulcanite Worker
 
