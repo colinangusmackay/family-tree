@@ -8,10 +8,6 @@ permalink: /indexes/by-occupation
 
 * **[Seaton, William](people/@58232144@-william-seaton-b1824-d1891.md)** (about 1824 - after 1891).
 
-## Able Seaman
-
-* **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969), mentioned 2 times.
-
 ## Baker
 
 #### Baker (Journeyman)
@@ -32,10 +28,6 @@ There were 2 people who worked as a Blacksmith of some sort.
 #### Blacksmith Labourer
 
 * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912).
-
-## Boatswain
-
-* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
 
 ## Bookkeeper
 
@@ -67,11 +59,14 @@ There were 4 people who worked as a Business Owner of some sort.
 
 ## Carpenter
 
+There were 2 people who worked as a Carpenter of some sort.
+
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
 
-## Carter
+#### Joiner
 
-* **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
+* **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
+* **[Fisher, John](people/@81248806@-john-fisher-b1819-d1880.md)** (about 1819 - after 1880).
 
 ## Cattle Dealer
 
@@ -88,10 +83,6 @@ There were 4 people who worked as a Business Owner of some sort.
 ## Clerk
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
-
-## Coachman (Domestic Servant)
-
-* **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
 
 ## Cook
 
@@ -116,7 +107,7 @@ There were 4 people who worked as a Crofter.
 
 ## Domestic Servant
 
-There were 18 people who worked as a Domestic Servant of some sort.
+There were 19 people who worked as a Domestic Servant of some sort.
 
 * **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - ).
 * **[Fleming, Ellen](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - ).
@@ -129,6 +120,10 @@ There were 18 people who worked as a Domestic Servant of some sort.
 * **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ).
 * **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929).
 * **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ).
+
+#### Coachman (Domestic Servant)
+
+* **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
 
 #### Domestic
 
@@ -165,7 +160,15 @@ There were 2 people who worked as a Draftsman, Electrical.
 
 ## Driver
 
-There were 7 people who worked as a Driver of some sort.
+There were 9 people who worked as a Driver of some sort.
+
+#### Carter
+
+* **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
+
+#### Coachman (Domestic Servant)
+
+* **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
 
 #### Crane Driver
 
@@ -394,10 +397,14 @@ There were 3 people who worked as a Janitor of some sort.
 
 ## Joiner
 
-There were 2 people who worked as a Joiner.
+There were 2 people who worked as a Joiner of some sort.
 
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
 * **[Fisher, John](people/@81248806@-john-fisher-b1819-d1880.md)** (about 1819 - after 1880).
+
+#### Carpenter
+
+* **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
 
 ## Labourer
 
@@ -418,6 +425,10 @@ There were 6 people who worked as a Labourer of some sort.
 
 * **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958).
 * **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ).
+
+#### Mason's Labourer
+
+* **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
 
 ## Labourer at Colliary
 
@@ -459,10 +470,6 @@ There were 2 people who worked as a Machinist.
 
 * **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ), mentioned 2 times.
 
-## Mason's Labourer
-
-* **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
-
 ## Merchant
 
 There were 2 people who worked as a Merchant.
@@ -501,7 +508,7 @@ There were 2 people who worked as a Miner.
 
 ## Nurse
 
-There were 3 people who worked as a Nurse of some sort.
+There were 4 people who worked as a Nurse of some sort.
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 5 times.
 * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981), mentioned 2 times.
@@ -513,6 +520,10 @@ There were 3 people who worked as a Nurse of some sort.
 #### District Nurse
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996).
+
+#### Practical Nursing
+
+* **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
 
 ## Nurse Director
 
@@ -535,10 +546,6 @@ There were 2 people who worked as a Painter of some sort.
 ## Porter Railway
 
 * **[Morgan, Andrew](people/@23628312@-andrew-morgan-b1849-d.md)** (about 1849 - ).
-
-## Practical Nursing
-
-* **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
 
 ## Printer
 
@@ -602,6 +609,14 @@ There were 4 people who worked as a Seaman of some sort.
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 * **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969).
 
+#### Able Seaman
+
+* **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969), mentioned 2 times.
+
+#### Boatswain
+
+* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
+
 #### Seaman (Merchant Services)
 
 * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
@@ -658,12 +673,12 @@ There were 3 people who worked as a Smith of some sort.
 
 ## Tailor
 
-There were 2 people who worked as a Tailor.
+There were 3 people who worked as a Tailor of some sort.
 
 * **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008).
 * **[McLean, John](people/@91397610@-john-mclean-b-d1877.md)** ( - after 1877).
 
-## Tailor (Master)
+#### Tailor (Master)
 
 * **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938).
 
