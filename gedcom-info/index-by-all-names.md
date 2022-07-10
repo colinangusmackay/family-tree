@@ -626,7 +626,7 @@ permalink: /indexes/by-all-names
 - **[Margaret Paterson](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
 - **[William Paterson](people/@78511456@-william-paterson-b-d.md)**
 - **[William Paterson](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906)
-- **[Williamina Paterson](people/@90589456@-williamina-paterson-b1862-d.md)** (about 1862 - )
+- **[Williamina Paterson](people/@90589456@-williamina-paterson-b1861-6-10-d.md)** (10/Jun/1861 - )
 
 ## Paton
 

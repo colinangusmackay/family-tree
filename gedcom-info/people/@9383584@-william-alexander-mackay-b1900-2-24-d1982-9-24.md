@@ -63,12 +63,13 @@ after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1
 Date | Residence | Sources & Notes
 ---|---|---
 1901 | 6 Terrace Street, Embo, Sutherland, Scotland | [25](#25)
+1911 | 6 Terrace Street, Embo, Sutherlandshire | [26](#26)
 1918 | 6 Terrace Street, Embo, Sutherlandshire | [2](#2)
-before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [8](#8), [26](#26)
-1954 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [27](#27)
-1956 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [28](#28)
-1960 | 57 Kersland Street, Glasgow | [29](#29)
-1980 | 57 Kersland Street, Glasgow | [30](#30)
+before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [8](#8), [27](#27)
+1954 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [28](#28)
+1956 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [29](#29)
+1960 | 57 Kersland Street, Glasgow | [30](#30)
+1980 | 57 Kersland Street, Glasgow | [31](#31)
 1981 | Glasgow, Scotland | [22](#22)
 
 ## Known Occupations
@@ -315,25 +316,35 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [14](#14)
 
 ### 26
 
+**1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)**
+
+* [Full text and notes](../sources/@90926792@-1911-mackay,-bella-&-family-census-047-3-12-.md)
+* Date: 2/Apr/1911
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1911 C 047/ 3/ 12
+
+### 27
+
 > On Google maps: [https://www.google.com/maps/@43.6887457,-79.3186802,3a,20.3y,147.68h,90.09t/data=!3m6!1e1!3m4!1sCBT9uFW1WbIbebZypxNMTw!2e0!7i16384!8i8192](https://www.google.com/maps/@43.6887457,-79.3186802,3a,20.3y,147.68h,90.09t/data=!3m6!1e1!3m4!1sCBT9uFW1WbIbebZypxNMTw!2e0!7i16384!8i8192)
 >
 
 
-### 27
+### 28
 
 **1954 X, X A & FAMILY OF VOTING AGE (Register of Voters, Glasgow, Wards 13-26, 1954)**
 
 * [Full text and notes](../sources/@84661563@-1954-mackay,-william-a-&-family-of-voting-age-register-of-voters,-glasgow,-wards-13-26,-1954-.md)
 * Publication: Register of Voters, Glasgow, Wards 13-26, 1954
 
-### 28
+### 29
 
 **1956 X, X A & FAMILY (Glasgow, Lanarkshire, Scotland, Electoral Registers, 1857-1962)**
 
 * [Full text and notes](../sources/@19773398@-1956-mackay,-william-a-&-family-glasgow,-lanarkshire,-scotland,-electoral-registers,-1857-1962-.md)
 * Publication: Glasgow, Lanarkshire, Scotland, Electoral Registers, 1857-1962
 
-### 29
+### 30
 
 **1960 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1960**
 
@@ -342,7 +353,7 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [14](#14)
 * Date: May/1960
 * Responsible Agency: The Post Office
 
-### 30
+### 31
 
 **1980 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1980**
 

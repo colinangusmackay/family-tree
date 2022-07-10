@@ -31,12 +31,14 @@ Date | Item | Description | Sources | Notes
 Date | Residence | Sources & Notes
 ---|---|---
 1901 | 6 Terrace Street, Embo, Sutherland, Scotland | [5](#5)
+1911 | 6 Terrace Street, Embo, Sutherlandshire | [6](#6)
 1923 | 2041 Dundas Street, West Toronto, Ontario, Canada | [4](#4)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
+1911 | Fisherman | [6](#6)
 before 1923 | Fisherman | [4](#4)
 
 ## Footnotes
@@ -83,4 +85,14 @@ before 1923 | Fisherman | [4](#4)
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1901 047/2/14
+
+### 6
+
+**1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)**
+
+* [Full text and notes](../sources/@90926792@-1911-mackay,-bella-&-family-census-047-3-12-.md)
+* Date: 2/Apr/1911
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1911 C 047/ 3/ 12
 

@@ -46,13 +46,14 @@ after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1
 
 Date | Residence | Sources & Notes
 ---|---|---
-1934 | 6 Terrace Street, Embo, Sutherland, Scotland | [6](#6), [12](#12)
+1911 | 6 Terrace Street, Embo, Sutherlandshire | [12](#12)
+1934 | 6 Terrace Street, Embo, Sutherland, Scotland | [6](#6), [13](#13)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1934 | Fishworker in Embo, Sutherland, Scotland | [6](#6)
+1934 | Fish worker in Embo, Sutherland, Scotland | [6](#6)
 
 ## Notes
 
@@ -168,6 +169,16 @@ Date | Occupation | Sources & Notes
   * 1973 M 182/22
 
 ### 12
+
+**1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)**
+
+* [Full text and notes](../sources/@90926792@-1911-mackay,-bella-&-family-census-047-3-12-.md)
+* Date: 2/Apr/1911
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1911 C 047/ 3/ 12
+
+### 13
 
 > 6 Terrace Street, Embo: [https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656](https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656)
 >

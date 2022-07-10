@@ -236,7 +236,7 @@ permalink: /indexes/by-death-location
 - **[Paterson, John](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - )
 - **[Paterson, Margaret](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
 - **[Paterson, William](people/@78511456@-william-paterson-b-d.md)**
-- **[Paterson, Williamina](people/@90589456@-williamina-paterson-b1862-d.md)** (about 1862 - )
+- **[Paterson, Williamina](people/@90589456@-williamina-paterson-b1861-6-10-d.md)** (10/Jun/1861 - )
 - **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - )
 - **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
 - **[Predendall, Barney](people/@69952770@-barney-predendall-b-d.md)**

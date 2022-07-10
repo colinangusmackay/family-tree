@@ -16,7 +16,7 @@ permalink: /people/i54157362
 * Sister: [Ann Paterson](./@11400006@-ann-paterson-b1853-d.md) (about 1853 - )
 * Sister: [Barbara Paterson](./@65135072@-barbara-paterson-b1857-d.md) (about 1857 - )
 * Sister: [Jessie Paterson](./@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md) (11/Oct/1859 - 11/Mar/1881)
-* Sister: [Williamina Paterson](./@90589456@-williamina-paterson-b1862-d.md) (about 1862 - )
+* Sister: [Williamina Paterson](./@90589456@-williamina-paterson-b1861-6-10-d.md) (10/Jun/1861 - )
 
 ## Timeline
 

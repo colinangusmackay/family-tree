@@ -35,7 +35,7 @@ Date | Residence | Sources & Notes
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1936 | Fishworker in Stornoway, Eilean Siar, Scotland | [2](#2)
+1936 | Fish worker in Stornoway, Eilean Siar, Scotland | [2](#2)
 
 ## Footnotes
 

@@ -382,7 +382,7 @@ permalink: /indexes/by-birth-location
 ### Inverness
 
 - **[Paterson, Jessie](people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md)** (11/Oct/1859 - 11/Mar/1881)
-- **[Paterson, Williamina](people/@90589456@-williamina-paterson-b1862-d.md)** (about 1862 - )
+- **[Paterson, Williamina](people/@90589456@-williamina-paterson-b1861-6-10-d.md)** (10/Jun/1861 - )
 
 ### Inverness-shire
 

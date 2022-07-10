@@ -238,9 +238,6 @@ There were 8 people who worked as a Farm Worker of some sort.
 #### Dairy Maid
 
 * **[Campbell, Rachel Smith](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998).
-
-#### Dairymaid
-
 * **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - ).
 
 #### Farm Servant
@@ -269,7 +266,11 @@ There were 8 people who worked as a Farm Worker of some sort.
 
 ## Fish Worker
 
-There were 3 people who worked as a Fish Worker of some sort.
+There were 6 people who worked as a Fish Worker of some sort.
+
+* **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - ).
+* **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
+* **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973).
 
 #### Fishergirl
 
@@ -287,7 +288,7 @@ There were 40 people who worked as a Fisherman.
 * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926), mentioned 3 times.
 * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884), mentioned 3 times.
 * **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875), mentioned 3 times.
-* **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 10 times.
+* **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 11 times.
 * **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923), mentioned 5 times.
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
 * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned 2 times.
@@ -314,7 +315,7 @@ There were 40 people who worked as a Fisherman.
 * **[Mackay, Kenneth](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901).
 * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ).
 * **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - ).
-* **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ).
+* **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ), mentioned 2 times.
 * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
 * **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ).
@@ -331,11 +332,7 @@ There were 40 people who worked as a Fisherman.
 
 ## Fishworker
 
-There were 3 people who worked as a Fishworker.
-
-* **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - ).
-* **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
-* **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973).
+* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
 
 ## Fixer Corporation Tramways
 
@@ -426,15 +423,19 @@ There were 6 people who worked as a Labourer of some sort.
 * **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958).
 * **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ).
 
+#### Labourer at Colliery
+
+* **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912).
+
 #### Mason's Labourer
 
 * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
 
-## Labourer at Colliary
-
-* **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912).
-
 ## Lapidary
+
+> **Lapidary** (from the Latin _lapidarius_) is the practice of shaping stone, minerals, or gemstones into decorative items such as cabochons, engraved gems (including cameos), and faceted designs. A person who practices lapidary is known as a _lapidarist_. A lapidarist uses the lapidary techniques of cutting, grinding, and polishing.
+> 
+> -- From Wikipedia: [Lapidary](https://en.wikipedia.org/wiki/Lapidary)
 
 There were 2 people who worked as a Lapidary.
 
@@ -487,12 +488,16 @@ There were 2 people who worked as a Merchant.
 
 ## Miner
 
-There were 2 people who worked as a Miner.
+There were 3 people who worked as a Miner of some sort.
 
 #### Coal Miner
 
 * **[Reid, John](people/@95320597@-john-reid-b-d.md)**.
 * **[Tennant, Thomas](people/@12974870@-thomas-tennant-b-d.md)**.
+
+#### Labourer at Colliery
+
+* **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912).
 
 ## Minister, Church of Scotland
 

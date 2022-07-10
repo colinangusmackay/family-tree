@@ -182,8 +182,8 @@ permalink: /indexes/by-date-of-birth
   * **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - )
   * **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
   * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1919.md)** (12/Apr/1861 - before 1919)
+  * **[Paterson, Williamina](people/@90589456@-williamina-paterson-b1861-6-10-d.md)** (10/Jun/1861 - )
 * **Born in 1862.**
-  * **[Paterson, Williamina](people/@90589456@-williamina-paterson-b1862-d.md)** (about 1862 - )
   * **[Smith, Rachel](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - )
 * **Born in 1863.**
   * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )

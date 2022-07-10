@@ -5,7 +5,7 @@ permalink: /people/i90589456
 ---
 
 # Williamina Paterson
-(ABOUT 1862 - ?)
+(10 June, 1861 - ?)
 
 ## Immediate Family
 
@@ -22,17 +22,27 @@ permalink: /people/i90589456
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1862 | Born | Born to [William Paterson](./@55148620@-william-paterson-b1823-d1906-4-26.md) and [Barbara Mackenzie](./@28263584@-barbara-mackenzie-b1823-d1884-4-27.md) in Inverness, Scotland. | [1](#1) | 
+10/Jun/1861 | Born | Born to [William Paterson](./@55148620@-william-paterson-b1823-d1906-4-26.md) and [Barbara Mackenzie](./@28263584@-barbara-mackenzie-b1823-d1884-4-27.md) in Inverness, Scotland. | [1](#1), [2](#2) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1871 | Haugh Road, Inverness, Scotland | [1](#1)
+1871 | Haugh Road, Inverness, Scotland | [2](#2)
 
 ## Footnotes
 
 ### 1
+
+**1861 PATERSON, WILLIAMINA (Scotland, Births and Baptisms, 1564-1950)**
+
+* [Full text and notes](../sources/@67651905@-1861-paterson,-williamina-scotland,-births-and-baptisms,-1564-1950-.md)
+* Publication: Scotland, Births and Baptisms, 1564-1950
+* Responsible Agency: FamilySearch
+* References: 
+  * (URL) https://familysearch.org/ark:/61903/1:1:XYGT-VJY
+
+### 2
 
 **1871 PATERSON WILLIAM & FAMILY (Census 098/ 1/ 18)**
 

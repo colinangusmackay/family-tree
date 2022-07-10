@@ -127,4 +127,4 @@ References | 1871 C 098/ 1/ 18
 * [Jessie Paterson](../people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md) (11/Oct/1859 - 11/Mar/1881)
 * [John Paterson](../people/@54157362@-john-paterson-b1855-d.md) (about 1855 - )
 * [William Paterson](../people/@55148620@-william-paterson-b1823-d1906-4-26.md) (about 1823 - 26/Apr/1906)
-* [Williamina Paterson](../people/@90589456@-williamina-paterson-b1862-d.md) (about 1862 - )
+* [Williamina Paterson](../people/@90589456@-williamina-paterson-b1861-6-10-d.md) (10/Jun/1861 - )

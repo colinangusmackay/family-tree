@@ -44,29 +44,30 @@ Aug/1965 | Died | Died in Palm Beach, Florida, United States of America. | [18](
 Date | Residence | Sources & Notes
 ---|---|---
 1901 | 9 Back Street, Embo, Sutherland, Scotland | [20](#20)
-1915 | 9 Front Street, Embo, Sutherland, Scotland | [21](#21)
-20/May/1920 | 25 Steven Street, St George's Cross, Glasgow, Scotland | [21](#21)
+1911 | 9 Front Street, Embo, Sutherland, Scotland | [21](#21)
+1915 | 9 Front Street, Embo, Sutherland, Scotland | [22](#22)
+20/May/1920 | 25 Steven Street, St George's Cross, Glasgow, Scotland | [22](#22)
 after 20/Aug/1920 | 16 Beethoven St. Roxbury, Boston, Massachusetts, USA | [9](#9)
-1922 | 152 Pearl Street, Cambridge, Mass. USA | [21](#21)
-1930 | 80 Summit Avenue, Brookline, Massachusetts, USA | [22](#22)
-1935 | 80 Summit Ave, Brookline, Massachusetts, USA | [23](#23)
+1922 | 152 Pearl Street, Cambridge, Mass. USA | [22](#22)
+1930 | 80 Summit Avenue, Brookline, Massachusetts, USA | [23](#23)
+1935 | 80 Summit Ave, Brookline, Massachusetts, USA | [24](#24)
 1936 | 80 Summit Avenue, Brookline, Massachusetts, USA | [11](#11)
 1939 | 80 Summit Avenue, Brookline, Massachusetts, USA | 
-1940 | 80 Summit Ave, Brookline, Massachusetts, USA | [23](#23)
+1940 | 80 Summit Ave, Brookline, Massachusetts, USA | [24](#24)
 1942 | 80 Summit Avenue, Brookline, Norfolk, Massachusetts, USA | [2](#2)
-1950 | 701 Silver Beach Road, Lake Park, Florida, USA | [24](#24)
-1953 | 701 Silver Beach Road, Lake Park, Florida, USA | [25](#25)
+1950 | 701 Silver Beach Road, Lake Park, Florida, USA | [25](#25)
+1953 | 701 Silver Beach Road, Lake Park, Florida, USA | [26](#26)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1930 | Machinist | [22](#22)
+1930 | Machinist | [23](#23)
 1936 | Machinist | [11](#11)
-1937 | Machinist | [26](#26)
+1937 | Machinist | [27](#27)
 1939 | Machinist | [12](#12)
-1949 | Real Estate Business | [27](#27)
-1953 | Superintendent Public Works | [25](#25)
+1949 | Real Estate Business | [28](#28)
+1953 | Superintendent Public Works | [26](#26)
 
 ## Notes
 
@@ -257,11 +258,21 @@ Date | Occupation | Sources & Notes
 
 ### 21
 
+**1911 CUMMING, DONALD & FAMILY (Census 047/ 3/ 14)**
+
+* [Full text and notes](../sources/@5639012@-1911-cumming,-donald-&-family-census-047-3-14-.md)
+* Date: 1911
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1911 C 047/ 3/ 14
+
+### 22
+
 **1915 CUMMING, GEORGE DAVIDSON SMITH - Royal Navy**
 
 * [Full text and notes](../sources/@49170492@-1915-cumming,-george-davidson-smith-royal-navy.md)
 
-### 22
+### 23
 
 **1930 CUMMING, GEORGE / ALEXINA / THOMASINA / CHRISTINE - 1930 United States Federal Census**
 
@@ -269,13 +280,13 @@ Date | Occupation | Sources & Notes
 * Originator / Author: Department of Commerce - Bureau of the Census
 * Date: 7/Apr/1930
 
-### 23
+### 24
 
 **1940 CUMMING, ALEXINA, GEORGE, THOMASINA, & CHRISTINE - 1940 United States Federal Census**
 
 * [Full text and notes](../sources/@80891523@-1940-cumming,-alexina,-george,-thomasina,-&-christine-1940-united-states-federal-census.md)
 
-### 24
+### 25
 
 **1950 CUMMING, GEORGE DS & MARGARET HOGG (1950 Census)**
 
@@ -284,21 +295,21 @@ Date | Occupation | Sources & Notes
 * Date: 7/Apr/1950
 * Responsible Agency: U.S. Department of Commerce, Bureau of the Census
 
-### 25
+### 26
 
 **1953 CUMMING, GEORGE D.S (West Palm Beach, Florida, City Directory, 1953)**
 
 * [Full text and notes](../sources/@64786767@-1953-cumming,-george-d.s-west-palm-beach,-florida,-city-directory,-1953-.md)
 * Date: 1953
 
-### 26
+### 27
 
 **1937 CUMMING, GEORGE DAVIDSON SMITH**
 
 * [Full text and notes](../sources/@63974962@-1937-cumming,-george-davidson-smith.md)
 * Date: 16/Jul/1937
 
-### 27
+### 28
 
 **1949 Sunday Post - 150 Young Men Went out to Seek Their Fortune (15/May/1949)**
 

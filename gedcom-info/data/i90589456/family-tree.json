@@ -3,7 +3,7 @@
     "Id": "i90589456",
     "Name": "Williamina Paterson",
     "Gender": "Female",
-    "DateOfBirth": "about 1862",
+    "DateOfBirth": "10/Jun/1861",
     "DateOfDeath": ""
   },
   "Parents": [
@@ -113,7 +113,7 @@
       "Id": "i90589456",
       "Name": "Williamina Paterson",
       "Gender": "Female",
-      "DateOfBirth": "about 1862",
+      "DateOfBirth": "10/Jun/1861",
       "DateOfDeath": "",
       "RelationToSubject": "self",
       "ParentGroupIds": [
