@@ -3,16 +3,16 @@ layout: page
 permalink: /sources/s71013758
 ---
 
-# 1863 CUMMING, MARION - Statutory Register Births
+# 1863 CUMMING, MARION (Statutory Register Births 047/ 26)
 
 Field | Detail
 ---:|:---
 Publication | 
 Originator / Author | 
 Date | 21/May/1863
-Responsible Agency | 
+Responsible Agency | National Records of Scotland
 Filed by Entry | 
-References | 
+References | 1863 B 047/ 26
 
 ## Text
 
@@ -50,6 +50,6 @@ References |
 ## Source Referenced by
 
 * [Donald J Cumming](../people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
-* [James Cumming](../people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
+* [James Cumming](../people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
 * [Marion Cumming](../people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md) (20/May/1863 - 15/Nov/1954)
 * [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md) (bet' 1840 and 1842 - 13/Jan/1918)

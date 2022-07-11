@@ -4,7 +4,7 @@
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "28/Nov/1890",
-  "DateOfDeath": "",
+  "DateOfDeath": "27/Jun/1980",
   "Parents": [
     {
       "Id": "i75057664",
@@ -47,7 +47,7 @@
           "Name": "James Cumming",
           "Gender": "Male",
           "Relationship": "father",
-          "DateOfBirth": "bet' 1836 and 1841",
+          "DateOfBirth": "bet' 1834 and 1841",
           "DateOfDeath": "11/Jan/1923",
           "Parents": [
             {

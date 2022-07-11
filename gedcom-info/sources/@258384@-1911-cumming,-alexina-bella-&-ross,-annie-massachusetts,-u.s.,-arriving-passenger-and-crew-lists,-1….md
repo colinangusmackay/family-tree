@@ -143,4 +143,4 @@ References |
 * [Donald J Cumming](../people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
 * [Isabella Cumming](../people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md) (21/Jul/1888 - 1/Feb/1986)
 * [John Cumming](../people/@87723702@-john-cumming-b1873-d.md) (about 1873 - )
-* [Ann Ross](../people/@52613824@-ann-ross-b1890-11-28-d.md) (28/Nov/1890 - )
+* [Ann Ross](../people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md) (28/Nov/1890 - 27/Jun/1980)

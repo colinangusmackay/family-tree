@@ -57,7 +57,7 @@
           "Name": "James Cumming",
           "Gender": "Male",
           "Relationship": "son",
-          "DateOfBirth": "bet' 1836 and 1841",
+          "DateOfBirth": "bet' 1834 and 1841",
           "DateOfDeath": "11/Jan/1923",
           "Children": [
             {
@@ -681,8 +681,18 @@
                   "Gender": "Female",
                   "Relationship": "daughter",
                   "DateOfBirth": "28/Nov/1890",
-                  "DateOfDeath": "",
-                  "Children": []
+                  "DateOfDeath": "27/Jun/1980",
+                  "Children": [
+                    {
+                      "Id": "i49269448",
+                      "Name": "Donald Charles Mitchell",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "26/Mar/1929",
+                      "DateOfDeath": "12/Mar/1982",
+                      "Children": []
+                    }
+                  ]
                 },
                 {
                   "Id": "i22731476",

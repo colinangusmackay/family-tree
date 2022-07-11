@@ -75,7 +75,7 @@ References | 1875 D 047/45
 * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
 * [Donald Cumming](../people/@69575920@-donald-cumming-b-d1875.md) ( - after 1875)
 * [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
-* [James Cumming](../people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
+* [James Cumming](../people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
 * [Ann Davies](../people/@759904@-ann-davies-b-d1875.md) ( - before 1875)
 * [Alexander MacDonald](../people/@47072524@-alexander-macdonald-b-d1875.md) ( - before 1875)
 * [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1875-10-29.md) (about 1807 - 29/Oct/1875)

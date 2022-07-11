@@ -11,6 +11,7 @@ permalink: /indexes/by-birth-location
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 - **[, Nancy](people/@68661720@-nancy-b-d.md)**
+- **[?, ](people/@94950024@---b-d.md)**
 - **[Abernethy, Janet](people/@82771990@-janet-abernethy-b-d.md)**
 - **[Beaton, Ann](people/@23061759@-ann-beaton-b-d.md)**
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
@@ -21,19 +22,15 @@ permalink: /indexes/by-birth-location
 - **[Collins, Helen](people/@79475420@-helen-collins-b-d.md)**
 - **[Cumming, Alexander](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
 - **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
-- **[Cumming, Alexander](people/@7306221@-alexander-cumming-b1865-d.md)** (about 1865 - )
 - **[Cumming, Barbara Ann](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - )
 - **[Cumming, Christy](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
 - **[Cumming, Donald](people/@24876512@-donald-cumming-b-d.md)**
 - **[Cumming, Donald](people/@69575920@-donald-cumming-b-d1875.md)** ( - after 1875)
 - **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
 - **[Cumming, Elizabeth](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - )
-- **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923)
 - **[Cumming, Jessie Ann](people/@65743680@-jessie-ann-cumming-b1920-6-16-d1921-3-26.md)** (16/Jun/1920 - 26/Mar/1921)
 - **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
-- **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
 - **[Cumming, William](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
-- **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
 - **[Currie, Helen](people/@14506844@-helen-currie-b-d1880.md)** ( - before 1880)
 - **[Davies, Ann](people/@759904@-ann-davies-b-d1875.md)** ( - before 1875)
 - **[Falloon, Hannah E](people/@97706646@-hannah-e-falloon-b1922-d1982.md)** (about 1922 - 1982)
@@ -154,6 +151,7 @@ permalink: /indexes/by-birth-location
 - **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
 - **[McRae, Margaret](people/@57014804@-margaret-mcrae-b-d.md)**
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
+- **[Mitchell, ?](people/@47829915@--mitchell-b-d.md)**
 - **[Morgan, John](people/@38398015@-john-morgan-b-d.md)**
 - **[Morrison, Jamesina](people/@11801376@-jamesina-morrison-b-d.md)**
 - **[Morrison, John](people/@39757210@-john-morrison-b-d1877.md)** ( - before 1877)
@@ -276,6 +274,12 @@ permalink: /indexes/by-birth-location
 #### Peterhead
 
 - **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - )
+
+### Angus
+
+#### Arbroath
+
+- **[Mitchell, Thomas](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972)
 
 ### Berwickshire
 
@@ -478,6 +482,13 @@ permalink: /indexes/by-birth-location
 
 - **[Cumming, Anne](people/@14926290@-anne-cumming-b1920-2-23-d2002-11-14.md)** (23/Feb/1920 - 14/Nov/2002)
 
+#### Dornoch
+
+- **[Cumming, Alexander](people/@7306221@-alexander-cumming-b1865-d.md)** (about 1865 - )
+- **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923)
+- **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
+- **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
+
 #### Embo
 
 - **[Cumming, Adam](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926)
@@ -521,7 +532,7 @@ permalink: /indexes/by-birth-location
 - **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
 - **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
 - **[Ross, Alexander](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
-- **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d.md)** (28/Nov/1890 - )
+- **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980)
 - **[Ross, Hugh Alexander](people/@22731476@-hugh-alexander-ross-b1896-11-17-d.md)** (17/Nov/1896 - )
 
 #### Helmsdale
@@ -557,6 +568,10 @@ permalink: /indexes/by-birth-location
 #### Dorchester, Suffolk County
 
 - **[Cummings, James Edward](people/@5591850@-james-edward-cummings-b1912-1-18-d2003-12-11.md)** (18/Jan/1912 - 11/Dec/2003)
+
+#### Lowell, Middlesex
+
+- **[Mitchell, Donald Charles](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982)
 
 ### New York
 

@@ -45,7 +45,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1860s
 
 * **1860**
-  * **21/Feb/1860** : **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918) at Dornoch, Sutherland, Scotland.
+  * **21/Feb/1860** : **[James Cumming](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918) at Dornoch, Sutherland, Scotland.
 * **1861**
   * **14/Feb/1861** : **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) and **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) at Gairloch, Ross and Cromarty, Scotland.
 * **1869**
@@ -152,6 +152,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **15/Apr/1920** : **[John Albert Mathews](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ) and **[Christina Fleming](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - ) at Glasgow, Scotland.
 * **1924**
   * **6/Aug/1924** : **[John Cumming](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ) and **[Carrie Elizabeth Predendall](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - ).
+* **1925**
+  * **15/Aug/1925** : **[Thomas Mitchell](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972) and **[Ann Ross](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980) at Lowell, Middlesex, Massachusetts, United States of America.
 * **1927**
   * **1927** : **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) at Lake George, Warren County, New York, United States of America.
 * **1928**

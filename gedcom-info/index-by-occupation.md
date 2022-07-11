@@ -132,7 +132,7 @@ There were 19 people who worked as a Domestic Servant of some sort.
 * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
 * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971), mentioned 2 times.
 * **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977).
-* **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d.md)** (28/Nov/1890 - ).
+* **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980).
 
 #### Housekeeper
 
@@ -289,7 +289,7 @@ There were 40 people who worked as a Fisherman.
 * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884), mentioned 3 times.
 * **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875), mentioned 3 times.
 * **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 11 times.
-* **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923), mentioned 5 times.
+* **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923), mentioned 6 times.
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
 * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned 2 times.
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
@@ -349,7 +349,7 @@ There were 2 people who worked as a Gardener.
 
 There were 2 people who worked as a General Merchant.
 
-* **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923).
+* **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923).
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
 
 ## General Servant
@@ -463,6 +463,10 @@ There were 2 people who worked as a Machinist.
 * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965), mentioned 4 times.
 * **[Cumming, John](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ).
 
+## Manager (Engineering Services)
+
+* **[Mitchell, Donald Charles](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982).
+
 ## Mantlemaker
 
 * **[McKenzie, Annie](people/@80021760@-annie-mckenzie-b1874-d.md)** (about 1874 - ).
@@ -475,7 +479,7 @@ There were 2 people who worked as a Machinist.
 
 There were 2 people who worked as a Merchant.
 
-* **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923), mentioned 2 times.
+* **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923), mentioned 2 times.
 * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ).
 
 ## Midwife
@@ -513,10 +517,11 @@ There were 3 people who worked as a Miner of some sort.
 
 ## Nurse
 
-There were 4 people who worked as a Nurse of some sort.
+There were 5 people who worked as a Nurse of some sort.
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 5 times.
 * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981), mentioned 2 times.
+* **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980), mentioned 2 times.
 
 #### Children's Nurse
 

@@ -1,0 +1,97 @@
+﻿{
+  "Subject": {
+    "Id": "i65815518",
+    "Name": "Thomas Mitchell",
+    "Gender": "Male",
+    "DateOfBirth": "2/Feb/1891",
+    "DateOfDeath": "4/May/1972"
+  },
+  "Parents": [
+    {
+      "Id": "i47829915",
+      "Name": "? Mitchell",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i94950024",
+      "Name": "? ?",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i12226592",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i47829915",
+          "i94950024"
+        ]
+      ]
+    },
+    {
+      "Id": "i73739848",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i47829915",
+          "i94950024"
+        ]
+      ]
+    },
+    {
+      "Id": "i65815518",
+      "Name": "Thomas Mitchell",
+      "Gender": "Male",
+      "DateOfBirth": "2/Feb/1891",
+      "DateOfDeath": "4/May/1972",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i47829915",
+          "i94950024"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i52613824",
+      "Name": "Ann Ross",
+      "Gender": "Female",
+      "DateOfBirth": "28/Nov/1890",
+      "DateOfDeath": "27/Jun/1980",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "15/Aug/1925",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i49269448",
+      "Name": "Donald Charles Mitchell",
+      "Gender": "Male",
+      "DateOfBirth": "26/Mar/1929",
+      "DateOfDeath": "12/Mar/1982",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i65815518",
+        "i52613824"
+      ]
+    }
+  ]
+}

@@ -47,7 +47,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Elizabeth Cumming](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ) and **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - ) **on 28th of July 1911** at Boston, Massachusetts, United States of America.
   * **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977) **on 10th of December 1943** at Fort Lauderdale, Broward County, Florida, United States of America.
   * **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986) and **[Thomas Mitchell Reid](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974) **on 12th of April 1929** at Brookline, Massachusetts, United States of America.
-  * **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918) **on 21st of February 1860** at Dornoch, Sutherland, Scotland.
+  * **[James Cumming](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918) **on 21st of February 1860** at Dornoch, Sutherland, Scotland.
   * **[James Cumming](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918) and **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - ) **on 24th of December 1907** at Aberdeen, Aberdeenshire, Scotland.
   * **[James Cumming](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975) and **[Williamina Gillie](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003) **on 2nd of May 1928** at Inverness, Scotland.
   * **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) and **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967) **on 12th of April 1918** at Middlesborough, England.
@@ -241,6 +241,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[May Miller](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - ) and **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ) **on 2nd of January 1900**.
 
+## Mitchell
+
+  * **[Thomas Mitchell](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972) and **[Ann Ross](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980) **on 15th of August 1925** at Lowell, Middlesex, Massachusetts, United States of America.
+
 ## Morrison
 
   * **[Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)** and **[James Clark](people/@29410614@-james-clark-b-d.md)** **on 1st of December 1876**.
@@ -297,8 +301,9 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Ross
 
+  * **[Ann Ross](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980) and **[Thomas Mitchell](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972) **on 15th of August 1925** at Lowell, Middlesex, Massachusetts, United States of America.
   * **[Donald Ross](people/@16842942@-donald-ross-b-d.md)** and **[Isabella Mackay](people/@89807594@-isabella-mackay-b-d.md)** **on 4th of February 1896** at Dornoch, Sutherland, Scotland.
-  * **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918) and **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923) **on 21st of February 1860** at Dornoch, Sutherland, Scotland.
+  * **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918) and **[James Cumming](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923) **on 21st of February 1860** at Dornoch, Sutherland, Scotland.
   * **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ) and **[Isabella MacDonald](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - ) **on 30th of December 1881** at Golspie, Sutherland, Scotland.
   * **[John Ross](people/@75057664@-john-ross-b1861-d.md)** (1861 - ) and **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954) **on 19th of November 1889** at Dornoch, Sutherland, Scotland.
   * **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ) and **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) **on 22nd of January 1901**.

@@ -85,10 +85,10 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1833.**
   * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
   * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
+* **Born in 1834.**
+  * **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923)
 * **Born in 1835.**
   * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
-* **Born in 1836.**
-  * **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923)
 * **Born in 1838.**
   * **[Sutherland, Isabella](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884)
   * **[Mackay, Isabella](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
@@ -302,8 +302,9 @@ permalink: /indexes/by-date-of-birth
   * **[McKenzie, Murdoch](people/@99087108@-murdoch-mckenzie-b1890-d.md)** (1890 - )
   * **[Mackay, George](people/@72941728@-george-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
   * **[Mackay, Janet](people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md)** (12/Nov/1890 - 15/May/1891)
-  * **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d.md)** (28/Nov/1890 - )
+  * **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980)
 * **Born in 1891.**
+  * **[Mitchell, Thomas](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972)
   * **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
   * **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
 * **Born in 1892.**
@@ -432,6 +433,8 @@ permalink: /indexes/by-date-of-birth
   * **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
 * **Born in 1928.**
   * **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
+* **Born in 1929.**
+  * **[Mitchell, Donald Charles](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982)
 
 ### 1930s
 
@@ -479,6 +482,7 @@ permalink: /indexes/by-date-of-birth
 * [Isabella](people/@41136024@-isabella-b-d1864.md) ( - after 1864)
 * [Joan](people/@53960434@-joan-b-d2021-2-18.md) ( - 18/Feb/2021)
 * [Nancy](people/@68661720@-nancy-b-d.md)
+* [? ?](people/@94950024@---b-d.md)
 * [Janet Abernethy](people/@82771990@-janet-abernethy-b-d.md)
 * [Ann Beaton](people/@23061759@-ann-beaton-b-d.md)
 * [William Campbell](people/@70442784@-william-campbell-b-d1918.md) ( - before 1918)
@@ -535,6 +539,7 @@ permalink: /indexes/by-date-of-birth
 * [Harvey McLean](people/@70471714@-harvey-mclean-b-d.md)
 * [John McLean](people/@91397610@-john-mclean-b-d1877.md) ( - after 1877)
 * [Margaret McRae](people/@57014804@-margaret-mcrae-b-d.md)
+* [? Mitchell](people/@47829915@--mitchell-b-d.md)
 * [John Morgan](people/@38398015@-john-morgan-b-d.md)
 * [Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)
 * [John Morrison](people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)

@@ -21,6 +21,10 @@ permalink: /indexes/by-all-names
 - **[Nancy](people/@68661720@-nancy-b-d.md)**
 - **[Teenie](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
 
+## ?
+
+- **[? ?](people/@94950024@---b-d.md)**
+
 ## Abernethy
 
 - **[Janet Abernethy](people/@82771990@-janet-abernethy-b-d.md)**
@@ -113,7 +117,7 @@ permalink: /indexes/by-all-names
 - **[Elizabeth Cumming](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - )
 - **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Isabella Cumming](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986)
-- **[James Cumming](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923)
+- **[James Cumming](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923)
 - **[James Cumming](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918)
 - **[James Cumming](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 - **[Janet Cumming](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918)
@@ -578,7 +582,13 @@ permalink: /indexes/by-all-names
 
 ## Mitchell
 
+- **[? Mitchell](people/@47829915@--mitchell-b-d.md)**
+- **[? Mitchell](people/@94950024@---b-d.md)**
+- **[Annie Constance Mitchell](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980)
+- **[Annie Constance Ross Mitchell](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980)
+- **[Donald Charles Mitchell](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982)
 - **[Mitchell](people/@57477342@-mildred-hayes-b-d2018.md)** ( - before 2018)
+- **[Thomas Mitchell](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972)
 
 ## Morgan
 
@@ -704,7 +714,7 @@ permalink: /indexes/by-all-names
 - **[Alex Ross](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
 - **[Alexander Ross](people/@81387900@-alexander-ross-b1814-d1896-1-20.md)** (about 1814 - 20/Jan/1896)
 - **[Alexander Ross](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
-- **[Ann Ross](people/@52613824@-ann-ross-b1890-11-28-d.md)** (28/Nov/1890 - )
+- **[Ann Ross](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980)
 - **[Christina Ross](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
 - **[Christy Ross](people/@37144832@-christy-ross-b-d.md)**
 - **[Donald Ross](people/@16842942@-donald-ross-b-d.md)**

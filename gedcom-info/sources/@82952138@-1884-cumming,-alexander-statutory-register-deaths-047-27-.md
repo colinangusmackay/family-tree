@@ -111,5 +111,5 @@ References | 1884 D 047/27
 
 * [Adam Cumming](../people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) (2/Jul/1841 - 18/Jan/1926)
 * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
-* [James Cumming](../people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md) (bet' 1836 and 1841 - 11/Jan/1923)
+* [James Cumming](../people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
 * [Isabella Sutherland](../people/@79967653@-isabella-sutherland-b1838-d1884.md) (1838 - after 1884)

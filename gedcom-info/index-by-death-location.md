@@ -12,6 +12,7 @@ permalink: /indexes/by-death-location
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 - **[, Nancy](people/@68661720@-nancy-b-d.md)**
+- **[?, ](people/@94950024@---b-d.md)**
 - **[Abernethy, Janet](people/@82771990@-janet-abernethy-b-d.md)**
 - **[Beatie, Margaret](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - )
 - **[Beaton, Ann](people/@23061759@-ann-beaton-b-d.md)**
@@ -220,6 +221,7 @@ permalink: /indexes/by-death-location
 - **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
 - **[McTurk, Jane](people/@18380667@-jane-mcturk-b1880-d.md)** (about 1880 - )
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
+- **[Mitchell, ?](people/@47829915@--mitchell-b-d.md)**
 - **[Morgan, Andrew](people/@23628312@-andrew-morgan-b1849-d.md)** (about 1849 - )
 - **[Morgan, Ann](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - )
 - **[Morgan, John](people/@38398015@-john-morgan-b-d.md)**
@@ -264,7 +266,6 @@ permalink: /indexes/by-death-location
 - **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
 - **[Ross, Alexander](people/@81387900@-alexander-ross-b1814-d1896-1-20.md)** (about 1814 - 20/Jan/1896)
 - **[Ross, Alexander](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
-- **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d.md)** (28/Nov/1890 - )
 - **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
 - **[Ross, Christy](people/@37144832@-christy-ross-b-d.md)**
 - **[Ross, Donald](people/@16842942@-donald-ross-b-d.md)**
@@ -409,7 +410,7 @@ permalink: /indexes/by-death-location
 - **[Cumming, Adam](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926)
 - **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
 - **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
-- **[Cumming, James](people/@66384942@-james-cumming-b1836~1841-d1923-1-11.md)** (bet' 1836 and 1841 - 11/Jan/1923)
+- **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923)
 - **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966)
 - **[Fraser, Ann](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891)
 - **[Fraser, Kenneth](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
@@ -433,6 +434,15 @@ permalink: /indexes/by-death-location
 #### Livingston
 
 - **[O'Malley, Margaret Paton](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
+
+
+## United States
+
+### Texas
+
+#### El Lago, Harris County
+
+- **[Mitchell, Donald Charles](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982)
 
 
 ## United States of America
@@ -461,6 +471,7 @@ permalink: /indexes/by-death-location
 #### Polk City, Polk
 
 - **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
+- **[Mitchell, Thomas](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972)
 
 #### West Palm Beach, Palm Beach
 
@@ -494,4 +505,10 @@ permalink: /indexes/by-death-location
 #### Manhattan
 
 - **[Cumming, Jessie Ann](people/@65743680@-jessie-ann-cumming-b1920-6-16-d1921-3-26.md)** (16/Jun/1920 - 26/Mar/1921)
+
+### Texas
+
+#### Clear Lake Hospital, Harris County
+
+- **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980)
 
