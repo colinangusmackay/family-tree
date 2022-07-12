@@ -43,7 +43,7 @@ after 1971 | Died | Died. | [3](#3) |
 
 ### 3
 
-**1971 X, XHOMAS A - Xhe BosXon Globe Xed Apr 7 1971**
+**1971 X, THOMAS A - The Boston Globe Wed Apr 7 1971**
 
 * [Full text and notes](../sources/@15224340@-1971-stevens,-thomas-a-the-boston-globe-wed-apr-7-1971.md)
 * Publication: The Boston Globe

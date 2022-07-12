@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s22454760
 ---
 
-# 1972 X, X ELIZAX WILSON - The Bridgeport Post Thu Xan 13 1972
+# 1972 X, X ELIZAX WILSON - The Bridgeport Post Thu Jan 13 1972
 
 Field | Detail
 ---:|:---

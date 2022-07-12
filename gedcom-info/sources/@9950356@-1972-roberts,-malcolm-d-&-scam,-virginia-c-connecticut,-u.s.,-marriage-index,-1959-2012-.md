@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s9950356
 ---
 
-# 1972 X, MALXOLM D & SXAM, X X (XonneXtiXut, U.S., Marriage Index, 1959-2012)
+# 1972 X, MALCOLM D & X, X C (Connecticut, U.S., Marriage Index, 1959-2012)
 
 Field | Detail
 ---:|:---

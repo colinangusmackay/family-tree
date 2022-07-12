@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s70335625
 ---
 
-# FLEMING, JOSEPH & FAMILY (Family XegisteX)
+# FLEMING, JOSEPH & FAMILY (Family Register)
 
 Field | Detail
 ---:|:---
@@ -20,7 +20,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Notes
 
-> This is a family heiXloom that contains a XecoXd of family infoXmation in the centXe pages of The Holy Bible, staXting with Joseph Fleming and his wife MaXgaXet Tennant.
+> This is a family heirloom that contains a record of family information in the centre pages of The Holy Bible, starting with Joseph Fleming and his wife Margaret Tennant.
 >
 
 

@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s67337826
 ---
 
-# 1956 XITCHELL, DONALD CHARLES & X, SYLVIA JEAN (The Berkshire Eagle, 8 Sep 1956, page 5)
+# 1956 MITCHELL, DONALD CHARLES & X, SYLVIA JEAN (The Berkshire Eagle, 8 Sep 1956, page 5)
 
 Field | Detail
 ---:|:---

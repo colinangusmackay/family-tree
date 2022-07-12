@@ -32,7 +32,7 @@ Date | Residence | Sources & Notes
 
 ### 1
 
-**1993 XITCHELL, SYLVIX J. (The Berkshire EXgle)**
+**1993 X, SYLVIA J. (The Berkshire Eagle)**
 
 * [Full text and notes](../sources/@20185916@-1993-mitchell,-sylvia-j.-the-berkshire-eagle-.md)
 * Publication: The Berkshire Eagle, Pittsfield, Massachusetts
@@ -40,7 +40,7 @@ Date | Residence | Sources & Notes
 
 ### 2
 
-**1956 XITCHELL, DONALD CHARLES & X, SYLVIA JEAN (The Berkshire Eagle, 8 Sep 1956, page 5)**
+**1956 MITCHELL, DONALD CHARLES & X, SYLVIA JEAN (The Berkshire Eagle, 8 Sep 1956, page 5)**
 
 * [Full text and notes](../sources/@67337826@-1956-mitchell,-donald-charles-&-hoctor,-sylvia-jean-the-berkshire-eagle,-8-sep-1956,-page-5-.md)
 * Publication: The Berkshire Eagle

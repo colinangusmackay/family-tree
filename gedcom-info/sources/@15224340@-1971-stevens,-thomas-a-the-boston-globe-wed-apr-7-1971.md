@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s15224340
 ---
 
-# 1971 X, XHOMAS A - Xhe BosXon Globe Xed Apr 7 1971
+# 1971 X, THOMAS A - The Boston Globe Wed Apr 7 1971
 
 Field | Detail
 ---:|:---

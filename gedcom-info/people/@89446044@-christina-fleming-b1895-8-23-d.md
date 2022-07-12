@@ -72,7 +72,7 @@ Date | Occupation | Sources & Notes
 
 ### 3
 
-**FLEMING, JOSEPH & FAMILY (Family XegisteX)**
+**FLEMING, JOSEPH & FAMILY (Family Register)**
 
 * [Full text and notes](../sources/@70335625@-fleming,-joseph-&-family-family-register-.md)
 

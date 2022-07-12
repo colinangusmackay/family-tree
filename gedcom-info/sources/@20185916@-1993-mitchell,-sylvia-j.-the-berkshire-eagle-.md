@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s20185916
 ---
 
-# 1993 XITCHELL, SYLVIX J. (The Berkshire EXgle)
+# 1993 X, SYLVIA J. (The Berkshire Eagle)
 
 Field | Detail
 ---:|:---

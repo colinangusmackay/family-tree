@@ -56,7 +56,7 @@ Date | Occupation | Sources & Notes
 
 ### 2
 
-**1956 XITCHELL, DONALD CHARLES & X, SYLVIA JEAN (The Berkshire Eagle, 8 Sep 1956, page 5)**
+**1956 MITCHELL, DONALD CHARLES & X, SYLVIA JEAN (The Berkshire Eagle, 8 Sep 1956, page 5)**
 
 * [Full text and notes](../sources/@67337826@-1956-mitchell,-donald-charles-&-hoctor,-sylvia-jean-the-berkshire-eagle,-8-sep-1956,-page-5-.md)
 * Publication: The Berkshire Eagle

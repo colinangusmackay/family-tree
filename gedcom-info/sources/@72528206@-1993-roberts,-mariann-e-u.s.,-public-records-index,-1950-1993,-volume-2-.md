@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s72528206
 ---
 
-# 1993 ROBXRTS, X X (U.S., Public RXcords IndXx, 1950-1993, VolumX 2)
+# 1993 X, X E (U.S., Public Records Index, 1950-1993, Volume 2)
 
 Field | Detail
 ---:|:---

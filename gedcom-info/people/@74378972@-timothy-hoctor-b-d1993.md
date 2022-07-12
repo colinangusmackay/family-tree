@@ -26,7 +26,7 @@ before 1993 | Died | Died. | [1](#1) |
 
 ### 1
 
-**1993 XITCHELL, SYLVIX J. (The Berkshire EXgle)**
+**1993 X, SYLVIA J. (The Berkshire Eagle)**
 
 * [Full text and notes](../sources/@20185916@-1993-mitchell,-sylvia-j.-the-berkshire-eagle-.md)
 * Publication: The Berkshire Eagle, Pittsfield, Massachusetts

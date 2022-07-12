@@ -102,7 +102,7 @@ Date | Occupation | Sources & Notes
 
 ### 7
 
-**1972 X, X ELIZAX WILSON - The Bridgeport Post Thu Xan 13 1972**
+**1972 X, X ELIZAX WILSON - The Bridgeport Post Thu Jan 13 1972**
 
 * [Full text and notes](../sources/@22454760@-1972-roberts,-mary-elizabeth-wilson-the-bridgeport-post-thu-jan-13-1972.md)
 * Publication: The Bridgeport Post
@@ -110,7 +110,7 @@ Date | Occupation | Sources & Notes
 
 ### 8
 
-**1972 X, MALXOLM D & SXAM, X X (XonneXtiXut, U.S., Marriage Index, 1959-2012)**
+**1972 X, MALCOLM D & X, X C (Connecticut, U.S., Marriage Index, 1959-2012)**
 
 * [Full text and notes](../sources/@9950356@-1972-roberts,-malcolm-d-&-scam,-virginia-c-connecticut,-u.s.,-marriage-index,-1959-2012-.md)
 * Publication: Connecticut, U.S., Marriage Index, 1959-2012
