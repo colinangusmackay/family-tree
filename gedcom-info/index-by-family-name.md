@@ -239,6 +239,12 @@ permalink: /indexes/by-family-name
 - **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - )
 - **[James Henderson](people/@92250700@-james-henderson-b-d.md)**
 
+## Hoctor
+
+- **[James A Hoctor](people/@72154199@-james-a-hoctor-b-d1993.md)** ( - before 1993)
+- **[Sylvia Jean Hoctor](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993)
+- **[Timothy Hoctor](people/@74378972@-timothy-hoctor-b-d1993.md)** ( - before 1993)
+
 ## Johnson
 
 - **[Ann Johnson](people/@85807260@-ann-johnson-b-d.md)**

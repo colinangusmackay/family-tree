@@ -115,6 +115,8 @@ permalink: /indexes/by-death-location
 - **[Hayes, Vernon](people/@31599970@-vernon-hayes-b-d2018.md)** ( - before 2018)
 - **[Henderson, Edward](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - )
 - **[Henderson, James](people/@92250700@-james-henderson-b-d.md)**
+- **[Hoctor, James A](people/@72154199@-james-a-hoctor-b-d1993.md)** ( - before 1993)
+- **[Hoctor, Timothy](people/@74378972@-timothy-hoctor-b-d1993.md)** ( - before 1993)
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
 - **[LaFavre, Stasia](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
 - **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
@@ -436,15 +438,6 @@ permalink: /indexes/by-death-location
 - **[O'Malley, Margaret Paton](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
 
 
-## United States
-
-### Texas
-
-#### El Lago, Harris County
-
-- **[Mitchell, Donald Charles](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982)
-
-
 ## United States of America
 
 ### Connecticut
@@ -510,5 +503,10 @@ permalink: /indexes/by-death-location
 
 #### Clear Lake Hospital, Harris County
 
+- **[Hoctor, Sylvia Jean](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993)
 - **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980)
+
+#### El Lago, Harris County
+
+- **[Mitchell, Donald Charles](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982)
 

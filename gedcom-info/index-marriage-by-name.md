@@ -132,6 +132,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - ) and **[Elizabeth Cumming](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ) **on 28th of July 1911** at Boston, Massachusetts, United States of America.
 
+## Hoctor
+
+  * **[Sylvia Jean Hoctor](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993) and **[Donald Charles Mitchell](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982) **on 8th of September 1956** at Pittsfield, Berkshire County, Massachusetts, United States of America.
+
 ## Lindores
 
   * **[Ann Lindores](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ) and **[John Gillie](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881) **on 26th of May 1880** at Eyemouth, Berwickshire, Scotland.
@@ -243,6 +247,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Mitchell
 
+  * **[Donald Charles Mitchell](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982) and **[Sylvia Jean Hoctor](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993) **on 8th of September 1956** at Pittsfield, Berkshire County, Massachusetts, United States of America.
   * **[Thomas Mitchell](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972) and **[Ann Ross](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980) **on 15th of August 1925** at Lowell, Middlesex, Massachusetts, United States of America.
 
 ## Morrison

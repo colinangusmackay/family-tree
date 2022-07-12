@@ -43,14 +43,51 @@
   "Spouses": [
     {
       "Id": "i29702140",
+      "Name": "Sylvia Jean Hoctor",
+      "Gender": "Female",
+      "DateOfBirth": "21/Dec/1933",
+      "DateOfDeath": "1993",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "8/Sep/1956",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i23834727",
       "Name": "X",
       "Gender": "Female",
       "DateOfBirth": "",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
-      "DateOfDivorce": ""
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i49269448",
+        "i29702140"
+      ]
+    },
+    {
+      "Id": "i67789032",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i49269448",
+        "i29702140"
+      ]
+    },
+    {
+      "Id": "i40618442",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i49269448",
+        "i29702140"
+      ]
     }
-  ],
-  "Children": []
+  ]
 }

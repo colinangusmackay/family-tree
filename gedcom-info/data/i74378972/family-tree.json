@@ -1,0 +1,101 @@
+﻿{
+  "Subject": {
+    "Id": "i74378972",
+    "Name": "Timothy Hoctor",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1993"
+  },
+  "Parents": [
+    {
+      "Id": "i72154199",
+      "Name": "James A Hoctor",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1993",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i6627492",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i44743917",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i6627492",
+          "i72154199"
+        ]
+      ]
+    },
+    {
+      "Id": "i19173328",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i6627492",
+          "i72154199"
+        ]
+      ]
+    },
+    {
+      "Id": "i82552058",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i6627492",
+          "i72154199"
+        ]
+      ]
+    },
+    {
+      "Id": "i74378972",
+      "Name": "Timothy Hoctor",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1993",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i6627492",
+          "i72154199"
+        ]
+      ]
+    },
+    {
+      "Id": "i29702140",
+      "Name": "Sylvia Jean Hoctor",
+      "Gender": "Female",
+      "DateOfBirth": "21/Dec/1933",
+      "DateOfDeath": "1993",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i6627492",
+          "i72154199"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

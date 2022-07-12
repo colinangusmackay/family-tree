@@ -1,0 +1,95 @@
+﻿{
+  "Subject": {
+    "Id": "i72154199",
+    "Name": "James A Hoctor",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1993"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i72154199",
+      "Name": "James A Hoctor",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1993",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i6627492",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i44743917",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i72154199",
+        "i6627492"
+      ]
+    },
+    {
+      "Id": "i19173328",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i72154199",
+        "i6627492"
+      ]
+    },
+    {
+      "Id": "i82552058",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i72154199",
+        "i6627492"
+      ]
+    },
+    {
+      "Id": "i74378972",
+      "Name": "Timothy Hoctor",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1993",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i72154199",
+        "i6627492"
+      ]
+    },
+    {
+      "Id": "i29702140",
+      "Name": "Sylvia Jean Hoctor",
+      "Gender": "Female",
+      "DateOfBirth": "21/Dec/1933",
+      "DateOfDeath": "1993",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i72154199",
+        "i6627492"
+      ]
+    }
+  ]
+}

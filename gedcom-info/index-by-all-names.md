@@ -324,6 +324,12 @@ permalink: /indexes/by-all-names
 - **[James Henderson](people/@92250700@-james-henderson-b-d.md)**
 - **[Janet Henderson](people/@82771990@-janet-abernethy-b-d.md)**
 
+## Hoctor
+
+- **[James A Hoctor](people/@72154199@-james-a-hoctor-b-d1993.md)** ( - before 1993)
+- **[Sylvia Jean Hoctor](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993)
+- **[Timothy Hoctor](people/@74378972@-timothy-hoctor-b-d1993.md)** ( - before 1993)
+
 ## Johnson
 
 - **[Ann Johnson](people/@85807260@-ann-johnson-b-d.md)**
@@ -588,6 +594,7 @@ permalink: /indexes/by-all-names
 - **[Annie Constance Ross Mitchell](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980)
 - **[Donald Charles Mitchell](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982)
 - **[Mitchell](people/@57477342@-mildred-hayes-b-d2018.md)** ( - before 2018)
+- **[Sylvia Jean Mitchell](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993)
 - **[Thomas Mitchell](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972)
 
 ## Morgan

@@ -70,6 +70,8 @@ permalink: /indexes/by-birth-location
 - **[Hayes, Vernon](people/@31599970@-vernon-hayes-b-d2018.md)** ( - before 2018)
 - **[Henderson, Edward](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - )
 - **[Henderson, James](people/@92250700@-james-henderson-b-d.md)**
+- **[Hoctor, James A](people/@72154199@-james-a-hoctor-b-d1993.md)** ( - before 1993)
+- **[Hoctor, Timothy](people/@74378972@-timothy-hoctor-b-d1993.md)** ( - before 1993)
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
 - **[LaFavre, Stasia](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
 - **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
@@ -572,6 +574,10 @@ permalink: /indexes/by-birth-location
 #### Lowell, Middlesex
 
 - **[Mitchell, Donald Charles](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982)
+
+#### Pittsfield, Berkshire County
+
+- **[Hoctor, Sylvia Jean](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993)
 
 ### New York
 

@@ -636,7 +636,35 @@
               "Relationship": "son",
               "DateOfBirth": "26/Mar/1929",
               "DateOfDeath": "12/Mar/1982",
-              "Children": []
+              "Children": [
+                {
+                  "Id": "i23834727",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i67789032",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i40618442",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
             }
           ]
         },

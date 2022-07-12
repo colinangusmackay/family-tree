@@ -214,10 +214,18 @@ There were 9 people who worked as a Driver of some sort.
 
 ## Engineer
 
-There were 2 people who worked as a Engineer.
+There were 3 people who worked as a Engineer of some sort.
 
 * **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ).
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
+
+#### Engineering Laboritory Technician
+
+* **[Mitchell, Donald Charles](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982).
+
+#### Manager (Engineering Services)
+
+* **[Mitchell, Donald Charles](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982).
 
 ## Estate Agent
 
@@ -757,6 +765,10 @@ There were 3 people who worked as a Tailor of some sort.
 ## Tool Engineer
 
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
+
+## Tracer, Drafting Department
+
+* **[Hoctor, Sylvia Jean](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993).
 
 ## Vulcanite Worker
 

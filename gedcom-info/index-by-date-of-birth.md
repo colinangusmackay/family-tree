@@ -442,6 +442,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Donald James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 * **Born in 1933.**
   * **[Stead, Lawrence](people/@18256653@-lawrence-stead-b1933-11-29-d1989-3.md)** (29/Nov/1933 - Mar/1989)
+  * **[Hoctor, Sylvia Jean](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993)
 * **Born in 1934.**
   * **[Stead, Albert](people/@82189144@-albert-stead-b1934-d1938-8-22.md)** (about 1934 - 22/Aug/1938)
 * **Born in 1935.**
@@ -512,6 +513,8 @@ permalink: /indexes/by-date-of-birth
 * [Sarah Hayes](people/@32431312@-sarah-hayes-b-d2018.md) ( - before 2018)
 * [Vernon Hayes](people/@31599970@-vernon-hayes-b-d2018.md) ( - before 2018)
 * [James Henderson](people/@92250700@-james-henderson-b-d.md)
+* [James A Hoctor](people/@72154199@-james-a-hoctor-b-d1993.md) ( - before 1993)
+* [Timothy Hoctor](people/@74378972@-timothy-hoctor-b-d1993.md) ( - before 1993)
 * [Ann Johnson](people/@85807260@-ann-johnson-b-d.md)
 * [Stasia LaFavre](people/@16839684@-stasia-lafavre-b-d2018.md) ( - before 2018)
 * [Agnes Lowall](people/@38031148@-agnes-lowall-b-d.md)

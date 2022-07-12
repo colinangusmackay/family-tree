@@ -1,0 +1,149 @@
+﻿{
+  "Subject": {
+    "Id": "i29702140",
+    "Name": "Sylvia Jean Hoctor",
+    "Gender": "Female",
+    "DateOfBirth": "21/Dec/1933",
+    "DateOfDeath": "1993"
+  },
+  "Parents": [
+    {
+      "Id": "i72154199",
+      "Name": "James A Hoctor",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1993",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i6627492",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i44743917",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i6627492",
+          "i72154199"
+        ]
+      ]
+    },
+    {
+      "Id": "i19173328",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i6627492",
+          "i72154199"
+        ]
+      ]
+    },
+    {
+      "Id": "i82552058",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i6627492",
+          "i72154199"
+        ]
+      ]
+    },
+    {
+      "Id": "i74378972",
+      "Name": "Timothy Hoctor",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1993",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i6627492",
+          "i72154199"
+        ]
+      ]
+    },
+    {
+      "Id": "i29702140",
+      "Name": "Sylvia Jean Hoctor",
+      "Gender": "Female",
+      "DateOfBirth": "21/Dec/1933",
+      "DateOfDeath": "1993",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i6627492",
+          "i72154199"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i49269448",
+      "Name": "Donald Charles Mitchell",
+      "Gender": "Male",
+      "DateOfBirth": "26/Mar/1929",
+      "DateOfDeath": "12/Mar/1982",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "8/Sep/1956",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i23834727",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i49269448",
+        "i29702140"
+      ]
+    },
+    {
+      "Id": "i67789032",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i49269448",
+        "i29702140"
+      ]
+    },
+    {
+      "Id": "i40618442",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i49269448",
+        "i29702140"
+      ]
+    }
+  ]
+}

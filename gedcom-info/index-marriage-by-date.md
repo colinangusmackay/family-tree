@@ -192,6 +192,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1952**
   * **Oct/1952** : **[Robert Dennis R Mathews](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009) and **[Hannah E Falloon](people/@97706646@-hannah-e-falloon-b1922-d1982.md)** (about 1922 - 1982) at Birmingham, England.
+* **1956**
+  * **8/Sep/1956** : **[Donald Charles Mitchell](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982) and **[Sylvia Jean Hoctor](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993) at Pittsfield, Berkshire County, Massachusetts, United States of America.
 * **1959**
   * **1959** : **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011) and **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) at Glasgow, Scotland.
 
