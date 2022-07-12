@@ -80,6 +80,22 @@ There were 2 people who worked as a Carpenter of some sort.
 
 * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982), mentioned 3 times.
 
+## Child Care Professional
+
+There were 3 people who worked as a Child Care Professional of some sort.
+
+#### Children's Nurse
+
+* **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
+
+#### Nanny
+
+* **[Mackay, Anna Jess](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021).
+
+#### Proprietor, Children's Nursery
+
+* **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016).
+
 ## Clerk
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
@@ -356,13 +372,39 @@ There were 2 people who worked as a General Merchant.
 
 * **[McLean, Mary](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - ).
 
-## Grocer's Apprentice
-
-* **[Paterson, John](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - ).
-
 ## Gunner, Royal Artillery
 
 * **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008).
+
+## Health Care Professional
+
+There were 6 people who worked as a Health Care Professional of some sort.
+
+#### Children's Nurse
+
+* **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
+
+#### District Nurse
+
+* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996).
+
+#### Midwife
+
+* **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019).
+
+#### Nurse
+
+* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 5 times.
+* **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981), mentioned 2 times.
+* **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980), mentioned 2 times.
+
+#### Nurse Director
+
+* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 2 times.
+
+#### Practical Nursing
+
+* **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
 
 ## Hospital Matron
 
@@ -463,9 +505,17 @@ There were 2 people who worked as a Machinist.
 * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965), mentioned 4 times.
 * **[Cumming, John](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ).
 
-## Manager (Engineering Services)
+## Manager
+
+There were 2 people who worked as a Manager of some sort.
+
+#### Manager (Engineering Services)
 
 * **[Mitchell, Donald Charles](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982).
+
+#### Nurse Director
+
+* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 2 times.
 
 ## Mantlemaker
 
@@ -483,6 +533,12 @@ There were 2 people who worked as a Merchant.
 * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ).
 
 ## Midwife
+
+> A midwife is a health professional who cares for mothers and newborns around childbirth, a specialisation known as midwifery.
+> 
+> The education and training for a midwife concentrates extensively on the care of women throughout their lifespan; concentrating on being experts in what is normal and identifying conditions that need further evaluation. In most countries, midwives are recognised as skilled healthcare providers. Midwives are trained to recognise variations from the normal progress of labour and understand how to deal with deviations from normal. They may intervene in high risk situations such as breech births, twin births, and births where the baby is in a posterior position, using non-invasive techniques. For complications related to pregnancy and birth that are beyond the midwife's scope of practice, including surgical and instrumental deliveries, they refer their patients to physicians or surgeons.
+> 
+> -- From Wikipedia: [Midwife](https://en.wikipedia.org/wiki/Midwife)
 
 * **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019).
 
@@ -507,10 +563,6 @@ There were 3 people who worked as a Miner of some sort.
 
 * **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978).
 
-## Nanny
-
-* **[Mackay, Anna Jess](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021).
-
 ## Night Inspector of Water Fittings
 
 * **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929).
@@ -531,13 +583,13 @@ There were 5 people who worked as a Nurse of some sort.
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996).
 
+#### Nurse Director
+
+* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 2 times.
+
 #### Practical Nursing
 
 * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
-
-## Nurse Director
-
-* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 2 times.
 
 ## Painter
 
@@ -579,6 +631,12 @@ There were 2 people who worked as a Printer's Machinist.
 * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965).
 
 ## Retail Worker
+
+There were 2 people who worked as a Retail Worker of some sort.
+
+#### Grocer's Apprentice
+
+* **[Paterson, John](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - ).
 
 #### Ladies Outfitters Shop Assistant
 
