@@ -33,14 +33,14 @@ Date | Residence | Sources & Notes
 ---|---|---
 1930 | State Farm, Bridgewater, Plymouth, Massachusetts, United States of America | [1](#1)
 1933 | 661 Rogers Street, Lowell, Massachusetts, USA | [6](#6)
-1956 | Syracuse, Onondaga County, New York, United States | [2](#2)
+1956 | Syracuse, Onondaga County, New York, United States of America | [2](#2)
 1982 | 423 Whitecap, El Lago, Harris County, Texas, United States of America | [5](#5)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1956 | Engineering Laboritory Technician in Syracuse, Onondaga County, New York, United States | [2](#2)
+1956 | Engineering Laboritory Technician in Syracuse, Onondaga County, New York, United States of America | [2](#2)
 1982 | Manager (Engineering Services) | [5](#5)
 
 ## Footnotes

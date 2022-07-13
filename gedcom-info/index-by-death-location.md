@@ -262,8 +262,11 @@ permalink: /indexes/by-death-location
 - **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
 - **[Reid, John](people/@95320597@-john-reid-b-d.md)**
 - **[Rennie, Agnes](people/@57426108@-agnes-rennie-b1878-d.md)** (1878 - )
-- **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
+- **[Roberts, Donald F](people/@38158777@-donald-f-roberts-b1898-d1990.md)** (about 1898 - before 1990)
+- **[Roberts, Frederick B](people/@36552681@-frederick-b-roberts-b1868-d.md)** (about 1868 - )
+- **[Roberts, Janet](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
 - **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
+- **[Roberts, Mary Beth](people/@44331192@-mary-beth-roberts-b1931-d2019.md)** (about 1931 - before 2019)
 - **[Robertson, Mary](people/@96321158@-mary-robertson-b-d.md)**
 - **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
 - **[Ross, Alexander](people/@81387900@-alexander-ross-b1814-d1896-1-20.md)** (about 1814 - 20/Jan/1896)
@@ -444,7 +447,7 @@ permalink: /indexes/by-death-location
 
 #### Hartford, Hartford County
 
-- **[, Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+- **[Wilson, Mary Elizabeth](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
 
 ### Florida
 
@@ -494,6 +497,7 @@ permalink: /indexes/by-death-location
 #### Bolton Landing, Warren County
 
 - **[Hayes, Dan](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018)
+- **[Roberts, Sandra J](people/@40000604@-sandra-j-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
 
 #### Manhattan
 

@@ -8,30 +8,30 @@
   },
   "Parents": [
     {
+      "Id": "i36552681",
+      "Name": "Frederick B Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "about 1868",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
       "Id": "i53003230",
       "Name": "Mae Farnham",
       "Gender": "Female",
       "DateOfBirth": "about 1872",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
-    },
-    {
-      "Id": "i36552681",
-      "Name": "Frederick Roberts",
-      "Gender": "Male",
-      "DateOfBirth": "before 1885",
-      "DateOfDeath": "",
-      "RelationToSubject": "father"
     }
   ],
   "Siblings": [
     {
-      "Id": "i46105652",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "sister",
+      "Id": "i38158777",
+      "Name": "Donald F Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "about 1898",
+      "DateOfDeath": "before 1990",
+      "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
           "i36552681",
@@ -46,6 +46,20 @@
       "DateOfBirth": "30/Sep/1905",
       "DateOfDeath": "6/May/1990",
       "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i36552681",
+          "i53003230"
+        ]
+      ]
+    },
+    {
+      "Id": "i46105652",
+      "Name": "Janet Roberts",
+      "Gender": "Female",
+      "DateOfBirth": "about 1913",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
       "ParentGroupIds": [
         [
           "i36552681",
@@ -67,7 +81,7 @@
     },
     {
       "Id": "i99819804",
-      "Name": "Mary",
+      "Name": "Mary Elizabeth Wilson",
       "Gender": "Female",
       "DateOfBirth": "calc'd 1904",
       "DateOfDeath": "16/Dec/1971",
@@ -79,10 +93,10 @@
   "Children": [
     {
       "Id": "i44331192",
-      "Name": "X",
+      "Name": "Mary Beth Roberts",
       "Gender": "Female",
       "DateOfBirth": "about 1931",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 2019",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i21721539",
@@ -103,10 +117,10 @@
     },
     {
       "Id": "i40000604",
-      "Name": "X",
+      "Name": "Sandra J Roberts",
       "Gender": "Female",
-      "DateOfBirth": "about 1938",
-      "DateOfDeath": "",
+      "DateOfBirth": "10/Nov/1937",
+      "DateOfDeath": "26/Nov/2019",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i21721539",

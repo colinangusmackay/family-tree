@@ -155,7 +155,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1925**
   * **15/Aug/1925** : **[Thomas Mitchell](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972) and **[Ann Ross](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980) at Lowell, Middlesex, Massachusetts, United States of America.
 * **1927**
-  * **1927** : **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) at Lake George, Warren County, New York, United States of America.
+  * **1927** : **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) at Lake George, Warren County, New York, United States of America.
 * **1928**
   * **2/May/1928** : **[James Cumming](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975) and **[Williamina Gillie](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003) at Inverness, Scotland.
 * **1929**

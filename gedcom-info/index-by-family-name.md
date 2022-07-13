@@ -11,7 +11,6 @@ permalink: /indexes/by-family-name
 - **[Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
-- **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
 - **[Nancy](people/@68661720@-nancy-b-d.md)**
 
 ## ?
@@ -531,8 +530,12 @@ permalink: /indexes/by-family-name
 
 ## Roberts
 
-- **[Frederick Roberts](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
+- **[Donald F Roberts](people/@38158777@-donald-f-roberts-b1898-d1990.md)** (about 1898 - before 1990)
+- **[Frederick B Roberts](people/@36552681@-frederick-b-roberts-b1868-d.md)** (about 1868 - )
+- **[Janet Roberts](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
 - **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
+- **[Mary Beth Roberts](people/@44331192@-mary-beth-roberts-b1931-d2019.md)** (about 1931 - before 2019)
+- **[Sandra J Roberts](people/@40000604@-sandra-j-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
 
 ## Robertson
 
@@ -622,6 +625,7 @@ permalink: /indexes/by-family-name
 ## Wilson
 
 - **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)**
+- **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
 
 ## Wood
 

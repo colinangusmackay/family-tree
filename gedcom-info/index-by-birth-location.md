@@ -178,7 +178,10 @@ permalink: /indexes/by-birth-location
 - **[Ramsay, Jack](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
 - **[Raymond, Frank](people/@30488355@-frank-raymond-b-d.md)**
 - **[Reid, John](people/@95320597@-john-reid-b-d.md)**
-- **[Roberts, Frederick](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
+- **[Roberts, Donald F](people/@38158777@-donald-f-roberts-b1898-d1990.md)** (about 1898 - before 1990)
+- **[Roberts, Frederick B](people/@36552681@-frederick-b-roberts-b1868-d.md)** (about 1868 - )
+- **[Roberts, Janet](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
+- **[Roberts, Mary Beth](people/@44331192@-mary-beth-roberts-b1931-d2019.md)** (about 1931 - before 2019)
 - **[Robertson, Mary](people/@96321158@-mary-robertson-b-d.md)**
 - **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
 - **[Ross, Alexander](people/@81387900@-alexander-ross-b1814-d1896-1-20.md)** (about 1814 - 20/Jan/1896)
@@ -583,7 +586,7 @@ permalink: /indexes/by-birth-location
 
 #### Bolton Landing, Warren County
 
-- **[, Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+- **[Wilson, Mary Elizabeth](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
 
 #### Brant Lake, Warren County
 
@@ -597,4 +600,5 @@ permalink: /indexes/by-birth-location
 #### Ilion
 
 - **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
+- **[Roberts, Sandra J](people/@40000604@-sandra-j-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
 

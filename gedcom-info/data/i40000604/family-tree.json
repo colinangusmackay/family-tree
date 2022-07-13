@@ -1,0 +1,147 @@
+﻿{
+  "Subject": {
+    "Id": "i40000604",
+    "Name": "Sandra J Roberts",
+    "Gender": "Female",
+    "DateOfBirth": "10/Nov/1937",
+    "DateOfDeath": "26/Nov/2019"
+  },
+  "Parents": [
+    {
+      "Id": "i99819804",
+      "Name": "Mary Elizabeth Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "calc'd 1904",
+      "DateOfDeath": "16/Dec/1971",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i21721539",
+      "Name": "Malcolm DeWitt Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "30/Sep/1905",
+      "DateOfDeath": "6/May/1990",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i44331192",
+      "Name": "Mary Beth Roberts",
+      "Gender": "Female",
+      "DateOfBirth": "about 1931",
+      "DateOfDeath": "before 2019",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i21721539",
+          "i99819804"
+        ]
+      ]
+    },
+    {
+      "Id": "i38836920",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "8/Feb/1936",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i21721539",
+          "i99819804"
+        ]
+      ]
+    },
+    {
+      "Id": "i40000604",
+      "Name": "Sandra J Roberts",
+      "Gender": "Female",
+      "DateOfBirth": "10/Nov/1937",
+      "DateOfDeath": "26/Nov/2019",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i21721539",
+          "i99819804"
+        ]
+      ]
+    },
+    {
+      "Id": "i21326189",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "about 1944",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i21721539",
+          "i99819804"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i84575672",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i76590697",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i84575672",
+        "i40000604"
+      ]
+    },
+    {
+      "Id": "i37383684",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i84575672",
+        "i40000604"
+      ]
+    },
+    {
+      "Id": "i36693240",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i84575672",
+        "i40000604"
+      ]
+    },
+    {
+      "Id": "i66500284",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i84575672",
+        "i40000604"
+      ]
+    }
+  ]
+}

@@ -16,7 +16,7 @@ permalink: /indexes/by-all-names
 - **[Kenny Pedar Laudie](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
 - **[Maggie](people/@57014804@-margaret-mcrae-b-d.md)**
 - **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
-- **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+- **[Marybet](people/@44331192@-mary-beth-roberts-b1931-d2019.md)** (about 1931 - before 2019)
 - **[Mina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 - **[Nancy](people/@68661720@-nancy-b-d.md)**
 - **[Teenie](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
@@ -300,6 +300,10 @@ permalink: /indexes/by-all-names
 ## Hatelie
 
 - **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977)
+
+## Haux
+
+- **[Marybet Haux](people/@44331192@-mary-beth-roberts-b1931-d2019.md)** (about 1931 - before 2019)
 
 ## Hayes
 
@@ -651,6 +655,11 @@ permalink: /indexes/by-all-names
 - **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
 - **[Paton](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
 
+## Pratt
+
+- **[Sandra Pratt](people/@40000604@-sandra-j-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
+- **[Sandy Pratt](people/@40000604@-sandra-j-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
+
 ## Predendall
 
 - **[Barney Predendall](people/@69952770@-barney-predendall-b-d.md)**
@@ -706,11 +715,16 @@ permalink: /indexes/by-all-names
 
 ## Roberts
 
-- **[Frederick Roberts](people/@36552681@-frederick-roberts-b1885-d.md)** (before 1885 - )
+- **[Donald F Roberts](people/@38158777@-donald-f-roberts-b1898-d1990.md)** (about 1898 - before 1990)
+- **[Frederick B Roberts](people/@36552681@-frederick-b-roberts-b1868-d.md)** (about 1868 - )
+- **[Janet Roberts](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
 - **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
-- **[Mary Elizabeth Roberts](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+- **[Mary Beth Roberts](people/@44331192@-mary-beth-roberts-b1931-d2019.md)** (about 1931 - before 2019)
+- **[Mary Elizabeth Roberts](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+- **[Mary Elizabeth Roberts](people/@44331192@-mary-beth-roberts-b1931-d2019.md)** (about 1931 - before 2019)
 - **[May Roberts](people/@53003230@-mae-farnham-b1872-d.md)** (about 1872 - )
 - **[Roberts](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
+- **[Sandra J Roberts](people/@40000604@-sandra-j-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
 
 ## Robertson
 
@@ -822,6 +836,10 @@ permalink: /indexes/by-all-names
 
 - **[Agnes Thomson](people/@96590245@-agnes-thomson-b1897-d.md)** (before 1897 - )
 
+## Vosseller
+
+- **[Janet Vosseller](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
+
 ## West
 
 - **[Joan West](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
@@ -829,6 +847,7 @@ permalink: /indexes/by-all-names
 ## Wilson
 
 - **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)**
+- **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
 
 ## Wood
 

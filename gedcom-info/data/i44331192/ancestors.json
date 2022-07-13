@@ -1,0 +1,47 @@
+﻿{
+  "Id": "i44331192",
+  "Name": "Mary Beth Roberts",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1931",
+  "DateOfDeath": "before 2019",
+  "Parents": [
+    {
+      "Id": "i99819804",
+      "Name": "Mary Elizabeth Wilson",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "calc'd 1904",
+      "DateOfDeath": "16/Dec/1971",
+      "Parents": []
+    },
+    {
+      "Id": "i21721539",
+      "Name": "Malcolm DeWitt Roberts",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "30/Sep/1905",
+      "DateOfDeath": "6/May/1990",
+      "Parents": [
+        {
+          "Id": "i36552681",
+          "Name": "Frederick B Roberts",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1868",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i53003230",
+          "Name": "Mae Farnham",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "about 1872",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

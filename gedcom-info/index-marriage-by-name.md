@@ -11,7 +11,6 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ) and **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) **about 1887**.
   * **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021) and X **on 7th of November 1970**.
-  * **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) and **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) **in 1927** at Lake George, Warren County, New York, United States of America.
   * **[Nancy](people/@68661720@-nancy-b-d.md)** and **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) **about 1906**.
 
 ## Beatie
@@ -301,7 +300,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Roberts
 
-  * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary](people/@99819804@-mary-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) **in 1927** at Lake George, Warren County, New York, United States of America.
+  * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) **in 1927** at Lake George, Warren County, New York, United States of America.
   * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and X **on 30th of September 1972** at Norwalk, Fairfield County, Connecticut, United States of America.
 
 ## Ross
@@ -345,4 +344,5 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Wilson
 
   * **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)** and **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939) **on 16th of June 1897** at Golspie, Sutherland, Scotland.
+  * **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) and **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) **in 1927** at Lake George, Warren County, New York, United States of America.
 

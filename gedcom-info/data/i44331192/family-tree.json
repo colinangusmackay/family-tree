@@ -1,46 +1,42 @@
 ﻿{
   "Subject": {
-    "Id": "i99819804",
-    "Name": "Mary Elizabeth Wilson",
+    "Id": "i44331192",
+    "Name": "Mary Beth Roberts",
     "Gender": "Female",
-    "DateOfBirth": "calc'd 1904",
-    "DateOfDeath": "16/Dec/1971"
+    "DateOfBirth": "about 1931",
+    "DateOfDeath": "before 2019"
   },
-  "Parents": [],
-  "Siblings": [
+  "Parents": [
     {
       "Id": "i99819804",
       "Name": "Mary Elizabeth Wilson",
       "Gender": "Female",
       "DateOfBirth": "calc'd 1904",
       "DateOfDeath": "16/Dec/1971",
-      "RelationToSubject": "self",
-      "ParentGroupIds": []
-    }
-  ],
-  "Spouses": [
+      "RelationToSubject": "mother"
+    },
     {
       "Id": "i21721539",
       "Name": "Malcolm DeWitt Roberts",
       "Gender": "Male",
       "DateOfBirth": "30/Sep/1905",
       "DateOfDeath": "6/May/1990",
-      "RelationToSubject": "husband",
-      "DateOfMarriage": "1927",
-      "DateOfDivorce": ""
+      "RelationToSubject": "father"
     }
   ],
-  "Children": [
+  "Siblings": [
     {
       "Id": "i44331192",
       "Name": "Mary Beth Roberts",
       "Gender": "Female",
       "DateOfBirth": "about 1931",
       "DateOfDeath": "before 2019",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i21721539",
-        "i99819804"
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i21721539",
+          "i99819804"
+        ]
       ]
     },
     {
@@ -49,10 +45,12 @@
       "Gender": "Male",
       "DateOfBirth": "8/Feb/1936",
       "DateOfDeath": "",
-      "RelationToSubject": "son",
-      "ParentIds": [
-        "i21721539",
-        "i99819804"
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i21721539",
+          "i99819804"
+        ]
       ]
     },
     {
@@ -61,10 +59,12 @@
       "Gender": "Female",
       "DateOfBirth": "10/Nov/1937",
       "DateOfDeath": "26/Nov/2019",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i21721539",
-        "i99819804"
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i21721539",
+          "i99819804"
+        ]
       ]
     },
     {
@@ -73,11 +73,15 @@
       "Gender": "Female",
       "DateOfBirth": "about 1944",
       "DateOfDeath": "",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i21721539",
-        "i99819804"
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i21721539",
+          "i99819804"
+        ]
       ]
     }
-  ]
+  ],
+  "Spouses": [],
+  "Children": []
 }

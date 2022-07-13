@@ -1,46 +1,42 @@
 ﻿{
   "Subject": {
-    "Id": "i36552681",
-    "Name": "Frederick B Roberts",
-    "Gender": "Male",
-    "DateOfBirth": "about 1868",
+    "Id": "i46105652",
+    "Name": "Janet Roberts",
+    "Gender": "Female",
+    "DateOfBirth": "about 1913",
     "DateOfDeath": ""
   },
-  "Parents": [],
-  "Siblings": [
+  "Parents": [
     {
       "Id": "i36552681",
       "Name": "Frederick B Roberts",
       "Gender": "Male",
       "DateOfBirth": "about 1868",
       "DateOfDeath": "",
-      "RelationToSubject": "self",
-      "ParentGroupIds": []
-    }
-  ],
-  "Spouses": [
+      "RelationToSubject": "father"
+    },
     {
       "Id": "i53003230",
       "Name": "Mae Farnham",
       "Gender": "Female",
       "DateOfBirth": "about 1872",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
-      "DateOfDivorce": ""
+      "RelationToSubject": "mother"
     }
   ],
-  "Children": [
+  "Siblings": [
     {
       "Id": "i38158777",
       "Name": "Donald F Roberts",
       "Gender": "Male",
       "DateOfBirth": "about 1898",
       "DateOfDeath": "before 1990",
-      "RelationToSubject": "son",
-      "ParentIds": [
-        "i36552681",
-        "i53003230"
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i36552681",
+          "i53003230"
+        ]
       ]
     },
     {
@@ -49,10 +45,12 @@
       "Gender": "Male",
       "DateOfBirth": "30/Sep/1905",
       "DateOfDeath": "6/May/1990",
-      "RelationToSubject": "son",
-      "ParentIds": [
-        "i36552681",
-        "i53003230"
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i36552681",
+          "i53003230"
+        ]
       ]
     },
     {
@@ -61,11 +59,15 @@
       "Gender": "Female",
       "DateOfBirth": "about 1913",
       "DateOfDeath": "",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i36552681",
-        "i53003230"
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i36552681",
+          "i53003230"
+        ]
       ]
     }
-  ]
+  ],
+  "Spouses": [],
+  "Children": []
 }

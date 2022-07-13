@@ -21,9 +21,9 @@
   "Spouses": [
     {
       "Id": "i36552681",
-      "Name": "Frederick Roberts",
+      "Name": "Frederick B Roberts",
       "Gender": "Male",
-      "DateOfBirth": "before 1885",
+      "DateOfBirth": "about 1868",
       "DateOfDeath": "",
       "RelationToSubject": "partner",
       "DateOfMarriage": "",
@@ -32,12 +32,12 @@
   ],
   "Children": [
     {
-      "Id": "i46105652",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "daughter",
+      "Id": "i38158777",
+      "Name": "Donald F Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "about 1898",
+      "DateOfDeath": "before 1990",
+      "RelationToSubject": "son",
       "ParentIds": [
         "i36552681",
         "i53003230"
@@ -50,6 +50,18 @@
       "DateOfBirth": "30/Sep/1905",
       "DateOfDeath": "6/May/1990",
       "RelationToSubject": "son",
+      "ParentIds": [
+        "i36552681",
+        "i53003230"
+      ]
+    },
+    {
+      "Id": "i46105652",
+      "Name": "Janet Roberts",
+      "Gender": "Female",
+      "DateOfBirth": "about 1913",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i36552681",
         "i53003230"

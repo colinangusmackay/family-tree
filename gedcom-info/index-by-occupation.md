@@ -571,6 +571,13 @@ There were 3 people who worked as a Miner of some sort.
 
 * **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978).
 
+## Motel Co-Owner
+
+There were 2 people who worked as a Motel Co-Owner.
+
+* **[Mackay, Anna Jess](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021).
+* **[Roberts, Sandra J](people/@40000604@-sandra-j-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019).
+
 ## Night Inspector of Water Fittings
 
 * **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929).
@@ -700,7 +707,10 @@ There were 4 people who worked as a Seaman of some sort.
 
 ## Secretary
 
+There were 2 people who worked as a Secretary.
+
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
+* **[Roberts, Mary Beth](people/@44331192@-mary-beth-roberts-b1931-d2019.md)** (about 1931 - before 2019).
 
 ## Servant
 
@@ -765,6 +775,10 @@ There were 3 people who worked as a Tailor of some sort.
 ## Tool Engineer
 
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
+
+## Toolmaker
+
+* **[Roberts, Frederick B](people/@36552681@-frederick-b-roberts-b1868-d.md)** (about 1868 - ).
 
 ## Tracer, Drafting Department
 
