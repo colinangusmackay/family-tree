@@ -1,9 +1,28 @@
 ﻿{
   "Id": "i96590245",
-  "Name": "Agnes Thomson",
+  "Name": "Agnes Watson Thomson",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "before 1897",
+  "DateOfBirth": "about 1892",
   "DateOfDeath": "",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i86375908",
+      "Name": "Elizabeth Alexander",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1911",
+      "Parents": []
+    },
+    {
+      "Id": "i28828844",
+      "Name": "Thomas Thomson",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

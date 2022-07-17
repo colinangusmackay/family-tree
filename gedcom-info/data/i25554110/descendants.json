@@ -1,0 +1,238 @@
+﻿{
+  "Id": "i25554110",
+  "Name": "Margaret McLeod",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i70248352",
+      "Name": "Jeanie McLeod",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1897",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i56209708",
+          "Name": "Margaret McLeod Paton",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "14/Mar/1916",
+          "DateOfDeath": "before 2004",
+          "Children": [
+            {
+              "Id": "i46723082",
+              "Name": "Margaret Paton O'Malley",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "26/Sep/1940",
+              "DateOfDeath": "3/Apr/2004",
+              "Children": [
+                {
+                  "Id": "i38419168",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "22/Oct/1960",
+                  "DateOfDeath": "",
+                  "Children": [
+                    {
+                      "Id": "i8015715",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "",
+                      "DateOfDeath": "",
+                      "Children": []
+                    },
+                    {
+                      "Id": "i70539486",
+                      "Name": "X",
+                      "Gender": "Female",
+                      "Relationship": "daughter",
+                      "DateOfBirth": "21/Mar/1992",
+                      "DateOfDeath": "",
+                      "Children": [
+                        {
+                          "Id": "i80626026",
+                          "Name": "X",
+                          "Gender": "Female",
+                          "Relationship": "daughter",
+                          "DateOfBirth": "6/May/2014",
+                          "DateOfDeath": "",
+                          "Children": []
+                        },
+                        {
+                          "Id": "i9208996",
+                          "Name": "X",
+                          "Gender": "Male",
+                          "Relationship": "son",
+                          "DateOfBirth": "7/Jan/2019",
+                          "DateOfDeath": "",
+                          "Children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Id": "i76650284",
+                  "Name": "Linda Margaret Campbell",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "16/Oct/1961",
+                  "DateOfDeath": "28/Sep/2016",
+                  "Children": [
+                    {
+                      "Id": "i70011097",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "2/May/1983",
+                      "DateOfDeath": "",
+                      "Children": [
+                        {
+                          "Id": "i25146614",
+                          "Name": "X",
+                          "Gender": "Male",
+                          "Relationship": "son",
+                          "DateOfBirth": "3/Aug/2021",
+                          "DateOfDeath": "",
+                          "Children": []
+                        }
+                      ]
+                    },
+                    {
+                      "Id": "i69897025",
+                      "Name": "X",
+                      "Gender": "Undetermined",
+                      "Relationship": "child",
+                      "DateOfBirth": "19/Mar/1985",
+                      "DateOfDeath": "",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Id": "i13150187",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "21/Sep/1962",
+                  "DateOfDeath": "",
+                  "Children": [
+                    {
+                      "Id": "i96612548",
+                      "Name": "X",
+                      "Gender": "Female",
+                      "Relationship": "daughter",
+                      "DateOfBirth": "",
+                      "DateOfDeath": "",
+                      "Children": [
+                        {
+                          "Id": "i21886692",
+                          "Name": "X",
+                          "Gender": "Male",
+                          "Relationship": "son",
+                          "DateOfBirth": "",
+                          "DateOfDeath": "",
+                          "Children": []
+                        }
+                      ]
+                    },
+                    {
+                      "Id": "i47291330",
+                      "Name": "X",
+                      "Gender": "Female",
+                      "Relationship": "daughter",
+                      "DateOfBirth": "",
+                      "DateOfDeath": "",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Id": "i86995008",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "2/Apr/1966",
+                  "DateOfDeath": "",
+                  "Children": [
+                    {
+                      "Id": "i96735090",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "13/Mar/1986",
+                      "DateOfDeath": "",
+                      "Children": []
+                    },
+                    {
+                      "Id": "i82141822",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "1/Nov/1988",
+                      "DateOfDeath": "",
+                      "Children": [
+                        {
+                          "Id": "i30948746",
+                          "Name": "X",
+                          "Gender": "Female",
+                          "Relationship": "daughter",
+                          "DateOfBirth": "15/Feb/2010",
+                          "DateOfDeath": "",
+                          "Children": []
+                        },
+                        {
+                          "Id": "i17051736",
+                          "Name": "X",
+                          "Gender": "Male",
+                          "Relationship": "son",
+                          "DateOfBirth": "12/Apr/2020",
+                          "DateOfDeath": "",
+                          "Children": []
+                        }
+                      ]
+                    },
+                    {
+                      "Id": "i99075716",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "2/Sep/1992",
+                      "DateOfDeath": "",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Id": "i65241402",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "5/Sep/1969",
+                  "DateOfDeath": "",
+                  "Children": [
+                    {
+                      "Id": "i17919003",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "19/Nov/1999",
+                      "DateOfDeath": "",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

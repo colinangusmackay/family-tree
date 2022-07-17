@@ -36,8 +36,15 @@ Oct/1952 | Marriage | Married to [Hannah E Falloon](./@97706646@-hannah-e-falloo
 
 Date | Residence | Sources & Notes
 ---|---|---
-2003 | 8 Ladeside Drive, Blackburn, West Lothian, EH47 7JS, Scotland | [11](#11)
+1993 | 8 Ladeside Drive, Blackburn, West Lothian, EH47 7JS, Scotland | [11](#11)
+2003 | 8 Ladeside Drive, Blackburn, West Lothian, EH47 7JS, Scotland | [12](#12)
 2009 | Bathgate, West Lothian, Scotland | [3](#3)
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+1980 | Janitor in Blackburn, West Lothian, Scotland | [11](#11)
 
 ## Footnotes
 
@@ -127,6 +134,14 @@ Date | Residence | Sources & Notes
   * 2004 D 772/8
 
 ### 11
+
+**1993 MATHEWS, ROBERT (Lothian Courier)**
+
+* [Full text and notes](../sources/@29046716@-1993-mathews,-robert-lothian-courier-.md)
+* Publication: Lothian Courier
+* Date: 17/Sep/1993
+
+### 12
 
 **2003 MATHEWS, ROBERT D (UK, Electoral Registers, 2003-2010)**
 

@@ -71,7 +71,7 @@ References | 1939 M 644/10 421
 
 ## Source Referenced by
 
-* [Edward O'Malley](../people/@76741424@-edward-o'malley-b1897-d.md) (before 1897 - )
-* [Thomas O'Malley](../people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
-* [John Paton](../people/@5211114@-john-paton-b1900-d.md) (before 1900 - )
-* [Margaret McLeod Paton](../people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
+* [Edward O'Malley](../people/@76741424@-edward-o'malley-b1890-1-4-d.md) (4/Jan/1890 - )
+* [Thomas O'Malley](../people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md) (4/Sep/1913 - before 2004)
+* [John Paton](../people/@5211114@-john-paton-b1894-d.md) (about 1894 - )
+* [Margaret McLeod Paton](../people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) (14/Mar/1916 - before 2004)

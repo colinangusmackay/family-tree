@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i61251200",
+    "Name": "Catherine Docherty",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1889"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i61251200",
+      "Name": "Catherine Docherty",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i28079676",
+      "Name": "Patrick McBride",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i24941331",
+      "Name": "Catherine McBride",
+      "Gender": "Female",
+      "DateOfBirth": "about 1865",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i28079676",
+        "i61251200"
+      ]
+    }
+  ]
+}

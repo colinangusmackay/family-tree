@@ -214,6 +214,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[John Albert Mathews](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004) and X **in 1978**.
   * **[Robert Dennis R Mathews](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009) and **[Hannah E Falloon](people/@97706646@-hannah-e-falloon-b1922-d1982.md)** (about 1922 - 1982) **in October 1952** at Birmingham, England.
 
+## McBride
+
+  * **[Catherine McBride](people/@24941331@-catherine-mcbride-b1865-d.md)** (about 1865 - ) and **[Michael O'Malley](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - ) **on 22nd of April 1889** at Glasgow, Scotland.
+
 ## McIver
 
   * **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938) and **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) **on 31st of December 1909** at Glasgow, Scotland.
@@ -230,6 +234,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) and **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) **on 14th of February 1861** at Gairloch, Ross and Cromarty, Scotland.
   * **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) and **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) **on 7th of June 1930** at Royal Oak, Oakland County, Michigan, United States of America.
+
+## McLeod
+
+  * **[Jeanie McLeod](people/@70248352@-jeanie-mcleod-b1897-d.md)** (about 1897 - ) and **[John Paton](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - ) **on 8th of June 1915** at Glasgow, Scotland.
 
 ## McRae
 
@@ -259,9 +267,11 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## O'Malley
 
+  * **[Edward O'Malley](people/@76741424@-edward-o'malley-b1890-1-4-d.md)** (4/Jan/1890 - ) and **[Agnes Watson Thomson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - ) **on 30th of November 1911** at Glasgow, Scotland.
   * **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) and **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011) **in 1959** at Glasgow, Scotland.
   * **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) and X **on 25th of July 1969** at East Calder, Scotland.
-  * **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004) and **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004) **on 28th of December 1939** at Glasgow, Scotland.
+  * **[Michael O'Malley](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - ) and **[Catherine McBride](people/@24941331@-catherine-mcbride-b1865-d.md)** (about 1865 - ) **on 22nd of April 1889** at Glasgow, Scotland.
+  * **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004) and **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md)** (14/Mar/1916 - before 2004) **on 28th of December 1939** at Glasgow, Scotland.
 
 ## Paterson
 
@@ -270,7 +280,8 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Paton
 
-  * **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004) and **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004) **on 28th of December 1939** at Glasgow, Scotland.
+  * **[John Paton](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - ) and **[Jeanie McLeod](people/@70248352@-jeanie-mcleod-b1897-d.md)** (about 1897 - ) **on 8th of June 1915** at Glasgow, Scotland.
+  * **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md)** (14/Mar/1916 - before 2004) and **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004) **on 28th of December 1939** at Glasgow, Scotland.
 
 ## Predendall
 
@@ -302,6 +313,8 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) **in 1927** at Lake George, Warren County, New York, United States of America.
   * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and X **on 30th of September 1972** at Norwalk, Fairfield County, Connecticut, United States of America.
+  * **[Mary Beth Roberts](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014) and X **on 8th of August 1950** at Bolton Landing, Warren County, New York, United States of America.
+  * **[Sandra Jane Roberts](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019) and X **on 28th of May 1960**.
 
 ## Ross
 
@@ -340,6 +353,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Tennant
 
   * **[Margaret Tennant](people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md)** (19/Nov/1857 - 29/Jun/1924) and **[Joseph Fleming](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912) **on 4th of June 1875** at Forth, Lanarkshire, Scotland.
+
+## Thomson
+
+  * **[Agnes Watson Thomson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - ) and **[Edward O'Malley](people/@76741424@-edward-o'malley-b1890-1-4-d.md)** (4/Jan/1890 - ) **on 30th of November 1911** at Glasgow, Scotland.
 
 ## Wilson
 

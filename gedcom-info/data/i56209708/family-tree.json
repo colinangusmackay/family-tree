@@ -3,7 +3,7 @@
     "Id": "i56209708",
     "Name": "Margaret McLeod Paton",
     "Gender": "Female",
-    "DateOfBirth": "bet' 29/Dec/1915 and 28/Dec/1916",
+    "DateOfBirth": "14/Mar/1916",
     "DateOfDeath": "before 2004"
   },
   "Parents": [
@@ -11,7 +11,7 @@
       "Id": "i5211114",
       "Name": "John Paton",
       "Gender": "Male",
-      "DateOfBirth": "before 1900",
+      "DateOfBirth": "about 1894",
       "DateOfDeath": "",
       "RelationToSubject": "father"
     },
@@ -19,7 +19,7 @@
       "Id": "i70248352",
       "Name": "Jeanie McLeod",
       "Gender": "Female",
-      "DateOfBirth": "before 1900",
+      "DateOfBirth": "about 1897",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     }
@@ -29,7 +29,7 @@
       "Id": "i56209708",
       "Name": "Margaret McLeod Paton",
       "Gender": "Female",
-      "DateOfBirth": "bet' 29/Dec/1915 and 28/Dec/1916",
+      "DateOfBirth": "14/Mar/1916",
       "DateOfDeath": "before 2004",
       "RelationToSubject": "self",
       "ParentGroupIds": [
@@ -45,7 +45,7 @@
       "Id": "i12568152",
       "Name": "Thomas O'Malley",
       "Gender": "Male",
-      "DateOfBirth": "bet' 29/Dec/1912 and 28/Dec/1913",
+      "DateOfBirth": "4/Sep/1913",
       "DateOfDeath": "before 2004",
       "RelationToSubject": "husband",
       "DateOfMarriage": "28/Dec/1939",

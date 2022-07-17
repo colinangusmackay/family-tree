@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i24941331",
+  "Name": "Catherine McBride",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1865",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i61251200",
+      "Name": "Catherine Docherty",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "Parents": []
+    },
+    {
+      "Id": "i28079676",
+      "Name": "Patrick McBride",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "Parents": []
+    }
+  ]
+}

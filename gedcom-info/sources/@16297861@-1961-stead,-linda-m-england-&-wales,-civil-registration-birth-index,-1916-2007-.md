@@ -1,38 +1,35 @@
 ﻿---
 layout: page
-permalink: /sources/s73665994
+permalink: /sources/s16297861
 ---
 
-# 2004 CAMPBELL, MARGARET PATON Index entry from Register of Deaths
+# 1961 STEAD, LINDA M (England & Wales, Civil Registration Birth Index, 1916-2007)
 
 Field | Detail
 ---:|:---
-Publication | 
+Publication | England & Wales, Civil Registration Birth Index, 1916-2007
 Originator / Author | 
 Date | 
-Responsible Agency | National Records of Scotland
+Responsible Agency | 
 Filed by Entry | 
-References | 2004 D 772/107
+References | 
 
 ## Text
 
-> Surname: CAMPBELL
+> BIRTHS REGISTERED IN OCTOBER, NOVEMBER AND DECEMBER 1961
 >
-> Forename: MARGARET PATON
+> <br/>
 >
-> Age at death: 63
+> Name: STEAD, Linda M.
 >
-> Mother's Maiden Name: PATON
+> Mother's Maiden Name: O'MALLEY
 >
-> Year 2004
+> District: Dewsbury
 >
-> Ref: 772/107
+> Vol.: 2b
 >
-> RD Name: Livingston
+> Page: 482
 >
-
-## Notes
-
 
 ## Source Referenced by
 

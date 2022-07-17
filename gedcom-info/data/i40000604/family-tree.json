@@ -1,7 +1,7 @@
 ﻿{
   "Subject": {
     "Id": "i40000604",
-    "Name": "Sandra J Roberts",
+    "Name": "Sandra Jane Roberts",
     "Gender": "Female",
     "DateOfBirth": "10/Nov/1937",
     "DateOfDeath": "26/Nov/2019"
@@ -29,8 +29,8 @@
       "Id": "i44331192",
       "Name": "Mary Beth Roberts",
       "Gender": "Female",
-      "DateOfBirth": "about 1931",
-      "DateOfDeath": "before 2019",
+      "DateOfBirth": "1/Nov/1930",
+      "DateOfDeath": "6/Feb/2014",
       "RelationToSubject": "sister",
       "ParentGroupIds": [
         [
@@ -55,7 +55,7 @@
     },
     {
       "Id": "i40000604",
-      "Name": "Sandra J Roberts",
+      "Name": "Sandra Jane Roberts",
       "Gender": "Female",
       "DateOfBirth": "10/Nov/1937",
       "DateOfDeath": "26/Nov/2019",
@@ -89,8 +89,8 @@
       "Gender": "Male",
       "DateOfBirth": "",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "28/May/1960",
       "DateOfDivorce": ""
     }
   ],
@@ -120,24 +120,24 @@
       ]
     },
     {
-      "Id": "i36693240",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i84575672",
-        "i40000604"
-      ]
-    },
-    {
       "Id": "i66500284",
       "Name": "X",
       "Gender": "Male",
       "DateOfBirth": "",
       "DateOfDeath": "",
       "RelationToSubject": "son",
+      "ParentIds": [
+        "i84575672",
+        "i40000604"
+      ]
+    },
+    {
+      "Id": "i36693240",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "3/Apr/1967",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i84575672",
         "i40000604"

@@ -3,7 +3,45 @@
   "Name": "Mary Beth Roberts",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "about 1931",
-  "DateOfDeath": "before 2019",
-  "Children": []
+  "DateOfBirth": "1/Nov/1930",
+  "DateOfDeath": "6/Feb/2014",
+  "Children": [
+    {
+      "Id": "i74628380",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i43920628",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i2488304",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i22501382",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    }
+  ]
 }

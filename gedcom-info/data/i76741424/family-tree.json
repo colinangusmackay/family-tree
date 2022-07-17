@@ -3,30 +3,80 @@
     "Id": "i76741424",
     "Name": "Edward O'Malley",
     "Gender": "Male",
-    "DateOfBirth": "before 1897",
+    "DateOfBirth": "4/Jan/1890",
     "DateOfDeath": ""
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i34933754",
+      "Name": "Michael O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "about 1851",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i24941331",
+      "Name": "Catherine McBride",
+      "Gender": "Female",
+      "DateOfBirth": "about 1865",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
+    {
+      "Id": "i39412375",
+      "Name": "Patrick O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i24941331",
+          "i34933754"
+        ]
+      ]
+    },
+    {
+      "Id": "i26923306",
+      "Name": "Bridget O'Malley",
+      "Gender": "Female",
+      "DateOfBirth": "about 1882",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i24941331",
+          "i34933754"
+        ]
+      ]
+    },
     {
       "Id": "i76741424",
       "Name": "Edward O'Malley",
       "Gender": "Male",
-      "DateOfBirth": "before 1897",
+      "DateOfBirth": "4/Jan/1890",
       "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i24941331",
+          "i34933754"
+        ]
+      ]
     }
   ],
   "Spouses": [
     {
       "Id": "i96590245",
-      "Name": "Agnes Thomson",
+      "Name": "Agnes Watson Thomson",
       "Gender": "Female",
-      "DateOfBirth": "before 1897",
+      "DateOfBirth": "about 1892",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "30/Nov/1911",
       "DateOfDivorce": ""
     }
   ],
@@ -35,7 +85,7 @@
       "Id": "i12568152",
       "Name": "Thomas O'Malley",
       "Gender": "Male",
-      "DateOfBirth": "bet' 29/Dec/1912 and 28/Dec/1913",
+      "DateOfBirth": "4/Sep/1913",
       "DateOfDeath": "before 2004",
       "RelationToSubject": "son",
       "ParentIds": [

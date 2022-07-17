@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i86375908",
+    "Name": "Elizabeth Alexander",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1911"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i86375908",
+      "Name": "Elizabeth Alexander",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1911",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i28828844",
+      "Name": "Thomas Thomson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i96590245",
+      "Name": "Agnes Watson Thomson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1892",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i28828844",
+        "i86375908"
+      ]
+    }
+  ]
+}

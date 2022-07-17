@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i50797152",
+    "Name": "John O'Malley",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1889"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i50797152",
+      "Name": "John O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i76642956",
+      "Name": "Catherine O'Malley",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i34933754",
+      "Name": "Michael O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "about 1851",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i50797152",
+        "i76642956"
+      ]
+    }
+  ]
+}

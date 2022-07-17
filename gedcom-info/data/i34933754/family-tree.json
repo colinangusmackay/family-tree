@@ -1,0 +1,93 @@
+﻿{
+  "Subject": {
+    "Id": "i34933754",
+    "Name": "Michael O'Malley",
+    "Gender": "Male",
+    "DateOfBirth": "about 1851",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i50797152",
+      "Name": "John O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i76642956",
+      "Name": "Catherine O'Malley",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i34933754",
+      "Name": "Michael O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "about 1851",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i50797152",
+          "i76642956"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i24941331",
+      "Name": "Catherine McBride",
+      "Gender": "Female",
+      "DateOfBirth": "about 1865",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "22/Apr/1889",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i39412375",
+      "Name": "Patrick O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i34933754",
+        "i24941331"
+      ]
+    },
+    {
+      "Id": "i26923306",
+      "Name": "Bridget O'Malley",
+      "Gender": "Female",
+      "DateOfBirth": "about 1882",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i34933754",
+        "i24941331"
+      ]
+    },
+    {
+      "Id": "i76741424",
+      "Name": "Edward O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "4/Jan/1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i34933754",
+        "i24941331"
+      ]
+    }
+  ]
+}

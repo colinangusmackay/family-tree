@@ -3,19 +3,41 @@
     "Id": "i5211114",
     "Name": "John Paton",
     "Gender": "Male",
-    "DateOfBirth": "before 1900",
+    "DateOfBirth": "about 1894",
     "DateOfDeath": ""
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i43171135",
+      "Name": "John Paton",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i96104748",
+      "Name": "Janet McFarlane",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i5211114",
       "Name": "John Paton",
       "Gender": "Male",
-      "DateOfBirth": "before 1900",
+      "DateOfBirth": "about 1894",
       "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i43171135",
+          "i96104748"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,10 +45,10 @@
       "Id": "i70248352",
       "Name": "Jeanie McLeod",
       "Gender": "Female",
-      "DateOfBirth": "before 1900",
+      "DateOfBirth": "about 1897",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "8/Jun/1915",
       "DateOfDivorce": ""
     }
   ],
@@ -35,7 +57,7 @@
       "Id": "i56209708",
       "Name": "Margaret McLeod Paton",
       "Gender": "Female",
-      "DateOfBirth": "bet' 29/Dec/1915 and 28/Dec/1916",
+      "DateOfBirth": "14/Mar/1916",
       "DateOfDeath": "before 2004",
       "RelationToSubject": "daughter",
       "ParentIds": [

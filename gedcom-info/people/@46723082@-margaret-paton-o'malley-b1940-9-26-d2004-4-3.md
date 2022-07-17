@@ -15,8 +15,8 @@ permalink: /people/i46723082
 
 ## Immediate Family
 
-* Father: [Thomas O'Malley](./@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
-* Mother: [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
+* Father: [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) (4/Sep/1913 - before 2004)
+* Mother: [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) (14/Mar/1916 - before 2004)
 * Ex Husband: [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) (Oct/1937 - 2011)
 * Husband: X
 * Son: X
@@ -29,25 +29,25 @@ permalink: /people/i46723082
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-26/Sep/1940 | Born | Born to [Thomas O'Malley](./@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) and [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) in Glasgow, Scotland. | [1](#1), [2](#2) | 
+26/Sep/1940 | Born | Born to [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) and [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) in Glasgow, Scotland. | [1](#1), [2](#2) | 
 26/Nov/1940 | Baptism | Baptised at Renfield Street Church, Glasgow, Scotland | [3](#3) | [4](#4)
 1959 | Marriage | Married to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) in Glasgow, Scotland | [5](#5) | 
 22/Oct/1960 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Morley, Yorkshire, England. | [6](#6), [7](#7), [8](#8) | 
-16/Oct/1961 | Birth of daughter | [Linda Margaret Campbell](./@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, Yorkshire, England. | [9](#9), [10](#10) | 
-21/Sep/1962 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, Yorkshire, England. | [8](#8), [11](#11) | 
-2/Apr/1966 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Glasgow, Scotland. | [12](#12) | 
-before 1969 | Divorced | Divorced from [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md)  | [13](#13) | [14](#14)
-25/Jul/1969 | Marriage | Married to X in East Calder, Scotland | [13](#13) | 
-5/Sep/1969 | Birth of son | X born to X and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md). | [15](#15) | 
-before 2004 | Death of father | [Thomas O'Malley](./@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md) died. | [16](#16) | 
-before 2004 | Death of mother | [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md) died. | [16](#16) | 
-3/Apr/2004 | Died | Died in Livingston, West Lothian, Scotland. | [16](#16), [17](#17), [18](#18), [19](#19) | 
+16/Oct/1961 | Birth of daughter | [Linda Margaret Campbell](./@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, Yorkshire, England. | [9](#9), [10](#10), [11](#11) | 
+21/Sep/1962 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, Yorkshire, England. | [8](#8), [12](#12) | 
+2/Apr/1966 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Glasgow, Scotland. | [13](#13) | 
+before 1969 | Divorced | Divorced from [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md)  | [14](#14) | [15](#15)
+25/Jul/1969 | Marriage | Married to X in East Calder, Scotland | [14](#14) | 
+5/Sep/1969 | Birth of son | X born to X and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md). | [16](#16) | 
+before 2004 | Death of father | [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) died. | [17](#17) | 
+before 2004 | Death of mother | [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) died. | [17](#17) | 
+3/Apr/2004 | Died | Died in Livingston, West Lothian, Scotland. | [17](#17), [18](#18), [19](#19), [20](#20) | 
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-before 2004 | Office/Contract Cleaner | [16](#16), [19](#19), [20](#20)
+before 2004 | Office/Contract Cleaner | [17](#17), [20](#20), [21](#21)
 
 ## Footnotes
 
@@ -128,6 +128,13 @@ before 2004 | Office/Contract Cleaner | [16](#16), [19](#19), [20](#20)
 
 ### 10
 
+**1961 STEAD, LINDA M (England & Wales, Civil Registration Birth Index, 1916-2007)**
+
+* [Full text and notes](../sources/@16297861@-1961-stead,-linda-m-england-&-wales,-civil-registration-birth-index,-1916-2007-.md)
+* Publication: England & Wales, Civil Registration Birth Index, 1916-2007
+
+### 11
+
 **2005 MATHEWS, LINDA MARGARET Passport**
 
 * [Full text and notes](../sources/@12455579@-2005-mathews,-linda-margaret-passport.md)
@@ -136,14 +143,14 @@ before 2004 | Office/Contract Cleaner | [16](#16), [19](#19), [20](#20)
 * References: 
   * (Passport Number) 402191855
 
-### 11
+### 12
 
 **1962 X, X A - Birth Registration Index**
 
 * [Full text and notes](../sources/@67289031@-1962-stead,-mark-a-birth-registration-index.md)
 * Publication: England and Wales Birth Registration Index, 1837-2008
 
-### 12
+### 13
 
 **1966 X, X T O'M (Statutory Registers - Births) Index**
 
@@ -152,20 +159,20 @@ before 2004 | Office/Contract Cleaner | [16](#16), [19](#19), [20](#20)
 * References: 
   * 1966 B 644/3 528
 
-### 13
+### 14
 
 **1969 X, X (Extract of an entry in a REGISTER of MARRIAGES)**
 
 * [Full text and notes](../sources/@5206190@-1969-campbell,-andrew-extract-of-an-entry-in-a-register-of-marriages-.md)
 * Responsible Agency: General Registers Office
 
-### 14
+### 15
 
 > Margaret's marriage to Andrew Campbell in 1969 states that she was divorced from Norman Stead - so it can be assumed this happened before or in 1969.
 >
 
 
-### 15
+### 16
 
 **1969 X, X - Facebook Profile, About, Contact and Basic Info**
 
@@ -173,7 +180,7 @@ before 2004 | Office/Contract Cleaner | [16](#16), [19](#19), [20](#20)
 * Publication: Facebook.com
 * Date: 26/May/2020
 
-### 16
+### 17
 
 **2004 X, MARGARET PATON (Extract of an entry in a REGISTER of DEATHS)**
 
@@ -183,16 +190,16 @@ before 2004 | Office/Contract Cleaner | [16](#16), [19](#19), [20](#20)
 * References: 
   * 2004 D 772/107
 
-### 17
+### 18
 
-**2004 CAMPBELL, MARGARET PATON Index entry from Register of Deaths**
+**2004 CAMPBELL, MARGARET PATON (Statutory Registers Deaths Index 772/ 107)**
 
-* [Full text and notes](../sources/@73665994@-2004-campbell,-margaret-paton-index-entry-from-register-of-deaths.md)
+* [Full text and notes](../sources/@73665994@-2004-campbell,-margaret-paton-statutory-registers-deaths-index-772-107-.md)
 * Responsible Agency: National Records of Scotland
 * References: 
-  * 2004 D 772/107
+  * 2004 D 772/ 107
 
-### 18
+### 19
 
 **2012 CAMPBELL, MARGARET PATON - Billion Graves.com**
 
@@ -200,7 +207,7 @@ before 2004 | Office/Contract Cleaner | [16](#16), [19](#19), [20](#20)
 * Publication: [https://billiongraves.com/grave/Margaret-Paton-Campbell/2755876](https://billiongraves.com/grave/Margaret-Paton-Campbell/2755876)
 * Date: 17/Nov/2012
 
-### 19
+### 20
 
 **2016 X, LINDA MARGARET (Extract of an entry in a REGISTER of DEATHS)**
 
@@ -211,7 +218,7 @@ before 2004 | Office/Contract Cleaner | [16](#16), [19](#19), [20](#20)
 * References: 
   * 2016 D 773/14
 
-### 20
+### 21
 
 > Don't know date of retirement, so occupation is sometime before 2004.
 >

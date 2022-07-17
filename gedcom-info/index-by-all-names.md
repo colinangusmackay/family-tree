@@ -10,13 +10,14 @@ permalink: /indexes/by-all-names
 - **[Donnie](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[Donnie James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[Eileen](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
+- **[Granna](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
 - **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
 - **[Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[Kenny Pedar Laudie](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
 - **[Maggie](people/@57014804@-margaret-mcrae-b-d.md)**
 - **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
-- **[Marybet](people/@44331192@-mary-beth-roberts-b1931-d2019.md)** (about 1931 - before 2019)
+- **[Marybet](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014)
 - **[Mina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 - **[Nancy](people/@68661720@-nancy-b-d.md)**
 - **[Teenie](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
@@ -28,6 +29,10 @@ permalink: /indexes/by-all-names
 ## Abernethy
 
 - **[Janet Abernethy](people/@82771990@-janet-abernethy-b-d.md)**
+
+## Alexander
+
+- **[Elizabeth Alexander](people/@86375908@-elizabeth-alexander-b-d1911.md)** ( - before 1911)
 
 ## Beatie
 
@@ -151,6 +156,10 @@ permalink: /indexes/by-all-names
 ## Davies
 
 - **[Ann Davies](people/@759904@-ann-davies-b-d1875.md)** ( - before 1875)
+
+## Docherty
+
+- **[Catherine Docherty](people/@61251200@-catherine-docherty-b-d1889.md)** ( - before 1889)
 
 ## Falloon
 
@@ -303,7 +312,7 @@ permalink: /indexes/by-all-names
 
 ## Haux
 
-- **[Marybet Haux](people/@44331192@-mary-beth-roberts-b1931-d2019.md)** (about 1931 - before 2019)
+- **[Marybet Haux](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014)
 
 ## Hayes
 
@@ -519,9 +528,19 @@ permalink: /indexes/by-all-names
 - **[John Albert Mathews](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 - **[John Albert Mathews](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 - **[Joseph Mathews](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - )
+- **[Linda Margaret Mathews](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[Mathews](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - )
-- **[Mathews](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[Robert Dennis R Mathews](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
+
+## McBride
+
+- **[Catherine McBride](people/@61251200@-catherine-docherty-b-d1889.md)** ( - before 1889)
+- **[Catherine McBride](people/@24941331@-catherine-mcbride-b1865-d.md)** (about 1865 - )
+- **[Patrick McBride](people/@28079676@-patrick-mcbride-b-d1889.md)** ( - before 1889)
+
+## McFarlane
+
+- **[Janet McFarlane](people/@96104748@-janet-mcfarlane-b-d.md)**
 
 ## McIver
 
@@ -569,7 +588,9 @@ permalink: /indexes/by-all-names
 
 ## McLeod
 
-- **[Jeanie McLeod](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
+- **[Jeanie McLeod](people/@70248352@-jeanie-mcleod-b1897-d.md)** (about 1897 - )
+- **[Margaret McLeod](people/@25554110@-margaret-mcleod-b-d.md)**
+- **[McLeod](people/@25554110@-margaret-mcleod-b-d.md)**
 
 ## McRae
 
@@ -628,11 +649,18 @@ permalink: /indexes/by-all-names
 
 ## O'Malley
 
-- **[Edward O'Malley](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - )
+- **[Agnes O'Malley](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
+- **[Bridget O'Malley](people/@26923306@-bridget-o'malley-b1882-d.md)** (about 1882 - )
+- **[Catherine O'Malley](people/@76642956@-catherine-o'malley-b-d.md)**
+- **[Catherine O'Malley](people/@24941331@-catherine-mcbride-b1865-d.md)** (about 1865 - )
+- **[Edward O'Malley](people/@76741424@-edward-o'malley-b1890-1-4-d.md)** (4/Jan/1890 - )
+- **[John O'Malley](people/@50797152@-john-o'malley-b-d1889.md)** ( - before 1889)
 - **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
-- **[O'Malley](people/@96590245@-agnes-thomson-b1897-d.md)** (before 1897 - )
-- **[O'Malley](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
-- **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004)
+- **[Michael O'Malley](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - )
+- **[O'Malley](people/@76642956@-catherine-o'malley-b-d.md)**
+- **[O'Malley](people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md)** (14/Mar/1916 - before 2004)
+- **[Patrick O'Malley](people/@39412375@-patrick-o'malley-b1880-d.md)** (about 1880 - )
+- **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004)
 
 ## Paterson
 
@@ -651,14 +679,16 @@ permalink: /indexes/by-all-names
 
 ## Paton
 
-- **[John Paton](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - )
-- **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004)
-- **[Paton](people/@70248352@-jeanie-mcleod-b1900-d.md)** (before 1900 - )
+- **[Janet Paton](people/@96104748@-janet-mcfarlane-b-d.md)**
+- **[John Paton](people/@43171135@-john-paton-b-d.md)**
+- **[John Paton](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - )
+- **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md)** (14/Mar/1916 - before 2004)
+- **[Paton](people/@70248352@-jeanie-mcleod-b1897-d.md)** (about 1897 - )
 
 ## Pratt
 
-- **[Sandra Pratt](people/@40000604@-sandra-j-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
-- **[Sandy Pratt](people/@40000604@-sandra-j-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
+- **[Sandra Pratt](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
+- **[Sandy Pratt](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
 
 ## Predendall
 
@@ -719,12 +749,12 @@ permalink: /indexes/by-all-names
 - **[Frederick B Roberts](people/@36552681@-frederick-b-roberts-b1868-d.md)** (about 1868 - )
 - **[Janet Roberts](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
 - **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
-- **[Mary Beth Roberts](people/@44331192@-mary-beth-roberts-b1931-d2019.md)** (about 1931 - before 2019)
+- **[Mary Beth Roberts](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014)
 - **[Mary Elizabeth Roberts](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
-- **[Mary Elizabeth Roberts](people/@44331192@-mary-beth-roberts-b1931-d2019.md)** (about 1931 - before 2019)
+- **[Mary Elizabeth Roberts](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014)
 - **[May Roberts](people/@53003230@-mae-farnham-b1872-d.md)** (about 1872 - )
 - **[Roberts](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
-- **[Sandra J Roberts](people/@40000604@-sandra-j-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
+- **[Sandra Jane Roberts](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
 
 ## Robertson
 
@@ -799,7 +829,7 @@ permalink: /indexes/by-all-names
 - **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - )
 - **[Laura Stead](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
 - **[Lawrence Stead](people/@18256653@-lawrence-stead-b1933-11-29-d1989-3.md)** (29/Nov/1933 - Mar/1989)
-- **[Linda Stead](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
+- **[Linda Margaret Stead](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[Margaret Stead](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
 - **[Nancy Stead](people/@68661720@-nancy-b-d.md)**
 - **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
@@ -834,7 +864,9 @@ permalink: /indexes/by-all-names
 
 ## Thomson
 
-- **[Agnes Thomson](people/@96590245@-agnes-thomson-b1897-d.md)** (before 1897 - )
+- **[Agnes Watson Thomson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
+- **[Elizabeth Thomson](people/@86375908@-elizabeth-alexander-b-d1911.md)** ( - before 1911)
+- **[Thomas Thomson](people/@28828844@-thomas-thomson-b-d.md)**
 
 ## Vosseller
 

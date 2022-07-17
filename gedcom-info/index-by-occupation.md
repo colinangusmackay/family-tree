@@ -29,6 +29,10 @@ There were 2 people who worked as a Blacksmith of some sort.
 
 * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912).
 
+## Boiler Maker
+
+* **[O'Malley, Michael](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - ).
+
 ## Bookkeeper
 
 There were 2 people who worked as a Bookkeeper.
@@ -36,9 +40,24 @@ There were 2 people who worked as a Bookkeeper.
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 * **[Predendall, Carrie Elizabeth](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - ).
 
+## Brass Finisher
+
+* **[Paton, John](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - ).
+
+## Brass Finisher (Journeyman)
+
+* **[Paton, John](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - ).
+
 ## Brass Moulder
 
+There were 2 people who worked as a Brass Moulder.
+
 * **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - ), mentioned 5 times.
+* **[Paton, John](people/@43171135@-john-paton-b-d.md)**.
+
+## Builder's Holder-on
+
+* **[O'Malley, Michael](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - ).
 
 ## Business Owner
 
@@ -87,6 +106,7 @@ There were 3 people who worked as a Child Care Professional of some sort.
 #### Children's Nurse
 
 * **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
+* **[Mackay, Anna Jess](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021).
 
 #### Nanny
 
@@ -206,11 +226,11 @@ There were 9 people who worked as a Driver of some sort.
 
 * **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
 * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
-* **[Paton, John](people/@5211114@-john-paton-b1900-d.md)** (before 1900 - ).
+* **[Paton, John](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - ).
 
 ## Electrician
 
-* **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1912-12-29~1913-12-28-d2004.md)** (bet' 29/Dec/1912 and 28/Dec/1913 - before 2004), mentioned 2 times.
+* **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004), mentioned 2 times.
 
 ## Engineer
 
@@ -241,7 +261,7 @@ There were 3 people who worked as a Factory Worker of some sort.
 
 #### Biscuit Factory Operative
 
-* **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1915-12-29~1916-12-28-d2004.md)** (bet' 29/Dec/1915 and 28/Dec/1916 - before 2004).
+* **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md)** (14/Mar/1916 - before 2004).
 
 #### Light Duty Cycle Factory Warehouse
 
@@ -278,7 +298,10 @@ There were 8 people who worked as a Farm Worker of some sort.
 
 ## Farmer
 
+There were 2 people who worked as a Farmer.
+
 * **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - ).
+* **[O'Malley, John](people/@50797152@-john-o'malley-b-d1889.md)** ( - before 1889).
 
 ## Fettler (Woollen)
 
@@ -380,17 +403,22 @@ There were 2 people who worked as a General Merchant.
 
 * **[McLean, Mary](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - ).
 
+## Governess
+
+* **[Mackay, Anna Jess](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021).
+
 ## Gunner, Royal Artillery
 
 * **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008).
 
 ## Health Care Professional
 
-There were 6 people who worked as a Health Care Professional of some sort.
+There were 7 people who worked as a Health Care Professional of some sort.
 
 #### Children's Nurse
 
 * **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
+* **[Mackay, Anna Jess](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021).
 
 #### District Nurse
 
@@ -420,7 +448,9 @@ There were 6 people who worked as a Health Care Professional of some sort.
 
 ## Janitor
 
-There were 3 people who worked as a Janitor of some sort.
+There were 4 people who worked as a Janitor of some sort.
+
+* **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009).
 
 #### Caretaker
 
@@ -455,10 +485,11 @@ There were 2 people who worked as a Joiner of some sort.
 
 ## Labourer
 
-There were 6 people who worked as a Labourer of some sort.
+There were 7 people who worked as a Labourer of some sort.
 
 * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
 * **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - ).
+* **[O'Malley, Michael](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - ).
 
 #### Agricultural Labourer
 
@@ -480,6 +511,10 @@ There were 6 people who worked as a Labourer of some sort.
 #### Mason's Labourer
 
 * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
+
+## Labourer (Gas Department)
+
+* **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1890-1-4-d.md)** (4/Jan/1890 - ).
 
 ## Lapidary
 
@@ -504,7 +539,7 @@ There were 2 people who worked as a Librarian of some sort.
 
 #### Library Attendant
 
-* **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1897-d.md)** (before 1897 - ).
+* **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1890-1-4-d.md)** (4/Jan/1890 - ).
 
 ## Machinist
 
@@ -550,6 +585,10 @@ There were 2 people who worked as a Merchant.
 
 * **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019).
 
+## Milk Salesman
+
+* **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1890-1-4-d.md)** (4/Jan/1890 - ).
+
 ## Mill Worker
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
@@ -576,7 +615,7 @@ There were 3 people who worked as a Miner of some sort.
 There were 2 people who worked as a Motel Co-Owner.
 
 * **[Mackay, Anna Jess](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021).
-* **[Roberts, Sandra J](people/@40000604@-sandra-j-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019).
+* **[Roberts, Sandra Jane](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019).
 
 ## Night Inspector of Water Fittings
 
@@ -584,7 +623,7 @@ There were 2 people who worked as a Motel Co-Owner.
 
 ## Nurse
 
-There were 5 people who worked as a Nurse of some sort.
+There were 6 people who worked as a Nurse of some sort.
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 5 times.
 * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981), mentioned 2 times.
@@ -593,6 +632,7 @@ There were 5 people who worked as a Nurse of some sort.
 #### Children's Nurse
 
 * **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
+* **[Mackay, Anna Jess](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021).
 
 #### District Nurse
 
@@ -623,6 +663,10 @@ There were 2 people who worked as a Painter of some sort.
 ## Porter Railway
 
 * **[Morgan, Andrew](people/@23628312@-andrew-morgan-b1849-d.md)** (about 1849 - ).
+
+## Power Loom Weaver
+
+* **[Thomson, Agnes Watson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - ).
 
 ## Printer
 
@@ -656,6 +700,10 @@ There were 2 people who worked as a Retail Worker of some sort.
 #### Ladies Outfitters Shop Assistant
 
 * **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015).
+
+## Rivetter's Holder-on
+
+* **[O'Malley, Michael](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - ).
 
 ## Roadman
 
@@ -707,10 +755,11 @@ There were 4 people who worked as a Seaman of some sort.
 
 ## Secretary
 
-There were 2 people who worked as a Secretary.
+There were 3 people who worked as a Secretary.
 
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
-* **[Roberts, Mary Beth](people/@44331192@-mary-beth-roberts-b1931-d2019.md)** (about 1931 - before 2019).
+* **[Roberts, Mary Beth](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014).
+* **[Roberts, Sandra Jane](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019).
 
 ## Servant
 
@@ -791,6 +840,14 @@ There were 3 people who worked as a Tailor of some sort.
 ## Water Fittings Inspector
 
 * **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929).
+
+## Weaving Factory Mechanic
+
+* **[Thomson, Thomas](people/@28828844@-thomas-thomson-b-d.md)**.
+
+## Weaving Mill Clerk
+
+* **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1897-d.md)** (about 1897 - ).
 
 ## Wood Forester
 

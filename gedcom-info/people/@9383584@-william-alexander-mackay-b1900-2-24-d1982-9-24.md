@@ -231,7 +231,7 @@ about 1935 | Cement Finisher in Embo, Sutherland, Scotland | [14](#14)
 
 ### 17
 
-**2021 MACKAY, ANNA JESSE - Obituary, The Post Star**
+**2021 X, ANNA JESSE - Obituary, The Post Star**
 
 * [Full text and notes](../sources/@9852302@-2021-mackay,-anna-jesse-obituary,-the-post-star.md)
 * Publication: The POST STAR

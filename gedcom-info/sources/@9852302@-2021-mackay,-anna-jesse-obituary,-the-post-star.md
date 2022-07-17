@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s9852302
 ---
 
-# 2021 MACKAY, ANNA JESSE - Obituary, The Post Star
+# 2021 X, ANNA JESSE - Obituary, The Post Star
 
 Field | Detail
 ---:|:---

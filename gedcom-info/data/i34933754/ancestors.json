@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i34933754",
+  "Name": "Michael O'Malley",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1851",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i76642956",
+      "Name": "Catherine O'Malley",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i50797152",
+      "Name": "John O'Malley",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "Parents": []
+    }
+  ]
+}

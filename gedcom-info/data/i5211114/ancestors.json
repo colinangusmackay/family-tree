@@ -3,7 +3,26 @@
   "Name": "John Paton",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "before 1900",
+  "DateOfBirth": "about 1894",
   "DateOfDeath": "",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i96104748",
+      "Name": "Janet McFarlane",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i43171135",
+      "Name": "John Paton",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

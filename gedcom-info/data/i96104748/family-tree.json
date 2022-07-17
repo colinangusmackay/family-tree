@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i96104748",
+    "Name": "Janet McFarlane",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i96104748",
+      "Name": "Janet McFarlane",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i43171135",
+      "Name": "John Paton",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i5211114",
+      "Name": "John Paton",
+      "Gender": "Male",
+      "DateOfBirth": "about 1894",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i43171135",
+        "i96104748"
+      ]
+    }
+  ]
+}
