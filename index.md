@@ -45,6 +45,11 @@ I am, naturally, looking to fill in the gaps and fix any errors. If you can help
 
 At the bottom of each page there are contact links. You can either [contact me via email at github@colinmackay.scot](mailto:github@colinmackay.scot?subject=Family%20tree%20of%20Colin%20Mackay), or [raise an issue in GitHub](https://github.com/colinangusmackay/family-tree/issues/new?title=Issue%20or%20request%20from%20the%20homepage). The links at the bottom of the page will pre-populate the email subject or GitHub issue with the page you are on. The email link will only work if you have an email client set up for the browser to open.
 
+### Lists of people that I need more information about
+
+List of people with:
+* [missing or vague date of birth](gedcom-info/index-by-unknown-date-of-birth.md).
+
 ## The Geeky Bit
 
 If you are interested in the software side of it. I am using:
