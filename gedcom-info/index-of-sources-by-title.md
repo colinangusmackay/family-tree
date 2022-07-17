@@ -1689,6 +1689,8 @@ permalink: /indexes/by-source-title
   * Referenced from entry about: [Christine Cumming](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) (15/Dec/1904 - 10/Nov/1996)
 * [1998 CAMPBELL, RACHEL SMITH (Statutory registers - Deaths) index](sources/@32799771@-1998-campbell,-rachel-smith-statutory-registers-deaths-index.md)
   * Referenced from entry about: [Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md) (6/Jan/1920 - 11/Dec/1998)
+* [1999 X, X X (The Post Star, Glens Falls, New York, 18 FEB 1999, Page 13)](sources/@45931272@-1999-burdett,-baylee-tre-the-post-star,-glens-falls,-new-york,-18-feb-1999,-page-13-.md)
+  * Referenced from entry about: [Anna Jess Mackay](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md) (7/Jul/1938 - 12/Mar/2021)
 * [1999 MCIVER, RODERICK MCKENZIE (Statutory Register Deaths Index 507/ 328)](sources/@52038382@-1999-mciver,-roderick-mckenzie-statutory-register-deaths-index-507-328-.md)
   * Referenced from entry about: [Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) (12/Apr/1919 - 27/Jan/2008)
   * Referenced from entry about: [Margaret McKenzie McIver](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) (29/Sep/1917 - 12/Sep/2015)

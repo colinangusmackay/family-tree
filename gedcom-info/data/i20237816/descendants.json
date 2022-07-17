@@ -351,17 +351,27 @@
                       "Id": "i76071256",
                       "Name": "X",
                       "Gender": "Male",
-                      "Relationship": "step-son",
+                      "Relationship": "son",
                       "DateOfBirth": "12/Feb/1999",
                       "DateOfDeath": "",
-                      "Children": []
+                      "Children": [
+                        {
+                          "Id": "i24485664",
+                          "Name": "X",
+                          "Gender": "Male",
+                          "Relationship": "son",
+                          "DateOfBirth": "",
+                          "DateOfDeath": "",
+                          "Children": []
+                        }
+                      ]
                     },
                     {
                       "Id": "i23631272",
                       "Name": "X",
                       "Gender": "Male",
                       "Relationship": "son",
-                      "DateOfBirth": "22/Oct/2006",
+                      "DateOfBirth": "25/Oct/2006",
                       "DateOfDeath": "",
                       "Children": []
                     },

@@ -18,6 +18,12 @@ References | (URL) [Open original source at https://poststar.com/lifestyles/anno
 
 _Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
 
+## Notes
+
+> Article says death occurred on Thursday Feb 6th 2013, but was published on Feb 9th 2014. It is unlikely the article was published a whole year after death, and Feb 6th wsa a Thursday during 2014.
+>
+
+
 ## Source Referenced by
 
 * [Malcolm DeWitt Roberts](../people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) (30/Sep/1905 - 6/May/1990)
