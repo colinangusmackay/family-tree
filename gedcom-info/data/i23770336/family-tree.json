@@ -54,6 +54,18 @@
   ],
   "Children": [
     {
+      "Id": "i74680609",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "9/Nov/1931",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i492889",
+        "i23770336"
+      ]
+    },
+    {
       "Id": "i88821212",
       "Name": "X",
       "Gender": "Male",

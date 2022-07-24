@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i24694904",
+  "Name": "William Mackay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i58341424",
+      "Name": "Donald Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "25/Nov/1876",
+      "DateOfDeath": "22/Nov/1939",
+      "Children": []
+    }
+  ]
+}

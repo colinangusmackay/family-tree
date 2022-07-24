@@ -72,4 +72,4 @@ References | 1909 D 047/33
 * [Christina Fraser](../people/@45275253@-christina-fraser-b1803-d.md) (before 1803 - )
 * [Alexander Mackay](../people/@3089092@-alexander-mackay-b1803-d.md) (before 1803 - )
 * [Marion Mackay](../people/@78930004@-marion-mackay-b1819-d1909-12-30.md) (about 1819 - 30/Dec/1909)
-* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md) (bet' 1840 and 1842 - 13/Jan/1918)
+* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1847-d1918-1-13.md) (bet' 1840 and 1847 - 13/Jan/1918)

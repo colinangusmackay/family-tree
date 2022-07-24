@@ -69,8 +69,9 @@ permalink: /indexes/by-family-name
 - **[Alexander Cumming](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
 - **[Alexander Cumming](people/@7306221@-alexander-cumming-b1865-d.md)** (about 1865 - )
 - **[Alexandrina Cumming](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
+- **[Ann Cumming](people/@5075008@-ann-cumming-b-d.md)**
 - **[Anne Cumming](people/@14926290@-anne-cumming-b1920-2-23-d2002-11-14.md)** (23/Feb/1920 - 14/Nov/2002)
-- **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - )
+- **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md)** (30/Aug/1885 - 1977)
 - **[Christine Cumming](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 - **[Christy Cumming](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
 - **[Donald Cumming](people/@24876512@-donald-cumming-b-d.md)**
@@ -342,6 +343,7 @@ permalink: /indexes/by-family-name
 - **[Sophia Mackay](people/@52720474@-sophia-mackay-b1850-d.md)** (before 1850 - )
 - **[Thomas Mackay](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934)
 - **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
+- **[William Mackay](people/@24694904@-william-mackay-b-d.md)**
 - **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
 - **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
 
@@ -577,7 +579,7 @@ permalink: /indexes/by-family-name
 - **[Hugh Alexander Ross](people/@22731476@-hugh-alexander-ross-b1896-11-17-d.md)** (17/Nov/1896 - )
 - **[Hugh Ross](people/@10594034@-hugh-ross-b-d1889.md)** ( - before 1889)
 - **[Jeanie Ross](people/@71751658@-jeanie-ross-b1907-d.md)** (1907 - )
-- **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918)
+- **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1847-d1918-1-13.md)** (bet' 1840 and 1847 - 13/Jan/1918)
 - **[Johan or Janet Ross](people/@18017632@-johan-or-janet-ross-b1905-d.md)** (1905 - )
 - **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
 - **[John Ross](people/@75057664@-john-ross-b1861-d.md)** (1861 - )

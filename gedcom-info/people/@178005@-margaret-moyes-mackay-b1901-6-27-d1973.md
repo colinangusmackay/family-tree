@@ -57,7 +57,16 @@ Date | Occupation | Sources & Notes
 
 ## Notes
 
+### Note #1
+
 > Rona Grigg 2016 Ref: F9.2.11.7
+>
+
+
+
+### Note #2
+
+> Named after midwife who delivered her. Mrs Moyes was the wife of the embo school master at the time.
 >
 
 

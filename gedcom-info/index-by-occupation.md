@@ -267,6 +267,10 @@ There were 3 people who worked as a Factory Worker of some sort.
 
 * **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ).
 
+## Family Grocer
+
+* **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939).
+
 ## Farm Foreman
 
 * **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
@@ -313,7 +317,7 @@ There were 2 people who worked as a Farmer.
 
 ## Fish Worker
 
-There were 6 people who worked as a Fish Worker of some sort.
+There were 7 people who worked as a Fish Worker of some sort.
 
 * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
@@ -321,6 +325,7 @@ There were 6 people who worked as a Fish Worker of some sort.
 
 #### Fishergirl
 
+* **[Cumming, Barbara Ann](people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md)** (30/Aug/1885 - 1977).
 * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - ).
 
 #### Fishwife
@@ -330,13 +335,16 @@ There were 6 people who worked as a Fish Worker of some sort.
 
 ## Fisherman
 
-There were 40 people who worked as a Fisherman.
+There were 45 people who worked as a Fisherman.
 
 * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926), mentioned 3 times.
 * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884), mentioned 3 times.
 * **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875), mentioned 3 times.
 * **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 11 times.
-* **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923), mentioned 6 times.
+* **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923), mentioned 7 times.
+* **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - ).
+* **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ).
+* **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ).
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
 * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned 2 times.
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
@@ -355,6 +363,7 @@ There were 40 people who worked as a Fisherman.
 * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ).
 * **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ).
 * **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - ).
+* **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939).
 * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 3 times.
 * **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - ), mentioned 2 times.
 * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1919.md)** (12/Apr/1861 - before 1919), mentioned 8 times.
@@ -364,6 +373,7 @@ There were 40 people who worked as a Fisherman.
 * **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ), mentioned 2 times.
 * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
+* **[Mackay, William](people/@24694904@-william-mackay-b-d.md)**.
 * **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ).
 * **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949).
@@ -375,7 +385,7 @@ There were 40 people who worked as a Fisherman.
 
 ## Fisherwoman
 
-* **[Ross, Jessie](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918).
+* **[Ross, Jessie](people/@60546968@-jessie-ross-b1840~1847-d1918-1-13.md)** (bet' 1840 and 1847 - 13/Jan/1918).
 
 ## Fishworker
 
@@ -545,7 +555,7 @@ There were 2 people who worked as a Librarian of some sort.
 
 There were 2 people who worked as a Machinist.
 
-* **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965), mentioned 4 times.
+* **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965), mentioned 5 times.
 * **[Cumming, John](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ).
 
 ## Manager
@@ -572,8 +582,12 @@ There were 2 people who worked as a Manager of some sort.
 
 There were 2 people who worked as a Merchant.
 
-* **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923), mentioned 2 times.
+* **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923), mentioned 3 times.
 * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ).
+
+## Merchant (Grocer)
+
+* **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923).
 
 ## Midwife
 

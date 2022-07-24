@@ -160,6 +160,15 @@
                   "DateOfDeath": "2/Jul/1975",
                   "Children": [
                     {
+                      "Id": "i74680609",
+                      "Name": "X",
+                      "Gender": "Female",
+                      "Relationship": "daughter",
+                      "DateOfBirth": "9/Nov/1931",
+                      "DateOfDeath": "",
+                      "Children": []
+                    },
+                    {
                       "Id": "i88821212",
                       "Name": "X",
                       "Gender": "Male",
@@ -859,7 +868,7 @@
               "Gender": "Female",
               "Relationship": "daughter",
               "DateOfBirth": "30/Aug/1885",
-              "DateOfDeath": "",
+              "DateOfDeath": "1977",
               "Children": []
             }
           ]

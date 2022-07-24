@@ -10,7 +10,7 @@ permalink: /people/i7306221
 ## Immediate Family
 
 * Father: [James Cumming](./@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
-* Mother: [Jessie Ross](./@60546968@-jessie-ross-b1840~1842-d1918-1-13.md) (bet' 1840 and 1842 - 13/Jan/1918)
+* Mother: [Jessie Ross](./@60546968@-jessie-ross-b1840~1847-d1918-1-13.md) (bet' 1840 and 1847 - 13/Jan/1918)
 * Brother: [Donald J Cumming](./@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
 * Sister: [Marion Cumming](./@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md) (20/May/1863 - 15/Nov/1954)
 * Brother: [Kenneth Cumming](./@14447152@-kenneth-cumming-b1867-d.md) (about 1867 - )
@@ -18,13 +18,13 @@ permalink: /people/i7306221
 * Brother: [John Cumming](./@87723702@-john-cumming-b1873-d.md) (about 1873 - )
 * Sister: [Christy Cumming](./@94377968@-christy-cumming-b1878-d.md) (about 1878 - )
 * Brother: [James Cumming](./@64418166@-james-cumming-b1881-11-4-d1918.md) (4/Nov/1881 - before 1918)
-* Sister: [Barbara Ann Cumming](./@57039529@-barbara-ann-cumming-b1885-8-30-d.md) (30/Aug/1885 - )
+* Sister: [Barbara Ann Cumming](./@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md) (30/Aug/1885 - 1977)
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1865 | Born | Born to [James Cumming](./@66384942@-james-cumming-b1834~1841-d1923-1-11.md) and [Jessie Ross](./@60546968@-jessie-ross-b1840~1842-d1918-1-13.md) in Dornoch, Sutherland, Scotland. | [1](#1), [2](#2) | 
+about 1865 | Born | Born to [James Cumming](./@66384942@-james-cumming-b1834~1841-d1923-1-11.md) and [Jessie Ross](./@60546968@-jessie-ross-b1840~1847-d1918-1-13.md) in Dornoch, Sutherland, Scotland. | [1](#1), [2](#2) | 
 
 ## Known Residences
 

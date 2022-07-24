@@ -45,9 +45,11 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1860s
 
 * **1860**
-  * **21/Feb/1860** : **[James Cumming](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918) at Dornoch, Sutherland, Scotland.
+  * **21/Feb/1860** : **[James Cumming](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1847-d1918-1-13.md)** (bet' 1840 and 1847 - 13/Jan/1918) at Dornoch, Sutherland, Scotland.
 * **1861**
   * **14/Feb/1861** : **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) and **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) at Gairloch, Ross and Cromarty, Scotland.
+* **1867**
+  * **Oct/1867** : **[William Mackay](people/@24694904@-william-mackay-b-d.md)** and **[Ann Cumming](people/@5075008@-ann-cumming-b-d.md)** at Dornoch, Sutherland, Scotland.
 * **1869**
   * **16/Nov/1869** : **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ) and **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - ) at Dornoch, Sutherland, Scotland.
 
@@ -118,7 +120,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **22/Jan/1901** : **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ).
   * **31/Dec/1901** : **[John Fleming](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ) and **[Agnes Rennie](people/@57426108@-agnes-rennie-b1878-d.md)** (1878 - ) at Blackburn, West Lothian, Scotland.
 * **1903**
-  * **27/Nov/1903** : **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939) and **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d.md)** (30/Aug/1885 - ).
+  * **27/Nov/1903** : **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939) and **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md)** (30/Aug/1885 - 1977).
 * **1905**
   * **13/Jan/1905** : **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920) and **[Helen Currie Fisher](people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md)** (29/Nov/1881 - 6/Jun/1953) at Edinburgh, Scotland.
   * **30/Jun/1905** : X and **[Margaret Wood Fleming](people/@90221940@-margaret-wood-fleming-b1879-3-25-d.md)** (25/Mar/1879 - ) at Blackburn, West Lothian, Scotland.

@@ -16,6 +16,8 @@ permalink: /people/i28166672
 
 * Father: [John Mackay](./@53390906@-john-mackay-b-d.md)
 * Daughter: X
+* Daughter: X
+* Daughter: X
 * Mother: [Matilda MacLeod](./@31540392@-matilda-macleod-b1861-d1949-11-9.md) (about 1861 - 9/Nov/1949)
 * Husband: [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
 

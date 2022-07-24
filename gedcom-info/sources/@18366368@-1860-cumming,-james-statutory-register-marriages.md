@@ -71,4 +71,4 @@ References | 1860 M 047/4
 * [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1875-10-29.md) (about 1807 - 29/Oct/1875)
 * [Marion Mackay](../people/@78930004@-marion-mackay-b1819-d1909-12-30.md) (about 1819 - 30/Dec/1909)
 * [Alexander Ross](../people/@81387900@-alexander-ross-b1814-d1896-1-20.md) (about 1814 - 20/Jan/1896)
-* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md) (bet' 1840 and 1842 - 13/Jan/1918)
+* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1847-d1918-1-13.md) (bet' 1840 and 1847 - 13/Jan/1918)

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i5075008",
+    "Name": "Ann Cumming",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i5075008",
+      "Name": "Ann Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i24694904",
+      "Name": "William Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "Oct/1867",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i58341424",
+      "Name": "Donald Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "25/Nov/1876",
+      "DateOfDeath": "22/Nov/1939",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i24694904",
+        "i5075008"
+      ]
+    }
+  ]
+}

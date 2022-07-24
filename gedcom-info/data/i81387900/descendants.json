@@ -11,7 +11,7 @@
       "Name": "Jessie Ross",
       "Gender": "Female",
       "Relationship": "daughter",
-      "DateOfBirth": "bet' 1840 and 1842",
+      "DateOfBirth": "bet' 1840 and 1847",
       "DateOfDeath": "13/Jan/1918",
       "Children": [
         {
@@ -113,6 +113,15 @@
               "DateOfBirth": "7/Nov/1894",
               "DateOfDeath": "2/Jul/1975",
               "Children": [
+                {
+                  "Id": "i74680609",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "9/Nov/1931",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
                 {
                   "Id": "i88821212",
                   "Name": "X",
@@ -813,7 +822,7 @@
           "Gender": "Female",
           "Relationship": "daughter",
           "DateOfBirth": "30/Aug/1885",
-          "DateOfDeath": "",
+          "DateOfDeath": "1977",
           "Children": []
         }
       ]

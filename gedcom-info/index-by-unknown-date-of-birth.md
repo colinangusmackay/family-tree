@@ -93,7 +93,7 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Grant, Hugh](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - )
   * **[Mackay, Mary](people/@78757487@-mary-mackay-b1840-d.md)** (before 1840 - )
   * **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
-  * **[Ross, Jessie](people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md)** (bet' 1840 and 1842 - 13/Jan/1918)
+  * **[Ross, Jessie](people/@60546968@-jessie-ross-b1840~1847-d1918-1-13.md)** (bet' 1840 and 1847 - 13/Jan/1918)
 * **Born in 1843.**
   * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
 * **Born in 1844.**
@@ -307,6 +307,7 @@ This is a list of people who have vague or unknown dates of birth.
 * [Anne Chisholm](people/@48064613@-anne-chisholm-b-d1877.md) ( - before 1877)
 * [James Clark](people/@29410614@-james-clark-b-d.md)
 * [Helen Collins](people/@79475420@-helen-collins-b-d.md)
+* [Ann Cumming](people/@5075008@-ann-cumming-b-d.md)
 * [Donald Cumming](people/@24876512@-donald-cumming-b-d.md)
 * [Donald Cumming](people/@69575920@-donald-cumming-b-d1875.md) ( - after 1875)
 * [Helen Currie](people/@14506844@-helen-currie-b-d1880.md) ( - before 1880)
@@ -349,6 +350,7 @@ This is a list of people who have vague or unknown dates of birth.
 * [John Mackay](people/@53390906@-john-mackay-b-d.md)
 * [Kenneth Mackay](people/@27357972@-kenneth-mackay-b-d.md)
 * [Kenneth Mackay](people/@30341840@-kenneth-mackay-b-d.md)
+* [William Mackay](people/@24694904@-william-mackay-b-d.md)
 * [Margaret MacKintosh](people/@23268600@-margaret-mackintosh-b-d.md)
 * [Christy MacLennan](people/@8610974@-christy-maclennan-b-d.md)
 * [Hector MacLeod](people/@28404010@-hector-macleod-b-d1949.md) ( - before 1949)

@@ -35,39 +35,40 @@ Date | Item | Description | Sources | Notes
 2/May/1939 | Naturalised | Naturalised in Boston, Massachusetts, United States of America. (Petition for Naturalization) | [12](#12) | 
 28/Feb/1940 | Death of father | [Donald J Cumming](./@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) died in Embo, Sutherland, Scotland. | [13](#13) | 
 16/Feb/1942 | EVEN:Military Conscription/Draft |  | [2](#2) | 
-10/Dec/1943 | Marriage | Married to [Margaret Hogg Hatelie](./@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md) in Fort Lauderdale, Broward County, Florida, United States of America | [14](#14), [15](#15) | 
-20/Jun/1946 | Death of mother | [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) died. | [13](#13), [16](#16), [17](#17) | 
-Aug/1965 | Died | Died in Palm Beach, Florida, United States of America. | [18](#18), [19](#19) | 
+10/Dec/1943 | Marriage | Married to [Margaret Hogg Hatelie](./@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md) in Fort Lauderdale, Broward County, Florida, United States of America | [14](#14), [15](#15), [16](#16) | 
+20/Jun/1946 | Death of mother | [Ann Fraser](./@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) died. | [13](#13), [17](#17), [18](#18) | 
+Aug/1965 | Died | Died in Palm Beach, Florida, United States of America. | [19](#19), [20](#20) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1901 | 9 Back Street, Embo, Sutherland, Scotland | [20](#20)
-1911 | 9 Front Street, Embo, Sutherland, Scotland | [21](#21)
-1915 | 9 Front Street, Embo, Sutherland, Scotland | [22](#22)
-20/May/1920 | 25 Steven Street, St George's Cross, Glasgow, Scotland | [22](#22)
+1901 | 9 Back Street, Embo, Sutherland, Scotland | [21](#21)
+1911 | 9 Front Street, Embo, Sutherland, Scotland | [22](#22)
+1915 | 9 Front Street, Embo, Sutherland, Scotland | [23](#23)
+20/May/1920 | 25 Steven Street, St George's Cross, Glasgow, Scotland | [23](#23)
 after 20/Aug/1920 | 16 Beethoven St. Roxbury, Boston, Massachusetts, USA | [9](#9)
-1922 | 152 Pearl Street, Cambridge, Mass. USA | [22](#22)
-1930 | 80 Summit Avenue, Brookline, Massachusetts, USA | [23](#23)
-1935 | 80 Summit Ave, Brookline, Massachusetts, USA | [24](#24)
+1922 | 152 Pearl Street, Cambridge, Mass. USA | [23](#23)
+1930 | 80 Summit Avenue, Brookline, Massachusetts, USA | [24](#24)
+1935 | 80 Summit Ave, Brookline, Massachusetts, USA | [25](#25)
 1936 | 80 Summit Avenue, Brookline, Massachusetts, USA | [11](#11)
 1939 | 80 Summit Avenue, Brookline, Massachusetts, USA | 
-1940 | 80 Summit Ave, Brookline, Massachusetts, USA | [24](#24)
+1940 | 80 Summit Ave, Brookline, Massachusetts, USA | [25](#25)
 1942 | 80 Summit Avenue, Brookline, Norfolk, Massachusetts, USA | [2](#2)
-1950 | 701 Silver Beach Road, Lake Park, Florida, USA | [25](#25)
-1953 | 701 Silver Beach Road, Lake Park, Florida, USA | [26](#26)
+1950 | 701 Silver Beach Road, Lake Park, Florida, USA | [26](#26)
+1953 | 701 Silver Beach Road, Lake Park, Florida, USA | [27](#27)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1930 | Machinist | [23](#23)
+1930 | Machinist | [24](#24)
 1936 | Machinist | [11](#11)
-1937 | Machinist | [27](#27)
+1937 | Machinist | [28](#28)
 1939 | Machinist | [12](#12)
-1949 | Real Estate Business | [28](#28)
-1953 | Superintendent Public Works | [26](#26)
+1943 | Machinist | [15](#15)
+1949 | Real Estate Business | [29](#29)
+1953 | Superintendent Public Works | [27](#27)
 
 ## Notes
 
@@ -205,13 +206,21 @@ Date | Occupation | Sources & Notes
 
 ### 15
 
+**1943 CUMMING, GEORGE DAVIDSON SMITH & HATELIE, MARGARET HOGG (Fort Lauderdale New, Florida, 15 DEC 1943, Page 7)**
+
+* [Full text and notes](../sources/@10240352@-1943-cumming,-george-davidson-smith-&-hatelie,-margaret-hogg-fort-lauderdale-new,-florida,-15-dec-1….md)
+* Publication: Fort Lauderdale News
+* Date: 15/Dec/1943
+
+### 16
+
 **1948 CUMMING, MARGARET HOGG (Petition for Naturalization)**
 
 * [Full text and notes](../sources/@4799722@-1948-cumming,-margaret-hogg-petition-for-naturalization-.md)
 * References: 
   * 1734
 
-### 16
+### 17
 
 **1928 GILLIE, WILLIAMINA (statutory registers marriages 098/A99)**
 
@@ -221,7 +230,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1928 M 098/A99
 
-### 17
+### 18
 
 **1946 CUMMING, ANN (Statutory Registers Deaths 047/11)**
 
@@ -230,14 +239,14 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1946 D 
 
-### 18
+### 19
 
 **1965 CUMMING, GEORGE D S - Florida Death Index**
 
 * [Full text and notes](../sources/@66019328@-1965-cumming,-george-d-s-florida-death-index.md)
 * Publication: Florida Death Index 1877-1998
 
-### 19
+### 20
 
 **1965 CUMMING, GEORGE DAVIDSON SMITH - FindAGrave.com memorial**
 
@@ -247,7 +256,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 187602426
 
-### 20
+### 21
 
 **1901 CUMMING, DONALD - 1901 Census 047/2/18**
 
@@ -256,7 +265,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1901 C 047/2/18
 
-### 21
+### 22
 
 **1911 CUMMING, DONALD & FAMILY (Census 047/ 3/ 14)**
 
@@ -266,13 +275,13 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1911 C 047/ 3/ 14
 
-### 22
+### 23
 
 **1915 CUMMING, GEORGE DAVIDSON SMITH - Royal Navy**
 
 * [Full text and notes](../sources/@49170492@-1915-cumming,-george-davidson-smith-royal-navy.md)
 
-### 23
+### 24
 
 **1930 CUMMING, GEORGE / ALEXINA / THOMASINA / CHRISTINE - 1930 United States Federal Census**
 
@@ -280,13 +289,13 @@ Date | Occupation | Sources & Notes
 * Originator / Author: Department of Commerce - Bureau of the Census
 * Date: 7/Apr/1930
 
-### 24
+### 25
 
 **1940 CUMMING, ALEXINA, GEORGE, THOMASINA, & CHRISTINE - 1940 United States Federal Census**
 
 * [Full text and notes](../sources/@80891523@-1940-cumming,-alexina,-george,-thomasina,-&-christine-1940-united-states-federal-census.md)
 
-### 25
+### 26
 
 **1950 CUMMING, GEORGE DS & MARGARET HOGG (1950 Census)**
 
@@ -295,21 +304,21 @@ Date | Occupation | Sources & Notes
 * Date: 7/Apr/1950
 * Responsible Agency: U.S. Department of Commerce, Bureau of the Census
 
-### 26
+### 27
 
 **1953 CUMMING, GEORGE D.S (West Palm Beach, Florida, City Directory, 1953)**
 
 * [Full text and notes](../sources/@64786767@-1953-cumming,-george-d.s-west-palm-beach,-florida,-city-directory,-1953-.md)
 * Date: 1953
 
-### 27
+### 28
 
 **1937 CUMMING, GEORGE DAVIDSON SMITH**
 
 * [Full text and notes](../sources/@63974962@-1937-cumming,-george-davidson-smith.md)
 * Date: 16/Jul/1937
 
-### 28
+### 29
 
 **1949 Sunday Post - 150 Young Men Went out to Seek Their Fortune (15/May/1949)**
 

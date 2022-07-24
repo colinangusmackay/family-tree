@@ -67,9 +67,10 @@ References | 1918 D 047/1
 
 ## Source Referenced by
 
+* [Barbara Ann Cumming](../people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md) (30/Aug/1885 - 1977)
 * [Donald J Cumming](../people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
 * [James Cumming](../people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
 * [Marion Cumming](../people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md) (20/May/1863 - 15/Nov/1954)
 * [Marion Mackay](../people/@78930004@-marion-mackay-b1819-d1909-12-30.md) (about 1819 - 30/Dec/1909)
 * [Alexander Ross](../people/@81387900@-alexander-ross-b1814-d1896-1-20.md) (about 1814 - 20/Jan/1896)
-* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md) (bet' 1840 and 1842 - 13/Jan/1918)
+* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1847-d1918-1-13.md) (bet' 1840 and 1847 - 13/Jan/1918)

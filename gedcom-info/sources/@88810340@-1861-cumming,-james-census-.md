@@ -92,4 +92,4 @@ References |
 ## Source Referenced by
 
 * [James Cumming](../people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
-* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1842-d1918-1-13.md) (bet' 1840 and 1842 - 13/Jan/1918)
+* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1847-d1918-1-13.md) (bet' 1840 and 1847 - 13/Jan/1918)

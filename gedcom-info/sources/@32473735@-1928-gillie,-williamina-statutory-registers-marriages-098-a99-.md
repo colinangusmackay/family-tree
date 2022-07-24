@@ -54,7 +54,7 @@ References | 1928 M 098/A99
 >
 > Usual Residence: White House, Embo
 >
-> Name, Surname & Proffesion of Father: Andrew Gillie; Fisherman
+> Name, Surname & Profesion of Father: Andrew Gillie; Fisherman
 >
 > Name and Maiden Surname of Mother: Williamina Gillie M.S. Ross
 >
