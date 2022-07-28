@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i24393948",
+    "Name": "Clinton Edwin Monson",
+    "Gender": "Male",
+    "DateOfBirth": "9/Sep/1931",
+    "DateOfDeath": "15/Jul/2019"
+  },
+  "Parents": [
+    {
+      "Id": "i81584231",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i82286514",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i24393948",
+      "Name": "Clinton Edwin Monson",
+      "Gender": "Male",
+      "DateOfBirth": "9/Sep/1931",
+      "DateOfDeath": "15/Jul/2019",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i81584231",
+          "i82286514"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i74680609",
+      "Name": "Wilma May Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "9/Nov/1931",
+      "DateOfDeath": "12/Sep/2009",
+      "RelationToSubject": "ex-wife",
+      "DateOfMarriage": "6/Jan/1953",
+      "DateOfDivorce": "before 12/Feb/1957"
+    }
+  ],
+  "Children": []
+}

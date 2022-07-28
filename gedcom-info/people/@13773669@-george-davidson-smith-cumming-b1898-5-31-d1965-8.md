@@ -57,6 +57,7 @@ after 20/Aug/1920 | 16 Beethoven St. Roxbury, Boston, Massachusetts, USA | [9](#
 1942 | 80 Summit Avenue, Brookline, Norfolk, Massachusetts, USA | [2](#2)
 1950 | 701 Silver Beach Road, Lake Park, Florida, USA | [26](#26)
 1953 | 701 Silver Beach Road, Lake Park, Florida, USA | [27](#27)
+1958 | 701 Silver Beach Road, Lake Park, Florida, USA | [28](#28)
 
 ## Known Occupations
 
@@ -64,11 +65,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1930 | Machinist | [24](#24)
 1936 | Machinist | [11](#11)
-1937 | Machinist | [28](#28)
+1937 | Machinist | [29](#29)
 1939 | Machinist | [12](#12)
 1943 | Machinist | [15](#15)
-1949 | Real Estate Business | [29](#29)
+1949 | Real Estate Business | [30](#30)
 1953 | Superintendent Public Works | [27](#27)
+1958 | Superintendent Public Works | [28](#28)
 
 ## Notes
 
@@ -313,12 +315,18 @@ Date | Occupation | Sources & Notes
 
 ### 28
 
+**1958 MONSON, WILMA MAY CUMMING (Petition for Naturalization - Palm Beach, FL)**
+
+* [Full text and notes](../sources/@56630136@-1958-monson,-wilma-may-cumming-petition-for-naturalization-palm-beach,-fl-.md)
+
+### 29
+
 **1937 CUMMING, GEORGE DAVIDSON SMITH**
 
 * [Full text and notes](../sources/@63974962@-1937-cumming,-george-davidson-smith.md)
 * Date: 16/Jul/1937
 
-### 29
+### 30
 
 **1949 Sunday Post - 150 Young Men Went out to Seek Their Fortune (15/May/1949)**
 

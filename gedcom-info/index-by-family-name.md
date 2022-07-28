@@ -100,6 +100,7 @@ permalink: /indexes/by-family-name
 - **[Thomasina Ian Cumming](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
 - **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
 - **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
+- **[Wilma May Cumming](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009)
 
 ## Cummings
 
@@ -461,6 +462,10 @@ permalink: /indexes/by-family-name
 - **[? Mitchell](people/@47829915@--mitchell-b-d.md)**
 - **[Donald Charles Mitchell](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982)
 - **[Thomas Mitchell](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972)
+
+## Monson
+
+- **[Clinton Edwin Monson](people/@24393948@-clinton-edwin-monson-b1931-9-9-d2019-7-15.md)** (9/Sep/1931 - 15/Jul/2019)
 
 ## Morgan
 

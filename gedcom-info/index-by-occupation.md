@@ -769,8 +769,9 @@ There were 4 people who worked as a Seaman of some sort.
 
 ## Secretary
 
-There were 3 people who worked as a Secretary.
+There were 4 people who worked as a Secretary.
 
+* **[Cumming, Wilma May](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009).
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
 * **[Roberts, Mary Beth](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014).
 * **[Roberts, Sandra Jane](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019).
@@ -814,11 +815,14 @@ There were 3 people who worked as a Smith of some sort.
 
 ## Stenographer
 
+There were 2 people who worked as a Stenographer.
+
 * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973), mentioned 4 times.
+* **[Cumming, Wilma May](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009).
 
 ## Superintendent Public Works
 
-* **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965).
+* **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965), mentioned 2 times.
 
 ## Tailor
 

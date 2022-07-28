@@ -98,12 +98,30 @@
       "DateOfDeath": "2/Jul/1975",
       "Children": [
         {
-          "Id": "i74680609",
+          "Id": "i4151984",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i99625992",
           "Name": "X",
           "Gender": "Female",
           "Relationship": "daughter",
-          "DateOfBirth": "9/Nov/1931",
+          "DateOfBirth": "1930",
           "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i74680609",
+          "Name": "Wilma May Cumming",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "9/Nov/1931",
+          "DateOfDeath": "12/Sep/2009",
           "Children": []
         },
         {
@@ -112,6 +130,15 @@
           "Gender": "Male",
           "Relationship": "son",
           "DateOfBirth": "1938",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i39113925",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "1939",
           "DateOfDeath": "",
           "Children": []
         }

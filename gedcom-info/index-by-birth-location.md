@@ -441,6 +441,7 @@ permalink: /indexes/by-birth-location
 
 ### Leith
 
+- **[Cumming, Wilma May](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009)
 - **[Fisher, George](people/@35202352@-george-fisher-b1844-d.md)** (about 1844 - )
 - **[Fisher, John](people/@81248806@-john-fisher-b1819-d1880.md)** (about 1819 - after 1880)
 - **[Taylor, Helen](people/@47549486@-helen-taylor-b1816-d1865-11-27.md)** (about 1816 - 27/Nov/1865)
@@ -595,6 +596,12 @@ permalink: /indexes/by-birth-location
 #### Pittsfield, Berkshire County
 
 - **[Hoctor, Sylvia Jean](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993)
+
+### Michigan
+
+#### Escanaba, Delta County
+
+- **[Monson, Clinton Edwin](people/@24393948@-clinton-edwin-monson-b1931-9-9-d2019-7-15.md)** (9/Sep/1931 - 15/Jul/2019)
 
 ### New York
 

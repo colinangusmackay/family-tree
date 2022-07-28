@@ -22,7 +22,7 @@ References | 1928 M 098/A99
 >
 > No 99
 >
-> When, Wherem and How Married: 1928 on the Second day of May at The Castle Inverness by declaration in presence of Hugh MacGillivray 10 Duff Street, Inverness, and James MacKenzie 7 Albert Place, Inverness.
+> When, Where and How Married: 1928 on the Second day of May at The Castle Inverness by declaration in presence of Hugh MacGillivray 10 Duff Street, Inverness, and James MacKenzie 7 Albert Place, Inverness.
 >
 > <br/>
 >

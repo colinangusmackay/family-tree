@@ -54,11 +54,35 @@
   ],
   "Children": [
     {
-      "Id": "i74680609",
+      "Id": "i4151984",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i492889",
+        "i23770336"
+      ]
+    },
+    {
+      "Id": "i99625992",
       "Name": "X",
       "Gender": "Female",
-      "DateOfBirth": "9/Nov/1931",
+      "DateOfBirth": "1930",
       "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i492889",
+        "i23770336"
+      ]
+    },
+    {
+      "Id": "i74680609",
+      "Name": "Wilma May Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "9/Nov/1931",
+      "DateOfDeath": "12/Sep/2009",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i492889",
@@ -72,6 +96,18 @@
       "DateOfBirth": "1938",
       "DateOfDeath": "",
       "RelationToSubject": "son",
+      "ParentIds": [
+        "i492889",
+        "i23770336"
+      ]
+    },
+    {
+      "Id": "i39113925",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "1939",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i492889",
         "i23770336"

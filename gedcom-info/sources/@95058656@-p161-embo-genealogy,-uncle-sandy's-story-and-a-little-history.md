@@ -42,6 +42,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 * [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) (26/Jul/1900 - 8/Oct/1981)
 * [Thomasina Ian Cumming](../people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) (24/Nov/1902 - 1/Jun/1973)
 * [William Cumming](../people/@10016098@-william-cumming-b1870-d.md) (about 1870 - )
+* [Wilma May Cumming](../people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md) (9/Nov/1931 - 12/Sep/2009)
 * [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) (18/Sep/1865 - 20/Jun/1946)
 * [Williamina Gillie](../people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md) (4/Apr/1910 - 4/Nov/2003)
 * [Donald Mackay](../people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md) (25/Nov/1876 - 22/Nov/1939)

@@ -146,6 +146,7 @@ permalink: /indexes/by-all-names
 - **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
 - **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
 - **[Williamina Cumming](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
+- **[Wilma May Cumming](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009)
 
 ## Cummings
 
@@ -626,6 +627,11 @@ permalink: /indexes/by-all-names
 - **[Mitchell](people/@57477342@-mildred-hayes-b-d2018.md)** ( - before 2018)
 - **[Sylvia Jean Mitchell](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993)
 - **[Thomas Mitchell](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972)
+
+## Monson
+
+- **[Clinton Edwin Monson](people/@24393948@-clinton-edwin-monson-b1931-9-9-d2019-7-15.md)** (9/Sep/1931 - 15/Jul/2019)
+- **[Wilma May Cumming Monson](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009)
 
 ## Morgan
 

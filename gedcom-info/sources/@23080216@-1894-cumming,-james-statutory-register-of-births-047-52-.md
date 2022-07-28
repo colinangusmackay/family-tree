@@ -12,7 +12,44 @@ Originator / Author |
 Date | 
 Responsible Agency | National Records of Scotland
 Filed by Entry | 
-References | 1894 047/52
+References | 1894 B 047/ 52
+
+## Text
+
+> 1894 BIRTHS in the Parish of Dornoch in the County of Sutherland
+>
+> <br/>
+>
+> No. 52
+>
+> Name and Surname: James Cumming
+>
+> When and Where Born: 1894 November Seventh 10H 0M AM; Fishertown, Dornoch
+>
+> Sex: M
+>
+> <br/>
+>
+> Name, Surname and Profession of Father: Donald Cumming, Fisherman
+>
+> Name and Maiden Surname of Mother: Ann Cumming M.S. Fraser
+>
+> Date and Place of Marriage: 1889 October 25th, Dornoch
+>
+> <br/>
+>
+> Signature and Qualification of Informant: Donald Cumming, Father
+>
+> <br/>
+>
+> When and Where registered: 1894 November 22nd at Dornoch
+>
+
+## Notes
+
+> Fishertown, Dornoch = Embo
+>
+
 
 ## Source Referenced by
 

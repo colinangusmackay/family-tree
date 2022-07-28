@@ -430,6 +430,7 @@ permalink: /indexes/by-residence-location
 #### West Palm Beach, Palm Beach
 
 - **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
+- **[Cumming, Wilma May](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009)
 
 ### Hawaii
 
@@ -582,6 +583,22 @@ permalink: /indexes/by-residence-location
 #### Seattle
 
 - **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
+
+### Wisconsin
+
+#### Milwaukee, Milwaukee County
+
+- **[Cumming, Wilma May](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009)
+- **[Monson, Clinton Edwin](people/@24393948@-clinton-edwin-monson-b1931-9-9-d2019-7-15.md)** (9/Sep/1931 - 15/Jul/2019)
+
+
+## United States or America
+
+### Florida
+
+#### Jacksonville, Duval County
+
+- **[Cumming, Wilma May](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009)
 
 
 ## Zimbabwe

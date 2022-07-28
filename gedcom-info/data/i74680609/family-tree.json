@@ -1,0 +1,112 @@
+﻿{
+  "Subject": {
+    "Id": "i74680609",
+    "Name": "Wilma May Cumming",
+    "Gender": "Female",
+    "DateOfBirth": "9/Nov/1931",
+    "DateOfDeath": "12/Sep/2009"
+  },
+  "Parents": [
+    {
+      "Id": "i492889",
+      "Name": "James Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "7/Nov/1894",
+      "DateOfDeath": "2/Jul/1975",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i23770336",
+      "Name": "Williamina Gillie",
+      "Gender": "Female",
+      "DateOfBirth": "4/Apr/1910",
+      "DateOfDeath": "4/Nov/2003",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i4151984",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i23770336",
+          "i492889"
+        ]
+      ]
+    },
+    {
+      "Id": "i99625992",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "1930",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i23770336",
+          "i492889"
+        ]
+      ]
+    },
+    {
+      "Id": "i74680609",
+      "Name": "Wilma May Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "9/Nov/1931",
+      "DateOfDeath": "12/Sep/2009",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i23770336",
+          "i492889"
+        ]
+      ]
+    },
+    {
+      "Id": "i88821212",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "1938",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i23770336",
+          "i492889"
+        ]
+      ]
+    },
+    {
+      "Id": "i39113925",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "1939",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i23770336",
+          "i492889"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i24393948",
+      "Name": "Clinton Edwin Monson",
+      "Gender": "Male",
+      "DateOfBirth": "9/Sep/1931",
+      "DateOfDeath": "15/Jul/2019",
+      "RelationToSubject": "ex-husband",
+      "DateOfMarriage": "6/Jan/1953",
+      "DateOfDivorce": "before 12/Feb/1957"
+    }
+  ],
+  "Children": []
+}
