@@ -18,7 +18,7 @@ permalink: /indexes/by-occupation
 
 There were 2 people who worked as a Blacksmith of some sort.
 
-* **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ), mentioned 2 times.
+* **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ), mentioned twice.
 * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912), mentioned 3 times.
 
 #### Apprentice Blacksmith
@@ -166,7 +166,7 @@ There were 19 people who worked as a Domestic Servant of some sort.
 * **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
 * **[Cumming, Elizabeth](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ).
 * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
-* **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971), mentioned 2 times.
+* **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971), mentioned twice.
 * **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977).
 * **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980).
 
@@ -230,7 +230,7 @@ There were 9 people who worked as a Driver of some sort.
 
 ## Electrician
 
-* **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004), mentioned 2 times.
+* **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004), mentioned twice.
 
 ## Engineer
 
@@ -346,14 +346,14 @@ There were 45 people who worked as a Fisherman.
 * **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ).
 * **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ).
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
-* **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned 2 times.
+* **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned twice.
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
 * **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889).
-* **[Fraser, Thomas](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932), mentioned 2 times.
-* **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ), mentioned 2 times.
+* **[Fraser, Thomas](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932), mentioned twice.
+* **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ), mentioned twice.
 * **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901).
-* **[Gillie, John](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881), mentioned 2 times.
-* **[Grant, Hugh](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - ), mentioned 2 times.
+* **[Gillie, John](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881), mentioned twice.
+* **[Grant, Hugh](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - ), mentioned twice.
 * **[Grant, Hugh](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944), mentioned 4 times.
 * **[Lindores, William](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - ).
 * **[MacDonald, Alexander](people/@47072524@-alexander-macdonald-b-d1875.md)** ( - before 1875).
@@ -365,13 +365,13 @@ There were 45 people who worked as a Fisherman.
 * **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - ).
 * **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939).
 * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 3 times.
-* **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - ), mentioned 2 times.
+* **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - ), mentioned twice.
 * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1919.md)** (12/Apr/1861 - before 1919), mentioned 8 times.
 * **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ).
 * **[Mackay, Kenneth](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901).
 * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ).
 * **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - ).
-* **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ), mentioned 2 times.
+* **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ), mentioned twice.
 * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
 * **[Mackay, William](people/@24694904@-william-mackay-b-d.md)**.
 * **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
@@ -379,8 +379,8 @@ There were 45 people who worked as a Fisherman.
 * **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949).
 * **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - ).
 * **[Ross, Alexander](people/@81387900@-alexander-ross-b1814-d1896-1-20.md)** (about 1814 - 20/Jan/1896).
-* **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ), mentioned 2 times.
-* **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - ), mentioned 2 times.
+* **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ), mentioned twice.
+* **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - ), mentioned twice.
 * **[Sutherland, William](people/@72992640@-william-sutherland-b-d1856.md)** ( - after 1856).
 
 ## Fisherwoman
@@ -441,12 +441,12 @@ There were 7 people who worked as a Health Care Professional of some sort.
 #### Nurse
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 5 times.
-* **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981), mentioned 2 times.
-* **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980), mentioned 2 times.
+* **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981), mentioned twice.
+* **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980), mentioned twice.
 
 #### Nurse Director
 
-* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 2 times.
+* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned twice.
 
 #### Practical Nursing
 
@@ -534,7 +534,7 @@ There were 7 people who worked as a Labourer of some sort.
 
 There were 2 people who worked as a Lapidary.
 
-* **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - ), mentioned 2 times.
+* **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - ), mentioned twice.
 * **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ).
 
 ## Librarian
@@ -568,7 +568,7 @@ There were 2 people who worked as a Manager of some sort.
 
 #### Nurse Director
 
-* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 2 times.
+* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned twice.
 
 ## Mantlemaker
 
@@ -576,7 +576,7 @@ There were 2 people who worked as a Manager of some sort.
 
 ## Mason
 
-* **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ), mentioned 2 times.
+* **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ), mentioned twice.
 
 ## Merchant
 
@@ -640,8 +640,8 @@ There were 2 people who worked as a Motel Co-Owner.
 There were 6 people who worked as a Nurse of some sort.
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 5 times.
-* **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981), mentioned 2 times.
-* **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980), mentioned 2 times.
+* **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981), mentioned twice.
+* **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980), mentioned twice.
 
 #### Children's Nurse
 
@@ -654,7 +654,7 @@ There were 6 people who worked as a Nurse of some sort.
 
 #### Nurse Director
 
-* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 2 times.
+* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned twice.
 
 #### Practical Nursing
 
@@ -691,7 +691,7 @@ There were 2 people who worked as a Painter of some sort.
 There were 2 people who worked as a Printer's Machinist.
 
 * **[Fisher, Agnes](people/@45605556@-agnes-fisher-b1887-d.md)** (about 1887 - ).
-* **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md)** (29/Nov/1881 - 6/Jun/1953), mentioned 2 times.
+* **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md)** (29/Nov/1881 - 6/Jun/1953), mentioned twice.
 
 ## Railway Fireman
 
@@ -756,7 +756,7 @@ There were 4 people who worked as a Seaman of some sort.
 
 #### Able Seaman
 
-* **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969), mentioned 2 times.
+* **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969), mentioned twice.
 
 #### Boatswain
 
@@ -798,7 +798,7 @@ There were 3 people who worked as a Smith of some sort.
 
 #### Blacksmith
 
-* **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ), mentioned 2 times.
+* **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ), mentioned twice.
 * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912), mentioned 3 times.
 
 #### Blacksmith Labourer
@@ -822,7 +822,7 @@ There were 2 people who worked as a Stenographer.
 
 ## Superintendent Public Works
 
-* **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965), mentioned 2 times.
+* **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965), mentioned twice.
 
 ## Tailor
 
@@ -837,7 +837,7 @@ There were 3 people who worked as a Tailor of some sort.
 
 ## Tailor's Cutter
 
-* **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938), mentioned 2 times.
+* **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938), mentioned twice.
 
 ## Tool Engineer
 
