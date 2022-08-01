@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i5904501",
+  "Name": "Henry Wilson",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1876",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i11868717",
+      "Name": "Clarence Wilson",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i55794778",
+      "Name": "Ella Thomas",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

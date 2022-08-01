@@ -359,6 +359,16 @@ permalink: /indexes/by-all-names
 
 - **[Stasia LaFavre](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
 
+## LaVelle
+
+- **[Frieda LaVelle](people/@66883950@-frieda-b-wilson-b1908-d.md)** (about 1908 - )
+
+## Lenox
+
+- **[Andrew Lenox](people/@61792169@-andrew-lenox-b-d.md)**
+- **[Minnie Lenox](people/@99536158@-minnie-lenox-b1867-4-15-d.md)** (15/Apr/1867 - )
+- **[Rosannah Lenox](people/@56480720@-roxannah-stewart-b-d.md)**
+
 ## Lindores
 
 - **[Ann Lindores](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
@@ -761,11 +771,12 @@ permalink: /indexes/by-all-names
 - **[Janet Roberts](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
 - **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
 - **[Mary Beth Roberts](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014)
-- **[Mary Elizabeth Roberts](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+- **[Mary Elizabeth Roberts](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971)
 - **[Mary Elizabeth Roberts](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014)
 - **[May Roberts](people/@53003230@-mae-farnham-b1872-d.md)** (about 1872 - )
 - **[Roberts](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
 - **[Sandra Jane Roberts](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
+- **[Virginia Roberts](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998)
 
 ## Robertson
 
@@ -810,6 +821,10 @@ permalink: /indexes/by-all-names
 
 - **[Sanders](people/@80079834@-ada-hayes-b-d2018.md)** ( - before 2018)
 
+## Scam
+
+- **[Virginia Scam](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998)
+
 ## Seaton
 
 - **[Margaret Dickson Seaton](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
@@ -819,6 +834,10 @@ permalink: /indexes/by-all-names
 ## Sherwood
 
 - **[Clara Sherwood](people/@79435398@-clara-sherwood-b-d.md)**
+
+## Simonet
+
+- **[Virginia C Simonet](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998)
 
 ## Smith
 
@@ -856,6 +875,10 @@ permalink: /indexes/by-all-names
 
 - **[Thomas Stevens](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 
+## Stewart
+
+- **[Roxannah Stewart](people/@56480720@-roxannah-stewart-b-d.md)**
+
 ## Sutherland
 
 - **[Isabella Sutherland](people/@80519670@-isabella-sutherland-b1810-d.md)** (before 1810 - )
@@ -873,6 +896,10 @@ permalink: /indexes/by-all-names
 - **[Margaret Tennant](people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md)** (19/Nov/1857 - 29/Jun/1924)
 - **[Thomas Tennant](people/@12974870@-thomas-tennant-b-d.md)**
 
+## Thomas
+
+- **[Ella Thomas](people/@55794778@-ella-thomas-b-d.md)**
+
 ## Thomson
 
 - **[Agnes Watson Thomson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
@@ -889,8 +916,15 @@ permalink: /indexes/by-all-names
 
 ## Wilson
 
+- **[Clarence Wilson](people/@11868717@-clarence-wilson-b-d.md)**
 - **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)**
-- **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+- **[Ella R Wilson](people/@43820265@-ella-r-wilson-b1900-d.md)** (about 1900 - )
+- **[Ella Wilson](people/@55794778@-ella-thomas-b-d.md)**
+- **[Frieda B Wilson](people/@66883950@-frieda-b-wilson-b1908-d.md)** (about 1908 - )
+- **[Henry Wilson](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - )
+- **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971)
+- **[Mrs. Wilson](people/@99536158@-minnie-lenox-b1867-4-15-d.md)** (15/Apr/1867 - )
+- **[Stella K Wilson](people/@26878767@-stella-k-wilson-b1902-d.md)** (about 1902 - )
 
 ## Wood
 

@@ -1,0 +1,129 @@
+﻿{
+  "Subject": {
+    "Id": "i99536158",
+    "Name": "Minnie Lenox",
+    "Gender": "Female",
+    "DateOfBirth": "15/Apr/1867",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i61792169",
+      "Name": "Andrew Lenox",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i56480720",
+      "Name": "Roxannah Stewart",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i99536158",
+      "Name": "Minnie Lenox",
+      "Gender": "Female",
+      "DateOfBirth": "15/Apr/1867",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i56480720",
+          "i61792169"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i5904501",
+      "Name": "Henry Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1876",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i66239156",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i5904501",
+        "i99536158"
+      ]
+    },
+    {
+      "Id": "i81201120",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i5904501",
+        "i99536158"
+      ]
+    },
+    {
+      "Id": "i43820265",
+      "Name": "Ella R Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i5904501",
+        "i99536158"
+      ]
+    },
+    {
+      "Id": "i26878767",
+      "Name": "Stella K Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1902",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i5904501",
+        "i99536158"
+      ]
+    },
+    {
+      "Id": "i99819804",
+      "Name": "Mary Elizabeth Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1905",
+      "DateOfDeath": "16/Dec/1971",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i5904501",
+        "i99536158"
+      ]
+    },
+    {
+      "Id": "i66883950",
+      "Name": "Frieda B Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1908",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i5904501",
+        "i99536158"
+      ]
+    }
+  ]
+}

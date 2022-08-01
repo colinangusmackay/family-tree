@@ -75,7 +75,6 @@ permalink: /indexes/by-death-location
 - **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - )
 - **[Fleming, John](people/@18678270@-john-fleming-b1856-d.md)** (about 1856 - )
 - **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - )
-- **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912)
 - **[Fleming, Joseph](people/@89747088@-joseph-fleming-b1892-10-19-d.md)** (19/Oct/1892 - )
 - **[Fleming, Lillias](people/@39306088@-lillias-fleming-b1889-5-25-d.md)** (25/May/1889 - )
 - **[Fleming, Margaret Wood](people/@90221940@-margaret-wood-fleming-b1879-3-25-d.md)** (25/Mar/1879 - )
@@ -122,6 +121,8 @@ permalink: /indexes/by-death-location
 - **[Hoctor, Timothy](people/@74378972@-timothy-hoctor-b-d1993.md)** ( - before 1993)
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
 - **[LaFavre, Stasia](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
+- **[Lenox, Andrew](people/@61792169@-andrew-lenox-b-d.md)**
+- **[Lenox, Minnie](people/@99536158@-minnie-lenox-b1867-4-15-d.md)** (15/Apr/1867 - )
 - **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
 - **[Lindores, William](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - )
 - **[Lowall, Agnes](people/@38031148@-agnes-lowall-b-d.md)**
@@ -316,15 +317,22 @@ permalink: /indexes/by-death-location
 - **[Stead, Norman](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
 - **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
 - **[Steedman, Ricky](people/@65047040@-ricky-steedman-b-d2022-6-23.md)** ( - 23/Jun/2022)
+- **[Stewart, Roxannah](people/@56480720@-roxannah-stewart-b-d.md)**
 - **[Sutherland, Isabella](people/@80519670@-isabella-sutherland-b1810-d.md)** (before 1810 - )
 - **[Sutherland, Isabella](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884)
 - **[Sutherland, William](people/@72992640@-william-sutherland-b-d1856.md)** ( - after 1856)
 - **[Taylor, Helen](people/@47549486@-helen-taylor-b1816-d1865-11-27.md)** (about 1816 - 27/Nov/1865)
 - **[Tennant, Margaret](people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md)** (19/Nov/1857 - 29/Jun/1924)
 - **[Tennant, Thomas](people/@12974870@-thomas-tennant-b-d.md)**
+- **[Thomas, Ella](people/@55794778@-ella-thomas-b-d.md)**
 - **[Thomson, Agnes Watson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
 - **[Thomson, Thomas](people/@28828844@-thomas-thomson-b-d.md)**
+- **[Wilson, Clarence](people/@11868717@-clarence-wilson-b-d.md)**
 - **[Wilson, Elizabeth](people/@71295041@-elizabeth-wilson-b-d.md)**
+- **[Wilson, Ella R](people/@43820265@-ella-r-wilson-b1900-d.md)** (about 1900 - )
+- **[Wilson, Frieda B](people/@66883950@-frieda-b-wilson-b1908-d.md)** (about 1908 - )
+- **[Wilson, Henry](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - )
+- **[Wilson, Stella K](people/@26878767@-stella-k-wilson-b1902-d.md)** (about 1902 - )
 - **[Wood, Margaret](people/@50500805@-margaret-wood-b1827-d1871.md)** (about 1827 - before 1871)
 - **[Wynn, Eliza Jane](people/@63437677@-eliza-jane-wynn-b1864-d.md)** (about 1864 - )
 - **[Younger, Mary](people/@25511104@-mary-younger-b-d.md)**
@@ -449,6 +457,7 @@ permalink: /indexes/by-death-location
 
 #### Blackburn
 
+- **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912)
 - **[Fleming, Mary](people/@54628435@-mary-fleming-b1885-5-5-d1886-8-15.md)** (5/May/1885 - 15/Aug/1886)
 
 #### Livingston
@@ -462,7 +471,11 @@ permalink: /indexes/by-death-location
 
 #### Hartford, Hartford County
 
-- **[Wilson, Mary Elizabeth](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+- **[Wilson, Mary Elizabeth](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971)
+
+#### Norwalk, Fairfield County
+
+- **[Simonet, Virginia C](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998)
 
 ### Florida
 

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i61792169",
+    "Name": "Andrew Lenox",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i61792169",
+      "Name": "Andrew Lenox",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i56480720",
+      "Name": "Roxannah Stewart",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i99536158",
+      "Name": "Minnie Lenox",
+      "Gender": "Female",
+      "DateOfBirth": "15/Apr/1867",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i61792169",
+        "i56480720"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i55794778",
+    "Name": "Ella Thomas",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i55794778",
+      "Name": "Ella Thomas",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i11868717",
+      "Name": "Clarence Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i5904501",
+      "Name": "Henry Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1876",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i11868717",
+        "i55794778"
+      ]
+    }
+  ]
+}

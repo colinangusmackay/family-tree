@@ -3,7 +3,64 @@
   "Name": "Mary Elizabeth Wilson",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "calc'd 1904",
+  "DateOfBirth": "about 1905",
   "DateOfDeath": "16/Dec/1971",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i99536158",
+      "Name": "Minnie Lenox",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "15/Apr/1867",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i61792169",
+          "Name": "Andrew Lenox",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i56480720",
+          "Name": "Roxannah Stewart",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i5904501",
+      "Name": "Henry Wilson",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1876",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i11868717",
+          "Name": "Clarence Wilson",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i55794778",
+          "Name": "Ella Thomas",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
 }

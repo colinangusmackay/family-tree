@@ -70,23 +70,23 @@
   ],
   "Spouses": [
     {
-      "Id": "i33863084",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "wife",
-      "DateOfMarriage": "30/Sep/1972",
-      "DateOfDivorce": ""
-    },
-    {
       "Id": "i99819804",
       "Name": "Mary Elizabeth Wilson",
       "Gender": "Female",
-      "DateOfBirth": "calc'd 1904",
+      "DateOfBirth": "about 1905",
       "DateOfDeath": "16/Dec/1971",
       "RelationToSubject": "wife",
       "DateOfMarriage": "1927",
+      "DateOfDivorce": ""
+    },
+    {
+      "Id": "i33863084",
+      "Name": "Virginia C Simonet",
+      "Gender": "Female",
+      "DateOfBirth": "14/Apr/1918",
+      "DateOfDeath": "5/Mar/1998",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "30/Sep/1972",
       "DateOfDivorce": ""
     }
   ],

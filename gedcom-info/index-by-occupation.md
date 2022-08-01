@@ -116,6 +116,10 @@ There were 3 people who worked as a Child Care Professional of some sort.
 
 * **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016).
 
+## Child day care business owner
+
+* **[Mackay, Anna Jess](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021), mentioned twice.
+
 ## Clerk
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
@@ -234,10 +238,11 @@ There were 9 people who worked as a Driver of some sort.
 
 ## Engineer
 
-There were 3 people who worked as a Engineer of some sort.
+There were 4 people who worked as a Engineer of some sort.
 
 * **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ).
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
+* **[Wilson, Henry](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - ).
 
 #### Engineering Laboritory Technician
 
@@ -769,12 +774,13 @@ There were 4 people who worked as a Seaman of some sort.
 
 ## Secretary
 
-There were 4 people who worked as a Secretary.
+There were 5 people who worked as a Secretary.
 
 * **[Cumming, Wilma May](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009).
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
 * **[Roberts, Mary Beth](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014).
 * **[Roberts, Sandra Jane](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019).
+* **[Simonet, Virginia C](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998).
 
 ## Servant
 

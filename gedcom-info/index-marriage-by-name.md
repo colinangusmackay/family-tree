@@ -318,8 +318,8 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Roberts
 
-  * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) **in 1927** at Lake George, Warren County, New York, United States of America.
-  * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and X **on 30th of September 1972** at Norwalk, Fairfield County, Connecticut, United States of America.
+  * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971) **in 1927** at Lake George, Warren County, New York, United States of America.
+  * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Virginia C Simonet](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998) **on 30th of September 1972** at Norwalk, Fairfield County, Connecticut, United States of America.
   * **[Mary Beth Roberts](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014) and X **on 8th of August 1950** at Bolton Landing, Warren County, New York, United States of America.
   * **[Sandra Jane Roberts](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019) and X **on 28th of May 1960**.
 
@@ -340,6 +340,11 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Seaton
 
   * **[Margaret Dickson Seaton](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - ) and **[James Fisher](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - ) **on 24th of December 1880** at Edinburgh, Scotland.
+
+## Simonet
+
+  * **[Virginia C Simonet](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998) and X **on 15th of November 1939** at Wilton, Fairfield County, Connecticut, United States of America.
+  * **[Virginia C Simonet](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998) and **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) **on 30th of September 1972** at Norwalk, Fairfield County, Connecticut, United States of America.
 
 ## Smith
 
@@ -368,5 +373,5 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Wilson
 
   * **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)** and **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939) **on 16th of June 1897** at Golspie, Sutherland, Scotland.
-  * **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971) and **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) **in 1927** at Lake George, Warren County, New York, United States of America.
+  * **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971) and **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) **in 1927** at Lake George, Warren County, New York, United States of America.
 

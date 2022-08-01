@@ -1,0 +1,391 @@
+﻿{
+  "Id": "i99536158",
+  "Name": "Minnie Lenox",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "15/Apr/1867",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i66239156",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i81201120",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i43820265",
+      "Name": "Ella R Wilson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1900",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i26878767",
+      "Name": "Stella K Wilson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1902",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i99819804",
+      "Name": "Mary Elizabeth Wilson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1905",
+      "DateOfDeath": "16/Dec/1971",
+      "Children": [
+        {
+          "Id": "i44331192",
+          "Name": "Mary Beth Roberts",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "1/Nov/1930",
+          "DateOfDeath": "6/Feb/2014",
+          "Children": [
+            {
+              "Id": "i74628380",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i43920628",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i2488304",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": [
+                {
+                  "Id": "i22501382",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "i38836920",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "8/Feb/1936",
+          "DateOfDeath": "",
+          "Children": [
+            {
+              "Id": "i58454492",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "6/Sep/1963",
+              "DateOfDeath": "",
+              "Children": [
+                {
+                  "Id": "i41593718",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "19/Jun/1993",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i72946160",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "7/Jun/1995",
+                  "DateOfDeath": "",
+                  "Children": [
+                    {
+                      "Id": "i48460152",
+                      "Name": "X",
+                      "Gender": "Female",
+                      "Relationship": "daughter",
+                      "DateOfBirth": "25/Aug/2017",
+                      "DateOfDeath": "",
+                      "Children": []
+                    },
+                    {
+                      "Id": "i62571808",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "17/Oct/2018",
+                      "DateOfDeath": "",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": "i96638311",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "15/Mar/1968",
+              "DateOfDeath": "",
+              "Children": [
+                {
+                  "Id": "i45119970",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "10/Apr/2000",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i73626011",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "19/Jun/2008",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Id": "i18685039",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "adopted-son",
+              "DateOfBirth": "22/May/1974",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i25217139",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "adopted-daughter",
+              "DateOfBirth": "12/Sep/1978",
+              "DateOfDeath": "",
+              "Children": [
+                {
+                  "Id": "i86470854",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "13/Sep/2019",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Id": "i64573483",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "adopted-daughter",
+              "DateOfBirth": "2/Mar/1982",
+              "DateOfDeath": "",
+              "Children": [
+                {
+                  "Id": "i76071256",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "12/Feb/1999",
+                  "DateOfDeath": "",
+                  "Children": [
+                    {
+                      "Id": "i24485664",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "",
+                      "DateOfDeath": "",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Id": "i23631272",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "25/Oct/2006",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i50952764",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "10/Apr/2008",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i9033596",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "22/Apr/2011",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i51141104",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "22/Aug/2012",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i13264892",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "15/Sep/2013",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Id": "i71666818",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "adopted-daughter",
+              "DateOfBirth": "19/Jun/1988",
+              "DateOfDeath": "",
+              "Children": [
+                {
+                  "Id": "i65417488",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "6/Sep/2010",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i92544921",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "24/Jul/2014",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i85243550",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "28/Nov/2021",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "i40000604",
+          "Name": "Sandra Jane Roberts",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "10/Nov/1937",
+          "DateOfDeath": "26/Nov/2019",
+          "Children": [
+            {
+              "Id": "i76590697",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i37383684",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i66500284",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i36693240",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "3/Apr/1967",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": "i21326189",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "about 1944",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Id": "i66883950",
+      "Name": "Frieda B Wilson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1908",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

@@ -196,6 +196,7 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
 * **Born in 1876.**
   * **[McKenzie, Barbara](people/@18932462@-barbara-mckenzie-b1876-d.md)** (about 1876 - )
+  * **[Wilson, Henry](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - )
 * **Born in 1877.**
   * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
   * **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - )
@@ -268,12 +269,18 @@ This is a list of people who have vague or unknown dates of birth.
 
 * **Born in 1900.**
   * **[Grant, Catherine](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - )
+  * **[Wilson, Ella R](people/@43820265@-ella-r-wilson-b1900-d.md)** (about 1900 - )
 * **Born in 1901.**
   * **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - )
   * **[Predendall, Carrie Elizabeth](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - )
+* **Born in 1902.**
+  * **[Wilson, Stella K](people/@26878767@-stella-k-wilson-b1902-d.md)** (about 1902 - )
 * **Born in 1904.**
   * **[Stead, Laura](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
-  * **[Wilson, Mary Elizabeth](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+* **Born in 1905.**
+  * **[Wilson, Mary Elizabeth](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971)
+* **Born in 1908.**
+  * **[Wilson, Frieda B](people/@66883950@-frieda-b-wilson-b1908-d.md)** (about 1908 - )
 
 ### 1910s
 
@@ -335,6 +342,7 @@ This is a list of people who have vague or unknown dates of birth.
 * [Timothy Hoctor](people/@74378972@-timothy-hoctor-b-d1993.md) ( - before 1993)
 * [Ann Johnson](people/@85807260@-ann-johnson-b-d.md)
 * [Stasia LaFavre](people/@16839684@-stasia-lafavre-b-d2018.md) ( - before 2018)
+* [Andrew Lenox](people/@61792169@-andrew-lenox-b-d.md)
 * [Agnes Lowall](people/@38031148@-agnes-lowall-b-d.md)
 * [Alexander MacDonald](people/@47072524@-alexander-macdonald-b-d1875.md) ( - before 1875)
 * [Catherine MacDonald](people/@97950336@-catherine-macdonald-b-d1949.md) ( - before 1949)
@@ -386,8 +394,11 @@ This is a list of people who have vague or unknown dates of birth.
 * [Clara Sherwood](people/@79435398@-clara-sherwood-b-d.md)
 * [John Smith](people/@3582868@-john-smith-b-d.md)
 * [Ricky Steedman](people/@65047040@-ricky-steedman-b-d2022-6-23.md) ( - 23/Jun/2022)
+* [Roxannah Stewart](people/@56480720@-roxannah-stewart-b-d.md)
 * [William Sutherland](people/@72992640@-william-sutherland-b-d1856.md) ( - after 1856)
 * [Thomas Tennant](people/@12974870@-thomas-tennant-b-d.md)
+* [Ella Thomas](people/@55794778@-ella-thomas-b-d.md)
 * [Thomas Thomson](people/@28828844@-thomas-thomson-b-d.md)
+* [Clarence Wilson](people/@11868717@-clarence-wilson-b-d.md)
 * [Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)
 * [Mary Younger](people/@25511104@-mary-younger-b-d.md)

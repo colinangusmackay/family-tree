@@ -262,6 +262,11 @@ permalink: /indexes/by-family-name
 
 - **[Stasia LaFavre](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
 
+## Lenox
+
+- **[Andrew Lenox](people/@61792169@-andrew-lenox-b-d.md)**
+- **[Minnie Lenox](people/@99536158@-minnie-lenox-b1867-4-15-d.md)** (15/Apr/1867 - )
+
 ## Lindores
 
 - **[Ann Lindores](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
@@ -608,6 +613,10 @@ permalink: /indexes/by-family-name
 
 - **[Clara Sherwood](people/@79435398@-clara-sherwood-b-d.md)**
 
+## Simonet
+
+- **[Virginia C Simonet](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998)
+
 ## Smith
 
 - **[John Smith](people/@3582868@-john-smith-b-d.md)**
@@ -634,6 +643,10 @@ permalink: /indexes/by-family-name
 
 - **[Thomas Stevens](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 
+## Stewart
+
+- **[Roxannah Stewart](people/@56480720@-roxannah-stewart-b-d.md)**
+
 ## Sutherland
 
 - **[Isabella Sutherland](people/@80519670@-isabella-sutherland-b1810-d.md)** (before 1810 - )
@@ -649,6 +662,10 @@ permalink: /indexes/by-family-name
 - **[Margaret Tennant](people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md)** (19/Nov/1857 - 29/Jun/1924)
 - **[Thomas Tennant](people/@12974870@-thomas-tennant-b-d.md)**
 
+## Thomas
+
+- **[Ella Thomas](people/@55794778@-ella-thomas-b-d.md)**
+
 ## Thomson
 
 - **[Agnes Watson Thomson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
@@ -656,8 +673,13 @@ permalink: /indexes/by-family-name
 
 ## Wilson
 
+- **[Clarence Wilson](people/@11868717@-clarence-wilson-b-d.md)**
 - **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)**
-- **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1904-d1971-12-16.md)** (calc'd 1904 - 16/Dec/1971)
+- **[Ella R Wilson](people/@43820265@-ella-r-wilson-b1900-d.md)** (about 1900 - )
+- **[Frieda B Wilson](people/@66883950@-frieda-b-wilson-b1908-d.md)** (about 1908 - )
+- **[Henry Wilson](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - )
+- **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971)
+- **[Stella K Wilson](people/@26878767@-stella-k-wilson-b1902-d.md)** (about 1902 - )
 
 ## Wood
 

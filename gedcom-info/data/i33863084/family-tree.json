@@ -1,0 +1,81 @@
+﻿{
+  "Subject": {
+    "Id": "i33863084",
+    "Name": "Virginia C Simonet",
+    "Gender": "Female",
+    "DateOfBirth": "14/Apr/1918",
+    "DateOfDeath": "5/Mar/1998"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i33863084",
+      "Name": "Virginia C Simonet",
+      "Gender": "Female",
+      "DateOfBirth": "14/Apr/1918",
+      "DateOfDeath": "5/Mar/1998",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i81697128",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "15/Nov/1939",
+      "DateOfDivorce": ""
+    },
+    {
+      "Id": "i21721539",
+      "Name": "Malcolm DeWitt Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "30/Sep/1905",
+      "DateOfDeath": "6/May/1990",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "30/Sep/1972",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i75556627",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i81697128",
+        "i33863084"
+      ]
+    },
+    {
+      "Id": "i61109516",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i81697128",
+        "i33863084"
+      ]
+    },
+    {
+      "Id": "i7372126",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i81697128",
+        "i33863084"
+      ]
+    }
+  ]
+}
