@@ -1,0 +1,111 @@
+﻿{
+  "Subject": {
+    "Id": "i33327416",
+    "Name": "Richard McKnight",
+    "Gender": "Male",
+    "DateOfBirth": "27/Apr/1895",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i6387698",
+      "Name": "Thomas McKnight",
+      "Gender": "Male",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "8/Aug/1897",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i7753096",
+      "Name": "Margaret Teevin",
+      "Gender": "Female",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i87185096",
+      "Name": "Susan McKnight",
+      "Gender": "Female",
+      "DateOfBirth": "about 1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i6387698",
+          "i7753096"
+        ]
+      ]
+    },
+    {
+      "Id": "i31828723",
+      "Name": "Lizzie McKnight",
+      "Gender": "Female",
+      "DateOfBirth": "about 1891",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i6387698",
+          "i7753096"
+        ]
+      ]
+    },
+    {
+      "Id": "i33327416",
+      "Name": "Richard McKnight",
+      "Gender": "Male",
+      "DateOfBirth": "27/Apr/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i6387698",
+          "i7753096"
+        ]
+      ]
+    },
+    {
+      "Id": "i63393644",
+      "Name": "Nelly McKnight",
+      "Gender": "Female",
+      "DateOfBirth": "about 1896",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i6387698",
+          "i7753096"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i53954394",
+      "Name": "Annie Fern",
+      "Gender": "Female",
+      "DateOfBirth": "about 1903",
+      "DateOfDeath": "before 1946",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "25/Apr/1924",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i41720825",
+      "Name": "Mary McKnight",
+      "Gender": "Female",
+      "DateOfBirth": "about 1924",
+      "DateOfDeath": "about 1991",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i33327416",
+        "i53954394"
+      ]
+    }
+  ]
+}

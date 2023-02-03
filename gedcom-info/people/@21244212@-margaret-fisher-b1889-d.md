@@ -30,6 +30,13 @@ Date | Residence | Sources & Notes
 ---|---|---
 1891 | 31 Up Viewcraig Road, Edinburgh, Scotland | [1](#1)
 1901 | 10 North Richmond Street, Edinburgh, Scotland | [2](#2)
+1911 | 24 Milton Street, Edinburgh, Scotland | [3](#3)
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+1911 | Cook | [3](#3)
 
 ## Footnotes
 
@@ -50,4 +57,13 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1901 C 685/5 25/ 4
+
+### 3
+
+**1911 RAMSAY, JOHN & Family (Census 685/3 59/ 3)**
+
+* [Full text and notes](../sources/@80253704@-1911-ramsay,-john-&-family-census-685-3-59-3-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1911 C 685/3 59/ 3
 

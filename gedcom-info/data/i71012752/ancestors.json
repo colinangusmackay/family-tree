@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i71012752",
+  "Name": "David Napier",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i78343578",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

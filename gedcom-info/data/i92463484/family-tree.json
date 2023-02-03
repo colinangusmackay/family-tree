@@ -1,0 +1,117 @@
+﻿{
+  "Subject": {
+    "Id": "i92463484",
+    "Name": "William Hawthorn",
+    "Gender": "Male",
+    "DateOfBirth": "about 1847",
+    "DateOfDeath": "before 1921"
+  },
+  "Parents": [
+    {
+      "Id": "i96807032",
+      "Name": "William Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1884",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i39873338",
+      "Name": "Helen Bond",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i92463484",
+      "Name": "William Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "about 1847",
+      "DateOfDeath": "before 1921",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i39873338",
+          "i96807032"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i64641527",
+      "Name": "Hannah O'Donnell",
+      "Gender": "Female",
+      "DateOfBirth": "about 1857",
+      "DateOfDeath": "before 1921",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "31/Dec/1884",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i16695817",
+      "Name": "Joseph Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "about 1873",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i92463484",
+        "i64641527"
+      ]
+    },
+    {
+      "Id": "i91501446",
+      "Name": "Robert Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "about 1875",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i92463484",
+        "i64641527"
+      ]
+    },
+    {
+      "Id": "i21482384",
+      "Name": "James Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i92463484",
+        "i64641527"
+      ]
+    },
+    {
+      "Id": "i88518114",
+      "Name": "Edward Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "about 1886",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i92463484",
+        "i64641527"
+      ]
+    },
+    {
+      "Id": "i30039040",
+      "Name": "Thomas Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "28/Jun/1888",
+      "DateOfDeath": "before 1946",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i92463484",
+        "i64641527"
+      ]
+    }
+  ]
+}

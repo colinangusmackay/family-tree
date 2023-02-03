@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i53954394",
+  "Name": "Annie Fern",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1903",
+  "DateOfDeath": "before 1946",
+  "Parents": [
+    {
+      "Id": "i71324323",
+      "Name": "Mary Boyle",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i34903625",
+      "Name": "Thomas Fern",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

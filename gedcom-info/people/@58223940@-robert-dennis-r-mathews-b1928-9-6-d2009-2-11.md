@@ -11,7 +11,7 @@ permalink: /people/i58223940
 
 * Mother: [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d.md) (23/Aug/1895 - )
 * Father: [John Albert Mathews](./@5643892@-john-albert-mathews-b1895-11-21-d.md) (21/Nov/1895 - )
-* Wife: [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) (about 1922 - 1982)
+* Wife: [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) (7/Dec/1921 - 1982)
 * Brother: [Joseph Mathews](./@98232688@-joseph-mathews-b1922-6-15-d.md) (15/Jun/1922 - )
 * Brother: X
 * Son: [John Albert Mathews](./@35875756@-john-albert-mathews-b1954-d2004.md) (1954 - 2004)
@@ -24,11 +24,11 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 6/Sep/1928 | Born | Born to [John Albert Mathews](./@5643892@-john-albert-mathews-b1895-11-21-d.md) and [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d.md) in Birmingham, England. | [1](#1), [2](#2), [3](#3) | 
 31/Jul/1931 | Birth of brother | X born to [John Albert Mathews](./@5643892@-john-albert-mathews-b1895-11-21-d.md) and [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d.md). | [4](#4) | 
-Oct/1952 | Marriage | Married to [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) in Birmingham, England | [5](#5) | 
-1954 | Birth of son | [John Albert Mathews](./@35875756@-john-albert-mathews-b1954-d2004.md) born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md). | [6](#6) | 
-6/Dec/1956 | Birth of son | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) in Blackburn, West Lothian, Scotland. | [7](#7) | 
-6/Dec/1956 | Birth of son | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) in Blackburn, West Lothian, Scotland. | [8](#8) | 
-1982 | Death of partner | [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) died. | [9](#9) | 
+Oct/1952 | Marriage | Married to [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) in Birmingham, England | [5](#5) | 
+1954 | Birth of son | [John Albert Mathews](./@35875756@-john-albert-mathews-b1954-d2004.md) born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md). | [6](#6) | 
+6/Dec/1956 | Birth of son | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) in Blackburn, West Lothian, Scotland. | [7](#7) | 
+6/Dec/1956 | Birth of son | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) in Blackburn, West Lothian, Scotland. | [8](#8) | 
+1982 | Death of partner | [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) died. | [9](#9) | 
 2004 | Death of son | [John Albert Mathews](./@35875756@-john-albert-mathews-b1954-d2004.md) died. | [10](#10) | 
 11/Feb/2009 | Died | Died. | [3](#3) | 
 

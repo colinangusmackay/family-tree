@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i82667928",
+  "Name": "Marion Pearson",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "before 1892",
+  "Children": [
+    {
+      "Id": "i29701882",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

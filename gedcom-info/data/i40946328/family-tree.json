@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i40946328",
+    "Name": "Catherine Macauley",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1884"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i40946328",
+      "Name": "Catherine Macauley",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1884",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i4921696",
+      "Name": "Edward O'Donnell",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1884",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i64641527",
+      "Name": "Hannah O'Donnell",
+      "Gender": "Female",
+      "DateOfBirth": "about 1857",
+      "DateOfDeath": "before 1921",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i4921696",
+        "i40946328"
+      ]
+    }
+  ]
+}

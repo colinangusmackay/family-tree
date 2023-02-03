@@ -1,0 +1,143 @@
+﻿{
+  "Subject": {
+    "Id": "i81255608",
+    "Name": "William Fisher Ramsay",
+    "Gender": "Male",
+    "DateOfBirth": "24/Aug/1910",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i64225415",
+      "Name": "John Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "21/Feb/1880",
+      "DateOfDeath": "20/Jun/1920",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i18426904",
+      "Name": "Helen Currie Fisher",
+      "Gender": "Female",
+      "DateOfBirth": "29/Nov/1881",
+      "DateOfDeath": "6/Jun/1953",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i55070438",
+      "Name": "John Morgan Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "31/Mar/1905",
+      "DateOfDeath": "1967",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i18426904",
+          "i64225415"
+        ]
+      ]
+    },
+    {
+      "Id": "i58012424",
+      "Name": "James Fisher Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "15/Jan/1907",
+      "DateOfDeath": "5/Jun/1908",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i18426904",
+          "i64225415"
+        ]
+      ]
+    },
+    {
+      "Id": "i81255608",
+      "Name": "William Fisher Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "24/Aug/1910",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i18426904",
+          "i64225415"
+        ]
+      ]
+    },
+    {
+      "Id": "i62219744",
+      "Name": "Allan Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "1911",
+      "DateOfDeath": "1932",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i18426904",
+          "i64225415"
+        ]
+      ]
+    },
+    {
+      "Id": "i49046148",
+      "Name": "Bruce Morgan Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "10/Oct/1913",
+      "DateOfDeath": "29/Nov/1965",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i18426904",
+          "i64225415"
+        ]
+      ]
+    },
+    {
+      "Id": "i80504300",
+      "Name": "Isabella Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "1916",
+      "DateOfDeath": "1974",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i18426904",
+          "i64225415"
+        ]
+      ]
+    },
+    {
+      "Id": "i12977578",
+      "Name": "Douglas Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "1918",
+      "DateOfDeath": "1993",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i18426904",
+          "i64225415"
+        ]
+      ]
+    },
+    {
+      "Id": "i34267190",
+      "Name": "Helen Fisher Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "28/Sep/1920",
+      "DateOfDeath": "15/Oct/2015",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i18426904",
+          "i64225415"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

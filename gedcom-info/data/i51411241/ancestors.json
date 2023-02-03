@@ -1,0 +1,104 @@
+﻿{
+  "Id": "i51411241",
+  "Name": "Edward Joseph Hawthorne",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 13/Apr/1923",
+  "DateOfDeath": "2013",
+  "Parents": [
+    {
+      "Id": "i30039040",
+      "Name": "Thomas Hawthorn",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "28/Jun/1888",
+      "DateOfDeath": "before 1946",
+      "Parents": [
+        {
+          "Id": "i92463484",
+          "Name": "William Hawthorn",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1847",
+          "DateOfDeath": "before 1921",
+          "Parents": [
+            {
+              "Id": "i39873338",
+              "Name": "Helen Bond",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i96807032",
+              "Name": "William Hawthorn",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "before 1884",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i64641527",
+          "Name": "Hannah O'Donnell",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "about 1857",
+          "DateOfDeath": "before 1921",
+          "Parents": [
+            {
+              "Id": "i40946328",
+              "Name": "Catherine Macauley",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "before 1884",
+              "Parents": []
+            },
+            {
+              "Id": "i4921696",
+              "Name": "Edward O'Donnell",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "before 1884",
+              "Parents": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "i30782592",
+      "Name": "Alice Smith",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1890",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i64841197",
+          "Name": "John Smith",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i81238912",
+          "Name": "Mary Burns",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

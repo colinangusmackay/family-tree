@@ -1,0 +1,97 @@
+﻿{
+  "Subject": {
+    "Id": "i80968928",
+    "Name": "Alexander Napier",
+    "Gender": "Male",
+    "DateOfBirth": "2/May/1913",
+    "DateOfDeath": "1994"
+  },
+  "Parents": [
+    {
+      "Id": "i22451165",
+      "Name": "Alexander Napier",
+      "Gender": "Male",
+      "DateOfBirth": "4/Nov/1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i30057967",
+      "Name": "Janet Dalrymple",
+      "Gender": "Female",
+      "DateOfBirth": "about 1876",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i46994217",
+      "Name": "David Napier",
+      "Gender": "Male",
+      "DateOfBirth": "about 1901",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i22451165",
+          "i30057967"
+        ]
+      ]
+    },
+    {
+      "Id": "i61882948",
+      "Name": "John Napier",
+      "Gender": "Male",
+      "DateOfBirth": "about 1905",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i22451165",
+          "i30057967"
+        ]
+      ]
+    },
+    {
+      "Id": "i80968928",
+      "Name": "Alexander Napier",
+      "Gender": "Male",
+      "DateOfBirth": "2/May/1913",
+      "DateOfDeath": "1994",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i22451165",
+          "i30057967"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i68592798",
+      "Name": "Johnina Hanton",
+      "Gender": "Female",
+      "DateOfBirth": "12/Feb/1919",
+      "DateOfDeath": "2000",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "22/Dec/1945",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i71183078",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "1954",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i80968928",
+        "i68592798"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+﻿{
+  "Subject": {
+    "Id": "i81418416",
+    "Name": "Thomas Tevin",
+    "Gender": "Male",
+    "DateOfBirth": "about 1870",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i29671874",
+      "Name": "Susan McKay",
+      "Gender": "Female",
+      "DateOfBirth": "Apr/1833",
+      "DateOfDeath": "before 1886",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i65007133",
+      "Name": "Richard Tevin",
+      "Gender": "Male",
+      "DateOfBirth": "about 1841",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i39463713",
+      "Name": "Mary Teevin",
+      "Gender": "Female",
+      "DateOfBirth": "about 1858",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i29671874",
+          "i65007133"
+        ]
+      ]
+    },
+    {
+      "Id": "i7753096",
+      "Name": "Margaret Teevin",
+      "Gender": "Female",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i29671874",
+          "i65007133"
+        ]
+      ]
+    },
+    {
+      "Id": "i81418416",
+      "Name": "Thomas Tevin",
+      "Gender": "Male",
+      "DateOfBirth": "about 1870",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i29671874",
+          "i65007133"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

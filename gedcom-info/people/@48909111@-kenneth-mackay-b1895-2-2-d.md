@@ -10,7 +10,7 @@ permalink: /people/i48909111
 ## Immediate Family
 
 * Mother: [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
-* Father: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) (12/Apr/1861 - before 1919)
+* Father: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) (12/Apr/1861 - before 1911)
 * Sister: [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) (23/Sep/1889 - 15/May/1970)
 * Brother: [George Mackay](./@72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
 * Sister: [Janet Mackay](./@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md) (12/Nov/1890 - 15/May/1891)
@@ -23,7 +23,7 @@ permalink: /people/i48909111
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-2/Feb/1895 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | [3](#3)
+2/Feb/1895 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | [3](#3)
 15/Mar/1923 | Immigrated | Immigrated to Toronto, York, Ontario, Canada. | [4](#4) | 
 
 ## Known Residences

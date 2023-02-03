@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i90699645",
+    "Name": "John Dalrymple",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i90699645",
+      "Name": "John Dalrymple",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i48339564",
+      "Name": "Janet Buchanan",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i30057967",
+      "Name": "Janet Dalrymple",
+      "Gender": "Female",
+      "DateOfBirth": "about 1876",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i90699645",
+        "i48339564"
+      ]
+    }
+  ]
+}

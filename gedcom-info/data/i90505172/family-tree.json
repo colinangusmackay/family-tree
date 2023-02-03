@@ -1,0 +1,143 @@
+﻿{
+  "Subject": {
+    "Id": "i90505172",
+    "Name": "Andrew Napier",
+    "Gender": "Male",
+    "DateOfBirth": "29/Jun/1843",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i71012752",
+      "Name": "David Napier",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i35381484",
+      "Name": "Agnes Williamson",
+      "Gender": "Female",
+      "DateOfBirth": "11/Oct/1815",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i41697732",
+      "Name": "David Napier",
+      "Gender": "Male",
+      "DateOfBirth": "12/Sep/1835",
+      "DateOfDeath": "2/Nov/1901",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i35381484",
+          "i71012752"
+        ]
+      ]
+    },
+    {
+      "Id": "i7484846",
+      "Name": "Henry Napier",
+      "Gender": "Male",
+      "DateOfBirth": "27/Sep/1837",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i35381484",
+          "i71012752"
+        ]
+      ]
+    },
+    {
+      "Id": "i18756558",
+      "Name": "William Napier",
+      "Gender": "Male",
+      "DateOfBirth": "5/Dec/1839",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i35381484",
+          "i71012752"
+        ]
+      ]
+    },
+    {
+      "Id": "i42551448",
+      "Name": "Alexander Napier",
+      "Gender": "Male",
+      "DateOfBirth": "6/Oct/1841",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i35381484",
+          "i71012752"
+        ]
+      ]
+    },
+    {
+      "Id": "i90505172",
+      "Name": "Andrew Napier",
+      "Gender": "Male",
+      "DateOfBirth": "29/Jun/1843",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i35381484",
+          "i71012752"
+        ]
+      ]
+    },
+    {
+      "Id": "i67902640",
+      "Name": "Agnes Napier",
+      "Gender": "Female",
+      "DateOfBirth": "14/Apr/1845",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i35381484",
+          "i71012752"
+        ]
+      ]
+    },
+    {
+      "Id": "i89412864",
+      "Name": "Jean Napier",
+      "Gender": "Female",
+      "DateOfBirth": "28/Mar/1847",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i35381484",
+          "i71012752"
+        ]
+      ]
+    },
+    {
+      "Id": "i29473130",
+      "Name": "James Napier",
+      "Gender": "Male",
+      "DateOfBirth": "16/Jan/1849",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i35381484",
+          "i71012752"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

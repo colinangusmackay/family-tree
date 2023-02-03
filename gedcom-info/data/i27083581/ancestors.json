@@ -1,0 +1,66 @@
+﻿{
+  "Id": "i27083581",
+  "Name": "Marion Hanton",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1916",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i47324688",
+      "Name": "Janet McKechnie",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1879",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i14943438",
+          "Name": "Mary Faulds",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1901",
+          "Parents": []
+        },
+        {
+          "Id": "i95027126",
+          "Name": "William McKechnie",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i71830064",
+      "Name": "James Hanton",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "before 1945",
+      "Parents": [
+        {
+          "Id": "i62602830",
+          "Name": "William Hanton",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1855",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i71906070",
+          "Name": "Jane Johnston",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "about 1859",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

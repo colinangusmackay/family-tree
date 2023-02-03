@@ -1,0 +1,142 @@
+﻿{
+  "Id": "i58012424",
+  "Name": "James Fisher Ramsay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "15/Jan/1907",
+  "DateOfDeath": "5/Jun/1908",
+  "Parents": [
+    {
+      "Id": "i64225415",
+      "Name": "John Ramsay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "21/Feb/1880",
+      "DateOfDeath": "20/Jun/1920",
+      "Parents": [
+        {
+          "Id": "i60684755",
+          "Name": "Ann Morgan",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "about 1845",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i38398015",
+              "Name": "John Morgan",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i96321158",
+              "Name": "Mary Robertson",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i63088441",
+          "Name": "John Ramsay",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1852",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i33817858",
+              "Name": "George Ramsay",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i33882736",
+              "Name": "Jane Grieve",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "i18426904",
+      "Name": "Helen Currie Fisher",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "29/Nov/1881",
+      "DateOfDeath": "6/Jun/1953",
+      "Parents": [
+        {
+          "Id": "i22540348",
+          "Name": "James Fisher",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1854",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i47549486",
+              "Name": "Helen Taylor",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "about 1816",
+              "DateOfDeath": "27/Nov/1865",
+              "Parents": []
+            },
+            {
+              "Id": "i81248806",
+              "Name": "John Fisher",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "about 1819",
+              "DateOfDeath": "after 1880",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i45571672",
+          "Name": "Margaret Dickson Seaton",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "about 1856",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i14506844",
+              "Name": "Helen Currie",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "before 1880",
+              "Parents": []
+            },
+            {
+              "Id": "i58232144",
+              "Name": "William Seaton",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "about 1824",
+              "DateOfDeath": "after 1891",
+              "Parents": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

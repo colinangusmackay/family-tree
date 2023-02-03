@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i82667928",
+    "Name": "Marion Pearson",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1892"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i82667928",
+      "Name": "Marion Pearson",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1892",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i63594172",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i29701882",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i63594172",
+        "i82667928"
+      ]
+    }
+  ]
+}

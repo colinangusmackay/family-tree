@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i30782592",
+  "Name": "Alice Smith",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1890",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i64841197",
+      "Name": "John Smith",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i81238912",
+      "Name": "Mary Burns",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

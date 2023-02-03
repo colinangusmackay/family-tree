@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i65182613",
+  "Name": "Agnes Nicholson",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1835",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i30814449",
+      "Name": "James Nicholson",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i71857147",
+      "Name": "Janet Berry",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

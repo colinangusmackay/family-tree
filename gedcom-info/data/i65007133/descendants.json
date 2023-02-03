@@ -1,0 +1,114 @@
+﻿{
+  "Id": "i65007133",
+  "Name": "Richard Tevin",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1841",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i39463713",
+      "Name": "Mary Teevin",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1858",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i7753096",
+      "Name": "Margaret Teevin",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i87185096",
+          "Name": "Susan McKnight",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "about 1889",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i31828723",
+          "Name": "Lizzie McKnight",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "about 1891",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i33327416",
+          "Name": "Richard McKnight",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "27/Apr/1895",
+          "DateOfDeath": "",
+          "Children": [
+            {
+              "Id": "i41720825",
+              "Name": "Mary McKnight",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "about 1924",
+              "DateOfDeath": "about 1991",
+              "Children": [
+                {
+                  "Id": "i26071271",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "27/Jul/1948",
+                  "DateOfDeath": "",
+                  "Children": [
+                    {
+                      "Id": "i23872865",
+                      "Name": "X",
+                      "Gender": "Female",
+                      "Relationship": "daughter",
+                      "DateOfBirth": "1986",
+                      "DateOfDeath": "",
+                      "Children": [
+                        {
+                          "Id": "i25146614",
+                          "Name": "X",
+                          "Gender": "Male",
+                          "Relationship": "son",
+                          "DateOfBirth": "3/Aug/2021",
+                          "DateOfDeath": "",
+                          "Children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "i63393644",
+          "Name": "Nelly McKnight",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "about 1896",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Id": "i81418416",
+      "Name": "Thomas Tevin",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1870",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

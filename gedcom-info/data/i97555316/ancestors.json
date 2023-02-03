@@ -1,0 +1,95 @@
+﻿{
+  "Id": "i97555316",
+  "Name": "David Napier",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "7/Apr/1858",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i65182613",
+      "Name": "Agnes Nicholson",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1835",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i30814449",
+          "Name": "James Nicholson",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i71857147",
+          "Name": "Janet Berry",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i41697732",
+      "Name": "David Napier",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "12/Sep/1835",
+      "DateOfDeath": "2/Nov/1901",
+      "Parents": [
+        {
+          "Id": "i71012752",
+          "Name": "David Napier",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i78343578",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i35381484",
+          "Name": "Agnes Williamson",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "11/Oct/1815",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i64447674",
+              "Name": "Agnes Watt",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i67023796",
+              "Name": "William Williamson",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

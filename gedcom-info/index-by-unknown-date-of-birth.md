@@ -40,6 +40,7 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1806.**
   * **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
 * **Born in 1807.**
+  * **[Allford, Susan](people/@24534213@-susan-allford-b1807-d.md)** (about 1807 - )
   * **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d1875-10-29.md)** (about 1807 - 29/Oct/1875)
 
 ### 1810s
@@ -84,6 +85,7 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923)
 * **Born in 1835.**
   * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
+  * **[Nicholson, Agnes](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - )
 * **Born in 1839.**
   * **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - )
 
@@ -94,6 +96,10 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Mackay, Mary](people/@78757487@-mary-mackay-b1840-d.md)** (before 1840 - )
   * **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
   * **[Ross, Jessie](people/@60546968@-jessie-ross-b1840~1847-d1918-1-13.md)** (bet' 1840 and 1847 - 13/Jan/1918)
+* **Born in 1841.**
+  * **[Tevin, Richard](people/@65007133@-richard-tevin-b1841-d.md)** (about 1841 - )
+* **Born in 1842.**
+  * **[McKay, Margaret](people/@76218830@-margaret-mckay-b1842-d.md)** (about 1842 - )
 * **Born in 1843.**
   * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - )
 * **Born in 1844.**
@@ -105,6 +111,8 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1846.**
   * **[Fisher, Isabella](people/@74012383@-isabella-fisher-b1846-d.md)** (about 1846 - )
   * **[McLean, Christy](people/@62955988@-christy-mclean-b1846-d.md)** (about 1846 - )
+* **Born in 1847.**
+  * **[Hawthorn, William](people/@92463484@-william-hawthorn-b1847-d1921.md)** (about 1847 - before 1921)
 * **Born in 1848.**
   * **[Fisher, John](people/@60298048@-john-fisher-b1848-d.md)** (about 1848 - )
   * **[Paterson, Margaret](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
@@ -138,21 +146,26 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Mackay, Barbara](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - )
   * **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - )
 * **Born in 1855.**
+  * **[Hanton, William](people/@62602830@-william-hanton-b1855-d.md)** (about 1855 - )
   * **[Mackay, Betsy](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - )
   * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
   * **[Paterson, John](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - )
 * **Born in 1856.**
   * **[Fleming, John](people/@18678270@-john-fleming-b1856-d.md)** (about 1856 - )
   * **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - )
+  * **[McKnight, Thomas](people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md)** (about 1856 - 8/Aug/1897)
   * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
   * **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
 * **Born in 1857.**
+  * **[O'Donnell, Hannah](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921)
   * **[Paterson, Barbara](people/@65135072@-barbara-paterson-b1857-d.md)** (about 1857 - )
 * **Born in 1858.**
   * **[Fleming, William](people/@78368531@-william-fleming-b1858-d.md)** (about 1858 - )
   * **[Mackay, Ann](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
+  * **[Teevin, Mary](people/@39463713@-mary-teevin-b1858-d.md)** (about 1858 - )
 * **Born in 1859.**
   * **[Gillie, John](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881)
+  * **[Johnston, Jane](people/@71906070@-jane-johnston-b1859-d.md)** (about 1859 - )
   * **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
   * **[Mackay, Jane or Jean](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - )
 
@@ -162,6 +175,8 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Fleming, Samuel](people/@19337566@-samuel-fleming-b1860-d.md)** (about 1860 - )
 * **Born in 1861.**
   * **[MacLeod, Matilda](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
+  * **[Napier, Janet](people/@44813825@-janet-napier-b1861-d.md)** (about 1861 - )
+  * **[Teevin, Margaret](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - )
 * **Born in 1863.**
   * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
   * **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
@@ -184,21 +199,26 @@ This is a list of people who have vague or unknown dates of birth.
 
 * **Born in 1870.**
   * **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
+  * **[Tevin, Thomas](people/@81418416@-thomas-tevin-b1870-d.md)** (about 1870 - )
 * **Born in 1872.**
   * **[Farnham, Mae](people/@53003230@-mae-farnham-b1872-d.md)** (about 1872 - )
   * **[Mackay, Jane](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934)
 * **Born in 1873.**
   * **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
+  * **[Hawthorn, Joseph](people/@16695817@-joseph-hawthorn-b1873-d.md)** (about 1873 - )
   * **[Ramsay, Agnes](people/@57916783@-agnes-ramsay-b1873-d.md)** (about 1873 - )
 * **Born in 1874.**
   * **[McKenzie, Annie](people/@80021760@-annie-mckenzie-b1874-d.md)** (about 1874 - )
 * **Born in 1875.**
+  * **[Hawthorn, Robert](people/@91501446@-robert-hawthorn-b1875-d.md)** (about 1875 - )
   * **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
 * **Born in 1876.**
+  * **[Dalrymple, Janet](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
   * **[McKenzie, Barbara](people/@18932462@-barbara-mckenzie-b1876-d.md)** (about 1876 - )
   * **[Wilson, Henry](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - )
 * **Born in 1877.**
   * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
+  * **[Hawthorn, James](people/@21482384@-james-hawthorn-b1877-d.md)** (about 1877 - )
   * **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - )
   * **[Ramsay, Cattie](people/@35547078@-cattie-ramsay-b1877-d.md)** (about 1877 - )
 * **Born in 1878.**
@@ -208,10 +228,12 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Ramsay, Isabella](people/@54722192@-isabella-ramsay-b1878-d.md)** (about 1878 - )
 * **Born in 1879.**
   * **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - )
+  * **[McKechnie, Janet](people/@47324688@-janet-mckechnie-b1879-d.md)** (about 1879 - )
 
 ### 1880s
 
 * **Born in 1880.**
+  * **[Hanton, James](people/@71830064@-james-hanton-b1880-d1945.md)** (about 1880 - before 1945)
   * **[McKenzie, Christina](people/@25915316@-christina-mckenzie-b1880-d.md)** (about 1880 - )
   * **[McTurk, Jane](people/@18380667@-jane-mcturk-b1880-d.md)** (about 1880 - )
   * **[O'Malley, Patrick](people/@39412375@-patrick-o'malley-b1880-d.md)** (about 1880 - )
@@ -232,6 +254,7 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Mackay, Bella](people/@54814674@-bella-mackay-b1885-d.md)** (about 1885 - )
   * **[McTurk, Elizabeth](people/@78245729@-elizabeth-mcturk-b1885-d.md)** (about 1885 - )
 * **Born in 1886.**
+  * **[Hawthorn, Edward](people/@88518114@-edward-hawthorn-b1886-d.md)** (about 1886 - )
   * **[Mathews, Georgina E](people/@84093657@-georgina-e-mathews-b1886-d.md)** (about 1886 - )
 * **Born in 1887.**
   * **[Fisher, Agnes](people/@45605556@-agnes-fisher-b1887-d.md)** (about 1887 - )
@@ -241,9 +264,14 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1889.**
   * **[Fisher, Margaret](people/@21244212@-margaret-fisher-b1889-d.md)** (about 1889 - )
   * **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958)
+  * **[McKnight, Susan](people/@87185096@-susan-mcknight-b1889-d.md)** (about 1889 - )
 
 ### 1890s
 
+* **Born in 1890.**
+  * **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
+* **Born in 1891.**
+  * **[McKnight, Lizzie](people/@31828723@-lizzie-mcknight-b1891-d.md)** (about 1891 - )
 * **Born in 1892.**
   * **[Fisher, John](people/@59036117@-john-fisher-b1892-d.md)** (about 1892 - )
   * **[Mathews, Alfred G](people/@71188720@-alfred-g-mathews-b1892-d.md)** (about 1892 - )
@@ -255,6 +283,7 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
 * **Born in 1896.**
   * **[Fisher, James](people/@39137337@-james-fisher-b1896-d.md)** (about 1896 - )
+  * **[McKnight, Nelly](people/@63393644@-nelly-mcknight-b1896-d.md)** (about 1896 - )
 * **Born in 1897.**
   * **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1897-d.md)** (about 1897 - )
 * **Born in 1898.**
@@ -272,28 +301,45 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Wilson, Ella R](people/@43820265@-ella-r-wilson-b1900-d.md)** (about 1900 - )
 * **Born in 1901.**
   * **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - )
+  * **[Napier, David](people/@46994217@-david-napier-b1901-d.md)** (about 1901 - )
   * **[Predendall, Carrie Elizabeth](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - )
 * **Born in 1902.**
+  * **[Hanton, Mary](people/@24857040@-mary-hanton-b1902-d.md)** (about 1902 - )
   * **[Wilson, Stella K](people/@26878767@-stella-k-wilson-b1902-d.md)** (about 1902 - )
+* **Born in 1903.**
+  * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946)
 * **Born in 1904.**
+  * **[Hanton, William](people/@19187808@-william-hanton-b1904-d.md)** (about 1904 - )
   * **[Stead, Laura](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
 * **Born in 1905.**
+  * **[Napier, John](people/@61882948@-john-napier-b1905-d.md)** (about 1905 - )
   * **[Wilson, Mary Elizabeth](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971)
+* **Born in 1907.**
+  * **[Hanton, James](people/@30630538@-james-hanton-b1907-d.md)** (about 1907 - )
 * **Born in 1908.**
-  * **[Wilson, Frieda B](people/@66883950@-frieda-b-wilson-b1908-d.md)** (about 1908 - )
+  * **[Hanton, Jane](people/@65592941@-jane-hanton-b1908-d.md)** (about 1908 - )
 
 ### 1910s
 
 * **Born in 1910.**
   * **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
   * **[Martensen, Charles Raymond](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
+* **Born in 1911.**
+  * **[Hanton, Jessie](people/@56011610@-jessie-hanton-b1911-d.md)** (about 1911 - )
 * **Born in 1913.**
+  * **[Hanton, Andrew](people/@53392578@-andrew-hanton-b1913-d.md)** (about 1913 - )
   * **[Roberts, Janet](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
+* **Born in 1916.**
+  * **[Hanton, Marion](people/@27083581@-marion-hanton-b1916-d.md)** (about 1916 - )
 
 ### 1920s
 
-* **Born in 1922.**
-  * **[Falloon, Hannah E](people/@97706646@-hannah-e-falloon-b1922-d1982.md)** (about 1922 - 1982)
+* **Born in 1920.**
+  * **[Hanton, John](people/@30651959@-john-hanton-b1920-d.md)** (about 1920 - )
+* **Born in 1923.**
+  * **[Hawthorne, Edward Joseph](people/@51411241@-edward-joseph-hawthorne-b1923-4-13-d2013.md)** (about 13/Apr/1923 - 2013)
+* **Born in 1924.**
+  * **[McKnight, Mary](people/@41720825@-mary-mcknight-b1924-d1991.md)** (about 1924 - about 1991)
 
 ### 1930s
 
@@ -309,6 +355,11 @@ This is a list of people who have vague or unknown dates of birth.
 * [Janet Abernethy](people/@82771990@-janet-abernethy-b-d.md)
 * [Elizabeth Alexander](people/@86375908@-elizabeth-alexander-b-d1911.md) ( - before 1911)
 * [Ann Beaton](people/@23061759@-ann-beaton-b-d.md)
+* [Janet Berry](people/@71857147@-janet-berry-b-d.md)
+* [Helen Bond](people/@39873338@-helen-bond-b-d.md)
+* [Mary Boyle](people/@71324323@-mary-boyle-b-d.md)
+* [Janet Buchanan](people/@48339564@-janet-buchanan-b-d.md)
+* [Mary Burns](people/@81238912@-mary-burns-b-d.md)
 * [William Campbell](people/@70442784@-william-campbell-b-d1918.md) ( - before 1918)
 * [Robert Carlyle](people/@63376955@-robert-carlyle-b-d.md)
 * [Anne Chisholm](people/@48064613@-anne-chisholm-b-d1877.md) ( - before 1877)
@@ -318,8 +369,13 @@ This is a list of people who have vague or unknown dates of birth.
 * [Donald Cumming](people/@24876512@-donald-cumming-b-d.md)
 * [Donald Cumming](people/@69575920@-donald-cumming-b-d1875.md) ( - after 1875)
 * [Helen Currie](people/@14506844@-helen-currie-b-d1880.md) ( - before 1880)
+* [John Dalrymple](people/@90699645@-john-dalrymple-b-d.md)
 * [Ann Davies](people/@759904@-ann-davies-b-d1875.md) ( - before 1875)
 * [Catherine Docherty](people/@61251200@-catherine-docherty-b-d1889.md) ( - before 1889)
+* [William John Falloon](people/@14463787@-william-john-falloon-b-d.md)
+* [Mary Faulds](people/@14943438@-mary-faulds-b-d1901.md) ( - before 1901)
+* [Thomas Fern](people/@34903625@-thomas-fern-b-d.md)
+* [Sarah Fleming](people/@286084@-sarah-fleming-b-d1886.md) ( - before 1886)
 * [Peter Fraser](people/@16594334@-peter-fraser-b-d.md)
 * [Thomas Fraser](people/@39286288@-thomas-fraser-b-d1889.md) ( - before 1889)
 * [Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md) ( - before 1939)
@@ -328,6 +384,7 @@ This is a list of people who have vague or unknown dates of birth.
 * [Jessie Grant](people/@31091676@-jessie-grant-b-d.md)
 * [Belle Gregory](people/@91101318@-belle-gregory-b-d.md)
 * [Jane Grieve](people/@33882736@-jane-grieve-b-d.md)
+* [William Hawthorn](people/@96807032@-william-hawthorn-b-d1884.md) ( - before 1884)
 * [Ada Hayes](people/@80079834@-ada-hayes-b-d2018.md) ( - before 2018)
 * [Joseph Hayes](people/@49395288@-joseph-hayes-b-d.md)
 * [Lena Hayes](people/@80081989@-lena-hayes-b-d2018.md) ( - before 2018)
@@ -344,6 +401,7 @@ This is a list of people who have vague or unknown dates of birth.
 * [Stasia LaFavre](people/@16839684@-stasia-lafavre-b-d2018.md) ( - before 2018)
 * [Andrew Lenox](people/@61792169@-andrew-lenox-b-d.md)
 * [Agnes Lowall](people/@38031148@-agnes-lowall-b-d.md)
+* [Catherine Macauley](people/@40946328@-catherine-macauley-b-d1884.md) ( - before 1884)
 * [Alexander MacDonald](people/@47072524@-alexander-macdonald-b-d1875.md) ( - before 1875)
 * [Catherine MacDonald](people/@97950336@-catherine-macdonald-b-d1949.md) ( - before 1949)
 * [Helen MacDonald](people/@83660564@-helen-macdonald-b-d1856.md) ( - after 1856)
@@ -365,9 +423,13 @@ This is a list of people who have vague or unknown dates of birth.
 * [Hector Matheson](people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
 * [Patrick McBride](people/@28079676@-patrick-mcbride-b-d1889.md) ( - before 1889)
 * [Janet McFarlane](people/@96104748@-janet-mcfarlane-b-d.md)
+* [Mary McFynn](people/@36976172@-mary-mcfynn-b-d1855.md) ( - before 1855)
 * [Elizabeth McIver](people/@80366022@-elizabeth-mciver-b-d1914.md) ( - 1914)
 * [Rodrick McIver](people/@53638178@-rodrick-mciver-b-d.md)
+* [John McKay](people/@25989156@-john-mckay-b-d1855.md) ( - before 1855)
+* [William McKechnie](people/@95027126@-william-mckechnie-b-d.md)
 * [Murdoch McKenzie](people/@1568232@-murdoch-mckenzie-b-d.md)
+* [William McKnight](people/@38388851@-william-mcknight-b-d1886.md) ( - before 1886)
 * [Harvey McLean](people/@70471714@-harvey-mclean-b-d.md)
 * [John McLean](people/@91397610@-john-mclean-b-d1877.md) ( - after 1877)
 * [Margaret McLeod](people/@25554110@-margaret-mcleod-b-d.md)
@@ -376,10 +438,15 @@ This is a list of people who have vague or unknown dates of birth.
 * [John Morgan](people/@38398015@-john-morgan-b-d.md)
 * [Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)
 * [John Morrison](people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
+* [Campbell Elizabeth Munn](people/@11230712@-campbell-elizabeth-munn-b-d.md)
+* [David Napier](people/@71012752@-david-napier-b-d.md)
+* [James Nicholson](people/@30814449@-james-nicholson-b-d.md)
+* [Edward O'Donnell](people/@4921696@-edward-o'donnell-b-d1884.md) ( - before 1884)
 * [Catherine O'Malley](people/@76642956@-catherine-o'malley-b-d.md)
 * [John O'Malley](people/@50797152@-john-o'malley-b-d1889.md) ( - before 1889)
 * [William Paterson](people/@78511456@-william-paterson-b-d.md)
 * [John Paton](people/@43171135@-john-paton-b-d.md)
+* [Marion Pearson](people/@82667928@-marion-pearson-b-d1892.md) ( - before 1892)
 * [Barney Predendall](people/@69952770@-barney-predendall-b-d.md)
 * [Mary E Prey](people/@37901232@-mary-e-prey-b-d.md)
 * [Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md) ( - before 1910)
@@ -393,12 +460,17 @@ This is a list of people who have vague or unknown dates of birth.
 * [Agnes Russell](people/@37924612@-agnes-russell-b-d.md)
 * [Clara Sherwood](people/@79435398@-clara-sherwood-b-d.md)
 * [John Smith](people/@3582868@-john-smith-b-d.md)
+* [John Smith](people/@64841197@-john-smith-b-d.md)
 * [Ricky Steedman](people/@65047040@-ricky-steedman-b-d2022-6-23.md) ( - 23/Jun/2022)
 * [Roxannah Stewart](people/@56480720@-roxannah-stewart-b-d.md)
 * [William Sutherland](people/@72992640@-william-sutherland-b-d1856.md) ( - after 1856)
+* [John Teeven](people/@17936784@-john-teeven-b-d1855.md) ( - before 1855)
 * [Thomas Tennant](people/@12974870@-thomas-tennant-b-d.md)
 * [Ella Thomas](people/@55794778@-ella-thomas-b-d.md)
 * [Thomas Thomson](people/@28828844@-thomas-thomson-b-d.md)
+* [Elizabeth Thornton](people/@69380928@-elizabeth-thornton-b-d1886.md) ( - before 1886)
+* [Agnes Watt](people/@64447674@-agnes-watt-b-d.md)
+* [William Williamson](people/@67023796@-william-williamson-b-d.md)
 * [Clarence Wilson](people/@11868717@-clarence-wilson-b-d.md)
 * [Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)
 * [Mary Younger](people/@25511104@-mary-younger-b-d.md)

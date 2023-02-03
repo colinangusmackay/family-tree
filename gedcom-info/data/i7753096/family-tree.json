@@ -1,0 +1,133 @@
+﻿{
+  "Subject": {
+    "Id": "i7753096",
+    "Name": "Margaret Teevin",
+    "Gender": "Female",
+    "DateOfBirth": "about 1861",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i29671874",
+      "Name": "Susan McKay",
+      "Gender": "Female",
+      "DateOfBirth": "Apr/1833",
+      "DateOfDeath": "before 1886",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i65007133",
+      "Name": "Richard Tevin",
+      "Gender": "Male",
+      "DateOfBirth": "about 1841",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i39463713",
+      "Name": "Mary Teevin",
+      "Gender": "Female",
+      "DateOfBirth": "about 1858",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i29671874",
+          "i65007133"
+        ]
+      ]
+    },
+    {
+      "Id": "i7753096",
+      "Name": "Margaret Teevin",
+      "Gender": "Female",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i29671874",
+          "i65007133"
+        ]
+      ]
+    },
+    {
+      "Id": "i81418416",
+      "Name": "Thomas Tevin",
+      "Gender": "Male",
+      "DateOfBirth": "about 1870",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i29671874",
+          "i65007133"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i6387698",
+      "Name": "Thomas McKnight",
+      "Gender": "Male",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "8/Aug/1897",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "25/Oct/1886",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i87185096",
+      "Name": "Susan McKnight",
+      "Gender": "Female",
+      "DateOfBirth": "about 1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i6387698",
+        "i7753096"
+      ]
+    },
+    {
+      "Id": "i31828723",
+      "Name": "Lizzie McKnight",
+      "Gender": "Female",
+      "DateOfBirth": "about 1891",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i6387698",
+        "i7753096"
+      ]
+    },
+    {
+      "Id": "i33327416",
+      "Name": "Richard McKnight",
+      "Gender": "Male",
+      "DateOfBirth": "27/Apr/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i6387698",
+        "i7753096"
+      ]
+    },
+    {
+      "Id": "i63393644",
+      "Name": "Nelly McKnight",
+      "Gender": "Female",
+      "DateOfBirth": "about 1896",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i6387698",
+        "i7753096"
+      ]
+    }
+  ]
+}

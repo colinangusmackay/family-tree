@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i62602830",
+    "Name": "William Hanton",
+    "Gender": "Male",
+    "DateOfBirth": "about 1855",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i62602830",
+      "Name": "William Hanton",
+      "Gender": "Male",
+      "DateOfBirth": "about 1855",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i71906070",
+      "Name": "Jane Johnston",
+      "Gender": "Female",
+      "DateOfBirth": "about 1859",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i71830064",
+      "Name": "James Hanton",
+      "Gender": "Male",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "before 1945",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i62602830",
+        "i71906070"
+      ]
+    }
+  ]
+}

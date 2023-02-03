@@ -1,0 +1,93 @@
+﻿{
+  "Subject": {
+    "Id": "i30057967",
+    "Name": "Janet Dalrymple",
+    "Gender": "Female",
+    "DateOfBirth": "about 1876",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i90699645",
+      "Name": "John Dalrymple",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i48339564",
+      "Name": "Janet Buchanan",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i30057967",
+      "Name": "Janet Dalrymple",
+      "Gender": "Female",
+      "DateOfBirth": "about 1876",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i48339564",
+          "i90699645"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i22451165",
+      "Name": "Alexander Napier",
+      "Gender": "Male",
+      "DateOfBirth": "4/Nov/1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "28/Sep/1900",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i46994217",
+      "Name": "David Napier",
+      "Gender": "Male",
+      "DateOfBirth": "about 1901",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i22451165",
+        "i30057967"
+      ]
+    },
+    {
+      "Id": "i61882948",
+      "Name": "John Napier",
+      "Gender": "Male",
+      "DateOfBirth": "about 1905",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i22451165",
+        "i30057967"
+      ]
+    },
+    {
+      "Id": "i80968928",
+      "Name": "Alexander Napier",
+      "Gender": "Male",
+      "DateOfBirth": "2/May/1913",
+      "DateOfDeath": "1994",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i22451165",
+        "i30057967"
+      ]
+    }
+  ]
+}

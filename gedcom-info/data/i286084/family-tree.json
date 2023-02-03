@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i286084",
+    "Name": "Sarah Fleming",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1886"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i286084",
+      "Name": "Sarah Fleming",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1886",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i6387698",
+      "Name": "Thomas McKnight",
+      "Gender": "Male",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "8/Aug/1897",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

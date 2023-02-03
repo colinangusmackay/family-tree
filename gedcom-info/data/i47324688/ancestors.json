@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i47324688",
+  "Name": "Janet McKechnie",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1879",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i14943438",
+      "Name": "Mary Faulds",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1901",
+      "Parents": []
+    },
+    {
+      "Id": "i95027126",
+      "Name": "William McKechnie",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

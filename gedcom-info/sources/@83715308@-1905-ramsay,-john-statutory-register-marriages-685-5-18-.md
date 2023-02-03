@@ -75,6 +75,5 @@ References | 1905 M 685/5 18
 
 * [Helen Currie Fisher](../people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md) (29/Nov/1881 - 6/Jun/1953)
 * [James Fisher](../people/@22540348@-james-fisher-b1854-d.md) (about 1854 - )
-* [Jack Ramsay](../people/@55070438@-jack-ramsay-b1905-d1967.md) (1905 - 1967)
 * [John Ramsay](../people/@63088441@-john-ramsay-b1852-d.md) (about 1852 - )
 * [John Ramsay](../people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) (21/Feb/1880 - 20/Jun/1920)

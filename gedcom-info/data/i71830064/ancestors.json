@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i71830064",
+  "Name": "James Hanton",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1880",
+  "DateOfDeath": "before 1945",
+  "Parents": [
+    {
+      "Id": "i62602830",
+      "Name": "William Hanton",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1855",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i71906070",
+      "Name": "Jane Johnston",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1859",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

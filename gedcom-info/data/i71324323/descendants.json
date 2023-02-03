@@ -1,0 +1,59 @@
+﻿{
+  "Id": "i71324323",
+  "Name": "Mary Boyle",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i53954394",
+      "Name": "Annie Fern",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1903",
+      "DateOfDeath": "before 1946",
+      "Children": [
+        {
+          "Id": "i41720825",
+          "Name": "Mary McKnight",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "about 1924",
+          "DateOfDeath": "about 1991",
+          "Children": [
+            {
+              "Id": "i26071271",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "27/Jul/1948",
+              "DateOfDeath": "",
+              "Children": [
+                {
+                  "Id": "i23872865",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "1986",
+                  "DateOfDeath": "",
+                  "Children": [
+                    {
+                      "Id": "i25146614",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "3/Aug/2021",
+                      "DateOfDeath": "",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

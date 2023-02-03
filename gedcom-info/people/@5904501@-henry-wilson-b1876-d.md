@@ -17,7 +17,7 @@ permalink: /people/i5904501
 * Daughter: [Ella R Wilson](./@43820265@-ella-r-wilson-b1900-d.md) (about 1900 - )
 * Daughter: [Stella K Wilson](./@26878767@-stella-k-wilson-b1902-d.md) (about 1902 - )
 * Daughter: [Mary Elizabeth Wilson](./@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md) (about 1905 - 16/Dec/1971)
-* Daughter: [Frieda B Wilson](./@66883950@-frieda-b-wilson-b1908-d.md) (about 1908 - )
+* Daughter: [Frieda Belle Wilson](./@66883950@-frieda-belle-wilson-b1908-1-10-d1995-1-4.md) (10/Jan/1908 - 4/Jan/1995)
 
 ## Timeline
 

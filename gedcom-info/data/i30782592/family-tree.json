@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i30782592",
+    "Name": "Alice Smith",
+    "Gender": "Female",
+    "DateOfBirth": "about 1890",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i64841197",
+      "Name": "John Smith",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i81238912",
+      "Name": "Mary Burns",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i30782592",
+      "Name": "Alice Smith",
+      "Gender": "Female",
+      "DateOfBirth": "about 1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i64841197",
+          "i81238912"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i30039040",
+      "Name": "Thomas Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "28/Jun/1888",
+      "DateOfDeath": "before 1946",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "6/May/1921",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i51411241",
+      "Name": "Edward Joseph Hawthorne",
+      "Gender": "Male",
+      "DateOfBirth": "about 13/Apr/1923",
+      "DateOfDeath": "2013",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i30039040",
+        "i30782592"
+      ]
+    }
+  ]
+}

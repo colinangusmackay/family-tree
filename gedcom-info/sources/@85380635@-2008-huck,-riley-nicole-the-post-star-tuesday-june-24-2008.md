@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s85380635
 ---
 
-# 2008 X, X NICOLE - The Post Star Tuesday June 24 2008
+# 2008 X, X X - The Post Star Tuesday June 24 2008
 
 Field | Detail
 ---:|:---

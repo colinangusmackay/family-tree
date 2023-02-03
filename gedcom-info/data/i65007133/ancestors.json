@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i65007133",
+  "Name": "Richard Tevin",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1841",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i17936784",
+      "Name": "John Teeven",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1855",
+      "Parents": []
+    },
+    {
+      "Id": "i36976172",
+      "Name": "Mary McFynn",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1855",
+      "Parents": []
+    }
+  ]
+}

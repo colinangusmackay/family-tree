@@ -1,0 +1,142 @@
+﻿{
+  "Id": "i41720825",
+  "Name": "Mary McKnight",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1924",
+  "DateOfDeath": "about 1991",
+  "Parents": [
+    {
+      "Id": "i33327416",
+      "Name": "Richard McKnight",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "27/Apr/1895",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i6387698",
+          "Name": "Thomas McKnight",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1856",
+          "DateOfDeath": "8/Aug/1897",
+          "Parents": [
+            {
+              "Id": "i69380928",
+              "Name": "Elizabeth Thornton",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "before 1886",
+              "Parents": []
+            },
+            {
+              "Id": "i38388851",
+              "Name": "William McKnight",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "before 1886",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i7753096",
+          "Name": "Margaret Teevin",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "about 1861",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i29671874",
+              "Name": "Susan McKay",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "Apr/1833",
+              "DateOfDeath": "before 1886",
+              "Parents": [
+                {
+                  "Id": "i25989156",
+                  "Name": "John McKay",
+                  "Gender": "Male",
+                  "Relationship": "father",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "before 1855",
+                  "Parents": []
+                },
+                {
+                  "Id": "i24534213",
+                  "Name": "Susan Allford",
+                  "Gender": "Female",
+                  "Relationship": "mother",
+                  "DateOfBirth": "about 1807",
+                  "DateOfDeath": "",
+                  "Parents": []
+                }
+              ]
+            },
+            {
+              "Id": "i65007133",
+              "Name": "Richard Tevin",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "about 1841",
+              "DateOfDeath": "",
+              "Parents": [
+                {
+                  "Id": "i17936784",
+                  "Name": "John Teeven",
+                  "Gender": "Male",
+                  "Relationship": "father",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "before 1855",
+                  "Parents": []
+                },
+                {
+                  "Id": "i36976172",
+                  "Name": "Mary McFynn",
+                  "Gender": "Female",
+                  "Relationship": "mother",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "before 1855",
+                  "Parents": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "i53954394",
+      "Name": "Annie Fern",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1903",
+      "DateOfDeath": "before 1946",
+      "Parents": [
+        {
+          "Id": "i71324323",
+          "Name": "Mary Boyle",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i34903625",
+          "Name": "Thomas Fern",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

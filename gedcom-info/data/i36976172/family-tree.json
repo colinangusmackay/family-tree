@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i36976172",
+    "Name": "Mary McFynn",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1855"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i36976172",
+      "Name": "Mary McFynn",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1855",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i17936784",
+      "Name": "John Teeven",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1855",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i65007133",
+      "Name": "Richard Tevin",
+      "Gender": "Male",
+      "DateOfBirth": "about 1841",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i17936784",
+        "i36976172"
+      ]
+    }
+  ]
+}

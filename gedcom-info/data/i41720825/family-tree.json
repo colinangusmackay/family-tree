@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i41720825",
+    "Name": "Mary McKnight",
+    "Gender": "Female",
+    "DateOfBirth": "about 1924",
+    "DateOfDeath": "about 1991"
+  },
+  "Parents": [
+    {
+      "Id": "i33327416",
+      "Name": "Richard McKnight",
+      "Gender": "Male",
+      "DateOfBirth": "27/Apr/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i53954394",
+      "Name": "Annie Fern",
+      "Gender": "Female",
+      "DateOfBirth": "about 1903",
+      "DateOfDeath": "before 1946",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i41720825",
+      "Name": "Mary McKnight",
+      "Gender": "Female",
+      "DateOfBirth": "about 1924",
+      "DateOfDeath": "about 1991",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i33327416",
+          "i53954394"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i51411241",
+      "Name": "Edward Joseph Hawthorne",
+      "Gender": "Male",
+      "DateOfBirth": "about 13/Apr/1923",
+      "DateOfDeath": "2013",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "6/Sep/1946",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i26071271",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "27/Jul/1948",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i51411241",
+        "i41720825"
+      ]
+    }
+  ]
+}

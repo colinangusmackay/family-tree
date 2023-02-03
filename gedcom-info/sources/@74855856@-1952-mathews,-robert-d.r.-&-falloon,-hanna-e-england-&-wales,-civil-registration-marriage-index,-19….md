@@ -19,5 +19,5 @@ References |
 _Text redacted_
 ## Source Referenced by
 
-* [Hannah E Falloon](../people/@97706646@-hannah-e-falloon-b1922-d1982.md) (about 1922 - 1982)
+* [Hannah Elder Falloon](../people/@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) (7/Dec/1921 - 1982)
 * [Robert Dennis R Mathews](../people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) (6/Sep/1928 - 11/Feb/2009)

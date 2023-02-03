@@ -1,0 +1,93 @@
+﻿{
+  "Subject": {
+    "Id": "i65007133",
+    "Name": "Richard Tevin",
+    "Gender": "Male",
+    "DateOfBirth": "about 1841",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i17936784",
+      "Name": "John Teeven",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1855",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i36976172",
+      "Name": "Mary McFynn",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1855",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i65007133",
+      "Name": "Richard Tevin",
+      "Gender": "Male",
+      "DateOfBirth": "about 1841",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i17936784",
+          "i36976172"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i29671874",
+      "Name": "Susan McKay",
+      "Gender": "Female",
+      "DateOfBirth": "Apr/1833",
+      "DateOfDeath": "before 1886",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "27/Jul/1855",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i39463713",
+      "Name": "Mary Teevin",
+      "Gender": "Female",
+      "DateOfBirth": "about 1858",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i65007133",
+        "i29671874"
+      ]
+    },
+    {
+      "Id": "i7753096",
+      "Name": "Margaret Teevin",
+      "Gender": "Female",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i65007133",
+        "i29671874"
+      ]
+    },
+    {
+      "Id": "i81418416",
+      "Name": "Thomas Tevin",
+      "Gender": "Male",
+      "DateOfBirth": "about 1870",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i65007133",
+        "i29671874"
+      ]
+    }
+  ]
+}

@@ -16,16 +16,34 @@
       "Children": [
         {
           "Id": "i55070438",
-          "Name": "Jack Ramsay",
+          "Name": "John Morgan Ramsay",
           "Gender": "Male",
           "Relationship": "son",
-          "DateOfBirth": "1905",
+          "DateOfBirth": "31/Mar/1905",
           "DateOfDeath": "1967",
           "Children": []
         },
         {
+          "Id": "i58012424",
+          "Name": "James Fisher Ramsay",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "15/Jan/1907",
+          "DateOfDeath": "5/Jun/1908",
+          "Children": []
+        },
+        {
+          "Id": "i81255608",
+          "Name": "William Fisher Ramsay",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "24/Aug/1910",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
           "Id": "i62219744",
-          "Name": "Alan Ramsay",
+          "Name": "Allan Ramsay",
           "Gender": "Male",
           "Relationship": "son",
           "DateOfBirth": "1911",
@@ -34,10 +52,10 @@
         },
         {
           "Id": "i49046148",
-          "Name": "Bruce Ramsay",
+          "Name": "Bruce Morgan Ramsay",
           "Gender": "Male",
           "Relationship": "son",
-          "DateOfBirth": "1914",
+          "DateOfBirth": "10/Oct/1913",
           "DateOfDeath": "29/Nov/1965",
           "Children": []
         },

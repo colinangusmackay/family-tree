@@ -1,0 +1,125 @@
+﻿{
+  "Subject": {
+    "Id": "i30039040",
+    "Name": "Thomas Hawthorn",
+    "Gender": "Male",
+    "DateOfBirth": "28/Jun/1888",
+    "DateOfDeath": "before 1946"
+  },
+  "Parents": [
+    {
+      "Id": "i92463484",
+      "Name": "William Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "about 1847",
+      "DateOfDeath": "before 1921",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i64641527",
+      "Name": "Hannah O'Donnell",
+      "Gender": "Female",
+      "DateOfBirth": "about 1857",
+      "DateOfDeath": "before 1921",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i16695817",
+      "Name": "Joseph Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "about 1873",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i64641527",
+          "i92463484"
+        ]
+      ]
+    },
+    {
+      "Id": "i91501446",
+      "Name": "Robert Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "about 1875",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i64641527",
+          "i92463484"
+        ]
+      ]
+    },
+    {
+      "Id": "i21482384",
+      "Name": "James Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i64641527",
+          "i92463484"
+        ]
+      ]
+    },
+    {
+      "Id": "i88518114",
+      "Name": "Edward Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "about 1886",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i64641527",
+          "i92463484"
+        ]
+      ]
+    },
+    {
+      "Id": "i30039040",
+      "Name": "Thomas Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "28/Jun/1888",
+      "DateOfDeath": "before 1946",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i64641527",
+          "i92463484"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i30782592",
+      "Name": "Alice Smith",
+      "Gender": "Female",
+      "DateOfBirth": "about 1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "6/May/1921",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i51411241",
+      "Name": "Edward Joseph Hawthorne",
+      "Gender": "Male",
+      "DateOfBirth": "about 13/Apr/1923",
+      "DateOfDeath": "2013",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i30039040",
+        "i30782592"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+﻿{
+  "Id": "i88518114",
+  "Name": "Edward Hawthorn",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1886",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i92463484",
+      "Name": "William Hawthorn",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1847",
+      "DateOfDeath": "before 1921",
+      "Parents": [
+        {
+          "Id": "i39873338",
+          "Name": "Helen Bond",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i96807032",
+          "Name": "William Hawthorn",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1884",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i64641527",
+      "Name": "Hannah O'Donnell",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1857",
+      "DateOfDeath": "before 1921",
+      "Parents": [
+        {
+          "Id": "i40946328",
+          "Name": "Catherine Macauley",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1884",
+          "Parents": []
+        },
+        {
+          "Id": "i4921696",
+          "Name": "Edward O'Donnell",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1884",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

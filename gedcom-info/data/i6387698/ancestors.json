@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i6387698",
+  "Name": "Thomas McKnight",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1856",
+  "DateOfDeath": "8/Aug/1897",
+  "Parents": [
+    {
+      "Id": "i69380928",
+      "Name": "Elizabeth Thornton",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1886",
+      "Parents": []
+    },
+    {
+      "Id": "i38388851",
+      "Name": "William McKnight",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1886",
+      "Parents": []
+    }
+  ]
+}

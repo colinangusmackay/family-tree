@@ -20,7 +20,7 @@ permalink: /people/i34933754
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1851 | Born | Born to [John O'Malley](./@50797152@-john-o'malley-b-d1889.md) and [Catherine O'Malley](./@76642956@-catherine-o'malley-b-d.md) in Ireland, Ireland. | [1](#1) | 
+about 1851 | Born | Born to [John O'Malley](./@50797152@-john-o'malley-b-d1889.md) and [Catherine O'Malley](./@76642956@-catherine-o'malley-b-d.md) in , Ireland. | [1](#1) | 
 
 ## Known Residences
 
@@ -71,9 +71,10 @@ Date | Occupation | Sources & Notes
 
 ### 4
 
-**1911 O'MALLEY, EDWARD & THOMSON, AGNES WATSON**
+**1911 O'MALLEY, EDWARD & THOMSON, AGNES WATSON (Statutory Registers Marriages 644/1 219)**
 
-* [Full text and notes](../sources/@82949924@-1911-o'malley,-edward-&-thomson,-agnes-watson.md)
+* [Full text and notes](../sources/@82949924@-1911-o'malley,-edward-&-thomson,-agnes-watson-statutory-registers-marriages-644-1-219-.md)
+* Date: 2/Dec/1911
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1911 M 644/1 219

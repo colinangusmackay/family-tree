@@ -54,6 +54,7 @@ Date | Residence | Sources & Notes
 ---|---|---
 1891 | 104 Berkeley Street, Glasgow | [2](#2)
 1909 | 104 Berkeley Street, Glasgow, Scotland | [3](#3)
+1921 | 14 Lyndhurst Gardens, Glasgow | [11](#11)
 1964 | 76 Northfield Drive, Edinburgh, Scotland | [10](#10)
 
 ## Footnotes
@@ -152,4 +153,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1964 D 685/3 153
+
+### 11
+
+**1921 MCIVER, HECTOR MCLEAN & Family (Census 644/13 47/ 15)**
+
+* [Full text and notes](../sources/@68135344@-1921-mciver,-hector-mclean-&-family-census-644-13-47-15-.md)
+* Date: 19/Jun/1921
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1921 C 644/13 47/ 15)
 

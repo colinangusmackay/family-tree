@@ -1,0 +1,165 @@
+﻿{
+  "Subject": {
+    "Id": "i71830064",
+    "Name": "James Hanton",
+    "Gender": "Male",
+    "DateOfBirth": "about 1880",
+    "DateOfDeath": "before 1945"
+  },
+  "Parents": [
+    {
+      "Id": "i62602830",
+      "Name": "William Hanton",
+      "Gender": "Male",
+      "DateOfBirth": "about 1855",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i71906070",
+      "Name": "Jane Johnston",
+      "Gender": "Female",
+      "DateOfBirth": "about 1859",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i71830064",
+      "Name": "James Hanton",
+      "Gender": "Male",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "before 1945",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i62602830",
+          "i71906070"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i47324688",
+      "Name": "Janet McKechnie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1879",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "7/Aug/1901",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i24857040",
+      "Name": "Mary Hanton",
+      "Gender": "Female",
+      "DateOfBirth": "about 1902",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i71830064",
+        "i47324688"
+      ]
+    },
+    {
+      "Id": "i19187808",
+      "Name": "William Hanton",
+      "Gender": "Male",
+      "DateOfBirth": "about 1904",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i71830064",
+        "i47324688"
+      ]
+    },
+    {
+      "Id": "i30630538",
+      "Name": "James Hanton",
+      "Gender": "Male",
+      "DateOfBirth": "about 1907",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i71830064",
+        "i47324688"
+      ]
+    },
+    {
+      "Id": "i65592941",
+      "Name": "Jane Hanton",
+      "Gender": "Female",
+      "DateOfBirth": "about 1908",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i71830064",
+        "i47324688"
+      ]
+    },
+    {
+      "Id": "i56011610",
+      "Name": "Jessie Hanton",
+      "Gender": "Female",
+      "DateOfBirth": "about 1911",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i71830064",
+        "i47324688"
+      ]
+    },
+    {
+      "Id": "i53392578",
+      "Name": "Andrew Hanton",
+      "Gender": "Male",
+      "DateOfBirth": "about 1913",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i71830064",
+        "i47324688"
+      ]
+    },
+    {
+      "Id": "i27083581",
+      "Name": "Marion Hanton",
+      "Gender": "Female",
+      "DateOfBirth": "about 1916",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i71830064",
+        "i47324688"
+      ]
+    },
+    {
+      "Id": "i68592798",
+      "Name": "Johnina Hanton",
+      "Gender": "Female",
+      "DateOfBirth": "12/Feb/1919",
+      "DateOfDeath": "2000",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i71830064",
+        "i47324688"
+      ]
+    },
+    {
+      "Id": "i30651959",
+      "Name": "John Hanton",
+      "Gender": "Male",
+      "DateOfBirth": "about 1920",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i71830064",
+        "i47324688"
+      ]
+    }
+  ]
+}

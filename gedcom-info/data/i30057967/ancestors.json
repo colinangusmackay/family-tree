@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i30057967",
+  "Name": "Janet Dalrymple",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1876",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i48339564",
+      "Name": "Janet Buchanan",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i90699645",
+      "Name": "John Dalrymple",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

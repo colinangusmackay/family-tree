@@ -98,6 +98,26 @@
   ],
   "Spouses": [
     {
+      "Id": "i22982796",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    },
+    {
+      "Id": "i23003491",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    },
+    {
       "Id": "i24393948",
       "Name": "Clinton Edwin Monson",
       "Gender": "Male",

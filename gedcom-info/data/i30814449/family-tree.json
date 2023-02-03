@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i30814449",
+    "Name": "James Nicholson",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i30814449",
+      "Name": "James Nicholson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i71857147",
+      "Name": "Janet Berry",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i65182613",
+      "Name": "Agnes Nicholson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1835",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i30814449",
+        "i71857147"
+      ]
+    }
+  ]
+}

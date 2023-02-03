@@ -1,0 +1,115 @@
+﻿{
+  "Subject": {
+    "Id": "i74931773",
+    "Name": "Henry Napier",
+    "Gender": "Male",
+    "DateOfBirth": "1870",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i65182613",
+      "Name": "Agnes Nicholson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1835",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i41697732",
+      "Name": "David Napier",
+      "Gender": "Male",
+      "DateOfBirth": "12/Sep/1835",
+      "DateOfDeath": "2/Nov/1901",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i97555316",
+      "Name": "David Napier",
+      "Gender": "Male",
+      "DateOfBirth": "7/Apr/1858",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i41697732",
+          "i65182613"
+        ]
+      ]
+    },
+    {
+      "Id": "i44813825",
+      "Name": "Janet Napier",
+      "Gender": "Female",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i41697732",
+          "i65182613"
+        ]
+      ]
+    },
+    {
+      "Id": "i490155",
+      "Name": "Mary Napier",
+      "Gender": "Female",
+      "DateOfBirth": "1863",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i41697732",
+          "i65182613"
+        ]
+      ]
+    },
+    {
+      "Id": "i22336798",
+      "Name": "Elizabeth Napier",
+      "Gender": "Female",
+      "DateOfBirth": "17/Nov/1866",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i41697732",
+          "i65182613"
+        ]
+      ]
+    },
+    {
+      "Id": "i74931773",
+      "Name": "Henry Napier",
+      "Gender": "Male",
+      "DateOfBirth": "1870",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i41697732",
+          "i65182613"
+        ]
+      ]
+    },
+    {
+      "Id": "i22451165",
+      "Name": "Alexander Napier",
+      "Gender": "Male",
+      "DateOfBirth": "4/Nov/1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i41697732",
+          "i65182613"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

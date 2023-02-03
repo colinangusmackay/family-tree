@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i92463484",
+  "Name": "William Hawthorn",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1847",
+  "DateOfDeath": "before 1921",
+  "Parents": [
+    {
+      "Id": "i39873338",
+      "Name": "Helen Bond",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i96807032",
+      "Name": "William Hawthorn",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1884",
+      "Parents": []
+    }
+  ]
+}

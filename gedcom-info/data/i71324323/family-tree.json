@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i71324323",
+    "Name": "Mary Boyle",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i71324323",
+      "Name": "Mary Boyle",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i34903625",
+      "Name": "Thomas Fern",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i53954394",
+      "Name": "Annie Fern",
+      "Gender": "Female",
+      "DateOfBirth": "about 1903",
+      "DateOfDeath": "before 1946",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i34903625",
+        "i71324323"
+      ]
+    }
+  ]
+}

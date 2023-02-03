@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i69380928",
+    "Name": "Elizabeth Thornton",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1886"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i69380928",
+      "Name": "Elizabeth Thornton",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1886",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i38388851",
+      "Name": "William McKnight",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1886",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i6387698",
+      "Name": "Thomas McKnight",
+      "Gender": "Male",
+      "DateOfBirth": "about 1856",
+      "DateOfDeath": "8/Aug/1897",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i38388851",
+        "i69380928"
+      ]
+    }
+  ]
+}

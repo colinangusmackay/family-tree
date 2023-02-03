@@ -25,7 +25,7 @@ permalink: /people/i24941331
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1865 | Born | Born to [Patrick McBride](./@28079676@-patrick-mcbride-b-d1889.md) and [Catherine Docherty](./@61251200@-catherine-docherty-b-d1889.md) in Ireland, Ireland. | [1](#1) | 
+about 1865 | Born | Born to [Patrick McBride](./@28079676@-patrick-mcbride-b-d1889.md) and [Catherine Docherty](./@61251200@-catherine-docherty-b-d1889.md) in , Ireland. | [1](#1) | 
 
 ## Known Residences
 

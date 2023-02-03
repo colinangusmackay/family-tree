@@ -16,7 +16,7 @@ permalink: /people/i178005
 ## Immediate Family
 
 * Mother: [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
-* Father: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) (12/Apr/1861 - before 1919)
+* Father: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) (12/Apr/1861 - before 1911)
 * Husband: [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) (19/Oct/1877 - 9/May/1954)
 * Sister: [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) (23/Sep/1889 - 15/May/1970)
 * Brother: [George Mackay](./@72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
@@ -31,29 +31,29 @@ permalink: /people/i178005
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-27/Jun/1901 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
-1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1892-12-15-d1918.md) died. | [2](#2) | [3](#3)
-before 1919 | Death of father | [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1919.md) died. | [4](#4) | 
-after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) died. | [4](#4), [5](#5) | 
-2/Mar/1934 | Marriage | Married to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) in Dornoch, Sutherland, Scotland | [6](#6) | 
-1935 | Birth of daughter | X born to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) and [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md). | [7](#7) | 
-9/May/1954 | Death of partner | [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) died in Embo, Sutherland, Scotland. | [8](#8) | 
-3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [9](#9) | 
-15/May/1970 | Death of sister | [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) died in Inverness, Scotland. | [10](#10) | 
-1973 | Died | Died in Dornoch, Sutherland, Scotland. | [11](#11) | 
+27/Jun/1901 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+before 1911 | Death of father | [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) died. | [3](#3), [4](#4) | 
+1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1892-12-15-d1918.md) died. | [2](#2) | [5](#5)
+after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) died. | [4](#4), [6](#6) | 
+2/Mar/1934 | Marriage | Married to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) in Dornoch, Sutherland, Scotland | [7](#7) | 
+1935 | Birth of daughter | X born to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) and [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md). | [8](#8) | 
+9/May/1954 | Death of partner | [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) died in Embo, Sutherland, Scotland. | [9](#9) | 
+3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [10](#10) | 
+15/May/1970 | Death of sister | [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) died in Inverness, Scotland. | [11](#11) | 
+1973 | Died | Died in Dornoch, Sutherland, Scotland. | [12](#12) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1911 | 6 Terrace Street, Embo, Sutherlandshire | [12](#12)
-1934 | 6 Terrace Street, Embo, Sutherland, Scotland | [6](#6), [13](#13)
+1911 | 6 Terrace Street, Embo, Sutherlandshire | [3](#3)
+1934 | 6 Terrace Street, Embo, Sutherland, Scotland | [7](#7), [13](#13)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1934 | Fish worker in Embo, Sutherland, Scotland | [6](#6)
+1934 | Fish worker in Embo, Sutherland, Scotland | [7](#7)
 
 ## Notes
 
@@ -96,9 +96,13 @@ Date | Occupation | Sources & Notes
 
 ### 3
 
-> Influenza
->
+**1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)**
 
+* [Full text and notes](../sources/@90926792@-1911-mackay,-bella-&-family-census-047-3-12-.md)
+* Date: 2/Apr/1911
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1911 C 047/ 3/ 12
 
 ### 4
 
@@ -111,13 +115,19 @@ Date | Occupation | Sources & Notes
 
 ### 5
 
+> Influenza
+>
+
+
+### 6
+
 **1923 MACKAY, KENNETH (Canada, Ocean Arrivals (Form 30A), 1919-1927)**
 
 * [Full text and notes](../sources/@85723388@-1923-mackay,-kenneth-canada,-ocean-arrivals-form-30a-,-1919-1927-.md)
 * Publication: Canada, Ocean Arrivals (Form 30A), 1919-1927
 * Date: 15/Mar/1923
 
-### 6
+### 7
 
 **1934 MACKAY, MARGARET MOYES (statutory registers Marriages 047/2)**
 
@@ -126,7 +136,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * M1934-047/2
 
-### 7
+### 8
 
 **P176 Embo - genealogy, Uncle Sandy's Story and a little history**
 
@@ -138,7 +148,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * (ISBN) 978-1-910205-49-5
 
-### 8
+### 9
 
 **1954 FRASER, KENNETH - Statutory Register Deathes 047/11**
 
@@ -148,7 +158,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1954 D 047/11
 
-### 9
+### 10
 
 **1969 X, JOHN PAUL (Statutory registers Deaths 047/18)**
 
@@ -158,7 +168,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1969 D 047/18
 
-### 10
+### 11
 
 **1970 MACKAY, LUCY (Statutory Register Deaths)**
 
@@ -168,7 +178,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1970 D 98/A 269
 
-### 11
+### 12
 
 **1973 FRASER, MARGARET MOYES (Index of Register of Deaths)**
 
@@ -176,16 +186,6 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1973 M 182/22
-
-### 12
-
-**1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)**
-
-* [Full text and notes](../sources/@90926792@-1911-mackay,-bella-&-family-census-047-3-12-.md)
-* Date: 2/Apr/1911
-* Responsible Agency: National Records of Scotland
-* References: 
-  * 1911 C 047/ 3/ 12
 
 ### 13
 

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i29671874",
+  "Name": "Susan McKay",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "Apr/1833",
+  "DateOfDeath": "before 1886",
+  "Parents": [
+    {
+      "Id": "i25989156",
+      "Name": "John McKay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1855",
+      "Parents": []
+    },
+    {
+      "Id": "i24534213",
+      "Name": "Susan Allford",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1807",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

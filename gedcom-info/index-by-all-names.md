@@ -35,6 +35,10 @@ permalink: /indexes/by-all-names
 
 - **[Elizabeth Alexander](people/@86375908@-elizabeth-alexander-b-d1911.md)** ( - before 1911)
 
+## Allford
+
+- **[Susan Allford](people/@24534213@-susan-allford-b1807-d.md)** (about 1807 - )
+
 ## Beatie
 
 - **[Margaret Beatie](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - )
@@ -43,9 +47,29 @@ permalink: /indexes/by-all-names
 
 - **[Ann Beaton](people/@23061759@-ann-beaton-b-d.md)**
 
+## Berry
+
+- **[Janet Berry](people/@71857147@-janet-berry-b-d.md)**
+
 ## Bolton
 
 - **[Lena Bolton](people/@80081989@-lena-hayes-b-d2018.md)** ( - before 2018)
+
+## Bond
+
+- **[Helen Bond](people/@39873338@-helen-bond-b-d.md)**
+
+## Boyle
+
+- **[Mary Boyle](people/@71324323@-mary-boyle-b-d.md)**
+
+## Buchanan
+
+- **[Janet Buchanan](people/@48339564@-janet-buchanan-b-d.md)**
+
+## Burns
+
+- **[Mary Burns](people/@81238912@-mary-burns-b-d.md)**
 
 ## Byrne
 
@@ -142,6 +166,7 @@ permalink: /indexes/by-all-names
 - **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
 - **[Mary Ann Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
 - **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
+- **[Mary Anne Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
 - **[Thomasina Ian Cumming](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
 - **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
 - **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
@@ -157,6 +182,12 @@ permalink: /indexes/by-all-names
 
 - **[Helen Currie](people/@14506844@-helen-currie-b-d1880.md)** ( - before 1880)
 
+## Dalrymple
+
+- **[Dalrymple](people/@48339564@-janet-buchanan-b-d.md)**
+- **[Janet Dalrymple](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
+- **[John Dalrymple](people/@90699645@-john-dalrymple-b-d.md)**
+
 ## Davies
 
 - **[Ann Davies](people/@759904@-ann-davies-b-d1875.md)** ( - before 1875)
@@ -167,7 +198,9 @@ permalink: /indexes/by-all-names
 
 ## Falloon
 
-- **[Hannah E Falloon](people/@97706646@-hannah-e-falloon-b1922-d1982.md)** (about 1922 - 1982)
+- **[Falloon](people/@11230712@-campbell-elizabeth-munn-b-d.md)**
+- **[Hannah Elder Falloon](people/@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md)** (7/Dec/1921 - 1982)
+- **[William John Falloon](people/@14463787@-william-john-falloon-b-d.md)**
 
 ## Farnham
 
@@ -177,9 +210,19 @@ permalink: /indexes/by-all-names
 
 - **[Farrell](people/@32431312@-sarah-hayes-b-d2018.md)** ( - before 2018)
 
+## Faulds
+
+- **[Mary Faulds](people/@14943438@-mary-faulds-b-d1901.md)** ( - before 1901)
+
 ## Fawley
 
 - **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993)
+
+## Fern
+
+- **[Annie Fern](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946)
+- **[Mary Fern](people/@71324323@-mary-boyle-b-d.md)**
+- **[Thomas Fern](people/@34903625@-thomas-fern-b-d.md)**
 
 ## Fisher
 
@@ -219,6 +262,7 @@ permalink: /indexes/by-all-names
 - **[Margaret Wood Fleming](people/@90221940@-margaret-wood-fleming-b1879-3-25-d.md)** (25/Mar/1879 - )
 - **[Mary Fleming](people/@54628435@-mary-fleming-b1885-5-5-d1886-8-15.md)** (5/May/1885 - 15/Aug/1886)
 - **[Samuel Fleming](people/@19337566@-samuel-fleming-b1860-d.md)** (about 1860 - )
+- **[Sarah Fleming](people/@286084@-sarah-fleming-b-d1886.md)** ( - before 1886)
 - **[Thomas Tennant Fleming](people/@79327488@-thomas-tennant-fleming-b1881-8-29-d.md)** (29/Aug/1881 - )
 - **[William Fleming](people/@78368531@-william-fleming-b1858-d.md)** (about 1858 - )
 
@@ -310,6 +354,23 @@ permalink: /indexes/by-all-names
 
 - **[Jane Grieve](people/@33882736@-jane-grieve-b-d.md)**
 
+## Hanton
+
+- **[Andrew Hanton](people/@53392578@-andrew-hanton-b1913-d.md)** (about 1913 - )
+- **[James Hanton](people/@71830064@-james-hanton-b1880-d1945.md)** (about 1880 - before 1945)
+- **[James Hanton](people/@30630538@-james-hanton-b1907-d.md)** (about 1907 - )
+- **[Jane Hanton](people/@71906070@-jane-johnston-b1859-d.md)** (about 1859 - )
+- **[Jane Hanton](people/@65592941@-jane-hanton-b1908-d.md)** (about 1908 - )
+- **[Janet Hanton](people/@47324688@-janet-mckechnie-b1879-d.md)** (about 1879 - )
+- **[Jessie Hanton](people/@47324688@-janet-mckechnie-b1879-d.md)** (about 1879 - )
+- **[Jessie Hanton](people/@56011610@-jessie-hanton-b1911-d.md)** (about 1911 - )
+- **[John Hanton](people/@30651959@-john-hanton-b1920-d.md)** (about 1920 - )
+- **[Johnina Hanton](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000)
+- **[Marion Hanton](people/@27083581@-marion-hanton-b1916-d.md)** (about 1916 - )
+- **[Mary Hanton](people/@24857040@-mary-hanton-b1902-d.md)** (about 1902 - )
+- **[William Hanton](people/@62602830@-william-hanton-b1855-d.md)** (about 1855 - )
+- **[William Hanton](people/@19187808@-william-hanton-b1904-d.md)** (about 1904 - )
+
 ## Hatelie
 
 - **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977)
@@ -317,6 +378,24 @@ permalink: /indexes/by-all-names
 ## Haux
 
 - **[Marybet Haux](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014)
+
+## Hawthorn
+
+- **[Edward Hawthorn](people/@88518114@-edward-hawthorn-b1886-d.md)** (about 1886 - )
+- **[Hawthorn](people/@39873338@-helen-bond-b-d.md)**
+- **[James Hawthorn](people/@21482384@-james-hawthorn-b1877-d.md)** (about 1877 - )
+- **[Joseph Hawthorn](people/@16695817@-joseph-hawthorn-b1873-d.md)** (about 1873 - )
+- **[Robert Hawthorn](people/@91501446@-robert-hawthorn-b1875-d.md)** (about 1875 - )
+- **[Thomas Hawthorn](people/@30039040@-thomas-hawthorn-b1888-6-28-d1946.md)** (28/Jun/1888 - before 1946)
+- **[William Hawthorn](people/@96807032@-william-hawthorn-b-d1884.md)** ( - before 1884)
+- **[William Hawthorn](people/@92463484@-william-hawthorn-b1847-d1921.md)** (about 1847 - before 1921)
+
+## Hawthorne
+
+- **[Alice Hawthorne](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
+- **[Edward Joseph Hawthorne](people/@51411241@-edward-joseph-hawthorne-b1923-4-13-d2013.md)** (about 13/Apr/1923 - 2013)
+- **[Hannah Hawthorne](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921)
+- **[Hawthorne](people/@41720825@-mary-mcknight-b1924-d1991.md)** (about 1924 - about 1991)
 
 ## Hayes
 
@@ -341,6 +420,10 @@ permalink: /indexes/by-all-names
 - **[James Henderson](people/@92250700@-james-henderson-b-d.md)**
 - **[Janet Henderson](people/@82771990@-janet-abernethy-b-d.md)**
 
+## Hendry
+
+- **[Margaret Hendry](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - )
+
 ## Hoctor
 
 - **[James A Hoctor](people/@72154199@-james-a-hoctor-b-d1993.md)** ( - before 1993)
@@ -350,6 +433,10 @@ permalink: /indexes/by-all-names
 ## Johnson
 
 - **[Ann Johnson](people/@85807260@-ann-johnson-b-d.md)**
+
+## Johnston
+
+- **[Jane Johnston](people/@71906070@-jane-johnston-b1859-d.md)** (about 1859 - )
 
 ## Johnstone
 
@@ -361,7 +448,11 @@ permalink: /indexes/by-all-names
 
 ## LaVelle
 
-- **[Frieda LaVelle](people/@66883950@-frieda-b-wilson-b1908-d.md)** (about 1908 - )
+- **[Frieda LaVelle](people/@66883950@-frieda-belle-wilson-b1908-1-10-d1995-1-4.md)** (10/Jan/1908 - 4/Jan/1995)
+
+## Lawley
+
+- **[Alice Lawley](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
 
 ## Lenox
 
@@ -378,6 +469,10 @@ permalink: /indexes/by-all-names
 ## Lowall
 
 - **[Agnes Lowall](people/@38031148@-agnes-lowall-b-d.md)**
+
+## Macauley
+
+- **[Catherine Macauley](people/@40946328@-catherine-macauley-b-d1884.md)** ( - before 1884)
 
 ## Macdonald
 
@@ -437,7 +532,7 @@ permalink: /indexes/by-all-names
 - **[Isabella Mackay](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
 - **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923)
 - **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019)
-- **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1919.md)** (12/Apr/1861 - before 1919)
+- **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1911.md)** (12/Apr/1861 - before 1911)
 - **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934)
 - **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - )
 - **[Janet Mackay](people/@20237816@-janet-mackay-b-d.md)**
@@ -540,7 +635,7 @@ permalink: /indexes/by-all-names
 - **[Eliza Jane Mathews](people/@63437677@-eliza-jane-wynn-b1864-d.md)** (about 1864 - )
 - **[George Mathews](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
 - **[Georgina E Mathews](people/@84093657@-georgina-e-mathews-b1886-d.md)** (about 1886 - )
-- **[Hannah E Mathews](people/@97706646@-hannah-e-falloon-b1922-d1982.md)** (about 1922 - 1982)
+- **[Hannah E Mathews](people/@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md)** (7/Dec/1921 - 1982)
 - **[John Albert Mathews](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 - **[John Albert Mathews](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 - **[Joseph Mathews](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - )
@@ -558,6 +653,10 @@ permalink: /indexes/by-all-names
 
 - **[Janet McFarlane](people/@96104748@-janet-mcfarlane-b-d.md)**
 
+## McFynn
+
+- **[Mary McFynn](people/@36976172@-mary-mcfynn-b-d1855.md)** ( - before 1855)
+
 ## McIver
 
 - **[Ann McIver](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
@@ -574,6 +673,19 @@ permalink: /indexes/by-all-names
 - **[Thomas Clephan McIver](people/@74287888@-thomas-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 - **[Tom McIver](people/@74287888@-thomas-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 
+## McKay
+
+- **[John McKay](people/@25989156@-john-mckay-b-d1855.md)** ( - before 1855)
+- **[Margaret McKay](people/@76218830@-margaret-mckay-b1842-d.md)** (about 1842 - )
+- **[McKay](people/@24534213@-susan-allford-b1807-d.md)** (about 1807 - )
+- **[Susan McKay](people/@29671874@-susan-mckay-b1833-4-d1886.md)** (Apr/1833 - before 1886)
+
+## McKechnie
+
+- **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d.md)** (about 1879 - )
+- **[Mary McKechnie](people/@14943438@-mary-faulds-b-d1901.md)** ( - before 1901)
+- **[William McKechnie](people/@95027126@-william-mckechnie-b-d.md)**
+
 ## McKenzie
 
 - **[Ann McKenzie](people/@23061759@-ann-beaton-b-d.md)**
@@ -588,6 +700,20 @@ permalink: /indexes/by-all-names
 - **[Murdoch McKenzie](people/@99087108@-murdoch-mckenzie-b1890-d.md)** (1890 - )
 - **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929)
 - **[William P McKenzie](people/@51734912@-william-p-mckenzie-b1878-d.md)** (about 1878 - )
+
+## McKnight
+
+- **[Annie McKnight](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946)
+- **[Lizzie McKnight](people/@31828723@-lizzie-mcknight-b1891-d.md)** (about 1891 - )
+- **[Margaret McKnight](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - )
+- **[Mary McKnight](people/@41720825@-mary-mcknight-b1924-d1991.md)** (about 1924 - about 1991)
+- **[McKnight](people/@286084@-sarah-fleming-b-d1886.md)** ( - before 1886)
+- **[McKnight](people/@69380928@-elizabeth-thornton-b-d1886.md)** ( - before 1886)
+- **[Nelly McKnight](people/@63393644@-nelly-mcknight-b1896-d.md)** (about 1896 - )
+- **[Richard McKnight](people/@33327416@-richard-mcknight-b1895-4-27-d.md)** (27/Apr/1895 - )
+- **[Susan McKnight](people/@87185096@-susan-mcknight-b1889-d.md)** (about 1889 - )
+- **[Thomas McKnight](people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md)** (about 1856 - 8/Aug/1897)
+- **[William McKnight](people/@38388851@-william-mcknight-b-d1886.md)** ( - before 1886)
 
 ## McLean
 
@@ -657,6 +783,10 @@ permalink: /indexes/by-all-names
 - **[Mary Morrison](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
 - **[Morrison](people/@48064613@-anne-chisholm-b-d1877.md)** ( - before 1877)
 
+## Munn
+
+- **[Campbell Elizabeth Munn](people/@11230712@-campbell-elizabeth-munn-b-d.md)**
+
 ## Munro
 
 - **[Hugh Munro](people/@24463792@-hugh-munro-b1810-d.md)** (before 1810 - )
@@ -664,9 +794,51 @@ permalink: /indexes/by-all-names
 - **[Janet Munro](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
 - **[Jessie Munro](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
 
+## Nairn
+
+- **[Marion Nairn](people/@82667928@-marion-pearson-b-d1892.md)** ( - before 1892)
+
+## Napier
+
+- **[Agnes Napier](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - )
+- **[Agnes Napier](people/@67902640@-agnes-napier-b1845-4-14-d.md)** (14/Apr/1845 - )
+- **[Alexander Napier](people/@42551448@-alexander-napier-b1841-10-6-d.md)** (6/Oct/1841 - )
+- **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - )
+- **[Alexander Napier](people/@80968928@-alexander-napier-b1913-5-2-d1994.md)** (2/May/1913 - 1994)
+- **[Andrew Napier](people/@90505172@-andrew-napier-b1843-6-29-d.md)** (29/Jun/1843 - )
+- **[David Napier](people/@71012752@-david-napier-b-d.md)**
+- **[David Napier](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901)
+- **[David Napier](people/@97555316@-david-napier-b1858-4-7-d.md)** (7/Apr/1858 - )
+- **[David Napier](people/@46994217@-david-napier-b1901-d.md)** (about 1901 - )
+- **[Eliza Napier](people/@22336798@-elizabeth-napier-b1866-11-17-d.md)** (17/Nov/1866 - )
+- **[Elizabeth Napier](people/@22336798@-elizabeth-napier-b1866-11-17-d.md)** (17/Nov/1866 - )
+- **[Henry Napier](people/@7484846@-henry-napier-b1837-9-27-d.md)** (27/Sep/1837 - )
+- **[Henry Napier](people/@74931773@-henry-napier-b1870-d.md)** (1870 - )
+- **[James Napier](people/@29473130@-james-napier-b1849-1-16-d.md)** (16/Jan/1849 - )
+- **[Janet Napier](people/@44813825@-janet-napier-b1861-d.md)** (about 1861 - )
+- **[Janet Napier](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
+- **[Jean Napier](people/@89412864@-jean-napier-b1847-3-28-d.md)** (28/Mar/1847 - )
+- **[John Napier](people/@61882948@-john-napier-b1905-d.md)** (about 1905 - )
+- **[Mary Napier](people/@490155@-mary-napier-b1863-d.md)** (1863 - )
+- **[Napier](people/@35381484@-agnes-williamson-b1815-10-11-d.md)** (11/Oct/1815 - )
+- **[Napier](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000)
+- **[William Napier](people/@18756558@-william-napier-b1839-12-5-d.md)** (5/Dec/1839 - )
+
+## Nicholson
+
+- **[Agnes Nicholson](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - )
+- **[James Nicholson](people/@30814449@-james-nicholson-b-d.md)**
+- **[Nicholson](people/@71857147@-janet-berry-b-d.md)**
+
 ## Nolan
 
 - **[Nolan](people/@15147548@-marion-hayes-b-d2018.md)** ( - before 2018)
+
+## O'Donnell
+
+- **[Catherine O'Donnell](people/@40946328@-catherine-macauley-b-d1884.md)** ( - before 1884)
+- **[Edward O'Donnell](people/@4921696@-edward-o'donnell-b-d1884.md)** ( - before 1884)
+- **[Hannah O'Donnell](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921)
 
 ## O'Malley
 
@@ -706,6 +878,10 @@ permalink: /indexes/by-all-names
 - **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md)** (14/Mar/1916 - before 2004)
 - **[Paton](people/@70248352@-jeanie-mcleod-b1897-d.md)** (about 1897 - )
 
+## Pearson
+
+- **[Marion Pearson](people/@82667928@-marion-pearson-b-d1892.md)** ( - before 1892)
+
 ## Pratt
 
 - **[Sandra Pratt](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
@@ -732,20 +908,23 @@ permalink: /indexes/by-all-names
 ## Ramsay
 
 - **[Agnes Ramsay](people/@57916783@-agnes-ramsay-b1873-d.md)** (about 1873 - )
-- **[Alan Ramsay](people/@62219744@-alan-ramsay-b1911-d1932.md)** (1911 - 1932)
-- **[Bruce Ramsay](people/@49046148@-bruce-ramsay-b1914-d1965-11-29.md)** (1914 - 29/Nov/1965)
+- **[Allan Ramsay](people/@62219744@-allan-ramsay-b1911-d1932.md)** (1911 - 1932)
+- **[Bruce Morgan Ramsay](people/@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md)** (10/Oct/1913 - 29/Nov/1965)
 - **[Cattie Ramsay](people/@35547078@-cattie-ramsay-b1877-d.md)** (about 1877 - )
 - **[Douglas Ramsay](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
 - **[George Ramsay](people/@33817858@-george-ramsay-b-d.md)**
 - **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 - **[Isabella Ramsay](people/@54722192@-isabella-ramsay-b1878-d.md)** (about 1878 - )
 - **[Isabella Ramsay](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
-- **[Jack Ramsay](people/@55070438@-jack-ramsay-b1905-d1967.md)** (1905 - 1967)
+- **[Jack Ramsay](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
+- **[James Fisher Ramsay](people/@58012424@-james-fisher-ramsay-b1907-1-15-d1908-6-5.md)** (15/Jan/1907 - 5/Jun/1908)
+- **[John Morgan Ramsay](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
 - **[John Ramsay](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - )
 - **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
 - **[Ramsay](people/@33882736@-jane-grieve-b-d.md)**
 - **[Ramsay](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - )
 - **[Ramsay](people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md)** (29/Nov/1881 - 6/Jun/1953)
+- **[William Fisher Ramsay](people/@81255608@-william-fisher-ramsay-b1910-8-24-d.md)** (24/Aug/1910 - )
 
 ## Raymond
 
@@ -842,7 +1021,10 @@ permalink: /indexes/by-all-names
 ## Smith
 
 - **[Agnes Smith](people/@38031148@-agnes-lowall-b-d.md)**
+- **[Alice Smith](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
 - **[John Smith](people/@3582868@-john-smith-b-d.md)**
+- **[John Smith](people/@64841197@-john-smith-b-d.md)**
+- **[Mary Smith](people/@81238912@-mary-burns-b-d.md)**
 - **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - )
 
 ## Stark
@@ -890,11 +1072,31 @@ permalink: /indexes/by-all-names
 
 - **[Helen Taylor](people/@47549486@-helen-taylor-b1816-d1865-11-27.md)** (about 1816 - 27/Nov/1865)
 
+## Teevan
+
+- **[Margaret Teevan](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - )
+- **[Mary Teevan](people/@36976172@-mary-mcfynn-b-d1855.md)** ( - before 1855)
+
+## Teeven
+
+- **[John Teeven](people/@17936784@-john-teeven-b-d1855.md)** ( - before 1855)
+
+## Teevin
+
+- **[Margaret Teevin](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - )
+- **[Mary Teevin](people/@39463713@-mary-teevin-b1858-d.md)** (about 1858 - )
+- **[Teevin](people/@29671874@-susan-mckay-b1833-4-d1886.md)** (Apr/1833 - before 1886)
+
 ## Tennant
 
 - **[Helen Tennant](people/@79475420@-helen-collins-b-d.md)**
 - **[Margaret Tennant](people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md)** (19/Nov/1857 - 29/Jun/1924)
 - **[Thomas Tennant](people/@12974870@-thomas-tennant-b-d.md)**
+
+## Tevin
+
+- **[Richard Tevin](people/@65007133@-richard-tevin-b1841-d.md)** (about 1841 - )
+- **[Thomas Tevin](people/@81418416@-thomas-tevin-b1870-d.md)** (about 1870 - )
 
 ## Thomas
 
@@ -906,13 +1108,27 @@ permalink: /indexes/by-all-names
 - **[Elizabeth Thomson](people/@86375908@-elizabeth-alexander-b-d1911.md)** ( - before 1911)
 - **[Thomas Thomson](people/@28828844@-thomas-thomson-b-d.md)**
 
+## Thornton
+
+- **[Elizabeth Thornton](people/@69380928@-elizabeth-thornton-b-d1886.md)** ( - before 1886)
+
 ## Vosseller
 
 - **[Janet Vosseller](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
 
+## Watt
+
+- **[Agnes Watt](people/@64447674@-agnes-watt-b-d.md)**
+
 ## West
 
 - **[Joan West](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
+
+## Williamson
+
+- **[Agnes Williamson](people/@35381484@-agnes-williamson-b1815-10-11-d.md)** (11/Oct/1815 - )
+- **[William Williamson](people/@67023796@-william-williamson-b-d.md)**
+- **[Williamson](people/@64447674@-agnes-watt-b-d.md)**
 
 ## Wilson
 
@@ -920,7 +1136,7 @@ permalink: /indexes/by-all-names
 - **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)**
 - **[Ella R Wilson](people/@43820265@-ella-r-wilson-b1900-d.md)** (about 1900 - )
 - **[Ella Wilson](people/@55794778@-ella-thomas-b-d.md)**
-- **[Frieda B Wilson](people/@66883950@-frieda-b-wilson-b1908-d.md)** (about 1908 - )
+- **[Frieda Belle Wilson](people/@66883950@-frieda-belle-wilson-b1908-1-10-d1995-1-4.md)** (10/Jan/1908 - 4/Jan/1995)
 - **[Henry Wilson](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - )
 - **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971)
 - **[Mrs. Wilson](people/@99536158@-minnie-lenox-b1867-4-15-d.md)** (15/Apr/1867 - )

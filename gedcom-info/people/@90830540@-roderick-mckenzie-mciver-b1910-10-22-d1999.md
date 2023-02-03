@@ -33,6 +33,7 @@ Date | Item | Description | Sources | Notes
 
 Date | Residence | Sources & Notes
 ---|---|---
+1921 | 14 Lyndhurst Gardens, Glasgow | [8](#8)
 1938 | 57 Cloberhill Road, Glasgow, Scotland | [5](#5)
 
 ## Footnotes
@@ -103,4 +104,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1999 D 507/ 328
+
+### 8
+
+**1921 MCIVER, HECTOR MCLEAN & Family (Census 644/13 47/ 15)**
+
+* [Full text and notes](../sources/@68135344@-1921-mciver,-hector-mclean-&-family-census-644-13-47-15-.md)
+* Date: 19/Jun/1921
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1921 C 644/13 47/ 15)
 

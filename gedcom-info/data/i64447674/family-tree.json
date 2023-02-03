@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i64447674",
+    "Name": "Agnes Watt",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i64447674",
+      "Name": "Agnes Watt",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i67023796",
+      "Name": "William Williamson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i35381484",
+      "Name": "Agnes Williamson",
+      "Gender": "Female",
+      "DateOfBirth": "11/Oct/1815",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i67023796",
+        "i64447674"
+      ]
+    }
+  ]
+}

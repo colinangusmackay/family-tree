@@ -11,7 +11,7 @@ permalink: /people/i35875756
 
 * Daughter: X
 * Daughter: X
-* Mother: [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) (about 1922 - 1982)
+* Mother: [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) (7/Dec/1921 - 1982)
 * Father: [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) (6/Sep/1928 - 11/Feb/2009)
 * Wife: X
 * Brother: X
@@ -21,11 +21,11 @@ permalink: /people/i35875756
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-1954 | Born | Born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md). | [1](#1) | 
-6/Dec/1956 | Birth of brother | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) in Blackburn, West Lothian, Scotland. | [2](#2) | 
-6/Dec/1956 | Birth of brother | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) in Blackburn, West Lothian, Scotland. | [3](#3) | 
+1954 | Born | Born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md). | [1](#1) | 
+6/Dec/1956 | Birth of brother | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) in Blackburn, West Lothian, Scotland. | [2](#2) | 
+6/Dec/1956 | Birth of brother | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) in Blackburn, West Lothian, Scotland. | [3](#3) | 
 1978 | Marriage | Married to X  | [4](#4) | 
-1982 | Death of mother | [Hannah E Falloon](./@97706646@-hannah-e-falloon-b1922-d1982.md) died. | [5](#5) | 
+1982 | Death of mother | [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) died. | [5](#5) | 
 2004 | Died | Died. | [6](#6) | 
 
 ## Footnotes

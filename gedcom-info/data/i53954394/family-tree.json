@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i53954394",
+    "Name": "Annie Fern",
+    "Gender": "Female",
+    "DateOfBirth": "about 1903",
+    "DateOfDeath": "before 1946"
+  },
+  "Parents": [
+    {
+      "Id": "i34903625",
+      "Name": "Thomas Fern",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i71324323",
+      "Name": "Mary Boyle",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i53954394",
+      "Name": "Annie Fern",
+      "Gender": "Female",
+      "DateOfBirth": "about 1903",
+      "DateOfDeath": "before 1946",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i34903625",
+          "i71324323"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i33327416",
+      "Name": "Richard McKnight",
+      "Gender": "Male",
+      "DateOfBirth": "27/Apr/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "25/Apr/1924",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i41720825",
+      "Name": "Mary McKnight",
+      "Gender": "Female",
+      "DateOfBirth": "about 1924",
+      "DateOfDeath": "about 1991",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i33327416",
+        "i53954394"
+      ]
+    }
+  ]
+}

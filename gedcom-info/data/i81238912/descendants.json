@@ -1,0 +1,59 @@
+﻿{
+  "Id": "i81238912",
+  "Name": "Mary Burns",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i30782592",
+      "Name": "Alice Smith",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1890",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i51411241",
+          "Name": "Edward Joseph Hawthorne",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "about 13/Apr/1923",
+          "DateOfDeath": "2013",
+          "Children": [
+            {
+              "Id": "i26071271",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "27/Jul/1948",
+              "DateOfDeath": "",
+              "Children": [
+                {
+                  "Id": "i23872865",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "1986",
+                  "DateOfDeath": "",
+                  "Children": [
+                    {
+                      "Id": "i25146614",
+                      "Name": "X",
+                      "Gender": "Male",
+                      "Relationship": "son",
+                      "DateOfBirth": "3/Aug/2021",
+                      "DateOfDeath": "",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

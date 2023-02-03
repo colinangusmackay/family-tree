@@ -1,0 +1,59 @@
+﻿{
+  "Subject": {
+    "Id": "i25989156",
+    "Name": "John McKay",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1855"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i25989156",
+      "Name": "John McKay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1855",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i24534213",
+      "Name": "Susan Allford",
+      "Gender": "Female",
+      "DateOfBirth": "about 1807",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i29671874",
+      "Name": "Susan McKay",
+      "Gender": "Female",
+      "DateOfBirth": "Apr/1833",
+      "DateOfDeath": "before 1886",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i25989156",
+        "i24534213"
+      ]
+    },
+    {
+      "Id": "i76218830",
+      "Name": "Margaret McKay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1842",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i25989156",
+        "i24534213"
+      ]
+    }
+  ]
+}

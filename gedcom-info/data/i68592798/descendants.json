@@ -1,0 +1,39 @@
+﻿{
+  "Id": "i68592798",
+  "Name": "Johnina Hanton",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "12/Feb/1919",
+  "DateOfDeath": "2000",
+  "Children": [
+    {
+      "Id": "i71183078",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1954",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i23872865",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "1986",
+          "DateOfDeath": "",
+          "Children": [
+            {
+              "Id": "i25146614",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "3/Aug/2021",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

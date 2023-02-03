@@ -151,7 +151,7 @@ References |
 * [Donald Mackay](../people/@32633938@-donald-mackay-b1855-d.md) (about 1855 - )
 * [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
 * [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
-* [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1919.md) (12/Apr/1861 - before 1919)
+* [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1911.md) (12/Apr/1861 - before 1911)
 * [Jane or Jean Mackay](../people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md) (bet' 1859 and 1863 - )
 * [John Mackay](../people/@15814480@-john-mackay-b1864~1865-d.md) (bet' 1864 and 1865 - )
 * [Kenneth Mackay](../people/@21362348@-kenneth-mackay-b1815-d.md) (calc'd 1815 - )

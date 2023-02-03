@@ -1,0 +1,73 @@
+﻿{
+  "Subject": {
+    "Id": "i46994217",
+    "Name": "David Napier",
+    "Gender": "Male",
+    "DateOfBirth": "about 1901",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i22451165",
+      "Name": "Alexander Napier",
+      "Gender": "Male",
+      "DateOfBirth": "4/Nov/1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i30057967",
+      "Name": "Janet Dalrymple",
+      "Gender": "Female",
+      "DateOfBirth": "about 1876",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i46994217",
+      "Name": "David Napier",
+      "Gender": "Male",
+      "DateOfBirth": "about 1901",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i22451165",
+          "i30057967"
+        ]
+      ]
+    },
+    {
+      "Id": "i61882948",
+      "Name": "John Napier",
+      "Gender": "Male",
+      "DateOfBirth": "about 1905",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i22451165",
+          "i30057967"
+        ]
+      ]
+    },
+    {
+      "Id": "i80968928",
+      "Name": "Alexander Napier",
+      "Gender": "Male",
+      "DateOfBirth": "2/May/1913",
+      "DateOfDeath": "1994",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i22451165",
+          "i30057967"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

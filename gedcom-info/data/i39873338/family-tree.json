@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i39873338",
+    "Name": "Helen Bond",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i39873338",
+      "Name": "Helen Bond",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i96807032",
+      "Name": "William Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1884",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i92463484",
+      "Name": "William Hawthorn",
+      "Gender": "Male",
+      "DateOfBirth": "about 1847",
+      "DateOfDeath": "before 1921",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i96807032",
+        "i39873338"
+      ]
+    }
+  ]
+}

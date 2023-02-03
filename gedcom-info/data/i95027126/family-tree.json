@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i95027126",
+    "Name": "William McKechnie",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i95027126",
+      "Name": "William McKechnie",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i14943438",
+      "Name": "Mary Faulds",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1901",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i47324688",
+      "Name": "Janet McKechnie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1879",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i95027126",
+        "i14943438"
+      ]
+    }
+  ]
+}

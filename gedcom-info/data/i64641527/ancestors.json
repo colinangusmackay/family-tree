@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i64641527",
+  "Name": "Hannah O'Donnell",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1857",
+  "DateOfDeath": "before 1921",
+  "Parents": [
+    {
+      "Id": "i40946328",
+      "Name": "Catherine Macauley",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1884",
+      "Parents": []
+    },
+    {
+      "Id": "i4921696",
+      "Name": "Edward O'Donnell",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1884",
+      "Parents": []
+    }
+  ]
+}
