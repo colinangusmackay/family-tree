@@ -27,15 +27,13 @@ All these links can be found in the "hamburger menu" (the icon with three horizo
 
 At the start of 2020, I decided to spend more time looking into my family tree. To that end I have been cataloguing details of my family history.
 
-When I initially started I made the classic rookie mistake of taking a scatter gun approach. Unfortunately, this just caused a lot of confusion. I'm now taking hopefully a more directed approach and moving forward from existing edges in my graph.
-
 ## The creation of this site
 
-Some of the information on this site is deliberately incomplete. I have not included living persons, however, living people may have been referenced in sources. And I am still collecting genealogical information on living people. 
+Some of the information on this site is deliberately incomplete. I have not included living persons, however, living people may have been referenced in sources.
 
 The rules for deciding if a person has died are:
-* There is a death date for the person.
-* There is a birth date for the person and that was at least 100 years ago.
+* Naturally, if there is a death date for the person.
+* There is a birth date for the person and that was at least 100 years ago. At this time I think there was only one person in this tree that lived past the age of 100.
 
 In a person's timeline, if a (potentially) living person would have been referenced their name has been replaced with an "X". In some cases it means that the parent of of a person born in the 19th century sometimes appears as "X" because the software has neither a birth or death date, and it assumed they are potentially still alive.
 
