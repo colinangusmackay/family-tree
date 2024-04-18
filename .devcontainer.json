@@ -1,0 +1,22 @@
+{
+	"name": "Family Tree Web Site",
+	"image": "mcr.microsoft.com/devcontainers/jekyll:1-bullseye",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-vscode.powershell"
+			]
+		}
+	},
+	"portsAttributes": {
+		"4004": {
+			"label": "scd-jekyll-server"
+		}
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/powershell:1": {
+			"version": "latest"
+		}
+	},
+	"postCreateCommand": "bash script/devcontainer-bootstrap.sh"
+}

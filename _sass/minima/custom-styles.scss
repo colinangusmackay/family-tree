@@ -6,18 +6,18 @@
 // TABLES
 //
 table hr {
-    margin-top: $spacing-unit / 2;
-    margin-bottom: $spacing-unit / 2;
+    margin-top: calc($spacing-unit / 2);
+    margin-bottom: calc($spacing-unit / 2);
   }
 
 .small {
-    font-size: $base-font-size / 2;
+    font-size: calc($base-font-size / 2);
     hr {
-        margin-top: $spacing-unit / 4;
-        margin-bottom: $spacing-unit / 4;
+        margin-top: calc($spacing-unit / 4);
+        margin-bottom: calc($spacing-unit / 4);
       }
     th, td {
-        padding: ($spacing-unit / 6) ($spacing-unit / 4);
+        padding: calc($spacing-unit / 6) calc($spacing-unit / 4);
         }
     
 }
