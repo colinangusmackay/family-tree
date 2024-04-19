@@ -28,10 +28,10 @@
     {
       "Id": "i67511231",
       "Name": "X",
-      "Gender": "Male",
+      "Gender": "Female",
       "DateOfBirth": "",
       "DateOfDeath": "",
-      "RelationToSubject": "brother",
+      "RelationToSubject": "sister",
       "ParentGroupIds": [
         [
           "i37144832",

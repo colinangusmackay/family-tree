@@ -1,0 +1,157 @@
+﻿{
+  "Subject": {
+    "Id": "i97412403",
+    "Name": "Jessie MacDonald",
+    "Gender": "Female",
+    "DateOfBirth": "7/Jul/1869",
+    "DateOfDeath": "12/Feb/1941"
+  },
+  "Parents": [
+    {
+      "Id": "i74881641",
+      "Name": "James MacDonald",
+      "Gender": "Male",
+      "DateOfBirth": "about 1842",
+      "DateOfDeath": "14/Jan/1880",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i81183416",
+      "Name": "Christina Ross",
+      "Gender": "Female",
+      "DateOfBirth": "about 1845",
+      "DateOfDeath": "19/Apr/1916",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i76505641",
+      "Name": "William MacDonald",
+      "Gender": "Male",
+      "DateOfBirth": "9/Jan/1865",
+      "DateOfDeath": "12/May/1898",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i74881641",
+          "i81183416"
+        ]
+      ]
+    },
+    {
+      "Id": "i81905126",
+      "Name": "Alexander MacDonald",
+      "Gender": "Male",
+      "DateOfBirth": "5/Mar/1867",
+      "DateOfDeath": "5/Sep/1928",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i74881641",
+          "i81183416"
+        ]
+      ]
+    },
+    {
+      "Id": "i97412403",
+      "Name": "Jessie MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "7/Jul/1869",
+      "DateOfDeath": "12/Feb/1941",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i74881641",
+          "i81183416"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i6737165",
+      "Name": "Donald Sutherland",
+      "Gender": "Male",
+      "DateOfBirth": "8/Feb/1874",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "26/Jan/1900",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i46057134",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i6737165",
+        "i97412403"
+      ]
+    },
+    {
+      "Id": "i97120624",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i6737165",
+        "i97412403"
+      ]
+    },
+    {
+      "Id": "i4371003",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i6737165",
+        "i97412403"
+      ]
+    },
+    {
+      "Id": "i41980960",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i6737165",
+        "i97412403"
+      ]
+    },
+    {
+      "Id": "i56125936",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i6737165",
+        "i97412403"
+      ]
+    },
+    {
+      "Id": "i77435722",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i6737165",
+        "i97412403"
+      ]
+    }
+  ]
+}

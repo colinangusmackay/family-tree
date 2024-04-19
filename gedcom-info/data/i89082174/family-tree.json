@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i89082174",
+    "Name": "Adam Lorimer",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1940"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i89082174",
+      "Name": "Adam Lorimer",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1940",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i12092730",
+      "Name": "Mary Ferguson",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1940",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i37201190",
+      "Name": "Archibald King Lorimer",
+      "Gender": "Male",
+      "DateOfBirth": "about 1896",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i89082174",
+        "i12092730"
+      ]
+    }
+  ]
+}

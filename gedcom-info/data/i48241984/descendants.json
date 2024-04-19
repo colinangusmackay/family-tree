@@ -94,7 +94,7 @@
           "Name": "X",
           "Gender": "Female",
           "Relationship": "daughter",
-          "DateOfBirth": "1963",
+          "DateOfBirth": "28/Mar/1963",
           "DateOfDeath": "",
           "Children": [
             {
@@ -133,6 +133,15 @@
               "DateOfBirth": "30/Nov/2020",
               "DateOfDeath": "",
               "Children": []
+            },
+            {
+              "Id": "i75126600",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "20/Jul/2023",
+              "DateOfDeath": "",
+              "Children": []
             }
           ]
         }
@@ -140,7 +149,7 @@
     },
     {
       "Id": "i41265374",
-      "Name": "Anna Jess Mackay",
+      "Name": "Anna Jessie MacKay",
       "Gender": "Female",
       "Relationship": "daughter",
       "DateOfBirth": "7/Jul/1938",

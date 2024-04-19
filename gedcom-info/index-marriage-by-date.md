@@ -16,6 +16,11 @@ A list of marriages, civil partnerships and civil unions by date.
 
 ## 19th Century
 
+### 1800s
+
+* **1805**
+  * **27/Dec/1805** : **[William Ross](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and X.
+
 ### 1820s
 
 * **1820**
@@ -29,6 +34,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1840s
 
 * **1840**
+  * **7/Feb/1840** : **[Alexander Ross](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896) and **[Marion Mackay](people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md)** (30/Jun/1821 - 30/Dec/1909) at Embo, Sutherland, Scotland.
   * **16/Oct/1840** : **[George Mackay](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893) and **[Lucy Matheson](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896) at Dornoch, Sutherland, Scotland.
 * **1842**
   * **31/Dec/1842** : **[John Reid](people/@95320597@-john-reid-b-d.md)** and **[Agnes Russell](people/@37924612@-agnes-russell-b-d.md)** at Wishaw, Lanarkshire, Scotland.
@@ -53,9 +59,13 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1860s
 
 * **1860**
-  * **21/Feb/1860** : **[James Cumming](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840~1847-d1918-1-13.md)** (bet' 1840 and 1847 - 13/Jan/1918) at Dornoch, Sutherland, Scotland.
+  * **21/Feb/1860** : **[James Cumming](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md)** (5/Nov/1840 - 13/Jan/1918) at Dornoch, Sutherland, Scotland.
 * **1861**
   * **14/Feb/1861** : **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) and **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) at Gairloch, Ross and Cromarty, Scotland.
+* **1864**
+  * **5/Feb/1864** : **[James MacDonald](people/@74881641@-james-macdonald-b1842-d1880-1-14.md)** (about 1842 - 14/Jan/1880) and **[Christina Ross](people/@81183416@-christina-ross-b1845-d1916-4-19.md)** (about 1845 - 19/Apr/1916) at Skelbo, Sutherland, Scotland.
+* **1865**
+  * **15/Dec/1865** : **[Alexander Ross](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - ) and **[Catherine Ross](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - ) at Little Ferry, Sutherland, Scotland.
 * **1867**
   * **Oct/1867** : **[William Mackay](people/@24694904@-william-mackay-b-d.md)** and **[Ann Cumming](people/@5075008@-ann-cumming-b-d.md)** at Dornoch, Sutherland, Scotland.
 * **1869**
@@ -66,6 +76,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1872**
   * **18/Jul/1872** : **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929) and **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929) at Glasgow, Scotland.
 * **1873**
+  * **Feb/1873** : **[Andrew Sutherland](people/@91612548@-andrew-sutherland-b-d1900.md)** ( - after 1900) and **[Mary MacDonald](people/@10426344@-mary-macdonald-b-d1900.md)** ( - after 1900) at Golspie, Sutherland, Scotland.
   * **21/Oct/1873** : **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ) and **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - ).
 * **1874**
   * **2/Oct/1874** : **[Alexander McTurk](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ) and **[Margaret Beatie](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - ) at Kirkpatrick-Fleming, Dumfriesshire, Scotland.
@@ -76,6 +87,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **7/Nov/1876** : **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ) and **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - ) at Dornoch, Sutherland, Scotland.
   * **1/Dec/1876** : **[James Clark](people/@29410614@-james-clark-b-d.md)** and **[Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)**.
 * **1877**
+  * **9/Oct/1877** : **[Kenneth Ross](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - ) and X at Dornoch, Sutherland, Scotland.
   * **23/Oct/1877** : **[Alexander Mackay](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ) and **[Ann Mackay](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889) at Dornoch, Sutherland, Scotland.
   * **13/Nov/1877** : X and **[Janet or Jessie Mackay](people/@42213240@-janet-or-jessie-mackay-b1840-d.md)** (1840 - ).
   * **21/Nov/1877** : **[Alexander Mackay](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ) and **[Christy Grant](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - ) at Dornoch, Sutherland, Scotland.
@@ -97,6 +109,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1887**
   * **about 1887** : **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ).
   * **12/Mar/1887** : **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918) and **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - ) at Canonbie, Dumfriesshire, Scotland.
+  * **28/Sep/1887** : **[Thomas Sunderland](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - ) and **[Marion Ross](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888) at Hayes Township, Charlevoix County, Michigan, United States of America.
   * **25/Oct/1887** : **[Donald J Cumming](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946) at Dornoch, Sutherland, Scotland.
 * **1888**
   * **23/Oct/1888** : **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1911.md)** (12/Apr/1861 - before 1911) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923) at Dornoch, Sutherland, Scotland.
@@ -129,12 +142,14 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1900**
   * **2/Jan/1900** : **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ) and **[May Miller](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - ).
+  * **26/Jan/1900** : **[Donald Sutherland](people/@6737165@-donald-sutherland-b1874-2-8-d.md)** (8/Feb/1874 - ) and **[Jessie MacDonald](people/@97412403@-jessie-macdonald-b1869-7-7-d1941-2-12.md)** (7/Jul/1869 - 12/Feb/1941) at Golspie, Sutherland, Scotland.
   * **28/Sep/1900** : **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - ) and **[Janet Dalrymple](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - ) at Kirkcaldy, Fife, Scotland.
 * **1901**
   * **22/Jan/1901** : **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ).
-  * **7/Aug/1901** : **[James Hanton](people/@71830064@-james-hanton-b1880-d1945.md)** (about 1880 - before 1945) and **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d.md)** (about 1879 - ) at Paisley, Renfrewshire, Scotland.
-  * **31/Dec/1901** : **[John Fleming](people/@49475976@-john-fleming-b1877-3-11-d.md)** (11/Mar/1877 - ) and **[Agnes Rennie](people/@57426108@-agnes-rennie-b1878-d.md)** (1878 - ) at Blackburn, West Lothian, Scotland.
+  * **7/Aug/1901** : **[James Hanton](people/@71830064@-james-hanton-b1880-d1930.md)** (about 1880 - before 1930) and **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d.md)** (about 1879 - ) at Paisley, Renfrewshire, Scotland.
+  * **31/Dec/1901** : **[John Fleming](people/@49475976@-john-fleming-b1877-3-11-d1961.md)** (11/Mar/1877 - before 1961) and **[Agnes Rennie](people/@57426108@-agnes-rennie-b1878-d1961-2-7.md)** (1878 - 7/Feb/1961) at Blackburn, West Lothian, Scotland.
 * **1903**
+  * **11/Nov/1903** : **[Donald Ross](people/@4496220@-donald-ross-b1872-8-30-d.md)** (30/Aug/1872 - ) and **[Ollie E Walker](people/@42365832@-ollie-e-walker-b1872-d.md)** (about 1872 - ) at Boyne City, Charlevoix County, Michigan, United States of America.
   * **27/Nov/1903** : **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939) and **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md)** (30/Aug/1885 - 1977).
 * **1905**
   * **13/Jan/1905** : **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920) and **[Helen Currie Fisher](people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md)** (29/Nov/1881 - 6/Jun/1953) at Edinburgh, Scotland.
@@ -189,6 +204,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1930s
 
 * **1930**
+  * **7/Feb/1930** : **[John Blue Watson](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963) and **[Jessie Johnston Hanton](people/@56011610@-jessie-johnston-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) at Paisley, Renfrewshire, Scotland.
   * **21/Mar/1930** : **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981) at Toronto, York, Ontario, Canada.
   * **7/Jun/1930** : **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) and **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) at Royal Oak, Oakland County, Michigan, United States of America.
 * **1932**
@@ -196,6 +212,8 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1934**
   * **9/Feb/1934** : **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966) and **[Jean Grant](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971) at Dornoch, Sutherland, Scotland.
   * **2/Mar/1934** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) at Dornoch, Sutherland, Scotland.
+* **1935**
+  * **30/Jul/1935** : **[William Hanton](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993) and **[Mary Houston McAughtrie](people/@54273056@-mary-houston-mcaughtrie-b1918-d.md)** (about 1918 - ).
 * **1936**
   * **10/Nov/1936** : **[John Paul Mackay](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969) and **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ) at Embo, Sutherland, Scotland.
 * **1939**
@@ -205,11 +223,13 @@ A list of marriages, civil partnerships and civil unions by date.
 
 ### 1940s
 
+* **1940**
+  * **13/Nov/1940** : **[Archibald King Lorimer](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - ) and **[Mary Hanton](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989) at Paisley, Renfrewshire, Scotland.
 * **1943**
   * **10/Dec/1943** : **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977) at Fort Lauderdale, Broward County, Florida, United States of America.
 * **1945**
   * **6/Apr/1945** : **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) and **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) at Edinburgh, Scotland.
-  * **22/Dec/1945** : **[Alexander Napier](people/@80968928@-alexander-napier-b1913-5-2-d1994.md)** (2/May/1913 - 1994) and **[Johnina Hanton](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000) at Paisley, Renfrewshire, Scotland.
+  * **22/Dec/1945** : **[Alexander Napier](people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md)** (2/May/1913 - 25/Jun/1994) and **[Johnina Hanton](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000) at Paisley, Renfrewshire, Scotland.
 * **1946**
   * **6/Sep/1946** : **[Edward Joseph Hawthorne](people/@51411241@-edward-joseph-hawthorne-b1923-4-13-d2013.md)** (about 13/Apr/1923 - 2013) and **[Mary McKnight](people/@41720825@-mary-mcknight-b1924-d1991.md)** (about 1924 - about 1991) at Motherwell, Lanarkshire, Scotland.
 * **1947**
@@ -220,6 +240,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1950s
 
 * **1950**
+  * **14/Jun/1950** : **[Donald Sutherland](people/@6737165@-donald-sutherland-b1874-2-8-d.md)** (8/Feb/1874 - ) and **[Alice McCann](people/@69495356@-alice-mccann-b1891-d.md)** (about 1891 - ) at Detroit, Michigan, United States of America.
   * **8/Aug/1950** : X and **[Mary Beth Roberts](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014) at Bolton Landing, Warren County, New York, United States of America.
 * **1952**
   * **Oct/1952** : **[Robert Dennis R Mathews](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009) and **[Hannah Elder Falloon](people/@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md)** (7/Dec/1921 - 1982) at Birmingham, England.
@@ -234,9 +255,11 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1960**
   * **28/May/1960** : X and **[Sandra Jane Roberts](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019).
-  * **30/Jul/1960** : X and **[Anna Jess Mackay](people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021) at Bolton, New York, United States of America.
+  * **30/Jul/1960** : X and **[Anna Jessie MacKay](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021) at Bolton, New York, United States of America.
 * **1962**
   * **1962** : X and **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019) at Glasgow, Scotland.
+* **1965**
+  * **1965** : X and **[Jessie Johnston Hanton](people/@56011610@-jessie-johnston-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) at Paisley, Renfrewshire, Scotland.
 * **1968**
   * **14/Dec/1968** : **[Dan Hayes](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018) and X.
 * **1969**
@@ -249,7 +272,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1972**
   * **30/Sep/1972** : **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Virginia C Simonet](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998) at Norwalk, Fairfield County, Connecticut, United States of America.
 * **1978**
-  * **1978** : **[John Albert Mathews](people/@35875756@-john-albert-mathews-b1954-d2004.md)** (1954 - 2004) and X.
+  * **1978** : **[b Albert Mathews](people/@35875756@-b-albert-mathews-b1954-d2004.md)** (1954 - 2004) and **[Sandra Sarah Bolger](people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md)** (30/Aug/1956 - 2023).
 
 ### 1980s
 
@@ -258,5 +281,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 ## Unknown Date
 
+  * **[William Ross](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and **[Janet MacLeod](people/@14483646@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864).
   * **[Donald James Mackay](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011) and **[Anna Catherine Fraser](people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md)** (28/Aug/1937 - 1992).
+  * **[Andrew Irvine Hanton](people/@53392578@-andrew-irvine-hanton-b1913-d1963-8-9.md)** (about 1913 - 9/Aug/1963) and **[Martha Russell](people/@30062456@-martha-russell-b-d1963.md)** ( - before 1963).
   * **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841) and **[Janet Macrae](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - ).
+  * X and **[Isabella McAughtrie](people/@88003126@-isabella-mcaughtrie-b-d.md)**.

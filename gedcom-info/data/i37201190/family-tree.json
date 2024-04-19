@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i37201190",
+    "Name": "Archibald King Lorimer",
+    "Gender": "Male",
+    "DateOfBirth": "about 1896",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i89082174",
+      "Name": "Adam Lorimer",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1940",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i12092730",
+      "Name": "Mary Ferguson",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1940",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i37201190",
+      "Name": "Archibald King Lorimer",
+      "Gender": "Male",
+      "DateOfBirth": "about 1896",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i12092730",
+          "i89082174"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i24857040",
+      "Name": "Mary Hanton",
+      "Gender": "Female",
+      "DateOfBirth": "about 1902",
+      "DateOfDeath": "1989",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "13/Nov/1940",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

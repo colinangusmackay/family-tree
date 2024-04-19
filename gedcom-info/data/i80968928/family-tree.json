@@ -4,7 +4,7 @@
     "Name": "Alexander Napier",
     "Gender": "Male",
     "DateOfBirth": "2/May/1913",
-    "DateOfDeath": "1994"
+    "DateOfDeath": "25/Jun/1994"
   },
   "Parents": [
     {
@@ -58,7 +58,7 @@
       "Name": "Alexander Napier",
       "Gender": "Male",
       "DateOfBirth": "2/May/1913",
-      "DateOfDeath": "1994",
+      "DateOfDeath": "25/Jun/1994",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -81,6 +81,30 @@
     }
   ],
   "Children": [
+    {
+      "Id": "i84456725",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i80968928",
+        "i68592798"
+      ]
+    },
+    {
+      "Id": "i25388971",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i80968928",
+        "i68592798"
+      ]
+    },
     {
       "Id": "i71183078",
       "Name": "X",

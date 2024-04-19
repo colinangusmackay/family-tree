@@ -10,7 +10,7 @@ permalink: /people/i62602830
 ## Immediate Family
 
 * Partner: [Jane Johnston](./@71906070@-jane-johnston-b1859-d.md) (about 1859 - )
-* Son: [James Hanton](./@71830064@-james-hanton-b1880-d1945.md) (about 1880 - before 1945)
+* Son: [James Hanton](./@71830064@-james-hanton-b1880-d1930.md) (about 1880 - before 1930)
 
 ## Timeline
 

@@ -47,10 +47,10 @@
     {
       "Id": "i67511231",
       "Name": "X",
-      "Gender": "Male",
+      "Gender": "Female",
       "DateOfBirth": "",
       "DateOfDeath": "",
-      "RelationToSubject": "son",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i39286288",
         "i37144832"

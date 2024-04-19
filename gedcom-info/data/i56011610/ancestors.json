@@ -1,10 +1,10 @@
 ﻿{
   "Id": "i56011610",
-  "Name": "Jessie Hanton",
+  "Name": "Jessie Johnston Hanton",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "about 1911",
-  "DateOfDeath": "",
+  "DateOfBirth": "23/Feb/1911",
+  "DateOfDeath": "1981",
   "Parents": [
     {
       "Id": "i47324688",
@@ -40,7 +40,7 @@
       "Gender": "Male",
       "Relationship": "father",
       "DateOfBirth": "about 1880",
-      "DateOfDeath": "before 1945",
+      "DateOfDeath": "before 1930",
       "Parents": [
         {
           "Id": "i62602830",

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i29351958",
+    "Name": "John Ross",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i29351958",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i19882075",
+      "Name": "Ann Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i98280413",
+      "Name": "Catherine Ross",
+      "Gender": "Female",
+      "DateOfBirth": "about 1846",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i29351958",
+        "i19882075"
+      ]
+    }
+  ]
+}

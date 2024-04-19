@@ -26,6 +26,34 @@
   ],
   "Siblings": [
     {
+      "Id": "i11442358",
+      "Name": "Thomas Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "after 1920",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i16587624",
+          "i5045152"
+        ]
+      ]
+    },
+    {
+      "Id": "i53698892",
+      "Name": "William James Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "after 1920",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i16587624",
+          "i5045152"
+        ]
+      ]
+    },
+    {
       "Id": "i52754046",
       "Name": "Kenneth Mackay",
       "Gender": "Male",
@@ -40,6 +68,17 @@
       ]
     }
   ],
-  "Spouses": [],
+  "Spouses": [
+    {
+      "Id": "i99229657",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
   "Children": []
 }

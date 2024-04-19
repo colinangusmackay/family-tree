@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i9365293",
+  "Name": "W. J.  Walker",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i42365832",
+      "Name": "Ollie E Walker",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1872",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

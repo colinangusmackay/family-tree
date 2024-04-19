@@ -1,21 +1,43 @@
 ﻿{
   "Subject": {
     "Id": "i45275253",
-    "Name": "Christina Fraser",
+    "Name": "Christy Fraser",
     "Gender": "Female",
-    "DateOfBirth": "before 1803",
-    "DateOfDeath": ""
+    "DateOfBirth": "about 1787",
+    "DateOfDeath": "13/Jan/1868"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i65905028",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "before 1769",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i90096770",
+      "Name": "Marion Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "before 1769",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i45275253",
-      "Name": "Christina Fraser",
+      "Name": "Christy Fraser",
       "Gender": "Female",
-      "DateOfBirth": "before 1803",
-      "DateOfDeath": "",
+      "DateOfBirth": "about 1787",
+      "DateOfDeath": "13/Jan/1868",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i65905028",
+          "i90096770"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,8 +45,8 @@
       "Id": "i3089092",
       "Name": "Alexander Mackay",
       "Gender": "Male",
-      "DateOfBirth": "before 1803",
-      "DateOfDeath": "",
+      "DateOfBirth": "about 1779",
+      "DateOfDeath": "8/Jan/1868",
       "RelationToSubject": "partner",
       "DateOfMarriage": "",
       "DateOfDivorce": ""
@@ -32,10 +54,22 @@
   ],
   "Children": [
     {
+      "Id": "i10208956",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i3089092",
+        "i45275253"
+      ]
+    },
+    {
       "Id": "i78930004",
       "Name": "Marion Mackay",
       "Gender": "Female",
-      "DateOfBirth": "about 1819",
+      "DateOfBirth": "30/Jun/1821",
       "DateOfDeath": "30/Dec/1909",
       "RelationToSubject": "daughter",
       "ParentIds": [

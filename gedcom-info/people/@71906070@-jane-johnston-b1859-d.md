@@ -15,7 +15,7 @@ permalink: /people/i71906070
 ## Immediate Family
 
 * Partner: [William Hanton](./@62602830@-william-hanton-b1855-d.md) (about 1855 - )
-* Son: [James Hanton](./@71830064@-james-hanton-b1880-d1945.md) (about 1880 - before 1945)
+* Son: [James Hanton](./@71830064@-james-hanton-b1880-d1930.md) (about 1880 - before 1930)
 
 ## Timeline
 

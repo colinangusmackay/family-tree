@@ -14,6 +14,6 @@ permalink: /people/i37144832
 ## Immediate Family
 
 * Partner: [Thomas Fraser](./@39286288@-thomas-fraser-b-d1889.md) ( - before 1889)
-* Son: X
+* Daughter: X
 * Daughter: [Ann Fraser](./@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md) (4/Aug/1864 - 4/May/1891)
 

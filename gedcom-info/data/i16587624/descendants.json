@@ -7,6 +7,24 @@
   "DateOfDeath": "15/May/1970",
   "Children": [
     {
+      "Id": "i11442358",
+      "Name": "Thomas Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "after 1920",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i53698892",
+      "Name": "William James Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "after 1920",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
       "Id": "i52754046",
       "Name": "Kenneth Mackay",
       "Gender": "Male",

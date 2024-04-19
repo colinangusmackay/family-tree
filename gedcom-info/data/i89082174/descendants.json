@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i89082174",
+  "Name": "Adam Lorimer",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "before 1940",
+  "Children": [
+    {
+      "Id": "i37201190",
+      "Name": "Archibald King Lorimer",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1896",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

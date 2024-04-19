@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i77089636",
+    "Name": "Alice Smith",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i77089636",
+      "Name": "Alice Smith",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i91921886",
+      "Name": "Edward McCann",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i69495356",
+      "Name": "Alice McCann",
+      "Gender": "Female",
+      "DateOfBirth": "about 1891",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i91921886",
+        "i77089636"
+      ]
+    }
+  ]
+}

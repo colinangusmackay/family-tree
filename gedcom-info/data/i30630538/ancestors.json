@@ -4,7 +4,7 @@
   "Gender": "Male",
   "Relationship": "Self",
   "DateOfBirth": "about 1907",
-  "DateOfDeath": "",
+  "DateOfDeath": "1975",
   "Parents": [
     {
       "Id": "i47324688",
@@ -40,7 +40,7 @@
       "Gender": "Male",
       "Relationship": "father",
       "DateOfBirth": "about 1880",
-      "DateOfDeath": "before 1945",
+      "DateOfDeath": "before 1930",
       "Parents": [
         {
           "Id": "i62602830",

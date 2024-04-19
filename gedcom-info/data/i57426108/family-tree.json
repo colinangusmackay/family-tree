@@ -4,18 +4,40 @@
     "Name": "Agnes Rennie",
     "Gender": "Female",
     "DateOfBirth": "1878",
-    "DateOfDeath": ""
+    "DateOfDeath": "7/Feb/1961"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i2624560",
+      "Name": "James Fraser Rennie",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1961",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i31266751",
+      "Name": "Helen Fisher",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1961",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i57426108",
       "Name": "Agnes Rennie",
       "Gender": "Female",
       "DateOfBirth": "1878",
-      "DateOfDeath": "",
+      "DateOfDeath": "7/Feb/1961",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i2624560",
+          "i31266751"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -24,7 +46,7 @@
       "Name": "John Fleming",
       "Gender": "Male",
       "DateOfBirth": "11/Mar/1877",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1961",
       "RelationToSubject": "husband",
       "DateOfMarriage": "31/Dec/1901",
       "DateOfDivorce": ""

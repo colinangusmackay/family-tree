@@ -12,7 +12,7 @@ permalink: /people/i46994217
 * Father: [Alexander Napier](./@22451165@-alexander-napier-b1872-11-4-d.md) (4/Nov/1872 - )
 * Mother: [Janet Dalrymple](./@30057967@-janet-dalrymple-b1876-d.md) (about 1876 - )
 * Brother: [John Napier](./@61882948@-john-napier-b1905-d.md) (about 1905 - )
-* Brother: [Alexander Napier](./@80968928@-alexander-napier-b1913-5-2-d1994.md) (2/May/1913 - 1994)
+* Brother: [Alexander Napier](./@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md) (2/May/1913 - 25/Jun/1994)
 
 ## Timeline
 

@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i69495356",
+    "Name": "Alice McCann",
+    "Gender": "Female",
+    "DateOfBirth": "about 1891",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i91921886",
+      "Name": "Edward McCann",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i77089636",
+      "Name": "Alice Smith",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i69495356",
+      "Name": "Alice McCann",
+      "Gender": "Female",
+      "DateOfBirth": "about 1891",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i77089636",
+          "i91921886"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i6737165",
+      "Name": "Donald Sutherland",
+      "Gender": "Male",
+      "DateOfBirth": "8/Feb/1874",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "14/Jun/1950",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

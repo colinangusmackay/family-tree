@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i77089636",
+  "Name": "Alice Smith",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i69495356",
+      "Name": "Alice McCann",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1891",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

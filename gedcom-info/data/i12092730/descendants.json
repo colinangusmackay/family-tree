@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i12092730",
+  "Name": "Mary Ferguson",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "after 1940",
+  "Children": [
+    {
+      "Id": "i37201190",
+      "Name": "Archibald King Lorimer",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1896",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

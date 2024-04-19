@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i40547424",
+    "Name": "John Watson",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1963"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i40547424",
+      "Name": "John Watson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1963",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i8567159",
+      "Name": "Katherine Bode",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1930",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i31857508",
+      "Name": "John Blue Watson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1909",
+      "DateOfDeath": "9/Jun/1963",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i40547424",
+        "i8567159"
+      ]
+    }
+  ]
+}

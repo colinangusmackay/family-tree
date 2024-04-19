@@ -135,7 +135,7 @@ References | 1891 C 669/2/23
 
 * [Elizabeth Fleming](../people/@79236484@-elizabeth-fleming-b1887-4-22-d.md) (22/Apr/1887 - )
 * [Ellen Fleming](../people/@69831456@-ellen-fleming-b1875-7-6-d.md) (6/Jul/1875 - )
-* [John Fleming](../people/@49475976@-john-fleming-b1877-3-11-d.md) (11/Mar/1877 - )
+* [John Fleming](../people/@49475976@-john-fleming-b1877-3-11-d1961.md) (11/Mar/1877 - before 1961)
 * [Joseph Fleming](../people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md) (7/Oct/1851 - 30/Jan/1912)
 * [Lillias Fleming](../people/@39306088@-lillias-fleming-b1889-5-25-d.md) (25/May/1889 - )
 * [Margaret Wood Fleming](../people/@90221940@-margaret-wood-fleming-b1879-3-25-d.md) (25/Mar/1879 - )

@@ -1,0 +1,34 @@
+﻿{
+  "Subject": {
+    "Id": "i33156539",
+    "Name": "Thomas Sunderland",
+    "Gender": "Male",
+    "DateOfBirth": "about 1864",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i33156539",
+      "Name": "Thomas Sunderland",
+      "Gender": "Male",
+      "DateOfBirth": "about 1864",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i75416110",
+      "Name": "Marion Ross",
+      "Gender": "Female",
+      "DateOfBirth": "1/Nov/1866",
+      "DateOfDeath": "19/Aug/1888",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "28/Sep/1887",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

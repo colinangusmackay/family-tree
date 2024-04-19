@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i54273056",
+    "Name": "Mary Houston McAughtrie",
+    "Gender": "Female",
+    "DateOfBirth": "about 1918",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i88003126",
+      "Name": "Isabella McAughtrie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i54273056",
+      "Name": "Mary Houston McAughtrie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1918",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i88003126"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i19187808",
+      "Name": "William Hanton",
+      "Gender": "Male",
+      "DateOfBirth": "about 1904",
+      "DateOfDeath": "1993",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "30/Jul/1935",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

@@ -1,0 +1,59 @@
+﻿{
+  "Subject": {
+    "Id": "i2758880",
+    "Name": "Sandra Sarah Bolger",
+    "Gender": "Female",
+    "DateOfBirth": "30/Aug/1956",
+    "DateOfDeath": "2023"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i2758880",
+      "Name": "Sandra Sarah Bolger",
+      "Gender": "Female",
+      "DateOfBirth": "30/Aug/1956",
+      "DateOfDeath": "2023",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i35875756",
+      "Name": "b Albert Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "1954",
+      "DateOfDeath": "2004",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "1978",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i3147153",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i35875756",
+        "i2758880"
+      ]
+    },
+    {
+      "Id": "i51152276",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i35875756",
+        "i2758880"
+      ]
+    }
+  ]
+}

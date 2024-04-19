@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i2624560",
+    "Name": "James Fraser Rennie",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1961"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i2624560",
+      "Name": "James Fraser Rennie",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1961",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i31266751",
+      "Name": "Helen Fisher",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1961",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i57426108",
+      "Name": "Agnes Rennie",
+      "Gender": "Female",
+      "DateOfBirth": "1878",
+      "DateOfDeath": "7/Feb/1961",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i2624560",
+        "i31266751"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i65905028",
+    "Name": "Thomas Fraser",
+    "Gender": "Male",
+    "DateOfBirth": "before 1769",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i65905028",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "before 1769",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i90096770",
+      "Name": "Marion Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "before 1769",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i45275253",
+      "Name": "Christy Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "about 1787",
+      "DateOfDeath": "13/Jan/1868",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i65905028",
+        "i90096770"
+      ]
+    }
+  ]
+}

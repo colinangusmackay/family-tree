@@ -100,5 +100,5 @@ References | 1911 C 669/2 1/1
 ## Source Referenced by
 
 * [Mary Carlyle](../people/@99996424@-mary-carlyle-b1907-d.md) (1907 - )
-* [John Fleming](../people/@49475976@-john-fleming-b1877-3-11-d.md) (11/Mar/1877 - )
-* [Agnes Rennie](../people/@57426108@-agnes-rennie-b1878-d.md) (1878 - )
+* [John Fleming](../people/@49475976@-john-fleming-b1877-3-11-d1961.md) (11/Mar/1877 - before 1961)
+* [Agnes Rennie](../people/@57426108@-agnes-rennie-b1878-d1961-2-7.md) (1878 - 7/Feb/1961)

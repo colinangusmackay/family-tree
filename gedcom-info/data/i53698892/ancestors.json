@@ -1,0 +1,142 @@
+﻿{
+  "Id": "i53698892",
+  "Name": "William James Mackay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "after 1920",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i5045152",
+      "Name": "Thomas Mackay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1883",
+      "DateOfDeath": "9/Nov/1934",
+      "Parents": [
+        {
+          "Id": "i43646316",
+          "Name": "Kenneth Mackay",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1813",
+          "DateOfDeath": "bet' 1891 and 1901",
+          "Parents": []
+        },
+        {
+          "Id": "i53955929",
+          "Name": "Barbara Mackay",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "about 1854",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i16587624",
+      "Name": "Lucy Mackay",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "23/Sep/1889",
+      "DateOfDeath": "15/May/1970",
+      "Parents": [
+        {
+          "Id": "i32797554",
+          "Name": "Isabella Mackay",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "7/Aug/1860",
+          "DateOfDeath": "after 1923",
+          "Parents": [
+            {
+              "Id": "i20237816",
+              "Name": "Janet Mackay",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i30341840",
+              "Name": "Kenneth Mackay",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i60572122",
+          "Name": "James Mackay",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "12/Apr/1861",
+          "DateOfDeath": "before 1911",
+          "Parents": [
+            {
+              "Id": "i33764614",
+              "Name": "George Mackay",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "bet' 1805 and 1816",
+              "DateOfDeath": "25/Nov/1893",
+              "Parents": [
+                {
+                  "Id": "i66584000",
+                  "Name": "Janet Macrae",
+                  "Gender": "Female",
+                  "Relationship": "mother",
+                  "DateOfBirth": "1781",
+                  "DateOfDeath": "",
+                  "Parents": []
+                },
+                {
+                  "Id": "i69114879",
+                  "Name": "William Mackay",
+                  "Gender": "Male",
+                  "Relationship": "father",
+                  "DateOfBirth": "1781",
+                  "DateOfDeath": "1841",
+                  "Parents": []
+                }
+              ]
+            },
+            {
+              "Id": "i67811996",
+              "Name": "Lucy Matheson",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "bet' 1813 and 1820",
+              "DateOfDeath": "23/Aug/1896",
+              "Parents": [
+                {
+                  "Id": "i61459684",
+                  "Name": "Barbara Mackay",
+                  "Gender": "Female",
+                  "Relationship": "mother",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "before 1896",
+                  "Parents": []
+                },
+                {
+                  "Id": "i28800527",
+                  "Name": "Hector Matheson",
+                  "Gender": "Male",
+                  "Relationship": "father",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "before 1896",
+                  "Parents": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

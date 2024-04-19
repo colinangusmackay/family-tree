@@ -15,6 +15,24 @@
       "DateOfDeath": "15/May/1970",
       "Children": [
         {
+          "Id": "i11442358",
+          "Name": "Thomas Mackay",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "after 1920",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i53698892",
+          "Name": "William James Mackay",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "after 1920",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
           "Id": "i52754046",
           "Name": "Kenneth Mackay",
           "Gender": "Male",
@@ -194,7 +212,7 @@
               "Name": "X",
               "Gender": "Female",
               "Relationship": "daughter",
-              "DateOfBirth": "1963",
+              "DateOfBirth": "28/Mar/1963",
               "DateOfDeath": "",
               "Children": [
                 {
@@ -233,6 +251,15 @@
                   "DateOfBirth": "30/Nov/2020",
                   "DateOfDeath": "",
                   "Children": []
+                },
+                {
+                  "Id": "i75126600",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "20/Jul/2023",
+                  "DateOfDeath": "",
+                  "Children": []
                 }
               ]
             }
@@ -240,7 +267,7 @@
         },
         {
           "Id": "i41265374",
-          "Name": "Anna Jess Mackay",
+          "Name": "Anna Jessie MacKay",
           "Gender": "Female",
           "Relationship": "daughter",
           "DateOfBirth": "7/Jul/1938",

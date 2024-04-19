@@ -4,6 +4,25 @@
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "1878",
-  "DateOfDeath": "",
-  "Parents": []
+  "DateOfDeath": "7/Feb/1961",
+  "Parents": [
+    {
+      "Id": "i31266751",
+      "Name": "Helen Fisher",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1961",
+      "Parents": []
+    },
+    {
+      "Id": "i2624560",
+      "Name": "James Fraser Rennie",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1961",
+      "Parents": []
+    }
+  ]
 }

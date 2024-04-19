@@ -110,6 +110,30 @@
   ],
   "Children": [
     {
+      "Id": "i11442358",
+      "Name": "Thomas Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "after 1920",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i5045152",
+        "i16587624"
+      ]
+    },
+    {
+      "Id": "i53698892",
+      "Name": "William James Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "after 1920",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i5045152",
+        "i16587624"
+      ]
+    },
+    {
       "Id": "i52754046",
       "Name": "Kenneth Mackay",
       "Gender": "Male",

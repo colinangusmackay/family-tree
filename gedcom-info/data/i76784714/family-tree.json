@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i76784714",
+    "Name": "John Ross",
+    "Gender": "Male",
+    "DateOfBirth": "before 1764",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i76784714",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "before 1764",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i16263484",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "before 1764",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i39617772",
+      "Name": "William Ross",
+      "Gender": "Male",
+      "DateOfBirth": "about 1780",
+      "DateOfDeath": "31/Mar/1864",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i76784714",
+        "i16263484"
+      ]
+    }
+  ]
+}

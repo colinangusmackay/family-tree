@@ -132,4 +132,4 @@ References | 1871 C 047/ 1/L 5
 * [Marion Cumming](../people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md) (20/May/1863 - 15/Nov/1954)
 * [William Cumming](../people/@10016098@-william-cumming-b1870-d.md) (about 1870 - )
 * [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1875-10-29.md) (about 1807 - 29/Oct/1875)
-* [Jessie Ross](../people/@60546968@-jessie-ross-b1840~1847-d1918-1-13.md) (bet' 1840 and 1847 - 13/Jan/1918)
+* [Jessie Ross](../people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md) (5/Nov/1840 - 13/Jan/1918)

@@ -1,0 +1,84 @@
+﻿{
+  "Subject": {
+    "Id": "i4496220",
+    "Name": "Donald Ross",
+    "Gender": "Male",
+    "DateOfBirth": "30/Aug/1872",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i17311533",
+      "Name": "Alexander Ross",
+      "Gender": "Male",
+      "DateOfBirth": "about 1843",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i98280413",
+      "Name": "Catherine Ross",
+      "Gender": "Female",
+      "DateOfBirth": "about 1846",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i75416110",
+      "Name": "Marion Ross",
+      "Gender": "Female",
+      "DateOfBirth": "1/Nov/1866",
+      "DateOfDeath": "19/Aug/1888",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i17311533",
+          "i98280413"
+        ]
+      ]
+    },
+    {
+      "Id": "i16505504",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "23/Aug/1868",
+      "DateOfDeath": "20/Nov/1905",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i17311533",
+          "i98280413"
+        ]
+      ]
+    },
+    {
+      "Id": "i4496220",
+      "Name": "Donald Ross",
+      "Gender": "Male",
+      "DateOfBirth": "30/Aug/1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i17311533",
+          "i98280413"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i42365832",
+      "Name": "Ollie E Walker",
+      "Gender": "Female",
+      "DateOfBirth": "about 1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "11/Nov/1903",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

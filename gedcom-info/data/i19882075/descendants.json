@@ -1,0 +1,47 @@
+﻿{
+  "Id": "i19882075",
+  "Name": "Ann Cumming",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i98280413",
+      "Name": "Catherine Ross",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1846",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i75416110",
+          "Name": "Marion Ross",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "1/Nov/1866",
+          "DateOfDeath": "19/Aug/1888",
+          "Children": []
+        },
+        {
+          "Id": "i16505504",
+          "Name": "John Ross",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "23/Aug/1868",
+          "DateOfDeath": "20/Nov/1905",
+          "Children": []
+        },
+        {
+          "Id": "i4496220",
+          "Name": "Donald Ross",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "30/Aug/1872",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

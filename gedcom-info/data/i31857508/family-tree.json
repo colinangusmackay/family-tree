@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i31857508",
+    "Name": "John Blue Watson",
+    "Gender": "Male",
+    "DateOfBirth": "about 1909",
+    "DateOfDeath": "9/Jun/1963"
+  },
+  "Parents": [
+    {
+      "Id": "i40547424",
+      "Name": "John Watson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1963",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i8567159",
+      "Name": "Katherine Bode",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1930",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i31857508",
+      "Name": "John Blue Watson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1909",
+      "DateOfDeath": "9/Jun/1963",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i40547424",
+          "i8567159"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i56011610",
+      "Name": "Jessie Johnston Hanton",
+      "Gender": "Female",
+      "DateOfBirth": "23/Feb/1911",
+      "DateOfDeath": "1981",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "7/Feb/1930",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i10696438",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i31857508",
+        "i56011610"
+      ]
+    }
+  ]
+}

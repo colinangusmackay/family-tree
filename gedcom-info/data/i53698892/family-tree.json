@@ -1,0 +1,84 @@
+﻿{
+  "Subject": {
+    "Id": "i53698892",
+    "Name": "William James Mackay",
+    "Gender": "Male",
+    "DateOfBirth": "after 1920",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i5045152",
+      "Name": "Thomas Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1883",
+      "DateOfDeath": "9/Nov/1934",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i16587624",
+      "Name": "Lucy Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "23/Sep/1889",
+      "DateOfDeath": "15/May/1970",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i11442358",
+      "Name": "Thomas Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "after 1920",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i16587624",
+          "i5045152"
+        ]
+      ]
+    },
+    {
+      "Id": "i53698892",
+      "Name": "William James Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "after 1920",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i16587624",
+          "i5045152"
+        ]
+      ]
+    },
+    {
+      "Id": "i52754046",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "28/Mar/1920",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i16587624",
+          "i5045152"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i7010599",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

@@ -33,4 +33,4 @@ References |
 
 ## Source Referenced by
 
-* [Alexander Napier](../people/@80968928@-alexander-napier-b1913-5-2-d1994.md) (2/May/1913 - 1994)
+* [Alexander Napier](../people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md) (2/May/1913 - 25/Jun/1994)

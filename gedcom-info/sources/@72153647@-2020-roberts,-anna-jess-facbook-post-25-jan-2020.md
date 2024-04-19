@@ -33,4 +33,4 @@ References |
 
 ## Source Referenced by
 
-* [Anna Jess Mackay](../people/@41265374@-anna-jess-mackay-b1938-7-7-d2021-3-12.md) (7/Jul/1938 - 12/Mar/2021)
+* [Anna Jessie MacKay](../people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md) (7/Jul/1938 - 12/Mar/2021)

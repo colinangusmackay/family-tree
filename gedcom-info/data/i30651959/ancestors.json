@@ -3,8 +3,8 @@
   "Name": "John Hanton",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "about 1920",
-  "DateOfDeath": "",
+  "DateOfBirth": "2/Jan/1921",
+  "DateOfDeath": "2009",
   "Parents": [
     {
       "Id": "i47324688",
@@ -40,7 +40,7 @@
       "Gender": "Male",
       "Relationship": "father",
       "DateOfBirth": "about 1880",
-      "DateOfDeath": "before 1945",
+      "DateOfDeath": "before 1930",
       "Parents": [
         {
           "Id": "i62602830",

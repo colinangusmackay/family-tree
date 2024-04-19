@@ -48,4 +48,4 @@ References | 1913 B 426/ 264
 ## Source Referenced by
 
 * [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d.md) (4/Nov/1872 - )
-* [Alexander Napier](../people/@80968928@-alexander-napier-b1913-5-2-d1994.md) (2/May/1913 - 1994)
+* [Alexander Napier](../people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md) (2/May/1913 - 25/Jun/1994)

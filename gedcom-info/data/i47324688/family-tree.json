@@ -46,7 +46,7 @@
       "Name": "James Hanton",
       "Gender": "Male",
       "DateOfBirth": "about 1880",
-      "DateOfDeath": "before 1945",
+      "DateOfDeath": "before 1930",
       "RelationToSubject": "husband",
       "DateOfMarriage": "7/Aug/1901",
       "DateOfDivorce": ""
@@ -58,7 +58,7 @@
       "Name": "Mary Hanton",
       "Gender": "Female",
       "DateOfBirth": "about 1902",
-      "DateOfDeath": "",
+      "DateOfDeath": "1989",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i71830064",
@@ -70,7 +70,7 @@
       "Name": "William Hanton",
       "Gender": "Male",
       "DateOfBirth": "about 1904",
-      "DateOfDeath": "",
+      "DateOfDeath": "1993",
       "RelationToSubject": "son",
       "ParentIds": [
         "i71830064",
@@ -82,7 +82,7 @@
       "Name": "James Hanton",
       "Gender": "Male",
       "DateOfBirth": "about 1907",
-      "DateOfDeath": "",
+      "DateOfDeath": "1975",
       "RelationToSubject": "son",
       "ParentIds": [
         "i71830064",
@@ -94,7 +94,7 @@
       "Name": "Jane Hanton",
       "Gender": "Female",
       "DateOfBirth": "about 1908",
-      "DateOfDeath": "",
+      "DateOfDeath": "3/Sep/1930",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i71830064",
@@ -103,10 +103,10 @@
     },
     {
       "Id": "i56011610",
-      "Name": "Jessie Hanton",
+      "Name": "Jessie Johnston Hanton",
       "Gender": "Female",
-      "DateOfBirth": "about 1911",
-      "DateOfDeath": "",
+      "DateOfBirth": "23/Feb/1911",
+      "DateOfDeath": "1981",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i71830064",
@@ -115,10 +115,10 @@
     },
     {
       "Id": "i53392578",
-      "Name": "Andrew Hanton",
+      "Name": "Andrew Irvine Hanton",
       "Gender": "Male",
       "DateOfBirth": "about 1913",
-      "DateOfDeath": "",
+      "DateOfDeath": "9/Aug/1963",
       "RelationToSubject": "son",
       "ParentIds": [
         "i71830064",
@@ -130,7 +130,7 @@
       "Name": "Marion Hanton",
       "Gender": "Female",
       "DateOfBirth": "about 1916",
-      "DateOfDeath": "",
+      "DateOfDeath": "2014",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i71830064",
@@ -153,8 +153,8 @@
       "Id": "i30651959",
       "Name": "John Hanton",
       "Gender": "Male",
-      "DateOfBirth": "about 1920",
-      "DateOfDeath": "",
+      "DateOfBirth": "2/Jan/1921",
+      "DateOfDeath": "2009",
       "RelationToSubject": "son",
       "ParentIds": [
         "i71830064",

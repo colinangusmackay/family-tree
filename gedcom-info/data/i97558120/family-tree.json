@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i97558120",
+    "Name": "John Mackay",
+    "Gender": "Male",
+    "DateOfBirth": "before 1761",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i97558120",
+      "Name": "John Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "before 1761",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i34312672",
+      "Name": "Janet Ross",
+      "Gender": "Female",
+      "DateOfBirth": "before 1761",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i3089092",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1779",
+      "DateOfDeath": "8/Jan/1868",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i97558120",
+        "i34312672"
+      ]
+    }
+  ]
+}

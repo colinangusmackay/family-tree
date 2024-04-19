@@ -3,7 +3,7 @@
     "Id": "i81387900",
     "Name": "Alexander Ross",
     "Gender": "Male",
-    "DateOfBirth": "about 1814",
+    "DateOfBirth": "about 1816",
     "DateOfDeath": "20/Jan/1896"
   },
   "Parents": [
@@ -11,8 +11,8 @@
       "Id": "i39617772",
       "Name": "William Ross",
       "Gender": "Male",
-      "DateOfBirth": "before 1798",
-      "DateOfDeath": "",
+      "DateOfBirth": "about 1780",
+      "DateOfDeath": "31/Mar/1864",
       "RelationToSubject": "father"
     },
     {
@@ -20,7 +20,7 @@
       "Name": "Janet MacLeod",
       "Gender": "Female",
       "DateOfBirth": "before 1798",
-      "DateOfDeath": "",
+      "DateOfDeath": "after 1864",
       "RelationToSubject": "mother"
     }
   ],
@@ -29,7 +29,7 @@
       "Id": "i81387900",
       "Name": "Alexander Ross",
       "Gender": "Male",
-      "DateOfBirth": "about 1814",
+      "DateOfBirth": "about 1816",
       "DateOfDeath": "20/Jan/1896",
       "RelationToSubject": "self",
       "ParentGroupIds": [
@@ -45,21 +45,141 @@
       "Id": "i78930004",
       "Name": "Marion Mackay",
       "Gender": "Female",
-      "DateOfBirth": "about 1819",
+      "DateOfBirth": "30/Jun/1821",
       "DateOfDeath": "30/Dec/1909",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "7/Feb/1840",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
     {
+      "Id": "i68717952",
+      "Name": "Unknown (boy) Ross",
+      "Gender": "Male",
+      "DateOfBirth": "bet' 1840 and 1855",
+      "DateOfDeath": "bet' 1840 and 1855",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i81387900",
+        "i78930004"
+      ]
+    },
+    {
       "Id": "i60546968",
       "Name": "Jessie Ross",
       "Gender": "Female",
-      "DateOfBirth": "bet' 1840 and 1847",
+      "DateOfBirth": "5/Nov/1840",
       "DateOfDeath": "13/Jan/1918",
       "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i81387900",
+        "i78930004"
+      ]
+    },
+    {
+      "Id": "i17311533",
+      "Name": "Alexander Ross",
+      "Gender": "Male",
+      "DateOfBirth": "about 1843",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i81387900",
+        "i78930004"
+      ]
+    },
+    {
+      "Id": "i81183416",
+      "Name": "Christina Ross",
+      "Gender": "Female",
+      "DateOfBirth": "about 1845",
+      "DateOfDeath": "19/Apr/1916",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i81387900",
+        "i78930004"
+      ]
+    },
+    {
+      "Id": "i5241144",
+      "Name": "Wiliamina Ross",
+      "Gender": "Female",
+      "DateOfBirth": "about 1849",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i81387900",
+        "i78930004"
+      ]
+    },
+    {
+      "Id": "i41391600",
+      "Name": "Kenneth Ross",
+      "Gender": "Male",
+      "DateOfBirth": "1851",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i81387900",
+        "i78930004"
+      ]
+    },
+    {
+      "Id": "i39612984",
+      "Name": "Marion Ross",
+      "Gender": "Female",
+      "DateOfBirth": "about 1853",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i81387900",
+        "i78930004"
+      ]
+    },
+    {
+      "Id": "i36837210",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "14/Dec/1855",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i81387900",
+        "i78930004"
+      ]
+    },
+    {
+      "Id": "i75672326",
+      "Name": "Hugh Ross",
+      "Gender": "Male",
+      "DateOfBirth": "11/Oct/1858",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i81387900",
+        "i78930004"
+      ]
+    },
+    {
+      "Id": "i32419757",
+      "Name": "Ann Ross",
+      "Gender": "Male",
+      "DateOfBirth": "17/Jun/1860",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i81387900",
+        "i78930004"
+      ]
+    },
+    {
+      "Id": "i82167024",
+      "Name": "Barbara Ross",
+      "Gender": "Male",
+      "DateOfBirth": "28/Feb/1862",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
       "ParentIds": [
         "i81387900",
         "i78930004"

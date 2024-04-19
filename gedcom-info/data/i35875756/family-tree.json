@@ -1,7 +1,7 @@
 ﻿{
   "Subject": {
     "Id": "i35875756",
-    "Name": "John Albert Mathews",
+    "Name": "b Albert Mathews",
     "Gender": "Male",
     "DateOfBirth": "1954",
     "DateOfDeath": "2004"
@@ -27,7 +27,7 @@
   "Siblings": [
     {
       "Id": "i35875756",
-      "Name": "John Albert Mathews",
+      "Name": "b Albert Mathews",
       "Gender": "Male",
       "DateOfBirth": "1954",
       "DateOfDeath": "2004",
@@ -71,10 +71,10 @@
   "Spouses": [
     {
       "Id": "i2758880",
-      "Name": "X",
+      "Name": "Sandra Sarah Bolger",
       "Gender": "Female",
       "DateOfBirth": "30/Aug/1956",
-      "DateOfDeath": "",
+      "DateOfDeath": "2023",
       "RelationToSubject": "wife",
       "DateOfMarriage": "1978",
       "DateOfDivorce": ""

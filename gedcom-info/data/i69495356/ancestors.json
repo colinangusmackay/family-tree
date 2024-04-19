@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i69495356",
+  "Name": "Alice McCann",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1891",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i77089636",
+      "Name": "Alice Smith",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i91921886",
+      "Name": "Edward McCann",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

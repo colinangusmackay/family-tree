@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i31857508",
+  "Name": "John Blue Watson",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1909",
+  "DateOfDeath": "9/Jun/1963",
+  "Parents": [
+    {
+      "Id": "i40547424",
+      "Name": "John Watson",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1963",
+      "Parents": []
+    },
+    {
+      "Id": "i8567159",
+      "Name": "Katherine Bode",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1930",
+      "Parents": []
+    }
+  ]
+}

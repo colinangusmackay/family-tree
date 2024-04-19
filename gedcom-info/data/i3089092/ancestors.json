@@ -3,7 +3,26 @@
   "Name": "Alexander Mackay",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "before 1803",
-  "DateOfDeath": "",
-  "Parents": []
+  "DateOfBirth": "about 1779",
+  "DateOfDeath": "8/Jan/1868",
+  "Parents": [
+    {
+      "Id": "i34312672",
+      "Name": "Janet Ross",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "before 1761",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i97558120",
+      "Name": "John Mackay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "before 1761",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

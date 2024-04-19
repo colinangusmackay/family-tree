@@ -19,7 +19,7 @@ permalink: /people/i30057967
 * Husband: [Alexander Napier](./@22451165@-alexander-napier-b1872-11-4-d.md) (4/Nov/1872 - )
 * Son: [David Napier](./@46994217@-david-napier-b1901-d.md) (about 1901 - )
 * Son: [John Napier](./@61882948@-john-napier-b1905-d.md) (about 1905 - )
-* Son: [Alexander Napier](./@80968928@-alexander-napier-b1913-5-2-d1994.md) (2/May/1913 - 1994)
+* Son: [Alexander Napier](./@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md) (2/May/1913 - 25/Jun/1994)
 
 ## Timeline
 

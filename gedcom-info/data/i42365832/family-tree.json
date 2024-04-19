@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i42365832",
+    "Name": "Ollie E Walker",
+    "Gender": "Female",
+    "DateOfBirth": "about 1872",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i9365293",
+      "Name": "W. J.  Walker",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i23067936",
+      "Name": "Mary Vanevery",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i42365832",
+      "Name": "Ollie E Walker",
+      "Gender": "Female",
+      "DateOfBirth": "about 1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i23067936",
+          "i9365293"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i4496220",
+      "Name": "Donald Ross",
+      "Gender": "Male",
+      "DateOfBirth": "30/Aug/1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "11/Nov/1903",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

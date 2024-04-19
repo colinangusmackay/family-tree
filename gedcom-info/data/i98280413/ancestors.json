@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i98280413",
+  "Name": "Catherine Ross",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1846",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i19882075",
+      "Name": "Ann Cumming",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i29351958",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i6737165",
+  "Name": "Donald Sutherland",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "8/Feb/1874",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i91612548",
+      "Name": "Andrew Sutherland",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1900",
+      "Parents": []
+    },
+    {
+      "Id": "i10426344",
+      "Name": "Mary MacDonald",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1900",
+      "Parents": []
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+﻿{
+  "Subject": {
+    "Id": "i41391600",
+    "Name": "Kenneth Ross",
+    "Gender": "Male",
+    "DateOfBirth": "1851",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i81387900",
+      "Name": "Alexander Ross",
+      "Gender": "Male",
+      "DateOfBirth": "about 1816",
+      "DateOfDeath": "20/Jan/1896",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i78930004",
+      "Name": "Marion Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "30/Jun/1821",
+      "DateOfDeath": "30/Dec/1909",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i68717952",
+      "Name": "Unknown (boy) Ross",
+      "Gender": "Male",
+      "DateOfBirth": "bet' 1840 and 1855",
+      "DateOfDeath": "bet' 1840 and 1855",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i78930004",
+          "i81387900"
+        ]
+      ]
+    },
+    {
+      "Id": "i60546968",
+      "Name": "Jessie Ross",
+      "Gender": "Female",
+      "DateOfBirth": "5/Nov/1840",
+      "DateOfDeath": "13/Jan/1918",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i78930004",
+          "i81387900"
+        ]
+      ]
+    },
+    {
+      "Id": "i17311533",
+      "Name": "Alexander Ross",
+      "Gender": "Male",
+      "DateOfBirth": "about 1843",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i78930004",
+          "i81387900"
+        ]
+      ]
+    },
+    {
+      "Id": "i81183416",
+      "Name": "Christina Ross",
+      "Gender": "Female",
+      "DateOfBirth": "about 1845",
+      "DateOfDeath": "19/Apr/1916",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i78930004",
+          "i81387900"
+        ]
+      ]
+    },
+    {
+      "Id": "i5241144",
+      "Name": "Wiliamina Ross",
+      "Gender": "Female",
+      "DateOfBirth": "about 1849",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i78930004",
+          "i81387900"
+        ]
+      ]
+    },
+    {
+      "Id": "i41391600",
+      "Name": "Kenneth Ross",
+      "Gender": "Male",
+      "DateOfBirth": "1851",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i78930004",
+          "i81387900"
+        ]
+      ]
+    },
+    {
+      "Id": "i39612984",
+      "Name": "Marion Ross",
+      "Gender": "Female",
+      "DateOfBirth": "about 1853",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i78930004",
+          "i81387900"
+        ]
+      ]
+    },
+    {
+      "Id": "i36837210",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "14/Dec/1855",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i78930004",
+          "i81387900"
+        ]
+      ]
+    },
+    {
+      "Id": "i75672326",
+      "Name": "Hugh Ross",
+      "Gender": "Male",
+      "DateOfBirth": "11/Oct/1858",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i78930004",
+          "i81387900"
+        ]
+      ]
+    },
+    {
+      "Id": "i32419757",
+      "Name": "Ann Ross",
+      "Gender": "Male",
+      "DateOfBirth": "17/Jun/1860",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i78930004",
+          "i81387900"
+        ]
+      ]
+    },
+    {
+      "Id": "i82167024",
+      "Name": "Barbara Ross",
+      "Gender": "Male",
+      "DateOfBirth": "28/Feb/1862",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i78930004",
+          "i81387900"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i67511231",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "9/Oct/1877",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

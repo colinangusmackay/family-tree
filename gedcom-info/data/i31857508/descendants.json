@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i31857508",
+  "Name": "John Blue Watson",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1909",
+  "DateOfDeath": "9/Jun/1963",
+  "Children": [
+    {
+      "Id": "i10696438",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

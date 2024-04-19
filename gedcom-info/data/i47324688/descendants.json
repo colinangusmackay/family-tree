@@ -12,7 +12,7 @@
       "Gender": "Female",
       "Relationship": "daughter",
       "DateOfBirth": "about 1902",
-      "DateOfDeath": "",
+      "DateOfDeath": "1989",
       "Children": []
     },
     {
@@ -21,7 +21,7 @@
       "Gender": "Male",
       "Relationship": "son",
       "DateOfBirth": "about 1904",
-      "DateOfDeath": "",
+      "DateOfDeath": "1993",
       "Children": []
     },
     {
@@ -30,7 +30,7 @@
       "Gender": "Male",
       "Relationship": "son",
       "DateOfBirth": "about 1907",
-      "DateOfDeath": "",
+      "DateOfDeath": "1975",
       "Children": []
     },
     {
@@ -39,25 +39,35 @@
       "Gender": "Female",
       "Relationship": "daughter",
       "DateOfBirth": "about 1908",
-      "DateOfDeath": "",
+      "DateOfDeath": "3/Sep/1930",
       "Children": []
     },
     {
       "Id": "i56011610",
-      "Name": "Jessie Hanton",
+      "Name": "Jessie Johnston Hanton",
       "Gender": "Female",
       "Relationship": "daughter",
-      "DateOfBirth": "about 1911",
-      "DateOfDeath": "",
-      "Children": []
+      "DateOfBirth": "23/Feb/1911",
+      "DateOfDeath": "1981",
+      "Children": [
+        {
+          "Id": "i10696438",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
     },
     {
       "Id": "i53392578",
-      "Name": "Andrew Hanton",
+      "Name": "Andrew Irvine Hanton",
       "Gender": "Male",
       "Relationship": "son",
       "DateOfBirth": "about 1913",
-      "DateOfDeath": "",
+      "DateOfDeath": "9/Aug/1963",
       "Children": []
     },
     {
@@ -66,7 +76,7 @@
       "Gender": "Female",
       "Relationship": "daughter",
       "DateOfBirth": "about 1916",
-      "DateOfDeath": "",
+      "DateOfDeath": "2014",
       "Children": []
     },
     {
@@ -77,6 +87,24 @@
       "DateOfBirth": "12/Feb/1919",
       "DateOfDeath": "2000",
       "Children": [
+        {
+          "Id": "i84456725",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i25388971",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Children": []
+        },
         {
           "Id": "i71183078",
           "Name": "X",
@@ -101,6 +129,15 @@
                   "DateOfBirth": "3/Aug/2021",
                   "DateOfDeath": "",
                   "Children": []
+                },
+                {
+                  "Id": "i18977831",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "21/Sep/2023",
+                  "DateOfDeath": "",
+                  "Children": []
                 }
               ]
             }
@@ -113,8 +150,8 @@
       "Name": "John Hanton",
       "Gender": "Male",
       "Relationship": "son",
-      "DateOfBirth": "about 1920",
-      "DateOfDeath": "",
+      "DateOfBirth": "2/Jan/1921",
+      "DateOfDeath": "2009",
       "Children": []
     }
   ]

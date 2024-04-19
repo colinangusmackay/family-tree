@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i54273056",
+  "Name": "Mary Houston McAughtrie",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1918",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i88003126",
+      "Name": "Isabella McAughtrie",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

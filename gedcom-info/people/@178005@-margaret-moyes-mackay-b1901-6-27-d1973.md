@@ -180,9 +180,10 @@ Date | Occupation | Sources & Notes
 
 ### 12
 
-**1973 FRASER, MARGARET MOYES (Index of Register of Deaths)**
+**1973 FRASER, MARGARET MOYES (Statutory Register of Deaths 182/ 22)**
 
-* [Full text and notes](../sources/@95947862@-1973-fraser,-margaret-moyes-index-of-register-of-deaths-.md)
+* [Full text and notes](../sources/@95947862@-1973-fraser,-margaret-moyes-statutory-register-of-deaths-182-22-.md)
+* Date: 28/Aug/1973
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1973 M 182/22

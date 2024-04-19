@@ -11,7 +11,7 @@
       "Name": "X",
       "Gender": "Female",
       "Relationship": "daughter",
-      "DateOfBirth": "1963",
+      "DateOfBirth": "28/Mar/1963",
       "DateOfDeath": "",
       "Children": [
         {
@@ -48,6 +48,15 @@
           "Gender": "Male",
           "Relationship": "son",
           "DateOfBirth": "30/Nov/2020",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i75126600",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "20/Jul/2023",
           "DateOfDeath": "",
           "Children": []
         }

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i9365293",
+    "Name": "W. J.  Walker",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i9365293",
+      "Name": "W. J.  Walker",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i23067936",
+      "Name": "Mary Vanevery",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i42365832",
+      "Name": "Ollie E Walker",
+      "Gender": "Female",
+      "DateOfBirth": "about 1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i9365293",
+        "i23067936"
+      ]
+    }
+  ]
+}

@@ -25,6 +25,7 @@ Date | Item | Description | Sources | Notes
 Date | Residence | Sources & Notes
 ---|---|---
 1920 | Archwood Cottage, Johnstonebridge, Dumfriesshire, Scotland | [4](#4)
+1921 | Bridgemuir, The Parks Cottage, Lochmaben, Dumfriesshire, Scotland | [5](#5)
 
 ## Known Occupations
 
@@ -32,6 +33,7 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1918 | Ploughman | [2](#2)
 1920 | Cattleman | [4](#4)
+1921 | Shepherd | [5](#5)
 
 ## Notes
 
@@ -84,4 +86,14 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1920 B 832/2
+
+### 5
+
+**1921 CAMPBELL, WILLIAM A & HOUSEHOLD (Census 840/ 4/ 2)**
+
+* [Full text and notes](../sources/@26564627@-1921-campbell,-william-a-&-household-census-840-4-2-.md)
+* Date: 19/Jun/1921
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1921 C 840/ 4/ 2
 

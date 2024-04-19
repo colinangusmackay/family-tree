@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i10426344",
+    "Name": "Mary MacDonald",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "after 1900"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i10426344",
+      "Name": "Mary MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1900",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i91612548",
+      "Name": "Andrew Sutherland",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1900",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "Feb/1873",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i6737165",
+      "Name": "Donald Sutherland",
+      "Gender": "Male",
+      "DateOfBirth": "8/Feb/1874",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i91612548",
+        "i10426344"
+      ]
+    }
+  ]
+}

@@ -121,7 +121,7 @@
               "Name": "Jessie Ross",
               "Gender": "Female",
               "Relationship": "mother",
-              "DateOfBirth": "bet' 1840 and 1847",
+              "DateOfBirth": "5/Nov/1840",
               "DateOfDeath": "13/Jan/1918",
               "Parents": [
                 {
@@ -129,25 +129,44 @@
                   "Name": "Alexander Ross",
                   "Gender": "Male",
                   "Relationship": "father",
-                  "DateOfBirth": "about 1814",
+                  "DateOfBirth": "about 1816",
                   "DateOfDeath": "20/Jan/1896",
                   "Parents": [
+                    {
+                      "Id": "i39617772",
+                      "Name": "William Ross",
+                      "Gender": "Male",
+                      "Relationship": "father",
+                      "DateOfBirth": "about 1780",
+                      "DateOfDeath": "31/Mar/1864",
+                      "Parents": [
+                        {
+                          "Id": "i16263484",
+                          "Name": "Isabella Mackay",
+                          "Gender": "Female",
+                          "Relationship": "mother",
+                          "DateOfBirth": "before 1764",
+                          "DateOfDeath": "",
+                          "Parents": []
+                        },
+                        {
+                          "Id": "i76784714",
+                          "Name": "John Ross",
+                          "Gender": "Male",
+                          "Relationship": "father",
+                          "DateOfBirth": "before 1764",
+                          "DateOfDeath": "",
+                          "Parents": []
+                        }
+                      ]
+                    },
                     {
                       "Id": "i14483646",
                       "Name": "Janet MacLeod",
                       "Gender": "Female",
                       "Relationship": "mother",
                       "DateOfBirth": "before 1798",
-                      "DateOfDeath": "",
-                      "Parents": []
-                    },
-                    {
-                      "Id": "i39617772",
-                      "Name": "William Ross",
-                      "Gender": "Male",
-                      "Relationship": "father",
-                      "DateOfBirth": "before 1798",
-                      "DateOfDeath": "",
+                      "DateOfDeath": "after 1864",
                       "Parents": []
                     }
                   ]
@@ -157,7 +176,7 @@
                   "Name": "Marion Mackay",
                   "Gender": "Female",
                   "Relationship": "mother",
-                  "DateOfBirth": "about 1819",
+                  "DateOfBirth": "30/Jun/1821",
                   "DateOfDeath": "30/Dec/1909",
                   "Parents": [
                     {
@@ -165,18 +184,56 @@
                       "Name": "Alexander Mackay",
                       "Gender": "Male",
                       "Relationship": "father",
-                      "DateOfBirth": "before 1803",
-                      "DateOfDeath": "",
-                      "Parents": []
+                      "DateOfBirth": "about 1779",
+                      "DateOfDeath": "8/Jan/1868",
+                      "Parents": [
+                        {
+                          "Id": "i34312672",
+                          "Name": "Janet Ross",
+                          "Gender": "Female",
+                          "Relationship": "mother",
+                          "DateOfBirth": "before 1761",
+                          "DateOfDeath": "",
+                          "Parents": []
+                        },
+                        {
+                          "Id": "i97558120",
+                          "Name": "John Mackay",
+                          "Gender": "Male",
+                          "Relationship": "father",
+                          "DateOfBirth": "before 1761",
+                          "DateOfDeath": "",
+                          "Parents": []
+                        }
+                      ]
                     },
                     {
                       "Id": "i45275253",
-                      "Name": "Christina Fraser",
+                      "Name": "Christy Fraser",
                       "Gender": "Female",
                       "Relationship": "mother",
-                      "DateOfBirth": "before 1803",
-                      "DateOfDeath": "",
-                      "Parents": []
+                      "DateOfBirth": "about 1787",
+                      "DateOfDeath": "13/Jan/1868",
+                      "Parents": [
+                        {
+                          "Id": "i90096770",
+                          "Name": "Marion Mackay",
+                          "Gender": "Female",
+                          "Relationship": "mother",
+                          "DateOfBirth": "before 1769",
+                          "DateOfDeath": "",
+                          "Parents": []
+                        },
+                        {
+                          "Id": "i65905028",
+                          "Name": "Thomas Fraser",
+                          "Gender": "Male",
+                          "Relationship": "father",
+                          "DateOfBirth": "before 1769",
+                          "DateOfDeath": "",
+                          "Parents": []
+                        }
+                      ]
                     }
                   ]
                 }

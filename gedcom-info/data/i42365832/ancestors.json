@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i42365832",
+  "Name": "Ollie E Walker",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1872",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i23067936",
+      "Name": "Mary Vanevery",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i9365293",
+      "Name": "W. J.  Walker",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

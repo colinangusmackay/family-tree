@@ -1,0 +1,46 @@
+﻿{
+  "Subject": {
+    "Id": "i88003126",
+    "Name": "Isabella McAughtrie",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i88003126",
+      "Name": "Isabella McAughtrie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i78036794",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i54273056",
+      "Name": "Mary Houston McAughtrie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1918",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i88003126"
+      ]
+    }
+  ]
+}

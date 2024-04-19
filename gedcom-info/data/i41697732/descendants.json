@@ -83,8 +83,26 @@
           "Gender": "Male",
           "Relationship": "son",
           "DateOfBirth": "2/May/1913",
-          "DateOfDeath": "1994",
+          "DateOfDeath": "25/Jun/1994",
           "Children": [
+            {
+              "Id": "i84456725",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i25388971",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            },
             {
               "Id": "i71183078",
               "Name": "X",
@@ -107,6 +125,15 @@
                       "Gender": "Male",
                       "Relationship": "son",
                       "DateOfBirth": "3/Aug/2021",
+                      "DateOfDeath": "",
+                      "Children": []
+                    },
+                    {
+                      "Id": "i18977831",
+                      "Name": "X",
+                      "Gender": "Female",
+                      "Relationship": "daughter",
+                      "DateOfBirth": "21/Sep/2023",
                       "DateOfDeath": "",
                       "Children": []
                     }
