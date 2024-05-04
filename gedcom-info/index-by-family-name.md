@@ -153,6 +153,10 @@ permalink: /indexes/by-family-name
 
 - **[Ann Davies](people/@759904@-ann-davies-b-d1875.md)** ( - before 1875)
 
+## Dickson
+
+- **[Catherine Dickson](people/@82920396@-catherine-dickson-b-d1944.md)** ( - before 1944)
+
 ## Docherty
 
 - **[Catherine Docherty](people/@61251200@-catherine-docherty-b-d1889.md)** ( - before 1889)
@@ -244,7 +248,9 @@ permalink: /indexes/by-family-name
 ## Gibson
 
 - **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
-- **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939)
+- **[Alexander Gibson](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939)
+- **[Hugh Gibson](people/@22004930@-hugh-gibson-b-d.md)**
+- **[Norman Gibson](people/@86606770@-norman-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024)
 
 ## Gillie
 
@@ -283,16 +289,16 @@ permalink: /indexes/by-family-name
 
 ## Hanton
 
-- **[Andrew Irvine Hanton](people/@53392578@-andrew-irvine-hanton-b1913-d1963-8-9.md)** (about 1913 - 9/Aug/1963)
-- **[James Hanton](people/@71830064@-james-hanton-b1880-d1930.md)** (about 1880 - before 1930)
+- **[Andrew Irvine Hanton](people/@53392578@-andrew-irvine-hanton-b1913-5-19-d1963-8-9.md)** (19/May/1913 - 9/Aug/1963)
+- **[James Hanton](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922)
 - **[James Hanton](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975)
 - **[Jane Hanton](people/@65592941@-jane-hanton-b1908-d1930-9-3.md)** (about 1908 - 3/Sep/1930)
-- **[Jessie Johnston Hanton](people/@56011610@-jessie-johnston-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981)
+- **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981)
 - **[John Hanton](people/@30651959@-john-hanton-b1921-1-2-d2009.md)** (2/Jan/1921 - 2009)
 - **[Johnina Hanton](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000)
 - **[Marion Hanton](people/@27083581@-marion-hanton-b1916-d2014.md)** (about 1916 - 2014)
 - **[Mary Hanton](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989)
-- **[William Hanton](people/@62602830@-william-hanton-b1855-d.md)** (about 1855 - )
+- **[William Hanton](people/@62602830@-william-hanton-b1855-d1922.md)** (about 1855 - before 1922)
 - **[William Hanton](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993)
 
 ## Hatelie
@@ -344,7 +350,7 @@ permalink: /indexes/by-family-name
 
 ## Johnston
 
-- **[Jane Johnston](people/@71906070@-jane-johnston-b1859-d.md)** (about 1859 - )
+- **[Jane Johnston](people/@71906070@-jane-johnston-b1859-d1922.md)** (about 1859 - before 1922)
 
 ## LaFavre
 
@@ -384,6 +390,7 @@ permalink: /indexes/by-family-name
 - **[James MacDonald](people/@74881641@-james-macdonald-b1842-d1880-1-14.md)** (about 1842 - 14/Jan/1880)
 - **[Jessie MacDonald](people/@97412403@-jessie-macdonald-b1869-7-7-d1941-2-12.md)** (7/Jul/1869 - 12/Feb/1941)
 - **[Kate MacDonald](people/@28255030@-kate-macdonald-b1807-d1875-10-29.md)** (about 1807 - 29/Oct/1875)
+- **[Margaret MacDonald](people/@5053655@-margaret-macdonald-b-d.md)**
 - **[Mary MacDonald](people/@10426344@-mary-macdonald-b-d1900.md)** ( - after 1900)
 - **[William MacDonald](people/@76505641@-william-macdonald-b1865-1-9-d1898-5-12.md)** (9/Jan/1865 - 12/May/1898)
 
@@ -552,7 +559,7 @@ permalink: /indexes/by-family-name
 
 ## McKechnie
 
-- **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d.md)** (about 1879 - )
+- **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949)
 - **[William McKechnie](people/@95027126@-william-mckechnie-b-d.md)**
 
 ## McKenzie
@@ -584,6 +591,7 @@ permalink: /indexes/by-family-name
 - **[Christy McLean](people/@62955988@-christy-mclean-b1846-d.md)** (about 1846 - )
 - **[Harvey McLean](people/@70471714@-harvey-mclean-b-d.md)**
 - **[John McLean](people/@91397610@-john-mclean-b-d1877.md)** ( - after 1877)
+- **[Mary Ann McLean](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - )
 - **[Mary McLean](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - )
 
 ## McLeod
@@ -663,6 +671,7 @@ permalink: /indexes/by-family-name
 
 - **[Agnes Nicholson](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - )
 - **[James Nicholson](people/@30814449@-james-nicholson-b-d.md)**
+- **[Margaret Nicholson](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - )
 
 ## O'Donnell
 
@@ -807,7 +816,8 @@ permalink: /indexes/by-family-name
 ## Russell
 
 - **[Agnes Russell](people/@37924612@-agnes-russell-b-d.md)**
-- **[Martha Russell](people/@30062456@-martha-russell-b-d1963.md)** ( - before 1963)
+- **[Alexander McGregor Russell](people/@72370350@-alexander-mcgregor-russell-b-d.md)**
+- **[Martha Russell](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963)
 
 ## Seaton
 
@@ -928,12 +938,21 @@ permalink: /indexes/by-family-name
 
 ## Wilson
 
+- **[Alice Wilson](people/@71120788@-alice-wilson-b1875-d.md)** (about 1875 - )
+- **[Annie Wilson](people/@8935795@-annie-wilson-b1869-d.md)** (about 1869 - )
 - **[Clarence Wilson](people/@11868717@-clarence-wilson-b-d.md)**
-- **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)**
+- **[David Wilson](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - )
+- **[David Wilson](people/@97100177@-david-wilson-b1880-d.md)** (about 1880 - )
+- **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b1872-10-31-d.md)** (31/Oct/1872 - )
 - **[Ella R Wilson](people/@43820265@-ella-r-wilson-b1900-d.md)** (about 1900 - )
 - **[Frieda Belle Wilson](people/@66883950@-frieda-belle-wilson-b1908-1-10-d1995-1-4.md)** (10/Jan/1908 - 4/Jan/1995)
+- **[Henrietta Wilson](people/@47880504@-henrietta-wilson-b1868-d.md)** (about 1868 - )
 - **[Henry Wilson](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - )
+- **[James Wilson](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - )
+- **[James Wilson](people/@59901376@-james-wilson-b1870-d.md)** (about 1870 - )
+- **[Margaret Wilson](people/@63936152@-margaret-wilson-b1837-d.md)** (about 1837 - )
 - **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971)
+- **[Mary Wilson](people/@23013592@-mary-wilson-b1872-d.md)** (about 1872 - )
 - **[Stella K Wilson](people/@26878767@-stella-k-wilson-b1902-d.md)** (about 1902 - )
 
 ## Wood

@@ -3,19 +3,41 @@
     "Id": "i30062456",
     "Name": "Martha Russell",
     "Gender": "Female",
-    "DateOfBirth": "",
+    "DateOfBirth": "about 1916",
     "DateOfDeath": "before 1963"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i72370350",
+      "Name": "Alexander McGregor Russell",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i82920396",
+      "Name": "Catherine Dickson",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1944",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i30062456",
       "Name": "Martha Russell",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1916",
       "DateOfDeath": "before 1963",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i72370350",
+          "i82920396"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,10 +45,10 @@
       "Id": "i53392578",
       "Name": "Andrew Irvine Hanton",
       "Gender": "Male",
-      "DateOfBirth": "about 1913",
+      "DateOfBirth": "19/May/1913",
       "DateOfDeath": "9/Aug/1963",
       "RelationToSubject": "husband",
-      "DateOfMarriage": "",
+      "DateOfMarriage": "18/Aug/1944",
       "DateOfDivorce": ""
     }
   ],

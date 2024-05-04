@@ -4,7 +4,7 @@
     "Name": "Jane Johnston",
     "Gender": "Female",
     "DateOfBirth": "about 1859",
-    "DateOfDeath": ""
+    "DateOfDeath": "before 1922"
   },
   "Parents": [],
   "Siblings": [
@@ -13,7 +13,7 @@
       "Name": "Jane Johnston",
       "Gender": "Female",
       "DateOfBirth": "about 1859",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1922",
       "RelationToSubject": "self",
       "ParentGroupIds": []
     }
@@ -24,7 +24,7 @@
       "Name": "William Hanton",
       "Gender": "Male",
       "DateOfBirth": "about 1855",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1922",
       "RelationToSubject": "partner",
       "DateOfMarriage": "",
       "DateOfDivorce": ""
@@ -36,7 +36,7 @@
       "Name": "James Hanton",
       "Gender": "Male",
       "DateOfBirth": "about 1880",
-      "DateOfDeath": "before 1930",
+      "DateOfDeath": "20/Apr/1922",
       "RelationToSubject": "son",
       "ParentIds": [
         "i62602830",

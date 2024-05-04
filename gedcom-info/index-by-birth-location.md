@@ -43,6 +43,7 @@ permalink: /indexes/by-birth-location
 - **[Currie, Helen](people/@14506844@-helen-currie-b-d1880.md)** ( - before 1880)
 - **[Dalrymple, John](people/@90699645@-john-dalrymple-b-d.md)**
 - **[Davies, Ann](people/@759904@-ann-davies-b-d1875.md)** ( - before 1875)
+- **[Dickson, Catherine](people/@82920396@-catherine-dickson-b-d1944.md)** ( - before 1944)
 - **[Docherty, Catherine](people/@61251200@-catherine-docherty-b-d1889.md)** ( - before 1889)
 - **[Falloon, William John](people/@14463787@-william-john-falloon-b-d.md)**
 - **[Farnham, Mae](people/@53003230@-mae-farnham-b1872-d.md)** (about 1872 - )
@@ -59,7 +60,9 @@ permalink: /indexes/by-birth-location
 - **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889)
 - **[Fraser, Thomas](people/@65905028@-thomas-fraser-b1769-d.md)** (before 1769 - )
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
-- **[Gibson, Alexander](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939)
+- **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939)
+- **[Gibson, Hugh](people/@22004930@-hugh-gibson-b-d.md)**
+- **[Gibson, Norman](people/@86606770@-norman-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024)
 - **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
 - **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
 - **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901)
@@ -112,6 +115,7 @@ permalink: /indexes/by-birth-location
 - **[MacDonald, James](people/@74881641@-james-macdonald-b1842-d1880-1-14.md)** (about 1842 - 14/Jan/1880)
 - **[MacDonald, Jessie](people/@97412403@-jessie-macdonald-b1869-7-7-d1941-2-12.md)** (7/Jul/1869 - 12/Feb/1941)
 - **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d1875-10-29.md)** (about 1807 - 29/Oct/1875)
+- **[MacDonald, Margaret](people/@5053655@-margaret-macdonald-b-d.md)**
 - **[MacDonald, Mary](people/@10426344@-mary-macdonald-b-d1900.md)** ( - after 1900)
 - **[Mackay, Alexander](people/@56321492@-alexander-mackay-b-d.md)**
 - **[Mackay, Alexander](people/@60647890@-alexander-mackay-b-d.md)**
@@ -187,7 +191,7 @@ permalink: /indexes/by-birth-location
 - **[McIver, Rodrick](people/@53638178@-rodrick-mciver-b-d.md)**
 - **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
 - **[McKay, John](people/@25989156@-john-mckay-b-d1855.md)** ( - before 1855)
-- **[McKechnie, Janet](people/@47324688@-janet-mckechnie-b1879-d.md)** (about 1879 - )
+- **[McKechnie, Janet](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949)
 - **[McKechnie, William](people/@95027126@-william-mckechnie-b-d.md)**
 - **[McKenzie, Murdoch](people/@1568232@-murdoch-mckenzie-b-d.md)**
 - **[McKnight, Lizzie](people/@31828723@-lizzie-mcknight-b1891-d.md)** (about 1891 - )
@@ -213,6 +217,7 @@ permalink: /indexes/by-birth-location
 - **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
 - **[Napier, David](people/@71012752@-david-napier-b-d.md)**
 - **[Nicholson, James](people/@30814449@-james-nicholson-b-d.md)**
+- **[Nicholson, Margaret](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - )
 - **[O'Donnell, Edward](people/@4921696@-edward-o'donnell-b-d1884.md)** ( - before 1884)
 - **[O'Malley, Catherine](people/@76642956@-catherine-o'malley-b-d.md)**
 - **[O'Malley, John](people/@50797152@-john-o'malley-b-d1889.md)** ( - before 1889)
@@ -259,7 +264,8 @@ permalink: /indexes/by-birth-location
 - **[Ross, William](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864)
 - **[Ross, William](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
 - **[Russell, Agnes](people/@37924612@-agnes-russell-b-d.md)**
-- **[Russell, Martha](people/@30062456@-martha-russell-b-d1963.md)** ( - before 1963)
+- **[Russell, Alexander McGregor](people/@72370350@-alexander-mcgregor-russell-b-d.md)**
+- **[Russell, Martha](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963)
 - **[Sherwood, Clara](people/@79435398@-clara-sherwood-b-d.md)**
 - **[Smith, Alice](people/@77089636@-alice-smith-b-d.md)**
 - **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
@@ -290,9 +296,10 @@ permalink: /indexes/by-birth-location
 - **[Watt, Agnes](people/@64447674@-agnes-watt-b-d.md)**
 - **[Williamson, William](people/@67023796@-william-williamson-b-d.md)**
 - **[Wilson, Clarence](people/@11868717@-clarence-wilson-b-d.md)**
-- **[Wilson, Elizabeth](people/@71295041@-elizabeth-wilson-b-d.md)**
 - **[Wilson, Ella R](people/@43820265@-ella-r-wilson-b1900-d.md)** (about 1900 - )
 - **[Wilson, Henry](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - )
+- **[Wilson, James](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - )
+- **[Wilson, Margaret](people/@63936152@-margaret-wilson-b1837-d.md)** (about 1837 - )
 - **[Wilson, Stella K](people/@26878767@-stella-k-wilson-b1902-d.md)** (about 1902 - )
 - **[Younger, Mary](people/@25511104@-mary-younger-b-d.md)**
 
@@ -327,6 +334,10 @@ permalink: /indexes/by-birth-location
 - **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
 - **[Mathews, Georgina E](people/@84093657@-georgina-e-mathews-b1886-d.md)** (about 1886 - )
 - **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
+
+### London
+
+- **[Wilson, Henrietta](people/@47880504@-henrietta-wilson-b1868-d.md)** (about 1868 - )
 
 ### Wolverhampton
 
@@ -443,9 +454,9 @@ permalink: /indexes/by-birth-location
 - **[Fisher, John](people/@59036117@-john-fisher-b1892-d.md)** (about 1892 - )
 - **[Fisher, Margaret](people/@21244212@-margaret-fisher-b1889-d.md)** (about 1889 - )
 - **[Fisher, William](people/@85653512@-william-fisher-b1894-d.md)** (about 1894 - )
-- **[Hanton, James](people/@71830064@-james-hanton-b1880-d1930.md)** (about 1880 - before 1930)
+- **[Hanton, James](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922)
 - **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977)
-- **[Johnston, Jane](people/@71906070@-jane-johnston-b1859-d.md)** (about 1859 - )
+- **[Johnston, Jane](people/@71906070@-jane-johnston-b1859-d1922.md)** (about 1859 - before 1922)
 - **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 - **[Ramsay, James Fisher](people/@58012424@-james-fisher-ramsay-b1907-1-15-d1908-6-5.md)** (15/Jan/1907 - 5/Jun/1908)
 - **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
@@ -502,12 +513,16 @@ permalink: /indexes/by-birth-location
 - **[Napier, David](people/@46994217@-david-napier-b1901-d.md)** (about 1901 - )
 - **[Napier, John](people/@61882948@-john-napier-b1905-d.md)** (about 1905 - )
 
+#### Leuchars
+
+- **[Wilson, David](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - )
+
 ### Glasgow
 
-- **[Hanton, Andrew Irvine](people/@53392578@-andrew-irvine-hanton-b1913-d1963-8-9.md)** (about 1913 - 9/Aug/1963)
+- **[Hanton, Andrew Irvine](people/@53392578@-andrew-irvine-hanton-b1913-5-19-d1963-8-9.md)** (19/May/1913 - 9/Aug/1963)
 - **[Hanton, James](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975)
 - **[Hanton, Jane](people/@65592941@-jane-hanton-b1908-d1930-9-3.md)** (about 1908 - 3/Sep/1930)
-- **[Hanton, Jessie Johnston](people/@56011610@-jessie-johnston-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981)
+- **[Hanton, Jessie Johnstone](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981)
 - **[Hanton, Marion](people/@27083581@-marion-hanton-b1916-d2014.md)** (about 1916 - 2014)
 - **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
 - **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
@@ -573,7 +588,7 @@ permalink: /indexes/by-birth-location
 
 #### Shotts
 
-- **[Hanton, William](people/@62602830@-william-hanton-b1855-d.md)** (about 1855 - )
+- **[Hanton, William](people/@62602830@-william-hanton-b1855-d1922.md)** (about 1855 - before 1922)
 
 #### Wishaw
 
@@ -648,6 +663,12 @@ permalink: /indexes/by-birth-location
 #### Tain
 
 - **[Fraser, Kenneth](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
+
+### Rossshire
+
+#### Invergordon
+
+- **[McLean, Mary Ann](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - )
 
 ### Sutherland
 
@@ -728,6 +749,12 @@ permalink: /indexes/by-birth-location
 - **[MacDonald, Alexander](people/@81905126@-alexander-macdonald-b1867-3-5-d1928-9-5.md)** (5/Mar/1867 - 5/Sep/1928)
 - **[MacDonald, William](people/@76505641@-william-macdonald-b1865-1-9-d1898-5-12.md)** (9/Jan/1865 - 12/May/1898)
 - **[Sutherland, Donald](people/@6737165@-donald-sutherland-b1874-2-8-d.md)** (8/Feb/1874 - )
+- **[Wilson, Alice](people/@71120788@-alice-wilson-b1875-d.md)** (about 1875 - )
+- **[Wilson, Annie](people/@8935795@-annie-wilson-b1869-d.md)** (about 1869 - )
+- **[Wilson, David](people/@97100177@-david-wilson-b1880-d.md)** (about 1880 - )
+- **[Wilson, Elizabeth](people/@71295041@-elizabeth-wilson-b1872-10-31-d.md)** (31/Oct/1872 - )
+- **[Wilson, James](people/@59901376@-james-wilson-b1870-d.md)** (about 1870 - )
+- **[Wilson, Mary](people/@23013592@-mary-wilson-b1872-d.md)** (about 1872 - )
 
 #### Helmsdale
 

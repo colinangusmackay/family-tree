@@ -3,7 +3,26 @@
   "Name": "Alexander Gibson",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1860",
   "DateOfDeath": "before 1939",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i22004930",
+      "Name": "Hugh Gibson",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i5053655",
+      "Name": "Margaret MacDonald",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

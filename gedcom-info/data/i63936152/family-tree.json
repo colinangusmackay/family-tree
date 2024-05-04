@@ -1,0 +1,59 @@
+﻿{
+  "Subject": {
+    "Id": "i63936152",
+    "Name": "Margaret Wilson",
+    "Gender": "Male",
+    "DateOfBirth": "about 1837",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i98356536",
+      "Name": "James Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1816",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i22262126",
+      "Name": "Margaret Nicholson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1821",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i63936152",
+      "Name": "Margaret Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1837",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i22262126",
+          "i98356536"
+        ]
+      ]
+    },
+    {
+      "Id": "i15598112",
+      "Name": "David Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "22/Mar/1841",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i22262126",
+          "i98356536"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

@@ -1,0 +1,155 @@
+﻿{
+  "Subject": {
+    "Id": "i15598112",
+    "Name": "David Wilson",
+    "Gender": "Male",
+    "DateOfBirth": "22/Mar/1841",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i98356536",
+      "Name": "James Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1816",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i22262126",
+      "Name": "Margaret Nicholson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1821",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i63936152",
+      "Name": "Margaret Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1837",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i22262126",
+          "i98356536"
+        ]
+      ]
+    },
+    {
+      "Id": "i15598112",
+      "Name": "David Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "22/Mar/1841",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i22262126",
+          "i98356536"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i87096403",
+      "Name": "Mary Ann McLean",
+      "Gender": "Female",
+      "DateOfBirth": "about 1843",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "3/Oct/1866",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i47880504",
+      "Name": "Henrietta Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1868",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i15598112",
+        "i87096403"
+      ]
+    },
+    {
+      "Id": "i8935795",
+      "Name": "Annie Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1869",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i15598112",
+        "i87096403"
+      ]
+    },
+    {
+      "Id": "i59901376",
+      "Name": "James Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1870",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i15598112",
+        "i87096403"
+      ]
+    },
+    {
+      "Id": "i23013592",
+      "Name": "Mary Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i15598112",
+        "i87096403"
+      ]
+    },
+    {
+      "Id": "i71295041",
+      "Name": "Elizabeth Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "31/Oct/1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i15598112",
+        "i87096403"
+      ]
+    },
+    {
+      "Id": "i71120788",
+      "Name": "Alice Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1875",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i15598112",
+        "i87096403"
+      ]
+    },
+    {
+      "Id": "i97100177",
+      "Name": "David Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i15598112",
+        "i87096403"
+      ]
+    }
+  ]
+}

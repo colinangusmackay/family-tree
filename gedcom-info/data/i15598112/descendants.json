@@ -1,0 +1,112 @@
+﻿{
+  "Id": "i15598112",
+  "Name": "David Wilson",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "22/Mar/1841",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i47880504",
+      "Name": "Henrietta Wilson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1868",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i8935795",
+      "Name": "Annie Wilson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1869",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i59901376",
+      "Name": "James Wilson",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1870",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i23013592",
+      "Name": "Mary Wilson",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1872",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i71295041",
+      "Name": "Elizabeth Wilson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "31/Oct/1872",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i3963708",
+          "Name": "Alastair McDonald Gibson",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "19/Jan/1914",
+          "DateOfDeath": "1978",
+          "Children": [
+            {
+              "Id": "i11866224",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i86606770",
+              "Name": "Norman Gibson",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "19/Jun/1942",
+              "DateOfDeath": "11/Apr/2024",
+              "Children": [
+                {
+                  "Id": "i14676128",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "i71120788",
+      "Name": "Alice Wilson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1875",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i97100177",
+      "Name": "David Wilson",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

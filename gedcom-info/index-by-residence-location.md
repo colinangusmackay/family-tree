@@ -36,6 +36,10 @@ permalink: /indexes/by-residence-location
 - **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 - **[Wynn, Eliza Jane](people/@63437677@-eliza-jane-wynn-b1864-d.md)** (about 1864 - )
 
+### London
+
+- **[Wilson, David](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - )
+
 ### Yorkshire
 
 #### Morley
@@ -113,6 +117,7 @@ permalink: /indexes/by-residence-location
 - **[Fisher, Margaret](people/@21244212@-margaret-fisher-b1889-d.md)** (about 1889 - )
 - **[Fisher, William](people/@85653512@-william-fisher-b1894-d.md)** (about 1894 - )
 - **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
+- **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939)
 - **[Gillie, Williamina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 - **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
 - **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
@@ -170,6 +175,12 @@ permalink: /indexes/by-residence-location
 - **[Napier, Elizabeth](people/@22336798@-elizabeth-napier-b1866-11-17-d.md)** (17/Nov/1866 - )
 - **[Napier, John](people/@61882948@-john-napier-b1905-d.md)** (about 1905 - )
 
+#### Leuchars
+
+- **[Nicholson, Margaret](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - )
+- **[Wilson, James](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - )
+- **[Wilson, Margaret](people/@63936152@-margaret-wilson-b1837-d.md)** (about 1837 - )
+
 ### Glasgow
 
 - **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
@@ -189,6 +200,7 @@ permalink: /indexes/by-residence-location
 - **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
 - **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
 - **[McIver, Roderick McKenzie](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
+- **[McKechnie, Janet](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949)
 - **[McKenzie, Annie](people/@80021760@-annie-mckenzie-b1874-d.md)** (about 1874 - )
 - **[McKenzie, Barbara](people/@18932462@-barbara-mckenzie-b1876-d.md)** (about 1876 - )
 - **[McKenzie, Christina](people/@25915316@-christina-mckenzie-b1880-d.md)** (about 1880 - )
@@ -264,9 +276,9 @@ permalink: /indexes/by-residence-location
 
 ### Leith
 
-- **[Hanton, James](people/@71830064@-james-hanton-b1880-d1930.md)** (about 1880 - before 1930)
-- **[Hanton, William](people/@62602830@-william-hanton-b1855-d.md)** (about 1855 - )
-- **[Johnston, Jane](people/@71906070@-jane-johnston-b1859-d.md)** (about 1859 - )
+- **[Hanton, James](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922)
+- **[Hanton, William](people/@62602830@-william-hanton-b1855-d1922.md)** (about 1855 - before 1922)
+- **[Johnston, Jane](people/@71906070@-jane-johnston-b1859-d1922.md)** (about 1859 - before 1922)
 
 ### Lennoxtown
 
@@ -279,7 +291,7 @@ permalink: /indexes/by-residence-location
 
 #### Corstorphine
 
-- **[Gibson, Alexander](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939)
+- **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939)
 
 ### North Lanarkshire
 
@@ -297,18 +309,19 @@ permalink: /indexes/by-residence-location
 
 #### Paisley
 
-- **[Hanton, Andrew Irvine](people/@53392578@-andrew-irvine-hanton-b1913-d1963-8-9.md)** (about 1913 - 9/Aug/1963)
-- **[Hanton, James](people/@71830064@-james-hanton-b1880-d1930.md)** (about 1880 - before 1930)
+- **[Hanton, Andrew Irvine](people/@53392578@-andrew-irvine-hanton-b1913-5-19-d1963-8-9.md)** (19/May/1913 - 9/Aug/1963)
+- **[Hanton, James](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922)
 - **[Hanton, James](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975)
 - **[Hanton, Jane](people/@65592941@-jane-hanton-b1908-d1930-9-3.md)** (about 1908 - 3/Sep/1930)
-- **[Hanton, Jessie Johnston](people/@56011610@-jessie-johnston-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981)
+- **[Hanton, Jessie Johnstone](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981)
 - **[Hanton, John](people/@30651959@-john-hanton-b1921-1-2-d2009.md)** (2/Jan/1921 - 2009)
 - **[Hanton, Johnina](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000)
 - **[Hanton, Marion](people/@27083581@-marion-hanton-b1916-d2014.md)** (about 1916 - 2014)
 - **[Hanton, Mary](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989)
 - **[Hanton, William](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993)
 - **[McAughtrie, Mary Houston](people/@54273056@-mary-houston-mcaughtrie-b1918-d.md)** (about 1918 - )
-- **[McKechnie, Janet](people/@47324688@-janet-mckechnie-b1879-d.md)** (about 1879 - )
+- **[McKechnie, Janet](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949)
+- **[Russell, Martha](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963)
 - **[Watson, John Blue](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963)
 
 ### Ross
@@ -335,6 +348,10 @@ permalink: /indexes/by-residence-location
 #### Inver, Tain
 
 - **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942)
+
+#### Invergordon
+
+- **[McLean, Mary Ann](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - )
 
 ### Sutherland
 
@@ -431,8 +448,17 @@ permalink: /indexes/by-residence-location
 - **[MacDonald, James](people/@74881641@-james-macdonald-b1842-d1880-1-14.md)** (about 1842 - 14/Jan/1880)
 - **[MacDonald, Jessie](people/@97412403@-jessie-macdonald-b1869-7-7-d1941-2-12.md)** (7/Jul/1869 - 12/Feb/1941)
 - **[MacDonald, William](people/@76505641@-william-macdonald-b1865-1-9-d1898-5-12.md)** (9/Jan/1865 - 12/May/1898)
+- **[McLean, Mary Ann](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - )
 - **[Ross, Christina](people/@81183416@-christina-ross-b1845-d1916-4-19.md)** (about 1845 - 19/Apr/1916)
 - **[Sutherland, Isabella](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884)
+- **[Wilson, Alice](people/@71120788@-alice-wilson-b1875-d.md)** (about 1875 - )
+- **[Wilson, Annie](people/@8935795@-annie-wilson-b1869-d.md)** (about 1869 - )
+- **[Wilson, David](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - )
+- **[Wilson, David](people/@97100177@-david-wilson-b1880-d.md)** (about 1880 - )
+- **[Wilson, Elizabeth](people/@71295041@-elizabeth-wilson-b1872-10-31-d.md)** (31/Oct/1872 - )
+- **[Wilson, Henrietta](people/@47880504@-henrietta-wilson-b1868-d.md)** (about 1868 - )
+- **[Wilson, James](people/@59901376@-james-wilson-b1870-d.md)** (about 1870 - )
+- **[Wilson, Mary](people/@23013592@-mary-wilson-b1872-d.md)** (about 1872 - )
 
 #### Littleferry
 

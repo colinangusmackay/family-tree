@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i72370350",
+  "Name": "Alexander McGregor Russell",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i30062456",
+      "Name": "Martha Russell",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1916",
+      "DateOfDeath": "before 1963",
+      "Children": []
+    }
+  ]
+}

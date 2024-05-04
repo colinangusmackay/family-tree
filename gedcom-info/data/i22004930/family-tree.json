@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i22004930",
+    "Name": "Hugh Gibson",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i22004930",
+      "Name": "Hugh Gibson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i5053655",
+      "Name": "Margaret MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i21968540",
+      "Name": "Alexander Gibson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1860",
+      "DateOfDeath": "before 1939",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i22004930",
+        "i5053655"
+      ]
+    }
+  ]
+}

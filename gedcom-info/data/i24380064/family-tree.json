@@ -123,10 +123,10 @@
     },
     {
       "Id": "i86606770",
-      "Name": "X",
+      "Name": "Norman Gibson",
       "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
+      "DateOfBirth": "19/Jun/1942",
+      "DateOfDeath": "11/Apr/2024",
       "RelationToSubject": "son",
       "ParentIds": [
         "i3963708",

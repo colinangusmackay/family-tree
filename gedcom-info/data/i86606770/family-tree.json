@@ -1,0 +1,71 @@
+﻿{
+  "Subject": {
+    "Id": "i86606770",
+    "Name": "Norman Gibson",
+    "Gender": "Male",
+    "DateOfBirth": "19/Jun/1942",
+    "DateOfDeath": "11/Apr/2024"
+  },
+  "Parents": [
+    {
+      "Id": "i3963708",
+      "Name": "Alastair McDonald Gibson",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1914",
+      "DateOfDeath": "1978",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i24380064",
+      "Name": "Margaret McKenzie McIver",
+      "Gender": "Female",
+      "DateOfBirth": "29/Sep/1917",
+      "DateOfDeath": "12/Sep/2015",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i11866224",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i24380064",
+          "i3963708"
+        ]
+      ]
+    },
+    {
+      "Id": "i86606770",
+      "Name": "Norman Gibson",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jun/1942",
+      "DateOfDeath": "11/Apr/2024",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i24380064",
+          "i3963708"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": [
+    {
+      "Id": "i14676128",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i86606770"
+      ]
+    }
+  ]
+}

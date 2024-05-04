@@ -113,7 +113,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Gibson
 
   * **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) and **[Margaret McKenzie McIver](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015) **on 1st of September 1939** at Edinburgh, Scotland.
-  * **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939) and **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)** **on 16th of June 1897** at Golspie, Sutherland, Scotland.
+  * **[Alexander Gibson](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939) and **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b1872-10-31-d.md)** (31/Oct/1872 - ) **on 16th of June 1897** at Golspie, Sutherland, Scotland.
 
 ## Gillie
 
@@ -135,10 +135,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Hanton
 
-  * **[Andrew Irvine Hanton](people/@53392578@-andrew-irvine-hanton-b1913-d1963-8-9.md)** (about 1913 - 9/Aug/1963) and **[Martha Russell](people/@30062456@-martha-russell-b-d1963.md)** ( - before 1963).
-  * **[James Hanton](people/@71830064@-james-hanton-b1880-d1930.md)** (about 1880 - before 1930) and **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d.md)** (about 1879 - ) **on 7th of August 1901** at Paisley, Renfrewshire, Scotland.
-  * **[Jessie Johnston Hanton](people/@56011610@-jessie-johnston-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) and **[John Blue Watson](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963) **on 7th of February 1930** at Paisley, Renfrewshire, Scotland.
-  * **[Jessie Johnston Hanton](people/@56011610@-jessie-johnston-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) and X **in 1965** at Paisley, Renfrewshire, Scotland.
+  * **[Andrew Irvine Hanton](people/@53392578@-andrew-irvine-hanton-b1913-5-19-d1963-8-9.md)** (19/May/1913 - 9/Aug/1963) and **[Martha Russell](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963) **on 18th of August 1944** at Paisley, Renfrewshire, Scotland.
+  * **[James Hanton](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922) and **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949) **on 7th of August 1901** at Paisley, Renfrewshire, Scotland.
+  * **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) and **[John Blue Watson](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963) **on 7th of February 1930** at Paisley, Renfrewshire, Scotland.
+  * **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) and X **in 1965** at Paisley, Renfrewshire, Scotland.
   * **[Johnina Hanton](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000) and **[Alexander Napier](people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md)** (2/May/1913 - 25/Jun/1994) **on 22nd of December 1945** at Paisley, Renfrewshire, Scotland.
   * **[Mary Hanton](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989) and **[Archibald King Lorimer](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - ) **on 13th of November 1940** at Paisley, Renfrewshire, Scotland.
   * **[William Hanton](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993) and **[Mary Houston McAughtrie](people/@54273056@-mary-houston-mcaughtrie-b1918-d.md)** (about 1918 - ) **on 30th of July 1935**.
@@ -287,7 +287,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## McKechnie
 
-  * **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d.md)** (about 1879 - ) and **[James Hanton](people/@71830064@-james-hanton-b1880-d1930.md)** (about 1880 - before 1930) **on 7th of August 1901** at Paisley, Renfrewshire, Scotland.
+  * **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949) and **[James Hanton](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922) **on 7th of August 1901** at Paisley, Renfrewshire, Scotland.
 
 ## McKenzie
 
@@ -304,6 +304,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) and **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) **on 14th of February 1861** at Gairloch, Ross and Cromarty, Scotland.
   * **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) and **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) **on 7th of June 1930** at Royal Oak, Oakland County, Michigan, United States of America.
+  * **[Mary Ann McLean](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - ) and **[David Wilson](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - ) **on 3rd of October 1866** at Invergordon, Rossshire, Scotland.
 
 ## McLeod
 
@@ -354,6 +355,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Nicholson
 
   * **[Agnes Nicholson](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - ) and **[David Napier](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901) **on 25th of January 1858** at Dysart, Fife, Scotland.
+  * **[Margaret Nicholson](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - ) and **[James Wilson](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - ) **on 23rd of November 1839** at Leuchars, Fife, Scotland.
 
 ## O'Donnell
 
@@ -432,7 +434,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Russell
 
   * **[Agnes Russell](people/@37924612@-agnes-russell-b-d.md)** and **[John Reid](people/@95320597@-john-reid-b-d.md)** **on 31st of December 1842** at Wishaw, Lanarkshire, Scotland.
-  * **[Martha Russell](people/@30062456@-martha-russell-b-d1963.md)** ( - before 1963) and **[Andrew Irvine Hanton](people/@53392578@-andrew-irvine-hanton-b1913-d1963-8-9.md)** (about 1913 - 9/Aug/1963).
+  * **[Martha Russell](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963) and **[Andrew Irvine Hanton](people/@53392578@-andrew-irvine-hanton-b1913-5-19-d1963-8-9.md)** (19/May/1913 - 9/Aug/1963) **on 18th of August 1944** at Paisley, Renfrewshire, Scotland.
 
 ## Seaton
 
@@ -489,7 +491,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Watson
 
-  * **[John Blue Watson](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963) and **[Jessie Johnston Hanton](people/@56011610@-jessie-johnston-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) **on 7th of February 1930** at Paisley, Renfrewshire, Scotland.
+  * **[John Blue Watson](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963) and **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) **on 7th of February 1930** at Paisley, Renfrewshire, Scotland.
 
 ## Williamson
 
@@ -497,6 +499,8 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Wilson
 
-  * **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)** and **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939) **on 16th of June 1897** at Golspie, Sutherland, Scotland.
+  * **[David Wilson](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - ) and **[Mary Ann McLean](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - ) **on 3rd of October 1866** at Invergordon, Rossshire, Scotland.
+  * **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b1872-10-31-d.md)** (31/Oct/1872 - ) and **[Alexander Gibson](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939) **on 16th of June 1897** at Golspie, Sutherland, Scotland.
+  * **[James Wilson](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - ) and **[Margaret Nicholson](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - ) **on 23rd of November 1839** at Leuchars, Fife, Scotland.
   * **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971) and **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) **in 1927** at Lake George, Warren County, New York, United States of America.
 

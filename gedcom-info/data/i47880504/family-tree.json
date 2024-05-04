@@ -1,0 +1,129 @@
+﻿{
+  "Subject": {
+    "Id": "i47880504",
+    "Name": "Henrietta Wilson",
+    "Gender": "Female",
+    "DateOfBirth": "about 1868",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i15598112",
+      "Name": "David Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "22/Mar/1841",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i87096403",
+      "Name": "Mary Ann McLean",
+      "Gender": "Female",
+      "DateOfBirth": "about 1843",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i47880504",
+      "Name": "Henrietta Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1868",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i15598112",
+          "i87096403"
+        ]
+      ]
+    },
+    {
+      "Id": "i8935795",
+      "Name": "Annie Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1869",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i15598112",
+          "i87096403"
+        ]
+      ]
+    },
+    {
+      "Id": "i59901376",
+      "Name": "James Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1870",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i15598112",
+          "i87096403"
+        ]
+      ]
+    },
+    {
+      "Id": "i23013592",
+      "Name": "Mary Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i15598112",
+          "i87096403"
+        ]
+      ]
+    },
+    {
+      "Id": "i71295041",
+      "Name": "Elizabeth Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "31/Oct/1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i15598112",
+          "i87096403"
+        ]
+      ]
+    },
+    {
+      "Id": "i71120788",
+      "Name": "Alice Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1875",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i15598112",
+          "i87096403"
+        ]
+      ]
+    },
+    {
+      "Id": "i97100177",
+      "Name": "David Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i15598112",
+          "i87096403"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

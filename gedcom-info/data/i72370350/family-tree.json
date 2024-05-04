@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i72370350",
+    "Name": "Alexander McGregor Russell",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i72370350",
+      "Name": "Alexander McGregor Russell",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i82920396",
+      "Name": "Catherine Dickson",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1944",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i30062456",
+      "Name": "Martha Russell",
+      "Gender": "Female",
+      "DateOfBirth": "about 1916",
+      "DateOfDeath": "before 1963",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i72370350",
+        "i82920396"
+      ]
+    }
+  ]
+}

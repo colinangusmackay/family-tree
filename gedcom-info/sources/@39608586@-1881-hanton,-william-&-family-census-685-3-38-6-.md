@@ -71,6 +71,6 @@ References | 1881 C 685/3 38/ 6
 
 ## Source Referenced by
 
-* [James Hanton](../people/@71830064@-james-hanton-b1880-d1930.md) (about 1880 - before 1930)
-* [William Hanton](../people/@62602830@-william-hanton-b1855-d.md) (about 1855 - )
-* [Jane Johnston](../people/@71906070@-jane-johnston-b1859-d.md) (about 1859 - )
+* [James Hanton](../people/@71830064@-james-hanton-b1880-d1922-4-20.md) (about 1880 - 20/Apr/1922)
+* [William Hanton](../people/@62602830@-william-hanton-b1855-d1922.md) (about 1855 - before 1922)
+* [Jane Johnston](../people/@71906070@-jane-johnston-b1859-d1922.md) (about 1859 - before 1922)

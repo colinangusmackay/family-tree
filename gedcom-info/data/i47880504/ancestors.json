@@ -1,0 +1,47 @@
+﻿{
+  "Id": "i47880504",
+  "Name": "Henrietta Wilson",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1868",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i15598112",
+      "Name": "David Wilson",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "22/Mar/1841",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i98356536",
+          "Name": "James Wilson",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1816",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i22262126",
+          "Name": "Margaret Nicholson",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "about 1821",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i87096403",
+      "Name": "Mary Ann McLean",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1843",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

@@ -30,6 +30,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1834**
   * **22/Nov/1834** : **[David Napier](people/@71012752@-david-napier-b-d.md)** and **[Agnes Williamson](people/@35381484@-agnes-williamson-b1815-10-11-d.md)** (11/Oct/1815 - ) at Dysart, Fife, Scotland.
+* **1839**
+  * **23/Nov/1839** : **[James Wilson](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - ) and **[Margaret Nicholson](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - ) at Leuchars, Fife, Scotland.
 
 ### 1840s
 
@@ -66,6 +68,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **5/Feb/1864** : **[James MacDonald](people/@74881641@-james-macdonald-b1842-d1880-1-14.md)** (about 1842 - 14/Jan/1880) and **[Christina Ross](people/@81183416@-christina-ross-b1845-d1916-4-19.md)** (about 1845 - 19/Apr/1916) at Skelbo, Sutherland, Scotland.
 * **1865**
   * **15/Dec/1865** : **[Alexander Ross](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - ) and **[Catherine Ross](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - ) at Little Ferry, Sutherland, Scotland.
+* **1866**
+  * **3/Oct/1866** : **[David Wilson](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - ) and **[Mary Ann McLean](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - ) at Invergordon, Rossshire, Scotland.
 * **1867**
   * **Oct/1867** : **[William Mackay](people/@24694904@-william-mackay-b-d.md)** and **[Ann Cumming](people/@5075008@-ann-cumming-b-d.md)** at Dornoch, Sutherland, Scotland.
 * **1869**
@@ -132,7 +136,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1897**
   * **before 1897** : X and **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
   * **19/Jan/1897** : **[Thomas Fraser](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932) and **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934) at Dornoch, Sutherland, Scotland.
-  * **16/Jun/1897** : **[Alexander Gibson](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939) and **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b-d.md)** at Golspie, Sutherland, Scotland.
+  * **16/Jun/1897** : **[Alexander Gibson](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939) and **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b1872-10-31-d.md)** (31/Oct/1872 - ) at Golspie, Sutherland, Scotland.
 * **1898**
   * **21/Jan/1898** : **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) and **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
 
@@ -146,7 +150,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **28/Sep/1900** : **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - ) and **[Janet Dalrymple](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - ) at Kirkcaldy, Fife, Scotland.
 * **1901**
   * **22/Jan/1901** : **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ).
-  * **7/Aug/1901** : **[James Hanton](people/@71830064@-james-hanton-b1880-d1930.md)** (about 1880 - before 1930) and **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d.md)** (about 1879 - ) at Paisley, Renfrewshire, Scotland.
+  * **7/Aug/1901** : **[James Hanton](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922) and **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949) at Paisley, Renfrewshire, Scotland.
   * **31/Dec/1901** : **[John Fleming](people/@49475976@-john-fleming-b1877-3-11-d1961.md)** (11/Mar/1877 - before 1961) and **[Agnes Rennie](people/@57426108@-agnes-rennie-b1878-d1961-2-7.md)** (1878 - 7/Feb/1961) at Blackburn, West Lothian, Scotland.
 * **1903**
   * **11/Nov/1903** : **[Donald Ross](people/@4496220@-donald-ross-b1872-8-30-d.md)** (30/Aug/1872 - ) and **[Ollie E Walker](people/@42365832@-ollie-e-walker-b1872-d.md)** (about 1872 - ) at Boyne City, Charlevoix County, Michigan, United States of America.
@@ -204,7 +208,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1930s
 
 * **1930**
-  * **7/Feb/1930** : **[John Blue Watson](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963) and **[Jessie Johnston Hanton](people/@56011610@-jessie-johnston-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) at Paisley, Renfrewshire, Scotland.
+  * **7/Feb/1930** : **[John Blue Watson](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963) and **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) at Paisley, Renfrewshire, Scotland.
   * **21/Mar/1930** : **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981) at Toronto, York, Ontario, Canada.
   * **7/Jun/1930** : **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) and **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) at Royal Oak, Oakland County, Michigan, United States of America.
 * **1932**
@@ -227,6 +231,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **13/Nov/1940** : **[Archibald King Lorimer](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - ) and **[Mary Hanton](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989) at Paisley, Renfrewshire, Scotland.
 * **1943**
   * **10/Dec/1943** : **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977) at Fort Lauderdale, Broward County, Florida, United States of America.
+* **1944**
+  * **18/Aug/1944** : **[Andrew Irvine Hanton](people/@53392578@-andrew-irvine-hanton-b1913-5-19-d1963-8-9.md)** (19/May/1913 - 9/Aug/1963) and **[Martha Russell](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963) at Paisley, Renfrewshire, Scotland.
 * **1945**
   * **6/Apr/1945** : **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) and **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) at Edinburgh, Scotland.
   * **22/Dec/1945** : **[Alexander Napier](people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md)** (2/May/1913 - 25/Jun/1994) and **[Johnina Hanton](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000) at Paisley, Renfrewshire, Scotland.
@@ -259,7 +265,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1962**
   * **1962** : X and **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019) at Glasgow, Scotland.
 * **1965**
-  * **1965** : X and **[Jessie Johnston Hanton](people/@56011610@-jessie-johnston-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) at Paisley, Renfrewshire, Scotland.
+  * **1965** : X and **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) at Paisley, Renfrewshire, Scotland.
 * **1968**
   * **14/Dec/1968** : **[Dan Hayes](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018) and X.
 * **1969**
@@ -283,6 +289,5 @@ A list of marriages, civil partnerships and civil unions by date.
 
   * **[William Ross](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and **[Janet MacLeod](people/@14483646@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864).
   * **[Donald James Mackay](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011) and **[Anna Catherine Fraser](people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md)** (28/Aug/1937 - 1992).
-  * **[Andrew Irvine Hanton](people/@53392578@-andrew-irvine-hanton-b1913-d1963-8-9.md)** (about 1913 - 9/Aug/1963) and **[Martha Russell](people/@30062456@-martha-russell-b-d1963.md)** ( - before 1963).
   * **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841) and **[Janet Macrae](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - ).
   * X and **[Isabella McAughtrie](people/@88003126@-isabella-mcaughtrie-b-d.md)**.

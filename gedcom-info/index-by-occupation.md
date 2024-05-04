@@ -22,6 +22,10 @@ permalink: /indexes/by-occupation
 
 ## Baker
 
+There were 2 people who worked as a Baker of some sort.
+
+* **[Wilson, David](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - ), mentioned 3 times.
+
 #### Baker (Journeyman)
 
 * **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - ).
@@ -69,7 +73,11 @@ There were 2 people who worked as a Brass Moulder.
 
 ## Bricklayer
 
-* **[Hanton, Andrew Irvine](people/@53392578@-andrew-irvine-hanton-b1913-d1963-8-9.md)** (about 1913 - 9/Aug/1963).
+* **[Hanton, Andrew Irvine](people/@53392578@-andrew-irvine-hanton-b1913-5-19-d1963-8-9.md)** (19/May/1913 - 9/Aug/1963).
+
+## Bricklayer (journeyman)
+
+* **[Hanton, Andrew Irvine](people/@53392578@-andrew-irvine-hanton-b1913-5-19-d1963-8-9.md)** (19/May/1913 - 9/Aug/1963).
 
 ## Builder's Holder-on
 
@@ -110,7 +118,7 @@ There were 3 people who worked as a Carpenter of some sort.
 
 ## Carpet Weaver
 
-* **[McKechnie, Janet](people/@47324688@-janet-mckechnie-b1879-d.md)** (about 1879 - ).
+* **[McKechnie, Janet](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949).
 
 ## Cattle Dealer
 
@@ -195,7 +203,7 @@ There were 4 people who worked as a Crofter.
 
 ## Domestic Servant
 
-There were 21 people who worked as a Domestic Servant of some sort.
+There were 22 people who worked as a Domestic Servant of some sort.
 
 * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946).
 * **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - ).
@@ -206,6 +214,7 @@ There were 21 people who worked as a Domestic Servant of some sort.
 * **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970).
 * **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - ).
 * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ).
+* **[McLean, Mary Ann](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - ).
 * **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ).
 * **[O'Donnell, Hannah](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921).
 * **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929).
@@ -282,6 +291,10 @@ There were 9 people who worked as a Driver of some sort.
 * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
 * **[Paton, John](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - ).
 
+## Dyework Labourer
+
+* **[Russell, Alexander McGregor](people/@72370350@-alexander-mcgregor-russell-b-d.md)**.
+
 ## Electrician
 
 * **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004), mentioned twice.
@@ -336,6 +349,9 @@ There were 3 people who worked as a Factory Worker of some sort.
 
 ## Farm Labourer
 
+There were 2 people who worked as a Farm Labourer.
+
+* **[Gibson, Hugh](people/@22004930@-hugh-gibson-b-d.md)**.
 * **[McKnight, William](people/@38388851@-william-mcknight-b-d1886.md)** ( - before 1886).
 
 ## Farm Worker
@@ -386,7 +402,7 @@ There were 6 people who worked as a Farmer.
 
 ## Fish Worker
 
-There were 7 people who worked as a Fish Worker of some sort.
+There were 12 people who worked as a Fish Worker of some sort.
 
 * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
@@ -397,9 +413,24 @@ There were 7 people who worked as a Fish Worker of some sort.
 * **[Cumming, Barbara Ann](people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md)** (30/Aug/1885 - 1977).
 * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - ).
 
+#### Fisherwoman
+
+* **[Mackay, Marion](people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md)** (30/Jun/1821 - 30/Dec/1909).
+* **[Ross, Christina](people/@81183416@-christina-ross-b1845-d1916-4-19.md)** (about 1845 - 19/Apr/1916).
+* **[Ross, Jessie](people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md)** (5/Nov/1840 - 13/Jan/1918).
+* **[Ross, Wiliamina](people/@5241144@-wiliamina-ross-b1849-d.md)** (about 1849 - ).
+
 #### Fishwife
 
 * **[Mackay, Barbara](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - ).
+* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
+
+#### Fishwoman
+
+* **[Ross, Marion](people/@39612984@-marion-ross-b1853-d.md)** (about 1853 - ).
+
+#### Fishworker
+
 * **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
 
 ## Fisher
@@ -465,23 +496,6 @@ There were 51 people who worked as a Fisherman.
 ## Fisherman's Wife
 
 * **[Ross, Catherine](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - ).
-
-## Fisherwoman
-
-There were 4 people who worked as a Fisherwoman.
-
-* **[Mackay, Marion](people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md)** (30/Jun/1821 - 30/Dec/1909).
-* **[Ross, Christina](people/@81183416@-christina-ross-b1845-d1916-4-19.md)** (about 1845 - 19/Apr/1916).
-* **[Ross, Jessie](people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md)** (5/Nov/1840 - 13/Jan/1918).
-* **[Ross, Wiliamina](people/@5241144@-wiliamina-ross-b1849-d.md)** (about 1849 - ).
-
-## Fishwoman
-
-* **[Ross, Marion](people/@39612984@-marion-ross-b1853-d.md)** (about 1853 - ).
-
-## Fishworker
-
-* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
 
 ## Fixer Corporation Tramways
 
@@ -562,7 +576,7 @@ There were 7 people who worked as a Health Care Professional of some sort.
 
 ## Iron Moulder
 
-* **[Hanton, William](people/@62602830@-william-hanton-b1855-d.md)** (about 1855 - ), mentioned twice.
+* **[Hanton, William](people/@62602830@-william-hanton-b1855-d1922.md)** (about 1855 - before 1922), mentioned twice.
 
 ## Iron Worker
 
@@ -722,6 +736,10 @@ There were 2 people who worked as a Manager of some sort.
 
 * **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ), mentioned twice.
 
+## Master Baker
+
+* **[Wilson, David](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - ), mentioned twice.
+
 ## Master Tailor
 
 * **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938).
@@ -817,15 +835,19 @@ There were 6 people who worked as a Nurse of some sort.
 
 ## Packing Box Maker
 
-* **[Hanton, James](people/@71830064@-james-hanton-b1880-d1930.md)** (about 1880 - before 1930).
+* **[Hanton, James](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922).
+
+## Packing Box Maker (journeyman)
+
+* **[Hanton, James](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922).
 
 ## Packing Box Maker (Journeyman)
 
-* **[Hanton, James](people/@71830064@-james-hanton-b1880-d1930.md)** (about 1880 - before 1930), mentioned twice.
+* **[Hanton, James](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922), mentioned twice.
 
 ## Packing case maker
 
-* **[Hanton, James](people/@71830064@-james-hanton-b1880-d1930.md)** (about 1880 - before 1930).
+* **[Hanton, James](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922).
 
 ## Painter
 
@@ -929,11 +951,15 @@ There were 4 people who worked as a Retortman (Oilwork).
 
 ## Saddler
 
-* **[Gibson, Alexander](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939).
+* **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939).
 
 ## Saddler and Harness Maker
 
-* **[Gibson, Alexander](people/@21968540@-alexander-gibson-b-d1939.md)** ( - before 1939).
+* **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939).
+
+## Sadler
+
+* **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939).
 
 ## Sales
 
@@ -989,6 +1015,10 @@ There were 5 people who worked as a Secretary.
 ## Ship Steward
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
+
+## Shoemaker
+
+* **[Wilson, James](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - ).
 
 ## Shoemaker (journeyman)
 
@@ -1065,6 +1095,10 @@ There were 3 people who worked as a Tailor of some sort.
 
 * **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938), mentioned twice.
 
+## Teacher
+
+* **[Wilson, James](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - ), mentioned twice.
+
 ## Threadmill Clerk
 
 * **[Watson, John](people/@40547424@-john-watson-b-d1963.md)** ( - before 1963).
@@ -1075,11 +1109,12 @@ There were 3 people who worked as a Tailor of some sort.
 
 ## Threadmill Worker
 
-There were 3 people who worked as a Threadmill Worker.
+There were 4 people who worked as a Threadmill Worker.
 
 * **[Hanton, Jane](people/@65592941@-jane-hanton-b1908-d1930-9-3.md)** (about 1908 - 3/Sep/1930).
-* **[Hanton, Jessie Johnston](people/@56011610@-jessie-johnston-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981).
+* **[Hanton, Jessie Johnstone](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981).
 * **[Hanton, Mary](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989).
+* **[Russell, Martha](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963).
 
 ## Tool Engineer
 

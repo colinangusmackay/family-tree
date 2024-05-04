@@ -3,19 +3,41 @@
     "Id": "i21968540",
     "Name": "Alexander Gibson",
     "Gender": "Male",
-    "DateOfBirth": "",
+    "DateOfBirth": "about 1860",
     "DateOfDeath": "before 1939"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i22004930",
+      "Name": "Hugh Gibson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i5053655",
+      "Name": "Margaret MacDonald",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i21968540",
       "Name": "Alexander Gibson",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1860",
       "DateOfDeath": "before 1939",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i22004930",
+          "i5053655"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,7 +45,7 @@
       "Id": "i71295041",
       "Name": "Elizabeth Wilson",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "31/Oct/1872",
       "DateOfDeath": "",
       "RelationToSubject": "wife",
       "DateOfMarriage": "16/Jun/1897",

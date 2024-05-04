@@ -33,4 +33,4 @@ References |
 
 ## Source Referenced by
 
-* [William Hanton](../people/@62602830@-william-hanton-b1855-d.md) (about 1855 - )
+* [William Hanton](../people/@62602830@-william-hanton-b1855-d1922.md) (about 1855 - before 1922)

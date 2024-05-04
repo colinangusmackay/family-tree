@@ -1,0 +1,58 @@
+﻿{
+  "Id": "i22004930",
+  "Name": "Hugh Gibson",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i21968540",
+      "Name": "Alexander Gibson",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1860",
+      "DateOfDeath": "before 1939",
+      "Children": [
+        {
+          "Id": "i3963708",
+          "Name": "Alastair McDonald Gibson",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "19/Jan/1914",
+          "DateOfDeath": "1978",
+          "Children": [
+            {
+              "Id": "i11866224",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i86606770",
+              "Name": "Norman Gibson",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "19/Jun/1942",
+              "DateOfDeath": "11/Apr/2024",
+              "Children": [
+                {
+                  "Id": "i14676128",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

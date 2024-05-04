@@ -4,7 +4,7 @@
   "Gender": "Male",
   "Relationship": "Self",
   "DateOfBirth": "about 1855",
-  "DateOfDeath": "",
+  "DateOfDeath": "before 1922",
   "Children": [
     {
       "Id": "i71830064",
@@ -12,7 +12,7 @@
       "Gender": "Male",
       "Relationship": "son",
       "DateOfBirth": "about 1880",
-      "DateOfDeath": "before 1930",
+      "DateOfDeath": "20/Apr/1922",
       "Children": [
         {
           "Id": "i24857040",
@@ -52,7 +52,7 @@
         },
         {
           "Id": "i56011610",
-          "Name": "Jessie Johnston Hanton",
+          "Name": "Jessie Johnstone Hanton",
           "Gender": "Female",
           "Relationship": "daughter",
           "DateOfBirth": "23/Feb/1911",
@@ -74,7 +74,7 @@
           "Name": "Andrew Irvine Hanton",
           "Gender": "Male",
           "Relationship": "son",
-          "DateOfBirth": "about 1913",
+          "DateOfBirth": "19/May/1913",
           "DateOfDeath": "9/Aug/1963",
           "Children": []
         },

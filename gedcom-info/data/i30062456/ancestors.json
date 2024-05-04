@@ -3,7 +3,26 @@
   "Name": "Martha Russell",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1916",
   "DateOfDeath": "before 1963",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i72370350",
+      "Name": "Alexander McGregor Russell",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i82920396",
+      "Name": "Catherine Dickson",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1944",
+      "Parents": []
+    }
+  ]
 }

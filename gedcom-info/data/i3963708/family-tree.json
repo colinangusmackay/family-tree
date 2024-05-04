@@ -11,7 +11,7 @@
       "Id": "i21968540",
       "Name": "Alexander Gibson",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1860",
       "DateOfDeath": "before 1939",
       "RelationToSubject": "father"
     },
@@ -19,7 +19,7 @@
       "Id": "i71295041",
       "Name": "Elizabeth Wilson",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "31/Oct/1872",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     }
@@ -67,10 +67,10 @@
     },
     {
       "Id": "i86606770",
-      "Name": "X",
+      "Name": "Norman Gibson",
       "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
+      "DateOfBirth": "19/Jun/1942",
+      "DateOfDeath": "11/Apr/2024",
       "RelationToSubject": "son",
       "ParentIds": [
         "i3963708",

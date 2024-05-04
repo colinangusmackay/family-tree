@@ -42,4 +42,4 @@ References | 1914 B 678/7
 ## Source Referenced by
 
 * [Alastair McDonald Gibson](../people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) (19/Jan/1914 - 1978)
-* [Alexander Gibson](../people/@21968540@-alexander-gibson-b-d1939.md) ( - before 1939)
+* [Alexander Gibson](../people/@21968540@-alexander-gibson-b1860-d1939.md) (about 1860 - before 1939)

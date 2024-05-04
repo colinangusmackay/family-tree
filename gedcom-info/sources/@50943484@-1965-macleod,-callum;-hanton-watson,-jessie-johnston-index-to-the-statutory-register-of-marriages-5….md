@@ -20,4 +20,4 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [Jessie Johnston Hanton](../people/@56011610@-jessie-johnston-hanton-b1911-2-23-d1981.md) (23/Feb/1911 - 1981)
+* [Jessie Johnstone Hanton](../people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md) (23/Feb/1911 - 1981)

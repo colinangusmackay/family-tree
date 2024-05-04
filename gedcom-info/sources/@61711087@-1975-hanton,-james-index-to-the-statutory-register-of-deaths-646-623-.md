@@ -36,7 +36,7 @@ References | 1975 D 646/ 623
 ## Source Referenced by
 
 * [James Hanton](../people/@30630538@-james-hanton-b1907-d1975.md) (about 1907 - 1975)
-* [Jessie Johnston Hanton](../people/@56011610@-jessie-johnston-hanton-b1911-2-23-d1981.md) (23/Feb/1911 - 1981)
+* [Jessie Johnstone Hanton](../people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md) (23/Feb/1911 - 1981)
 * [John Hanton](../people/@30651959@-john-hanton-b1921-1-2-d2009.md) (2/Jan/1921 - 2009)
 * [Johnina Hanton](../people/@68592798@-johnina-hanton-b1919-2-12-d2000.md) (12/Feb/1919 - 2000)
 * [Marion Hanton](../people/@27083581@-marion-hanton-b1916-d2014.md) (about 1916 - 2014)

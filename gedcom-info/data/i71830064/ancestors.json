@@ -4,7 +4,7 @@
   "Gender": "Male",
   "Relationship": "Self",
   "DateOfBirth": "about 1880",
-  "DateOfDeath": "before 1930",
+  "DateOfDeath": "20/Apr/1922",
   "Parents": [
     {
       "Id": "i62602830",
@@ -12,7 +12,7 @@
       "Gender": "Male",
       "Relationship": "father",
       "DateOfBirth": "about 1855",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1922",
       "Parents": []
     },
     {
@@ -21,7 +21,7 @@
       "Gender": "Female",
       "Relationship": "mother",
       "DateOfBirth": "about 1859",
-      "DateOfDeath": "",
+      "DateOfDeath": "before 1922",
       "Parents": []
     }
   ]
