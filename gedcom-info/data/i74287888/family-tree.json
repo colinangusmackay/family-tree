@@ -96,6 +96,17 @@
       ]
     }
   ],
-  "Spouses": [],
+  "Spouses": [
+    {
+      "Id": "i12281906",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "1929",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "1951",
+      "DateOfDivorce": ""
+    }
+  ],
   "Children": []
 }

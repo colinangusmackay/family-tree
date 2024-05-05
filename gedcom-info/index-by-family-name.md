@@ -94,6 +94,11 @@ permalink: /indexes/by-family-name
 
 - **[Helen Collins](people/@79475420@-helen-collins-b-d.md)**
 
+## Crawford
+
+- **[John Crawford](people/@33792128@-john-crawford-b-d1936.md)** ( - before 1936)
+- **[Mary Hendry Crawford](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991)
+
 ## Cumming
 
 - **[Adam Cumming](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926)
@@ -250,7 +255,7 @@ permalink: /indexes/by-family-name
 - **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
 - **[Alexander Gibson](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939)
 - **[Hugh Gibson](people/@22004930@-hugh-gibson-b-d.md)**
-- **[Norman Gibson](people/@86606770@-norman-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024)
+- **[Norman Alexander Gibson](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024)
 
 ## Gillie
 
@@ -337,6 +342,10 @@ permalink: /indexes/by-family-name
 
 - **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - )
 - **[James Henderson](people/@92250700@-james-henderson-b-d.md)**
+
+## Hendry
+
+- **[Agnes Gibb Hendry](people/@79368912@-agnes-gibb-hendry-b-d1936.md)** ( - after 1936)
 
 ## Hoctor
 

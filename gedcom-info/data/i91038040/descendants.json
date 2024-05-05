@@ -30,7 +30,17 @@
           "Relationship": "son",
           "DateOfBirth": "22/Oct/1910",
           "DateOfDeath": "1999",
-          "Children": []
+          "Children": [
+            {
+              "Id": "i15052620",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "1940",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
         },
         {
           "Id": "i24380064",
@@ -51,7 +61,7 @@
             },
             {
               "Id": "i86606770",
-              "Name": "Norman Gibson",
+              "Name": "Norman Alexander Gibson",
               "Gender": "Male",
               "Relationship": "son",
               "DateOfBirth": "19/Jun/1942",

@@ -104,5 +104,5 @@ References |
 ## Source Referenced by
 
 * [Alastair McDonald Gibson](../people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) (19/Jan/1914 - 1978)
-* [Norman Gibson](../people/@86606770@-norman-gibson-b1942-6-19-d2024-4-11.md) (19/Jun/1942 - 11/Apr/2024)
+* [Norman Alexander Gibson](../people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md) (19/Jun/1942 - 11/Apr/2024)
 * [Margaret McKenzie McIver](../people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) (29/Sep/1917 - 12/Sep/2015)

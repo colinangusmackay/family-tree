@@ -96,6 +96,30 @@
       ]
     }
   ],
-  "Spouses": [],
-  "Children": []
+  "Spouses": [
+    {
+      "Id": "i465270",
+      "Name": "Mary Hendry Crawford",
+      "Gender": "Female",
+      "DateOfBirth": "22/Mar/1912",
+      "DateOfDeath": "1991",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "1/Jul/1936",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i15052620",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "1940",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i90830540",
+        "i465270"
+      ]
+    }
+  ]
 }

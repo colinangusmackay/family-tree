@@ -113,6 +113,12 @@ permalink: /indexes/by-all-names
 
 - **[Helen Collins](people/@79475420@-helen-collins-b-d.md)**
 
+## Crawford
+
+- **[Crawford](people/@79368912@-agnes-gibb-hendry-b-d1936.md)** ( - after 1936)
+- **[John Crawford](people/@33792128@-john-crawford-b-d1936.md)** ( - before 1936)
+- **[Mary Hendry Crawford](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991)
+
 ## Cumming
 
 - **[Adam Cumming](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926)
@@ -328,7 +334,7 @@ permalink: /indexes/by-all-names
 - **[Hugh Gibson](people/@22004930@-hugh-gibson-b-d.md)**
 - **[Margaret Gibson](people/@5053655@-margaret-macdonald-b-d.md)**
 - **[Margaret McKenzie Gibson](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
-- **[Norman Gibson](people/@86606770@-norman-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024)
+- **[Norman Alexander Gibson](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024)
 
 ## Gilchrist
 
@@ -450,6 +456,7 @@ permalink: /indexes/by-all-names
 
 ## Hendry
 
+- **[Agnes Gibb Hendry](people/@79368912@-agnes-gibb-hendry-b-d1936.md)** ( - after 1936)
 - **[Margaret Hendry](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - )
 
 ## Hoctor
@@ -734,6 +741,7 @@ permalink: /indexes/by-all-names
 - **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
 - **[Margaret McIver](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[Margaret McKenzie McIver](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
+- **[May McIver](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991)
 - **[McIver](people/@8610974@-christy-maclennan-b-d.md)**
 - **[Roderick McKenzie McIver](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
 - **[Rodrick McIver](people/@53638178@-rodrick-mciver-b-d.md)**

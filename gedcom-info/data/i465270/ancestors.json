@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i465270",
+  "Name": "Mary Hendry Crawford",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "22/Mar/1912",
+  "DateOfDeath": "1991",
+  "Parents": [
+    {
+      "Id": "i79368912",
+      "Name": "Agnes Gibb Hendry",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1936",
+      "Parents": []
+    },
+    {
+      "Id": "i33792128",
+      "Name": "John Crawford",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1936",
+      "Parents": []
+    }
+  ]
+}

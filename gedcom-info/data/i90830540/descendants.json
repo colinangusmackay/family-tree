@@ -5,5 +5,15 @@
   "Relationship": "Self",
   "DateOfBirth": "22/Oct/1910",
   "DateOfDeath": "1999",
-  "Children": []
+  "Children": [
+    {
+      "Id": "i15052620",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1940",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
 }

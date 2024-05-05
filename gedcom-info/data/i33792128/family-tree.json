@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i33792128",
+    "Name": "John Crawford",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1936"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i33792128",
+      "Name": "John Crawford",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1936",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i79368912",
+      "Name": "Agnes Gibb Hendry",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1936",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "26/Sep/1904",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i465270",
+      "Name": "Mary Hendry Crawford",
+      "Gender": "Female",
+      "DateOfBirth": "22/Mar/1912",
+      "DateOfDeath": "1991",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i33792128",
+        "i79368912"
+      ]
+    }
+  ]
+}

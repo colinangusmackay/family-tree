@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i465270",
+  "Name": "Mary Hendry Crawford",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "22/Mar/1912",
+  "DateOfDeath": "1991",
+  "Children": [
+    {
+      "Id": "i15052620",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1940",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

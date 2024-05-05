@@ -197,6 +197,10 @@ There were 4 people who worked as a Crofter.
 * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
 * **[McLean, John](people/@91397610@-john-mclean-b-d1877.md)** ( - after 1877).
 
+## Director of Studies in Art
+
+* **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024).
+
 ## Dockyard Labourer
 
 * **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - ).
@@ -256,6 +260,14 @@ There were 2 people who worked as a Draftsman, Electrical.
 ## Drainer
 
 * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
+
+## Drapery Salesman
+
+* **[Crawford, John](people/@33792128@-john-crawford-b-d1936.md)** ( - before 1936).
+
+## Drapery Workhousewoman
+
+* **[Crawford, Mary Hendry](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991).
 
 ## Driver
 
@@ -531,6 +543,10 @@ There were 2 people who worked as a General Merchant.
 
 * **[Hanton, Mary](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989).
 
+## Head of Department of Arts, Design and Performance
+
+* **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024).
+
 ## Health Care Professional
 
 There were 7 people who worked as a Health Care Professional of some sort.
@@ -670,6 +686,10 @@ There were 2 people who worked as a Lapidary.
 ## Laundry Keeper
 
 * **[McKnight, Thomas](people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md)** (about 1856 - 8/Aug/1897).
+
+## Lecturer in Art
+
+* **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024).
 
 ## Librarian
 
@@ -879,6 +899,10 @@ There were 2 people who worked as a Painter of some sort.
 
 * **[Thomson, Agnes Watson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - ).
 
+## Principal Teacher of Art
+
+* **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024).
+
 ## Printer
 
 * **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967).
@@ -972,6 +996,14 @@ There were 2 people who worked as a Sales of some sort.
 #### Ladies Outfitters Shop Assistant
 
 * **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015).
+
+## School Teacher
+
+* **[McIver, Roderick McKenzie](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999).
+
+## Sculputor and Jeweller
+
+* **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024).
 
 ## Seaman
 
@@ -1127,6 +1159,10 @@ There were 4 people who worked as a Threadmill Worker.
 ## Tracer, Drafting Department
 
 * **[Hoctor, Sylvia Jean](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993).
+
+## Tutor
+
+* **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024).
 
 ## Vulcanite Worker
 
