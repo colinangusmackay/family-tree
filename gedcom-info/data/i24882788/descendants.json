@@ -104,10 +104,19 @@
               "DateOfDeath": "11/Apr/2024",
               "Children": [
                 {
-                  "Id": "i14676128",
+                  "Id": "i87147176",
                   "Name": "X",
                   "Gender": "Male",
                   "Relationship": "son",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i14676128",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
                   "DateOfBirth": "",
                   "DateOfDeath": "",
                   "Children": []

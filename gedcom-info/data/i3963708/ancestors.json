@@ -11,7 +11,7 @@
       "Name": "Alexander Gibson",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "about 1860",
+      "DateOfBirth": "1860",
       "DateOfDeath": "before 1939",
       "Parents": [
         {
@@ -40,7 +40,7 @@
       "Gender": "Female",
       "Relationship": "mother",
       "DateOfBirth": "31/Oct/1872",
-      "DateOfDeath": "",
+      "DateOfDeath": "about 1942",
       "Parents": [
         {
           "Id": "i15598112",

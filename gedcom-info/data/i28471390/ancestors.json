@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i28471390",
+  "Name": "Mary Elizabeth Flood",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1921",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i27080584",
+      "Name": "James Flood",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i8311886",
+      "Name": "Mary Boyle",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

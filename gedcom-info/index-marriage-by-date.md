@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 permalink: /indexes/marriage-by-date
 ---
@@ -74,6 +74,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **Oct/1867** : **[William Mackay](people/@24694904@-william-mackay-b-d.md)** and **[Ann Cumming](people/@5075008@-ann-cumming-b-d.md)** at Dornoch, Sutherland, Scotland.
 * **1869**
   * **16/Nov/1869** : **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ) and **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - ) at Dornoch, Sutherland, Scotland.
+  * **16/Nov/1869** : **[Kenneth Mackay](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901) and **[Barbara Mackay](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - ) at Poles, Dornoch, Sutherland, Scotland.
 
 ### 1870s
 
@@ -136,7 +137,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1897**
   * **before 1897** : X and **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
   * **19/Jan/1897** : **[Thomas Fraser](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932) and **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934) at Dornoch, Sutherland, Scotland.
-  * **16/Jun/1897** : **[Alexander Gibson](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939) and **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b1872-10-31-d.md)** (31/Oct/1872 - ) at Golspie, Sutherland, Scotland.
+  * **16/Jun/1897** : **[Alexander Gibson](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939) and **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b1872-10-31-d1942.md)** (31/Oct/1872 - about 1942) at Golspie, Sutherland, Scotland.
 * **1898**
   * **21/Jan/1898** : **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) and **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
 
@@ -187,7 +188,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **21/Mar/1918** : **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - ) at Applegarth, Dumfries and Galloway, Scotland.
   * **12/Apr/1918** : **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967) and **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) at Middlesborough, England.
 * **1919**
-  * **27/Jun/1919** : **[Thomas Mackay](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934) and **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970) at Glasgow, Scotland.
+  * **27/Jun/1919** : **[Thomas Mackay](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934) and **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970) at Glasgow, Scotland.
 
 ### 1920s
 
@@ -214,7 +215,10 @@ A list of marriages, civil partnerships and civil unions by date.
   * **21/Mar/1930** : **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981) at Toronto, York, Ontario, Canada.
   * **7/Jun/1930** : **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) and **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) at Royal Oak, Oakland County, Michigan, United States of America.
 * **1932**
+  * **about 1932** : **[James Gilchrist](people/@43287262@-james-gilchrist-b1905-d.md)** (about 1905 - ) and **[Annie murie Howie](people/@89893535@-annie-murie-howie-b1912-d.md)** (about 1912 - ) at Glasgow, .
   * **Jul/1932** : **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980) and **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993) at Dewsbury, Yorkshire, England.
+* **1933**
+  * **29/Dec/1933** : **[James Hanton](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975) and **[Mary Elizabeth Flood](people/@28471390@-mary-elizabeth-flood-b1921-d.md)** (about 1921 - ) at Paisley, Renfrewshire, Scotland.
 * **1934**
   * **9/Feb/1934** : **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966) and **[Jean Grant](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971) at Dornoch, Sutherland, Scotland.
   * **2/Mar/1934** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) at Dornoch, Sutherland, Scotland.
@@ -268,8 +272,9 @@ A list of marriages, civil partnerships and civil unions by date.
   * **28/May/1960** : X and **[Sandra Jane Roberts](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019).
   * **30/Jul/1960** : X and **[Anna Jessie MacKay](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021) at Bolton, New York, United States of America.
 * **1962**
-  * **1962** : X and **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019) at Glasgow, Scotland.
+  * **1962** : X and **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019) at Glasgow, Scotland.
 * **1965**
+  * **1965** : **[Norman Alexander Gibson](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024) and **[Morag Fraser](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015) at Aberdeen, Aberdeenshire, Scotland.
   * **1965** : X and **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) at Paisley, Renfrewshire, Scotland.
 * **1968**
   * **14/Dec/1968** : **[Dan Hayes](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018) and X.

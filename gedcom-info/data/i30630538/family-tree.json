@@ -152,6 +152,30 @@
       ]
     }
   ],
-  "Spouses": [],
-  "Children": []
+  "Spouses": [
+    {
+      "Id": "i28471390",
+      "Name": "Mary Elizabeth Flood",
+      "Gender": "Female",
+      "DateOfBirth": "about 1921",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "29/Dec/1933",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i38568338",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "11/Mar/1943",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i30630538",
+        "i28471390"
+      ]
+    }
+  ]
 }

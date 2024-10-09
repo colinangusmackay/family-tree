@@ -25,8 +25,8 @@
       "Gender": "Female",
       "DateOfBirth": "about 1854",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "16/Nov/1869",
       "DateOfDivorce": ""
     }
   ],
@@ -71,7 +71,7 @@
       "Id": "i5045152",
       "Name": "Thomas Mackay",
       "Gender": "Male",
-      "DateOfBirth": "about 1883",
+      "DateOfBirth": "27/Jun/1882",
       "DateOfDeath": "9/Nov/1934",
       "RelationToSubject": "son",
       "ParentIds": [

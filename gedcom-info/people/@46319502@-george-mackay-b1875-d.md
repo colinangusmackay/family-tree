@@ -1,4 +1,4 @@
-﻿---
+---
 layout: person
 subject_key: i46319502
 permalink: /people/i46319502
@@ -13,7 +13,7 @@ permalink: /people/i46319502
 * Mother: [Barbara Mackay](./@53955929@-barbara-mackay-b1854-d.md) (about 1854 - )
 * Brother: [Kenneth Mackay](./@38140776@-kenneth-mackay-b1877-d.md) (about 1877 - )
 * Brother: [David Mackay](./@66349958@-david-mackay-b1879-d.md) (about 1879 - )
-* Brother: [Thomas Mackay](./@5045152@-thomas-mackay-b1883-d1934-11-9.md) (about 1883 - 9/Nov/1934)
+* Brother: [Thomas Mackay](./@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md) (27/Jun/1882 - 9/Nov/1934)
 * Brother: [Bella Mackay](./@54814674@-bella-mackay-b1885-d.md) (about 1885 - )
 
 ## Timeline

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: person
 subject_key: i3963708
 permalink: /people/i3963708
@@ -10,8 +10,8 @@ permalink: /people/i3963708
 ## Immediate Family
 
 * Daughter: X
-* Father: [Alexander Gibson](./@21968540@-alexander-gibson-b1860-d1939.md) (about 1860 - before 1939)
-* Mother: [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b1872-10-31-d.md) (31/Oct/1872 - )
+* Father: [Alexander Gibson](./@21968540@-alexander-gibson-b1860-d1939.md) (1860 - before 1939)
+* Mother: [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b1872-10-31-d1942.md) (31/Oct/1872 - about 1942)
 * Wife: [Margaret McKenzie McIver](./@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) (29/Sep/1917 - 12/Sep/2015)
 * Son: [Norman Alexander Gibson](./@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md) (19/Jun/1942 - 11/Apr/2024)
 
@@ -19,11 +19,12 @@ permalink: /people/i3963708
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-19/Jan/1914 | Born | Born to [Alexander Gibson](./@21968540@-alexander-gibson-b1860-d1939.md) and [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b1872-10-31-d.md) in Corstorphine, Midlothian, Scotland. | [1](#1), [2](#2) | 
-before 1939 | Death of father | [Alexander Gibson](./@21968540@-alexander-gibson-b1860-d1939.md) died. | [2](#2) | 
+19/Jan/1914 | Born | Born to [Alexander Gibson](./@21968540@-alexander-gibson-b1860-d1939.md) and [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b1872-10-31-d1942.md) in Corstorphine, Midlothian, Scotland. | [1](#1), [2](#2) | 
+before 1939 | Death of father | [Alexander Gibson](./@21968540@-alexander-gibson-b1860-d1939.md) died. | [2](#2), [3](#3) | 
 1/Sep/1939 | Marriage | Married to [Margaret McKenzie McIver](./@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) at 2 St Catherine's Gardens, Cortorphine, Edinburgh, Scotland | [2](#2) | 
-19/Jun/1942 | Birth of son | [Norman Alexander Gibson](./@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md) born to [Alastair McDonald Gibson](./@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) and [Margaret McKenzie McIver](./@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) in Edinburgh, Scotland. | [3](#3), [4](#4) | 
-1978 | Died | Died in Rutherglen, South Lanarkshire, Scotland. | [5](#5) | 
+about 1942 | Death of mother | [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b1872-10-31-d1942.md) died. | [3](#3) | 
+19/Jun/1942 | Birth of son | [Norman Alexander Gibson](./@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md) born to [Alastair McDonald Gibson](./@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) and [Margaret McKenzie McIver](./@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) in Edinburgh, Scotland. | [3](#3), [4](#4), [5](#5) | 
+1978 | Died | Died in Rutherglen, South Lanarkshire, Scotland. | [6](#6) | 
 
 ## Known Residences
 
@@ -59,12 +60,23 @@ Date | Occupation | Sources & Notes
 
 ### 3
 
+**2005 X, NORMAN (Brora - Time and change in a Highland village - a photographic portrait by Norman X)**
+
+* [Full text and notes](../sources/@81726947@-2005-gibson,-norman-brora-time-and-change-in-a-highland-village-a-photographic-portrait-by-norman-g….md)
+* Publication: Brora - Time and change in a Highland village - a photographic portrait
+* Originator / Author: Norman X
+* Date: 2005
+* References: 
+  * (ISBN) 0-9538642-1-9
+
+### 4
+
 **2024 GIBSON, NORMAN (Funeral Service Programme)**
 
 * [Full text and notes](../sources/@60420349@-2024-gibson,-norman-funeral-service-programme-.md)
 * Date: 30/Apr/2024
 
-### 4
+### 5
 
 **GIBSON, NORMAN (Donn Country: A 300 year legacy)**
 
@@ -72,7 +84,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * (URL) https://strathnaver.wixsite.com/donncountry/copy-of-lotte-glob
 
-### 5
+### 6
 
 **1978 GIBSON, ALASTAIR MACDON (Index - Statutory Register Death 572/94)**
 

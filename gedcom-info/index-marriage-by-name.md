@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 permalink: /indexes/marriage-by-name
 ---
@@ -99,6 +99,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Lillias Fleming](people/@39306088@-lillias-fleming-b1889-5-25-d.md)** (25/May/1889 - ) and X **on 15th of July 1910** at Blackburn, West Lothian, Scotland.
   * **[Margaret Wood Fleming](people/@90221940@-margaret-wood-fleming-b1879-3-25-d.md)** (25/Mar/1879 - ) and X **on 30th of June 1905** at Blackburn, West Lothian, Scotland.
 
+## Flood
+
+  * **[Mary Elizabeth Flood](people/@28471390@-mary-elizabeth-flood-b1921-d.md)** (about 1921 - ) and **[James Hanton](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975) **on 29th of December 1933** at Paisley, Renfrewshire, Scotland.
+
 ## Fraser
 
   * **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ) and **[Isabella Mackay](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - ) **on 16th of October 1857** at Dornoch, Sutherland, Scotland.
@@ -109,6 +113,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883) and **[Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881) **on 24th of November 1820** at Embo, Sutherland, Scotland.
   * **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) **on 16th of January 1912** at Dornoch, Sutherland, Scotland.
   * **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) **on 2nd of March 1934** at Dornoch, Sutherland, Scotland.
+  * **[Morag Fraser](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015) and **[Norman Alexander Gibson](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024) **in 1965** at Aberdeen, Aberdeenshire, Scotland.
   * **[Thomas Fraser](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932) and **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934) **on 19th of January 1897** at Dornoch, Sutherland, Scotland.
 
 ## Gardiner
@@ -118,7 +123,12 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Gibson
 
   * **[Alastair McDonald Gibson](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978) and **[Margaret McKenzie McIver](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015) **on 1st of September 1939** at Edinburgh, Scotland.
-  * **[Alexander Gibson](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939) and **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b1872-10-31-d.md)** (31/Oct/1872 - ) **on 16th of June 1897** at Golspie, Sutherland, Scotland.
+  * **[Alexander Gibson](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939) and **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b1872-10-31-d1942.md)** (31/Oct/1872 - about 1942) **on 16th of June 1897** at Golspie, Sutherland, Scotland.
+  * **[Norman Alexander Gibson](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024) and **[Morag Fraser](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015) **in 1965** at Aberdeen, Aberdeenshire, Scotland.
+
+## Gilchrist
+
+  * **[James Gilchrist](people/@43287262@-james-gilchrist-b1905-d.md)** (about 1905 - ) and **[Annie murie Howie](people/@89893535@-annie-murie-howie-b1912-d.md)** (about 1912 - ) **about 1932** at Glasgow, .
 
 ## Gillie
 
@@ -142,6 +152,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Andrew Irvine Hanton](people/@53392578@-andrew-irvine-hanton-b1913-5-19-d1963-8-9.md)** (19/May/1913 - 9/Aug/1963) and **[Martha Russell](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963) **on 18th of August 1944** at Paisley, Renfrewshire, Scotland.
   * **[James Hanton](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922) and **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949) **on 7th of August 1901** at Paisley, Renfrewshire, Scotland.
+  * **[James Hanton](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975) and **[Mary Elizabeth Flood](people/@28471390@-mary-elizabeth-flood-b1921-d.md)** (about 1921 - ) **on 29th of December 1933** at Paisley, Renfrewshire, Scotland.
   * **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) and **[John Blue Watson](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963) **on 7th of February 1930** at Paisley, Renfrewshire, Scotland.
   * **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) and X **in 1965** at Paisley, Renfrewshire, Scotland.
   * **[Johnina Hanton](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000) and **[Alexander Napier](people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md)** (2/May/1913 - 25/Jun/1994) **on 22nd of December 1945** at Paisley, Renfrewshire, Scotland.
@@ -178,6 +189,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Sylvia Jean Hoctor](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993) and **[Donald Charles Mitchell](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982) **on 8th of September 1956** at Pittsfield, Berkshire County, Massachusetts, United States of America.
 
+## Howie
+
+  * **[Annie murie Howie](people/@89893535@-annie-murie-howie-b1912-d.md)** (about 1912 - ) and **[James Gilchrist](people/@43287262@-james-gilchrist-b1905-d.md)** (about 1905 - ) **about 1932** at Glasgow, .
+
 ## Lindores
 
   * **[Ann Lindores](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ) and **[John Gillie](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881) **on 26th of May 1880** at Eyemouth, Berwickshire, Scotland.
@@ -208,6 +223,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942) and X **before 1897**.
   * **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942) and **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) **on 21st of January 1898**.
   * **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - ) and **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ) **on 16th of November 1869** at Dornoch, Sutherland, Scotland.
+  * **[Barbara Mackay](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - ) and **[Kenneth Mackay](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901) **on 16th of November 1869** at Poles, Dornoch, Sutherland, Scotland.
   * **[Betsy Mackay](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - ) and **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ) **on 1st of December 1881** at Dornoch, Sutherland, Scotland.
   * **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - ) and **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ) **on 21st of October 1873**.
   * **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ) and **[John Paul Mackay](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969) **on 10th of November 1936** at Embo, Sutherland, Scotland.
@@ -219,7 +235,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Isabella Mackay](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - ) and **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ) **on 16th of October 1857** at Dornoch, Sutherland, Scotland.
   * **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923) and **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1911.md)** (12/Apr/1861 - before 1911) **on 23rd of October 1888** at Dornoch, Sutherland, Scotland.
   * **[Isabella Mackay](people/@89807594@-isabella-mackay-b-d.md)** and **[Donald Ross](people/@16842942@-donald-ross-b-d.md)** **on 4th of February 1896** at Dornoch, Sutherland, Scotland.
-  * **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019) and X **in 1962** at Glasgow, Scotland.
+  * **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019) and X **in 1962** at Glasgow, Scotland.
   * **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1911.md)** (12/Apr/1861 - before 1911) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923) **on 23rd of October 1888** at Dornoch, Sutherland, Scotland.
   * **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934) and **[Thomas Fraser](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932) **on 19th of January 1897** at Dornoch, Sutherland, Scotland.
   * **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - ) and **[John Mackay](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ) **on 24th of March 1892** at Embo, Sutherland, Scotland.
@@ -230,10 +246,11 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[John Mackay](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ) and **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - ) **on 24th of March 1892** at Embo, Sutherland, Scotland.
   * **[John Paul Mackay](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969) and **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ) **on 10th of November 1936** at Embo, Sutherland, Scotland.
   * **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ) and **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - ) **on 16th of November 1869** at Dornoch, Sutherland, Scotland.
-  * **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970) and **[Thomas Mackay](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934) **on 27th of June 1919** at Glasgow, Scotland.
+  * **[Kenneth Mackay](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901) and **[Barbara Mackay](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - ) **on 16th of November 1869** at Poles, Dornoch, Sutherland, Scotland.
+  * **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970) and **[Thomas Mackay](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934) **on 27th of June 1919** at Glasgow, Scotland.
   * **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) and **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) **on 2nd of March 1934** at Dornoch, Sutherland, Scotland.
   * **[Marion Mackay](people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md)** (30/Jun/1821 - 30/Dec/1909) and **[Alexander Ross](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896) **on 7th of February 1840** at Embo, Sutherland, Scotland.
-  * **[Thomas Mackay](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934) and **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970) **on 27th of June 1919** at Glasgow, Scotland.
+  * **[Thomas Mackay](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934) and **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970) **on 27th of June 1919** at Glasgow, Scotland.
   * **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841) and **[Janet Macrae](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - ).
   * **[William Mackay](people/@24694904@-william-mackay-b-d.md)** and **[Ann Cumming](people/@5075008@-ann-cumming-b-d.md)** **in October 1867** at Dornoch, Sutherland, Scotland.
   * **[William Mackay](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ) and **[Cate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - ) **on 7th of November 1876** at Dornoch, Sutherland, Scotland.
@@ -511,7 +528,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Wilson
 
   * **[David Wilson](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - ) and **[Mary Ann McLean](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - ) **on 3rd of October 1866** at Invergordon, Rossshire, Scotland.
-  * **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b1872-10-31-d.md)** (31/Oct/1872 - ) and **[Alexander Gibson](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939) **on 16th of June 1897** at Golspie, Sutherland, Scotland.
+  * **[Elizabeth Wilson](people/@71295041@-elizabeth-wilson-b1872-10-31-d1942.md)** (31/Oct/1872 - about 1942) and **[Alexander Gibson](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939) **on 16th of June 1897** at Golspie, Sutherland, Scotland.
   * **[James Wilson](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - ) and **[Margaret Nicholson](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - ) **on 23rd of November 1839** at Leuchars, Fife, Scotland.
   * **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971) and **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) **in 1927** at Lake George, Warren County, New York, United States of America.
 

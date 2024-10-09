@@ -54,17 +54,41 @@
       ]
     }
   ],
-  "Spouses": [],
+  "Spouses": [
+    {
+      "Id": "i35363781",
+      "Name": "Morag Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "2015",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "1965",
+      "DateOfDivorce": ""
+    }
+  ],
   "Children": [
     {
-      "Id": "i14676128",
+      "Id": "i87147176",
       "Name": "X",
       "Gender": "Male",
       "DateOfBirth": "",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [
-        "i86606770"
+        "i86606770",
+        "i35363781"
+      ]
+    },
+    {
+      "Id": "i14676128",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i86606770",
+        "i35363781"
       ]
     }
   ]

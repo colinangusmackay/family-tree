@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 permalink: /sources/s39254832
 ---

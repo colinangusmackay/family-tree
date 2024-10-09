@@ -1,4 +1,4 @@
-﻿---
+---
 layout: person
 subject_key: i47880504
 permalink: /people/i47880504
@@ -14,7 +14,7 @@ permalink: /people/i47880504
 * Sister: [Annie Wilson](./@8935795@-annie-wilson-b1869-d.md) (about 1869 - )
 * Brother: [James Wilson](./@59901376@-james-wilson-b1870-d.md) (about 1870 - )
 * Brother: [Mary Wilson](./@23013592@-mary-wilson-b1872-d.md) (about 1872 - )
-* Sister: [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b1872-10-31-d.md) (31/Oct/1872 - )
+* Sister: [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b1872-10-31-d1942.md) (31/Oct/1872 - about 1942)
 * Sister: [Alice Wilson](./@71120788@-alice-wilson-b1875-d.md) (about 1875 - )
 * Brother: [David Wilson](./@97100177@-david-wilson-b1880-d.md) (about 1880 - )
 

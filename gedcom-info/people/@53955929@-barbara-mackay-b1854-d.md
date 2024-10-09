@@ -1,4 +1,4 @@
-﻿---
+---
 layout: person
 subject_key: i53955929
 permalink: /people/i53955929
@@ -14,11 +14,11 @@ permalink: /people/i53955929
 
 ## Immediate Family
 
-* Partner: [Kenneth Mackay](./@43646316@-kenneth-mackay-b1813-d1891~1901.md) (about 1813 - bet' 1891 and 1901)
+* Husband: [Kenneth Mackay](./@43646316@-kenneth-mackay-b1813-d1891~1901.md) (about 1813 - bet' 1891 and 1901)
 * Son: [George Mackay](./@46319502@-george-mackay-b1875-d.md) (about 1875 - )
 * Son: [Kenneth Mackay](./@38140776@-kenneth-mackay-b1877-d.md) (about 1877 - )
 * Son: [David Mackay](./@66349958@-david-mackay-b1879-d.md) (about 1879 - )
-* Son: [Thomas Mackay](./@5045152@-thomas-mackay-b1883-d1934-11-9.md) (about 1883 - 9/Nov/1934)
+* Son: [Thomas Mackay](./@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md) (27/Jun/1882 - 9/Nov/1934)
 * Son: [Bella Mackay](./@54814674@-bella-mackay-b1885-d.md) (about 1885 - )
 
 ## Timeline

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 permalink: /sources/s28195272
 ---
@@ -83,5 +83,5 @@ References | 1919 M 644/18 240
 * [Kenneth Mackay](../people/@43646316@-kenneth-mackay-b1813-d1891~1901.md) (about 1813 - bet' 1891 and 1901)
 * [Lucy Mackay](../people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) (23/Sep/1889 - 15/May/1970)
 * [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)
-* [Thomas Mackay](../people/@5045152@-thomas-mackay-b1883-d1934-11-9.md) (about 1883 - 9/Nov/1934)
+* [Thomas Mackay](../people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md) (27/Jun/1882 - 9/Nov/1934)
 * [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 permalink: /indexes/by-death-location
 ---
@@ -23,6 +23,7 @@ permalink: /indexes/by-death-location
 - **[Bolger, Sandra Sarah](people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md)** (30/Aug/1956 - 2023)
 - **[Bond, Helen](people/@39873338@-helen-bond-b-d.md)**
 - **[Boyle, Mary](people/@71324323@-mary-boyle-b-d.md)**
+- **[Boyle, Mary](people/@8311886@-mary-boyle-b-d.md)**
 - **[Buchanan, Janet](people/@48339564@-janet-buchanan-b-d.md)**
 - **[Burns, Mary](people/@81238912@-mary-burns-b-d.md)**
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
@@ -102,15 +103,20 @@ permalink: /indexes/by-death-location
 - **[Fleming, Sarah](people/@286084@-sarah-fleming-b-d1886.md)** ( - before 1886)
 - **[Fleming, Thomas Tennant](people/@79327488@-thomas-tennant-fleming-b1881-8-29-d.md)** (29/Aug/1881 - )
 - **[Fleming, William](people/@78368531@-william-fleming-b1858-d.md)** (about 1858 - )
+- **[Flood, James](people/@27080584@-james-flood-b-d.md)**
+- **[Flood, Mary Elizabeth](people/@28471390@-mary-elizabeth-flood-b1921-d.md)** (about 1921 - )
 - **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
 - **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
 - **[Fraser, Anna Catherine](people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md)** (28/Aug/1937 - 1992)
+- **[Fraser, Morag](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015)
 - **[Fraser, Peter](people/@16594334@-peter-fraser-b-d.md)**
 - **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889)
 - **[Fraser, Thomas](people/@65905028@-thomas-fraser-b1769-d.md)** (before 1769 - )
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
-- **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939)
+- **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939)
 - **[Gibson, Hugh](people/@22004930@-hugh-gibson-b-d.md)**
+- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b-d.md)**
+- **[Gilchrist, James](people/@43287262@-james-gilchrist-b1905-d.md)** (about 1905 - )
 - **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
 - **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - )
 - **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
@@ -151,6 +157,7 @@ permalink: /indexes/by-death-location
 - **[Hendry, Agnes Gibb](people/@79368912@-agnes-gibb-hendry-b-d1936.md)** ( - after 1936)
 - **[Hoctor, James A](people/@72154199@-james-a-hoctor-b-d1993.md)** ( - before 1993)
 - **[Hoctor, Timothy](people/@74378972@-timothy-hoctor-b-d1993.md)** ( - before 1993)
+- **[Howie, Annie murie](people/@89893535@-annie-murie-howie-b1912-d.md)** (about 1912 - )
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
 - **[Johnston, Jane](people/@71906070@-jane-johnston-b1859-d1922.md)** (about 1859 - before 1922)
 - **[LaFavre, Stasia](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
@@ -448,7 +455,7 @@ permalink: /indexes/by-death-location
 - **[Wilson, Clarence](people/@11868717@-clarence-wilson-b-d.md)**
 - **[Wilson, David](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - )
 - **[Wilson, David](people/@97100177@-david-wilson-b1880-d.md)** (about 1880 - )
-- **[Wilson, Elizabeth](people/@71295041@-elizabeth-wilson-b1872-10-31-d.md)** (31/Oct/1872 - )
+- **[Wilson, Elizabeth](people/@71295041@-elizabeth-wilson-b1872-10-31-d1942.md)** (31/Oct/1872 - about 1942)
 - **[Wilson, Ella R](people/@43820265@-ella-r-wilson-b1900-d.md)** (about 1900 - )
 - **[Wilson, Henrietta](people/@47880504@-henrietta-wilson-b1868-d.md)** (about 1868 - )
 - **[Wilson, Henry](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - )
@@ -486,7 +493,7 @@ permalink: /indexes/by-death-location
 
 #### North Pacific Ocean off the coast of Mexico
 
-- **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934)
+- **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934)
 
 
 ## Scotland
@@ -582,7 +589,7 @@ permalink: /indexes/by-death-location
 
 #### Alness
 
-- **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019)
+- **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
 
 ### South Lanarkshire
 

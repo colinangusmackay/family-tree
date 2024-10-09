@@ -39,7 +39,27 @@
           "Relationship": "son",
           "DateOfBirth": "about 1907",
           "DateOfDeath": "1975",
-          "Children": []
+          "Children": [
+            {
+              "Id": "i38568338",
+              "Name": "X",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "11/Mar/1943",
+              "DateOfDeath": "",
+              "Children": [
+                {
+                  "Id": "i32838392",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "13/Nov/1969",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
+            }
+          ]
         },
         {
           "Id": "i65592941",
@@ -96,20 +116,11 @@
           "DateOfDeath": "2000",
           "Children": [
             {
-              "Id": "i84456725",
-              "Name": "X",
-              "Gender": "Male",
-              "Relationship": "son",
-              "DateOfBirth": "",
-              "DateOfDeath": "",
-              "Children": []
-            },
-            {
               "Id": "i25388971",
               "Name": "X",
               "Gender": "Female",
               "Relationship": "daughter",
-              "DateOfBirth": "",
+              "DateOfBirth": "25/Mar/1947",
               "DateOfDeath": "",
               "Children": []
             },
@@ -150,6 +161,15 @@
                   ]
                 }
               ]
+            },
+            {
+              "Id": "i84456725",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "30/Jul/1957",
+              "DateOfDeath": "",
+              "Children": []
             }
           ]
         },

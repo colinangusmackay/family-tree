@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 permalink: /sources/s58977291
 ---
@@ -29,4 +29,4 @@ References |
 
 ## Source Referenced by
 
-* [Isabella Mackay](../people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md) (1/Jan/1936 - 18/Dec/2019)
+* [Isabella Mackay](../people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md) (1/Jan/1936 - 19/Dec/2019)

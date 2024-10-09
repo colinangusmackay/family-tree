@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 permalink: /indexes/by-occupation
 ---
@@ -103,6 +103,10 @@ There were 4 people who worked as a Business Owner of some sort.
 ## Canvaser
 
 * **[Walker, Ollie E](people/@42365832@-ollie-e-walker-b1872-d.md)** (about 1872 - ).
+
+## Car Gear-box Inspector
+
+* **[Hanton, James](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975).
 
 ## Carpenter
 
@@ -489,7 +493,7 @@ There were 51 people who worked as a Fisherman.
 * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ).
 * **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ), mentioned twice.
-* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
+* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934).
 * **[Mackay, William](people/@24694904@-william-mackay-b-d.md)**.
 * **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ).
@@ -562,7 +566,7 @@ There were 7 people who worked as a Health Care Professional of some sort.
 
 #### Midwife
 
-* **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019).
+* **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019).
 
 #### Nurse
 
@@ -597,6 +601,10 @@ There were 7 people who worked as a Health Care Professional of some sort.
 ## Iron Worker
 
 * **[Smith, John](people/@64841197@-john-smith-b-d.md)**.
+
+## Ironmoulder (Journeyman)
+
+* **[Hanton, James](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975).
 
 ## Janitor
 
@@ -729,6 +737,10 @@ There were 3 people who worked as a Linen Weaver.
 
 * **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - ).
 
+## Machinery Painter
+
+* **[Flood, James](people/@27080584@-james-flood-b-d.md)**.
+
 ## Machinist
 
 There were 2 people who worked as a Machinist.
@@ -783,7 +795,7 @@ There were 2 people who worked as a Merchant.
 > 
 > -- From Wikipedia: [Midwife](https://en.wikipedia.org/wiki/Midwife)
 
-* **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-18.md)** (1/Jan/1936 - 18/Dec/2019).
+* **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019).
 
 ## Milk Salesman
 
@@ -975,15 +987,15 @@ There were 4 people who worked as a Retortman (Oilwork).
 
 ## Saddler
 
-* **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939).
+* **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939).
 
 ## Saddler and Harness Maker
 
-* **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939).
+* **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939).
 
 ## Sadler
 
-* **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939).
+* **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939).
 
 ## Sales
 
@@ -1019,11 +1031,11 @@ There were 5 people who worked as a Seaman of some sort.
 
 #### Boatswain
 
-* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
+* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934).
 
 #### Seaman (Merchant Services)
 
-* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934).
+* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934).
 * **[McKenzie, Murdoch](people/@1568232@-murdoch-mckenzie-b-d.md)**.
 
 ## Secretary
@@ -1141,8 +1153,9 @@ There were 3 people who worked as a Tailor of some sort.
 
 ## Threadmill Worker
 
-There were 4 people who worked as a Threadmill Worker.
+There were 5 people who worked as a Threadmill Worker.
 
+* **[Flood, Mary Elizabeth](people/@28471390@-mary-elizabeth-flood-b1921-d.md)** (about 1921 - ).
 * **[Hanton, Jane](people/@65592941@-jane-hanton-b1908-d1930-9-3.md)** (about 1908 - 3/Sep/1930).
 * **[Hanton, Jessie Johnstone](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981).
 * **[Hanton, Mary](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989).

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 permalink: /sources/s2993134
 ---
@@ -171,4 +171,4 @@ References | 1891 C 047/2/13
 * [George Mackay](../people/@46319502@-george-mackay-b1875-d.md) (about 1875 - )
 * [Kenneth Mackay](../people/@43646316@-kenneth-mackay-b1813-d1891~1901.md) (about 1813 - bet' 1891 and 1901)
 * [Kenneth Mackay](../people/@38140776@-kenneth-mackay-b1877-d.md) (about 1877 - )
-* [Thomas Mackay](../people/@5045152@-thomas-mackay-b1883-d1934-11-9.md) (about 1883 - 9/Nov/1934)
+* [Thomas Mackay](../people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md) (27/Jun/1882 - 9/Nov/1934)

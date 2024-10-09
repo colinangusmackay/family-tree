@@ -1,0 +1,35 @@
+﻿{
+  "Subject": {
+    "Id": "i61092708",
+    "Name": "Alexander Gilchrist",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i61092708",
+      "Name": "Alexander Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [],
+  "Children": [
+    {
+      "Id": "i43287262",
+      "Name": "James Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "about 1905",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i61092708"
+      ]
+    }
+  ]
+}

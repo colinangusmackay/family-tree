@@ -82,22 +82,10 @@
   ],
   "Children": [
     {
-      "Id": "i84456725",
-      "Name": "X",
-      "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "son",
-      "ParentIds": [
-        "i80968928",
-        "i68592798"
-      ]
-    },
-    {
       "Id": "i25388971",
       "Name": "X",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "25/Mar/1947",
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
       "ParentIds": [
@@ -112,6 +100,18 @@
       "DateOfBirth": "1954",
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i80968928",
+        "i68592798"
+      ]
+    },
+    {
+      "Id": "i84456725",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "30/Jul/1957",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
       "ParentIds": [
         "i80968928",
         "i68592798"

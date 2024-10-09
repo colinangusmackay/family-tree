@@ -1,4 +1,4 @@
-﻿---
+---
 layout: person
 subject_key: i22004930
 permalink: /people/i22004930
@@ -9,7 +9,7 @@ permalink: /people/i22004930
 ## Immediate Family
 
 * Partner: [Margaret MacDonald](./@5053655@-margaret-macdonald-b-d.md)
-* Son: [Alexander Gibson](./@21968540@-alexander-gibson-b1860-d1939.md) (about 1860 - before 1939)
+* Son: [Alexander Gibson](./@21968540@-alexander-gibson-b1860-d1939.md) (1860 - before 1939)
 
 ## Timeline
 

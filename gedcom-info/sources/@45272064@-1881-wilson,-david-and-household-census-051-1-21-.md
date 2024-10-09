@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 permalink: /sources/s45272064
 ---
@@ -180,7 +180,7 @@ References | 1881 C 051/ 1/ 21
 * [Annie Wilson](../people/@8935795@-annie-wilson-b1869-d.md) (about 1869 - )
 * [David Wilson](../people/@15598112@-david-wilson-b1841-3-22-d.md) (22/Mar/1841 - )
 * [David Wilson](../people/@97100177@-david-wilson-b1880-d.md) (about 1880 - )
-* [Elizabeth Wilson](../people/@71295041@-elizabeth-wilson-b1872-10-31-d.md) (31/Oct/1872 - )
+* [Elizabeth Wilson](../people/@71295041@-elizabeth-wilson-b1872-10-31-d1942.md) (31/Oct/1872 - about 1942)
 * [Henrietta Wilson](../people/@47880504@-henrietta-wilson-b1868-d.md) (about 1868 - )
 * [James Wilson](../people/@59901376@-james-wilson-b1870-d.md) (about 1870 - )
 * [Mary Wilson](../people/@23013592@-mary-wilson-b1872-d.md) (about 1872 - )

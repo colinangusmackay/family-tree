@@ -4,7 +4,7 @@
     "Name": "Elizabeth Wilson",
     "Gender": "Female",
     "DateOfBirth": "31/Oct/1872",
-    "DateOfDeath": ""
+    "DateOfDeath": "about 1942"
   },
   "Parents": [
     {
@@ -86,7 +86,7 @@
       "Name": "Elizabeth Wilson",
       "Gender": "Female",
       "DateOfBirth": "31/Oct/1872",
-      "DateOfDeath": "",
+      "DateOfDeath": "about 1942",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -129,7 +129,7 @@
       "Id": "i21968540",
       "Name": "Alexander Gibson",
       "Gender": "Male",
-      "DateOfBirth": "about 1860",
+      "DateOfBirth": "1860",
       "DateOfDeath": "before 1939",
       "RelationToSubject": "husband",
       "DateOfMarriage": "16/Jun/1897",

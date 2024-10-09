@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i43287262",
+  "Name": "James Gilchrist",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1905",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i61092708",
+      "Name": "Alexander Gilchrist",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

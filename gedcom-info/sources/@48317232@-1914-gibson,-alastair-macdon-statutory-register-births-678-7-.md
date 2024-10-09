@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 permalink: /sources/s48317232
 ---
@@ -42,4 +42,5 @@ References | 1914 B 678/7
 ## Source Referenced by
 
 * [Alastair McDonald Gibson](../people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) (19/Jan/1914 - 1978)
-* [Alexander Gibson](../people/@21968540@-alexander-gibson-b1860-d1939.md) (about 1860 - before 1939)
+* [Alexander Gibson](../people/@21968540@-alexander-gibson-b1860-d1939.md) (1860 - before 1939)
+* [Elizabeth Wilson](../people/@71295041@-elizabeth-wilson-b1872-10-31-d1942.md) (31/Oct/1872 - about 1942)

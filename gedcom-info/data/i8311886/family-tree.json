@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i8311886",
+    "Name": "Mary Boyle",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i8311886",
+      "Name": "Mary Boyle",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i27080584",
+      "Name": "James Flood",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i28471390",
+      "Name": "Mary Elizabeth Flood",
+      "Gender": "Female",
+      "DateOfBirth": "about 1921",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i27080584",
+        "i8311886"
+      ]
+    }
+  ]
+}

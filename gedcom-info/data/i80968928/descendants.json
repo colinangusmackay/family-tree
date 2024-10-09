@@ -7,20 +7,11 @@
   "DateOfDeath": "25/Jun/1994",
   "Children": [
     {
-      "Id": "i84456725",
-      "Name": "X",
-      "Gender": "Male",
-      "Relationship": "son",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Children": []
-    },
-    {
       "Id": "i25388971",
       "Name": "X",
       "Gender": "Female",
       "Relationship": "daughter",
-      "DateOfBirth": "",
+      "DateOfBirth": "25/Mar/1947",
       "DateOfDeath": "",
       "Children": []
     },
@@ -61,6 +52,15 @@
           ]
         }
       ]
+    },
+    {
+      "Id": "i84456725",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "30/Jul/1957",
+      "DateOfDeath": "",
+      "Children": []
     }
   ]
 }

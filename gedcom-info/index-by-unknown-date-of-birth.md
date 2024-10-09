@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 permalink: /indexes/by-unknown-date-of-birth
 ---
@@ -195,7 +195,6 @@ This is a list of people who have vague or unknown dates of birth.
 
 * **Born in 1860.**
   * **[Fleming, Samuel](people/@19337566@-samuel-fleming-b1860-d.md)** (about 1860 - )
-  * **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (about 1860 - before 1939)
 * **Born in 1861.**
   * **[MacLeod, Matilda](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
   * **[Napier, Janet](people/@44813825@-janet-napier-b1861-d.md)** (about 1861 - )
@@ -278,7 +277,6 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Cumming, Elizabeth](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - )
   * **[O'Malley, Bridget](people/@26923306@-bridget-o'malley-b1882-d.md)** (about 1882 - )
 * **Born in 1883.**
-  * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1883-d1934-11-9.md)** (about 1883 - 9/Nov/1934)
   * **[McTurk, Georgina](people/@51187488@-georgina-mcturk-b1883-d.md)** (about 1883 - )
 * **Born in 1884.**
   * **[Fisher, Isabella](people/@51349357@-isabella-fisher-b1884-d.md)** (about 1884 - )
@@ -346,6 +344,7 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Hanton, William](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993)
   * **[Stead, Laura](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
 * **Born in 1905.**
+  * **[Gilchrist, James](people/@43287262@-james-gilchrist-b1905-d.md)** (about 1905 - )
   * **[Napier, John](people/@61882948@-john-napier-b1905-d.md)** (about 1905 - )
   * **[Wilson, Mary Elizabeth](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971)
 * **Born in 1907.**
@@ -360,6 +359,8 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1910.**
   * **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
   * **[Martensen, Charles Raymond](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
+* **Born in 1912.**
+  * **[Howie, Annie murie](people/@89893535@-annie-murie-howie-b1912-d.md)** (about 1912 - )
 * **Born in 1913.**
   * **[Roberts, Janet](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
 * **Born in 1916.**
@@ -373,6 +374,8 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1920.**
   * **[Mackay, Thomas](people/@11442358@-thomas-mackay-b1920-d.md)** (after 1920 - )
   * **[Mackay, William James](people/@53698892@-william-james-mackay-b1920-d.md)** (after 1920 - )
+* **Born in 1921.**
+  * **[Flood, Mary Elizabeth](people/@28471390@-mary-elizabeth-flood-b1921-d.md)** (about 1921 - )
 * **Born in 1923.**
   * **[Hawthorne, Edward Joseph](people/@51411241@-edward-joseph-hawthorne-b1923-4-13-d2013.md)** (about 13/Apr/1923 - 2013)
 * **Born in 1924.**
@@ -396,6 +399,7 @@ This is a list of people who have vague or unknown dates of birth.
 * [Katherine Bode](people/@8567159@-katherine-bode-b-d1930.md) ( - before 1930)
 * [Helen Bond](people/@39873338@-helen-bond-b-d.md)
 * [Mary Boyle](people/@71324323@-mary-boyle-b-d.md)
+* [Mary Boyle](people/@8311886@-mary-boyle-b-d.md)
 * [Janet Buchanan](people/@48339564@-janet-buchanan-b-d.md)
 * [Mary Burns](people/@81238912@-mary-burns-b-d.md)
 * [William Campbell](people/@70442784@-william-campbell-b-d1918.md) ( - before 1918)
@@ -419,9 +423,12 @@ This is a list of people who have vague or unknown dates of birth.
 * [Thomas Fern](people/@34903625@-thomas-fern-b-d.md)
 * [Helen Fisher](people/@31266751@-helen-fisher-b-d1961.md) ( - before 1961)
 * [Sarah Fleming](people/@286084@-sarah-fleming-b-d1886.md) ( - before 1886)
+* [James Flood](people/@27080584@-james-flood-b-d.md)
+* [Morag Fraser](people/@35363781@-morag-fraser-b-d2015.md) ( - 2015)
 * [Peter Fraser](people/@16594334@-peter-fraser-b-d.md)
 * [Thomas Fraser](people/@39286288@-thomas-fraser-b-d1889.md) ( - before 1889)
 * [Hugh Gibson](people/@22004930@-hugh-gibson-b-d.md)
+* [Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b-d.md)
 * [John Gillie](people/@95851656@-john-gillie-b-d1901.md) ( - before 1901)
 * [Jane Gordon](people/@19799810@-jane-gordon-b-d.md)
 * [Jessie Grant](people/@31091676@-jessie-grant-b-d.md)

@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i28471390",
+    "Name": "Mary Elizabeth Flood",
+    "Gender": "Female",
+    "DateOfBirth": "about 1921",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i27080584",
+      "Name": "James Flood",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i8311886",
+      "Name": "Mary Boyle",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i28471390",
+      "Name": "Mary Elizabeth Flood",
+      "Gender": "Female",
+      "DateOfBirth": "about 1921",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i27080584",
+          "i8311886"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i30630538",
+      "Name": "James Hanton",
+      "Gender": "Male",
+      "DateOfBirth": "about 1907",
+      "DateOfDeath": "1975",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "29/Dec/1933",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i38568338",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "11/Mar/1943",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i30630538",
+        "i28471390"
+      ]
+    }
+  ]
+}

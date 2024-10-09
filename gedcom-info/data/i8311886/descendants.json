@@ -1,0 +1,39 @@
+﻿{
+  "Id": "i8311886",
+  "Name": "Mary Boyle",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i28471390",
+      "Name": "Mary Elizabeth Flood",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1921",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i38568338",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "11/Mar/1943",
+          "DateOfDeath": "",
+          "Children": [
+            {
+              "Id": "i32838392",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "13/Nov/1969",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

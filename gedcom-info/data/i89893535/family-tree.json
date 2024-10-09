@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i89893535",
+    "Name": "Annie murie Howie",
+    "Gender": "Female",
+    "DateOfBirth": "about 1912",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i89893535",
+      "Name": "Annie murie Howie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1912",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i43287262",
+      "Name": "James Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "about 1905",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "about 1932",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i66176571",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "24/Apr/1938",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i43287262",
+        "i89893535"
+      ]
+    }
+  ]
+}

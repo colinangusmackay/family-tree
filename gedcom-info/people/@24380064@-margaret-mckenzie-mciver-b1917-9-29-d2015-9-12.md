@@ -1,4 +1,4 @@
-﻿---
+---
 layout: person
 subject_key: i24380064
 permalink: /people/i24380064
@@ -33,18 +33,18 @@ Date | Item | Description | Sources | Notes
 1924 | Birth of brother | [Thomas Clephan McIver](./@74287888@-thomas-clephan-mciver-b1924-d2019.md) born to [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) and [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) in Glasgow, Scotland. | [3](#3) | 
 21/Feb/1938 | Death of father | [Hector McLean McIver](./@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) died in Edinburgh, Scotland. | [4](#4) | 
 1/Sep/1939 | Marriage | Married to [Alastair McDonald Gibson](./@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) at 2 St Catherine's Gardens, Cortorphine, Edinburgh, Scotland | [5](#5) | 
-19/Jun/1942 | Birth of son | [Norman Alexander Gibson](./@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md) born to [Alastair McDonald Gibson](./@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) and [Margaret McKenzie McIver](./@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) in Edinburgh, Scotland. | [6](#6), [7](#7) | 
-5/Apr/1964 | Death of mother | [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) died in Edinburgh, Scotland. | [8](#8) | 
-1978 | Death of partner | [Alastair McDonald Gibson](./@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) died in Rutherglen, South Lanarkshire, Scotland. | [9](#9) | 
-1999 | Death of brother | [Roderick McKenzie McIver](./@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md) died. | [10](#10) | 
+19/Jun/1942 | Birth of son | [Norman Alexander Gibson](./@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md) born to [Alastair McDonald Gibson](./@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) and [Margaret McKenzie McIver](./@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) in Edinburgh, Scotland. | [6](#6), [7](#7), [8](#8) | 
+5/Apr/1964 | Death of mother | [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) died in Edinburgh, Scotland. | [9](#9) | 
+1978 | Death of partner | [Alastair McDonald Gibson](./@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) died in Rutherglen, South Lanarkshire, Scotland. | [10](#10) | 
+1999 | Death of brother | [Roderick McKenzie McIver](./@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md) died. | [11](#11) | 
 27/Jan/2008 | Death of brother | [Hector Spence McIver](./@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) died in Edinburgh, Scotland. |  | 
-12/Sep/2015 | Died | Died in Dundonald, Ayrshire, Scotland. | [11](#11) | 
+12/Sep/2015 | Died | Died in Dundonald, Ayrshire, Scotland. | [12](#12) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1921 | 14 Lyndhurst Gardens, Glasgow | [12](#12)
+1921 | 14 Lyndhurst Gardens, Glasgow | [13](#13)
 1939 | 50 Hillview Crescent, Corstorphine, Edinburgh, Scotland | [5](#5)
 
 ## Known Occupations
@@ -103,12 +103,23 @@ Date | Occupation | Sources & Notes
 
 ### 6
 
+**2005 X, NORMAN (Brora - Time and change in a Highland village - a photographic portrait by Norman X)**
+
+* [Full text and notes](../sources/@81726947@-2005-gibson,-norman-brora-time-and-change-in-a-highland-village-a-photographic-portrait-by-norman-g….md)
+* Publication: Brora - Time and change in a Highland village - a photographic portrait
+* Originator / Author: Norman X
+* Date: 2005
+* References: 
+  * (ISBN) 0-9538642-1-9
+
+### 7
+
 **2024 GIBSON, NORMAN (Funeral Service Programme)**
 
 * [Full text and notes](../sources/@60420349@-2024-gibson,-norman-funeral-service-programme-.md)
 * Date: 30/Apr/2024
 
-### 7
+### 8
 
 **GIBSON, NORMAN (Donn Country: A 300 year legacy)**
 
@@ -116,7 +127,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * (URL) https://strathnaver.wixsite.com/donncountry/copy-of-lotte-glob
 
-### 8
+### 9
 
 **1964 MCIVER, MARGARET PATERS (Statutory Register Deaths 685/3 153)**
 
@@ -126,7 +137,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1964 D 685/3 153
 
-### 9
+### 10
 
 **1978 GIBSON, ALASTAIR MACDON (Index - Statutory Register Death 572/94)**
 
@@ -137,7 +148,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1978 D 572/94
 
-### 10
+### 11
 
 **1999 MCIVER, RODERICK MCKENZIE (Statutory Register Deaths Index 507/ 328)**
 
@@ -146,7 +157,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1999 D 507/ 328
 
-### 11
+### 12
 
 **2015 X, MARGARET MCKENZIE (The Herald - Death Notices and Obituaries)**
 
@@ -156,7 +167,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * (URL) https://www.heraldscotland.com/announcements/deaths/deaths/13777170.Margaret_Gibson/
 
-### 12
+### 13
 
 **1921 MCIVER, HECTOR MCLEAN & Family (Census 644/13 47/ 15)**
 

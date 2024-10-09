@@ -1,4 +1,4 @@
-﻿---
+---
 layout: person
 subject_key: i70442784
 permalink: /people/i70442784
