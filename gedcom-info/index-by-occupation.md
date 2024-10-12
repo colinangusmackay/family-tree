@@ -964,6 +964,10 @@ There were 2 people who worked as a Retail Worker of some sort.
 
 * **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015).
 
+## Retired
+
+* **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982).
+
 ## Retortman (Oilwork)
 
 There were 4 people who worked as a Retortman (Oilwork).

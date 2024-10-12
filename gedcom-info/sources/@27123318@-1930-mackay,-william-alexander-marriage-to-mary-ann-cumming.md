@@ -9,13 +9,57 @@ Field | Detail
 ---:|:---
 Publication | Ontario, Canada, Marriages, 1826-1937
 Originator / Author | 
-Date | 
+Date | 17/Mar/1930
 Responsible Agency | 
 Filed by Entry | 
 References | 002154
 
 ## Text
 
+> No. F. 47455
+>
+> <br/>
+>
+> Province of Ontario
+>
+> By The Honourable William Donald Ross, Lieutenant-Governor of the Province of Ontario
+>
+> To any Person authorized by law to solemnize Marriage in the Province of Ontario
+>
+> I do hereby grant this License for the solemnisation of Marriage bertween
+>
+> <br/>
+>
+> William Alexander Mackay, Township of East York, Ont. and
+>
+> Mary Ann Cumming, Township of East York, Ont.
+>
+> <br/>
+>
+> Provided Always that, by reason of any Affinity.
+>
+> Consanguinite, Prior Marriage, or Other Lawful Cause,
+>
+> there be no Legal Impediment in this behalf; but it otherwise, this license shall be null and void to all intents and whatsoever.
+>
+> Given under my Hand and Seal, at government house, in the City of Toronto, in the Province of Ontario,
+>
+> this sixth day of May, in the year of our Lord one thousand nine hundred and twenty-nine, and in the Twentieth Year of His Majesty's Reign.
+>
+> <br/>
+>
+> Issued this Seventeenth day of March 1930
+>
+> <br/>
+>
+> ____ issuer of Marriage Licenses at Toronto
+>
+> <br/>
+>
+> ---
+>
+> <br/>
+>
 > 002145
 >
 > <br/>
