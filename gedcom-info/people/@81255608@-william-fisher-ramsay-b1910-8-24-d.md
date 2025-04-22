@@ -15,7 +15,7 @@ permalink: /people/i81255608
 * Brother: [James Fisher Ramsay](./@58012424@-james-fisher-ramsay-b1907-1-15-d1908-6-5.md) (15/Jan/1907 - 5/Jun/1908)
 * Brother: [Allan Ramsay](./@62219744@-allan-ramsay-b1911-d1932.md) (1911 - 1932)
 * Brother: [Bruce Morgan Ramsay](./@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md) (10/Oct/1913 - 29/Nov/1965)
-* Sister: [Isabella Ramsay](./@80504300@-isabella-ramsay-b1916-d1974.md) (1916 - 1974)
+* Sister: [Isabella Ramsay](./@80504300@-isabella-ramsay-b1915-6-16-d1974.md) (16/Jun/1915 - 1974)
 * Brother: [Douglas Ramsay](./@12977578@-douglas-ramsay-b1918-d1993.md) (1918 - 1993)
 * Sister: [Helen Fisher Ramsay](./@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md) (28/Sep/1920 - 15/Oct/2015)
 

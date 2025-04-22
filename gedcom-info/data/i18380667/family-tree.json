@@ -3,7 +3,7 @@
     "Id": "i18380667",
     "Name": "Jane McTurk",
     "Gender": "Female",
-    "DateOfBirth": "about 1880",
+    "DateOfBirth": "22/Feb/1880",
     "DateOfDeath": ""
   },
   "Parents": [
@@ -29,7 +29,7 @@
       "Id": "i18380667",
       "Name": "Jane McTurk",
       "Gender": "Female",
-      "DateOfBirth": "about 1880",
+      "DateOfBirth": "22/Feb/1880",
       "DateOfDeath": "",
       "RelationToSubject": "self",
       "ParentGroupIds": [

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i59122260",
+    "Name": "Mary",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i59122260",
+      "Name": "Mary",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i61092708",
+      "Name": "Alexander Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i43287262",
+      "Name": "James Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "about 1904",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i61092708",
+        "i59122260"
+      ]
+    }
+  ]
+}

@@ -16,7 +16,7 @@ permalink: /people/i51187488
 
 * Mother: [Margaret Beatie](./@2654341@-margaret-beatie-b1844-d.md) (about 1844 - )
 * Father: [Alexander McTurk](./@39936423@-alexander-mcturk-b1854-d.md) (about 1854 - )
-* Sister: [Jane McTurk](./@18380667@-jane-mcturk-b1880-d.md) (about 1880 - )
+* Sister: [Jane McTurk](./@18380667@-jane-mcturk-b1880-2-22-d.md) (22/Feb/1880 - )
 * Sister: [Elizabeth McTurk](./@78245729@-elizabeth-mcturk-b1885-d.md) (about 1885 - )
 * Sister: [Grace McTurk](./@54145218@-grace-mcturk-b1886-12-20-d.md) (20/Dec/1886 - )
 

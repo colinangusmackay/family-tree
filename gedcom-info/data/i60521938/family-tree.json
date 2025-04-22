@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i60521938",
+    "Name": "Peter Alexander Howie",
+    "Gender": "Male",
+    "DateOfBirth": "about 1890",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i19655531",
+      "Name": "Peter Howie",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i30556026",
+      "Name": "Annie Boyle",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1911",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i60521938",
+      "Name": "Peter Alexander Howie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i19655531",
+          "i30556026"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i69291286",
+      "Name": "Georgina Hunter",
+      "Gender": "Female",
+      "DateOfBirth": "about 1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "8/Sep/1911",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i89893535",
+      "Name": "Annie Murie Howie",
+      "Gender": "Female",
+      "DateOfBirth": "19/Mar/1912",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i60521938",
+        "i69291286"
+      ]
+    }
+  ]
+}

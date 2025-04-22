@@ -265,7 +265,6 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1880.**
   * **[Hanton, James](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922)
   * **[McKenzie, Christina](people/@25915316@-christina-mckenzie-b1880-d.md)** (about 1880 - )
-  * **[McTurk, Jane](people/@18380667@-jane-mcturk-b1880-d.md)** (about 1880 - )
   * **[O'Malley, Patrick](people/@39412375@-patrick-o'malley-b1880-d.md)** (about 1880 - )
   * **[Ross, Sarah](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - )
   * **[Wilson, David](people/@97100177@-david-wilson-b1880-d.md)** (about 1880 - )
@@ -294,11 +293,13 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1889.**
   * **[Fisher, Margaret](people/@21244212@-margaret-fisher-b1889-d.md)** (about 1889 - )
   * **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958)
+  * **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
   * **[McKnight, Susan](people/@87185096@-susan-mcknight-b1889-d.md)** (about 1889 - )
 
 ### 1890s
 
 * **Born in 1890.**
+  * **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - )
   * **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
 * **Born in 1891.**
   * **[McCann, Alice](people/@69495356@-alice-mccann-b1891-d.md)** (about 1891 - )
@@ -321,7 +322,6 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1898.**
   * **[Roberts, Donald F](people/@38158777@-donald-f-roberts-b1898-d1990.md)** (about 1898 - before 1990)
 * **Born in 1899.**
-  * **[Grant, Jessie Ann](people/@15036054@-jessie-ann-grant-b1899-d.md)** (about 1899 - )
   * **[Mathews, Charles A](people/@74822247@-charles-a-mathews-b1899-d.md)** (about 1899 - )
 
 ## 20th Century
@@ -341,10 +341,10 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1903.**
   * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946)
 * **Born in 1904.**
+  * **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - )
   * **[Hanton, William](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993)
   * **[Stead, Laura](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
 * **Born in 1905.**
-  * **[Gilchrist, James](people/@43287262@-james-gilchrist-b1905-d.md)** (about 1905 - )
   * **[Napier, John](people/@61882948@-john-napier-b1905-d.md)** (about 1905 - )
   * **[Wilson, Mary Elizabeth](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971)
 * **Born in 1907.**
@@ -359,8 +359,6 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1910.**
   * **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
   * **[Martensen, Charles Raymond](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
-* **Born in 1912.**
-  * **[Howie, Annie murie](people/@89893535@-annie-murie-howie-b1912-d.md)** (about 1912 - )
 * **Born in 1913.**
   * **[Roberts, Janet](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
 * **Born in 1916.**
@@ -390,6 +388,7 @@ This is a list of people who have vague or unknown dates of birth.
 
 * [Isabella](people/@41136024@-isabella-b-d1864.md) ( - after 1864)
 * [Joan](people/@53960434@-joan-b-d2021-2-18.md) ( - 18/Feb/2021)
+* [Mary](people/@59122260@-mary-b-d.md)
 * [Nancy](people/@68661720@-nancy-b-d.md)
 * [? ?](people/@94950024@---b-d.md)
 * [Janet Abernethy](people/@82771990@-janet-abernethy-b-d.md)
@@ -398,6 +397,7 @@ This is a list of people who have vague or unknown dates of birth.
 * [Janet Berry](people/@71857147@-janet-berry-b-d.md)
 * [Katherine Bode](people/@8567159@-katherine-bode-b-d1930.md) ( - before 1930)
 * [Helen Bond](people/@39873338@-helen-bond-b-d.md)
+* [Annie Boyle](people/@30556026@-annie-boyle-b-d1911.md) ( - before 1911)
 * [Mary Boyle](people/@71324323@-mary-boyle-b-d.md)
 * [Mary Boyle](people/@8311886@-mary-boyle-b-d.md)
 * [Janet Buchanan](people/@48339564@-janet-buchanan-b-d.md)
@@ -448,6 +448,8 @@ This is a list of people who have vague or unknown dates of birth.
 * [Agnes Gibb Hendry](people/@79368912@-agnes-gibb-hendry-b-d1936.md) ( - after 1936)
 * [James A Hoctor](people/@72154199@-james-a-hoctor-b-d1993.md) ( - before 1993)
 * [Timothy Hoctor](people/@74378972@-timothy-hoctor-b-d1993.md) ( - before 1993)
+* [Peter Howie](people/@19655531@-peter-howie-b-d.md)
+* [James Hunter](people/@13263378@-james-hunter-b-d.md)
 * [Ann Johnson](people/@85807260@-ann-johnson-b-d.md)
 * [Stasia LaFavre](people/@16839684@-stasia-lafavre-b-d2018.md) ( - before 2018)
 * [Andrew Lenox](people/@61792169@-andrew-lenox-b-d.md)
@@ -495,6 +497,7 @@ This is a list of people who have vague or unknown dates of birth.
 * [Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)
 * [John Morrison](people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
 * [Campbell Elizabeth Munn](people/@11230712@-campbell-elizabeth-munn-b-d.md)
+* [Annie Murie](people/@23704804@-annie-murie-b-d.md)
 * [David Napier](people/@71012752@-david-napier-b-d.md)
 * [James Nicholson](people/@30814449@-james-nicholson-b-d.md)
 * [Edward O'Donnell](people/@4921696@-edward-o'donnell-b-d1884.md) ( - before 1884)
@@ -536,4 +539,5 @@ This is a list of people who have vague or unknown dates of birth.
 * [Agnes Watt](people/@64447674@-agnes-watt-b-d.md)
 * [William Williamson](people/@67023796@-william-williamson-b-d.md)
 * [Clarence Wilson](people/@11868717@-clarence-wilson-b-d.md)
+* [Philip John Ant' Wright](people/@66352546@-philip-john-ant'-wright-b-d2025-2.md) ( - Feb/2025)
 * [Mary Younger](people/@25511104@-mary-younger-b-d.md)

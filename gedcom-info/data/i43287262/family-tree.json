@@ -3,7 +3,7 @@
     "Id": "i43287262",
     "Name": "James Gilchrist",
     "Gender": "Male",
-    "DateOfBirth": "about 1905",
+    "DateOfBirth": "about 1904",
     "DateOfDeath": ""
   },
   "Parents": [
@@ -14,6 +14,14 @@
       "DateOfBirth": "",
       "DateOfDeath": "",
       "RelationToSubject": "father"
+    },
+    {
+      "Id": "i59122260",
+      "Name": "Mary",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
     }
   ],
   "Siblings": [
@@ -21,11 +29,12 @@
       "Id": "i43287262",
       "Name": "James Gilchrist",
       "Gender": "Male",
-      "DateOfBirth": "about 1905",
+      "DateOfBirth": "about 1904",
       "DateOfDeath": "",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
+          "i59122260",
           "i61092708"
         ]
       ]
@@ -34,12 +43,12 @@
   "Spouses": [
     {
       "Id": "i89893535",
-      "Name": "Annie murie Howie",
+      "Name": "Annie Murie Howie",
       "Gender": "Female",
-      "DateOfBirth": "about 1912",
+      "DateOfBirth": "19/Mar/1912",
       "DateOfDeath": "",
       "RelationToSubject": "wife",
-      "DateOfMarriage": "about 1932",
+      "DateOfMarriage": "31/Aug/1933",
       "DateOfDivorce": ""
     }
   ],

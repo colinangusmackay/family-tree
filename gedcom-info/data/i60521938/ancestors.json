@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i60521938",
+  "Name": "Peter Alexander Howie",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1890",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i30556026",
+      "Name": "Annie Boyle",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1911",
+      "Parents": []
+    },
+    {
+      "Id": "i19655531",
+      "Name": "Peter Howie",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

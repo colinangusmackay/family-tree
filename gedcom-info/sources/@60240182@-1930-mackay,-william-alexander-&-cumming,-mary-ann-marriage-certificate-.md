@@ -26,9 +26,9 @@ References | (Registration Certificate Number) 8878
 >
 > Mary Ann Cumming
 >
-> at 46 King Edward Avenue, Toronto in the Province of Onatario
+> at 146 King Edward Avenue, Toronto in the Province of Onatario
 >
-> on the 21st dat of March A.D. 1930
+> on the 21st day of March A.D. 1930
 >
 > <br/>
 >

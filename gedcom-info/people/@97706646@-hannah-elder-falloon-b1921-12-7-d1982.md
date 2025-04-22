@@ -16,7 +16,7 @@ permalink: /people/i97706646
 
 * Father: [William John Falloon](./@14463787@-william-john-falloon-b-d.md)
 * Mother: [Campbell Elizabeth Munn](./@11230712@-campbell-elizabeth-munn-b-d.md)
-* Husband: [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) (6/Sep/1928 - 11/Feb/2009)
+* Husband: [Robert Dennis Reginald Mathews](./@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md) (6/Aug/1928 - 11/Feb/2009)
 * Son: [b Albert Mathews](./@35875756@-b-albert-mathews-b1954-d2004.md) (1954 - 2004)
 * Son: X
 * Son: X
@@ -26,11 +26,17 @@ permalink: /people/i97706646
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 7/Dec/1921 | Born | Born to [William John Falloon](./@14463787@-william-john-falloon-b-d.md) and [Campbell Elizabeth Munn](./@11230712@-campbell-elizabeth-munn-b-d.md) in Wishaw, Lanarkshire, Scotland. | [1](#1), [2](#2) | 
-Oct/1952 | Marriage | Married to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) in Birmingham, England | [3](#3) | 
-1954 | Birth of son | [b Albert Mathews](./@35875756@-b-albert-mathews-b1954-d2004.md) born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md). | [4](#4) | 
-6/Dec/1956 | Birth of son | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) in Blackburn, West Lothian, Scotland. | [5](#5) | 
-6/Dec/1956 | Birth of son | X born to [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) in Blackburn, West Lothian, Scotland. | [6](#6) | 
+Oct/1952 | Marriage | Married to [Robert Dennis Reginald Mathews](./@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md) in Birmingham, England | [3](#3) | 
+1954 | Birth of son | [b Albert Mathews](./@35875756@-b-albert-mathews-b1954-d2004.md) born to [Robert Dennis Reginald Mathews](./@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md). | [4](#4) | 
+6/Dec/1956 | Birth of son | X born to [Robert Dennis Reginald Mathews](./@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) in Blackburn, West Lothian, Scotland. | [5](#5) | 
+6/Dec/1956 | Birth of son | X born to [Robert Dennis Reginald Mathews](./@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) in Blackburn, West Lothian, Scotland. | [6](#6) | 
 1982 | Died | Died. | [2](#2) | 
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+before 1982 | Auxiliary Nurse | [7](#7)
 
 ## Footnotes
 
@@ -86,4 +92,14 @@ Oct/1952 | Marriage | Married to [Robert Dennis R Mathews](./@58223940@-robert-d
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1956 B 669/2 66
+
+### 7
+
+**2009 X, ROBERT DENNIS REGINALD (Register of Deaths 772/72)**
+
+* [Full text and notes](../sources/@78865457@-2009-mathews,-robert-dennis-reginald-register-of-deaths-772-72-.md)
+* Date: 12/Feb/2009
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 2009 D 772/ 72
 

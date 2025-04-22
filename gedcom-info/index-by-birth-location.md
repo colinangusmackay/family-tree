@@ -10,6 +10,7 @@ permalink: /indexes/by-birth-location
 - **[, Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
+- **[, Mary](people/@59122260@-mary-b-d.md)**
 - **[, Nancy](people/@68661720@-nancy-b-d.md)**
 - **[?, ](people/@94950024@---b-d.md)**
 - **[Abernethy, Janet](people/@82771990@-janet-abernethy-b-d.md)**
@@ -19,6 +20,7 @@ permalink: /indexes/by-birth-location
 - **[Bode, Katherine](people/@8567159@-katherine-bode-b-d1930.md)** ( - before 1930)
 - **[Bolger, Sandra Sarah](people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md)** (30/Aug/1956 - 2023)
 - **[Bond, Helen](people/@39873338@-helen-bond-b-d.md)**
+- **[Boyle, Annie](people/@30556026@-annie-boyle-b-d1911.md)** ( - before 1911)
 - **[Boyle, Mary](people/@71324323@-mary-boyle-b-d.md)**
 - **[Boyle, Mary](people/@8311886@-mary-boyle-b-d.md)**
 - **[Buchanan, Janet](people/@48339564@-janet-buchanan-b-d.md)**
@@ -35,6 +37,7 @@ permalink: /indexes/by-birth-location
 - **[Cumming, Ann](people/@19882075@-ann-cumming-b-d.md)**
 - **[Cumming, Ann](people/@5075008@-ann-cumming-b-d.md)**
 - **[Cumming, Christy](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
+- **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025)
 - **[Cumming, Donald](people/@24876512@-donald-cumming-b-d.md)**
 - **[Cumming, Donald](people/@69575920@-donald-cumming-b-d1875.md)** ( - after 1875)
 - **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
@@ -67,7 +70,7 @@ permalink: /indexes/by-birth-location
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
 - **[Gibson, Hugh](people/@22004930@-hugh-gibson-b-d.md)**
 - **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b-d.md)**
-- **[Gilchrist, James](people/@43287262@-james-gilchrist-b1905-d.md)** (about 1905 - )
+- **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - )
 - **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
 - **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
 - **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901)
@@ -80,7 +83,6 @@ permalink: /indexes/by-birth-location
 - **[Grant, Donald](people/@15156692@-donald-grant-b1820-d.md)** (before 1820 - )
 - **[Grant, Hugh](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - )
 - **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
-- **[Grant, Jessie Ann](people/@15036054@-jessie-ann-grant-b1899-d.md)** (about 1899 - )
 - **[Grant, Jessie](people/@31091676@-jessie-grant-b-d.md)**
 - **[Grant, Margaret](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
 - **[Gregory, Belle](people/@91101318@-belle-gregory-b-d.md)**
@@ -103,7 +105,10 @@ permalink: /indexes/by-birth-location
 - **[Hendry, Agnes Gibb](people/@79368912@-agnes-gibb-hendry-b-d1936.md)** ( - after 1936)
 - **[Hoctor, James A](people/@72154199@-james-a-hoctor-b-d1993.md)** ( - before 1993)
 - **[Hoctor, Timothy](people/@74378972@-timothy-hoctor-b-d1993.md)** ( - before 1993)
-- **[Howie, Annie murie](people/@89893535@-annie-murie-howie-b1912-d.md)** (about 1912 - )
+- **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - )
+- **[Howie, Peter](people/@19655531@-peter-howie-b-d.md)**
+- **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
+- **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
 - **[LaFavre, Stasia](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
 - **[Lenox, Andrew](people/@61792169@-andrew-lenox-b-d.md)**
@@ -221,6 +226,7 @@ permalink: /indexes/by-birth-location
 - **[Munn, Campbell Elizabeth](people/@11230712@-campbell-elizabeth-munn-b-d.md)**
 - **[Munro, Hugh](people/@24463792@-hugh-munro-b1810-d.md)** (before 1810 - )
 - **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
+- **[Murie, Annie](people/@23704804@-annie-murie-b-d.md)**
 - **[Napier, David](people/@71012752@-david-napier-b-d.md)**
 - **[Nicholson, James](people/@30814449@-james-nicholson-b-d.md)**
 - **[Nicholson, Margaret](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - )
@@ -240,7 +246,6 @@ permalink: /indexes/by-birth-location
 - **[Ramsay, Bruce Morgan](people/@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md)** (10/Oct/1913 - 29/Nov/1965)
 - **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
 - **[Ramsay, George](people/@33817858@-george-ramsay-b-d.md)**
-- **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
 - **[Raymond, Frank](people/@30488355@-frank-raymond-b-d.md)**
 - **[Reid, John](people/@95320597@-john-reid-b-d.md)**
 - **[Rennie, James Fraser](people/@2624560@-james-fraser-rennie-b-d1961.md)** ( - before 1961)
@@ -307,6 +312,7 @@ permalink: /indexes/by-birth-location
 - **[Wilson, James](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - )
 - **[Wilson, Margaret](people/@63936152@-margaret-wilson-b1837-d.md)** (about 1837 - )
 - **[Wilson, Stella K](people/@26878767@-stella-k-wilson-b1902-d.md)** (about 1902 - )
+- **[Wright, Philip John Ant'](people/@66352546@-philip-john-ant'-wright-b-d2025-2.md)** ( - Feb/2025)
 - **[Younger, Mary](people/@25511104@-mary-younger-b-d.md)**
 
 
@@ -339,7 +345,7 @@ permalink: /indexes/by-birth-location
 - **[Mathews, Charles A](people/@74822247@-charles-a-mathews-b1899-d.md)** (about 1899 - )
 - **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
 - **[Mathews, Georgina E](people/@84093657@-georgina-e-mathews-b1886-d.md)** (about 1886 - )
-- **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
+- **[Mathews, Robert Dennis Reginald](people/@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md)** (6/Aug/1928 - 11/Feb/2009)
 
 ### London
 
@@ -437,7 +443,7 @@ permalink: /indexes/by-birth-location
 - **[McTurk, Elizabeth](people/@78245729@-elizabeth-mcturk-b1885-d.md)** (about 1885 - )
 - **[McTurk, Georgina](people/@51187488@-georgina-mcturk-b1883-d.md)** (about 1883 - )
 - **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
-- **[McTurk, Jane](people/@18380667@-jane-mcturk-b1880-d.md)** (about 1880 - )
+- **[McTurk, Jane](people/@18380667@-jane-mcturk-b1880-2-22-d.md)** (22/Feb/1880 - )
 
 #### Lochmaben
 
@@ -469,6 +475,10 @@ permalink: /indexes/by-birth-location
 - **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
 - **[Ramsay, William Fisher](people/@81255608@-william-fisher-ramsay-b1910-8-24-d.md)** (24/Aug/1910 - )
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
+
+#### Portobello
+
+- **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1915-6-16-d1974.md)** (16/Jun/1915 - 1974)
 
 ### Eilean Siar
 
@@ -551,6 +561,10 @@ permalink: /indexes/by-birth-location
 - **[O'Malley, Patrick](people/@39412375@-patrick-o'malley-b1880-d.md)** (about 1880 - )
 - **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004)
 - **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md)** (14/Mar/1916 - before 2004)
+
+#### Cathcart
+
+- **[Howie, Annie Murie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
 
 ### Glasgow City
 
@@ -723,6 +737,7 @@ permalink: /indexes/by-birth-location
 - **[Fraser, Thomas](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932)
 - **[Gillie, Williamina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 - **[Grant, Hugh](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944)
+- **[Grant, Jessie Ann](people/@15036054@-jessie-ann-grant-b1898-10-31-d.md)** (31/Oct/1898 - )
 - **[Mackay, Alexina](people/@75066880@-alexina-mackay-b1935-1-11-d1935.md)** (11/Jan/1935 - 1935)
 - **[Mackay, Ann](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940)
 - **[Mackay, Annie](people/@51252926@-annie-mackay-b1892-12-15-d1918.md)** (15/Dec/1892 - 1918)

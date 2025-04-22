@@ -92,6 +92,7 @@ permalink: /indexes/by-residence-location
 - **[McTurk, Elizabeth](people/@78245729@-elizabeth-mcturk-b1885-d.md)** (about 1885 - )
 - **[McTurk, Georgina](people/@51187488@-georgina-mcturk-b1883-d.md)** (about 1883 - )
 - **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
+- **[McTurk, Jane](people/@18380667@-jane-mcturk-b1880-2-22-d.md)** (22/Feb/1880 - )
 
 #### Lochmaben
 
@@ -101,6 +102,7 @@ permalink: /indexes/by-residence-location
 
 ### Edinburgh
 
+- **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025)
 - **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 - **[Cumming, Wilma May](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009)
 - **[Fisher, Agnes](people/@45605556@-agnes-fisher-b1887-d.md)** (about 1887 - )
@@ -108,6 +110,7 @@ permalink: /indexes/by-residence-location
 - **[Fisher, Helen Currie](people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md)** (29/Nov/1881 - 6/Jun/1953)
 - **[Fisher, Isabella](people/@74012383@-isabella-fisher-b1846-d.md)** (about 1846 - )
 - **[Fisher, Isabella](people/@51349357@-isabella-fisher-b1884-d.md)** (about 1884 - )
+- **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
 - **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
 - **[Fisher, James](people/@39137337@-james-fisher-b1896-d.md)** (about 1896 - )
 - **[Fisher, Johanna](people/@76159436@-johanna-fisher-b1851-d.md)** (about 1851 - )
@@ -127,12 +130,18 @@ permalink: /indexes/by-residence-location
 - **[Ramsay, Bruce Morgan](people/@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md)** (10/Oct/1913 - 29/Nov/1965)
 - **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
 - **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
-- **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
+- **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1915-6-16-d1974.md)** (16/Jun/1915 - 1974)
 - **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
+- **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
+- **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
 - **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
 - **[Seaton, William](people/@58232144@-william-seaton-b1824-d1891.md)** (about 1824 - after 1891)
 - **[Taylor, Helen](people/@47549486@-helen-taylor-b1816-d1865-11-27.md)** (about 1816 - 27/Nov/1865)
+
+#### Portobello
+
+- **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1915-6-16-d1974.md)** (16/Jun/1915 - 1974)
 
 ### Eilean Siar
 
@@ -187,8 +196,10 @@ permalink: /indexes/by-residence-location
 - **[Crawford, Mary Hendry](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991)
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
 - **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
+- **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
 - **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
 - **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - )
+- **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - )
 - **[Lorimer, Archibald King](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - )
 - **[Mackay, Donald James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
@@ -220,6 +231,12 @@ permalink: /indexes/by-residence-location
 - **[Paton, John](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - )
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
 - **[Thomson, Agnes Watson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
+
+### Highland
+
+#### Kingussie
+
+- **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025)
 
 ### Inverness
 
@@ -320,6 +337,7 @@ permalink: /indexes/by-residence-location
 - **[Hanton, Johnina](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000)
 - **[Hanton, Marion](people/@27083581@-marion-hanton-b1916-d2014.md)** (about 1916 - 2014)
 - **[Hanton, Mary](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989)
+- **[Hanton, Mary](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989)
 - **[Hanton, William](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993)
 - **[McAughtrie, Mary Houston](people/@54273056@-mary-houston-mcaughtrie-b1918-d.md)** (about 1918 - )
 - **[McKechnie, Janet](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949)
@@ -400,11 +418,12 @@ permalink: /indexes/by-residence-location
 - **[Grant, Hugh](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - )
 - **[Grant, Hugh](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944)
 - **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
-- **[Grant, Jessie Ann](people/@15036054@-jessie-ann-grant-b1899-d.md)** (about 1899 - )
+- **[Grant, Jessie Ann](people/@15036054@-jessie-ann-grant-b1898-10-31-d.md)** (31/Oct/1898 - )
 - **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - )
 - **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
 - **[Mackay, Ann](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940)
 - **[Mackay, Ann](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
+- **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942)
 - **[Mackay, Annie](people/@51252926@-annie-mackay-b1892-12-15-d1918.md)** (15/Dec/1892 - 1918)
 - **[Mackay, Barbara](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - )
 - **[Mackay, Barbara](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - )
@@ -479,7 +498,7 @@ permalink: /indexes/by-residence-location
 #### Bathgate
 
 - **[Hawthorn, William](people/@92463484@-william-hawthorn-b1847-d1921.md)** (about 1847 - before 1921)
-- **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
+- **[Mathews, Robert Dennis Reginald](people/@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md)** (6/Aug/1928 - 11/Feb/2009)
 - **[O'Donnell, Hannah](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921)
 
 #### Blackburn
@@ -494,7 +513,7 @@ permalink: /indexes/by-residence-location
 - **[Fleming, Joseph](people/@89747088@-joseph-fleming-b1892-10-19-d.md)** (19/Oct/1892 - )
 - **[Fleming, Lillias](people/@39306088@-lillias-fleming-b1889-5-25-d.md)** (25/May/1889 - )
 - **[Fleming, Margaret Wood](people/@90221940@-margaret-wood-fleming-b1879-3-25-d.md)** (25/Mar/1879 - )
-- **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
+- **[Mathews, Robert Dennis Reginald](people/@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md)** (6/Aug/1928 - 11/Feb/2009)
 - **[Tennant, Margaret](people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md)** (19/Nov/1857 - 29/Jun/1924)
 
 #### Livingston
@@ -521,6 +540,7 @@ permalink: /indexes/by-residence-location
 
 #### Whitburn
 
+- **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970)
 - **[Rennie, Agnes](people/@57426108@-agnes-rennie-b1878-d1961-2-7.md)** (1878 - 7/Feb/1961)
 
 
@@ -586,6 +606,11 @@ permalink: /indexes/by-residence-location
 #### Jacksonville, Duval County
 
 - **[Cumming, Wilma May](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009)
+
+#### Lake Park, Palm Beach
+
+- **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
+- **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977)
 
 #### Lake Park, Palm Beach County
 

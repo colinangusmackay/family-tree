@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i13263378",
+    "Name": "James Hunter",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i13263378",
+      "Name": "James Hunter",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i23704804",
+      "Name": "Annie Murie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i69291286",
+      "Name": "Georgina Hunter",
+      "Gender": "Female",
+      "DateOfBirth": "about 1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i13263378",
+        "i23704804"
+      ]
+    }
+  ]
+}

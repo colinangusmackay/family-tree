@@ -118,4 +118,4 @@ References | 1891 C 837/2 1/4
 * [Elizabeth McTurk](../people/@78245729@-elizabeth-mcturk-b1885-d.md) (about 1885 - )
 * [Georgina McTurk](../people/@51187488@-georgina-mcturk-b1883-d.md) (about 1883 - )
 * [Grace McTurk](../people/@54145218@-grace-mcturk-b1886-12-20-d.md) (20/Dec/1886 - )
-* [Jane McTurk](../people/@18380667@-jane-mcturk-b1880-d.md) (about 1880 - )
+* [Jane McTurk](../people/@18380667@-jane-mcturk-b1880-2-22-d.md) (22/Feb/1880 - )

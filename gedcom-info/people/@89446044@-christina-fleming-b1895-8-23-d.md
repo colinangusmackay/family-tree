@@ -28,8 +28,8 @@ permalink: /people/i89446044
 * Husband: [John Albert Mathews](./@5643892@-john-albert-mathews-b1895-11-21-d.md) (21/Nov/1895 - )
 * Sister: [Agnes Fleming](./@29204156@-agnes-fleming-b1898-5-25-d.md) (25/May/1898 - )
 * Son: [Joseph Mathews](./@98232688@-joseph-mathews-b1922-6-15-d.md) (15/Jun/1922 - )
-* Son: [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) (6/Sep/1928 - 11/Feb/2009)
-* Son: X
+* Son: [Robert Dennis Reginald Mathews](./@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md) (6/Aug/1928 - 11/Feb/2009)
+* Daughter: X
 
 ## Timeline
 

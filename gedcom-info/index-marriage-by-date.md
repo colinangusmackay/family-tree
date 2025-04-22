@@ -175,6 +175,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **15/Jul/1910** : X and **[Lillias Fleming](people/@39306088@-lillias-fleming-b1889-5-25-d.md)** (25/May/1889 - ) at Blackburn, West Lothian, Scotland.
 * **1911**
   * **28/Jul/1911** : **[Elizabeth Cumming](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ) and **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - ) at Boston, Massachusetts, United States of America.
+  * **8/Sep/1911** : **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - ) and **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ) at Cathcart, Glasgow, Scotland.
   * **30/Nov/1911** : **[Edward O'Malley](people/@76741424@-edward-o'malley-b1890-1-4-d.md)** (4/Jan/1890 - ) and **[Agnes Watson Thomson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - ) at Glasgow, Scotland.
 * **1912**
   * **16/Jan/1912** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) at Dornoch, Sutherland, Scotland.
@@ -215,9 +216,9 @@ A list of marriages, civil partnerships and civil unions by date.
   * **21/Mar/1930** : **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981) at Toronto, York, Ontario, Canada.
   * **7/Jun/1930** : **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) and **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) at Royal Oak, Oakland County, Michigan, United States of America.
 * **1932**
-  * **about 1932** : **[James Gilchrist](people/@43287262@-james-gilchrist-b1905-d.md)** (about 1905 - ) and **[Annie murie Howie](people/@89893535@-annie-murie-howie-b1912-d.md)** (about 1912 - ) at Glasgow, .
   * **Jul/1932** : **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980) and **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993) at Dewsbury, Yorkshire, England.
 * **1933**
+  * **31/Aug/1933** : **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - ) and **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - ) at Glasgow, .
   * **29/Dec/1933** : **[James Hanton](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975) and **[Mary Elizabeth Flood](people/@28471390@-mary-elizabeth-flood-b1921-d.md)** (about 1921 - ) at Paisley, Renfrewshire, Scotland.
 * **1934**
   * **9/Feb/1934** : **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966) and **[Jean Grant](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971) at Dornoch, Sutherland, Scotland.
@@ -258,7 +259,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1951**
   * **1951** : **[Thomas Clephan McIver](people/@74287888@-thomas-clephan-mciver-b1924-d2019.md)** (1924 - 2019) and X at Aberdeen, Aberdeenshire, Scotland.
 * **1952**
-  * **Oct/1952** : **[Robert Dennis R Mathews](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009) and **[Hannah Elder Falloon](people/@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md)** (7/Dec/1921 - 1982) at Birmingham, England.
+  * **Oct/1952** : **[Robert Dennis Reginald Mathews](people/@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md)** (6/Aug/1928 - 11/Feb/2009) and **[Hannah Elder Falloon](people/@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md)** (7/Dec/1921 - 1982) at Birmingham, England.
 * **1953**
   * **6/Jan/1953** : **[Clinton Edwin Monson](people/@24393948@-clinton-edwin-monson-b1931-9-9-d2019-7-15.md)** (9/Sep/1931 - 15/Jul/2019) and **[Wilma May Cumming](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009) at Escanaba, Delta County, Michigan, United States of America.
 * **1956**
@@ -276,6 +277,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1965**
   * **1965** : **[Norman Alexander Gibson](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024) and **[Morag Fraser](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015) at Aberdeen, Aberdeenshire, Scotland.
   * **1965** : X and **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) at Paisley, Renfrewshire, Scotland.
+  * **1965** : **[Donald Bernard Cumming](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025) and X.
 * **1968**
   * **14/Dec/1968** : **[Dan Hayes](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018) and X.
 * **1969**
@@ -294,6 +296,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1981**
   * **6/Jun/1981** : X and **[Linda Margaret Campbell](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016) at Blackburn, West Lothian, Scotland.
+* **1988**
+  * **1988** : **[Philip John Ant' Wright](people/@66352546@-philip-john-ant'-wright-b-d2025-2.md)** ( - Feb/2025) and X at Glasgow, Scotland.
 
 ## Unknown Date
 

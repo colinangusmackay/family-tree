@@ -8,5 +8,6 @@ permalink: /people/i61092708
 
 ## Immediate Family
 
-* Son: [James Gilchrist](./@43287262@-james-gilchrist-b1905-d.md) (about 1905 - )
+* Partner: [Mary](./@59122260@-mary-b-d.md)
+* Son: [James Gilchrist](./@43287262@-james-gilchrist-b1904-d.md) (about 1904 - )
 

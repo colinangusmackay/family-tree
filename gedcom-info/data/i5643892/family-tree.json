@@ -109,9 +109,9 @@
     },
     {
       "Id": "i58223940",
-      "Name": "Robert Dennis R Mathews",
+      "Name": "Robert Dennis Reginald Mathews",
       "Gender": "Male",
-      "DateOfBirth": "6/Sep/1928",
+      "DateOfBirth": "6/Aug/1928",
       "DateOfDeath": "11/Feb/2009",
       "RelationToSubject": "son",
       "ParentIds": [
@@ -122,10 +122,10 @@
     {
       "Id": "i14711172",
       "Name": "X",
-      "Gender": "Male",
+      "Gender": "Female",
       "DateOfBirth": "31/Jul/1931",
       "DateOfDeath": "",
-      "RelationToSubject": "son",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i5643892",
         "i89446044"

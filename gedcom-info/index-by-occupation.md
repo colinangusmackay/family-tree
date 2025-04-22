@@ -20,6 +20,10 @@ permalink: /indexes/by-occupation
 
 * **[Hanton, James](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975).
 
+## Auxiliary Nurse
+
+* **[Falloon, Hannah Elder](people/@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md)** (7/Dec/1921 - 1982).
+
 ## Baker
 
 There were 2 people who worked as a Baker of some sort.
@@ -135,6 +139,18 @@ There were 3 people who worked as a Carpenter of some sort.
 ## Cement Finisher
 
 * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982), mentioned 4 times.
+
+## Cheese Merchant
+
+* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - ).
+
+## Cheese Merchant's Salesman
+
+* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - ).
+
+## Cheese Storeman
+
+* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - ).
 
 ## Child Care Professional
 
@@ -299,7 +315,7 @@ There were 9 people who worked as a Driver of some sort.
 
 #### Railway Engine Driver
 
-* **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920), mentioned 4 times.
+* **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920), mentioned 5 times.
 
 #### Tramcar Driver
 
@@ -610,7 +626,7 @@ There were 7 people who worked as a Health Care Professional of some sort.
 
 There were 4 people who worked as a Janitor of some sort.
 
-* **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009).
+* **[Mathews, Robert Dennis Reginald](people/@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md)** (6/Aug/1928 - 11/Feb/2009).
 
 #### Caretaker
 
@@ -643,6 +659,10 @@ There were 3 people who worked as a Joiner of some sort.
 
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
 * **[Nicholson, James](people/@30814449@-james-nicholson-b-d.md)**.
+
+## Joiner Journeyman
+
+* **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**.
 
 ## Labourer
 
@@ -775,6 +795,10 @@ There were 2 people who worked as a Manager of some sort.
 ## Master Tailor
 
 * **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938).
+
+## Mercantile Clerk
+
+* **[Howie, Peter](people/@19655531@-peter-howie-b-d.md)**.
 
 ## Merchant
 
@@ -1055,6 +1079,10 @@ There were 5 people who worked as a Secretary.
 ## Servant
 
 * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
+
+## Sewing Machinist
+
+* **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ).
 
 ## Shepherd
 

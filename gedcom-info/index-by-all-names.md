@@ -19,9 +19,11 @@ permalink: /indexes/by-all-names
 - **[Lula](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970)
 - **[Maggie](people/@57014804@-margaret-mcrae-b-d.md)**
 - **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
+- **[Mary](people/@59122260@-mary-b-d.md)**
 - **[Marybet](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014)
 - **[Mina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 - **[Nancy](people/@68661720@-nancy-b-d.md)**
+- **[Phil](people/@66352546@-philip-john-ant'-wright-b-d2025-2.md)** ( - Feb/2025)
 - **[Teenie](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
 
 ## ?
@@ -70,6 +72,7 @@ permalink: /indexes/by-all-names
 
 ## Boyle
 
+- **[Annie Boyle](people/@30556026@-annie-boyle-b-d1911.md)** ( - before 1911)
 - **[Mary Boyle](people/@71324323@-mary-boyle-b-d.md)**
 - **[Mary Boyle](people/@8311886@-mary-boyle-b-d.md)**
 
@@ -152,6 +155,7 @@ permalink: /indexes/by-all-names
 - **[Cumming](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
 - **[Cumming](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - )
 - **[Cumming](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
+- **[Donald Bernard Cumming](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025)
 - **[Donald Cumming](people/@24876512@-donald-cumming-b-d.md)**
 - **[Donald Cumming](people/@69575920@-donald-cumming-b-d1875.md)** ( - after 1875)
 - **[Donald Cumming](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
@@ -349,10 +353,11 @@ permalink: /indexes/by-all-names
 ## Gilchrist
 
 - **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b-d.md)**
-- **[Gilchrist](people/@89893535@-annie-murie-howie-b1912-d.md)** (about 1912 - )
+- **[Gilchrist](people/@59122260@-mary-b-d.md)**
+- **[Gilchrist](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
 - **[Isabella Gilchrist](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
 - **[Isobel Gilchrist](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
-- **[James Gilchrist](people/@43287262@-james-gilchrist-b1905-d.md)** (about 1905 - )
+- **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - )
 
 ## Gillie
 
@@ -384,7 +389,7 @@ permalink: /indexes/by-all-names
 - **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944)
 - **[Janet Grant](people/@44945539@-janet-mackay-b1820-d.md)** (before 1820 - )
 - **[Jean Grant](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
-- **[Jessie Ann Grant](people/@15036054@-jessie-ann-grant-b1899-d.md)** (about 1899 - )
+- **[Jessie Ann Grant](people/@15036054@-jessie-ann-grant-b1898-10-31-d.md)** (31/Oct/1898 - )
 - **[Jessie Grant](people/@31091676@-jessie-grant-b-d.md)**
 - **[Jessie Grant](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
 - **[Kate Grant](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
@@ -481,7 +486,17 @@ permalink: /indexes/by-all-names
 
 ## Howie
 
-- **[Annie murie Howie](people/@89893535@-annie-murie-howie-b1912-d.md)** (about 1912 - )
+- **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
+- **[Howie](people/@30556026@-annie-boyle-b-d1911.md)** ( - before 1911)
+- **[Howie](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
+- **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - )
+- **[Peter Howie](people/@19655531@-peter-howie-b-d.md)**
+
+## Hunter
+
+- **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
+- **[Hunter](people/@23704804@-annie-murie-b-d.md)**
+- **[James Hunter](people/@13263378@-james-hunter-b-d.md)**
 
 ## Johnson
 
@@ -718,7 +733,7 @@ permalink: /indexes/by-all-names
 - **[Linda Margaret Mathews](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[Mathews](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - )
 - **[Mathews](people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md)** (30/Aug/1956 - 2023)
-- **[Robert Dennis R Mathews](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
+- **[Robert Dennis Reginald Mathews](people/@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md)** (6/Aug/1928 - 11/Feb/2009)
 
 ## McAughtrie
 
@@ -840,7 +855,7 @@ permalink: /indexes/by-all-names
 - **[Georgina McTurk](people/@51187488@-georgina-mcturk-b1883-d.md)** (about 1883 - )
 - **[Georgina McTurk](people/@51187488@-georgina-mcturk-b1883-d.md)** (about 1883 - )
 - **[Grace McTurk](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
-- **[Jane McTurk](people/@18380667@-jane-mcturk-b1880-d.md)** (about 1880 - )
+- **[Jane McTurk](people/@18380667@-jane-mcturk-b1880-2-22-d.md)** (22/Feb/1880 - )
 - **[Maggie McTurk](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - )
 - **[Margaret McTurk](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - )
 
@@ -892,6 +907,10 @@ permalink: /indexes/by-all-names
 - **[Isabella Munro](people/@80519670@-isabella-sutherland-b1810-d.md)** (before 1810 - )
 - **[Janet Munro](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
 - **[Jessie Munro](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
+
+## Murie
+
+- **[Annie Murie](people/@23704804@-annie-murie-b-d.md)**
 
 ## Nairn
 
@@ -1015,7 +1034,7 @@ permalink: /indexes/by-all-names
 - **[George Ramsay](people/@33817858@-george-ramsay-b-d.md)**
 - **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 - **[Isabella Ramsay](people/@54722192@-isabella-ramsay-b1878-d.md)** (about 1878 - )
-- **[Isabella Ramsay](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
+- **[Isabella Ramsay](people/@80504300@-isabella-ramsay-b1915-6-16-d1974.md)** (16/Jun/1915 - 1974)
 - **[Jack Ramsay](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
 - **[James Fisher Ramsay](people/@58012424@-james-fisher-ramsay-b1907-1-15-d1908-6-5.md)** (15/Jan/1907 - 5/Jun/1908)
 - **[John Morgan Ramsay](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
@@ -1313,6 +1332,10 @@ permalink: /indexes/by-all-names
 ## Wood
 
 - **[Margaret Wood](people/@50500805@-margaret-wood-b1827-d1871.md)** (about 1827 - before 1871)
+
+## Wright
+
+- **[Philip John Ant' Wright](people/@66352546@-philip-john-ant'-wright-b-d2025-2.md)** ( - Feb/2025)
 
 ## Wynn
 

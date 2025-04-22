@@ -54,23 +54,15 @@ References | (Passport Number) G102330A
 >
 > UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
 >
-> <br/>
->
 > *ROYAUME-UNI DE GRANDE-BRETAGNE ET D'IRLANDE DU NORD*
 >
 > <br/>
 >
 > * Name of bearer / *Nom du titulaire* : MR WILLIAM ALEXANDER MACKAY
 >
-> <br/>
->
 > * National status / *Nationalité* : British Subject; Citizen of the United Kingdom and Colonies
 >
-> <br/>
->
 > * No. of passport / *No. du passeport* : **G** 102330 **A**
->
-> <br/>
 >
 > Attention is drawn to the notes at the back of this passport
 >
@@ -146,8 +138,6 @@ References | (Passport Number) G102330A
 >
 > U. S. IMMIGRATION
 >
-> <br/>
->
 > 020 BOS. 12
 >
 > <br/>
@@ -156,9 +146,7 @@ References | (Passport Number) G102330A
 >
 > <br/>
 >
-> ADDMITTED: _____
->
-> <br/>
+> ADMITTED: _____
 >
 > UNTIL
 >
@@ -176,29 +164,17 @@ References | (Passport Number) G102330A
 >
 > <br/>
 >
-> VISA
->
-> <br/>
->
-> ISSUED AT
->
-> <br/>
->
-> EDINBURGH
+> VISA ISSUED AT EDINBURGH
 >
 > <br/>
 >
 > CLASSIFICATION: B-2
->
-> <br/>
 >
 > DATE: 12 FEB 1979
 >
 > <br/>
 >
 > VALID UNTIL: INDEFINITELY
->
-> <br/>
 >
 > MULTIPLE APPLICATIONS FOR ENTRY
 >

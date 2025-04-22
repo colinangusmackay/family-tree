@@ -1,21 +1,43 @@
 ﻿{
   "Subject": {
     "Id": "i89893535",
-    "Name": "Annie murie Howie",
+    "Name": "Annie Murie Howie",
     "Gender": "Female",
-    "DateOfBirth": "about 1912",
+    "DateOfBirth": "19/Mar/1912",
     "DateOfDeath": ""
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i69291286",
+      "Name": "Georgina Hunter",
+      "Gender": "Female",
+      "DateOfBirth": "about 1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i60521938",
+      "Name": "Peter Alexander Howie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i89893535",
-      "Name": "Annie murie Howie",
+      "Name": "Annie Murie Howie",
       "Gender": "Female",
-      "DateOfBirth": "about 1912",
+      "DateOfBirth": "19/Mar/1912",
       "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i60521938",
+          "i69291286"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,10 +45,10 @@
       "Id": "i43287262",
       "Name": "James Gilchrist",
       "Gender": "Male",
-      "DateOfBirth": "about 1905",
+      "DateOfBirth": "about 1904",
       "DateOfDeath": "",
       "RelationToSubject": "husband",
-      "DateOfMarriage": "about 1932",
+      "DateOfMarriage": "31/Aug/1933",
       "DateOfDivorce": ""
     }
   ],

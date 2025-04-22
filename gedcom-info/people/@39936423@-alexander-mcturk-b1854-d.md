@@ -10,7 +10,7 @@ permalink: /people/i39936423
 ## Immediate Family
 
 * Wife: [Margaret Beatie](./@2654341@-margaret-beatie-b1844-d.md) (about 1844 - )
-* Daughter: [Jane McTurk](./@18380667@-jane-mcturk-b1880-d.md) (about 1880 - )
+* Daughter: [Jane McTurk](./@18380667@-jane-mcturk-b1880-2-22-d.md) (22/Feb/1880 - )
 * Daughter: [Georgina McTurk](./@51187488@-georgina-mcturk-b1883-d.md) (about 1883 - )
 * Daughter: [Elizabeth McTurk](./@78245729@-elizabeth-mcturk-b1885-d.md) (about 1885 - )
 * Daughter: [Grace McTurk](./@54145218@-grace-mcturk-b1886-12-20-d.md) (20/Dec/1886 - )

@@ -11,6 +11,7 @@ permalink: /indexes/by-family-name
 - **[Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
+- **[Mary](people/@59122260@-mary-b-d.md)**
 - **[Nancy](people/@68661720@-nancy-b-d.md)**
 
 ## ?
@@ -55,6 +56,7 @@ permalink: /indexes/by-family-name
 
 ## Boyle
 
+- **[Annie Boyle](people/@30556026@-annie-boyle-b-d1911.md)** ( - before 1911)
 - **[Mary Boyle](people/@71324323@-mary-boyle-b-d.md)**
 - **[Mary Boyle](people/@8311886@-mary-boyle-b-d.md)**
 
@@ -113,6 +115,7 @@ permalink: /indexes/by-family-name
 - **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md)** (30/Aug/1885 - 1977)
 - **[Christine Cumming](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 - **[Christy Cumming](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
+- **[Donald Bernard Cumming](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025)
 - **[Donald Cumming](people/@24876512@-donald-cumming-b-d.md)**
 - **[Donald Cumming](people/@69575920@-donald-cumming-b-d1875.md)** ( - after 1875)
 - **[Donald Cumming](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
@@ -267,7 +270,7 @@ permalink: /indexes/by-family-name
 ## Gilchrist
 
 - **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b-d.md)**
-- **[James Gilchrist](people/@43287262@-james-gilchrist-b1905-d.md)** (about 1905 - )
+- **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - )
 
 ## Gillie
 
@@ -292,7 +295,7 @@ permalink: /indexes/by-family-name
 - **[Hugh Grant](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - )
 - **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944)
 - **[Jean Grant](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
-- **[Jessie Ann Grant](people/@15036054@-jessie-ann-grant-b1899-d.md)** (about 1899 - )
+- **[Jessie Ann Grant](people/@15036054@-jessie-ann-grant-b1898-10-31-d.md)** (31/Oct/1898 - )
 - **[Jessie Grant](people/@31091676@-jessie-grant-b-d.md)**
 - **[Margaret Grant](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
 
@@ -367,7 +370,14 @@ permalink: /indexes/by-family-name
 
 ## Howie
 
-- **[Annie murie Howie](people/@89893535@-annie-murie-howie-b1912-d.md)** (about 1912 - )
+- **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
+- **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - )
+- **[Peter Howie](people/@19655531@-peter-howie-b-d.md)**
+
+## Hunter
+
+- **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
+- **[James Hunter](people/@13263378@-james-hunter-b-d.md)**
 
 ## Johnson
 
@@ -540,7 +550,7 @@ permalink: /indexes/by-family-name
 - **[Georgina E Mathews](people/@84093657@-georgina-e-mathews-b1886-d.md)** (about 1886 - )
 - **[John Albert Mathews](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 - **[Joseph Mathews](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - )
-- **[Robert Dennis R Mathews](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
+- **[Robert Dennis Reginald Mathews](people/@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md)** (6/Aug/1928 - 11/Feb/2009)
 
 ## McAughtrie
 
@@ -634,7 +644,7 @@ permalink: /indexes/by-family-name
 - **[Elizabeth McTurk](people/@78245729@-elizabeth-mcturk-b1885-d.md)** (about 1885 - )
 - **[Georgina McTurk](people/@51187488@-georgina-mcturk-b1883-d.md)** (about 1883 - )
 - **[Grace McTurk](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
-- **[Jane McTurk](people/@18380667@-jane-mcturk-b1880-d.md)** (about 1880 - )
+- **[Jane McTurk](people/@18380667@-jane-mcturk-b1880-2-22-d.md)** (22/Feb/1880 - )
 
 ## Miller
 
@@ -670,6 +680,10 @@ permalink: /indexes/by-family-name
 
 - **[Hugh Munro](people/@24463792@-hugh-munro-b1810-d.md)** (before 1810 - )
 - **[Jessie Munro](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
+
+## Murie
+
+- **[Annie Murie](people/@23704804@-annie-murie-b-d.md)**
 
 ## Napier
 
@@ -763,7 +777,7 @@ permalink: /indexes/by-family-name
 - **[George Ramsay](people/@33817858@-george-ramsay-b-d.md)**
 - **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 - **[Isabella Ramsay](people/@54722192@-isabella-ramsay-b1878-d.md)** (about 1878 - )
-- **[Isabella Ramsay](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
+- **[Isabella Ramsay](people/@80504300@-isabella-ramsay-b1915-6-16-d1974.md)** (16/Jun/1915 - 1974)
 - **[James Fisher Ramsay](people/@58012424@-james-fisher-ramsay-b1907-1-15-d1908-6-5.md)** (15/Jan/1907 - 5/Jun/1908)
 - **[John Morgan Ramsay](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
 - **[John Ramsay](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - )
@@ -983,6 +997,10 @@ permalink: /indexes/by-family-name
 ## Wood
 
 - **[Margaret Wood](people/@50500805@-margaret-wood-b1827-d1871.md)** (about 1827 - before 1871)
+
+## Wright
+
+- **[Philip John Ant' Wright](people/@66352546@-philip-john-ant'-wright-b-d2025-2.md)** ( - Feb/2025)
 
 ## Wynn
 

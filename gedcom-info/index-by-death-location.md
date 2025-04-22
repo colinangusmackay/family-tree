@@ -11,6 +11,7 @@ permalink: /indexes/by-death-location
 - **[, Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
+- **[, Mary](people/@59122260@-mary-b-d.md)**
 - **[, Nancy](people/@68661720@-nancy-b-d.md)**
 - **[?, ](people/@94950024@---b-d.md)**
 - **[Abernethy, Janet](people/@82771990@-janet-abernethy-b-d.md)**
@@ -22,6 +23,7 @@ permalink: /indexes/by-death-location
 - **[Bode, Katherine](people/@8567159@-katherine-bode-b-d1930.md)** ( - before 1930)
 - **[Bolger, Sandra Sarah](people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md)** (30/Aug/1956 - 2023)
 - **[Bond, Helen](people/@39873338@-helen-bond-b-d.md)**
+- **[Boyle, Annie](people/@30556026@-annie-boyle-b-d1911.md)** ( - before 1911)
 - **[Boyle, Mary](people/@71324323@-mary-boyle-b-d.md)**
 - **[Boyle, Mary](people/@8311886@-mary-boyle-b-d.md)**
 - **[Buchanan, Janet](people/@48339564@-janet-buchanan-b-d.md)**
@@ -116,7 +118,7 @@ permalink: /indexes/by-death-location
 - **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939)
 - **[Gibson, Hugh](people/@22004930@-hugh-gibson-b-d.md)**
 - **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b-d.md)**
-- **[Gilchrist, James](people/@43287262@-james-gilchrist-b1905-d.md)** (about 1905 - )
+- **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - )
 - **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
 - **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - )
 - **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
@@ -129,7 +131,7 @@ permalink: /indexes/by-death-location
 - **[Grant, Christy](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
 - **[Grant, Donald](people/@15156692@-donald-grant-b1820-d.md)** (before 1820 - )
 - **[Grant, Hugh](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - )
-- **[Grant, Jessie Ann](people/@15036054@-jessie-ann-grant-b1899-d.md)** (about 1899 - )
+- **[Grant, Jessie Ann](people/@15036054@-jessie-ann-grant-b1898-10-31-d.md)** (31/Oct/1898 - )
 - **[Grant, Jessie](people/@31091676@-jessie-grant-b-d.md)**
 - **[Grant, Margaret](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
 - **[Gregory, Belle](people/@91101318@-belle-gregory-b-d.md)**
@@ -157,7 +159,11 @@ permalink: /indexes/by-death-location
 - **[Hendry, Agnes Gibb](people/@79368912@-agnes-gibb-hendry-b-d1936.md)** ( - after 1936)
 - **[Hoctor, James A](people/@72154199@-james-a-hoctor-b-d1993.md)** ( - before 1993)
 - **[Hoctor, Timothy](people/@74378972@-timothy-hoctor-b-d1993.md)** ( - before 1993)
-- **[Howie, Annie murie](people/@89893535@-annie-murie-howie-b1912-d.md)** (about 1912 - )
+- **[Howie, Annie Murie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
+- **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - )
+- **[Howie, Peter](people/@19655531@-peter-howie-b-d.md)**
+- **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
+- **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
 - **[Johnston, Jane](people/@71906070@-jane-johnston-b1859-d1922.md)** (about 1859 - before 1922)
 - **[LaFavre, Stasia](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
@@ -251,7 +257,6 @@ permalink: /indexes/by-death-location
 - **[Mathews, Georgina E](people/@84093657@-georgina-e-mathews-b1886-d.md)** (about 1886 - )
 - **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 - **[Mathews, Joseph](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - )
-- **[Mathews, Robert Dennis R](people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md)** (6/Sep/1928 - 11/Feb/2009)
 - **[McAughtrie, Isabella](people/@88003126@-isabella-mcaughtrie-b-d.md)**
 - **[McAughtrie, Mary Houston](people/@54273056@-mary-houston-mcaughtrie-b1918-d.md)** (about 1918 - )
 - **[McBride, Catherine](people/@24941331@-catherine-mcbride-b1865-d.md)** (about 1865 - )
@@ -295,7 +300,7 @@ permalink: /indexes/by-death-location
 - **[McTurk, Elizabeth](people/@78245729@-elizabeth-mcturk-b1885-d.md)** (about 1885 - )
 - **[McTurk, Georgina](people/@51187488@-georgina-mcturk-b1883-d.md)** (about 1883 - )
 - **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
-- **[McTurk, Jane](people/@18380667@-jane-mcturk-b1880-d.md)** (about 1880 - )
+- **[McTurk, Jane](people/@18380667@-jane-mcturk-b1880-2-22-d.md)** (22/Feb/1880 - )
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
 - **[Mitchell, ?](people/@47829915@--mitchell-b-d.md)**
 - **[Morgan, Andrew](people/@23628312@-andrew-morgan-b1849-d.md)** (about 1849 - )
@@ -306,6 +311,7 @@ permalink: /indexes/by-death-location
 - **[Munn, Campbell Elizabeth](people/@11230712@-campbell-elizabeth-munn-b-d.md)**
 - **[Munro, Hugh](people/@24463792@-hugh-munro-b1810-d.md)** (before 1810 - )
 - **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - )
+- **[Murie, Annie](people/@23704804@-annie-murie-b-d.md)**
 - **[Napier, Agnes](people/@67902640@-agnes-napier-b1845-4-14-d.md)** (14/Apr/1845 - )
 - **[Napier, Alexander](people/@42551448@-alexander-napier-b1841-10-6-d.md)** (6/Oct/1841 - )
 - **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - )
@@ -358,7 +364,7 @@ permalink: /indexes/by-death-location
 - **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
 - **[Ramsay, George](people/@33817858@-george-ramsay-b-d.md)**
 - **[Ramsay, Isabella](people/@54722192@-isabella-ramsay-b1878-d.md)** (about 1878 - )
-- **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1916-d1974.md)** (1916 - 1974)
+- **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1915-6-16-d1974.md)** (16/Jun/1915 - 1974)
 - **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
 - **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - )
 - **[Ramsay, William Fisher](people/@81255608@-william-fisher-ramsay-b1910-8-24-d.md)** (24/Aug/1910 - )
@@ -480,6 +486,16 @@ permalink: /indexes/by-death-location
 ### Leeds
 
 - **[Stead, Lawrence](people/@18256653@-lawrence-stead-b1933-11-29-d1989-3.md)** (29/Nov/1933 - Mar/1989)
+
+### London
+
+- **[Wright, Philip John Ant'](people/@66352546@-philip-john-ant'-wright-b-d2025-2.md)** ( - Feb/2025)
+
+### Worcestershire
+
+#### Malvern
+
+- **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025)
 
 
 ## German Ocean
@@ -645,6 +661,7 @@ permalink: /indexes/by-death-location
 
 - **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912)
 - **[Fleming, Mary](people/@54628435@-mary-fleming-b1885-5-5-d1886-8-15.md)** (5/May/1885 - 15/Aug/1886)
+- **[Mathews, Robert Dennis Reginald](people/@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md)** (6/Aug/1928 - 11/Feb/2009)
 
 #### Livingston
 

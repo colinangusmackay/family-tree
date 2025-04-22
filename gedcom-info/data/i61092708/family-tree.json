@@ -18,17 +18,29 @@
       "ParentGroupIds": []
     }
   ],
-  "Spouses": [],
+  "Spouses": [
+    {
+      "Id": "i59122260",
+      "Name": "Mary",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
   "Children": [
     {
       "Id": "i43287262",
       "Name": "James Gilchrist",
       "Gender": "Male",
-      "DateOfBirth": "about 1905",
+      "DateOfBirth": "about 1904",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [
-        "i61092708"
+        "i61092708",
+        "i59122260"
       ]
     }
   ]

@@ -16,8 +16,8 @@ permalink: /people/i5643892
 * Wife: [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d.md) (23/Aug/1895 - )
 * Brother: [Charles A Mathews](./@74822247@-charles-a-mathews-b1899-d.md) (about 1899 - )
 * Son: [Joseph Mathews](./@98232688@-joseph-mathews-b1922-6-15-d.md) (15/Jun/1922 - )
-* Son: [Robert Dennis R Mathews](./@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) (6/Sep/1928 - 11/Feb/2009)
-* Son: X
+* Son: [Robert Dennis Reginald Mathews](./@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md) (6/Aug/1928 - 11/Feb/2009)
+* Daughter: X
 
 ## Timeline
 
@@ -37,7 +37,7 @@ Date | Residence | Sources & Notes
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1920 | Lapidary | [2](#2), [4](#4)
+1920 | Lapidary | [2](#2), [4](#4), [5](#5)
 1939 | Light Duty Cycle Factory Warehouse | [3](#3)
 
 ## Footnotes
@@ -72,6 +72,16 @@ Date | Occupation | Sources & Notes
   * Rg 101/5510i
 
 ### 4
+
+**2009 X, ROBERT DENNIS REGINALD (Register of Deaths 772/72)**
+
+* [Full text and notes](../sources/@78865457@-2009-mathews,-robert-dennis-reginald-register-of-deaths-772-72-.md)
+* Date: 12/Feb/2009
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 2009 D 772/ 72
+
+### 5
 
 > [https://en.wikipedia.org/wiki/Lapidary](https://en.wikipedia.org/wiki/Lapidary)
 >

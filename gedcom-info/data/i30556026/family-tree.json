@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i30556026",
+    "Name": "Annie Boyle",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1911"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i30556026",
+      "Name": "Annie Boyle",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1911",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i19655531",
+      "Name": "Peter Howie",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i60521938",
+      "Name": "Peter Alexander Howie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i19655531",
+        "i30556026"
+      ]
+    }
+  ]
+}

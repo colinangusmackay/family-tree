@@ -45,4 +45,4 @@ References |
 
 ## Source Referenced by
 
-* [Robert Dennis R Mathews](../people/@58223940@-robert-dennis-r-mathews-b1928-9-6-d2009-2-11.md) (6/Sep/1928 - 11/Feb/2009)
+* [Robert Dennis Reginald Mathews](../people/@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md) (6/Aug/1928 - 11/Feb/2009)

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i69291286",
+  "Name": "Georgina Hunter",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1889",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i23704804",
+      "Name": "Annie Murie",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i13263378",
+      "Name": "James Hunter",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

@@ -30,7 +30,7 @@ Date | Item | Description | Sources | Notes
 
 Date | Residence | Sources & Notes
 ---|---|---
-1901 | 6 Terrace Street, Embo, Sutherland, Scotland | [5](#5)
+1901 | 6 Terrace Street, Embo, Dornoch, Sutherland, Scotland | [5](#5)
 1911 | 6 Terrace Street, Embo, Sutherlandshire | [6](#6)
 1923 | 2041 Dundas Street, West Toronto, Ontario, Canada | [4](#4)
 
