@@ -1,58 +1,58 @@
 ﻿{
   "Subject": {
-    "Id": "i66352546",
-    "Name": "Philip John Anthony Wright",
+    "Id": "i99807914",
+    "Name": "William Mackay Cumming",
     "Gender": "Male",
-    "DateOfBirth": "Jan/1962",
-    "DateOfDeath": "Feb/2025"
+    "DateOfBirth": "1933",
+    "DateOfDeath": "2015"
   },
   "Parents": [],
   "Siblings": [
     {
-      "Id": "i66352546",
-      "Name": "Philip John Anthony Wright",
+      "Id": "i99807914",
+      "Name": "William Mackay Cumming",
       "Gender": "Male",
-      "DateOfBirth": "Jan/1962",
-      "DateOfDeath": "Feb/2025",
+      "DateOfBirth": "1933",
+      "DateOfDeath": "2015",
       "RelationToSubject": "self",
       "ParentGroupIds": []
     }
   ],
   "Spouses": [
     {
-      "Id": "i59559628",
+      "Id": "i27944522",
       "Name": "X",
       "Gender": "Female",
-      "DateOfBirth": "28/Mar/1963",
+      "DateOfBirth": "1935",
       "DateOfDeath": "",
       "RelationToSubject": "wife",
-      "DateOfMarriage": "1988",
+      "DateOfMarriage": "1957",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
     {
-      "Id": "i26291582",
+      "Id": "i35105812",
       "Name": "X",
       "Gender": "Female",
-      "DateOfBirth": "1994",
+      "DateOfBirth": "",
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
       "ParentIds": [
-        "i66352546",
-        "i59559628"
+        "i99807914",
+        "i27944522"
       ]
     },
     {
-      "Id": "i84817050",
+      "Id": "i24642628",
       "Name": "X",
-      "Gender": "Male",
-      "DateOfBirth": "2000",
+      "Gender": "Female",
+      "DateOfBirth": "",
       "DateOfDeath": "",
-      "RelationToSubject": "son",
+      "RelationToSubject": "daughter",
       "ParentIds": [
-        "i66352546",
-        "i59559628"
+        "i99807914",
+        "i27944522"
       ]
     }
   ]

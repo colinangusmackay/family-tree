@@ -23,8 +23,9 @@ permalink: /indexes/by-all-names
 - **[Marybet](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014)
 - **[Mina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 - **[Nancy](people/@68661720@-nancy-b-d.md)**
-- **[Phil](people/@66352546@-philip-john-ant'-wright-b-d2025-2.md)** ( - Feb/2025)
+- **[Phil](people/@66352546@-philip-john-anthony-wright-b1962-1-d2025-2.md)** (Jan/1962 - Feb/2025)
 - **[Teenie](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
+- **[Willie](people/@99807914@-william-mackay-cumming-b1933-d2015.md)** (1933 - 2015)
 
 ## ?
 
@@ -194,6 +195,7 @@ permalink: /indexes/by-all-names
 - **[Thomasina Ian Cumming](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
 - **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
 - **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
+- **[William Mackay Cumming](people/@99807914@-william-mackay-cumming-b1933-d2015.md)** (1933 - 2015)
 - **[Williamina Cumming](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 - **[Wilma May Cumming](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009)
 
@@ -327,7 +329,7 @@ permalink: /indexes/by-all-names
 - **[Jane Fraser](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
 - **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
 - **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
-- **[Maggie Moyes Fraser](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
+- **[Maggie Moyes Fraser](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md)** (27/Jun/1901 - 24/Aug/1973)
 - **[Morag Fraser](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015)
 - **[Peter Fraser](people/@16594334@-peter-fraser-b-d.md)**
 - **[Thomas Fraser](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889)
@@ -654,8 +656,8 @@ permalink: /indexes/by-all-names
 - **[Mackay](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
 - **[Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
 - **[Mackay](people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md)** (28/Aug/1937 - 1992)
-- **[Maggie Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
-- **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973)
+- **[Maggie Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md)** (27/Jun/1901 - 24/Aug/1973)
+- **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md)** (27/Jun/1901 - 24/Aug/1973)
 - **[Marion Mackay](people/@90096770@-marion-mackay-b1769-d.md)** (before 1769 - )
 - **[Marion Mackay](people/@56151384@-marion-mackay-b1788-d.md)** (before 1788 - )
 - **[Marion Mackay](people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md)** (30/Jun/1821 - 30/Dec/1909)
@@ -1335,7 +1337,7 @@ permalink: /indexes/by-all-names
 
 ## Wright
 
-- **[Philip John Ant' Wright](people/@66352546@-philip-john-ant'-wright-b-d2025-2.md)** ( - Feb/2025)
+- **[Philip John Anthony Wright](people/@66352546@-philip-john-anthony-wright-b1962-1-d2025-2.md)** (Jan/1962 - Feb/2025)
 
 ## Wynn
 

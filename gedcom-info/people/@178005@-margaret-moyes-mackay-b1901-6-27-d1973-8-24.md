@@ -5,7 +5,7 @@ permalink: /people/i178005
 ---
 
 # Margaret Moyes Mackay
-(27 June, 1901 - 1973)
+(27 June, 1901 - 24 August, 1973)
 
 ## Names
 
@@ -36,11 +36,11 @@ before 1911 | Death of father | [James Mackay](./@60572122@-james-mackay-b1861-4
 1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1892-12-15-d1918.md) died. | [2](#2) | [5](#5)
 after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) died. | [4](#4), [6](#6) | 
 2/Mar/1934 | Marriage | Married to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) in Dornoch, Sutherland, Scotland | [7](#7) | 
-1935 | Birth of daughter | X born to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) and [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md). | [8](#8) | 
+1935 | Birth of daughter | X born to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) and [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md). | [8](#8) | 
 9/May/1954 | Death of partner | [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) died in Embo, Sutherland, Scotland. | [9](#9) | 
 3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [10](#10) | 
 15/May/1970 | Death of sister | [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) died in Inverness, Scotland. | [11](#11) | 
-1973 | Died | Died in Dornoch, Sutherland, Scotland. | [12](#12) | 
+24/Aug/1973 | Died | Died in Inverness, Highland, Scotland, . | [12](#12) | 
 
 ## Known Residences
 
@@ -48,6 +48,7 @@ Date | Residence | Sources & Notes
 ---|---|---
 1911 | 6 Terrace Street, Embo, Sutherlandshire | [3](#3)
 1934 | 6 Terrace Street, Embo, Sutherland, Scotland | [7](#7), [13](#13)
+1973 | 6 Front Street, Embo, Sutherland, Scotland | [12](#12)
 
 ## Known Occupations
 

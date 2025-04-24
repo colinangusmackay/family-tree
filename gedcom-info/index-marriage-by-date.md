@@ -222,7 +222,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **29/Dec/1933** : **[James Hanton](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975) and **[Mary Elizabeth Flood](people/@28471390@-mary-elizabeth-flood-b1921-d.md)** (about 1921 - ) at Paisley, Renfrewshire, Scotland.
 * **1934**
   * **9/Feb/1934** : **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966) and **[Jean Grant](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971) at Dornoch, Sutherland, Scotland.
-  * **2/Mar/1934** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md)** (27/Jun/1901 - 1973) at Dornoch, Sutherland, Scotland.
+  * **2/Mar/1934** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md)** (27/Jun/1901 - 24/Aug/1973) at Dornoch, Sutherland, Scotland.
 * **1935**
   * **30/Jul/1935** : **[William Hanton](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993) and **[Mary Houston McAughtrie](people/@54273056@-mary-houston-mcaughtrie-b1918-d.md)** (about 1918 - ).
 * **1936**
@@ -264,6 +264,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **6/Jan/1953** : **[Clinton Edwin Monson](people/@24393948@-clinton-edwin-monson-b1931-9-9-d2019-7-15.md)** (9/Sep/1931 - 15/Jul/2019) and **[Wilma May Cumming](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009) at Escanaba, Delta County, Michigan, United States of America.
 * **1956**
   * **8/Sep/1956** : **[Donald Charles Mitchell](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982) and **[Sylvia Jean Hoctor](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993) at Pittsfield, Berkshire County, Massachusetts, United States of America.
+* **1957**
+  * **1957** : **[William Mackay Cumming](people/@99807914@-william-mackay-cumming-b1933-d2015.md)** (1933 - 2015) and X at Tain, Ross and Cromarty, Scotland.
 * **1959**
   * **1959** : **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011) and **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) at Glasgow, Scotland.
 
@@ -297,7 +299,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1981**
   * **6/Jun/1981** : X and **[Linda Margaret Campbell](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016) at Blackburn, West Lothian, Scotland.
 * **1988**
-  * **1988** : **[Philip John Ant' Wright](people/@66352546@-philip-john-ant'-wright-b-d2025-2.md)** ( - Feb/2025) and X at Glasgow, Scotland.
+  * **1988** : **[Philip John Anthony Wright](people/@66352546@-philip-john-anthony-wright-b1962-1-d2025-2.md)** (Jan/1962 - Feb/2025) and X at Glasgow, Scotland.
 
 ## Unknown Date
 

@@ -57,5 +57,6 @@ References | 1973 M 182/22
 
 ## Source Referenced by
 
-* [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973.md) (27/Jun/1901 - 1973)
+* [William Mackay Cumming](../people/@99807914@-william-mackay-cumming-b1933-d2015.md) (1933 - 2015)
+* [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) (27/Jun/1901 - 24/Aug/1973)
 * [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)

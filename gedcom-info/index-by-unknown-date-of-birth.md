@@ -539,5 +539,4 @@ This is a list of people who have vague or unknown dates of birth.
 * [Agnes Watt](people/@64447674@-agnes-watt-b-d.md)
 * [William Williamson](people/@67023796@-william-williamson-b-d.md)
 * [Clarence Wilson](people/@11868717@-clarence-wilson-b-d.md)
-* [Philip John Ant' Wright](people/@66352546@-philip-john-ant'-wright-b-d2025-2.md) ( - Feb/2025)
 * [Mary Younger](people/@25511104@-mary-younger-b-d.md)
