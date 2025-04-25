@@ -79,7 +79,7 @@ bet' 26/Sep/2016 and 1/Sep/2020 | Chartered Accountant in London, England | [2](
 
 ### 6
 
-**2000 X, FINLAY - Birth Registration Index**
+**2000 X, X - Birth Registration Index**
 
 * [Full text and notes](../sources/@28660870@-2000-wright,-finlay-birth-registration-index.md)
 * Publication: England and Wales Birth Registration Index, 1837-2008

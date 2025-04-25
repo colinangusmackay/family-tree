@@ -59,23 +59,23 @@ after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1
 15/May/1970 | Death of sister | [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) died in Inverness, Scotland. | [24](#24) | 
 24/Aug/1973 | Death of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) died in Inverness, Highland, Scotland, . | [25](#25) | 
 8/Oct/1981 | Death of partner | [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) died in Glasgow, Scotland. | [26](#26), [27](#27), [28](#28) | 
-24/Sep/1982 | Died | Died in Glasgow, Scotland. | [29](#29) | 
+24/Sep/1982 | Died | Died in Glasgow, Scotland. | [29](#29), [30](#30) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1901 | 6 Terrace Street, Embo, Sutherland, Scotland | [30](#30)
+1901 | 6 Terrace Street, Embo, Sutherland, Scotland | [31](#31)
 1911 | 6 Terrace Street, Embo, Sutherlandshire | [6](#6)
 1918 | 6 Terrace Street, Embo, Sutherlandshire | [2](#2)
-before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [11](#11), [31](#31)
-12/Apr/1930 | 146 King Edward Avenue, Toronto, Ontario, Canada | [32](#32)
+before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [11](#11), [32](#32)
+12/Apr/1930 | 146 King Edward Avenue, Toronto, Ontario, Canada | [33](#33)
 1/Jun/1931 | 106 Walpole Avenue, Toronto, Candada | [10](#10)
 1938 | Achiltibue, Ross and Cromarty, Scotland | [20](#20)
-1954 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [33](#33)
-1956 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [34](#34)
-1960 | 57 Kersland Street, Glasgow | [35](#35)
-1980 | 57 Kersland Street, Glasgow | [36](#36)
+1954 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [34](#34)
+1956 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [35](#35)
+1960 | 57 Kersland Street, Glasgow | [36](#36)
+1980 | 57 Kersland Street, Glasgow | [37](#37)
 1981 | Glasgow, Scotland | [27](#27)
 
 ## Known Occupations
@@ -363,6 +363,16 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 
 ### 30
 
+**1982 X, X ALEXANDER (X Gilchrist Funderals Ltd. Invoice)**
+
+* [Full text and notes](../sources/@68614544@-1982-mackay,-william-alexander-william-gilchrist-funderals-ltd.-invoice-.md)
+* Date: 4/Oct/1982
+* Responsible Agency: WIlliam Gilchrist (Funerals) Ltd.
+* References: 
+  * C/922/N
+
+### 31
+
 **1901 MACKAY, JAMES & Family (Census 047/2/14)**
 
 * [Full text and notes](../sources/@77386974@-1901-mackay,-james-&-family-census-047-2-14-.md)
@@ -371,34 +381,34 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * References: 
   * 1901 047/2/14
 
-### 31
+### 32
 
 > On Google maps: [https://www.google.com/maps/@43.6887457,-79.3186802,3a,20.3y,147.68h,90.09t/data=!3m6!1e1!3m4!1sCBT9uFW1WbIbebZypxNMTw!2e0!7i16384!8i8192](https://www.google.com/maps/@43.6887457,-79.3186802,3a,20.3y,147.68h,90.09t/data=!3m6!1e1!3m4!1sCBT9uFW1WbIbebZypxNMTw!2e0!7i16384!8i8192)
 >
 
 
-### 32
+### 33
 
 **1930 MACKAY, MARION C - U.S. Border Crossings from Canada to U.S.**
 
 * [Full text and notes](../sources/@41022732@-1930-mackay,-marion-c-u.s.-border-crossings-from-canada-to-u.s..md)
 * Date: 12/Apr/1930
 
-### 33
+### 34
 
 **1954 X, X A & FAMILY OF VOTING AGE (Register of Voters, Glasgow, Wards 13-26, 1954)**
 
 * [Full text and notes](../sources/@84661563@-1954-mackay,-william-a-&-family-of-voting-age-register-of-voters,-glasgow,-wards-13-26,-1954-.md)
 * Publication: Register of Voters, Glasgow, Wards 13-26, 1954
 
-### 34
+### 35
 
 **1956 X, X A & FAMILY (Glasgow, Lanarkshire, Scotland, Electoral Registers, 1857-1962)**
 
 * [Full text and notes](../sources/@19773398@-1956-mackay,-william-a-&-family-glasgow,-lanarkshire,-scotland,-electoral-registers,-1857-1962-.md)
 * Publication: Glasgow, Lanarkshire, Scotland, Electoral Registers, 1857-1962
 
-### 35
+### 36
 
 **1960 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1960**
 
@@ -407,7 +417,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * Date: May/1960
 * Responsible Agency: The Post Office
 
-### 36
+### 37
 
 **1980 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1980**
 

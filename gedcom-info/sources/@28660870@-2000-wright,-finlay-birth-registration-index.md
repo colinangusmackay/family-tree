@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s28660870
 ---
 
-# 2000 X, FINLAY - Birth Registration Index
+# 2000 X, X - Birth Registration Index
 
 Field | Detail
 ---:|:---

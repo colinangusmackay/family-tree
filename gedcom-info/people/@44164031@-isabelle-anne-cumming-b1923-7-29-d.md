@@ -33,6 +33,7 @@ Date | Residence | Sources & Notes
 1987 | Lakeland, Polk County, Florida, United States of America | 
 1993 | 3803 Old Hy 25, Lakeland, Florida, United States of America | [7](#7)
 after 1993 | 217 Citrus Grove Bv, Polk City, Florida, United States of America | [7](#7)
+1996 | Lakeland, Polk County, Florida, United States of America | [8](#8)
 
 ## Footnotes
 
@@ -86,4 +87,12 @@ after 1993 | 217 Citrus Grove Bv, Polk City, Florida, United States of America |
 
 * [Full text and notes](../sources/@88475936@-cumming,-isabel-a-u.s.,-public-records-index,-1950-1993,-volume-1-.md)
 * Publication: U.S., Public Records Index, 1950-1993, Volume 1
+
+### 8
+
+**1996 CUMMING, CHRISTINE (Letter from Isabel Cumming to Hamish Mackay)**
+
+* [Full text and notes](../sources/@48988278@-1996-cumming,-christine-letter-from-isabel-cumming-to-hamish-mackay-.md)
+* Originator / Author: Isabel Cumming
+* Date: 21/Nov/1996
 
