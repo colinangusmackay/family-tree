@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s68614544
 ---
 
-# 1982 X, X ALEXANDER (X Gilchrist Funderals Ltd. Invoice)
+# 1982 X, X ALEXANDER (X Gilchrist Funerals Ltd. Invoice)
 
 Field | Detail
 ---:|:---

@@ -88,8 +88,134 @@ References |
 >
 > <br/>
 >
-> We have lost a wonderful Aunt and friend but we can rejoice in the fact that she was part of our family -- she was the greatest.
+> We have lost a wonderful Aunt and friend but we can rejoice in the fact that she was part of our family -- she was the greatest. 
 >
+> <br/>
+>
+> ---
+>
+> <br/>
+>
+> (handwritten) West Palm Beach paper
+>
+> <br/>
+>
+> CHRISTINE CUMMING
+>
+> <br/>
+>
+> Age 91, of Palm Beach Gardens passed away 11/10/96
+>
+> <br/>
+>
+> Survived by a host of loving nieces and nephews, and also many loving friends.
+>
+> <br/>
+>
+> Family and friends may call at the ROYAL PALM FUNERAL HOME, 5601 Greenwood Ave., WPB on Wednesday (11/13) from 1-2 p.m. Funeral services 2 p.m., interment to follow Royal Palm Memorial Gardens
+>
+> <br/>
+>
+> (stamped) NOVEMBER 12, 1996
+>
+> <br/>
+>
+> (handwritten) This was done by the Director of the Funeral Parlor
+>
+> <br/>
+>
+> ---
+>
+> <br/>
+>
+> Christine Cumming
+>
+> <br/>
+>
+> Passed Away November 10, 1996
+>
+> Palm Beach Gardens, Florida
+>
+> <br/>
+>
+> SERVICES
+>
+> Wednesday, November 13, 1996
+>
+> Royal Palm Funeral Home Chapel
+>
+> 2:00 PM
+>
+> <br/>
+>
+> Arrangements By
+>
+> Royal Palm Beach Funeral Home
+>
+> 5601 Greenwood Avenue
+>
+> West Palm Beach, Florida
+>
+> <br/>
+>
+> The Twenty-Third Psalm
+>
+> <br/>
+>
+> The Lord is my shepherd; I shall not want.
+>
+> He maketh me to lie down in green pastures;
+>
+> He leadeth me beside the still waters.
+>
+> He restoreth my soul; He leadeth me in the
+>
+> paths of righeousness for His name's sake.
+>
+> Yea, though I walk through the valley of the
+>
+> shadow of death. I will fear no evil;
+>
+> for thou art with me, thy rod and
+>
+> thy staff they comfort me.
+>
+> Thou preparest a table before me in the
+>
+> presence of mine enemies;
+>
+> thou anointest my head with oil;
+>
+> my cup runeth over.
+>
+> Surely goodness and mercy shall follow
+>
+> me all the days of my life;
+>
+> and I will dwell in the house of the Lord for ever.
+>
+
+## Images
+
+### 1 - Letter
+
+on 21st of November 1996
+![1 - Letter](../media/62020309.jpg)
+
+### 2 - Attachment note
+
+in November 1996
+![2 - Attachment note](../media/59618648.jpg)
+
+### 3 - attachment: newspaper notice
+
+on 12th of November 1996
+![3 - attachment: newspaper notice](../media/3544600.jpg)
+
+### 4 - attachment: Funeral Program
+
+on 13th of November 1996
+![4 - attachment: Funeral Program](../media/27839156.jpg)
 
 ## Source Referenced by
 

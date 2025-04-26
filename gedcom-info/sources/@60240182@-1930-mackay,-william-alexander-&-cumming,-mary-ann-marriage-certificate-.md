@@ -49,6 +49,13 @@ References | (Registration Certificate Number) 8878
 > Registration Certificate Number: 8878
 >
 
+## Images
+
+### Certificate of Marriage - Willaim Alexander Mackay & Mary Ann Cumming
+
+on 21st of March 1930
+![Certificate of Marriage - Willaim Alexander Mackay & Mary Ann Cumming](../media/57388492.jpg)
+
 ## Source Referenced by
 
 * [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) (26/Jul/1900 - 8/Oct/1981)

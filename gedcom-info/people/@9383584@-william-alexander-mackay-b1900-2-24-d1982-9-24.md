@@ -363,9 +363,9 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 
 ### 30
 
-**1982 X, X ALEXANDER (X Gilchrist Funderals Ltd. Invoice)**
+**1982 X, X ALEXANDER (X Gilchrist Funerals Ltd. Invoice)**
 
-* [Full text and notes](../sources/@68614544@-1982-mackay,-william-alexander-william-gilchrist-funderals-ltd.-invoice-.md)
+* [Full text and notes](../sources/@68614544@-1982-mackay,-william-alexander-william-gilchrist-funerals-ltd.-invoice-.md)
 * Date: 4/Oct/1982
 * Responsible Agency: WIlliam Gilchrist (Funerals) Ltd.
 * References: 
