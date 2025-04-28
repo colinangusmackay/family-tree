@@ -7,12 +7,7 @@ permalink: /sources/s62417636
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | about 1970
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

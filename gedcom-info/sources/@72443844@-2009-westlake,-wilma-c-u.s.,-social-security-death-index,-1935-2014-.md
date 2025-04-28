@@ -8,11 +8,6 @@ permalink: /sources/s72443844
 Field | Detail
 ---:|:---
 Publication | U.S., Social Security Death Index, 1935-2014
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -7,11 +7,8 @@ permalink: /sources/s55904375
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 9/May/1921
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1921 M 639/ 134
 
 ## Text

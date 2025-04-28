@@ -8,11 +8,8 @@ permalink: /sources/s48233928
 Field | Detail
 ---:|:---
 Publication | Thirteenth Census of the United States, 1910
-Originator / Author | 
 Date | 30/Apr/1910
 Responsible Agency | National Archives, Washington, D.C
-Filed by Entry | 
-References | 
 
 ## Text
 

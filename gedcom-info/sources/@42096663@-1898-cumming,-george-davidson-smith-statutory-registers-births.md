@@ -7,11 +7,7 @@ permalink: /sources/s42096663
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1898 B 047/37
 
 ## Text

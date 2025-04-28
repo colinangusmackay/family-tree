@@ -5,14 +5,6 @@ permalink: /sources/s82763576
 
 # 1980 CAMPBELL, LINDA MARGARET (deed - name change)
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

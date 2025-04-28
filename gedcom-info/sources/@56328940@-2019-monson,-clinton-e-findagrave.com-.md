@@ -8,10 +8,6 @@ permalink: /sources/s56328940
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.findagrave.com/memorial/201397864/clinton-e-monson](https://www.findagrave.com/memorial/201397864/clinton-e-monson)
 
 ## Text

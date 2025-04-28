@@ -7,12 +7,7 @@ permalink: /sources/s46960065
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 16/Feb/1942
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -8,11 +8,7 @@ permalink: /sources/s3608025
 Field | Detail
 ---:|:---
 Publication | Florida, U.S., Death Index, 1877-1998
-Originator / Author | 
-Date | 
 Responsible Agency | Florida Department of Health, Office of Vital Records
-Filed by Entry | 
-References | 
 
 ## Text
 

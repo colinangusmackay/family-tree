@@ -5,14 +5,6 @@ permalink: /sources/s84402844
 
 # 2011 - MACKAY, Donald James. GreyPower Deceased Data; compiled by Wilmington Millennium; England and Wales Death Indexes
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

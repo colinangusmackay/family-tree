@@ -7,11 +7,7 @@ permalink: /sources/s64284008
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | Immigration and Naturalization Service
-Filed by Entry | 
 References | A3998 - New York, 1957-1967, roll number 161
 
 ## Text

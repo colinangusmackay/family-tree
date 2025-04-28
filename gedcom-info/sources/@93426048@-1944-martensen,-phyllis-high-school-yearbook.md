@@ -8,11 +8,8 @@ permalink: /sources/s93426048
 Field | Detail
 ---:|:---
 Publication | Golden Rod
-Originator / Author | 
 Date | Jun/1944
 Responsible Agency | Quincy High School
-Filed by Entry | 
-References | 
 
 ## Text
 

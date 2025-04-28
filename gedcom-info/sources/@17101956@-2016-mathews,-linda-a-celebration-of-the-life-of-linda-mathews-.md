@@ -7,12 +7,9 @@ permalink: /sources/s17101956
 
 Field | Detail
 ---:|:---
-Publication | 
 Originator / Author | Chris Robinson
 Date | 10/Oct/2016
 Responsible Agency | Humanist Society of Scotland
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -8,11 +8,7 @@ permalink: /sources/s85742890
 Field | Detail
 ---:|:---
 Publication | Orlando Evening Star
-Originator / Author | 
 Date | 5/May/1972
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

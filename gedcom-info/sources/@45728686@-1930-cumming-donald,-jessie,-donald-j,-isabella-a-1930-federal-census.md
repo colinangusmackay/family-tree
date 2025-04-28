@@ -8,11 +8,7 @@ permalink: /sources/s45728686
 Field | Detail
 ---:|:---
 Publication | Federal Census
-Originator / Author | 
 Date | 1930
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

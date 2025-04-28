@@ -8,11 +8,7 @@ permalink: /sources/s19633894
 Field | Detail
 ---:|:---
 Publication | Palm Beach Post
-Originator / Author | 
 Date | 22/Mar/2016
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

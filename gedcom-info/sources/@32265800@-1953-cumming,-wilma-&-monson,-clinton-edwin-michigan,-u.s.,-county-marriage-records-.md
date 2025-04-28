@@ -8,10 +8,6 @@ permalink: /sources/s32265800
 Field | Detail
 ---:|:---
 Publication | Michigan, U.S., County Marriage Records
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (Film Number) 001783720
 
 ## Text

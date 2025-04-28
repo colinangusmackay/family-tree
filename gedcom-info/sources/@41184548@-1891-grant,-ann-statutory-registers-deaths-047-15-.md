@@ -7,11 +7,7 @@ permalink: /sources/s41184548
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 4/May/1891
-Responsible Agency | 
-Filed by Entry | 
 References | 1891 D 047/15
 
 ## Text

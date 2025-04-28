@@ -8,11 +8,7 @@ permalink: /sources/s56902432
 Field | Detail
 ---:|:---
 Publication | The Sunday Post
-Originator / Author | 
 Date | 15/May/1949
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -7,11 +7,8 @@ permalink: /sources/s82693220
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 1920
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1920 B 047/34
 
 ## Text

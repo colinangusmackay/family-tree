@@ -7,11 +7,6 @@ permalink: /sources/s41387201
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (FHL Film Number) 292760
 
 ## Text

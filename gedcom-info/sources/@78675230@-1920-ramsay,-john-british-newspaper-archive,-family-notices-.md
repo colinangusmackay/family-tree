@@ -8,10 +8,8 @@ permalink: /sources/s78675230
 Field | Detail
 ---:|:---
 Publication | British Newspaper Archive, Family Notices
-Originator / Author | 
 Date | 22/Jun/1920
 Responsible Agency | FamilySearch
-Filed by Entry | 
 References | (URL) [Open original source at https://www.familysearch.org/ark:/61903/1:1:QLSC-2VZC](https://www.familysearch.org/ark:/61903/1:1:QLSC-2VZC)
 
 ## Text

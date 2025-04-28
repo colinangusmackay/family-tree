@@ -7,11 +7,7 @@ permalink: /sources/s56970073
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 22/Mar/1985
-Responsible Agency | 
-Filed by Entry | 
 References | 1985 B 708/86
 
 ## Text

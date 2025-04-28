@@ -7,11 +7,6 @@ permalink: /sources/s66111707
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.familysearch.org/memories/memory/48623574](https://www.familysearch.org/memories/memory/48623574)
 
 ## Text

@@ -8,10 +8,8 @@ permalink: /sources/s43781296
 Field | Detail
 ---:|:---
 Publication | Statutory Register Marriages
-Originator / Author | 
 Date | 24/Oct/1888
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1888 M 047/4
 
 ## Text

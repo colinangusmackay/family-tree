@@ -7,11 +7,7 @@ permalink: /sources/s86161558
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1847 OPR 073/ 20 220
 
 ## Text

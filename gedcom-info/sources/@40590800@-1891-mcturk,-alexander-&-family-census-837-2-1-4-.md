@@ -7,11 +7,7 @@ permalink: /sources/s40590800
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1891 C 837/2 1/4
 
 ## Text

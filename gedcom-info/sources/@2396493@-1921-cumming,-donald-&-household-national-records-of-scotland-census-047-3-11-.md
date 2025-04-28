@@ -8,10 +8,7 @@ permalink: /sources/s2396493
 Field | Detail
 ---:|:---
 Publication | 1921 Census
-Originator / Author | 
 Date | 19/Jun/1921
-Responsible Agency | 
-Filed by Entry | 
 References | 1921 C 047/ 3/ 11
 
 ## Text

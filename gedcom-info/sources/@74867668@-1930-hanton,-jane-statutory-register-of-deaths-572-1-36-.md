@@ -7,11 +7,7 @@ permalink: /sources/s74867668
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1930 D 572/1 36
 
 ## Text

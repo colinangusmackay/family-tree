@@ -7,11 +7,8 @@ permalink: /sources/s22375696
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 21/Aug/1944
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1944 M 573/1 504
 
 ## Text

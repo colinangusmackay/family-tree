@@ -8,11 +8,6 @@ permalink: /sources/s30545456
 Field | Detail
 ---:|:---
 Publication | Social Security Applications and Claims, 1936-2007
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

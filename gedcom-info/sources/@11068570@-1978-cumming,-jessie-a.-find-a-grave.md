@@ -8,10 +8,7 @@ permalink: /sources/s11068570
 Field | Detail
 ---:|:---
 Publication | [https://www.findagrave.com](https://www.findagrave.com)
-Originator / Author | 
 Date | 1978
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.findagrave.com/memorial/195703159](https://www.findagrave.com/memorial/195703159)
 
 ## Text

@@ -8,11 +8,6 @@ permalink: /sources/s62984615
 Field | Detail
 ---:|:---
 Publication | The Bridgeport Post
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

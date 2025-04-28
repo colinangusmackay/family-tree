@@ -8,11 +8,8 @@ permalink: /sources/s58949710
 Field | Detail
 ---:|:---
 Publication | 1939 England and Wales Register
-Originator / Author | 
 Date | 29/Sep/1939
 Responsible Agency | The National Archived
-Filed by Entry | 
-References | 
 
 ## Text
 

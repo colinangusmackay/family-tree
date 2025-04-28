@@ -7,12 +7,7 @@ permalink: /sources/s90408928
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 21/Sep/1933
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

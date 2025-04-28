@@ -5,14 +5,6 @@ permalink: /sources/s80083940
 
 # 1958 CUMMING, CHRISTINE Incomming passengers 18/Jul/1958 at Southampton on S.S. Maasdam
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Notes
 

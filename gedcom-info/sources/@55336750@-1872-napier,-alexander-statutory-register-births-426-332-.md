@@ -7,11 +7,8 @@ permalink: /sources/s55336750
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 23/Nov/1872
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1872 B 426/ 332
 
 ## Text

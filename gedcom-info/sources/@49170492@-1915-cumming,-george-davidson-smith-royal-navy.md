@@ -5,14 +5,6 @@ permalink: /sources/s49170492
 
 # 1915 CUMMING, GEORGE DAVIDSON SMITH - Royal Navy
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -8,11 +8,7 @@ permalink: /sources/s47104687
 Field | Detail
 ---:|:---
 Publication | 1930 United States Federal Census
-Originator / Author | 
 Date | 22/Apr/1930
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

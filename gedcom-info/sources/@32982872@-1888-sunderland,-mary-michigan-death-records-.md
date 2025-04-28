@@ -5,14 +5,6 @@ permalink: /sources/s32982872
 
 # 1888 SUNDERLAND, MARY (Michigan Death Records)
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

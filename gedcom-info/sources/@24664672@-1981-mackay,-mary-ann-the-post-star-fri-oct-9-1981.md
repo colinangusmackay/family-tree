@@ -8,11 +8,7 @@ permalink: /sources/s24664672
 Field | Detail
 ---:|:---
 Publication | The Post Star
-Originator / Author | 
 Date | 9/Oct/1981
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

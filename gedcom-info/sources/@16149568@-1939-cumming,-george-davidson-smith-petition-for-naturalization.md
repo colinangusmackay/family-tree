@@ -7,11 +7,7 @@ permalink: /sources/s16149568
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 2/May/1939
-Responsible Agency | 
-Filed by Entry | 
 References | 199316
 
 ## Text

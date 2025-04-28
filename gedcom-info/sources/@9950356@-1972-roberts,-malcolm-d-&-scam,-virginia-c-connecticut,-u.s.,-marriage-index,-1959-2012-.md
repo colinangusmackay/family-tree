@@ -8,11 +8,6 @@ permalink: /sources/s9950356
 Field | Detail
 ---:|:---
 Publication | Connecticut, U.S., Marriage Index, 1959-2012
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

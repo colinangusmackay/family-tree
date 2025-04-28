@@ -7,11 +7,7 @@ permalink: /sources/s29754288
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1948 M 820/27
 
 ## Text

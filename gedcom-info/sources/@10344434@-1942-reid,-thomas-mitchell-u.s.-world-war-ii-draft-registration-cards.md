@@ -7,12 +7,7 @@ permalink: /sources/s10344434
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 27/Apr/1942
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

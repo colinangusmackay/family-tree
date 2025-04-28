@@ -7,11 +7,7 @@ permalink: /sources/s88442868
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1933 M 573/1 596
 
 ## Text

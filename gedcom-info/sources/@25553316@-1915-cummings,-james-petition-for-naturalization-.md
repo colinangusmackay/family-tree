@@ -7,12 +7,7 @@ permalink: /sources/s25553316
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 26/Apr/1915
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

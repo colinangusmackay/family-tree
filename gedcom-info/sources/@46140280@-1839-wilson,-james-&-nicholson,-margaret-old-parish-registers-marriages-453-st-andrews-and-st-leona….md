@@ -7,11 +7,7 @@ permalink: /sources/s46140280
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1839 OPR 453/ St Andrews and St Leonards
 
 ## Text

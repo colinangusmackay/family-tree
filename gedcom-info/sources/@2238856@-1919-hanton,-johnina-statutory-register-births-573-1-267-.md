@@ -7,11 +7,7 @@ permalink: /sources/s2238856
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1919 B 573/1 267
 
 ## Text

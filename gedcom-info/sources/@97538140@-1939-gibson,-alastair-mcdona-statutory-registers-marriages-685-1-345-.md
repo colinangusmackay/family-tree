@@ -7,12 +7,8 @@ permalink: /sources/s97538140
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 4/Sep/1939
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
-References | 
 
 ## Text
 

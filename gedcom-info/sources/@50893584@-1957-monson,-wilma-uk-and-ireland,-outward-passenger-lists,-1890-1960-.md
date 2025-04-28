@@ -8,11 +8,6 @@ permalink: /sources/s50893584
 Field | Detail
 ---:|:---
 Publication | UK and Ireland, Outward Passenger Lists, 1890-1960
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

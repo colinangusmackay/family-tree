@@ -8,11 +8,6 @@ permalink: /sources/s76714770
 Field | Detail
 ---:|:---
 Publication | Scotland, Births and Baptisms, 1564-1950
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

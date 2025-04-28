@@ -7,11 +7,7 @@ permalink: /sources/s67987345
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 2000 D 432/ 666
 
 ## Text

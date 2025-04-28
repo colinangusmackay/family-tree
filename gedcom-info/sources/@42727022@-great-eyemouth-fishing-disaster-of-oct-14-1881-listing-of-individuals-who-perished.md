@@ -7,11 +7,7 @@ permalink: /sources/s42727022
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 7/Oct/2002
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://web.archive.org/web/20021007210635/http://www.geocities.com/scotborder/Eyemouth.html](https://web.archive.org/web/20021007210635/http://www.geocities.com/scotborder/Eyemouth.html)
 
 ## Text

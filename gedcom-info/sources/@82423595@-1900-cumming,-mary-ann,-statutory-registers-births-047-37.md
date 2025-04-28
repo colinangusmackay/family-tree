@@ -7,11 +7,8 @@ permalink: /sources/s82423595
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 13/Aug/1900
 Responsible Agency | National Registers of Scotland
-Filed by Entry | 
 References | 1900 B 047/37
 
 ## Text

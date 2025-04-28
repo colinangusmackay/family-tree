@@ -8,10 +8,6 @@ permalink: /sources/s58460963
 Field | Detail
 ---:|:---
 Publication | BillionGraves.com
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://billiongraves.com/grave/Isabella-Gilchrist-Mackay/134549507](https://billiongraves.com/grave/Isabella-Gilchrist-Mackay/134549507)
 
 ## Text

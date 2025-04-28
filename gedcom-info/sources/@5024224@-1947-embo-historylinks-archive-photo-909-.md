@@ -8,10 +8,7 @@ permalink: /sources/s5024224
 Field | Detail
 ---:|:---
 Publication | Historylinks Archive
-Originator / Author | 
 Date | 2000
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.historylinksarchive.org.uk/picture/number909/](https://www.historylinksarchive.org.uk/picture/number909/)
 
 ## Text

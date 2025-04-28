@@ -7,11 +7,6 @@ permalink: /sources/s15216850
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://find-and-update.company-information.service.gov.uk/company/09369674/filing-history/MzE1ODI0MjEyMGFkaXF6a2N4/document?format=pdf&download=0](https://find-and-update.company-information.service.gov.uk/company/09369674/filing-history/MzE1ODI0MjEyMGFkaXF6a2N4/document?format=pdf&download=0)
 
 ## Text

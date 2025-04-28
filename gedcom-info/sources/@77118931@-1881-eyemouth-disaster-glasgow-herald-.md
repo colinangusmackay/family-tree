@@ -8,11 +8,7 @@ permalink: /sources/s77118931
 Field | Detail
 ---:|:---
 Publication | Glasgow Herald
-Originator / Author | 
 Date | 19/Oct/1881
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -8,11 +8,7 @@ permalink: /sources/s9309248
 Field | Detail
 ---:|:---
 Publication | The Boston Globe
-Originator / Author | 
 Date | 17/Jan/1976
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

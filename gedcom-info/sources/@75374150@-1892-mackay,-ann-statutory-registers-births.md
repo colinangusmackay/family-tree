@@ -7,12 +7,8 @@ permalink: /sources/s75374150
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 23/Dec/1892
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
-References | 
 
 ## Text
 

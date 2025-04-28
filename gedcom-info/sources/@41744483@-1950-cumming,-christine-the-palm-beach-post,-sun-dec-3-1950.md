@@ -8,11 +8,7 @@ permalink: /sources/s41744483
 Field | Detail
 ---:|:---
 Publication | The Palm Beach Post
-Originator / Author | 
 Date | 3/Dec/1950
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -7,11 +7,8 @@ permalink: /sources/s14905008
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 1965
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1965 M 168/3 395
 
 ## Text

@@ -8,11 +8,6 @@ permalink: /sources/s84661563
 Field | Detail
 ---:|:---
 Publication | Register of Voters, Glasgow, Wards 13-26, 1954
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

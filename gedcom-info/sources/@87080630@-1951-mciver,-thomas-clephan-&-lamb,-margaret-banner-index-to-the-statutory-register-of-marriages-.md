@@ -7,11 +7,8 @@ permalink: /sources/s87080630
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 1951
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1951 M 168/ 2/ 551
 
 ## Text

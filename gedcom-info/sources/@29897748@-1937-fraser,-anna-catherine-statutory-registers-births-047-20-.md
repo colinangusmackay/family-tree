@@ -7,11 +7,8 @@ permalink: /sources/s29897748
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 10/Sep/1937
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1937 B 047/20
 
 ## Text

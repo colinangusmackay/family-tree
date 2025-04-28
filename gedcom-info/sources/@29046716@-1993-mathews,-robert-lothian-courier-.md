@@ -8,11 +8,7 @@ permalink: /sources/s29046716
 Field | Detail
 ---:|:---
 Publication | Lothian Courier
-Originator / Author | 
 Date | 17/Sep/1993
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

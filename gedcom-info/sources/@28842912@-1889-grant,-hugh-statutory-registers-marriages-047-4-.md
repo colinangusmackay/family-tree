@@ -7,11 +7,7 @@ permalink: /sources/s28842912
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 14/Nov/1889
-Responsible Agency | 
-Filed by Entry | 
 References | 1889 M 047/4
 
 ## Text

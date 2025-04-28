@@ -7,11 +7,6 @@ permalink: /sources/s86248524
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://strathnaver.wixsite.com/donncountry/copy-of-lotte-glob](https://strathnaver.wixsite.com/donncountry/copy-of-lotte-glob)
 
 ## Text

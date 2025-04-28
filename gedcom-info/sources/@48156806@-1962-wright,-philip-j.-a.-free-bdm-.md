@@ -5,14 +5,6 @@ permalink: /sources/s48156806
 
 # 1962 WRIGHT, PHILIP J. A. (Free BDM)
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

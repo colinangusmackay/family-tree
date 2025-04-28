@@ -5,14 +5,6 @@ permalink: /sources/s60304245
 
 # 1930 MCLEAN/GRANT (Michigan, U.S., Marriage Records, 1867-1952)
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

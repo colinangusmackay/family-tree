@@ -7,11 +7,7 @@ permalink: /sources/s32799771
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1998 D 389/40
 
 ## Text

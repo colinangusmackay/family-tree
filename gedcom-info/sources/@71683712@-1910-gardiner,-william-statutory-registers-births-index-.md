@@ -7,11 +7,7 @@ permalink: /sources/s71683712
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1910 B 352/3
 
 ## Text

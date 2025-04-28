@@ -10,9 +10,6 @@ Field | Detail
 Publication | Facebook
 Originator / Author | Colin Mackay
 Date | 25/Jan/2020
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -8,10 +8,7 @@ permalink: /sources/s7246522
 Field | Detail
 ---:|:---
 Publication | Facebook
-Originator / Author | 
 Date | 19/Jun/2022
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.facebook.com/eddie.hawthorne.14224/about](https://www.facebook.com/eddie.hawthorne.14224/about)
 
 ## Text

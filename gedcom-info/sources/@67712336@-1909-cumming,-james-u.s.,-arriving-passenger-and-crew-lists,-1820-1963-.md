@@ -8,11 +8,6 @@ permalink: /sources/s67712336
 Field | Detail
 ---:|:---
 Publication | Boston, Massachusetts. Passenger Lists of Vessels Arriving at Boston, Massachusetts, 1891-1943. Micropublication T843. RG085. 454 rolls. National Archives, Washington, D.C.
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

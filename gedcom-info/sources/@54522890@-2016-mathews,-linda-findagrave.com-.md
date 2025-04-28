@@ -8,10 +8,6 @@ permalink: /sources/s54522890
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.findagrave.com/memorial/214614740/linda-margaret-mathews](https://www.findagrave.com/memorial/214614740/linda-margaret-mathews)
 
 ## Text

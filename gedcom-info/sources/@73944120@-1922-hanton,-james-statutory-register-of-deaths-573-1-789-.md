@@ -7,11 +7,8 @@ permalink: /sources/s73944120
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 21/Apr/1922
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1922 D 573/1 789
 
 ## Text

@@ -7,11 +7,8 @@ permalink: /sources/s33421049
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 16/Apr/2012
 Responsible Agency | Registrar General
-Filed by Entry | 
 References | 2012 CP 601/19
 
 ## Text

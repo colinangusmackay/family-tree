@@ -7,12 +7,7 @@ permalink: /sources/s9502172
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 1976
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

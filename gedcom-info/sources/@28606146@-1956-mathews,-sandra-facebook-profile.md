@@ -7,12 +7,7 @@ permalink: /sources/s28606146
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 22/May/2020
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Source Referenced by
 

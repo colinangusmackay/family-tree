@@ -7,12 +7,8 @@ permalink: /sources/s75248113
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 1/Jun/1931
 Responsible Agency | Dominion Bureau of Statistics
-Filed by Entry | 
-References | 
 
 ## Text
 

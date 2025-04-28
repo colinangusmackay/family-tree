@@ -7,11 +7,7 @@ permalink: /sources/s38656945
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1857 M 082/ 1
 
 ## Text

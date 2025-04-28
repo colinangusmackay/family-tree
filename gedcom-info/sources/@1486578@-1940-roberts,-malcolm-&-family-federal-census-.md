@@ -8,11 +8,6 @@ permalink: /sources/s1486578
 Field | Detail
 ---:|:---
 Publication | 1940 Federal Census
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

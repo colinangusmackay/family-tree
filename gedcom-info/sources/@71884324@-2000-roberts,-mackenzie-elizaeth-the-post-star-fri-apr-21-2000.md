@@ -8,11 +8,7 @@ permalink: /sources/s71884324
 Field | Detail
 ---:|:---
 Publication | The Post Star
-Originator / Author | 
 Date | 21/Apr/2000
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

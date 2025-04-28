@@ -8,11 +8,6 @@ permalink: /sources/s2458276
 Field | Detail
 ---:|:---
 Publication | U.S., Index to Public Records, 1994-2019
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -7,11 +7,8 @@ permalink: /sources/s48792801
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 11/Feb/1930
 Responsible Agency | National Re
-Filed by Entry | 
 References | 1930 M 573/1 70
 
 ## Text

@@ -8,10 +8,7 @@ permalink: /sources/s8791600
 Field | Detail
 ---:|:---
 Publication | 1939 England and Wales Register
-Originator / Author | 
-Date | 
 Responsible Agency | The National Archives; Kew, London, England
-Filed by Entry | 
 References | Rg 101/5510i
 
 ## Text

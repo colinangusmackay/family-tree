@@ -7,11 +7,8 @@ permalink: /sources/s35370951
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 10/Nov/1936
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1936 M 047/8
 
 ## Text

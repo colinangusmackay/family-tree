@@ -8,10 +8,8 @@ permalink: /sources/s35345962
 Field | Detail
 ---:|:---
 Publication | CENSUS OF GREAT BRITAIN 1851 ENUMERATION BOOK 47 SCOTLAND
-Originator / Author | 
 Date | 30/Mar/1851
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1851 C 047/ 5/ 5
 
 ## Text

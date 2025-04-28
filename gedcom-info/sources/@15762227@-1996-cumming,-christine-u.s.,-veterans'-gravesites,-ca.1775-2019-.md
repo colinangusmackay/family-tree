@@ -8,11 +8,6 @@ permalink: /sources/s15762227
 Field | Detail
 ---:|:---
 Publication | U.S., Veterans' Gravesites, ca.1775-2019
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

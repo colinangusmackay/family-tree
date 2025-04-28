@@ -8,11 +8,7 @@ permalink: /sources/s21542692
 Field | Detail
 ---:|:---
 Publication | Detroit Free Press
-Originator / Author | 
 Date | 14/Feb/1941
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

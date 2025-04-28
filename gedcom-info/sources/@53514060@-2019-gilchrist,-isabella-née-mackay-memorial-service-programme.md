@@ -7,12 +7,7 @@ permalink: /sources/s53514060
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 27/Dec/2019
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

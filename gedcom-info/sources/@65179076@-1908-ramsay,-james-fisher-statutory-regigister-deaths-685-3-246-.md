@@ -7,11 +7,8 @@ permalink: /sources/s65179076
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 6/Jun/1908
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1908 D 685/3 246
 
 ## Text

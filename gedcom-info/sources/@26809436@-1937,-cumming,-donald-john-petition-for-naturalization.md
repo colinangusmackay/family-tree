@@ -7,11 +7,7 @@ permalink: /sources/s26809436
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 11/Feb/1937
-Responsible Agency | 
-Filed by Entry | 
 References | 175965
 
 ## Text

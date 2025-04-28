@@ -7,11 +7,8 @@ permalink: /sources/s55468576
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 6/Apr/2004
 Responsible Agency | General Registers Office
-Filed by Entry | 
 References | 2004 D 772/107
 
 ## Text

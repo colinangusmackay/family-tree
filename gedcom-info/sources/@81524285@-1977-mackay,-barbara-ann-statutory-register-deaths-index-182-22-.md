@@ -7,11 +7,7 @@ permalink: /sources/s81524285
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1977 D 182/ 22
 
 ## Text

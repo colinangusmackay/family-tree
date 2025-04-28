@@ -8,10 +8,7 @@ permalink: /sources/s42609780
 Field | Detail
 ---:|:---
 Publication | Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950
-Originator / Author | 
 Date | 10/Jul/1930
-Responsible Agency | 
-Filed by Entry | 
 References | 1-27100
 
 ## Text

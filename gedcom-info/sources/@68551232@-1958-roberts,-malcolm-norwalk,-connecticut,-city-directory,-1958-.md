@@ -8,11 +8,6 @@ permalink: /sources/s68551232
 Field | Detail
 ---:|:---
 Publication | Norwalk, Connecticut, City Directory, 1958
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

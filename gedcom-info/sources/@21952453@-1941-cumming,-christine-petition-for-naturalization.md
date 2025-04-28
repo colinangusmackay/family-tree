@@ -7,11 +7,8 @@ permalink: /sources/s21952453
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 23/Mar/1939
 Responsible Agency | US District Court of Massachussets at Boston
-Filed by Entry | 
 References | 227566
 
 ## Text

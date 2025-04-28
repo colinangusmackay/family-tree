@@ -7,12 +7,7 @@ permalink: /sources/s64786767
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 1953
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

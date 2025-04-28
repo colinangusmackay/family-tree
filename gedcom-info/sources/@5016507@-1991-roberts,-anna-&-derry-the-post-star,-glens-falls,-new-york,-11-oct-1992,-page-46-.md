@@ -8,11 +8,7 @@ permalink: /sources/s5016507
 Field | Detail
 ---:|:---
 Publication | The Post Star
-Originator / Author | 
 Date | 11/Oct/1992
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

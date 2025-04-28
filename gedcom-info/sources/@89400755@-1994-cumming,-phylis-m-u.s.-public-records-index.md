@@ -5,14 +5,6 @@ permalink: /sources/s89400755
 
 # 1994 CUMMING, PHYLIS M - U.S. Public Records Index
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

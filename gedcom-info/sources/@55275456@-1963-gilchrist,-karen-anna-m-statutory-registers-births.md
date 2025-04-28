@@ -7,11 +7,7 @@ permalink: /sources/s55275456
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1963 B 644/8 436
 
 ## Text

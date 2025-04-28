@@ -5,14 +5,6 @@ permalink: /sources/s82785386
 
 # 2003-2008 CUMMING, DONALD B (UK, Electoral Registers, 2003-2010)
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

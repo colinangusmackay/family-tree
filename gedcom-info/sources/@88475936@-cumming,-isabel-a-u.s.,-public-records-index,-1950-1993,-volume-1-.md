@@ -8,11 +8,6 @@ permalink: /sources/s88475936
 Field | Detail
 ---:|:---
 Publication | U.S., Public Records Index, 1950-1993, Volume 1
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -7,11 +7,7 @@ permalink: /sources/s50943484
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1965 M 573/1 207
 
 ## Text

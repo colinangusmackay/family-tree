@@ -7,11 +7,8 @@ permalink: /sources/s68614544
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 4/Oct/1982
 Responsible Agency | WIlliam Gilchrist (Funerals) Ltd.
-Filed by Entry | 
 References | C/922/N
 
 ## Text

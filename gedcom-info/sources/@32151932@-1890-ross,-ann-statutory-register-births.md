@@ -7,12 +7,8 @@ permalink: /sources/s32151932
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 29/Nov/1890
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
-References | 
 
 ## Text
 

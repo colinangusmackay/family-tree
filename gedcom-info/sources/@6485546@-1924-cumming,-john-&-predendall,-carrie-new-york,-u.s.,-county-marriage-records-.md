@@ -8,11 +8,6 @@ permalink: /sources/s6485546
 Field | Detail
 ---:|:---
 Publication | New York, U.S., County Marriage Records
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

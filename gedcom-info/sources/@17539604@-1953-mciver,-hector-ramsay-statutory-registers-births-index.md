@@ -7,11 +7,7 @@ permalink: /sources/s17539604
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1953 B 685/3 1404
 
 ## Text

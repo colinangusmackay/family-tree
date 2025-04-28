@@ -7,11 +7,8 @@ permalink: /sources/s9056121
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 10/Jan/1868
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1868 D 047/ 2
 
 ## Text

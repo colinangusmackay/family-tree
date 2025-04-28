@@ -8,11 +8,7 @@ permalink: /sources/s68728914
 Field | Detail
 ---:|:---
 Publication | England & Wales, Civil Registration Birth Index, 1916-2007
-Originator / Author | 
-Date | 
 Responsible Agency | General Register Office
-Filed by Entry | 
-References | 
 
 ## Text
 

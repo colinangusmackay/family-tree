@@ -7,12 +7,8 @@ permalink: /sources/s27003008
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 27/Mar/1934
 Responsible Agency | District Court, Massachusetts
-Filed by Entry | 
-References | 
 
 ## Text
 

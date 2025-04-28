@@ -7,12 +7,8 @@ permalink: /sources/s83641024
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 11/Jul/1938
 Responsible Agency | U.S. Department of Labour, Immigration and Naturalisation Service
-Filed by Entry | 
-References | 
 
 ## Text
 

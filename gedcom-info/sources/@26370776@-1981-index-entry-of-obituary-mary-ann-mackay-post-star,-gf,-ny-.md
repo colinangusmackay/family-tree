@@ -8,11 +8,8 @@ permalink: /sources/s26370776
 Field | Detail
 ---:|:---
 Publication | Newspapers.com Obituary Index 1800-Currentthe o
-Originator / Author | 
 Date | 9/Oct/1981
 Responsible Agency | The Post Star (Glen Falls, New York)
-Filed by Entry | 
-References | 
 
 ## Text
 

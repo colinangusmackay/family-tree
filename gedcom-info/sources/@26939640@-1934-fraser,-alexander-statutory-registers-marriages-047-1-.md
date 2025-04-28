@@ -7,11 +7,7 @@ permalink: /sources/s26939640
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 9/Feb/1934
-Responsible Agency | 
-Filed by Entry | 
 References | 1934 M 047/1
 
 ## Text

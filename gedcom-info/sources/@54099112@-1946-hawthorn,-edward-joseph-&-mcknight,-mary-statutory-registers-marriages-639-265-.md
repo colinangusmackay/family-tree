@@ -7,11 +7,8 @@ permalink: /sources/s54099112
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 9/Sep/1946
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1946 M 639/ 265
 
 ## Text

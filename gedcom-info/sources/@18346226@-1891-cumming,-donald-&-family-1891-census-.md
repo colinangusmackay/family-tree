@@ -7,11 +7,6 @@ permalink: /sources/s18346226
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | 1891 C 047/2/17
 
 ## Text

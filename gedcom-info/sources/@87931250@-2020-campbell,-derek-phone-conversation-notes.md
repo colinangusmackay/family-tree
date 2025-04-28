@@ -7,12 +7,7 @@ permalink: /sources/s87931250
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 8/May/2020
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

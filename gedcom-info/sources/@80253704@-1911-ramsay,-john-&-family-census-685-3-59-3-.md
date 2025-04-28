@@ -7,11 +7,7 @@ permalink: /sources/s80253704
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1911 C 685/3 59/ 3
 
 ## Text

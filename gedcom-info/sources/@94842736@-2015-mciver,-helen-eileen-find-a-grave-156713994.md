@@ -9,9 +9,6 @@ Field | Detail
 ---:|:---
 Publication | [https://www.findagrave.com/memorial/156713994/helen-eileen-mciver](https://www.findagrave.com/memorial/156713994/helen-eileen-mciver)
 Originator / Author | Find a Grave
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | 156713994
 
 ## Text

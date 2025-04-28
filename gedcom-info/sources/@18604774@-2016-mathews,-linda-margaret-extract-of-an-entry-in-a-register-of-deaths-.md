@@ -8,10 +8,8 @@ permalink: /sources/s18604774
 Field | Detail
 ---:|:---
 Publication | REGISTER of DEATHS
-Originator / Author | 
 Date | 29/Sep/2016
 Responsible Agency | Registrar General
-Filed by Entry | 
 References | 2016 D 773/14
 
 ## Text

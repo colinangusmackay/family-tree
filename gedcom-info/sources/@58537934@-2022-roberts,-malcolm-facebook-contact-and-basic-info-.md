@@ -10,9 +10,6 @@ Field | Detail
 Publication | Facebook
 Originator / Author | X X
 Date | 24/Mar/2022
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

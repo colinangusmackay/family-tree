@@ -8,11 +8,6 @@ permalink: /sources/s76598000
 Field | Detail
 ---:|:---
 Publication | UK, Electoral Registers, 2003-2010
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

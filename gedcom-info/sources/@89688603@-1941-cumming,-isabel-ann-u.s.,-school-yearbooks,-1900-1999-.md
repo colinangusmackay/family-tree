@@ -8,11 +8,6 @@ permalink: /sources/s89688603
 Field | Detail
 ---:|:---
 Publication | U.S., School Yearbooks, 1900-1999
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -7,11 +7,7 @@ permalink: /sources/s78629056
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1821 OPR B 047/ Dornoch
 
 ## Text

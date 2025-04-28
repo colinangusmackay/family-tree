@@ -7,11 +7,8 @@ permalink: /sources/s14483641
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 24/Dec/1945
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1945 M 573/1 936
 
 ## Text

@@ -7,11 +7,6 @@ permalink: /sources/s11274302
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.joan-west-memorial.com/last-words/](https://www.joan-west-memorial.com/last-words/)
 
 ## Text

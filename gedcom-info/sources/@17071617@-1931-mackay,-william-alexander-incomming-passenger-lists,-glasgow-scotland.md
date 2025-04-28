@@ -7,12 +7,7 @@ permalink: /sources/s17071617
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 6/Dec/1931
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

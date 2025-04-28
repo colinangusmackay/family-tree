@@ -7,11 +7,8 @@ permalink: /sources/s83527526
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 8/Feb/1961
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1961 D 673/1 4
 
 ## Text

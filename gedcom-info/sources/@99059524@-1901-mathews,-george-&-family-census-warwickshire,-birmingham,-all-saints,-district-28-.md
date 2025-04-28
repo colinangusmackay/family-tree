@@ -8,10 +8,7 @@ permalink: /sources/s99059524
 Field | Detail
 ---:|:---
 Publication | Census Returns of England and Wales, 1901
-Originator / Author | 
-Date | 
 Responsible Agency | The National Archives, 1901
-Filed by Entry | 
 References | Class: RG13; Piece: 2850; Folio: 48; Page: 43
 
 ## Text

@@ -7,12 +7,7 @@ permalink: /sources/s31156035
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 18/Sep/1914
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

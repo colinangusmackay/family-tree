@@ -7,12 +7,8 @@ permalink: /sources/s96911480
 
 Field | Detail
 ---:|:---
-Publication | 
 Originator / Author | Helen McDermott
 Date | 13/Jan/2020
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -7,11 +7,8 @@ permalink: /sources/s18127054
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 19/May/1913
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1913 B 426/ 264
 
 ## Text

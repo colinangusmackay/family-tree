@@ -8,11 +8,6 @@ permalink: /sources/s60480892
 Field | Detail
 ---:|:---
 Publication | The Escanaba Daily Press
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

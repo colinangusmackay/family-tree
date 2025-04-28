@@ -7,11 +7,8 @@ permalink: /sources/s38042912
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 2015
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 2015 D 177/3
 
 ## Text

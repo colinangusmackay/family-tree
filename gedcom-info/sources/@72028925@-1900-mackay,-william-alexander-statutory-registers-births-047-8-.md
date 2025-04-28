@@ -7,11 +7,8 @@ permalink: /sources/s72028925
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 12/Mar/1900
 Responsible Agency | National Registers of Scotland
-Filed by Entry | 
 References | (Statutory Register Births) 1900 047/8
 
 ## Text

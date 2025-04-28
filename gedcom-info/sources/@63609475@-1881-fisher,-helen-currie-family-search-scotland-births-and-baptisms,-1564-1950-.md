@@ -8,10 +8,7 @@ permalink: /sources/s63609475
 Field | Detail
 ---:|:---
 Publication | Scotland Births and Baptisms, 1564-1950
-Originator / Author | 
-Date | 
 Responsible Agency | FamilySearch
-Filed by Entry | 
 References | (URL) [Open original source at https://familysearch.org/ark:/61903/1:1:XTX8-J9K](https://familysearch.org/ark:/61903/1:1:XTX8-J9K)
 
 ## Text

@@ -8,11 +8,6 @@ permalink: /sources/s2017128
 Field | Detail
 ---:|:---
 Publication | Fife and Kinross District Asylum Registers, Fife Library and Archives Services, Fife, Scotland.
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

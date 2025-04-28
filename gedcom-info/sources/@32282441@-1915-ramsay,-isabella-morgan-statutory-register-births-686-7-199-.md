@@ -7,11 +7,8 @@ permalink: /sources/s32282441
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 5/Jul/1915
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1915 B 685/7 199
 
 ## Text

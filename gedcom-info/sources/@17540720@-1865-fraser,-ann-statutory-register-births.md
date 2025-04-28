@@ -7,11 +7,8 @@ permalink: /sources/s17540720
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 23/Sep/1865
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1865 B 047/44
 
 ## Text

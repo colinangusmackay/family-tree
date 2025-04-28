@@ -7,11 +7,7 @@ permalink: /sources/s67874560
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | General Register Office
-Filed by Entry | 
 References | Reference: Volume 4a, Page 572
 
 ## Text

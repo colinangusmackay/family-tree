@@ -7,11 +7,8 @@ permalink: /sources/s48317232
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 11/Feb/1914
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1914 B 678/7
 
 ## Text

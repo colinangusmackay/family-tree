@@ -8,11 +8,7 @@ permalink: /sources/s67676004
 Field | Detail
 ---:|:---
 Publication | List or Manifest of Alien Passengers for the United States Immigration Officer at Port of Arrival
-Originator / Author | 
 Date | 28/Feb/1921
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

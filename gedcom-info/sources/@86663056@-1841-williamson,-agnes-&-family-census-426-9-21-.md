@@ -7,11 +7,8 @@ permalink: /sources/s86663056
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 6/Jun/1841
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1841 C 426/ 9/ 21
 
 ## Text

@@ -7,12 +7,8 @@ permalink: /sources/s998784
 
 Field | Detail
 ---:|:---
-Publication | 
 Originator / Author | Department of Commerce - Bureau of the Census
 Date | 7/Apr/1930
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

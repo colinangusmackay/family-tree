@@ -5,14 +5,6 @@ permalink: /sources/s44154666
 
 # Anne Cumming US social security applications and claims index
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Source Referenced by
 

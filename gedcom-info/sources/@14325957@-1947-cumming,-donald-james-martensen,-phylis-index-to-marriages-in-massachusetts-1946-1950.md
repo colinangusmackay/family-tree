@@ -8,11 +8,6 @@ permalink: /sources/s14325957
 Field | Detail
 ---:|:---
 Publication | Index to Marriages in Massachusetts 1946-1950
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

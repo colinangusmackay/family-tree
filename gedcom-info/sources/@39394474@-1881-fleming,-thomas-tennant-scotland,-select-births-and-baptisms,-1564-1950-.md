@@ -5,14 +5,6 @@ permalink: /sources/s39394474
 
 # 1881 FLEMING, THOMAS TENNANT (Scotland, Select Births and Baptisms, 1564-1950)
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

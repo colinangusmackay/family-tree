@@ -10,9 +10,6 @@ Field | Detail
 Publication | [https://www.stjohnscotland.org.uk/the-order/library/91-pearls-from-the-pend-no-4](https://www.stjohnscotland.org.uk/the-order/library/91-pearls-from-the-pend-no-4)
 Originator / Author | Charles J Burnett
 Date | 10/Oct/2015
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

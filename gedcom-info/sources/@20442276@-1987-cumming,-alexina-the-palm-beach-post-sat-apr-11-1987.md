@@ -7,12 +7,7 @@ permalink: /sources/s20442276
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 11/Apr/1987
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

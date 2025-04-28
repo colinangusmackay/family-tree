@@ -7,11 +7,7 @@ permalink: /sources/s15399776
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1942 B 282/2 217
 
 ## Text

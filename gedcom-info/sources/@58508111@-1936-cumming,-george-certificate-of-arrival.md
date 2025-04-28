@@ -7,11 +7,8 @@ permalink: /sources/s58508111
 
 Field | Detail
 ---:|:---
-Publication | 
 Originator / Author | Byron H. Uhl
-Date | 
 Responsible Agency | US Department of Labour, Immigration and Naturalization Service
-Filed by Entry | 
 References | 1 175660
 
 ## Text

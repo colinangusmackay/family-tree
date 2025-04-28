@@ -7,11 +7,7 @@ permalink: /sources/s10153260
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1954 B 442/164
 
 ## Text

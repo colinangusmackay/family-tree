@@ -7,11 +7,7 @@ permalink: /sources/s34218473
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1946 D 
 
 ## Text

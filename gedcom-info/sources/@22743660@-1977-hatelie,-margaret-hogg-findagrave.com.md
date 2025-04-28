@@ -8,11 +8,6 @@ permalink: /sources/s22743660
 Field | Detail
 ---:|:---
 Publication | [https://www.findagrave.com/memorial/187602429/margaret-h_-cumming](https://www.findagrave.com/memorial/187602429/margaret-h_-cumming)
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Source Referenced by
 

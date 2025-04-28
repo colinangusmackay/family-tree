@@ -8,10 +8,8 @@ permalink: /sources/s43040640
 Field | Detail
 ---:|:---
 Publication | Statutory registers Births
-Originator / Author | 
 Date | 2/May/1919
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1919 B 644/13 326
 
 ## Text

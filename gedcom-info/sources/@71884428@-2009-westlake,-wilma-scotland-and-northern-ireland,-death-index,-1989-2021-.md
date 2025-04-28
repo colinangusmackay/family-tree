@@ -5,14 +5,6 @@ permalink: /sources/s71884428
 
 # 2009 WESTLAKE, WILMA (Scotland and Northern Ireland, Death Index, 1989-2021)
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

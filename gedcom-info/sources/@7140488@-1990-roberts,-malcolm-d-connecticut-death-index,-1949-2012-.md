@@ -8,11 +8,6 @@ permalink: /sources/s7140488
 Field | Detail
 ---:|:---
 Publication | Connecticut Death Index, 1949-2012
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

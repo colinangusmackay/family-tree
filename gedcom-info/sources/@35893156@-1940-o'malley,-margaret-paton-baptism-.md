@@ -7,12 +7,7 @@ permalink: /sources/s35893156
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 26/Nov/1940
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

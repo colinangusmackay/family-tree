@@ -8,11 +8,7 @@ permalink: /sources/s77097566
 Field | Detail
 ---:|:---
 Publication | The Palm Beach Post
-Originator / Author | 
 Date | 9/Jan/1947
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -8,10 +8,7 @@ permalink: /sources/s33540129
 Field | Detail
 ---:|:---
 Publication | The History Links Archive
-Originator / Author | 
 Date | 13/Nov/2009
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.historylinksarchive.org.uk/picture/number8017](https://www.historylinksarchive.org.uk/picture/number8017)
 
 ## Text

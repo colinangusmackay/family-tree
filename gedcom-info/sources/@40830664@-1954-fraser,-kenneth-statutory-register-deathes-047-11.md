@@ -7,11 +7,8 @@ permalink: /sources/s40830664
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 10/May/1954
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1954 D 047/11
 
 ## Text

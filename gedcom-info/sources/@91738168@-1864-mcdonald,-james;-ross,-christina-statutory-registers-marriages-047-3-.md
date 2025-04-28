@@ -7,11 +7,7 @@ permalink: /sources/s91738168
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1864 M 047/3
 
 ## Text

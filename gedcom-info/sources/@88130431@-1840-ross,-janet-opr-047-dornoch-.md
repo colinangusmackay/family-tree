@@ -8,10 +8,7 @@ permalink: /sources/s88130431
 Field | Detail
 ---:|:---
 Publication | Old Parish Records - Church of Scotland
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | OPR B 047/ Dornoch
 
 ## Text

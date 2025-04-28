@@ -8,11 +8,7 @@ permalink: /sources/s98745737
 Field | Detail
 ---:|:---
 Publication | New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
-Originator / Author | 
 Date | 29/Nov/1926
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

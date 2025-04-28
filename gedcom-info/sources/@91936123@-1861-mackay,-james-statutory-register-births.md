@@ -8,10 +8,8 @@ permalink: /sources/s91936123
 Field | Detail
 ---:|:---
 Publication | Statutory Register Births
-Originator / Author | 
 Date | 15/Apr/1861
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1861 B 047/25
 
 ## Text

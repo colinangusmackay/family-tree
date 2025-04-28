@@ -7,11 +7,8 @@ permalink: /sources/s39336142
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 12/Mar/1942
 Responsible Agency | General Register Office
-Filed by Entry | 
 References | 1942 B 292/2 217
 
 ## Text

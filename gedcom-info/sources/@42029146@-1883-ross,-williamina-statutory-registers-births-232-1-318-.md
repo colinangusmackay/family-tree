@@ -7,11 +7,8 @@ permalink: /sources/s42029146
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 28/Aug/1883
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1883 B 232/1 318
 
 ## Text

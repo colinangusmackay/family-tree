@@ -7,11 +7,8 @@ permalink: /sources/s16477553
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 12/Apr/1912
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1912 B 644/13 385
 
 ## Text

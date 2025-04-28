@@ -8,11 +8,6 @@ permalink: /sources/s66019328
 Field | Detail
 ---:|:---
 Publication | Florida Death Index 1877-1998
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

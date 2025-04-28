@@ -7,12 +7,7 @@ permalink: /sources/s1379696
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 30/Jun/1942
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

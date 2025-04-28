@@ -7,11 +7,7 @@ permalink: /sources/s47186563
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1901 M 573/1 420
 
 ## Text

@@ -7,12 +7,7 @@ permalink: /sources/s82313037
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 1940
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

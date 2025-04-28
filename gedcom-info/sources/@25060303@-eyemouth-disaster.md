@@ -8,10 +8,6 @@ permalink: /sources/s25060303
 Field | Detail
 ---:|:---
 Publication | Wikipedia
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (https://en.wikipedia.org/wiki/Eyemouth_disaster) URL
 
 ## Text

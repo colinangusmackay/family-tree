@@ -7,11 +7,7 @@ permalink: /sources/s63462618
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1805 OPR 069/ Kilmuir Easter page 190
 
 ## Text

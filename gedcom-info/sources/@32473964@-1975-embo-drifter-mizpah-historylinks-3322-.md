@@ -8,10 +8,7 @@ permalink: /sources/s32473964
 Field | Detail
 ---:|:---
 Publication | Historylinks Archive
-Originator / Author | 
 Date | 24/Apr/2008
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.historylinksarchive.org.uk/picture/number3322](https://www.historylinksarchive.org.uk/picture/number3322)
 
 ## Text

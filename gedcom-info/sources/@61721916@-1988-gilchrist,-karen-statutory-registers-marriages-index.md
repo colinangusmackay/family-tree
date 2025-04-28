@@ -7,11 +7,7 @@ permalink: /sources/s61721916
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1988 M 601/328
 
 ## Text

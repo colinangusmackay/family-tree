@@ -7,12 +7,8 @@ permalink: /sources/s2961014
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 27/Jan/1858
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
-References | 
 
 ## Text
 

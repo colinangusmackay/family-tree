@@ -7,11 +7,8 @@ permalink: /sources/s92130632
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 3/Jan/1885
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1885 M 662/1 5
 
 ## Text

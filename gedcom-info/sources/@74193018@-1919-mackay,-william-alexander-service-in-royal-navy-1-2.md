@@ -7,11 +7,7 @@ permalink: /sources/s74193018
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | The National Archives
-Filed by Entry | 
 References | BT 377/7/9475 (page 1 of 2)
 
 ## Text

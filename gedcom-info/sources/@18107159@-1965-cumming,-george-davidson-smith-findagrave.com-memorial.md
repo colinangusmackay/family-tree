@@ -8,10 +8,7 @@ permalink: /sources/s18107159
 Field | Detail
 ---:|:---
 Publication | [https://www.findagrave.com/memorial/187602426](https://www.findagrave.com/memorial/187602426)
-Originator / Author | 
 Date | 1965
-Responsible Agency | 
-Filed by Entry | 
 References | 187602426
 
 ## Text

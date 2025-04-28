@@ -5,14 +5,6 @@ permalink: /sources/s56849565
 
 # 1943 HATELIE, MARGARET HOGG (Declaration of Intention)
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

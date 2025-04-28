@@ -7,11 +7,7 @@ permalink: /sources/s8363314
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | Nation Records of Scotland
-Filed by Entry | 
 References | 1910 M 644/12 6
 
 ## Text

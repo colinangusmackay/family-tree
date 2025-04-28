@@ -8,11 +8,7 @@ permalink: /sources/s15224340
 Field | Detail
 ---:|:---
 Publication | The Boston Globe
-Originator / Author | 
 Date | 7/Apr/1971
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

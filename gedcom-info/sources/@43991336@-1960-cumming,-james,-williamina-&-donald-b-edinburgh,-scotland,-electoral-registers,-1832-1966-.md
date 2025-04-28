@@ -8,10 +8,8 @@ permalink: /sources/s43991336
 Field | Detail
 ---:|:---
 Publication | Register of Voters For the City of Edinburgh and the Burgh of Leith
-Originator / Author | 
 Date | 1960
 Responsible Agency | Edinburgh City Archives
-Filed by Entry | 
 References | Sl56/153
 
 ## Text

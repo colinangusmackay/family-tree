@@ -7,11 +7,8 @@ permalink: /sources/s83474524
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 18/Oct/1876
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1876 M 047/12
 
 ## Text

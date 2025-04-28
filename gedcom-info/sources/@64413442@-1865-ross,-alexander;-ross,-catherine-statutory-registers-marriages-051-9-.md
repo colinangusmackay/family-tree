@@ -7,11 +7,7 @@ permalink: /sources/s64413442
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1865 M 051/9
 
 ## Text

@@ -7,12 +7,7 @@ permalink: /sources/s14172856
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Registers of Scotland
-Filed by Entry | 
-References | 
 
 ## Source Referenced by
 

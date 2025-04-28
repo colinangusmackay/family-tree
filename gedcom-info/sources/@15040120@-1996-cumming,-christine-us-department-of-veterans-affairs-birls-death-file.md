@@ -8,11 +8,6 @@ permalink: /sources/s15040120
 Field | Detail
 ---:|:---
 Publication | US Department of Veterans Affairs BIRLS Death File, 1850-2010
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

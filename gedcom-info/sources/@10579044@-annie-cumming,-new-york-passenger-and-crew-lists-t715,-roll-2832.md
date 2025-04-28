@@ -8,11 +8,6 @@ permalink: /sources/s10579044
 Field | Detail
 ---:|:---
 Publication | New York Passenger and Crew Lists (including Castle Garden and Ellis Island) 1820-1957
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Source Referenced by
 

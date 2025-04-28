@@ -5,14 +5,6 @@ permalink: /sources/s70335625
 
 # FLEMING, JOSEPH & FAMILY (Family Register)
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

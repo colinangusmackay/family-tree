@@ -7,11 +7,6 @@ permalink: /sources/s79712268
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | 1-418852
 
 ## Text

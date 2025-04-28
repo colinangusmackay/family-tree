@@ -7,12 +7,7 @@ permalink: /sources/s48079579
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 13/May/1908
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

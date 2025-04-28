@@ -8,11 +8,6 @@ permalink: /sources/s74614494
 Field | Detail
 ---:|:---
 Publication | U.S., World War II Draft Cards Young Men, 1940-1947
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

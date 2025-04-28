@@ -8,10 +8,7 @@ permalink: /sources/s39876510
 Field | Detail
 ---:|:---
 Publication | New York State, U.S., Death Index, 1957-1970
-Originator / Author | 
-Date | 
 Responsible Agency | New York State Department of Health; Albany, NY, USA
-Filed by Entry | 
 References | (Certificate Number) 2433
 
 ## Text

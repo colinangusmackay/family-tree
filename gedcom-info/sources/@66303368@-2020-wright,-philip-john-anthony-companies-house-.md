@@ -7,11 +7,7 @@ permalink: /sources/s66303368
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | Companies House
-Filed by Entry | 
 References | (URL) [Open original source at https://find-and-update.company-information.service.gov.uk/officers/iOHs3FIpx2xvlaqPLwc1o2Ab7UI/appointments](https://find-and-update.company-information.service.gov.uk/officers/iOHs3FIpx2xvlaqPLwc1o2Ab7UI/appointments)
 
 ## Text

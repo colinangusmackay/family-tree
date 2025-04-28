@@ -8,10 +8,7 @@ permalink: /sources/s12049260
 Field | Detail
 ---:|:---
 Publication | New York, New York City Municipal Deaths, 1795-1949", database, FamilySearch
-Originator / Author | 
 Date | 3/Jun/2020
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.familysearch.org/ark:/61903/1:1:2WBC-R8R](https://www.familysearch.org/ark:/61903/1:1:2WBC-R8R)
 
 ## Text

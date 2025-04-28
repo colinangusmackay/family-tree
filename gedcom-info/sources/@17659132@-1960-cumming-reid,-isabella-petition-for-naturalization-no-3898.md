@@ -7,11 +7,7 @@ permalink: /sources/s17659132
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | United States Department of Justice Immigration and Naturalisation Service
-Filed by Entry | 
 References | 3898
 
 ## Text

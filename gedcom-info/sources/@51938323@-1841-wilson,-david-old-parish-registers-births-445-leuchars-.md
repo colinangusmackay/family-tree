@@ -7,12 +7,8 @@ permalink: /sources/s51938323
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 1841
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
-References | 
 
 ## Text
 

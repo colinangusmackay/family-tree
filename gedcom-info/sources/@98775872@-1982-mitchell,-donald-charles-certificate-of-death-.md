@@ -8,11 +8,6 @@ permalink: /sources/s98775872
 Field | Detail
 ---:|:---
 Publication | Texas, U.S., Death Certificates, 1903-1982
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

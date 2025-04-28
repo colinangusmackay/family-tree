@@ -7,12 +7,7 @@ permalink: /sources/s71979538
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 4/Oct/1938
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

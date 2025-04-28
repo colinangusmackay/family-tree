@@ -7,12 +7,7 @@ permalink: /sources/s69591437
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 11/May/1942
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

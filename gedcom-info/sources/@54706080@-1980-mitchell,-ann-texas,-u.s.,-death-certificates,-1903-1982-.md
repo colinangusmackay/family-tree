@@ -8,10 +8,7 @@ permalink: /sources/s54706080
 Field | Detail
 ---:|:---
 Publication | Texas, U.S., Death Certificates, 1903-1982
-Originator / Author | 
-Date | 
 Responsible Agency | Texas Department of State Health Services; Austin Texas, USA
-Filed by Entry | 
 References | (State File Number) 55415
 
 ## Text

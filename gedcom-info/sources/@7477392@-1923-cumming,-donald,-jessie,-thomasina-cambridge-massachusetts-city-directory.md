@@ -8,11 +8,7 @@ permalink: /sources/s7477392
 Field | Detail
 ---:|:---
 Publication | Cambridge, Massachusetts, City Directory, 1923
-Originator / Author | 
 Date | 1923
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

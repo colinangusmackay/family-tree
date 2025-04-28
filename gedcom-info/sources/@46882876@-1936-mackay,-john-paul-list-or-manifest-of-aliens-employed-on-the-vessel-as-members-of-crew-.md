@@ -7,12 +7,7 @@ permalink: /sources/s46882876
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 4/Mar/1936
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -7,12 +7,7 @@ permalink: /sources/s22422113
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | The National Archives of the UK
-Filed by Entry | 
-References | 
 
 ## Text
 

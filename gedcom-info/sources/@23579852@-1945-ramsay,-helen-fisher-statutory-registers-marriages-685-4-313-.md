@@ -7,11 +7,8 @@ permalink: /sources/s23579852
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 9/Apr/1945
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1945 M 685/4 313
 
 ## Text

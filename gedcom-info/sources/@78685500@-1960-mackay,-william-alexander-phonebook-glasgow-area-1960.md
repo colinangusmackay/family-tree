@@ -8,11 +8,8 @@ permalink: /sources/s78685500
 Field | Detail
 ---:|:---
 Publication | Post Office telephone directory Vol 15
-Originator / Author | 
 Date | May/1960
 Responsible Agency | The Post Office
-Filed by Entry | 
-References | 
 
 ## Text
 

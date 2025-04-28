@@ -7,11 +7,7 @@ permalink: /sources/s60240182
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 21/Mar/1930
-Responsible Agency | 
-Filed by Entry | 
 References | (Registration Certificate Number) 8878
 
 ## Text

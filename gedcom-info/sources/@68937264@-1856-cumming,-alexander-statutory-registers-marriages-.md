@@ -7,11 +7,7 @@ permalink: /sources/s68937264
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1856 M 051/5
 
 ## Text

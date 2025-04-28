@@ -8,11 +8,7 @@ permalink: /sources/s67208942
 Field | Detail
 ---:|:---
 Publication | [https://billiongraves.com/grave/Margaret-Paton-Campbell/2755876](https://billiongraves.com/grave/Margaret-Paton-Campbell/2755876)
-Originator / Author | 
 Date | 17/Nov/2012
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

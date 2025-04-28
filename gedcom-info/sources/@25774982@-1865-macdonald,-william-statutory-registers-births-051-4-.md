@@ -7,11 +7,7 @@ permalink: /sources/s25774982
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 18/Jan/1865
-Responsible Agency | 
-Filed by Entry | 
 References | 1865 B 051/ 4
 
 ## Text

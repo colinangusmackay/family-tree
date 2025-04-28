@@ -7,11 +7,6 @@ permalink: /sources/s4799722
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | 1734
 
 ## Text

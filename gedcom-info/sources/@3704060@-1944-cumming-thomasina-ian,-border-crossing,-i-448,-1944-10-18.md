@@ -7,12 +7,8 @@ permalink: /sources/s3704060
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 18/Oct/1944
 Responsible Agency | US Department of Justice, Immigration and Naturalisation Service
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -7,11 +7,7 @@ permalink: /sources/s19492840
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1841 C 047/ 5/ 3
 
 ## Text

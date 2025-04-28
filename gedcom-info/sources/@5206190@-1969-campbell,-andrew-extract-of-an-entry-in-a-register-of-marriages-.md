@@ -7,12 +7,7 @@ permalink: /sources/s5206190
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | General Registers Office
-Filed by Entry | 
-References | 
 
 ## Text
 

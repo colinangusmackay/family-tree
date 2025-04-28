@@ -7,11 +7,8 @@ permalink: /sources/s9099898
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 15/Jan/1910
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1910 M 047/3
 
 ## Text

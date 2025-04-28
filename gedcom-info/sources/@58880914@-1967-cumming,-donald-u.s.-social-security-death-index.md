@@ -7,12 +7,7 @@ permalink: /sources/s58880914
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | Dec/1967
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

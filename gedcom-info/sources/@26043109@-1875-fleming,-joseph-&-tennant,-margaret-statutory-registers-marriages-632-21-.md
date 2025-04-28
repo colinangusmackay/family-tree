@@ -7,11 +7,7 @@ permalink: /sources/s26043109
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | Nation Records of Scotland
-Filed by Entry | 
 References | 1875 M 632/21
 
 ## Text

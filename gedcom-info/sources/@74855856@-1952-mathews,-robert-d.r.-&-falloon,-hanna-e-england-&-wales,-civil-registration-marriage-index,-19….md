@@ -8,11 +8,7 @@ permalink: /sources/s74855856
 Field | Detail
 ---:|:---
 Publication | England & Wales, Civil Registration Marriage Index, 1916-2005
-Originator / Author | 
-Date | 
 Responsible Agency | General Register Office
-Filed by Entry | 
-References | 
 
 ## Text
 

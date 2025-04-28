@@ -7,11 +7,8 @@ permalink: /sources/s97661476
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 11/Jan/1869
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1869 B 739/4
 
 ## Text

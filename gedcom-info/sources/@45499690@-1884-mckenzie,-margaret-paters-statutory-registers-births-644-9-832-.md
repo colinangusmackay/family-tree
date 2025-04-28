@@ -7,11 +7,8 @@ permalink: /sources/s45499690
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 14/Jun/1884
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1884 B 644/9 832
 
 ## Text

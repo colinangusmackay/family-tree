@@ -7,11 +7,8 @@ permalink: /sources/s20366636
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 7/Feb/1979
 Responsible Agency | Passport Office
-Filed by Entry | 
 References | (Passport Number) G102330A
 
 ## Text

@@ -7,11 +7,8 @@ permalink: /sources/s14928738
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 8/Sep/1960
 Responsible Agency | US District Court of California at San Diego
-Filed by Entry | 
 References | 3899
 
 ## Text

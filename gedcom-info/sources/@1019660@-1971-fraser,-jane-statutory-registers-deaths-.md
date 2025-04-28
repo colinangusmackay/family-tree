@@ -7,11 +7,8 @@ permalink: /sources/s1019660
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 11/Nov/1971
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1971 D 047/33
 
 ## Text

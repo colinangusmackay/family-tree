@@ -8,10 +8,7 @@ permalink: /sources/s9852302
 Field | Detail
 ---:|:---
 Publication | The POST STAR
-Originator / Author | 
 Date | 16/Mar/2021
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.legacy.com/us/obituaries/poststar/name/anna-roberts-obituary?pid=198059055&fbclid=IwAR2F39iQXzoFaTQV1m_tIRAu2OZ-ZmViqY-A1eMnVYQevymzYILBYghZmS0](https://www.legacy.com/us/obituaries/poststar/name/anna-roberts-obituary?pid=198059055&fbclid=IwAR2F39iQXzoFaTQV1m_tIRAu2OZ-ZmViqY-A1eMnVYQevymzYILBYghZmS0)
 
 ## Text

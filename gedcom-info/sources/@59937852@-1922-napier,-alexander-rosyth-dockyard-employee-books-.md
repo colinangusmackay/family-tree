@@ -8,11 +8,8 @@ permalink: /sources/s59937852
 Field | Detail
 ---:|:---
 Publication | Rosyth, Fife, Scotland, Dockyard Employee Books, 1892-1967
-Originator / Author | 
 Date | 1922
 Responsible Agency | Rosyth Dockyard Employmee Books, Fife Library and Archives Services, Fife, Scotland.
-Filed by Entry | 
-References | 
 
 ## Text
 

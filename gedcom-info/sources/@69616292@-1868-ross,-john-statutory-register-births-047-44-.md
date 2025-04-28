@@ -7,11 +7,7 @@ permalink: /sources/s69616292
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 7/Sep/1868
-Responsible Agency | 
-Filed by Entry | 
 References | 1868 B 047/ 44
 
 ## Text

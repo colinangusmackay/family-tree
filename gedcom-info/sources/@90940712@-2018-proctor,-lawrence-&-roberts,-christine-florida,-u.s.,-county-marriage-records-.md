@@ -8,11 +8,6 @@ permalink: /sources/s90940712
 Field | Detail
 ---:|:---
 Publication | Florida, U.S., County Marriage Records
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

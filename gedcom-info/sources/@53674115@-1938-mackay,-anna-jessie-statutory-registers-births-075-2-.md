@@ -7,11 +7,8 @@ permalink: /sources/s53674115
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 11/Jul/1938
 Responsible Agency | General Register Office for Scotland
-Filed by Entry | 
 References | 1938 B 075/ 2
 
 ## Text

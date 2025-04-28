@@ -7,11 +7,8 @@ permalink: /sources/s95063074
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 5/Sep/1933
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1933 M 644/ 12 289
 
 ## Text

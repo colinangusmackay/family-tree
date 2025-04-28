@@ -7,12 +7,7 @@ permalink: /sources/s60420349
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 30/Apr/2024
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -7,11 +7,7 @@ permalink: /sources/s46438216
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 1/May/1942
-Responsible Agency | 
-Filed by Entry | 
 References | 1942 D 047/8
 
 ## Text

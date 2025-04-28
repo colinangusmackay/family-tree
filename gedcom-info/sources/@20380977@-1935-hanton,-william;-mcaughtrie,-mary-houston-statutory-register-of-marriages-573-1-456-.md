@@ -7,11 +7,8 @@ permalink: /sources/s20380977
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 31/Jul/1935
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1935 M 573/1 456
 
 ## Text

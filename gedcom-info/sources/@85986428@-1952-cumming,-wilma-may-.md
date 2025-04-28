@@ -7,12 +7,7 @@ permalink: /sources/s85986428
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 21/Dec/1952
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

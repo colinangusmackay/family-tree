@@ -5,14 +5,6 @@ permalink: /sources/s37485922
 
 # 1986 REID, ISABELLA C - Florida Death Index
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

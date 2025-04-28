@@ -7,11 +7,7 @@ permalink: /sources/s28195272
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1919 M 644/18 240
 
 ## Text

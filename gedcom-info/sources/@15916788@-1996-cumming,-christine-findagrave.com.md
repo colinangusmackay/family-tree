@@ -8,11 +8,6 @@ permalink: /sources/s15916788
 Field | Detail
 ---:|:---
 Publication | [https://www.findagrave.com/memorial/144662292](https://www.findagrave.com/memorial/144662292)
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -9,10 +9,6 @@ Field | Detail
 ---:|:---
 Publication | [https://www.ancestry.co.uk/family-tree/person/tree/70693809/person/48222034334/story](https://www.ancestry.co.uk/family-tree/person/tree/70693809/person/48222034334/story)
 Originator / Author | Paul Robinson
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

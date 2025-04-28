@@ -7,11 +7,7 @@ permalink: /sources/s93257359
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | General Registers Office
-Filed by Entry | 
 References | 1983 B 772/209
 
 ## Text

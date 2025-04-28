@@ -7,11 +7,8 @@ permalink: /sources/s78922602
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 21/Feb/1939
 Responsible Agency | US Department of Labour, Immigration and Nturalization Service
-Filed by Entry | 
 References | 1258436
 
 ## Text

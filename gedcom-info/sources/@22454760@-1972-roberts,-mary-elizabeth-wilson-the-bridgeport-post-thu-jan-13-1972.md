@@ -8,11 +8,7 @@ permalink: /sources/s22454760
 Field | Detail
 ---:|:---
 Publication | The Bridgeport Post
-Originator / Author | 
 Date | 13/Jan/1972
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

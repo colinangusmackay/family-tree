@@ -8,11 +8,6 @@ permalink: /sources/s96892520
 Field | Detail
 ---:|:---
 Publication | New York, U.S., County Marriage Records, 1847-1849, 1907-1936
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -7,12 +7,8 @@ permalink: /sources/s94344799
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 10/Jul/1888
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
-References | 
 
 ## Text
 

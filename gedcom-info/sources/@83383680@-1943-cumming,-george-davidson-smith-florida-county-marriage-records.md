@@ -8,10 +8,6 @@ permalink: /sources/s83383680
 Field | Detail
 ---:|:---
 Publication | Florida County Marriage Records, 1823 - 1982
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (Film Number) 002241560
 
 ## Text

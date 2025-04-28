@@ -8,11 +8,7 @@ permalink: /sources/s8607200
 Field | Detail
 ---:|:---
 Publication | Hartford Courant
-Originator / Author | 
 Date | 19/Dec/1971
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

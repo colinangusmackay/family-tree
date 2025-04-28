@@ -8,11 +8,6 @@ permalink: /sources/s83241568
 Field | Detail
 ---:|:---
 Publication | City of Edinburgh Archives; Edinburgh, Scotland; Edinburgh Burial Registers; Reference: BR0008
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

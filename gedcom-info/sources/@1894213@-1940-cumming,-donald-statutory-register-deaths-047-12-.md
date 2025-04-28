@@ -7,11 +7,8 @@ permalink: /sources/s1894213
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 28/Feb/1928
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1940 D 047/12
 
 ## Text

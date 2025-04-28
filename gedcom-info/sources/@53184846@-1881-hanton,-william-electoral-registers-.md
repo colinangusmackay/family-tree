@@ -5,14 +5,6 @@ permalink: /sources/s53184846
 
 # 1881 HANTON, WILLIAM (Electoral Registers)
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

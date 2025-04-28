@@ -7,11 +7,8 @@ permalink: /sources/s85914143
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 11/Jul/1938
 Responsible Agency | US Department of Labor - Immigration and Naturalization Service
-Filed by Entry | 
 References | 1-231738
 
 ## Text

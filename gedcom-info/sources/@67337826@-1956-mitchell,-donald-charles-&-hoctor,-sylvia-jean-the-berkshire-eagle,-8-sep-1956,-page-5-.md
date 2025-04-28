@@ -8,11 +8,7 @@ permalink: /sources/s67337826
 Field | Detail
 ---:|:---
 Publication | The Berkshire Eagle
-Originator / Author | 
 Date | 8/Sep/1956
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

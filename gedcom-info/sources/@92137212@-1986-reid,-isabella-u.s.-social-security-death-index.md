@@ -5,14 +5,6 @@ permalink: /sources/s92137212
 
 # 1986 REID, ISABELLA - U.S. Social Security Death Index
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -8,11 +8,7 @@ permalink: /sources/s20289898
 Field | Detail
 ---:|:---
 Publication | Facebook.com
-Originator / Author | 
 Date | 26/May/2020
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

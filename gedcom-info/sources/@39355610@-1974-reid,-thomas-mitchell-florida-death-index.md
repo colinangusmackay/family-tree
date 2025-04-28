@@ -5,14 +5,6 @@ permalink: /sources/s39355610
 
 # 1974 REID, THOMAS MITCHELL - Florida Death Index
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

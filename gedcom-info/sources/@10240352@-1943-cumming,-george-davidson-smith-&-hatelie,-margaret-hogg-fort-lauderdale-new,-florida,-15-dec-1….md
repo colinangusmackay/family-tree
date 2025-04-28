@@ -8,11 +8,7 @@ permalink: /sources/s10240352
 Field | Detail
 ---:|:---
 Publication | Fort Lauderdale News
-Originator / Author | 
 Date | 15/Dec/1943
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

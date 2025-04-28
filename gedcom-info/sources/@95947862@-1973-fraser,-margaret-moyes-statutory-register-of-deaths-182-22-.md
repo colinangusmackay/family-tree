@@ -7,11 +7,8 @@ permalink: /sources/s95947862
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 28/Aug/1973
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1973 M 182/22
 
 ## Text

@@ -7,12 +7,8 @@ permalink: /sources/s86293040
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 14/Feb/1941
 Responsible Agency | Michigan Department of Health
-Filed by Entry | 
-References | 
 
 ## Text
 

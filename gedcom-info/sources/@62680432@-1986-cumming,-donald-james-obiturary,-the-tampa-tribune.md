@@ -8,11 +8,7 @@ permalink: /sources/s62680432
 Field | Detail
 ---:|:---
 Publication | The Tampa Tribune
-Originator / Author | 
 Date | 17/Mar/1986
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

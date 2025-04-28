@@ -8,10 +8,6 @@ permalink: /sources/s88444891
 Field | Detail
 ---:|:---
 Publication | Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (Petition Number) 125700
 
 ## Text

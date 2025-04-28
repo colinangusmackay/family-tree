@@ -8,11 +8,6 @@ permalink: /sources/s46642344
 Field | Detail
 ---:|:---
 Publication | Ancestry.com
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

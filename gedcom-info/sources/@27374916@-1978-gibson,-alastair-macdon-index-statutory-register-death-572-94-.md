@@ -8,10 +8,8 @@ permalink: /sources/s27374916
 Field | Detail
 ---:|:---
 Publication | Index
-Originator / Author | 
 Date | 1978
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1978 D 572/94
 
 ## Text

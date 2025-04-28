@@ -7,11 +7,8 @@ permalink: /sources/s31243859
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 1956
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1956 B 669/2 66
 
 ## Text

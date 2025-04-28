@@ -8,11 +8,7 @@ permalink: /sources/s22481351
 Field | Detail
 ---:|:---
 Publication | Ohio Department of Health, Index to Annual Births, 1968-1998
-Originator / Author | 
-Date | 
 Responsible Agency | Ohio Department of Health, State Vital Statistics Unit; Columbus, OH, USA
-Filed by Entry | 
-References | 
 
 ## Text
 

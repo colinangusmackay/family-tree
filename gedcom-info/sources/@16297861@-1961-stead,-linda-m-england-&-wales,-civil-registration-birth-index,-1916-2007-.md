@@ -8,11 +8,6 @@ permalink: /sources/s16297861
 Field | Detail
 ---:|:---
 Publication | England & Wales, Civil Registration Birth Index, 1916-2007
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

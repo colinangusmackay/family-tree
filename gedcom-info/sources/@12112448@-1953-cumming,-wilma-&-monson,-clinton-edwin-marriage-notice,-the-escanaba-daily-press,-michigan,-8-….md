@@ -8,11 +8,7 @@ permalink: /sources/s12112448
 Field | Detail
 ---:|:---
 Publication | The Escanaba Daily Press
-Originator / Author | 
 Date | 8/Jan/1953
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

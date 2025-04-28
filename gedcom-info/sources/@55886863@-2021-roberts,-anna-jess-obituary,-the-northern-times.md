@@ -8,10 +8,7 @@ permalink: /sources/s55886863
 Field | Detail
 ---:|:---
 Publication | The Northern Times
-Originator / Author | 
 Date | 6/Apr/2021
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.northern-times.co.uk/news/anna-jess-roberts-florida-234036/](https://www.northern-times.co.uk/news/anna-jess-roberts-florida-234036/)
 
 ## Text

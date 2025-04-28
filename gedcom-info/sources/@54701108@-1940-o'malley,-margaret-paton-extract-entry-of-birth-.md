@@ -7,11 +7,8 @@ permalink: /sources/s54701108
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 4/Oct/1940
 Responsible Agency | General registers office
-Filed by Entry | 
 References | 1940 B 664/710
 
 ## Text

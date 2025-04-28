@@ -8,10 +8,6 @@ permalink: /sources/s71295436
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.findagrave.com/memorial/183051937/anna-c-fraser](https://www.findagrave.com/memorial/183051937/anna-c-fraser)
 
 ## Text

@@ -7,11 +7,8 @@ permalink: /sources/s23502258
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 26/Jan/1893
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1893 B 628/67
 
 ## Text

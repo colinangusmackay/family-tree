@@ -8,10 +8,7 @@ permalink: /sources/s49992604
 Field | Detail
 ---:|:---
 Publication | The Post Star, Glens Falls, New York
-Originator / Author | 
 Date | 9/Feb/2014
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://poststar.com/lifestyles/announcements/obituaries/mary-bet-haux/article_efc4d664-9207-11e3-8641-001a4bcf887a.html](https://poststar.com/lifestyles/announcements/obituaries/mary-bet-haux/article_efc4d664-9207-11e3-8641-001a4bcf887a.html)
 
 ## Text

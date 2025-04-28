@@ -10,9 +10,6 @@ Field | Detail
 Publication | Facebook.com
 Originator / Author | X X
 Date | 28/May/2020
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

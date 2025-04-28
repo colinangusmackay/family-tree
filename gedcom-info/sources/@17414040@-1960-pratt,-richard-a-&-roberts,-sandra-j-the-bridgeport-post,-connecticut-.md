@@ -8,11 +8,7 @@ permalink: /sources/s17414040
 Field | Detail
 ---:|:---
 Publication | The Bridgeport Post
-Originator / Author | 
 Date | 8/May/1960
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

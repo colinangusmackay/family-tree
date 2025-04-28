@@ -8,11 +8,7 @@ permalink: /sources/s36824779
 Field | Detail
 ---:|:---
 Publication | The Palm Beach Post
-Originator / Author | 
 Date | 25/Nov/1948
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

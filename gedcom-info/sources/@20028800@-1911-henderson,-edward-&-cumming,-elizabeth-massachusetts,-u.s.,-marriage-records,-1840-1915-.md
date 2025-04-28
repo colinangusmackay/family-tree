@@ -8,11 +8,6 @@ permalink: /sources/s20028800
 Field | Detail
 ---:|:---
 Publication | Massachusetts, U.S., Marriage Records, 1840-1915
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

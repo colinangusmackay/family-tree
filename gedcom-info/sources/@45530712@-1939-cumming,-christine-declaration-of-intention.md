@@ -7,11 +7,8 @@ permalink: /sources/s45530712
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 23/Mar/1939
 Responsible Agency | United States District Court of Massachussets at Boston
-Filed by Entry | 
 References | 281883
 
 ## Text

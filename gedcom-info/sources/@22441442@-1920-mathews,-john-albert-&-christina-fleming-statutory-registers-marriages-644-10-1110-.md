@@ -7,11 +7,7 @@ permalink: /sources/s22441442
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1920 M 644/10 1110
 
 ## Text

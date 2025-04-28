@@ -8,11 +8,7 @@ permalink: /sources/s36696584
 Field | Detail
 ---:|:---
 Publication | The Hamilton Advertiser
-Originator / Author | 
 Date | 10/Feb/1912
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

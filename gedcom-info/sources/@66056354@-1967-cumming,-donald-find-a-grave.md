@@ -8,11 +8,7 @@ permalink: /sources/s66056354
 Field | Detail
 ---:|:---
 Publication | [https://www.findagrave.com/memorial/195703158](https://www.findagrave.com/memorial/195703158)
-Originator / Author | 
 Date | 1967
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

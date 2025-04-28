@@ -7,11 +7,8 @@ permalink: /sources/s83715308
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 14/Jan/1905
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1905 M 685/5 18
 
 ## Text

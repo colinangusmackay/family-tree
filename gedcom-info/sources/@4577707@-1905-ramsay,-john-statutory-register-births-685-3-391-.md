@@ -7,11 +7,7 @@ permalink: /sources/s4577707
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 15/Apr/1905
-Responsible Agency | 
-Filed by Entry | 
 References | 1905 B 685/3 391
 
 ## Text

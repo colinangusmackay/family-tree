@@ -7,11 +7,8 @@ permalink: /sources/s25221376
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 16/Feb/1864
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1861 M 066/2 3
 
 ## Text

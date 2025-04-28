@@ -8,10 +8,7 @@ permalink: /sources/s62645608
 Field | Detail
 ---:|:---
 Publication | Ancestry.com
-Originator / Author | 
-Date | 
 Responsible Agency | New York State Department of Health
-Filed by Entry | 
 References | 34905
 
 ## Source Referenced by

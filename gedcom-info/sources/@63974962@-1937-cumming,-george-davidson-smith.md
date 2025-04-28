@@ -7,12 +7,7 @@ permalink: /sources/s63974962
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 16/Jul/1937
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

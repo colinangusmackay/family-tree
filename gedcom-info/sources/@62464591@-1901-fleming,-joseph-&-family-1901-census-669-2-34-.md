@@ -7,11 +7,6 @@ permalink: /sources/s62464591
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | 1901 C 669/2/34
 
 ## Text

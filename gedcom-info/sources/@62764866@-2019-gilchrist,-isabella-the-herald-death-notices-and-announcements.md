@@ -8,10 +8,7 @@ permalink: /sources/s62764866
 Field | Detail
 ---:|:---
 Publication | The Herald
-Originator / Author | 
 Date | 21/Dec/2019
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.heraldscotland.com/announcements/deaths/deaths/18116490.Isabella_Gilchrist/](https://www.heraldscotland.com/announcements/deaths/deaths/18116490.Isabella_Gilchrist/)
 
 ## Text

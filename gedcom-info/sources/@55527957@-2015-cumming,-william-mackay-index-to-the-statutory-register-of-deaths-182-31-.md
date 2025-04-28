@@ -7,11 +7,8 @@ permalink: /sources/s55527957
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 2015
 Responsible Agency | Nation Records of Scotland
-Filed by Entry | 
 References | 2015 D 182/ 31
 
 ## Text

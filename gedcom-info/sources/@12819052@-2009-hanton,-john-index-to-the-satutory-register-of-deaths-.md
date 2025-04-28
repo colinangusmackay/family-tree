@@ -7,11 +7,7 @@ permalink: /sources/s12819052
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 2009 D 646/ 598
 
 ## Text

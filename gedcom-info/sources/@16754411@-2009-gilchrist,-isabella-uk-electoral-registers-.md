@@ -8,11 +8,6 @@ permalink: /sources/s16754411
 Field | Detail
 ---:|:---
 Publication | Ancestry.com. UK, Electoral Registers, 2003-2010 [database on-line]. Lehi, UT, USA: Ancestry.com Operations Inc, 2017.
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

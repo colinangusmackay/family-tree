@@ -10,7 +10,6 @@ Field | Detail
 Publication | Embo - genealogy, Uncle Sandy's Story and a little history
 Originator / Author | Catriona Grigg
 Date | 2016
-Responsible Agency | 
 Filed by Entry | EMBO/P176/Fr1.9
 References | (ISBN) 978-1-910205-49-5
 

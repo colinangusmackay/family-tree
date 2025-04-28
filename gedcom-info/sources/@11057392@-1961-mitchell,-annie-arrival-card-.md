@@ -8,11 +8,6 @@ permalink: /sources/s11057392
 Field | Detail
 ---:|:---
 Publication | Massachusetts, U.S., Arriving Passenger and Crew Lists, 1820-1963
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -8,11 +8,7 @@ permalink: /sources/s4500166
 Field | Detail
 ---:|:---
 Publication | Honolulu Star Express
-Originator / Author | 
 Date | 2/Aug/1962
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

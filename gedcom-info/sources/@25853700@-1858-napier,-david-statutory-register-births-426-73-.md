@@ -7,11 +7,8 @@ permalink: /sources/s25853700
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 17/Apr/1858
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1858 B 426/ 73
 
 ## Text

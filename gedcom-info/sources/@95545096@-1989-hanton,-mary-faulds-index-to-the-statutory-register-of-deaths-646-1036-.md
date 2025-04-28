@@ -7,11 +7,7 @@ permalink: /sources/s95545096
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1989 D 646/ 1036
 
 ## Text

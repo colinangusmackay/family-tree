@@ -8,11 +8,7 @@ permalink: /sources/s71047840
 Field | Detail
 ---:|:---
 Publication | The Palm Beach Post
-Originator / Author | 
 Date | 4/Jun/1973
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

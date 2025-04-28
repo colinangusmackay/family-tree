@@ -7,12 +7,9 @@ permalink: /sources/s94133243
 
 Field | Detail
 ---:|:---
-Publication | 
 Originator / Author | John MacLennan
 Date | 19/Jul/1984
 Responsible Agency | Highland Regional Council
-Filed by Entry | 
-References | 
 
 ## Text
 

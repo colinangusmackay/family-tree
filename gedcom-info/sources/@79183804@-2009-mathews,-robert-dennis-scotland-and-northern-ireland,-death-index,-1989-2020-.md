@@ -8,11 +8,6 @@ permalink: /sources/s79183804
 Field | Detail
 ---:|:---
 Publication | Scotland and Northern Ireland, Death Index, 1989-2020
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -8,10 +8,6 @@ permalink: /sources/s31573100
 Field | Detail
 ---:|:---
 Publication | England and Wales Birth Registration Index, 1837-2008
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://familysearch.org/ark:/61903/1:1:QVHH-QYT4](https://familysearch.org/ark:/61903/1:1:QVHH-QYT4)
 
 ## Text

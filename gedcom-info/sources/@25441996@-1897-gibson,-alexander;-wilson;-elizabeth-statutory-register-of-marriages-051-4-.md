@@ -7,11 +7,8 @@ permalink: /sources/s25441996
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 17/Jun/1897
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1897 M 051/ 4
 
 ## Text

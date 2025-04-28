@@ -8,11 +8,7 @@ permalink: /sources/s93810194
 Field | Detail
 ---:|:---
 Publication | The Post Star
-Originator / Author | 
 Date | 9/May/1990
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

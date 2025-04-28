@@ -8,11 +8,7 @@ permalink: /sources/s26844488
 Field | Detail
 ---:|:---
 Publication | The Patriot Ledger
-Originator / Author | 
 Date | 2018
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

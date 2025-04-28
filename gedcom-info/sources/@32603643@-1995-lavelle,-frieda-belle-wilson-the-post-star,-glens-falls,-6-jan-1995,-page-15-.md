@@ -8,11 +8,7 @@ permalink: /sources/s32603643
 Field | Detail
 ---:|:---
 Publication | The Post Star
-Originator / Author | 
 Date | 6/Jan/1995
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

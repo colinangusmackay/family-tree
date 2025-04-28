@@ -7,11 +7,8 @@ permalink: /sources/s80791412
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 22/Apr/1916
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1916 D 051/ 7
 
 ## Text

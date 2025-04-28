@@ -7,11 +7,8 @@ permalink: /sources/s12455579
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 20/Dec/2005
 Responsible Agency | UK Passport Authority
-Filed by Entry | 
 References | (Passport Number) 402191855
 
 ## Text

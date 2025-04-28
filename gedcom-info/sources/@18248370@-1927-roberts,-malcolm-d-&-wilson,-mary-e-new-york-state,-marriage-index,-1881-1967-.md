@@ -8,11 +8,6 @@ permalink: /sources/s18248370
 Field | Detail
 ---:|:---
 Publication | New York State, Marriage Index, 1881-1967
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

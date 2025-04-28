@@ -8,11 +8,6 @@ permalink: /sources/s80358309
 Field | Detail
 ---:|:---
 Publication | 1920 United States Federal Census
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

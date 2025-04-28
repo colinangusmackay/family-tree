@@ -7,11 +7,8 @@ permalink: /sources/s13131704
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 6/Apr/1964
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1964 D 685/3 153
 
 ## Text

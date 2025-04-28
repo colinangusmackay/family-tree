@@ -8,11 +8,7 @@ permalink: /sources/s45931272
 Field | Detail
 ---:|:---
 Publication | The Post Star, Glens Falls, New York
-Originator / Author | 
 Date | 18/Feb/1999
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

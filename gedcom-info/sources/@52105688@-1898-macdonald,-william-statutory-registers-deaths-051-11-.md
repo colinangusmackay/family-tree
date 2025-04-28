@@ -7,11 +7,8 @@ permalink: /sources/s52105688
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 17/May/1898
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1898 D 051/ 11
 
 ## Text

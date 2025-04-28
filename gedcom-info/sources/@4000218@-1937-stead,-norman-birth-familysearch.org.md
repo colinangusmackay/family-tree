@@ -8,10 +8,7 @@ permalink: /sources/s4000218
 Field | Detail
 ---:|:---
 Publication | FamilySearch.org
-Originator / Author | 
 Date | from 1937 to 2008
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.familysearch.org/ark:/61903/1:1:QVQX-NBGM](https://www.familysearch.org/ark:/61903/1:1:QVQX-NBGM)
 
 ## Text

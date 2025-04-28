@@ -5,14 +5,6 @@ permalink: /sources/s89724636
 
 # 2003 MCIVER, HELEN F (UK, Electoral Registers, 2003-2010)
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

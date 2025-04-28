@@ -8,11 +8,7 @@ permalink: /sources/s22518528
 Field | Detail
 ---:|:---
 Publication | Middletown, Connecticut, City Directory, 1963
-Originator / Author | 
 Date | 1963
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -8,10 +8,7 @@ permalink: /sources/s41382264
 Field | Detail
 ---:|:---
 Publication | North Lanarkshire Poor Law Applications and Registers
-Originator / Author | 
-Date | 
 Responsible Agency | North Lanarkshire Heritage Centre
-Filed by Entry | 
 References | CO1/37/65
 
 ## Text

@@ -7,11 +7,7 @@ permalink: /sources/s4609252
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1943 B 573/ 1/ 368
 
 ## Text

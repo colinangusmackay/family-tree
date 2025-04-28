@@ -7,12 +7,7 @@ permalink: /sources/s50984294
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 28/Oct/1940
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

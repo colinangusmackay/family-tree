@@ -8,11 +8,6 @@ permalink: /sources/s19773398
 Field | Detail
 ---:|:---
 Publication | Glasgow, Lanarkshire, Scotland, Electoral Registers, 1857-1962
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

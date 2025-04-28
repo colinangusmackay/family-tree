@@ -8,10 +8,7 @@ permalink: /sources/s39254832
 Field | Detail
 ---:|:---
 Publication | The Herald
-Originator / Author | 
 Date | 23/Sep/2015
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.heraldscotland.com/announcements/deaths/deaths/13777170.Margaret_Gibson/](https://www.heraldscotland.com/announcements/deaths/deaths/13777170.Margaret_Gibson/)
 
 ## Text

@@ -8,11 +8,8 @@ permalink: /sources/s28724350
 Field | Detail
 ---:|:---
 Publication | The Phone Book
-Originator / Author | 
 Date | 1980
 Responsible Agency | British Telecom
-Filed by Entry | 
-References | 
 
 ## Text
 

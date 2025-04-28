@@ -7,11 +7,7 @@ permalink: /sources/s36116855
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1059 M 644/11 1079
 
 ## Text

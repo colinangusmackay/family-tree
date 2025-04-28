@@ -8,11 +8,7 @@ permalink: /sources/s85723388
 Field | Detail
 ---:|:---
 Publication | Canada, Ocean Arrivals (Form 30A), 1919-1927
-Originator / Author | 
 Date | 15/Mar/1923
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

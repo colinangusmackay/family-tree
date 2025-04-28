@@ -7,12 +7,7 @@ permalink: /sources/s41022732
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 12/Apr/1930
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

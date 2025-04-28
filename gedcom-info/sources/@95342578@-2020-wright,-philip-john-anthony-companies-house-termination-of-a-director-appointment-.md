@@ -7,11 +7,7 @@ permalink: /sources/s95342578
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | Companies House
-Filed by Entry | 
 References | (URL) [Open original source at https://find-and-update.company-information.service.gov.uk/company/09369674/filing-history/MzI3OTAzOTIzNGFkaXF6a2N4/document?format=pdf&download=0](https://find-and-update.company-information.service.gov.uk/company/09369674/filing-history/MzI3OTAzOTIzNGFkaXF6a2N4/document?format=pdf&download=0)
 
 ## Text

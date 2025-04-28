@@ -7,11 +7,7 @@ permalink: /sources/s55484888
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1981 D 613/506
 
 ## Text

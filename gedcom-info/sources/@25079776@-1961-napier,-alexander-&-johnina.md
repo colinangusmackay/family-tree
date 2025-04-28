@@ -5,14 +5,6 @@ permalink: /sources/s25079776
 
 # 1961 NAPIER, ALEXANDER & JOHNINA
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

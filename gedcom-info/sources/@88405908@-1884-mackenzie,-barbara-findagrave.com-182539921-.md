@@ -8,10 +8,6 @@ permalink: /sources/s88405908
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.findagrave.com/memorial/182539921/barbara-paterson](https://www.findagrave.com/memorial/182539921/barbara-paterson)
 
 ## Text

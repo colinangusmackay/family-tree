@@ -7,12 +7,7 @@ permalink: /sources/s8703207
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 25/Apr/1950
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

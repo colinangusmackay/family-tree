@@ -8,11 +8,8 @@ permalink: /sources/s58977291
 Field | Detail
 ---:|:---
 Publication | The Midwives Roll for Scotland
-Originator / Author | 
 Date | 1966
 Responsible Agency | The Central Midwives Board for Scotland
-Filed by Entry | 
-References | 
 
 ## Text
 

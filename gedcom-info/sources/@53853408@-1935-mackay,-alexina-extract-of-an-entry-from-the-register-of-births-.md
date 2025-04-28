@@ -8,10 +8,8 @@ permalink: /sources/s53853408
 Field | Detail
 ---:|:---
 Publication | Extract of an entry from the REGISTER OF BIRTHS of Scotland
-Originator / Author | 
 Date | 23/Jan/1935
 Responsible Agency | General Register Office for Scotland
-Filed by Entry | 
 References | 1935 047/5
 
 ## Text

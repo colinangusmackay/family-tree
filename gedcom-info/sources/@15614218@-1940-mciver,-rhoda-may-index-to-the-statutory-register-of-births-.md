@@ -7,11 +7,7 @@ permalink: /sources/s15614218
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1940 B 644/ 12/ 357
 
 ## Text

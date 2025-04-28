@@ -7,11 +7,8 @@ permalink: /sources/s72423442
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 29/Apr/1889
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1889 M 644/11 111
 
 ## Text

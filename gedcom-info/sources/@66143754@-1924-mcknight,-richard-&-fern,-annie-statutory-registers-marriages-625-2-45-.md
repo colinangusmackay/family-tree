@@ -7,11 +7,8 @@ permalink: /sources/s66143754
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 2/May/1924
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1924 M 625/2 45
 
 ## Text

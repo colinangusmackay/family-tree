@@ -7,11 +7,6 @@ permalink: /sources/s3675766
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | 1924 B 644/13 507
 
 ## Text

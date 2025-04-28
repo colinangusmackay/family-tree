@@ -7,11 +7,7 @@ permalink: /sources/s61426188
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1871 C 098/ 1/ 18
 
 ## Text

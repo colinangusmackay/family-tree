@@ -8,11 +8,7 @@ permalink: /sources/s23680512
 Field | Detail
 ---:|:---
 Publication | National Archives and Records Administration (NARA); Washington D.C.; Roll #: 481; Volume #: Roll 0481 - Certificates: 8250-8499, 07 Mar 1918-09 Mar 1918
-Originator / Author | 
-Date | 
 Responsible Agency | National Archives and Records Administration
-Filed by Entry | 
-References | 
 
 ## Text
 

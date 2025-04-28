@@ -7,11 +7,8 @@ permalink: /sources/s16124232
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 29/Sep/1982
 Responsible Agency | General Register Office
-Filed by Entry | 
 References | 10738085
 
 ## Text

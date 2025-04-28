@@ -8,11 +8,6 @@ permalink: /sources/s92574284
 Field | Detail
 ---:|:---
 Publication | Connecticut, U.S., Marriage Records, 1897-1968
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

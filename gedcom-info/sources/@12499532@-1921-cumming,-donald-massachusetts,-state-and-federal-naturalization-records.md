@@ -7,11 +7,8 @@ permalink: /sources/s12499532
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 2/Aug/1921
 Responsible Agency | District Court, Massachusetts
-Filed by Entry | 
 References | (Declaration of Intention) V 240 No 119501
 
 ## Text

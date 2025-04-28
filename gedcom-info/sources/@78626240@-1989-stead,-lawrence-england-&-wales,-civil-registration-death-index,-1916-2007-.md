@@ -8,11 +8,6 @@ permalink: /sources/s78626240
 Field | Detail
 ---:|:---
 Publication | England & Wales, Civil Registration Death Index, 1916-2007
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

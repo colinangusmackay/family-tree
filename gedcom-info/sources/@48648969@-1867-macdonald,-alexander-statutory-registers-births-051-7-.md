@@ -7,11 +7,8 @@ permalink: /sources/s48648969
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 11/Mar/1867
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1867 B 051/ 7
 
 ## Text

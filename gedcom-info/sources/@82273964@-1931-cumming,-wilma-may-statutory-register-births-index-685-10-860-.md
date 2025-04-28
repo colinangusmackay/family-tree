@@ -7,11 +7,8 @@ permalink: /sources/s82273964
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 1931
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1931 B 685/10 860
 
 ## Text

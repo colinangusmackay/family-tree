@@ -8,11 +8,7 @@ permalink: /sources/s27735408
 Field | Detail
 ---:|:---
 Publication | 1950 United States Federal Census
-Originator / Author | 
 Date | 19/Apr/1950
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

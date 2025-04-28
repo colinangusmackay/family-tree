@@ -7,11 +7,6 @@ permalink: /sources/s72382739
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.familysearch.org/ark:/61903/1:1:QV3K-PC7D](https://www.familysearch.org/ark:/61903/1:1:QV3K-PC7D)
 
 ## Text

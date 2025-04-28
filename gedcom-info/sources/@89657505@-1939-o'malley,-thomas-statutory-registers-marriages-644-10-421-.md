@@ -7,11 +7,7 @@ permalink: /sources/s89657505
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1939 M 644/10 421
 
 ## Text

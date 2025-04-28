@@ -8,10 +8,7 @@ permalink: /sources/s98921056
 Field | Detail
 ---:|:---
 Publication | Paisley Daily Express
-Originator / Author | 
 Date | 27/Jun/1994
-Responsible Agency | 
-Filed by Entry | 
 References | (URL) [Open original source at https://www.newspapers.com/image/820433784/?article=3829f0d5-33ff-4bd9-af21-ac2cf6c39192&focus=0.0768008,0.55416965,0.20303267,0.70679164&xid=3355](https://www.newspapers.com/image/820433784/?article=3829f0d5-33ff-4bd9-af21-ac2cf6c39192&focus=0.0768008,0.55416965,0.20303267,0.70679164&xid=3355)
 
 ## Text

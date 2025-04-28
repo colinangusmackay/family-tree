@@ -7,11 +7,7 @@ permalink: /sources/s82101841
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1962 M 644/10 316
 
 ## Text

@@ -5,14 +5,6 @@ permalink: /sources/s96868188
 
 # 1943 MACKAY, John P (List of manifest of aliens employed on the vessel as members of crew)
 
-Field | Detail
----:|:---
-Publication | 
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

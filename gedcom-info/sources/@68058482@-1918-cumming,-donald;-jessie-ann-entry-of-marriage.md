@@ -7,12 +7,7 @@ permalink: /sources/s68058482
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 1918
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

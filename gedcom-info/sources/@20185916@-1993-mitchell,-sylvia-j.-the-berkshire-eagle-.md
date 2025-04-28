@@ -8,11 +8,7 @@ permalink: /sources/s20185916
 Field | Detail
 ---:|:---
 Publication | The Berkshire Eagle, Pittsfield, Massachusetts
-Originator / Author | 
 Date | 12/May/1993
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

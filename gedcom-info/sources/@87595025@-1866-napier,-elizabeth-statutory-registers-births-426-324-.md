@@ -7,11 +7,8 @@ permalink: /sources/s87595025
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 8/Dec/1866
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1866 B 426/ 324
 
 ## Text

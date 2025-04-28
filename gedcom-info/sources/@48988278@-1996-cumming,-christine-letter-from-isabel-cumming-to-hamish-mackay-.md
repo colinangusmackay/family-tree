@@ -7,12 +7,8 @@ permalink: /sources/s48988278
 
 Field | Detail
 ---:|:---
-Publication | 
 Originator / Author | Isabel Cumming
 Date | 21/Nov/1996
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

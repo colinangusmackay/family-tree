@@ -7,11 +7,7 @@ permalink: /sources/s56228728
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 26/Mar/1936
-Responsible Agency | 
-Filed by Entry | 
 References | 261235
 
 ## Text

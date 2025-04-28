@@ -7,11 +7,8 @@ permalink: /sources/s59422822
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 11/Sep/1911
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1911 M 560/ 145
 
 ## Text

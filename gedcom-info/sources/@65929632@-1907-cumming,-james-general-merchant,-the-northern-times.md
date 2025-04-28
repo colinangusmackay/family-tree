@@ -8,11 +8,7 @@ permalink: /sources/s65929632
 Field | Detail
 ---:|:---
 Publication | The Northern Times
-Originator / Author | 
 Date | 7/Mar/1907
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

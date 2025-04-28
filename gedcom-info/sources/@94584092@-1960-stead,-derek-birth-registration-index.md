@@ -8,11 +8,6 @@ permalink: /sources/s94584092
 Field | Detail
 ---:|:---
 Publication | England and Wales Birth Registration Index, 1837-2008
-Originator / Author | 
-Date | 
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

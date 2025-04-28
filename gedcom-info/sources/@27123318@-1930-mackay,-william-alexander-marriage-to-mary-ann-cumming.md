@@ -8,10 +8,7 @@ permalink: /sources/s27123318
 Field | Detail
 ---:|:---
 Publication | Ontario, Canada, Marriages, 1826-1937
-Originator / Author | 
 Date | 17/Mar/1930
-Responsible Agency | 
-Filed by Entry | 
 References | 002154
 
 ## Text

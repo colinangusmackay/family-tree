@@ -7,12 +7,7 @@ permalink: /sources/s31684368
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 10/Nov/1934
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

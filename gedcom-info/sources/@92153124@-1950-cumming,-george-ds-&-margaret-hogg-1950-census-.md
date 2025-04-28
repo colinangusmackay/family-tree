@@ -8,11 +8,8 @@ permalink: /sources/s92153124
 Field | Detail
 ---:|:---
 Publication | 1950 Census of Population and Housing
-Originator / Author | 
 Date | 7/Apr/1950
 Responsible Agency | U.S. Department of Commerce, Bureau of the Census
-Filed by Entry | 
-References | 
 
 ## Text
 

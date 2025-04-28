@@ -8,11 +8,7 @@ permalink: /sources/s44478256
 Field | Detail
 ---:|:---
 Publication | [https://www.legacy.com/obituaries/edinburghnews-scotsman-uk/obituary.aspx?n=helen-mciver&pid=184674213](https://www.legacy.com/obituaries/edinburghnews-scotsman-uk/obituary.aspx?n=helen-mciver&pid=184674213)
-Originator / Author | 
 Date | 19/Oct/2015
-Responsible Agency | 
-Filed by Entry | 
-References | 
 
 ## Text
 

@@ -7,11 +7,7 @@ permalink: /sources/s29817066
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
-Date | 
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
 References | 1920 D 685/5 634
 
 ## Text

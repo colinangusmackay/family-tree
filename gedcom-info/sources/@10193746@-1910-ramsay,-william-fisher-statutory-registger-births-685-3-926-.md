@@ -7,12 +7,8 @@ permalink: /sources/s10193746
 
 Field | Detail
 ---:|:---
-Publication | 
-Originator / Author | 
 Date | 9/Sep/1910
 Responsible Agency | National Records of Scotland
-Filed by Entry | 
-References | 
 
 ## Text
 
