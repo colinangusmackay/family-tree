@@ -50,6 +50,12 @@ Date | 10/Oct/2015
 > Charles J Burnett KStJ, Priory Librarian 1987-1998
 >
 
+## Images
+
+### Screenshot
+
+![Screenshot](../media/45470864.jpg)
+
 ## Source Referenced by
 
 * [Helen Fisher Ramsay](../people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md) (28/Sep/1920 - 15/Oct/2015)

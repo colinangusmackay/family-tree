@@ -56,6 +56,18 @@ Date | 27/Dec/2019
 > Thanks also for your kind donations of Alzheimer's Scotland.
 >
 
+## Images
+
+### 1 - Front
+
+on 27th of December 2019
+![1 - Front](../media/72163232.jpg)
+
+### 2 - Back
+
+on 27th of December 2019
+![2 - Back](../media/19521878.jpg)
+
 ## Source Referenced by
 
 * [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) (26/Jul/1900 - 8/Oct/1981)
