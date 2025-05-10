@@ -28,6 +28,7 @@ permalink: /people/i9383584
 * Sister: [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) (27/Jun/1901 - 24/Aug/1973)
 * Son: [Donald James Mackay](./@43065376@-donald-james-mackay-b1931-d2011-12-29.md) (1931 - 29/Dec/2011)
 * Son: X
+* Son: [William Alexander Mackay](./@8407472@-william-alexander-mackay-b1934-2-d1934-3-23.md) (Feb/1934 - 23/Mar/1934)
 * Daughter: [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) (11/Jan/1935 - 1935)
 * Daughter: [Isabella Mackay](./@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md) (1/Jan/1936 - 19/Dec/2019)
 * Daughter: [Anna Jessie MacKay](./@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md) (7/Jul/1938 - 12/Mar/2021)
@@ -49,35 +50,37 @@ after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1
 1931 | Birth of son | [Donald James Mackay](./@43065376@-donald-james-mackay-b1931-d2011-12-29.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) in Toronto, York, Ontario, Canada. | [4](#4), [10](#10), [14](#14) | 
 6/Dec/1931 | Immigrated | Immigrated to Embo, Sutherland, Scotland. | [14](#14) | 
 27/May/1932 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) in Embo, Sutherland, Scotland. | [15](#15), [16](#16), [17](#17) | 
-1935 | Death of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) died. |  | [18](#18)
-11/Jan/1935 | Birth of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) in Embo, Sutherland, Scotland. | [19](#19) | 
-1/Jan/1936 | Birth of daughter | [Isabella Mackay](./@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) in Embo, Sutherland, Scotland. | [20](#20) | 
-7/Jul/1938 | Birth of daughter | [Anna Jessie MacKay](./@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) in Achiltibue, Ross and Cromarty, Scotland. | [21](#21), [22](#22), [23](#23) | 
+Feb/1934 | Birth of son | [William Alexander Mackay](./@8407472@-william-alexander-mackay-b1934-2-d1934-3-23.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md). | [18](#18) | 
+23/Mar/1934 | Death of son | [William Alexander Mackay](./@8407472@-william-alexander-mackay-b1934-2-d1934-3-23.md) died in Embo, Sutherland, Scotland. | [18](#18) | 
+1935 | Death of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) died. |  | [19](#19)
+11/Jan/1935 | Birth of daughter | [Alexina Mackay](./@75066880@-alexina-mackay-b1935-1-11-d1935.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) in Embo, Sutherland, Scotland. | [20](#20) | 
+1/Jan/1936 | Birth of daughter | [Isabella Mackay](./@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) in Embo, Sutherland, Scotland. | [21](#21) | 
+7/Jul/1938 | Birth of daughter | [Anna Jessie MacKay](./@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md) born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) in Achiltibue, Ross and Cromarty, Scotland. | [22](#22), [23](#23), [24](#24) | 
 1939 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md). | [4](#4) | 
 2/Jan/1942 | Birth of son | X born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) in Embo, Sutherland, Scotland. |  | 
-3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [24](#24) | 
-15/May/1970 | Death of sister | [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) died in Inverness, Scotland. | [25](#25) | 
-24/Aug/1973 | Death of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) died in Inverness, Highland, Scotland, . | [26](#26) | 
-8/Oct/1981 | Death of partner | [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) died in Glasgow, Scotland. | [27](#27), [28](#28), [29](#29), [30](#30) | 
-24/Sep/1982 | Died | Died in Glasgow, Scotland. | [31](#31), [32](#32), [33](#33) | 
-30/Sep/1982 | Burial | Was buried in Glasgow, Scotland, . | [31](#31), [34](#34) | 
+3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [25](#25) | 
+15/May/1970 | Death of sister | [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) died in Inverness, Scotland. | [26](#26) | 
+24/Aug/1973 | Death of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) died in Inverness, Highland, Scotland, . | [27](#27) | 
+8/Oct/1981 | Death of partner | [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) died in Glasgow, Scotland. | [28](#28), [29](#29), [30](#30), [31](#31) | 
+24/Sep/1982 | Died | Died in Glasgow, Scotland. | [32](#32), [33](#33), [34](#34) | 
+30/Sep/1982 | Burial | Was buried in Glasgow, Scotland, . | [32](#32), [35](#35) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1901 | 6 Terrace Street, Embo, Sutherland, Scotland | [35](#35)
+1901 | 6 Terrace Street, Embo, Sutherland, Scotland | [36](#36)
 1911 | 6 Terrace Street, Embo, Sutherlandshire | [6](#6)
 1918 | 6 Terrace Street, Embo, Sutherlandshire | [2](#2)
-before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [11](#11), [36](#36)
-12/Apr/1930 | 146 King Edward Avenue, Toronto, Ontario, Canada | [37](#37)
+before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [11](#11), [37](#37)
+12/Apr/1930 | 146 King Edward Avenue, Toronto, Ontario, Canada | [38](#38)
 1/Jun/1931 | 106 Walpole Avenue, Toronto, Candada | [10](#10)
-1938 | Achiltibue, Ross and Cromarty, Scotland | [21](#21)
-1954 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [38](#38)
-1956 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [39](#39)
-1960 | 57 Kersland Street, Glasgow | [40](#40)
-1980 | 57 Kersland Street, Glasgow | [41](#41)
-1981 | Glasgow, Scotland | [28](#28)
+1938 | Achiltibue, Ross and Cromarty, Scotland | [22](#22)
+1954 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [39](#39)
+1956 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [40](#40)
+1960 | 57 Kersland Street, Glasgow | [41](#41)
+1980 | 57 Kersland Street, Glasgow | [42](#42)
+1981 | Glasgow, Scotland | [29](#29)
 
 ## Known Occupations
 
@@ -85,8 +88,9 @@ Date | Occupation | Sources & Notes
 ---|---|---
 about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 1931 | Cement Finisher | [14](#14), [10](#10)
-1935 | Cement Finisher in Embo, Sutherland, Scotland | [19](#19)
-1938 | Cement Finisher | [21](#21)
+1934 | Cement Finisher | [18](#18)
+1935 | Cement Finisher in Embo, Sutherland, Scotland | [20](#20)
+1938 | Cement Finisher | [22](#22)
 1979 | Retired | [3](#3)
 
 ## Notes
@@ -255,11 +259,21 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 
 ### 18
 
+**1934 MACKAY, WILLIAM ALEXANDER (Statutory Register of Deaths 047/ 7)**
+
+* [Full text and notes](../sources/@52759940@-1934-mackay,-william-alexander-statutory-register-of-deaths-047-7-.md)
+* Date: 23/Mar/1934
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1934 D 047/ 7
+
+### 19
+
 > Oral history
 >
 
 
-### 19
+### 20
 
 **1935 MACKAY, ALEXINA (Extract of an entry from the Register of Births)**
 
@@ -270,14 +284,14 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * References: 
   * 1935 047/5
 
-### 20
+### 21
 
 **2019 GILCHRIST, ISABELLA (née Mackay) - Memorial Service programme**
 
 * [Full text and notes](../sources/@53514060@-2019-gilchrist,-isabella-née-mackay-memorial-service-programme.md)
 * Date: 27/Dec/2019
 
-### 21
+### 22
 
 **1938 MACKAY, ANNA JESSIE (Statutory Registers Births 075/ 2)**
 
@@ -287,7 +301,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * References: 
   * 1938 B 075/ 2
 
-### 22
+### 23
 
 **1959 MACKAY, ANNA J - New York State, Passenger and Crew Lists, 1917-1967**
 
@@ -296,7 +310,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * References: 
   * A3998 - New York, 1957-1967, roll number 161
 
-### 23
+### 24
 
 **2021 X, ANNA JESSE - Obituary, The Post Star**
 
@@ -306,7 +320,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * References: 
   * (URL) https://www.legacy.com/us/obituaries/poststar/name/anna-roberts-obituary?pid=198059055&fbclid=IwAR2F39iQXzoFaTQV1m_tIRAu2OZ-ZmViqY-A1eMnVYQevymzYILBYghZmS0
 
-### 24
+### 25
 
 **1969 X, JOHN PAUL (Statutory registers Deaths 047/18)**
 
@@ -316,7 +330,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * References: 
   * 1969 D 047/18
 
-### 25
+### 26
 
 **1970 MACKAY, LUCY (Statutory Register Deaths)**
 
@@ -326,7 +340,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * References: 
   * 1970 D 98/A 269
 
-### 26
+### 27
 
 **1973 FRASER, MARGARET MOYES (Statutory Register of Deaths 182/ 22)**
 
@@ -336,7 +350,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * References: 
   * 1973 M 182/22
 
-### 27
+### 28
 
 **1981 Index entry of Obituary Mary Ann Mackay (Post Star, GF, NY)**
 
@@ -345,7 +359,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * Date: 9/Oct/1981
 * Responsible Agency: The Post Star (Glen Falls, New York)
 
-### 28
+### 29
 
 **1981 X, MARY ANN - The Post Star Fri Oct 9 1981**
 
@@ -353,13 +367,13 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * Publication: The Post Star
 * Date: 9/Oct/1981
 
-### 29
+### 30
 
 **1981 MACKAY, MARY ANN (Register of Interments, Western Necropolis, Glasgow)**
 
 * [Full text and notes](../sources/@27456125@-1981-mackay,-mary-ann-register-of-interments,-western-necropolis,-glasgow-.md)
 
-### 30
+### 31
 
 **1981 X, MARY ANN (Statutory Register Deaths 613/506)**
 
@@ -368,13 +382,13 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * References: 
   * 1981 D 613/506
 
-### 31
+### 32
 
 **1982 MACKAY, WILLIAM A (Register of Interments, Western Necropolis, Glasgow)**
 
 * [Full text and notes](../sources/@43410300@-1982-mackay,-william-a-register-of-interments,-western-necropolis,-glasgow-.md)
 
-### 32
+### 33
 
 **1982 X, X ALEXANDER (Register of Deaths)**
 
@@ -384,7 +398,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * References: 
   * 10738085
 
-### 33
+### 34
 
 **1982 X, X ALEXANDER (X Gilchrist Funerals Ltd. Invoice)**
 
@@ -394,13 +408,13 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * References: 
   * C/922/N
 
-### 34
+### 35
 
 **1983 X, X ALEXANDER; MARY ANN (Various documents relating to the memorial plot)**
 
 * [Full text and notes](../sources/@42662686@-1983-mackay,-william-alexander;-mary-ann-various-documents-relating-to-the-memorial-plot-.md)
 
-### 35
+### 36
 
 **1901 MACKAY, JAMES & Family (Census 047/2/14)**
 
@@ -410,34 +424,34 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * References: 
   * 1901 047/2/14
 
-### 36
+### 37
 
 > On Google maps: [https://www.google.com/maps/@43.6887457,-79.3186802,3a,20.3y,147.68h,90.09t/data=!3m6!1e1!3m4!1sCBT9uFW1WbIbebZypxNMTw!2e0!7i16384!8i8192](https://www.google.com/maps/@43.6887457,-79.3186802,3a,20.3y,147.68h,90.09t/data=!3m6!1e1!3m4!1sCBT9uFW1WbIbebZypxNMTw!2e0!7i16384!8i8192)
 >
 
 
-### 37
+### 38
 
 **1930 MACKAY, MARION C - U.S. Border Crossings from Canada to U.S.**
 
 * [Full text and notes](../sources/@41022732@-1930-mackay,-marion-c-u.s.-border-crossings-from-canada-to-u.s..md)
 * Date: 12/Apr/1930
 
-### 38
+### 39
 
 **1954 X, X A & FAMILY OF VOTING AGE (Register of Voters, Glasgow, Wards 13-26, 1954)**
 
 * [Full text and notes](../sources/@84661563@-1954-mackay,-william-a-&-family-of-voting-age-register-of-voters,-glasgow,-wards-13-26,-1954-.md)
 * Publication: Register of Voters, Glasgow, Wards 13-26, 1954
 
-### 39
+### 40
 
 **1956 X, X A & FAMILY (Glasgow, Lanarkshire, Scotland, Electoral Registers, 1857-1962)**
 
 * [Full text and notes](../sources/@19773398@-1956-mackay,-william-a-&-family-glasgow,-lanarkshire,-scotland,-electoral-registers,-1857-1962-.md)
 * Publication: Glasgow, Lanarkshire, Scotland, Electoral Registers, 1857-1962
 
-### 40
+### 41
 
 **1960 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1960**
 
@@ -446,7 +460,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * Date: May/1960
 * Responsible Agency: The Post Office
 
-### 41
+### 42
 
 **1980 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1980**
 

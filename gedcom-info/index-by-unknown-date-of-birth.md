@@ -81,6 +81,8 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1821.**
   * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
   * **[Nicholson, Margaret](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - )
+* **Born in 1822.**
+  * **[Smith, John](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - )
 * **Born in 1823.**
   * **[Mackenzie, Barbara](people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md)** (about 1823 - 27/Apr/1884)
   * **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906)
@@ -94,6 +96,8 @@ This is a list of people who have vague or unknown dates of birth.
 
 ### 1830s
 
+* **Born in 1830.**
+  * **[Lowall, Agnes](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
 * **Born in 1834.**
   * **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923)
 * **Born in 1835.**
@@ -181,6 +185,7 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1857.**
   * **[O'Donnell, Hannah](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921)
   * **[Paterson, Barbara](people/@65135072@-barbara-paterson-b1857-d.md)** (about 1857 - )
+  * **[Smith, William Elliot](people/@15044661@-william-elliot-smith-b1857-d.md)** (about 1857 - )
 * **Born in 1858.**
   * **[Fleming, William](people/@78368531@-william-fleming-b1858-d.md)** (about 1858 - )
   * **[Mackay, Ann](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
@@ -198,6 +203,7 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1861.**
   * **[MacLeod, Matilda](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
   * **[Napier, Janet](people/@44813825@-janet-napier-b1861-d.md)** (about 1861 - )
+  * **[Smith, Elizabeth](people/@96054144@-elizabeth-smith-b1861-d.md)** (about 1861 - )
   * **[Teevin, Margaret](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - )
 * **Born in 1863.**
   * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
@@ -211,12 +217,15 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Grant, Christy](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
   * **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942)
   * **[McBride, Catherine](people/@24941331@-catherine-mcbride-b1865-d.md)** (about 1865 - )
+* **Born in 1866.**
+  * **[Smith, Jamima](people/@93122532@-jamima-smith-b1866-d.md)** (about 1866 - )
 * **Born in 1867.**
   * **[, Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
   * **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
   * **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
 * **Born in 1868.**
   * **[Roberts, Frederick B](people/@36552681@-frederick-b-roberts-b1868-d.md)** (about 1868 - )
+  * **[Smith, Andrew](people/@79740305@-andrew-smith-b1868-d.md)** (about 1868 - )
   * **[Wilson, Henrietta](people/@47880504@-henrietta-wilson-b1868-d.md)** (about 1868 - )
 * **Born in 1869.**
   * **[Wilson, Annie](people/@8935795@-annie-wilson-b1869-d.md)** (about 1869 - )
@@ -299,6 +308,7 @@ This is a list of people who have vague or unknown dates of birth.
 ### 1890s
 
 * **Born in 1890.**
+  * **[Campbell, James](people/@16864904@-james-campbell-b1890-d.md)** (about 1890 - )
   * **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - )
   * **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
 * **Born in 1891.**
@@ -454,7 +464,6 @@ This is a list of people who have vague or unknown dates of birth.
 * [Stasia LaFavre](people/@16839684@-stasia-lafavre-b-d2018.md) ( - before 2018)
 * [Andrew Lenox](people/@61792169@-andrew-lenox-b-d.md)
 * [Adam Lorimer](people/@89082174@-adam-lorimer-b-d1940.md) ( - before 1940)
-* [Agnes Lowall](people/@38031148@-agnes-lowall-b-d.md)
 * [Catherine Macauley](people/@40946328@-catherine-macauley-b-d1884.md) ( - before 1884)
 * [Alexander MacDonald](people/@47072524@-alexander-macdonald-b-d1875.md) ( - before 1875)
 * [Catherine MacDonald](people/@97950336@-catherine-macdonald-b-d1949.md) ( - before 1949)
@@ -522,7 +531,6 @@ This is a list of people who have vague or unknown dates of birth.
 * [Alexander McGregor Russell](people/@72370350@-alexander-mcgregor-russell-b-d.md)
 * [Clara Sherwood](people/@79435398@-clara-sherwood-b-d.md)
 * [Alice Smith](people/@77089636@-alice-smith-b-d.md)
-* [John Smith](people/@3582868@-john-smith-b-d.md)
 * [John Smith](people/@64841197@-john-smith-b-d.md)
 * [Ricky Steedman](people/@65047040@-ricky-steedman-b-d2022-6-23.md) ( - 23/Jun/2022)
 * [Roxannah Stewart](people/@56480720@-roxannah-stewart-b-d.md)

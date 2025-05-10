@@ -79,3 +79,4 @@ References | 1918 M 813/A 2
 * [William Campbell](../people/@70442784@-william-campbell-b-d1918.md) ( - before 1918)
 * [Alexander McTurk](../people/@39936423@-alexander-mcturk-b1854-d.md) (about 1854 - )
 * [Grace McTurk](../people/@54145218@-grace-mcturk-b1886-12-20-d.md) (20/Dec/1886 - )
+* [Rachel Smith](../people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) (11/Nov/1862 - 23/Jun/1942)

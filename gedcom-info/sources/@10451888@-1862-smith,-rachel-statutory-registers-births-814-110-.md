@@ -39,4 +39,4 @@ References | 1862 B 814/110
 
 ## Source Referenced by
 
-* [Rachel Smith](../people/@58377523@-rachel-smith-b1862-11-11-d.md) (11/Nov/1862 - )
+* [Rachel Smith](../people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) (11/Nov/1862 - 23/Jun/1942)

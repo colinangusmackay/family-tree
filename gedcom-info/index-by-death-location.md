@@ -29,6 +29,7 @@ permalink: /indexes/by-death-location
 - **[Buchanan, Janet](people/@48339564@-janet-buchanan-b-d.md)**
 - **[Burns, Mary](people/@81238912@-mary-burns-b-d.md)**
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
+- **[Campbell, James](people/@16864904@-james-campbell-b1890-d.md)** (about 1890 - )
 - **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - )
 - **[Campbell, William](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918)
 - **[Carlyle, Mary](people/@99996424@-mary-carlyle-b1907-d.md)** (1907 - )
@@ -174,7 +175,7 @@ permalink: /indexes/by-death-location
 - **[Lindores, William](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - )
 - **[Lorimer, Adam](people/@89082174@-adam-lorimer-b-d1940.md)** ( - before 1940)
 - **[Lorimer, Archibald King](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - )
-- **[Lowall, Agnes](people/@38031148@-agnes-lowall-b-d.md)**
+- **[Lowall, Agnes](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
 - **[Macauley, Catherine](people/@40946328@-catherine-macauley-b-d1884.md)** ( - before 1884)
 - **[MacDonald, Alexander](people/@47072524@-alexander-macdonald-b-d1875.md)** ( - before 1875)
 - **[MacDonald, Catherine](people/@97950336@-catherine-macdonald-b-d1949.md)** ( - before 1949)
@@ -418,9 +419,12 @@ permalink: /indexes/by-death-location
 - **[Sherwood, Clara](people/@79435398@-clara-sherwood-b-d.md)**
 - **[Smith, Alice](people/@77089636@-alice-smith-b-d.md)**
 - **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
-- **[Smith, John](people/@3582868@-john-smith-b-d.md)**
+- **[Smith, Andrew](people/@79740305@-andrew-smith-b1868-d.md)** (about 1868 - )
+- **[Smith, Elizabeth](people/@96054144@-elizabeth-smith-b1861-d.md)** (about 1861 - )
+- **[Smith, Jamima](people/@93122532@-jamima-smith-b1866-d.md)** (about 1866 - )
 - **[Smith, John](people/@64841197@-john-smith-b-d.md)**
-- **[Smith, Rachel](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - )
+- **[Smith, John](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - )
+- **[Smith, William Elliot](people/@15044661@-william-elliot-smith-b1857-d.md)** (about 1857 - )
 - **[Stead, Albert](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
 - **[Stead, Albert](people/@82189144@-albert-stead-b1934-d1938-8-22.md)** (about 1934 - 22/Aug/1938)
 - **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
@@ -520,6 +524,12 @@ permalink: /indexes/by-death-location
 #### Dundonald
 
 - **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
+
+### Dumfrieshire
+
+#### Castlemilk, St Mungo
+
+- **[Smith, Rachel](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942)
 
 ### Edinburgh
 
@@ -648,6 +658,7 @@ permalink: /indexes/by-death-location
 - **[Mackay, Janet](people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md)** (12/Nov/1890 - 15/May/1891)
 - **[Mackay, Jessie](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932)
 - **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969)
+- **[Mackay, William Alexander](people/@8407472@-william-alexander-mackay-b1934-2-d1934-3-23.md)** (Feb/1934 - 23/Mar/1934)
 - **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
 - **[Ross, William](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864)
 

@@ -9,8 +9,9 @@ permalink: /people/i70442784
 
 ## Immediate Family
 
-* Wife: [Rachel Smith](./@58377523@-rachel-smith-b1862-11-11-d.md) (11/Nov/1862 - )
+* Wife: [Rachel Smith](./@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) (11/Nov/1862 - 23/Jun/1942)
 * Son: [William Andrew Campbell](./@4716977@-william-andrew-campbell-b1889-1-2-d.md) (2/Jan/1889 - )
+* Son: [James Campbell](./@16864904@-james-campbell-b1890-d.md) (about 1890 - )
 
 ## Timeline
 

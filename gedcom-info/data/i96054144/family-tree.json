@@ -1,0 +1,101 @@
+﻿{
+  "Subject": {
+    "Id": "i96054144",
+    "Name": "Elizabeth Smith",
+    "Gender": "Female",
+    "DateOfBirth": "about 1861",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i3582868",
+      "Name": "John Smith",
+      "Gender": "Male",
+      "DateOfBirth": "about 1822",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i38031148",
+      "Name": "Agnes Lowall",
+      "Gender": "Female",
+      "DateOfBirth": "about 1830",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i15044661",
+      "Name": "William Elliot Smith",
+      "Gender": "Male",
+      "DateOfBirth": "about 1857",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i3582868",
+          "i38031148"
+        ]
+      ]
+    },
+    {
+      "Id": "i96054144",
+      "Name": "Elizabeth Smith",
+      "Gender": "Female",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i3582868",
+          "i38031148"
+        ]
+      ]
+    },
+    {
+      "Id": "i58377523",
+      "Name": "Rachel Smith",
+      "Gender": "Female",
+      "DateOfBirth": "11/Nov/1862",
+      "DateOfDeath": "23/Jun/1942",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i3582868",
+          "i38031148"
+        ]
+      ]
+    },
+    {
+      "Id": "i93122532",
+      "Name": "Jamima Smith",
+      "Gender": "Female",
+      "DateOfBirth": "about 1866",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i3582868",
+          "i38031148"
+        ]
+      ]
+    },
+    {
+      "Id": "i79740305",
+      "Name": "Andrew Smith",
+      "Gender": "Male",
+      "DateOfBirth": "about 1868",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i3582868",
+          "i38031148"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

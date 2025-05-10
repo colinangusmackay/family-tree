@@ -85,6 +85,8 @@ permalink: /indexes/by-date-of-birth
   * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
   * **[Nicholson, Margaret](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - )
   * **[Mackay, Marion](people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md)** (30/Jun/1821 - 30/Dec/1909)
+* **Born in 1822.**
+  * **[Smith, John](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - )
 * **Born in 1823.**
   * **[Mackenzie, Barbara](people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md)** (about 1823 - 27/Apr/1884)
   * **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906)
@@ -98,6 +100,8 @@ permalink: /indexes/by-date-of-birth
 
 ### 1830s
 
+* **Born in 1830.**
+  * **[Lowall, Agnes](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
 * **Born in 1833.**
   * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
   * **[McKay, Susan](people/@29671874@-susan-mckay-b1833-4-d1886.md)** (Apr/1833 - before 1886)
@@ -210,6 +214,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1857.**
   * **[O'Donnell, Hannah](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921)
   * **[Paterson, Barbara](people/@65135072@-barbara-paterson-b1857-d.md)** (about 1857 - )
+  * **[Smith, William Elliot](people/@15044661@-william-elliot-smith-b1857-d.md)** (about 1857 - )
   * **[Tennant, Margaret](people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md)** (19/Nov/1857 - 29/Jun/1924)
 * **Born in 1858.**
   * **[Fleming, William](people/@78368531@-william-fleming-b1858-d.md)** (about 1858 - )
@@ -235,13 +240,14 @@ permalink: /indexes/by-date-of-birth
   * **[MacLeod, Matilda](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
   * **[Napier, Janet](people/@44813825@-janet-napier-b1861-d.md)** (about 1861 - )
   * **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - )
+  * **[Smith, Elizabeth](people/@96054144@-elizabeth-smith-b1861-d.md)** (about 1861 - )
   * **[Teevin, Margaret](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - )
   * **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
   * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1911.md)** (12/Apr/1861 - before 1911)
   * **[Paterson, Williamina](people/@90589456@-williamina-paterson-b1861-6-10-d.md)** (10/Jun/1861 - )
 * **Born in 1862.**
   * **[Ross, Barbara](people/@82167024@-barbara-ross-b1862-2-28-d.md)** (28/Feb/1862 - )
-  * **[Smith, Rachel](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - )
+  * **[Smith, Rachel](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942)
 * **Born in 1863.**
   * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
   * **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
@@ -263,6 +269,7 @@ permalink: /indexes/by-date-of-birth
   * **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
 * **Born in 1866.**
   * **[Mackay, Jessie or Janet](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - )
+  * **[Smith, Jamima](people/@93122532@-jamima-smith-b1866-d.md)** (about 1866 - )
   * **[Ross, Marion](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888)
   * **[Napier, Elizabeth](people/@22336798@-elizabeth-napier-b1866-11-17-d.md)** (17/Nov/1866 - )
 * **Born in 1867.**
@@ -273,6 +280,7 @@ permalink: /indexes/by-date-of-birth
   * **[Lenox, Minnie](people/@99536158@-minnie-lenox-b1867-4-15-d.md)** (15/Apr/1867 - )
 * **Born in 1868.**
   * **[Roberts, Frederick B](people/@36552681@-frederick-b-roberts-b1868-d.md)** (about 1868 - )
+  * **[Smith, Andrew](people/@79740305@-andrew-smith-b1868-d.md)** (about 1868 - )
   * **[Wilson, Henrietta](people/@47880504@-henrietta-wilson-b1868-d.md)** (about 1868 - )
   * **[Ross, John](people/@16505504@-john-ross-b1868-8-23-d1905-11-20.md)** (23/Aug/1868 - 20/Nov/1905)
   * **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - )
@@ -392,6 +400,7 @@ permalink: /indexes/by-date-of-birth
 ### 1890s
 
 * **Born in 1890.**
+  * **[Campbell, James](people/@16864904@-james-campbell-b1890-d.md)** (about 1890 - )
   * **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - )
   * **[McKenzie, Murdoch](people/@99087108@-murdoch-mckenzie-b1890-d.md)** (1890 - )
   * **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
@@ -586,6 +595,7 @@ permalink: /indexes/by-date-of-birth
   * **[Hoctor, Sylvia Jean](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993)
 * **Born in 1934.**
   * **[Stead, Albert](people/@82189144@-albert-stead-b1934-d1938-8-22.md)** (about 1934 - 22/Aug/1938)
+  * **[Mackay, William Alexander](people/@8407472@-william-alexander-mackay-b1934-2-d1934-3-23.md)** (Feb/1934 - 23/Mar/1934)
 * **Born in 1935.**
   * **[Mackay, Alexina](people/@75066880@-alexina-mackay-b1935-1-11-d1935.md)** (11/Jan/1935 - 1935)
   * **[Hayes, Dan](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018)

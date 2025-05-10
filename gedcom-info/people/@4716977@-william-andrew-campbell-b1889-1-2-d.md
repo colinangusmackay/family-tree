@@ -10,15 +10,16 @@ permalink: /people/i4716977
 ## Immediate Family
 
 * Father: [William Campbell](./@70442784@-william-campbell-b-d1918.md) ( - before 1918)
-* Mother: [Rachel Smith](./@58377523@-rachel-smith-b1862-11-11-d.md) (11/Nov/1862 - )
+* Mother: [Rachel Smith](./@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) (11/Nov/1862 - 23/Jun/1942)
 * Wife: [Grace McTurk](./@54145218@-grace-mcturk-b1886-12-20-d.md) (20/Dec/1886 - )
+* Brother: [James Campbell](./@16864904@-james-campbell-b1890-d.md) (about 1890 - )
 * Daughter: [Rachel Smith Campbell](./@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md) (6/Jan/1920 - 11/Dec/1998)
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-2/Jan/1889 | Born | Born to [William Campbell](./@70442784@-william-campbell-b-d1918.md) and [Rachel Smith](./@58377523@-rachel-smith-b1862-11-11-d.md) in Evertown, Dumfriesshire, Scotland. | [1](#1), [2](#2) | [3](#3)
+2/Jan/1889 | Born | Born to [William Campbell](./@70442784@-william-campbell-b-d1918.md) and [Rachel Smith](./@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) in Evertown, Dumfriesshire, Scotland. | [1](#1), [2](#2) | [3](#3)
 
 ## Known Residences
 

@@ -92,9 +92,10 @@ permalink: /indexes/by-all-names
 ## Campbell
 
 - **[Grace Campbell](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
+- **[James Campbell](people/@16864904@-james-campbell-b1890-d.md)** (about 1890 - )
 - **[Linda Margaret Campbell](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[Margaret Campbell](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
-- **[Rachel Campbell](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - )
+- **[Rachel Campbell](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942)
 - **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
 - **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - )
 - **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918)
@@ -544,7 +545,7 @@ permalink: /indexes/by-all-names
 
 ## Lowall
 
-- **[Agnes Lowall](people/@38031148@-agnes-lowall-b-d.md)**
+- **[Agnes Lowall](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
 
 ## Macauley
 
@@ -668,6 +669,7 @@ permalink: /indexes/by-all-names
 - **[Thomas Mackay](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934)
 - **[Thomas Mackay](people/@11442358@-thomas-mackay-b1920-d.md)** (after 1920 - )
 - **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
+- **[William Alexander Mackay](people/@8407472@-william-alexander-mackay-b1934-2-d1934-3-23.md)** (Feb/1934 - 23/Mar/1934)
 - **[William James Mackay](people/@53698892@-william-james-mackay-b1920-d.md)** (after 1920 - )
 - **[William Mackay](people/@24694904@-william-mackay-b-d.md)**
 - **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
@@ -1171,13 +1173,18 @@ permalink: /indexes/by-all-names
 
 ## Smith
 
-- **[Agnes Smith](people/@38031148@-agnes-lowall-b-d.md)**
+- **[Agnes Smith](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
+- **[Agness Smith](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
 - **[Alice Smith](people/@77089636@-alice-smith-b-d.md)**
 - **[Alice Smith](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
-- **[John Smith](people/@3582868@-john-smith-b-d.md)**
+- **[Andrew Smith](people/@79740305@-andrew-smith-b1868-d.md)** (about 1868 - )
+- **[Elizabeth Smith](people/@96054144@-elizabeth-smith-b1861-d.md)** (about 1861 - )
+- **[Jamima Smith](people/@93122532@-jamima-smith-b1866-d.md)** (about 1866 - )
 - **[John Smith](people/@64841197@-john-smith-b-d.md)**
+- **[John Smith](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - )
 - **[Mary Smith](people/@81238912@-mary-burns-b-d.md)**
-- **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - )
+- **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942)
+- **[William Elliot Smith](people/@15044661@-william-elliot-smith-b1857-d.md)** (about 1857 - )
 
 ## Stark
 

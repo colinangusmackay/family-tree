@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i79740305",
+  "Name": "Andrew Smith",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1868",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i3582868",
+      "Name": "John Smith",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1822",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i38031148",
+      "Name": "Agnes Lowall",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1830",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

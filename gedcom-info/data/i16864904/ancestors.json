@@ -1,0 +1,47 @@
+﻿{
+  "Id": "i16864904",
+  "Name": "James Campbell",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1890",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i70442784",
+      "Name": "William Campbell",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1918",
+      "Parents": []
+    },
+    {
+      "Id": "i58377523",
+      "Name": "Rachel Smith",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "11/Nov/1862",
+      "DateOfDeath": "23/Jun/1942",
+      "Parents": [
+        {
+          "Id": "i3582868",
+          "Name": "John Smith",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1822",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i38031148",
+          "Name": "Agnes Lowall",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "about 1830",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

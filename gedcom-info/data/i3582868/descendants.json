@@ -3,16 +3,34 @@
   "Name": "John Smith",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1822",
   "DateOfDeath": "",
   "Children": [
+    {
+      "Id": "i15044661",
+      "Name": "William Elliot Smith",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1857",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i96054144",
+      "Name": "Elizabeth Smith",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i58377523",
       "Name": "Rachel Smith",
       "Gender": "Female",
       "Relationship": "daughter",
       "DateOfBirth": "11/Nov/1862",
-      "DateOfDeath": "",
+      "DateOfDeath": "23/Jun/1942",
       "Children": [
         {
           "Id": "i4716977",
@@ -250,8 +268,35 @@
               ]
             }
           ]
+        },
+        {
+          "Id": "i16864904",
+          "Name": "James Campbell",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "about 1890",
+          "DateOfDeath": "",
+          "Children": []
         }
       ]
+    },
+    {
+      "Id": "i93122532",
+      "Name": "Jamima Smith",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1866",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i79740305",
+      "Name": "Andrew Smith",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1868",
+      "DateOfDeath": "",
+      "Children": []
     }
   ]
 }

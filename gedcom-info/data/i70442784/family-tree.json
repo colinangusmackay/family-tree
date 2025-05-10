@@ -24,7 +24,7 @@
       "Name": "Rachel Smith",
       "Gender": "Female",
       "DateOfBirth": "11/Nov/1862",
-      "DateOfDeath": "",
+      "DateOfDeath": "23/Jun/1942",
       "RelationToSubject": "wife",
       "DateOfMarriage": "12/Mar/1887",
       "DateOfDivorce": ""
@@ -36,6 +36,18 @@
       "Name": "William Andrew Campbell",
       "Gender": "Male",
       "DateOfBirth": "2/Jan/1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i70442784",
+        "i58377523"
+      ]
+    },
+    {
+      "Id": "i16864904",
+      "Name": "James Campbell",
+      "Gender": "Male",
+      "DateOfBirth": "about 1890",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [

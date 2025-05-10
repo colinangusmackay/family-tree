@@ -25,7 +25,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Linda Margaret Campbell](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016) and X **on 6th of June 1981** at Blackburn, West Lothian, Scotland.
   * **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998) and **[William Gardiner](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986) **on 26th of November 1948** at Dryfesdale, Dumfrieshire, Scotland.
-  * **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918) and **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - ) **on 12th of March 1887** at Canonbie, Dumfriesshire, Scotland.
+  * **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918) and **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942) **on 12th of March 1887** at Canonbie, Dumfriesshire, Scotland.
   * **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - ) **on 21st of March 1918** at Applegarth, Dumfries and Galloway, Scotland.
 
 ## Carlyle
@@ -210,7 +210,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Lowall
 
-  * **[Agnes Lowall](people/@38031148@-agnes-lowall-b-d.md)** and **[John Smith](people/@3582868@-john-smith-b-d.md)** **on 28th of December 1859**.
+  * **[Agnes Lowall](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - ) and **[John Smith](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - ) **on 28th of December 1859**.
 
 ## MacDonald
 
@@ -483,8 +483,8 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Smith
 
   * **[Alice Smith](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - ) and **[Thomas Hawthorn](people/@30039040@-thomas-hawthorn-b1888-6-28-d1946.md)** (28/Jun/1888 - before 1946) **on 6th of May 1921**.
-  * **[John Smith](people/@3582868@-john-smith-b-d.md)** and **[Agnes Lowall](people/@38031148@-agnes-lowall-b-d.md)** **on 28th of December 1859**.
-  * **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - ) and **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918) **on 12th of March 1887** at Canonbie, Dumfriesshire, Scotland.
+  * **[John Smith](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - ) and **[Agnes Lowall](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - ) **on 28th of December 1859**.
+  * **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942) and **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918) **on 12th of March 1887** at Canonbie, Dumfriesshire, Scotland.
 
 ## Stead
 

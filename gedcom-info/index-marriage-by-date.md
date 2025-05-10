@@ -56,7 +56,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **25/Jan/1858** : **[David Napier](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901) and **[Agnes Nicholson](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - ) at Dysart, Fife, Scotland.
 * **1859**
   * **15/Feb/1859** : **[Hugh Grant](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - ) and **[Jessie Munro](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ) at Golspie, Sutherland, Scotland.
-  * **28/Dec/1859** : **[John Smith](people/@3582868@-john-smith-b-d.md)** and **[Agnes Lowall](people/@38031148@-agnes-lowall-b-d.md)**.
+  * **28/Dec/1859** : **[John Smith](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - ) and **[Agnes Lowall](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - ).
 
 ### 1860s
 
@@ -113,7 +113,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **25/Oct/1886** : **[Thomas McKnight](people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md)** (about 1856 - 8/Aug/1897) and **[Margaret Teevin](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - ) at Glasgow, Scotland.
 * **1887**
   * **about 1887** : **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ).
-  * **12/Mar/1887** : **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918) and **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d.md)** (11/Nov/1862 - ) at Canonbie, Dumfriesshire, Scotland.
+  * **12/Mar/1887** : **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918) and **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942) at Canonbie, Dumfriesshire, Scotland.
   * **28/Sep/1887** : **[Thomas Sunderland](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - ) and **[Marion Ross](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888) at Hayes Township, Charlevoix County, Michigan, United States of America.
   * **25/Oct/1887** : **[Donald J Cumming](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946) at Dornoch, Sutherland, Scotland.
 * **1888**

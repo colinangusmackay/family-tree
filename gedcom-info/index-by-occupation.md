@@ -138,7 +138,7 @@ There were 3 people who worked as a Carpenter of some sort.
 
 ## Cement Finisher
 
-* **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982), mentioned 4 times.
+* **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982), mentioned 5 times.
 
 ## Chartered Accountant
 
@@ -536,6 +536,10 @@ There were 51 people who worked as a Fisherman.
 ## Fixer Corporation Tramways
 
 * **[Mathews, Joseph](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - ).
+
+## Forrester
+
+* **[Smith, John](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - ).
 
 ## Gardener
 

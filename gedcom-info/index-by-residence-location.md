@@ -78,6 +78,14 @@ permalink: /indexes/by-residence-location
 
 - **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
 
+#### Canonbie
+
+- **[Lowall, Agnes](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
+- **[Smith, Elizabeth](people/@96054144@-elizabeth-smith-b1861-d.md)** (about 1861 - )
+- **[Smith, Jamima](people/@93122532@-jamima-smith-b1866-d.md)** (about 1866 - )
+- **[Smith, John](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - )
+- **[Smith, Rachel](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942)
+
 ### Dumfriesshire
 
 #### Johnstone

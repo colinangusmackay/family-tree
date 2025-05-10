@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i96054144",
+  "Name": "Elizabeth Smith",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1861",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i3582868",
+      "Name": "John Smith",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about 1822",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i38031148",
+      "Name": "Agnes Lowall",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1830",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

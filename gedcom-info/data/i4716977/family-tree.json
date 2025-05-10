@@ -20,7 +20,7 @@
       "Name": "Rachel Smith",
       "Gender": "Female",
       "DateOfBirth": "11/Nov/1862",
-      "DateOfDeath": "",
+      "DateOfDeath": "23/Jun/1942",
       "RelationToSubject": "mother"
     }
   ],
@@ -32,6 +32,20 @@
       "DateOfBirth": "2/Jan/1889",
       "DateOfDeath": "",
       "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i58377523",
+          "i70442784"
+        ]
+      ]
+    },
+    {
+      "Id": "i16864904",
+      "Name": "James Campbell",
+      "Gender": "Male",
+      "DateOfBirth": "about 1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
           "i58377523",
