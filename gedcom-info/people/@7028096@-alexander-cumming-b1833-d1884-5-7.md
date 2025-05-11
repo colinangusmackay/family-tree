@@ -80,12 +80,13 @@ Date | Occupation | Sources & Notes
 
 ### 4
 
-> | Source | Year | Age | Est DoB |
-> |---|---|---|---|
-> | Rona Grigg: Embo | 1836 | 0 | 1836 |
-> | Marriage | 1860 | 19 | 1841 |
-> | Census | 1871 | 37 | 1834 |
-> | Census | 1891 | 54 | 1837 |
+
+| Source | Year | Age | Est DoB |
+|---|---|---|---|
+| Rona Grigg: Embo | 1836 | 0 | 1836 |
+| Marriage | 1860 | 19 | 1841 |
+| Census | 1871 | 37 | 1834 |
+| Census | 1891 | 54 | 1837 |
 
 
 ### 5

@@ -26,13 +26,14 @@ References | (URL) [Open original source at https://web.archive.org/web/20021007
 >
 > <br/>
 >
-> |Name|Age|Notes|
-> |---|---|---|
-> |John Maltman | 28 | single|
-> |William Collin | 30 | left widow, daughter Isabella b. after the disaster (d. 18 Apr 1882), Jessie|
-> |Robert Gillie | 23 | single|
-> |John Gillie | 22 | cousin of Robert,left widow Ann Lindores and son John|
-> |James Maltman | 22 | cousin of above John, single, father Alexander lost on the Economy|
+
+|Name|Age|Notes|
+|---|---|---|
+|John Maltman | 28 | single|
+|William Collin | 30 | left widow, daughter Isabella b. after the disaster (d. 18 Apr 1882), Jessie|
+|Robert Gillie | 23 | single|
+|John Gillie | 22 | cousin of Robert,left widow Ann Lindores and son John|
+|James Maltman | 22 | cousin of above John, single, father Alexander lost on the Economy|
 
 ## Source Referenced by
 

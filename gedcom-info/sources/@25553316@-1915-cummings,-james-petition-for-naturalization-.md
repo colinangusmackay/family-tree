@@ -33,10 +33,12 @@ Date | 26/Apr/1915
 >
 > <br/>
 >
-> | Name | Date of Birth | Place of Birth | Place of residence|
-> |---|---|---|---|
-> | Maggie | January 19th 1909 | Scotland | Boston, Mass. |
-> | James E | January 18th 1912 | Boston, Mass. | Boston, Mass. |
+
+| Name | Date of Birth | Place of Birth | Place of residence|
+|---|---|---|---|
+| Maggie | January 19th 1909 | Scotland | Boston, Mass. |
+| James E | January 18th 1912 | Boston, Mass. | Boston, Mass. |
+
 > <br/>
 >
 > Ninth: I have resided continually in the United States of America for the term of five years at least, immediately preceeding the date of this petition, to wit, since the 9th day of November anno Domini 1909, and in the State of Massachusetts, continuously next preceeding the date of this petition, since the 9th day of November, anno Domini 1909, being a resident within this state of at least one year next preceeding the date of this petition.

@@ -31,6 +31,7 @@ about 1942 | Death of mother | [Elizabeth Wilson](./@71295041@-elizabeth-wilson-
 Date | Residence | Sources & Notes
 ---|---|---
 1939 | 9 St Ninnians Road, Corstorphine, Edinburgh, Scotland | [2](#2)
+1946 | 50 Hillview Crescent, Edinburgh, Scotland | [7](#7)
 
 ## Known Occupations
 
@@ -94,4 +95,12 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1978 D 572/94
+
+### 7
+
+**1946 GIBSON, ALASTAIR M; MARGARET M; M'IVER, HECTOR S; HELEN F; MARGARET P (Register of Voters For the City of Edinburgh and the Burgh of Leith)**
+
+* [Full text and notes](../sources/@79186140@-1946-gibson,-alastair-m;-margaret-m;-m'iver,-hector-s;-helen-f;-margaret-p-register-of-voters-for-t….md)
+* Publication: Register of Voters For the City of Edinburgh and the Burgh of Leith
+* Date: 1946
 

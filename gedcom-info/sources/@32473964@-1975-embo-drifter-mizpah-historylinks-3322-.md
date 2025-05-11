@@ -19,7 +19,7 @@ References | (URL) [Open original source at https://www.historylinksarchive.org.
 >
 > Year of Photo: 1975
 >
-> Cat No: ◀ | 2007_188_01 | ▶
+> Cat No: ◀  2007_188_01  ▶
 >
 > Picture No: 3322
 >

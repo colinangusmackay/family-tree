@@ -22,11 +22,12 @@ References | Sl56/153
 >
 > <br/>
 >
-> | No | Street No | Name of Elector |
-> |---|---|---|
-> | 1247 | - | Cumming, Donald B |
-> | 1248 | - | Cumming, James |
-> | 1249 | - | Cumming, Williamina |
+
+| No | Street No | Name of Elector |
+|---|---|---|
+| 1247 | - | Cumming, Donald B |
+| 1248 | - | Cumming, James |
+| 1249 | - | Cumming, Williamina |
 
 ## Source Referenced by
 

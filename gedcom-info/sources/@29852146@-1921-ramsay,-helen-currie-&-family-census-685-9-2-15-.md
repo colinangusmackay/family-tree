@@ -172,8 +172,9 @@ References | 1921 C 685/9 2/ 15
 >
 > > **checker**; referencer (obsolescent); shipper:
 >
-> > checks, by comparing with waybills, incoming consignments as they are unloaded by caller-off and by goods porters q.v.; checks weight of each consignment against consignment note as called off; records and checks numbers or weights of outgoing goods and furnishes records to goods depot office; sometimes also works jigger, i.e. capstan, whilst checking goods into or out of railway warehouse; sometimes specifically designated, e.g. **coal checker**, goods checker, grain checker.|
->
+
+> checks, by comparing with waybills, incoming consignments as they are unloaded by caller-off and by goods porters q.v.; checks weight of each consignment against consignment note as called off; records and checks numbers or weights of outgoing goods and furnishes records to goods depot office; sometimes also works jigger, i.e. capstan, whilst checking goods into or out of railway warehouse; sometimes specifically designated, e.g. **coal checker**, goods checker, grain checker.|
+
 > <br/>
 >
 > Alternative URL: [https://web.archive.org/web/20210516001415/http://doot.spub.co.uk/code.php?value=706](https://web.archive.org/web/20210516001415/http://doot.spub.co.uk/code.php?value=706)

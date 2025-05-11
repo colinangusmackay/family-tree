@@ -29,13 +29,14 @@ References | 1911 C 047/ 3/ 12
 >
 > <br/>
 >
-> | Name | Relation | Sex | Age | Language | Condition | Occupation | Birthplace
-> |---|---|---|---|---|---|---|---|
-> | Bella Mackay | Head | F | 50 | G&E | Widow | Fisherworker | Sutherland, Embo |
-> | Kenneth Mackay | Son | M | 16 | G&E | Single | Fisherman's Assistant | Sutherland, Embo |
-> | John Mackay | Son | M | 12 | G&E | Single | School | Sutherland, Embo |
-> | William Mackay | Son | M | 11 | G&E | Single | School | Sutherland, Embo |
-> | Maggie Mackay | Daughter | F | 10 | G&E | Single | School | Sutherland, Embo |
+
+| Name | Relation | Sex | Age | Language | Condition | Occupation | Birthplace
+|---|---|---|---|---|---|---|---|
+| Bella Mackay | Head | F | 50 | G&E | Widow | Fisherworker | Sutherland, Embo |
+| Kenneth Mackay | Son | M | 16 | G&E | Single | Fisherman's Assistant | Sutherland, Embo |
+| John Mackay | Son | M | 12 | G&E | Single | School | Sutherland, Embo |
+| William Mackay | Son | M | 11 | G&E | Single | School | Sutherland, Embo |
+| Maggie Mackay | Daughter | F | 10 | G&E | Single | School | Sutherland, Embo |
 
 ## Notes
 

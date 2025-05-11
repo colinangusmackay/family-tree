@@ -113,18 +113,14 @@ References | 002154
 >
 > <br/>
 >
-> Names in full: William Alexander MacKay | Mary Ann Cumming
->
-> Occupation: Cement Finisher | Nurse
->
-> Age and Condition in Life: 30, Bachelor | 29, Spinster
->
-> Religious Denomination: Bretheren | Bretheren
->
-> Residence when Married: 271 Springdale Blvd | 146 King Edward Ave
->
-> Place of Brith: Scotland | Scotland
->
+
+Names in full: William Alexander MacKay | Mary Ann Cumming
+Occupation: Cement Finisher | Nurse
+Age and Condition in Life: 30, Bachelor | 29, Spinster
+Religious Denomination: Bretheren | Bretheren
+Residence when Married: 271 Springdale Blvd | 146 King Edward Ave
+Place of Brith: Scotland | Scotland
+
 > Intended Place of Marriage: Township of East York (York)
 >
 > <br/>

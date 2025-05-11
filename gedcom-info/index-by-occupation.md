@@ -438,44 +438,22 @@ There were 6 people who worked as a Farmer.
 
 ## Fish Worker
 
-There were 12 people who worked as a Fish Worker of some sort.
+There were 63 people who worked as a Fish Worker of some sort.
 
 * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
 * **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md)** (27/Jun/1901 - 24/Aug/1973).
+
+#### Fisher
+
+* **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896).
 
 #### Fishergirl
 
 * **[Cumming, Barbara Ann](people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md)** (30/Aug/1885 - 1977).
 * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - ).
 
-#### Fisherwoman
-
-* **[Mackay, Marion](people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md)** (30/Jun/1821 - 30/Dec/1909).
-* **[Ross, Christina](people/@81183416@-christina-ross-b1845-d1916-4-19.md)** (about 1845 - 19/Apr/1916).
-* **[Ross, Jessie](people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md)** (5/Nov/1840 - 13/Jan/1918).
-* **[Ross, Wiliamina](people/@5241144@-wiliamina-ross-b1849-d.md)** (about 1849 - ).
-
-#### Fishwife
-
-* **[Mackay, Barbara](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - ).
-* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
-
-#### Fishwoman
-
-* **[Ross, Marion](people/@39612984@-marion-ross-b1853-d.md)** (about 1853 - ).
-
-#### Fishworker
-
-* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
-
-## Fisher
-
-* **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896).
-
-## Fisherman
-
-There were 51 people who worked as a Fisherman.
+#### Fisherman
 
 * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926), mentioned 3 times.
 * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884), mentioned 3 times.
@@ -528,6 +506,94 @@ There were 51 people who worked as a Fisherman.
 * **[Ross, Kenneth](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - ).
 * **[Sutherland, Andrew](people/@91612548@-andrew-sutherland-b-d1900.md)** ( - after 1900).
 * **[Sutherland, William](people/@72992640@-william-sutherland-b-d1856.md)** ( - after 1856).
+
+#### Fisherwoman
+
+* **[Mackay, Marion](people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md)** (30/Jun/1821 - 30/Dec/1909).
+* **[Ross, Christina](people/@81183416@-christina-ross-b1845-d1916-4-19.md)** (about 1845 - 19/Apr/1916).
+* **[Ross, Jessie](people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md)** (5/Nov/1840 - 13/Jan/1918).
+* **[Ross, Wiliamina](people/@5241144@-wiliamina-ross-b1849-d.md)** (about 1849 - ).
+
+#### Fishing
+
+* **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 3 times.
+
+#### Fishwife
+
+* **[Mackay, Barbara](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - ).
+* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
+
+#### Fishwoman
+
+* **[Ross, Marion](people/@39612984@-marion-ross-b1853-d.md)** (about 1853 - ).
+
+#### Fishworker
+
+* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
+
+## Fisher
+
+There were 51 people who worked as a Fisher of some sort.
+
+* **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896).
+
+#### Fisherman
+
+* **[Cumming, Adam](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926), mentioned 3 times.
+* **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884), mentioned 3 times.
+* **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875), mentioned 3 times.
+* **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 12 times.
+* **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923), mentioned 7 times.
+* **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - ).
+* **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ).
+* **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ).
+* **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
+* **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned twice.
+* **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
+* **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889).
+* **[Fraser, Thomas](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932), mentioned twice.
+* **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ), mentioned twice.
+* **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901).
+* **[Gillie, John](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881), mentioned twice.
+* **[Grant, Hugh](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - ), mentioned twice.
+* **[Grant, Hugh](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944), mentioned 4 times.
+* **[Lindores, William](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - ).
+* **[MacDonald, Alexander](people/@47072524@-alexander-macdonald-b-d1875.md)** ( - before 1875).
+* **[MacDonald, Donald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - ).
+* **[MacDonald, James](people/@74881641@-james-macdonald-b1842-d1880-1-14.md)** (about 1842 - 14/Jan/1880), mentioned 4 times.
+* **[Mackay, Alexander](people/@56321492@-alexander-mackay-b-d.md)**.
+* **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ).
+* **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ).
+* **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ).
+* **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - ).
+* **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939).
+* **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 3 times.
+* **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - ), mentioned twice.
+* **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1911.md)** (12/Apr/1861 - before 1911), mentioned 8 times.
+* **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ).
+* **[Mackay, Kenneth](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901).
+* **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ).
+* **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - ).
+* **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ), mentioned twice.
+* **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934).
+* **[Mackay, William](people/@24694904@-william-mackay-b-d.md)**.
+* **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
+* **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ).
+* **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949).
+* **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - ).
+* **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896), mentioned 10 times.
+* **[Ross, Alexander](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - ), mentioned 5 times.
+* **[Ross, John](people/@29351958@-john-ross-b-d.md)**.
+* **[Ross, John](people/@36837210@-john-ross-b1855-12-14-d.md)** (14/Dec/1855 - ).
+* **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ), mentioned twice.
+* **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - ), mentioned twice.
+* **[Ross, Kenneth](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - ).
+* **[Sutherland, Andrew](people/@91612548@-andrew-sutherland-b-d1900.md)** ( - after 1900).
+* **[Sutherland, William](people/@72992640@-william-sutherland-b-d1856.md)** ( - after 1856).
+
+#### Fishing
+
+* **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 3 times.
 
 ## Fisherman's Wife
 

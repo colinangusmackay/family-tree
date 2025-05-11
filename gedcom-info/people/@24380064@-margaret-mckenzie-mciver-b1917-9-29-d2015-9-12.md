@@ -46,6 +46,7 @@ Date | Residence | Sources & Notes
 ---|---|---
 1921 | 14 Lyndhurst Gardens, Glasgow | [13](#13)
 1939 | 50 Hillview Crescent, Corstorphine, Edinburgh, Scotland | [5](#5)
+1946 | 50 Hillview Crescent, Edinburgh, Scotland | [14](#14)
 
 ## Known Occupations
 
@@ -176,4 +177,12 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1921 C 644/13 47/ 15)
+
+### 14
+
+**1946 GIBSON, ALASTAIR M; MARGARET M; M'IVER, HECTOR S; HELEN F; MARGARET P (Register of Voters For the City of Edinburgh and the Burgh of Leith)**
+
+* [Full text and notes](../sources/@79186140@-1946-gibson,-alastair-m;-margaret-m;-m'iver,-hector-s;-helen-f;-margaret-p-register-of-voters-for-t….md)
+* Publication: Register of Voters For the City of Edinburgh and the Burgh of Leith
+* Date: 1946
 

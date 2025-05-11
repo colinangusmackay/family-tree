@@ -55,6 +55,7 @@ Date | Residence | Sources & Notes
 1891 | 104 Berkeley Street, Glasgow | [2](#2)
 1909 | 104 Berkeley Street, Glasgow, Scotland | [3](#3)
 1921 | 14 Lyndhurst Gardens, Glasgow | [11](#11)
+1946 | 50 Hillview Crescent, Edinburgh, Scotland | [12](#12)
 1964 | 76 Northfield Drive, Edinburgh, Scotland | [10](#10)
 
 ## Footnotes
@@ -163,4 +164,12 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1921 C 644/13 47/ 15)
+
+### 12
+
+**1946 GIBSON, ALASTAIR M; MARGARET M; M'IVER, HECTOR S; HELEN F; MARGARET P (Register of Voters For the City of Edinburgh and the Burgh of Leith)**
+
+* [Full text and notes](../sources/@79186140@-1946-gibson,-alastair-m;-margaret-m;-m'iver,-hector-s;-helen-f;-margaret-p-register-of-voters-for-t….md)
+* Publication: Register of Voters For the City of Edinburgh and the Burgh of Leith
+* Date: 1946
 
