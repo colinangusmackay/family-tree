@@ -1,7 +1,7 @@
 ﻿{
   "Subject": {
     "Id": "i59122260",
-    "Name": "Mary",
+    "Name": "Mary Bowie Sloan",
     "Gender": "Female",
     "DateOfBirth": "",
     "DateOfDeath": ""
@@ -10,7 +10,7 @@
   "Siblings": [
     {
       "Id": "i59122260",
-      "Name": "Mary",
+      "Name": "Mary Bowie Sloan",
       "Gender": "Female",
       "DateOfBirth": "",
       "DateOfDeath": "",
@@ -25,8 +25,8 @@
       "Gender": "Male",
       "DateOfBirth": "",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "16/Aug/1901",
       "DateOfDivorce": ""
     }
   ],
@@ -35,8 +35,8 @@
       "Id": "i43287262",
       "Name": "James Gilchrist",
       "Gender": "Male",
-      "DateOfBirth": "about 1904",
-      "DateOfDeath": "",
+      "DateOfBirth": "9/Sep/1904",
+      "DateOfDeath": "1998",
       "RelationToSubject": "son",
       "ParentIds": [
         "i61092708",

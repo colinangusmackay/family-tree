@@ -11,7 +11,6 @@ permalink: /indexes/by-family-name
 - **[Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
-- **[Mary](people/@59122260@-mary-b-d.md)**
 - **[Nancy](people/@68661720@-nancy-b-d.md)**
 
 ## ?
@@ -272,7 +271,7 @@ permalink: /indexes/by-family-name
 ## Gilchrist
 
 - **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b-d.md)**
-- **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - )
+- **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998)
 
 ## Gillie
 
@@ -873,6 +872,10 @@ permalink: /indexes/by-family-name
 ## Simonet
 
 - **[Virginia C Simonet](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998)
+
+## Sloan
+
+- **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b-d.md)**
 
 ## Smith
 

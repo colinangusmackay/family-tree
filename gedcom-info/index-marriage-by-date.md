@@ -152,6 +152,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1901**
   * **22/Jan/1901** : **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ).
   * **7/Aug/1901** : **[James Hanton](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922) and **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949) at Paisley, Renfrewshire, Scotland.
+  * **16/Aug/1901** : **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b-d.md)** and **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b-d.md)** at Maryhill, Glasgow, Scotland.
   * **31/Dec/1901** : **[John Fleming](people/@49475976@-john-fleming-b1877-3-11-d1961.md)** (11/Mar/1877 - before 1961) and **[Agnes Rennie](people/@57426108@-agnes-rennie-b1878-d1961-2-7.md)** (1878 - 7/Feb/1961) at Blackburn, West Lothian, Scotland.
 * **1903**
   * **11/Nov/1903** : **[Donald Ross](people/@4496220@-donald-ross-b1872-8-30-d.md)** (30/Aug/1872 - ) and **[Ollie E Walker](people/@42365832@-ollie-e-walker-b1872-d.md)** (about 1872 - ) at Boyne City, Charlevoix County, Michigan, United States of America.
@@ -218,7 +219,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1932**
   * **Jul/1932** : **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980) and **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993) at Dewsbury, Yorkshire, England.
 * **1933**
-  * **31/Aug/1933** : **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - ) and **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - ) at Glasgow, .
+  * **31/Aug/1933** : **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998) and **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - ) at Glasgow, Scotland, .
   * **29/Dec/1933** : **[James Hanton](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975) and **[Mary Elizabeth Flood](people/@28471390@-mary-elizabeth-flood-b1921-d.md)** (about 1921 - ) at Paisley, Renfrewshire, Scotland.
 * **1934**
   * **9/Feb/1934** : **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966) and **[Jean Grant](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971) at Dornoch, Sutherland, Scotland.

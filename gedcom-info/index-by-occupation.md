@@ -295,10 +295,11 @@ There were 2 people who worked as a Draftsman, Electrical.
 
 ## Driver
 
-There were 9 people who worked as a Driver of some sort.
+There were 10 people who worked as a Driver of some sort.
 
 #### Carter
 
+* **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b-d.md)**.
 * **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
 
 #### Coachman (Domestic Servant)

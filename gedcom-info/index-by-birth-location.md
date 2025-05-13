@@ -10,7 +10,6 @@ permalink: /indexes/by-birth-location
 - **[, Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
-- **[, Mary](people/@59122260@-mary-b-d.md)**
 - **[, Nancy](people/@68661720@-nancy-b-d.md)**
 - **[?, ](people/@94950024@---b-d.md)**
 - **[Abernethy, Janet](people/@82771990@-janet-abernethy-b-d.md)**
@@ -72,7 +71,6 @@ permalink: /indexes/by-birth-location
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
 - **[Gibson, Hugh](people/@22004930@-hugh-gibson-b-d.md)**
 - **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b-d.md)**
-- **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - )
 - **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
 - **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
 - **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901)
@@ -280,6 +278,7 @@ permalink: /indexes/by-birth-location
 - **[Russell, Alexander McGregor](people/@72370350@-alexander-mcgregor-russell-b-d.md)**
 - **[Russell, Martha](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963)
 - **[Sherwood, Clara](people/@79435398@-clara-sherwood-b-d.md)**
+- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b-d.md)**
 - **[Smith, Alice](people/@77089636@-alice-smith-b-d.md)**
 - **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
 - **[Smith, John](people/@64841197@-john-smith-b-d.md)**
@@ -552,6 +551,7 @@ permalink: /indexes/by-birth-location
 ### Glasgow
 
 - **[Crawford, Mary Hendry](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991)
+- **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998)
 - **[Hanton, Andrew Irvine](people/@53392578@-andrew-irvine-hanton-b1913-5-19-d1963-8-9.md)** (19/May/1913 - 9/Aug/1963)
 - **[Hanton, James](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975)
 - **[Hanton, Jane](people/@65592941@-jane-hanton-b1908-d1930-9-3.md)** (about 1908 - 3/Sep/1930)

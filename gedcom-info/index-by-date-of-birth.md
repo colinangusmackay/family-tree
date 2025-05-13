@@ -482,9 +482,9 @@ permalink: /indexes/by-date-of-birth
   * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946)
   * **[Cumming, Donald](people/@64759184@-donald-cumming-b1903-5-4-d.md)** (4/May/1903 - )
 * **Born in 1904.**
-  * **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - )
   * **[Hanton, William](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993)
   * **[Stead, Laura](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
+  * **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998)
   * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 * **Born in 1905.**
   * **[Napier, John](people/@61882948@-john-napier-b1905-d.md)** (about 1905 - )

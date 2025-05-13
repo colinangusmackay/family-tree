@@ -39,7 +39,7 @@ References | 1898 D 051/ 11
 >
 > Name and Maiden Surname of Mother: Christina Macdonald M.S. Ross
 >
-> Cause of Death: _____ as certified by James B. Simpson M.D., Golspie
+> Cause of Death: Phthisis as certified by James B. Simpson M.D., Golspie
 >
 > <br/>
 >
@@ -49,6 +49,12 @@ References | 1898 D 051/ 11
 >
 > Resistrar: And. M. Dixon
 >
+
+## Notes
+
+> "Phthisis" is an old medical term for tuberculosis, particularly pulmonary tuberculosis.
+>
+
 
 ## Source Referenced by
 

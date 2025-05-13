@@ -11,7 +11,6 @@ permalink: /indexes/by-death-location
 - **[, Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
-- **[, Mary](people/@59122260@-mary-b-d.md)**
 - **[, Nancy](people/@68661720@-nancy-b-d.md)**
 - **[?, ](people/@94950024@---b-d.md)**
 - **[Abernethy, Janet](people/@82771990@-janet-abernethy-b-d.md)**
@@ -120,7 +119,6 @@ permalink: /indexes/by-death-location
 - **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939)
 - **[Gibson, Hugh](people/@22004930@-hugh-gibson-b-d.md)**
 - **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b-d.md)**
-- **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - )
 - **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
 - **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - )
 - **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
@@ -417,6 +415,7 @@ permalink: /indexes/by-death-location
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
 - **[Seaton, William](people/@58232144@-william-seaton-b1824-d1891.md)** (about 1824 - after 1891)
 - **[Sherwood, Clara](people/@79435398@-clara-sherwood-b-d.md)**
+- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b-d.md)**
 - **[Smith, Alice](people/@77089636@-alice-smith-b-d.md)**
 - **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
 - **[Smith, Andrew](people/@79740305@-andrew-smith-b1868-d.md)** (about 1868 - )
@@ -559,6 +558,7 @@ permalink: /indexes/by-death-location
 
 - **[Crawford, Mary Hendry](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991)
 - **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
+- **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998)
 - **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
 - **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929)
 

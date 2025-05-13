@@ -351,7 +351,6 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1903.**
   * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946)
 * **Born in 1904.**
-  * **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - )
   * **[Hanton, William](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993)
   * **[Stead, Laura](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
 * **Born in 1905.**
@@ -398,7 +397,6 @@ This is a list of people who have vague or unknown dates of birth.
 
 * [Isabella](people/@41136024@-isabella-b-d1864.md) ( - after 1864)
 * [Joan](people/@53960434@-joan-b-d2021-2-18.md) ( - 18/Feb/2021)
-* [Mary](people/@59122260@-mary-b-d.md)
 * [Nancy](people/@68661720@-nancy-b-d.md)
 * [? ?](people/@94950024@---b-d.md)
 * [Janet Abernethy](people/@82771990@-janet-abernethy-b-d.md)
@@ -530,6 +528,7 @@ This is a list of people who have vague or unknown dates of birth.
 * [Agnes Russell](people/@37924612@-agnes-russell-b-d.md)
 * [Alexander McGregor Russell](people/@72370350@-alexander-mcgregor-russell-b-d.md)
 * [Clara Sherwood](people/@79435398@-clara-sherwood-b-d.md)
+* [Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b-d.md)
 * [Alice Smith](people/@77089636@-alice-smith-b-d.md)
 * [John Smith](people/@64841197@-john-smith-b-d.md)
 * [Ricky Steedman](people/@65047040@-ricky-steedman-b-d2022-6-23.md) ( - 23/Jun/2022)

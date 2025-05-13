@@ -76,6 +76,6 @@ References | 1933 M 644/ 12 289
 
 ## Source Referenced by
 
-* [James Gilchrist](../people/@43287262@-james-gilchrist-b1904-d.md) (about 1904 - )
+* [James Gilchrist](../people/@43287262@-james-gilchrist-b1904-9-9-d1998.md) (9/Sep/1904 - 1998)
 * [Annie Murie Howie](../people/@89893535@-annie-murie-howie-b1912-3-19-d.md) (19/Mar/1912 - )
 * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-d.md) (about 1890 - )

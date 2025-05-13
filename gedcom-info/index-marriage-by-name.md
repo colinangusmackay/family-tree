@@ -130,7 +130,8 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Gilchrist
 
-  * **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - ) and **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - ) **on 31st of August 1933** at Glasgow, .
+  * **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b-d.md)** and **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b-d.md)** **on 16th of August 1901** at Maryhill, Glasgow, Scotland.
+  * **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998) and **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - ) **on 31st of August 1933** at Glasgow, Scotland, .
 
 ## Gillie
 
@@ -193,7 +194,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Howie
 
-  * **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - ) and **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - ) **on 31st of August 1933** at Glasgow, .
+  * **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - ) and **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998) **on 31st of August 1933** at Glasgow, Scotland, .
   * **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - ) and **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ) **on 8th of September 1911** at Cathcart, Glasgow, Scotland.
 
 ## Hunter
@@ -479,6 +480,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Virginia C Simonet](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998) and X **on 15th of November 1939** at Wilton, Fairfield County, Connecticut, United States of America.
   * **[Virginia C Simonet](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998) and **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) **on 30th of September 1972** at Norwalk, Fairfield County, Connecticut, United States of America.
+
+## Sloan
+
+  * **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b-d.md)** and **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b-d.md)** **on 16th of August 1901** at Maryhill, Glasgow, Scotland.
 
 ## Smith
 

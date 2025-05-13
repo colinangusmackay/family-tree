@@ -3,8 +3,8 @@
   "Name": "James Gilchrist",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "about 1904",
-  "DateOfDeath": "",
+  "DateOfBirth": "9/Sep/1904",
+  "DateOfDeath": "1998",
   "Parents": [
     {
       "Id": "i61092708",
@@ -17,7 +17,7 @@
     },
     {
       "Id": "i59122260",
-      "Name": "Mary",
+      "Name": "Mary Bowie Sloan",
       "Gender": "Female",
       "Relationship": "mother",
       "DateOfBirth": "",

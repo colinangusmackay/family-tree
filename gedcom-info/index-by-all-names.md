@@ -19,7 +19,6 @@ permalink: /indexes/by-all-names
 - **[Lula](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970)
 - **[Maggie](people/@57014804@-margaret-mcrae-b-d.md)**
 - **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
-- **[Mary](people/@59122260@-mary-b-d.md)**
 - **[Marybet](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014)
 - **[Mina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
 - **[Nancy](people/@68661720@-nancy-b-d.md)**
@@ -356,11 +355,11 @@ permalink: /indexes/by-all-names
 ## Gilchrist
 
 - **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b-d.md)**
-- **[Gilchrist](people/@59122260@-mary-b-d.md)**
+- **[Gilchrist](people/@59122260@-mary-bowie-sloan-b-d.md)**
 - **[Gilchrist](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
 - **[Isabella Gilchrist](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
 - **[Isobel Gilchrist](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
-- **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-d.md)** (about 1904 - )
+- **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998)
 
 ## Gillie
 
@@ -1170,6 +1169,10 @@ permalink: /indexes/by-all-names
 ## Simonet
 
 - **[Virginia C Simonet](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998)
+
+## Sloan
+
+- **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b-d.md)**
 
 ## Smith
 
