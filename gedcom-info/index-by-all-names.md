@@ -10,6 +10,7 @@ permalink: /indexes/by-all-names
 - **[Donnie](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[Donnie James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[Eileen](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
+- **[Elizabeth](people/@8553973@-elizabeth-b-d.md)**
 - **[Granna](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
 - **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
 - **[Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
@@ -49,6 +50,10 @@ permalink: /indexes/by-all-names
 ## Beaton
 
 - **[Ann Beaton](people/@23061759@-ann-beaton-b-d.md)**
+
+## Beattie
+
+- **[Rachel Beattie](people/@72822722@-rachel-beattie-b-d.md)**
 
 ## Berry
 
@@ -118,6 +123,12 @@ permalink: /indexes/by-all-names
 ## Collins
 
 - **[Helen Collins](people/@79475420@-helen-collins-b-d.md)**
+
+## Cowan
+
+- **[Agnes Cowan](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898)
+- **[Cowan](people/@72822722@-rachel-beattie-b-d.md)**
+- **[James Cowan](people/@66566704@-james-cowan-b-d.md)**
 
 ## Crawford
 
@@ -354,12 +365,14 @@ permalink: /indexes/by-all-names
 
 ## Gilchrist
 
-- **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b-d.md)**
-- **[Gilchrist](people/@59122260@-mary-bowie-sloan-b-d.md)**
+- **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - )
+- **[David Gilchrist](people/@89232476@-david-gilchrist-b-d.md)**
+- **[Gilchrist](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - )
 - **[Gilchrist](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
 - **[Isabella Gilchrist](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
 - **[Isobel Gilchrist](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
 - **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998)
+- **[Janet Gilchrist](people/@22623536@-janet-steel-b-d.md)**
 
 ## Gillie
 
@@ -512,6 +525,10 @@ permalink: /indexes/by-all-names
 
 - **[Ann Johnstone](people/@85807260@-ann-johnson-b-d.md)**
 
+## Kirkland
+
+- **[Margaret Kirkland](people/@48501002@-margaret-kirkland-b-d.md)**
+
 ## LaFavre
 
 - **[Stasia LaFavre](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
@@ -541,10 +558,6 @@ permalink: /indexes/by-all-names
 - **[Adam Lorimer](people/@89082174@-adam-lorimer-b-d1940.md)** ( - before 1940)
 - **[Archibald King Lorimer](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - )
 - **[Lorimer](people/@12092730@-mary-ferguson-b-d1940.md)** ( - after 1940)
-
-## Lowall
-
-- **[Agnes Lowall](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
 
 ## Macauley
 
@@ -1172,22 +1185,26 @@ permalink: /indexes/by-all-names
 
 ## Sloan
 
-- **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b-d.md)**
+- **[James Sloan](people/@16524688@-james-sloan-b-d1901.md)** ( - before 1901)
+- **[Margaret Sloan](people/@48501002@-margaret-kirkland-b-d.md)**
+- **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - )
 
 ## Smith
 
-- **[Agnes Smith](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
-- **[Agness Smith](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
+- **[Agnes Smith](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898)
+- **[Agness Smith](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898)
 - **[Alice Smith](people/@77089636@-alice-smith-b-d.md)**
 - **[Alice Smith](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
 - **[Andrew Smith](people/@79740305@-andrew-smith-b1868-d.md)** (about 1868 - )
 - **[Elizabeth Smith](people/@96054144@-elizabeth-smith-b1861-d.md)** (about 1861 - )
 - **[Jamima Smith](people/@93122532@-jamima-smith-b1866-d.md)** (about 1866 - )
 - **[John Smith](people/@64841197@-john-smith-b-d.md)**
-- **[John Smith](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - )
+- **[John Smith](people/@3582868@-john-smith-b1825-d1898.md)** (about 1825 - before 1898)
 - **[Mary Smith](people/@81238912@-mary-burns-b-d.md)**
 - **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942)
+- **[Smith](people/@8553973@-elizabeth-b-d.md)**
 - **[William Elliot Smith](people/@15044661@-william-elliot-smith-b1857-d.md)** (about 1857 - )
+- **[William Smith](people/@77031673@-william-smith-b-d.md)**
 
 ## Stark
 
@@ -1214,6 +1231,10 @@ permalink: /indexes/by-all-names
 ## Steedman
 
 - **[Ricky Steedman](people/@65047040@-ricky-steedman-b-d2022-6-23.md)** ( - 23/Jun/2022)
+
+## Steel
+
+- **[Janet Steel](people/@22623536@-janet-steel-b-d.md)**
 
 ## Stevens
 

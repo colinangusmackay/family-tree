@@ -39,4 +39,6 @@ References | 1862 B 814/110
 
 ## Source Referenced by
 
+* [Agnes Cowan](../people/@38031148@-agnes-cowan-b1830-d1898-7-4.md) (about 1830 - 4/Jul/1898)
+* [John Smith](../people/@3582868@-john-smith-b1825-d1898.md) (about 1825 - before 1898)
 * [Rachel Smith](../people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) (11/Nov/1862 - 23/Jun/1942)

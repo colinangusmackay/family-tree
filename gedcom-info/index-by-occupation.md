@@ -104,6 +104,10 @@ There were 4 people who worked as a Business Owner of some sort.
 
 * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965).
 
+## Butcher's Assistant
+
+* **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - ).
+
 ## Canvaser
 
 * **[Walker, Ollie E](people/@42365832@-ollie-e-walker-b1872-d.md)** (about 1872 - ).
@@ -179,7 +183,10 @@ There were 3 people who worked as a Child Care Professional of some sort.
 
 ## Clerk
 
+There were 2 people who worked as a Clerk.
+
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
+* **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973).
 
 ## Coal Picker
 
@@ -231,7 +238,7 @@ There were 4 people who worked as a Crofter.
 
 ## Domestic Servant
 
-There were 22 people who worked as a Domestic Servant of some sort.
+There were 23 people who worked as a Domestic Servant of some sort.
 
 * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946).
 * **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - ).
@@ -247,6 +254,7 @@ There were 22 people who worked as a Domestic Servant of some sort.
 * **[O'Donnell, Hannah](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921).
 * **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929).
 * **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ).
+* **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - ).
 
 #### Coachman (Domestic Servant)
 
@@ -295,12 +303,13 @@ There were 2 people who worked as a Draftsman, Electrical.
 
 ## Driver
 
-There were 10 people who worked as a Driver of some sort.
+There were 11 people who worked as a Driver of some sort.
 
 #### Carter
 
-* **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b-d.md)**.
+* **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - ).
 * **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
+* **[Sloan, James](people/@16524688@-james-sloan-b-d1901.md)** ( - before 1901).
 
 #### Coachman (Domestic Servant)
 
@@ -334,6 +343,9 @@ There were 10 people who worked as a Driver of some sort.
 
 ## Electrician
 
+There were 2 people who worked as a Electrician.
+
+* **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965).
 * **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004), mentioned twice.
 
 ## Engineer
@@ -606,12 +618,13 @@ There were 51 people who worked as a Fisher of some sort.
 
 ## Forrester
 
-* **[Smith, John](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - ).
+* **[Smith, John](people/@3582868@-john-smith-b1825-d1898.md)** (about 1825 - before 1898).
 
 ## Gardener
 
-There were 2 people who worked as a Gardener.
+There were 3 people who worked as a Gardener.
 
+* **[Gilchrist, David](people/@89232476@-david-gilchrist-b-d.md)**.
 * **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
 * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974).
 
@@ -661,7 +674,7 @@ There were 7 people who worked as a Health Care Professional of some sort.
 
 #### Nurse
 
-* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 5 times.
+* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 6 times.
 * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981), mentioned twice.
 * **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980), mentioned twice.
 
@@ -910,13 +923,14 @@ There were 3 people who worked as a Mill Worker.
 
 ## Miner
 
-There were 6 people who worked as a Miner of some sort.
+There were 7 people who worked as a Miner of some sort.
 
 #### Coal Miner
 
 * **[Fern, Thomas](people/@34903625@-thomas-fern-b-d.md)**.
 * **[Hawthorn, Thomas](people/@30039040@-thomas-hawthorn-b1888-6-28-d1946.md)** (28/Jun/1888 - before 1946).
 * **[Reid, John](people/@95320597@-john-reid-b-d.md)**.
+* **[Smith, William](people/@77031673@-william-smith-b-d.md)**.
 * **[Tennant, Thomas](people/@12974870@-thomas-tennant-b-d.md)**.
 * **[Tevin, Richard](people/@65007133@-richard-tevin-b1841-d.md)** (about 1841 - ).
 
@@ -943,7 +957,7 @@ There were 2 people who worked as a Motel Co-Owner.
 
 There were 6 people who worked as a Nurse of some sort.
 
-* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 5 times.
+* **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996), mentioned 6 times.
 * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981), mentioned twice.
 * **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980), mentioned twice.
 
@@ -1153,6 +1167,9 @@ There were 5 people who worked as a Secretary.
 
 ## Servant
 
+There were 2 people who worked as a Servant.
+
+* **[Cowan, Agnes](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898).
 * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
 
 ## Sewing Machinist
@@ -1178,6 +1195,14 @@ There were 5 people who worked as a Secretary.
 ## Shorthand Typist
 
 * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973).
+
+## Sign Painter
+
+* **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967).
+
+## Slater
+
+* **[Cowan, James](people/@66566704@-james-cowan-b-d.md)**.
 
 ## Slater and Plasterer
 
@@ -1226,6 +1251,10 @@ There were 2 people who worked as a Stenographer.
 
 * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973), mentioned 4 times.
 * **[Cumming, Wilma May](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009).
+
+## Student
+
+* **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 
 ## Superintendent Public Works
 
@@ -1311,6 +1340,10 @@ There were 5 people who worked as a Threadmill Worker.
 ## Wood Forester
 
 * **[Campbell, William](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918).
+
+## Woodman
+
+* **[Smith, John](people/@3582868@-john-smith-b1825-d1898.md)** (about 1825 - before 1898).
 
 ## Woollen Mill Worker
 

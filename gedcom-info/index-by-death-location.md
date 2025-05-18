@@ -7,6 +7,7 @@ permalink: /indexes/by-death-location
 
 ## _Unknown_
 
+- **[, Elizabeth](people/@8553973@-elizabeth-b-d.md)**
 - **[, Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
 - **[, Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
@@ -18,6 +19,7 @@ permalink: /indexes/by-death-location
 - **[Allford, Susan](people/@24534213@-susan-allford-b1807-d.md)** (about 1807 - )
 - **[Beatie, Margaret](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - )
 - **[Beaton, Ann](people/@23061759@-ann-beaton-b-d.md)**
+- **[Beattie, Rachel](people/@72822722@-rachel-beattie-b-d.md)**
 - **[Berry, Janet](people/@71857147@-janet-berry-b-d.md)**
 - **[Bode, Katherine](people/@8567159@-katherine-bode-b-d1930.md)** ( - before 1930)
 - **[Bolger, Sandra Sarah](people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md)** (30/Aug/1956 - 2023)
@@ -37,6 +39,7 @@ permalink: /indexes/by-death-location
 - **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
 - **[Clark, James](people/@29410614@-james-clark-b-d.md)**
 - **[Collins, Helen](people/@79475420@-helen-collins-b-d.md)**
+- **[Cowan, James](people/@66566704@-james-cowan-b-d.md)**
 - **[Crawford, John](people/@33792128@-john-crawford-b-d1936.md)** ( - before 1936)
 - **[Cumming, Alexander](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
 - **[Cumming, Alexander](people/@7306221@-alexander-cumming-b1865-d.md)** (about 1865 - )
@@ -118,7 +121,8 @@ permalink: /indexes/by-death-location
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
 - **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939)
 - **[Gibson, Hugh](people/@22004930@-hugh-gibson-b-d.md)**
-- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b-d.md)**
+- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - )
+- **[Gilchrist, David](people/@89232476@-david-gilchrist-b-d.md)**
 - **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
 - **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - )
 - **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
@@ -166,6 +170,7 @@ permalink: /indexes/by-death-location
 - **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
 - **[Johnston, Jane](people/@71906070@-jane-johnston-b1859-d1922.md)** (about 1859 - before 1922)
+- **[Kirkland, Margaret](people/@48501002@-margaret-kirkland-b-d.md)**
 - **[LaFavre, Stasia](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
 - **[Lenox, Andrew](people/@61792169@-andrew-lenox-b-d.md)**
 - **[Lenox, Minnie](people/@99536158@-minnie-lenox-b1867-4-15-d.md)** (15/Apr/1867 - )
@@ -173,7 +178,6 @@ permalink: /indexes/by-death-location
 - **[Lindores, William](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - )
 - **[Lorimer, Adam](people/@89082174@-adam-lorimer-b-d1940.md)** ( - before 1940)
 - **[Lorimer, Archibald King](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - )
-- **[Lowall, Agnes](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
 - **[Macauley, Catherine](people/@40946328@-catherine-macauley-b-d1884.md)** ( - before 1884)
 - **[MacDonald, Alexander](people/@47072524@-alexander-macdonald-b-d1875.md)** ( - before 1875)
 - **[MacDonald, Catherine](people/@97950336@-catherine-macdonald-b-d1949.md)** ( - before 1949)
@@ -415,15 +419,17 @@ permalink: /indexes/by-death-location
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
 - **[Seaton, William](people/@58232144@-william-seaton-b1824-d1891.md)** (about 1824 - after 1891)
 - **[Sherwood, Clara](people/@79435398@-clara-sherwood-b-d.md)**
-- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b-d.md)**
+- **[Sloan, James](people/@16524688@-james-sloan-b-d1901.md)** ( - before 1901)
+- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - )
 - **[Smith, Alice](people/@77089636@-alice-smith-b-d.md)**
 - **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
 - **[Smith, Andrew](people/@79740305@-andrew-smith-b1868-d.md)** (about 1868 - )
 - **[Smith, Elizabeth](people/@96054144@-elizabeth-smith-b1861-d.md)** (about 1861 - )
 - **[Smith, Jamima](people/@93122532@-jamima-smith-b1866-d.md)** (about 1866 - )
 - **[Smith, John](people/@64841197@-john-smith-b-d.md)**
-- **[Smith, John](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - )
+- **[Smith, John](people/@3582868@-john-smith-b1825-d1898.md)** (about 1825 - before 1898)
 - **[Smith, William Elliot](people/@15044661@-william-elliot-smith-b1857-d.md)** (about 1857 - )
+- **[Smith, William](people/@77031673@-william-smith-b-d.md)**
 - **[Stead, Albert](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
 - **[Stead, Albert](people/@82189144@-albert-stead-b1934-d1938-8-22.md)** (about 1934 - 22/Aug/1938)
 - **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
@@ -434,6 +440,7 @@ permalink: /indexes/by-death-location
 - **[Stead, Norman](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
 - **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
 - **[Steedman, Ricky](people/@65047040@-ricky-steedman-b-d2022-6-23.md)** ( - 23/Jun/2022)
+- **[Steel, Janet](people/@22623536@-janet-steel-b-d.md)**
 - **[Stewart, Roxannah](people/@56480720@-roxannah-stewart-b-d.md)**
 - **[Sunderland, Thomas](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - )
 - **[Sutherland, Andrew](people/@91612548@-andrew-sutherland-b-d1900.md)** ( - after 1900)
@@ -529,6 +536,12 @@ permalink: /indexes/by-death-location
 #### Castlemilk, St Mungo
 
 - **[Smith, Rachel](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942)
+
+### Dumfriesshire
+
+#### Canon
+
+- **[Cowan, Agnes](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898)
 
 ### Edinburgh
 

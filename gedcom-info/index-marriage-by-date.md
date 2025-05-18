@@ -56,7 +56,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **25/Jan/1858** : **[David Napier](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901) and **[Agnes Nicholson](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - ) at Dysart, Fife, Scotland.
 * **1859**
   * **15/Feb/1859** : **[Hugh Grant](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - ) and **[Jessie Munro](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ) at Golspie, Sutherland, Scotland.
-  * **28/Dec/1859** : **[John Smith](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - ) and **[Agnes Lowall](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - ).
+  * **28/Dec/1859** : **[John Smith](people/@3582868@-john-smith-b1825-d1898.md)** (about 1825 - before 1898) and **[Agnes Cowan](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898).
 
 ### 1860s
 
@@ -152,7 +152,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1901**
   * **22/Jan/1901** : **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ).
   * **7/Aug/1901** : **[James Hanton](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922) and **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949) at Paisley, Renfrewshire, Scotland.
-  * **16/Aug/1901** : **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b-d.md)** and **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b-d.md)** at Maryhill, Glasgow, Scotland.
+  * **16/Aug/1901** : **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - ) and **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - ) at Maryhill, Glasgow, Scotland.
   * **31/Dec/1901** : **[John Fleming](people/@49475976@-john-fleming-b1877-3-11-d1961.md)** (11/Mar/1877 - before 1961) and **[Agnes Rennie](people/@57426108@-agnes-rennie-b1878-d1961-2-7.md)** (1878 - 7/Feb/1961) at Blackburn, West Lothian, Scotland.
 * **1903**
   * **11/Nov/1903** : **[Donald Ross](people/@4496220@-donald-ross-b1872-8-30-d.md)** (30/Aug/1872 - ) and **[Ollie E Walker](people/@42365832@-ollie-e-walker-b1872-d.md)** (about 1872 - ) at Boyne City, Charlevoix County, Michigan, United States of America.

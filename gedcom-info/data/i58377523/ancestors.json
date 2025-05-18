@@ -11,18 +11,56 @@
       "Name": "John Smith",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "about 1822",
-      "DateOfDeath": "",
-      "Parents": []
+      "DateOfBirth": "about 1825",
+      "DateOfDeath": "before 1898",
+      "Parents": [
+        {
+          "Id": "i8553973",
+          "Name": "Elizabeth",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i77031673",
+          "Name": "William Smith",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
     },
     {
       "Id": "i38031148",
-      "Name": "Agnes Lowall",
+      "Name": "Agnes Cowan",
       "Gender": "Female",
       "Relationship": "mother",
       "DateOfBirth": "about 1830",
-      "DateOfDeath": "",
-      "Parents": []
+      "DateOfDeath": "4/Jul/1898",
+      "Parents": [
+        {
+          "Id": "i66566704",
+          "Name": "James Cowan",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i72822722",
+          "Name": "Rachel Beattie",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
     }
   ]
 }

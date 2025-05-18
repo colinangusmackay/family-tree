@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i77031673",
+    "Name": "William Smith",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i77031673",
+      "Name": "William Smith",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i8553973",
+      "Name": "Elizabeth",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i3582868",
+      "Name": "John Smith",
+      "Gender": "Male",
+      "DateOfBirth": "about 1825",
+      "DateOfDeath": "before 1898",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i77031673",
+        "i8553973"
+      ]
+    }
+  ]
+}

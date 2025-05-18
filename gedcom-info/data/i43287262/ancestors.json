@@ -11,18 +11,56 @@
       "Name": "Alexander Gilchrist",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1877",
       "DateOfDeath": "",
-      "Parents": []
+      "Parents": [
+        {
+          "Id": "i89232476",
+          "Name": "David Gilchrist",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i22623536",
+          "Name": "Janet Steel",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
     },
     {
       "Id": "i59122260",
       "Name": "Mary Bowie Sloan",
       "Gender": "Female",
       "Relationship": "mother",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1879",
       "DateOfDeath": "",
-      "Parents": []
+      "Parents": [
+        {
+          "Id": "i16524688",
+          "Name": "James Sloan",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1901",
+          "Parents": []
+        },
+        {
+          "Id": "i48501002",
+          "Name": "Margaret Kirkland",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
     }
   ]
 }

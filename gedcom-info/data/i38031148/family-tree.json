@@ -1,21 +1,43 @@
 ﻿{
   "Subject": {
     "Id": "i38031148",
-    "Name": "Agnes Lowall",
+    "Name": "Agnes Cowan",
     "Gender": "Female",
     "DateOfBirth": "about 1830",
-    "DateOfDeath": ""
+    "DateOfDeath": "4/Jul/1898"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i66566704",
+      "Name": "James Cowan",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i72822722",
+      "Name": "Rachel Beattie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i38031148",
-      "Name": "Agnes Lowall",
+      "Name": "Agnes Cowan",
       "Gender": "Female",
       "DateOfBirth": "about 1830",
-      "DateOfDeath": "",
+      "DateOfDeath": "4/Jul/1898",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i66566704",
+          "i72822722"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,14 +45,26 @@
       "Id": "i3582868",
       "Name": "John Smith",
       "Gender": "Male",
-      "DateOfBirth": "about 1822",
-      "DateOfDeath": "",
+      "DateOfBirth": "about 1825",
+      "DateOfDeath": "before 1898",
       "RelationToSubject": "husband",
       "DateOfMarriage": "28/Dec/1859",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
+    {
+      "Id": "i59273016",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i3582868",
+        "i38031148"
+      ]
+    },
     {
       "Id": "i15044661",
       "Name": "William Elliot Smith",

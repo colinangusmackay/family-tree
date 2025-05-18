@@ -1,9 +1,28 @@
 ﻿{
   "Id": "i38031148",
-  "Name": "Agnes Lowall",
+  "Name": "Agnes Cowan",
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "about 1830",
-  "DateOfDeath": "",
-  "Parents": []
+  "DateOfDeath": "4/Jul/1898",
+  "Parents": [
+    {
+      "Id": "i66566704",
+      "Name": "James Cowan",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i72822722",
+      "Name": "Rachel Beattie",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

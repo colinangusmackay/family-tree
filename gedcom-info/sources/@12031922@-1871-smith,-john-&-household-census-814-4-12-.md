@@ -143,10 +143,10 @@ References | 1871 C 814/ 4/ 15
 
 ## Source Referenced by
 
-* [Agnes Lowall](../people/@38031148@-agnes-lowall-b1830-d.md) (about 1830 - )
+* [Agnes Cowan](../people/@38031148@-agnes-cowan-b1830-d1898-7-4.md) (about 1830 - 4/Jul/1898)
 * [Andrew Smith](../people/@79740305@-andrew-smith-b1868-d.md) (about 1868 - )
 * [Elizabeth Smith](../people/@96054144@-elizabeth-smith-b1861-d.md) (about 1861 - )
 * [Jamima Smith](../people/@93122532@-jamima-smith-b1866-d.md) (about 1866 - )
-* [John Smith](../people/@3582868@-john-smith-b1822-d.md) (about 1822 - )
+* [John Smith](../people/@3582868@-john-smith-b1825-d1898.md) (about 1825 - before 1898)
 * [Rachel Smith](../people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) (11/Nov/1862 - 23/Jun/1942)
 * [William Elliot Smith](../people/@15044661@-william-elliot-smith-b1857-d.md) (about 1857 - )

@@ -37,6 +37,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - ) and **[James Cumming](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918) **on 24th of December 1907** at Aberdeen, Aberdeenshire, Scotland.
   * **[James Clark](people/@29410614@-james-clark-b-d.md)** and **[Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)** **on 1st of December 1876**.
 
+## Cowan
+
+  * **[Agnes Cowan](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898) and **[John Smith](people/@3582868@-john-smith-b1825-d1898.md)** (about 1825 - before 1898) **on 28th of December 1859**.
+
 ## Crawford
 
   * **[John Crawford](people/@33792128@-john-crawford-b-d1936.md)** ( - before 1936) and **[Agnes Gibb Hendry](people/@79368912@-agnes-gibb-hendry-b-d1936.md)** ( - after 1936) **on 26th of September 1904** at Falkirk, Scotland.
@@ -130,7 +134,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Gilchrist
 
-  * **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b-d.md)** and **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b-d.md)** **on 16th of August 1901** at Maryhill, Glasgow, Scotland.
+  * **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - ) and **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - ) **on 16th of August 1901** at Maryhill, Glasgow, Scotland.
   * **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998) and **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - ) **on 31st of August 1933** at Glasgow, Scotland, .
 
 ## Gillie
@@ -208,10 +212,6 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Lorimer
 
   * **[Archibald King Lorimer](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - ) and **[Mary Hanton](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989) **on 13th of November 1940** at Paisley, Renfrewshire, Scotland.
-
-## Lowall
-
-  * **[Agnes Lowall](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - ) and **[John Smith](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - ) **on 28th of December 1859**.
 
 ## MacDonald
 
@@ -483,12 +483,12 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Sloan
 
-  * **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b-d.md)** and **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b-d.md)** **on 16th of August 1901** at Maryhill, Glasgow, Scotland.
+  * **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - ) and **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - ) **on 16th of August 1901** at Maryhill, Glasgow, Scotland.
 
 ## Smith
 
   * **[Alice Smith](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - ) and **[Thomas Hawthorn](people/@30039040@-thomas-hawthorn-b1888-6-28-d1946.md)** (28/Jun/1888 - before 1946) **on 6th of May 1921**.
-  * **[John Smith](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - ) and **[Agnes Lowall](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - ) **on 28th of December 1859**.
+  * **[John Smith](people/@3582868@-john-smith-b1825-d1898.md)** (about 1825 - before 1898) and **[Agnes Cowan](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898) **on 28th of December 1859**.
   * **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942) and **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918) **on 12th of March 1887** at Canonbie, Dumfriesshire, Scotland.
 
 ## Stead

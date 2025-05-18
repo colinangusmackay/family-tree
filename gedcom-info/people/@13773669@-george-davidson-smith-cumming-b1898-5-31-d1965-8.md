@@ -50,28 +50,30 @@ Date | Residence | Sources & Notes
 20/May/1920 | 25 Steven Street, St George's Cross, Glasgow, Scotland | [25](#25)
 after 20/Aug/1920 | 16 Beethoven St. Roxbury, Boston, Massachusetts, USA | [11](#11)
 1922 | 152 Pearl Street, Cambridge, Mass. USA | [25](#25)
-1930 | 80 Summit Avenue, Brookline, Massachusetts, USA | [26](#26)
-1935 | 80 Summit Ave, Brookline, Massachusetts, USA | [27](#27)
+1929 | 80 Summit Avenue, Brookline, Massachusetts, USA | [26](#26)
+1930 | 80 Summit Avenue, Brookline, Massachusetts, USA | [27](#27)
+1935 | 80 Summit Ave, Brookline, Massachusetts, USA | [28](#28)
 1936 | 80 Summit Avenue, Brookline, Massachusetts, USA | [13](#13)
 1939 | 80 Summit Avenue, Brookline, Massachusetts, USA | 
-1940 | 80 Summit Ave, Brookline, Massachusetts, USA | [27](#27)
+1940 | 80 Summit Ave, Brookline, Massachusetts, USA | [28](#28)
 1942 | 80 Summit Avenue, Brookline, Norfolk, Massachusetts, USA | [2](#2)
-1950 | 701 Silver Beach Road, Lake Park, Florida, USA | [28](#28)
-1953 | 701 Silver Beach Road, Lake Park, Florida, USA | [29](#29)
-1958 | 701 Silver Beach Road, Lake Park, Florida, USA | [30](#30)
+1950 | 701 Silver Beach Road, Lake Park, Florida, USA | [29](#29)
+1953 | 701 Silver Beach Road, Lake Park, Florida, USA | [30](#30)
+1958 | 701 Silver Beach Road, Lake Park, Florida, USA | [31](#31)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1930 | Machinist | [26](#26)
+1929 | Electrician | [26](#26)
+1930 | Machinist | [27](#27)
 1936 | Machinist | [13](#13)
-1937 | Machinist | [31](#31)
+1937 | Machinist | [32](#32)
 1939 | Machinist | [14](#14)
 1943 | Machinist | [17](#17)
-1949 | Real Estate Business | [32](#32)
-1953 | Superintendent Public Works | [29](#29)
-1958 | Superintendent Public Works | [30](#30)
+1949 | Real Estate Business | [33](#33)
+1953 | Superintendent Public Works | [30](#30)
+1958 | Superintendent Public Works | [31](#31)
 
 ## Notes
 
@@ -303,19 +305,27 @@ Date | Occupation | Sources & Notes
 
 ### 26
 
+**1929 Brookline, Massachusetts, City Directory**
+
+* [Full text and notes](../sources/@87390960@-1929-brookline,-massachusetts,-city-directory.md)
+* Publication: W.A. GREENOUGH CO.'S 1929 BROOKLINE DIRECTORY
+* Date: 1929
+
+### 27
+
 **1930 CUMMING, GEORGE / ALEXINA / THOMASINA / CHRISTINE - 1930 United States Federal Census**
 
 * [Full text and notes](../sources/@12992908@-1930-cumming,-george-alexina-thomasina-christine-1930-united-states-federal-census.md)
 * Originator / Author: Department of Commerce - Bureau of the Census
 * Date: 7/Apr/1930
 
-### 27
+### 28
 
 **1940 CUMMING, ALEXINA, GEORGE, THOMASINA, & CHRISTINE - 1940 United States Federal Census**
 
 * [Full text and notes](../sources/@80891523@-1940-cumming,-alexina,-george,-thomasina,-&-christine-1940-united-states-federal-census.md)
 
-### 28
+### 29
 
 **1950 CUMMING, GEORGE DS & MARGARET HOGG (1950 Census)**
 
@@ -324,27 +334,27 @@ Date | Occupation | Sources & Notes
 * Date: 7/Apr/1950
 * Responsible Agency: U.S. Department of Commerce, Bureau of the Census
 
-### 29
+### 30
 
 **1953 CUMMING, GEORGE D.S (West Palm Beach, Florida, City Directory, 1953)**
 
 * [Full text and notes](../sources/@64786767@-1953-cumming,-george-d.s-west-palm-beach,-florida,-city-directory,-1953-.md)
 * Date: 1953
 
-### 30
+### 31
 
 **1958 MONSON, WILMA MAY CUMMING (Petition for Naturalization - Palm Beach, FL)**
 
 * [Full text and notes](../sources/@56630136@-1958-monson,-wilma-may-cumming-petition-for-naturalization-palm-beach,-fl-.md)
 
-### 31
+### 32
 
 **1937 CUMMING, GEORGE DAVIDSON SMITH**
 
 * [Full text and notes](../sources/@63974962@-1937-cumming,-george-davidson-smith.md)
 * Date: 16/Jul/1937
 
-### 32
+### 33
 
 **1949 Sunday Post - 150 Young Men Went out to Seek Their Fortune (15/May/1949)**
 

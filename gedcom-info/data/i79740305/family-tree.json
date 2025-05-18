@@ -11,20 +11,34 @@
       "Id": "i3582868",
       "Name": "John Smith",
       "Gender": "Male",
-      "DateOfBirth": "about 1822",
-      "DateOfDeath": "",
+      "DateOfBirth": "about 1825",
+      "DateOfDeath": "before 1898",
       "RelationToSubject": "father"
     },
     {
       "Id": "i38031148",
-      "Name": "Agnes Lowall",
+      "Name": "Agnes Cowan",
       "Gender": "Female",
       "DateOfBirth": "about 1830",
-      "DateOfDeath": "",
+      "DateOfDeath": "4/Jul/1898",
       "RelationToSubject": "mother"
     }
   ],
   "Siblings": [
+    {
+      "Id": "i59273016",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i3582868",
+          "i38031148"
+        ]
+      ]
+    },
     {
       "Id": "i15044661",
       "Name": "William Elliot Smith",

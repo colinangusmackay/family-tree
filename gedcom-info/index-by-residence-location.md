@@ -80,13 +80,17 @@ permalink: /indexes/by-residence-location
 
 #### Canonbie
 
-- **[Lowall, Agnes](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
+- **[Cowan, Agnes](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898)
 - **[Smith, Elizabeth](people/@96054144@-elizabeth-smith-b1861-d.md)** (about 1861 - )
 - **[Smith, Jamima](people/@93122532@-jamima-smith-b1866-d.md)** (about 1866 - )
-- **[Smith, John](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - )
+- **[Smith, John](people/@3582868@-john-smith-b1825-d1898.md)** (about 1825 - before 1898)
 - **[Smith, Rachel](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942)
 
 ### Dumfriesshire
+
+#### Canonbie
+
+- **[Smith, John](people/@3582868@-john-smith-b1825-d1898.md)** (about 1825 - before 1898)
 
 #### Johnstone
 
@@ -212,6 +216,7 @@ permalink: /indexes/by-residence-location
 - **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
 - **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
 - **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - )
+- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - )
 - **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - )
 - **[Lorimer, Archibald King](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - )
 - **[Mackay, Donald James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
@@ -244,6 +249,10 @@ permalink: /indexes/by-residence-location
 - **[Paton, John](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - )
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
 - **[Thomson, Agnes Watson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
+
+#### Maryhill
+
+- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - )
 
 ### Highland
 
@@ -666,9 +675,13 @@ permalink: /indexes/by-residence-location
 #### Boston
 
 - **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
+- **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
+- **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976)
 - **[Cumming, Elizabeth](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - )
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
+- **[Cumming, Isabelle Anne](people/@44164031@-isabelle-anne-cumming-b1923-7-29-d.md)** (29/Jul/1923 - )
 - **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918)
+- **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
 - **[Cumming, Jessie Ann](people/@65743680@-jessie-ann-cumming-b1920-6-16-d1921-3-26.md)** (16/Jun/1920 - 26/Mar/1921)
 - **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
 - **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977)

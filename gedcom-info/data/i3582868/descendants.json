@@ -3,9 +3,18 @@
   "Name": "John Smith",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "about 1822",
-  "DateOfDeath": "",
+  "DateOfBirth": "about 1825",
+  "DateOfDeath": "before 1898",
   "Children": [
+    {
+      "Id": "i59273016",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i15044661",
       "Name": "William Elliot Smith",

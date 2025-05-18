@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i48501002",
+    "Name": "Margaret Kirkland",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i48501002",
+      "Name": "Margaret Kirkland",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i16524688",
+      "Name": "James Sloan",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1901",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i59122260",
+      "Name": "Mary Bowie Sloan",
+      "Gender": "Female",
+      "DateOfBirth": "about 1879",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i16524688",
+        "i48501002"
+      ]
+    }
+  ]
+}

@@ -43,5 +43,5 @@ References | 1904 B 560/ 542
 
 ## Source Referenced by
 
-* [Alexander Gilchrist](../people/@61092708@-alexander-gilchrist-b-d.md)
+* [Alexander Gilchrist](../people/@61092708@-alexander-gilchrist-b1877-d.md) (about 1877 - )
 * [James Gilchrist](../people/@43287262@-james-gilchrist-b1904-9-9-d1998.md) (9/Sep/1904 - 1998)

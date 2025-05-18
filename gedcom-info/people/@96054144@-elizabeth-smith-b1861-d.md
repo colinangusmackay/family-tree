@@ -9,8 +9,9 @@ permalink: /people/i96054144
 
 ## Immediate Family
 
-* Father: [John Smith](./@3582868@-john-smith-b1822-d.md) (about 1822 - )
-* Mother: [Agnes Lowall](./@38031148@-agnes-lowall-b1830-d.md) (about 1830 - )
+* Brother: X
+* Father: [John Smith](./@3582868@-john-smith-b1825-d1898.md) (about 1825 - before 1898)
+* Mother: [Agnes Cowan](./@38031148@-agnes-cowan-b1830-d1898-7-4.md) (about 1830 - 4/Jul/1898)
 * Brother: [William Elliot Smith](./@15044661@-william-elliot-smith-b1857-d.md) (about 1857 - )
 * Sister: [Rachel Smith](./@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) (11/Nov/1862 - 23/Jun/1942)
 * Sister: [Jamima Smith](./@93122532@-jamima-smith-b1866-d.md) (about 1866 - )
@@ -20,7 +21,7 @@ permalink: /people/i96054144
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1861 | Born | Born to [John Smith](./@3582868@-john-smith-b1822-d.md) and [Agnes Lowall](./@38031148@-agnes-lowall-b1830-d.md) in Canonbie, Dumfries and Galloway, Scotland, . | [1](#1) | 
+about 1861 | Born | Born to [John Smith](./@3582868@-john-smith-b1825-d1898.md) and [Agnes Cowan](./@38031148@-agnes-cowan-b1830-d1898-7-4.md) in Canonbie, Dumfries and Galloway, Scotland, . | [1](#1) | 
 
 ## Known Residences
 

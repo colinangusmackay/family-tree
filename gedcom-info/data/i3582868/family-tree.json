@@ -3,34 +3,68 @@
     "Id": "i3582868",
     "Name": "John Smith",
     "Gender": "Male",
-    "DateOfBirth": "about 1822",
-    "DateOfDeath": ""
+    "DateOfBirth": "about 1825",
+    "DateOfDeath": "before 1898"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i77031673",
+      "Name": "William Smith",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i8553973",
+      "Name": "Elizabeth",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i3582868",
       "Name": "John Smith",
       "Gender": "Male",
-      "DateOfBirth": "about 1822",
-      "DateOfDeath": "",
+      "DateOfBirth": "about 1825",
+      "DateOfDeath": "before 1898",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i77031673",
+          "i8553973"
+        ]
+      ]
     }
   ],
   "Spouses": [
     {
       "Id": "i38031148",
-      "Name": "Agnes Lowall",
+      "Name": "Agnes Cowan",
       "Gender": "Female",
       "DateOfBirth": "about 1830",
-      "DateOfDeath": "",
+      "DateOfDeath": "4/Jul/1898",
       "RelationToSubject": "wife",
       "DateOfMarriage": "28/Dec/1859",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
+    {
+      "Id": "i59273016",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i3582868",
+        "i38031148"
+      ]
+    },
     {
       "Id": "i15044661",
       "Name": "William Elliot Smith",

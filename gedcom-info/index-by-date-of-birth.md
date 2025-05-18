@@ -85,13 +85,13 @@ permalink: /indexes/by-date-of-birth
   * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
   * **[Nicholson, Margaret](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - )
   * **[Mackay, Marion](people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md)** (30/Jun/1821 - 30/Dec/1909)
-* **Born in 1822.**
-  * **[Smith, John](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - )
 * **Born in 1823.**
   * **[Mackenzie, Barbara](people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md)** (about 1823 - 27/Apr/1884)
   * **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906)
 * **Born in 1824.**
   * **[Seaton, William](people/@58232144@-william-seaton-b1824-d1891.md)** (about 1824 - after 1891)
+* **Born in 1825.**
+  * **[Smith, John](people/@3582868@-john-smith-b1825-d1898.md)** (about 1825 - before 1898)
 * **Born in 1827.**
   * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - )
   * **[Wood, Margaret](people/@50500805@-margaret-wood-b1827-d1871.md)** (about 1827 - before 1871)
@@ -101,7 +101,7 @@ permalink: /indexes/by-date-of-birth
 ### 1830s
 
 * **Born in 1830.**
-  * **[Lowall, Agnes](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
+  * **[Cowan, Agnes](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898)
 * **Born in 1833.**
   * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
   * **[McKay, Susan](people/@29671874@-susan-mckay-b1833-4-d1886.md)** (Apr/1833 - before 1886)
@@ -322,6 +322,7 @@ permalink: /indexes/by-date-of-birth
   * **[Wilson, Henry](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - )
   * **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939)
 * **Born in 1877.**
+  * **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - )
   * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
   * **[Hawthorn, James](people/@21482384@-james-hawthorn-b1877-d.md)** (about 1877 - )
   * **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - )
@@ -338,6 +339,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1879.**
   * **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - )
   * **[McKechnie, Janet](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949)
+  * **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - )
   * **[Fleming, Margaret Wood](people/@90221940@-margaret-wood-fleming-b1879-3-25-d.md)** (25/Mar/1879 - )
   * **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
 

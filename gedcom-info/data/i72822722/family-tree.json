@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i72822722",
+    "Name": "Rachel Beattie",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i72822722",
+      "Name": "Rachel Beattie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i66566704",
+      "Name": "James Cowan",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i38031148",
+      "Name": "Agnes Cowan",
+      "Gender": "Female",
+      "DateOfBirth": "about 1830",
+      "DateOfDeath": "4/Jul/1898",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i66566704",
+        "i72822722"
+      ]
+    }
+  ]
+}

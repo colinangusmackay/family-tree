@@ -3,7 +3,26 @@
   "Name": "Mary Bowie Sloan",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1879",
   "DateOfDeath": "",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i16524688",
+      "Name": "James Sloan",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1901",
+      "Parents": []
+    },
+    {
+      "Id": "i48501002",
+      "Name": "Margaret Kirkland",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

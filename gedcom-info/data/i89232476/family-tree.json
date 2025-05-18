@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i89232476",
+    "Name": "David Gilchrist",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i89232476",
+      "Name": "David Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i22623536",
+      "Name": "Janet Steel",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i61092708",
+      "Name": "Alexander Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i89232476",
+        "i22623536"
+      ]
+    }
+  ]
+}

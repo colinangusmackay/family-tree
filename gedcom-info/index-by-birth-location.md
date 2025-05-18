@@ -7,6 +7,7 @@ permalink: /indexes/by-birth-location
 
 ## _Unknown_
 
+- **[, Elizabeth](people/@8553973@-elizabeth-b-d.md)**
 - **[, Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
@@ -15,6 +16,7 @@ permalink: /indexes/by-birth-location
 - **[Abernethy, Janet](people/@82771990@-janet-abernethy-b-d.md)**
 - **[Alexander, Elizabeth](people/@86375908@-elizabeth-alexander-b-d1911.md)** ( - before 1911)
 - **[Beaton, Ann](people/@23061759@-ann-beaton-b-d.md)**
+- **[Beattie, Rachel](people/@72822722@-rachel-beattie-b-d.md)**
 - **[Berry, Janet](people/@71857147@-janet-berry-b-d.md)**
 - **[Bode, Katherine](people/@8567159@-katherine-bode-b-d1930.md)** ( - before 1930)
 - **[Bolger, Sandra Sarah](people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md)** (30/Aug/1956 - 2023)
@@ -31,6 +33,7 @@ permalink: /indexes/by-birth-location
 - **[Chisholm, Anne](people/@48064613@-anne-chisholm-b-d1877.md)** ( - before 1877)
 - **[Clark, James](people/@29410614@-james-clark-b-d.md)**
 - **[Collins, Helen](people/@79475420@-helen-collins-b-d.md)**
+- **[Cowan, James](people/@66566704@-james-cowan-b-d.md)**
 - **[Crawford, John](people/@33792128@-john-crawford-b-d1936.md)** ( - before 1936)
 - **[Cumming, Alexander](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
 - **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
@@ -42,7 +45,6 @@ permalink: /indexes/by-birth-location
 - **[Cumming, Donald](people/@69575920@-donald-cumming-b-d1875.md)** ( - after 1875)
 - **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
 - **[Cumming, Elizabeth](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - )
-- **[Cumming, Jessie Ann](people/@65743680@-jessie-ann-cumming-b1920-6-16-d1921-3-26.md)** (16/Jun/1920 - 26/Mar/1921)
 - **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
 - **[Cumming, William](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
 - **[Cumming, William Mackay](people/@99807914@-william-mackay-cumming-b1933-d2015.md)** (1933 - 2015)
@@ -70,7 +72,8 @@ permalink: /indexes/by-birth-location
 - **[Fraser, Thomas](people/@65905028@-thomas-fraser-b1769-d.md)** (before 1769 - )
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
 - **[Gibson, Hugh](people/@22004930@-hugh-gibson-b-d.md)**
-- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b-d.md)**
+- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - )
+- **[Gilchrist, David](people/@89232476@-david-gilchrist-b-d.md)**
 - **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
 - **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
 - **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901)
@@ -110,6 +113,7 @@ permalink: /indexes/by-birth-location
 - **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
 - **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
+- **[Kirkland, Margaret](people/@48501002@-margaret-kirkland-b-d.md)**
 - **[LaFavre, Stasia](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
 - **[Lenox, Andrew](people/@61792169@-andrew-lenox-b-d.md)**
 - **[Lenox, Minnie](people/@99536158@-minnie-lenox-b1867-4-15-d.md)** (15/Apr/1867 - )
@@ -278,14 +282,17 @@ permalink: /indexes/by-birth-location
 - **[Russell, Alexander McGregor](people/@72370350@-alexander-mcgregor-russell-b-d.md)**
 - **[Russell, Martha](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963)
 - **[Sherwood, Clara](people/@79435398@-clara-sherwood-b-d.md)**
-- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b-d.md)**
+- **[Sloan, James](people/@16524688@-james-sloan-b-d1901.md)** ( - before 1901)
+- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - )
 - **[Smith, Alice](people/@77089636@-alice-smith-b-d.md)**
 - **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
 - **[Smith, John](people/@64841197@-john-smith-b-d.md)**
+- **[Smith, William](people/@77031673@-william-smith-b-d.md)**
 - **[Stead, Albert](people/@82189144@-albert-stead-b1934-d1938-8-22.md)** (about 1934 - 22/Aug/1938)
 - **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
 - **[Stead, Lawrence](people/@18256653@-lawrence-stead-b1933-11-29-d1989-3.md)** (29/Nov/1933 - Mar/1989)
 - **[Steedman, Ricky](people/@65047040@-ricky-steedman-b-d2022-6-23.md)** ( - 23/Jun/2022)
+- **[Steel, Janet](people/@22623536@-janet-steel-b-d.md)**
 - **[Stevens, Thomas](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 - **[Stewart, Roxannah](people/@56480720@-roxannah-stewart-b-d.md)**
 - **[Sunderland, Thomas](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - )
@@ -427,11 +434,11 @@ permalink: /indexes/by-birth-location
 
 #### Canonbie
 
-- **[Lowall, Agnes](people/@38031148@-agnes-lowall-b1830-d.md)** (about 1830 - )
+- **[Cowan, Agnes](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898)
 - **[Smith, Andrew](people/@79740305@-andrew-smith-b1868-d.md)** (about 1868 - )
 - **[Smith, Elizabeth](people/@96054144@-elizabeth-smith-b1861-d.md)** (about 1861 - )
 - **[Smith, Jamima](people/@93122532@-jamima-smith-b1866-d.md)** (about 1866 - )
-- **[Smith, John](people/@3582868@-john-smith-b1822-d.md)** (about 1822 - )
+- **[Smith, John](people/@3582868@-john-smith-b1825-d1898.md)** (about 1825 - before 1898)
 - **[Smith, William Elliot](people/@15044661@-william-elliot-smith-b1857-d.md)** (about 1857 - )
 
 ### Dumfriesshire
@@ -739,6 +746,7 @@ permalink: /indexes/by-birth-location
 - **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918)
 - **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 - **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
+- **[Cumming, Jessie Ann](people/@65743680@-jessie-ann-cumming-b1920-6-16-d1921-3-26.md)** (16/Jun/1920 - 26/Mar/1921)
 - **[Cumming, John](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - )
 - **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
 - **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)

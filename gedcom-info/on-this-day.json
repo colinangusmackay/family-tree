@@ -1505,7 +1505,7 @@
             },
             {
               "Date": "1920-06-16",
-              "Description": "[Jessie Ann Cumming](/family-tree/people/i65743680) was born on 16th of June 1920 to [Donald Cumming](/family-tree/people/i11846578) and [Jessie Ann Cumming](/family-tree/people/i66222886)."
+              "Description": "[Jessie Ann Cumming](/family-tree/people/i65743680) was born on 16th of June 1920 to [Donald Cumming](/family-tree/people/i11846578) and [Jessie Ann Cumming](/family-tree/people/i66222886) in Embo, Sutherland, Scotland."
             },
             {
               "Date": "1897-06-16",
@@ -1696,7 +1696,12 @@
         },
         {
           "Day": 4,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1898-07-04",
+              "Description": "[Agnes Cowan](/family-tree/people/i38031148) died on 4th of July 1898 at Burnside, Canonbie, Dumfriessshire, Scotland."
+            }
+          ]
         },
         {
           "Day": 5,
@@ -2844,7 +2849,7 @@
             },
             {
               "Date": "1862-11-11",
-              "Description": "[Rachel Smith](/family-tree/people/i58377523) was born on 11th of November 1862 to [John Smith](/family-tree/people/i3582868) and [Agnes Lowall](/family-tree/people/i38031148) in Canonbie, Dumfriesshire, Scotland."
+              "Description": "[Rachel Smith](/family-tree/people/i58377523) was born on 11th of November 1862 to [John Smith](/family-tree/people/i3582868) and [Agnes Cowan](/family-tree/people/i38031148) in Canonbie, Dumfriesshire, Scotland."
             }
           ]
         },
@@ -3303,6 +3308,14 @@
             {
               "Date": "1939-12-28",
               "Description": "[Thomas O'Malley](/family-tree/people/i12568152) got married to [Margaret McLeod Paton](/family-tree/people/i56209708) on 28th of December 1939 in Glasgow, Scotland."
+            },
+            {
+              "Date": "1859-12-28",
+              "Description": "[John Smith](/family-tree/people/i3582868) got married to [Agnes Cowan](/family-tree/people/i38031148) on 28th of December 1859."
+            },
+            {
+              "Date": "1859-12-28",
+              "Description": "[Agnes Cowan](/family-tree/people/i38031148) got married to [John Smith](/family-tree/people/i3582868) on 28th of December 1859."
             },
             {
               "Date": "1939-12-28",
