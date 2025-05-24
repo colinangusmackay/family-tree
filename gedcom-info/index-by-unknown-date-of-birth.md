@@ -88,6 +88,8 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Seaton, William](people/@58232144@-william-seaton-b1824-d1891.md)** (about 1824 - after 1891)
 * **Born in 1825.**
   * **[Smith, John](people/@3582868@-john-smith-b1825-d1898.md)** (about 1825 - before 1898)
+* **Born in 1826.**
+  * **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875)
 * **Born in 1827.**
   * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - )
   * **[Wood, Margaret](people/@50500805@-margaret-wood-b1827-d1871.md)** (about 1827 - before 1871)
@@ -166,6 +168,7 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1853.**
   * **[Paterson, Ann](people/@11400006@-ann-paterson-b1853-d.md)** (about 1853 - )
   * **[Ross, Marion](people/@39612984@-marion-ross-b1853-d.md)** (about 1853 - )
+  * **[Ross, Patrick](people/@62001920@-patrick-ross-b1853-d.md)** (about 1853 - )
 * **Born in 1854.**
   * **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
   * **[Fleming, James](people/@45874990@-james-fleming-b1854-d.md)** (about 1854 - )
@@ -176,6 +179,7 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Mackay, Betsy](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - )
   * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
   * **[Paterson, John](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - )
+  * **[Ross, William](people/@91623667@-william-ross-b1855-d.md)** (about 1855 - )
 * **Born in 1856.**
   * **[Fleming, John](people/@18678270@-john-fleming-b1856-d.md)** (about 1856 - )
   * **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - )
@@ -185,6 +189,7 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1857.**
   * **[O'Donnell, Hannah](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921)
   * **[Paterson, Barbara](people/@65135072@-barbara-paterson-b1857-d.md)** (about 1857 - )
+  * **[Ross, Hugh](people/@33375290@-hugh-ross-b1857-d.md)** (about 1857 - )
   * **[Smith, William Elliot](people/@15044661@-william-elliot-smith-b1857-d.md)** (about 1857 - )
 * **Born in 1858.**
   * **[Fleming, William](people/@78368531@-william-fleming-b1858-d.md)** (about 1858 - )
@@ -476,7 +481,6 @@ This is a list of people who have vague or unknown dates of birth.
 * [Mary MacDonald](people/@10426344@-mary-macdonald-b-d1900.md) ( - after 1900)
 * [Alexander Mackay](people/@56321492@-alexander-mackay-b-d.md)
 * [Alexander Mackay](people/@60647890@-alexander-mackay-b-d.md)
-* [Ann Mackay](people/@59598912@-ann-mackay-b-d.md)
 * [Barbara Mackay](people/@61459684@-barbara-mackay-b-d1896.md) ( - before 1896)
 * [Christina Mackay](people/@10983472@-christina-mackay-b-d.md)
 * [Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md) ( - 8/Dec/1881)
@@ -489,6 +493,7 @@ This is a list of people who have vague or unknown dates of birth.
 * [Margaret MacKintosh](people/@23268600@-margaret-mackintosh-b-d.md)
 * [Christy MacLennan](people/@8610974@-christy-maclennan-b-d.md)
 * [Hector MacLeod](people/@28404010@-hector-macleod-b-d1949.md) ( - before 1949)
+* [Janet MacLeod](people/@31854910@-janet-macleod-b-d.md)
 * [Hector Matheson](people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
 * [Isabella McAughtrie](people/@88003126@-isabella-mcaughtrie-b-d.md)
 * [Patrick McBride](people/@28079676@-patrick-mcbride-b-d1889.md) ( - before 1889)
@@ -529,8 +534,8 @@ This is a list of people who have vague or unknown dates of birth.
 * [Mary Robertson](people/@96321158@-mary-robertson-b-d.md)
 * [Christy Ross](people/@37144832@-christy-ross-b-d.md)
 * [Donald Ross](people/@16842942@-donald-ross-b-d.md)
-* [Hugh Ross](people/@10594034@-hugh-ross-b-d1889.md) ( - before 1889)
 * [John Ross](people/@29351958@-john-ross-b-d.md)
+* [William Ross](people/@31822850@-william-ross-b-d1875.md) ( - before 1875)
 * [Agnes Russell](people/@37924612@-agnes-russell-b-d.md)
 * [Alexander McGregor Russell](people/@72370350@-alexander-mcgregor-russell-b-d.md)
 * [Clara Sherwood](people/@79435398@-clara-sherwood-b-d.md)

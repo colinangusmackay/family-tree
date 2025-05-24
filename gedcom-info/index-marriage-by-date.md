@@ -122,7 +122,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **22/Apr/1889** : **[Michael O'Malley](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - ) and **[Catherine McBride](people/@24941331@-catherine-mcbride-b1865-d.md)** (about 1865 - ) at Glasgow, Scotland.
   * **2/Nov/1889** : **[Alexander Mackay](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ) and X.
   * **12/Nov/1889** : **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) and **[Ann Fraser](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891) at Dornoch, Sutherland, Scotland.
-  * **19/Nov/1889** : **[John Ross](people/@75057664@-john-ross-b1861-d.md)** (1861 - ) and **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954) at Dornoch, Sutherland, Scotland.
+  * **19/Nov/1889** : **[John Ross](people/@75057664@-john-ross-b1859-6-19-d.md)** (19/Jun/1859 - ) and **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954) at Dornoch, Sutherland, Scotland.
 
 ### 1890s
 

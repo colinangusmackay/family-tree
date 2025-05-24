@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i31822850",
+    "Name": "William Ross",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1875"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i31822850",
+      "Name": "William Ross",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1875",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i31854910",
+      "Name": "Janet MacLeod",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i10594034",
+      "Name": "Hugh Ross",
+      "Gender": "Male",
+      "DateOfBirth": "about 1826",
+      "DateOfDeath": "5/Sep/1875",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i31822850",
+        "i31854910"
+      ]
+    }
+  ]
+}

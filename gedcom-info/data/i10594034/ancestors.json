@@ -3,7 +3,26 @@
   "Name": "Hugh Ross",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
-  "DateOfDeath": "before 1889",
-  "Parents": []
+  "DateOfBirth": "about 1826",
+  "DateOfDeath": "5/Sep/1875",
+  "Parents": [
+    {
+      "Id": "i31854910",
+      "Name": "Janet MacLeod",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i31822850",
+      "Name": "William Ross",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1875",
+      "Parents": []
+    }
+  ]
 }

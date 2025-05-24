@@ -450,7 +450,7 @@ permalink: /indexes/by-family-name
 - **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
 - **[Alexander Mackay](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - )
 - **[Alexina Mackay](people/@75066880@-alexina-mackay-b1935-1-11-d1935.md)** (11/Jan/1935 - 1935)
-- **[Ann Mackay](people/@59598912@-ann-mackay-b-d.md)**
+- **[Ann Mackay](people/@59598912@-ann-mackay-b1835-d.md)** (1835 - )
 - **[Ann Mackay](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940)
 - **[Ann Mackay](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
 - **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942)
@@ -537,6 +537,7 @@ permalink: /indexes/by-family-name
 ## MacLeod
 
 - **[Hector MacLeod](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949)
+- **[Janet MacLeod](people/@31854910@-janet-macleod-b-d.md)**
 - **[Janet MacLeod](people/@14483646@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864)
 - **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
 
@@ -830,6 +831,7 @@ permalink: /indexes/by-family-name
 - **[Alex Ross](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
 - **[Alexander Ross](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896)
 - **[Alexander Ross](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - )
+- **[Alexander Ross](people/@98834750@-alexander-ross-b1863-d.md)** (1863 - )
 - **[Alexander Ross](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
 - **[Ann Ross](people/@32419757@-ann-ross-b1860-6-17-d.md)** (17/Jun/1860 - )
 - **[Ann Ross](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980)
@@ -841,27 +843,34 @@ permalink: /indexes/by-family-name
 - **[Donald Ross](people/@16842942@-donald-ross-b-d.md)**
 - **[Donald Ross](people/@4496220@-donald-ross-b1872-8-30-d.md)** (30/Aug/1872 - )
 - **[Hugh Alexander Ross](people/@22731476@-hugh-alexander-ross-b1896-11-17-d.md)** (17/Nov/1896 - )
-- **[Hugh Ross](people/@10594034@-hugh-ross-b-d1889.md)** ( - before 1889)
+- **[Hugh Ross](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875)
+- **[Hugh Ross](people/@33375290@-hugh-ross-b1857-d.md)** (about 1857 - )
 - **[Hugh Ross](people/@75672326@-hugh-ross-b1858-10-11-d.md)** (11/Oct/1858 - )
 - **[Janet Ross](people/@34312672@-janet-ross-b1761-d.md)** (before 1761 - )
 - **[Jeanie Ross](people/@71751658@-jeanie-ross-b1907-d.md)** (1907 - )
+- **[Jeannie Ross](people/@64098912@-jeannie-ross-b1864-d.md)** (1864 - )
 - **[Jessie Ross](people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md)** (5/Nov/1840 - 13/Jan/1918)
+- **[Jessie Ross](people/@34993752@-jessie-ross-b1860-d.md)** (1860 - )
 - **[Johan or Janet Ross](people/@18017632@-johan-or-janet-ross-b1905-d.md)** (1905 - )
 - **[John Ross](people/@29351958@-john-ross-b-d.md)**
 - **[John Ross](people/@76784714@-john-ross-b1764-d.md)** (before 1764 - )
 - **[John Ross](people/@36837210@-john-ross-b1855-12-14-d.md)** (14/Dec/1855 - )
 - **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
-- **[John Ross](people/@75057664@-john-ross-b1861-d.md)** (1861 - )
+- **[John Ross](people/@75057664@-john-ross-b1859-6-19-d.md)** (19/Jun/1859 - )
 - **[John Ross](people/@16505504@-john-ross-b1868-8-23-d1905-11-20.md)** (23/Aug/1868 - 20/Nov/1905)
 - **[John Ross](people/@35298145@-john-ross-b1899-d.md)** (1899 - )
 - **[Kenneth Ross](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - )
 - **[Marion Ross](people/@39612984@-marion-ross-b1853-d.md)** (about 1853 - )
 - **[Marion Ross](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888)
+- **[Patrick Ross](people/@62001920@-patrick-ross-b1853-d.md)** (about 1853 - )
 - **[Peter Ross](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
+- **[Sarah Ross](people/@84017554@-sarah-ross-b1862-d.md)** (1862 - )
 - **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - )
 - **[Unknown (boy) Ross](people/@68717952@-unknown-boy-ross-b1840~1855-d1840~1855.md)** (bet' 1840 and 1855 - bet' 1840 and 1855)
 - **[Wiliamina Ross](people/@5241144@-wiliamina-ross-b1849-d.md)** (about 1849 - )
+- **[William Ross](people/@31822850@-william-ross-b-d1875.md)** ( - before 1875)
 - **[William Ross](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864)
+- **[William Ross](people/@91623667@-william-ross-b1855-d.md)** (about 1855 - )
 - **[William Ross](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
 - **[Williamina Ross](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - )
 

@@ -407,6 +407,10 @@ permalink: /indexes/by-residence-location
 
 - **[Mackay, Betsy](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - )
 
+#### Embno
+
+- **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875)
+
 #### Embo
 
 - **[Cumming, Adam](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926)
@@ -446,6 +450,7 @@ permalink: /indexes/by-residence-location
 - **[Grant, Jessie Ann](people/@15036054@-jessie-ann-grant-b1898-10-31-d.md)** (31/Oct/1898 - )
 - **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - )
 - **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
+- **[Mackay, Ann](people/@59598912@-ann-mackay-b1835-d.md)** (1835 - )
 - **[Mackay, Ann](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940)
 - **[Mackay, Ann](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
 - **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942)
@@ -477,18 +482,27 @@ permalink: /indexes/by-residence-location
 - **[MacKay, Anna Jessie](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
 - **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896)
 - **[Ross, Alexander](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - )
+- **[Ross, Alexander](people/@98834750@-alexander-ross-b1863-d.md)** (1863 - )
 - **[Ross, Ann](people/@32419757@-ann-ross-b1860-6-17-d.md)** (17/Jun/1860 - )
+- **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980)
 - **[Ross, Barbara](people/@82167024@-barbara-ross-b1862-2-28-d.md)** (28/Feb/1862 - )
 - **[Ross, Catherine](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - )
 - **[Ross, Christina](people/@81183416@-christina-ross-b1845-d1916-4-19.md)** (about 1845 - 19/Apr/1916)
+- **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875)
+- **[Ross, Hugh](people/@33375290@-hugh-ross-b1857-d.md)** (about 1857 - )
 - **[Ross, Hugh](people/@75672326@-hugh-ross-b1858-10-11-d.md)** (11/Oct/1858 - )
+- **[Ross, Jeannie](people/@64098912@-jeannie-ross-b1864-d.md)** (1864 - )
 - **[Ross, Jessie](people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md)** (5/Nov/1840 - 13/Jan/1918)
+- **[Ross, Jessie](people/@34993752@-jessie-ross-b1860-d.md)** (1860 - )
 - **[Ross, John](people/@36837210@-john-ross-b1855-12-14-d.md)** (14/Dec/1855 - )
 - **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
-- **[Ross, John](people/@75057664@-john-ross-b1861-d.md)** (1861 - )
+- **[Ross, John](people/@75057664@-john-ross-b1859-6-19-d.md)** (19/Jun/1859 - )
 - **[Ross, Kenneth](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - )
 - **[Ross, Marion](people/@39612984@-marion-ross-b1853-d.md)** (about 1853 - )
+- **[Ross, Patrick](people/@62001920@-patrick-ross-b1853-d.md)** (about 1853 - )
+- **[Ross, Sarah](people/@84017554@-sarah-ross-b1862-d.md)** (1862 - )
 - **[Ross, Wiliamina](people/@5241144@-wiliamina-ross-b1849-d.md)** (about 1849 - )
+- **[Ross, William](people/@91623667@-william-ross-b1855-d.md)** (about 1855 - )
 - **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - )
 
 #### Golspie

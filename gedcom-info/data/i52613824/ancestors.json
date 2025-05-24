@@ -11,25 +11,44 @@
       "Name": "John Ross",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "1861",
+      "DateOfBirth": "19/Jun/1859",
       "DateOfDeath": "",
       "Parents": [
-        {
-          "Id": "i59598912",
-          "Name": "Ann Mackay",
-          "Gender": "Female",
-          "Relationship": "mother",
-          "DateOfBirth": "",
-          "DateOfDeath": "",
-          "Parents": []
-        },
         {
           "Id": "i10594034",
           "Name": "Hugh Ross",
           "Gender": "Male",
           "Relationship": "father",
-          "DateOfBirth": "",
-          "DateOfDeath": "before 1889",
+          "DateOfBirth": "about 1826",
+          "DateOfDeath": "5/Sep/1875",
+          "Parents": [
+            {
+              "Id": "i31854910",
+              "Name": "Janet MacLeod",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i31822850",
+              "Name": "William Ross",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "before 1875",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i59598912",
+          "Name": "Ann Mackay",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "1835",
+          "DateOfDeath": "",
           "Parents": []
         }
       ]

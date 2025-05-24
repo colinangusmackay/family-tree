@@ -49,6 +49,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 * [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)
 * [May Miller](../people/@41411602@-may-miller-b1881-d.md) (about 1881 - )
 * [Ann Ross](../people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md) (28/Nov/1890 - 27/Jun/1980)
+* [Hugh Ross](../people/@10594034@-hugh-ross-b1826-d1875-9-5.md) (about 1826 - 5/Sep/1875)
 * [Jessie Ross](../people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md) (5/Nov/1840 - 13/Jan/1918)
-* [John Ross](../people/@75057664@-john-ross-b1861-d.md) (1861 - )
+* [John Ross](../people/@75057664@-john-ross-b1859-6-19-d.md) (19/Jun/1859 - )
 * [Sarah Ross](../people/@39957256@-sarah-ross-b1880-d.md) (about 1880 - )
