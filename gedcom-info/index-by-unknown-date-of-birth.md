@@ -29,7 +29,7 @@ This is a list of people who have vague or unknown dates of birth.
 ### 1780s
 
 * **Born in 1780.**
-  * **[Ross, William](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864)
+  * **[Ross, William](people/@31822850@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864)
 * **Born in 1781.**
   * **[Grant, Margaret](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
 * **Born in 1787.**
@@ -41,7 +41,7 @@ This is a list of people who have vague or unknown dates of birth.
 ### 1790s
 
 * **Born in 1798.**
-  * **[MacLeod, Janet](people/@14483646@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864)
+  * **[MacLeod, Janet](people/@31854910@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864)
 
 ## 19th Century
 
@@ -210,11 +210,14 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Napier, Janet](people/@44813825@-janet-napier-b1861-d.md)** (about 1861 - )
   * **[Smith, Elizabeth](people/@96054144@-elizabeth-smith-b1861-d.md)** (about 1861 - )
   * **[Teevin, Margaret](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - )
+* **Born in 1862.**
+  * **[Ross, Jessie](people/@34993752@-jessie-ross-b1862-d.md)** (about 1862 - )
 * **Born in 1863.**
   * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
   * **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
 * **Born in 1864.**
   * **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - )
+  * **[Ross, Sarah](people/@84017554@-sarah-ross-b1864-d.md)** (about 1864 - )
   * **[Sunderland, Thomas](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - )
   * **[Wynn, Eliza Jane](people/@63437677@-eliza-jane-wynn-b1864-d.md)** (about 1864 - )
 * **Born in 1865.**
@@ -493,7 +496,6 @@ This is a list of people who have vague or unknown dates of birth.
 * [Margaret MacKintosh](people/@23268600@-margaret-mackintosh-b-d.md)
 * [Christy MacLennan](people/@8610974@-christy-maclennan-b-d.md)
 * [Hector MacLeod](people/@28404010@-hector-macleod-b-d1949.md) ( - before 1949)
-* [Janet MacLeod](people/@31854910@-janet-macleod-b-d.md)
 * [Hector Matheson](people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
 * [Isabella McAughtrie](people/@88003126@-isabella-mcaughtrie-b-d.md)
 * [Patrick McBride](people/@28079676@-patrick-mcbride-b-d1889.md) ( - before 1889)
@@ -535,7 +537,6 @@ This is a list of people who have vague or unknown dates of birth.
 * [Christy Ross](people/@37144832@-christy-ross-b-d.md)
 * [Donald Ross](people/@16842942@-donald-ross-b-d.md)
 * [John Ross](people/@29351958@-john-ross-b-d.md)
-* [William Ross](people/@31822850@-william-ross-b-d1875.md) ( - before 1875)
 * [Agnes Russell](people/@37924612@-agnes-russell-b-d.md)
 * [Alexander McGregor Russell](people/@72370350@-alexander-mcgregor-russell-b-d.md)
 * [Clara Sherwood](people/@79435398@-clara-sherwood-b-d.md)

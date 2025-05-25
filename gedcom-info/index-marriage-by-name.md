@@ -67,7 +67,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) and **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967) **on 12th of April 1918** at Middlesborough, England.
   * **[John Cumming](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ) and **[Carrie Elizabeth Predendall](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - ) **on 6th of August 1924**.
   * **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ) **on 22nd of January 1901**.
-  * **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954) and **[John Ross](people/@75057664@-john-ross-b1859-6-19-d.md)** (19/Jun/1859 - ) **on 19th of November 1889** at Dornoch, Sutherland, Scotland.
+  * **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1944-11-18.md)** (20/May/1863 - 18/Nov/1944) and **[John Hugh Ross](people/@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md)** (19/Jun/1859 - 7/Oct/1941) **on 19th of November 1889** at Dornoch, Sutherland, Scotland.
   * **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981) and **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982) **on 21st of March 1930** at Toronto, York, Ontario, Canada.
   * **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - ) and **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - ) **on 19th of February 1895** at Dornoch, Sutherland, Scotland.
   * **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ) and **[May Miller](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - ) **on 2nd of January 1900**.
@@ -274,7 +274,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## MacLeod
 
-  * **[Janet MacLeod](people/@14483646@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864) and **[William Ross](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864).
+  * **[Janet MacLeod](people/@31854910@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864) and **[William Ross](people/@31822850@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864).
   * **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949) and **[John Mackay](people/@53390906@-john-mackay-b-d.md)** **on 15th of January 1885** at Stornoway, Eilean Siar, Scotland.
 
 ## Macrae
@@ -459,12 +459,12 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Donald Ross](people/@4496220@-donald-ross-b1872-8-30-d.md)** (30/Aug/1872 - ) and **[Ollie E Walker](people/@42365832@-ollie-e-walker-b1872-d.md)** (about 1872 - ) **on 11th of November 1903** at Boyne City, Charlevoix County, Michigan, United States of America.
   * **[Jessie Ross](people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md)** (5/Nov/1840 - 13/Jan/1918) and **[James Cumming](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923) **on 21st of February 1860** at Dornoch, Sutherland, Scotland.
   * **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ) and **[Isabella MacDonald](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - ) **on 30th of December 1881** at Golspie, Sutherland, Scotland.
-  * **[John Ross](people/@75057664@-john-ross-b1859-6-19-d.md)** (19/Jun/1859 - ) and **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954) **on 19th of November 1889** at Dornoch, Sutherland, Scotland.
+  * **[John Hugh Ross](people/@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md)** (19/Jun/1859 - 7/Oct/1941) and **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1944-11-18.md)** (20/May/1863 - 18/Nov/1944) **on 19th of November 1889** at Dornoch, Sutherland, Scotland.
   * **[Kenneth Ross](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - ) and X **on 9th of October 1877** at Dornoch, Sutherland, Scotland.
   * **[Marion Ross](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888) and **[Thomas Sunderland](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - ) **on 28th of September 1887** at Hayes Township, Charlevoix County, Michigan, United States of America.
   * **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ) and **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) **on 22nd of January 1901**.
-  * **[William Ross](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and **[Janet MacLeod](people/@14483646@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864).
-  * **[William Ross](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and X **on 27th of December 1805**.
+  * **[William Ross](people/@31822850@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and **[Janet MacLeod](people/@31854910@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864).
+  * **[William Ross](people/@31822850@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and X **on 27th of December 1805**.
   * **[Williamina Ross](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ) and **[Andrew Gillie](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ) **on 14th of January 1910** at Dornoch, Sutherland, Scotland.
 
 ## Russell

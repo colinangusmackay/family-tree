@@ -8,7 +8,7 @@
   },
   "Parents": [
     {
-      "Id": "i39617772",
+      "Id": "i31822850",
       "Name": "William Ross",
       "Gender": "Male",
       "DateOfBirth": "about 1780",
@@ -16,7 +16,7 @@
       "RelationToSubject": "father"
     },
     {
-      "Id": "i14483646",
+      "Id": "i31854910",
       "Name": "Janet MacLeod",
       "Gender": "Female",
       "DateOfBirth": "before 1798",
@@ -34,8 +34,22 @@
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
-          "i14483646",
-          "i39617772"
+          "i31822850",
+          "i31854910"
+        ]
+      ]
+    },
+    {
+      "Id": "i10594034",
+      "Name": "Hugh Ross",
+      "Gender": "Male",
+      "DateOfBirth": "about 1826",
+      "DateOfDeath": "5/Sep/1875",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i31822850",
+          "i31854910"
         ]
       ]
     }

@@ -62,7 +62,6 @@ permalink: /indexes/by-death-location
 - **[Cumming, John](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - )
 - **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
 - **[Cumming, Maggie](people/@86945960@-maggie-cumming-b1909-1-19-d.md)** (19/Jan/1909 - )
-- **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
 - **[Cumming, William](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
 - **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
 - **[Cumming, William Mackay](people/@99807914@-william-mackay-cumming-b1933-d2015.md)** (1933 - 2015)
@@ -249,8 +248,7 @@ permalink: /indexes/by-death-location
 - **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - )
 - **[MacLennan, Christy](people/@8610974@-christy-maclennan-b-d.md)**
 - **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949)
-- **[MacLeod, Janet](people/@31854910@-janet-macleod-b-d.md)**
-- **[MacLeod, Janet](people/@14483646@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864)
+- **[MacLeod, Janet](people/@31854910@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864)
 - **[MacLeod, Matilda](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
 - **[Macrae, Janet](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - )
 - **[Martensen, Charles Raymond](people/@83409318@-charles-raymond-martensen-b1910-d1971.md)** (before 1910 - after 1971)
@@ -385,39 +383,44 @@ permalink: /indexes/by-death-location
 - **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
 - **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896)
 - **[Ross, Alexander](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - )
+- **[Ross, Alexander](people/@64872505@-alexander-ross-b1855-d.md)** (1855 - )
 - **[Ross, Alexander](people/@98834750@-alexander-ross-b1863-d.md)** (1863 - )
 - **[Ross, Alexander](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
 - **[Ross, Ann](people/@32419757@-ann-ross-b1860-6-17-d.md)** (17/Jun/1860 - )
+- **[Ross, Ann](people/@99728908@-ann-ross-b1872-d.md)** (1872 - )
 - **[Ross, Barbara](people/@82167024@-barbara-ross-b1862-2-28-d.md)** (28/Feb/1862 - )
 - **[Ross, Catherine](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - )
 - **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
 - **[Ross, Christy](people/@37144832@-christy-ross-b-d.md)**
 - **[Ross, Donald](people/@16842942@-donald-ross-b-d.md)**
 - **[Ross, Donald](people/@4496220@-donald-ross-b1872-8-30-d.md)** (30/Aug/1872 - )
+- **[Ross, Donald](people/@46967448@-donald-ross-b1876-d.md)** (1876 - )
 - **[Ross, Hugh Alexander](people/@22731476@-hugh-alexander-ross-b1896-11-17-d.md)** (17/Nov/1896 - )
 - **[Ross, Hugh](people/@33375290@-hugh-ross-b1857-d.md)** (about 1857 - )
 - **[Ross, Hugh](people/@75672326@-hugh-ross-b1858-10-11-d.md)** (11/Oct/1858 - )
+- **[Ross, James](people/@62357517@-james-ross-b1893-d.md)** (1893 - )
 - **[Ross, Janet](people/@34312672@-janet-ross-b1761-d.md)** (before 1761 - )
 - **[Ross, Jeanie](people/@71751658@-jeanie-ross-b1907-d.md)** (1907 - )
 - **[Ross, Jeannie](people/@64098912@-jeannie-ross-b1864-d.md)** (1864 - )
 - **[Ross, Jessie](people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md)** (5/Nov/1840 - 13/Jan/1918)
-- **[Ross, Jessie](people/@34993752@-jessie-ross-b1860-d.md)** (1860 - )
+- **[Ross, Jessie](people/@34993752@-jessie-ross-b1862-d.md)** (about 1862 - )
+- **[Ross, Jessie](people/@49602674@-jessie-ross-b1895-d.md)** (1895 - )
 - **[Ross, Johan or Janet](people/@18017632@-johan-or-janet-ross-b1905-d.md)** (1905 - )
 - **[Ross, John](people/@29351958@-john-ross-b-d.md)**
 - **[Ross, John](people/@76784714@-john-ross-b1764-d.md)** (before 1764 - )
 - **[Ross, John](people/@36837210@-john-ross-b1855-12-14-d.md)** (14/Dec/1855 - )
 - **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
-- **[Ross, John](people/@75057664@-john-ross-b1859-6-19-d.md)** (19/Jun/1859 - )
 - **[Ross, John](people/@35298145@-john-ross-b1899-d.md)** (1899 - )
 - **[Ross, Kenneth](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - )
+- **[Ross, Kenneth](people/@64618340@-kenneth-ross-b1867-d.md)** (1867 - )
 - **[Ross, Marion](people/@39612984@-marion-ross-b1853-d.md)** (about 1853 - )
+- **[Ross, Marion](people/@39695489@-marion-ross-b1900-d.md)** (1900 - )
 - **[Ross, Patrick](people/@62001920@-patrick-ross-b1853-d.md)** (about 1853 - )
 - **[Ross, Peter](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
-- **[Ross, Sarah](people/@84017554@-sarah-ross-b1862-d.md)** (1862 - )
+- **[Ross, Sarah](people/@84017554@-sarah-ross-b1864-d.md)** (about 1864 - )
 - **[Ross, Sarah](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - )
 - **[Ross, Unknown (boy)](people/@68717952@-unknown-boy-ross-b1840~1855-d1840~1855.md)** (bet' 1840 and 1855 - bet' 1840 and 1855)
 - **[Ross, Wiliamina](people/@5241144@-wiliamina-ross-b1849-d.md)** (about 1849 - )
-- **[Ross, William](people/@31822850@-william-ross-b-d1875.md)** ( - before 1875)
 - **[Ross, William](people/@91623667@-william-ross-b1855-d.md)** (about 1855 - )
 - **[Ross, William](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
 - **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - )
@@ -492,6 +495,13 @@ permalink: /indexes/by-death-location
 - **[Wood, Margaret](people/@50500805@-margaret-wood-b1827-d1871.md)** (about 1827 - before 1871)
 - **[Wynn, Eliza Jane](people/@63437677@-eliza-jane-wynn-b1864-d.md)** (about 1864 - )
 - **[Younger, Mary](people/@25511104@-mary-younger-b-d.md)**
+
+
+## At Sea
+
+#### At Sea
+
+- **[Ross, John Donald](people/@60714754@-john-donald-ross-b1900-10-29-d1917-1-26.md)** (29/Oct/1900 - 26/Jan/1917)
 
 
 ## England
@@ -665,6 +675,7 @@ permalink: /indexes/by-death-location
 - **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
 - **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
 - **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923)
+- **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1944-11-18.md)** (20/May/1863 - 18/Nov/1944)
 - **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966)
 - **[Fraser, Ann](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891)
 - **[Fraser, Christy](people/@45275253@-christy-fraser-b1787-d1868-1-13.md)** (about 1787 - 13/Jan/1868)
@@ -682,7 +693,8 @@ permalink: /indexes/by-death-location
 - **[Mackay, William Alexander](people/@8407472@-william-alexander-mackay-b1934-2-d1934-3-23.md)** (Feb/1934 - 23/Mar/1934)
 - **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
 - **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875)
-- **[Ross, William](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864)
+- **[Ross, John Hugh](people/@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md)** (19/Jun/1859 - 7/Oct/1941)
+- **[Ross, William](people/@31822850@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864)
 
 #### Golspie
 

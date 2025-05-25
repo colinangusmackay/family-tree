@@ -19,7 +19,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1800s
 
 * **1805**
-  * **27/Dec/1805** : **[William Ross](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and X.
+  * **27/Dec/1805** : **[William Ross](people/@31822850@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and X.
 
 ### 1820s
 
@@ -122,7 +122,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **22/Apr/1889** : **[Michael O'Malley](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - ) and **[Catherine McBride](people/@24941331@-catherine-mcbride-b1865-d.md)** (about 1865 - ) at Glasgow, Scotland.
   * **2/Nov/1889** : **[Alexander Mackay](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ) and X.
   * **12/Nov/1889** : **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) and **[Ann Fraser](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891) at Dornoch, Sutherland, Scotland.
-  * **19/Nov/1889** : **[John Ross](people/@75057664@-john-ross-b1859-6-19-d.md)** (19/Jun/1859 - ) and **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954) at Dornoch, Sutherland, Scotland.
+  * **19/Nov/1889** : **[John Hugh Ross](people/@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md)** (19/Jun/1859 - 7/Oct/1941) and **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1944-11-18.md)** (20/May/1863 - 18/Nov/1944) at Dornoch, Sutherland, Scotland.
 
 ### 1890s
 
@@ -304,7 +304,7 @@ A list of marriages, civil partnerships and civil unions by date.
 
 ## Unknown Date
 
-  * **[William Ross](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and **[Janet MacLeod](people/@14483646@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864).
   * **[Donald James Mackay](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011) and **[Anna Catherine Fraser](people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md)** (28/Aug/1937 - 1992).
+  * **[William Ross](people/@31822850@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and **[Janet MacLeod](people/@31854910@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864).
   * **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841) and **[Janet Macrae](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - ).
   * X and **[Isabella McAughtrie](people/@88003126@-isabella-mcaughtrie-b-d.md)**.

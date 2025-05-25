@@ -737,8 +737,17 @@
               "Gender": "Female",
               "Relationship": "daughter",
               "DateOfBirth": "20/May/1863",
-              "DateOfDeath": "15/Nov/1954",
+              "DateOfDeath": "18/Nov/1944",
               "Children": [
+                {
+                  "Id": "i29684790",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
                 {
                   "Id": "i52613824",
                   "Name": "Ann Ross",
@@ -787,6 +796,24 @@
                   ]
                 },
                 {
+                  "Id": "i62357517",
+                  "Name": "James Ross",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "1893",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i49602674",
+                  "Name": "Jessie Ross",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "1895",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
                   "Id": "i22731476",
                   "Name": "Hugh Alexander Ross",
                   "Gender": "Male",
@@ -831,6 +858,24 @@
                       "Children": []
                     }
                   ]
+                },
+                {
+                  "Id": "i39695489",
+                  "Name": "Marion Ross",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "1900",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i60714754",
+                  "Name": "John Donald Ross",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "29/Oct/1900",
+                  "DateOfDeath": "26/Jan/1917",
+                  "Children": []
                 }
               ]
             },

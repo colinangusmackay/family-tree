@@ -4,7 +4,7 @@
     "Name": "Marion Cumming",
     "Gender": "Female",
     "DateOfBirth": "20/May/1863",
-    "DateOfDeath": "15/Nov/1954"
+    "DateOfDeath": "18/Nov/1944"
   },
   "Parents": [
     {
@@ -44,7 +44,7 @@
       "Name": "Marion Cumming",
       "Gender": "Female",
       "DateOfBirth": "20/May/1863",
-      "DateOfDeath": "15/Nov/1954",
+      "DateOfDeath": "18/Nov/1944",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -155,16 +155,28 @@
   "Spouses": [
     {
       "Id": "i75057664",
-      "Name": "John Ross",
+      "Name": "John Hugh Ross",
       "Gender": "Male",
       "DateOfBirth": "19/Jun/1859",
-      "DateOfDeath": "",
+      "DateOfDeath": "7/Oct/1941",
       "RelationToSubject": "husband",
       "DateOfMarriage": "19/Nov/1889",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
+    {
+      "Id": "i29684790",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i75057664",
+        "i59851647"
+      ]
+    },
     {
       "Id": "i52613824",
       "Name": "Ann Ross",
@@ -178,11 +190,59 @@
       ]
     },
     {
+      "Id": "i62357517",
+      "Name": "James Ross",
+      "Gender": "Male",
+      "DateOfBirth": "1893",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i75057664",
+        "i59851647"
+      ]
+    },
+    {
+      "Id": "i49602674",
+      "Name": "Jessie Ross",
+      "Gender": "Female",
+      "DateOfBirth": "1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i75057664",
+        "i59851647"
+      ]
+    },
+    {
       "Id": "i22731476",
       "Name": "Hugh Alexander Ross",
       "Gender": "Male",
       "DateOfBirth": "17/Nov/1896",
       "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i75057664",
+        "i59851647"
+      ]
+    },
+    {
+      "Id": "i39695489",
+      "Name": "Marion Ross",
+      "Gender": "Female",
+      "DateOfBirth": "1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i75057664",
+        "i59851647"
+      ]
+    },
+    {
+      "Id": "i60714754",
+      "Name": "John Donald Ross",
+      "Gender": "Male",
+      "DateOfBirth": "29/Oct/1900",
+      "DateOfDeath": "26/Jan/1917",
       "RelationToSubject": "son",
       "ParentIds": [
         "i75057664",

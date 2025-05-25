@@ -1,0 +1,54 @@
+---
+layout: person
+subject_key: i64872505
+permalink: /people/i64872505
+---
+
+# Alexander Ross
+(1855 - ?)
+
+## Immediate Family
+
+* Father: [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) (about 1826 - 5/Sep/1875)
+* Mother: [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md) (1835 - )
+* Brother: [Patrick Ross](./@62001920@-patrick-ross-b1853-d.md) (about 1853 - )
+* Brother: [William Ross](./@91623667@-william-ross-b1855-d.md) (about 1855 - )
+* Brother: [Hugh Ross](./@33375290@-hugh-ross-b1857-d.md) (about 1857 - )
+* Brother: [John Hugh Ross](./@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md) (19/Jun/1859 - 7/Oct/1941)
+* Sister: [Jessie Ross](./@34993752@-jessie-ross-b1862-d.md) (about 1862 - )
+* Brother: [Alexander Ross](./@98834750@-alexander-ross-b1863-d.md) (1863 - )
+* Sister: [Jeannie Ross](./@64098912@-jeannie-ross-b1864-d.md) (1864 - )
+* Sister: [Sarah Ross](./@84017554@-sarah-ross-b1864-d.md) (about 1864 - )
+* Brother: [Kenneth Ross](./@64618340@-kenneth-ross-b1867-d.md) (1867 - )
+* Sister: [Ann Ross](./@99728908@-ann-ross-b1872-d.md) (1872 - )
+* Brother: [Donald Ross](./@46967448@-donald-ross-b1876-d.md) (1876 - )
+
+## Timeline
+
+Date | Item | Description | Sources | Notes
+---|---|---|---|---
+1855 | Born | Born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [1](#1) | 
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1881 | Embo, Sutherland, Scotland | [1](#1)
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+1881 | Fisherman | [1](#1)
+
+## Footnotes
+
+### 1
+
+**1881 ROSS, ANN MACKAY + HOUSEHOLD (Census 047/ 2/ 6)**
+
+* [Full text and notes](../sources/@38426175@-1881-ross,-ann-mackay-+-household-census-047-2-6-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1881 C 047/ 2/ 6
+

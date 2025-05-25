@@ -1,11 +1,20 @@
 ﻿{
   "Id": "i75057664",
-  "Name": "John Ross",
+  "Name": "John Hugh Ross",
   "Gender": "Male",
   "Relationship": "Self",
   "DateOfBirth": "19/Jun/1859",
-  "DateOfDeath": "",
+  "DateOfDeath": "7/Oct/1941",
   "Children": [
+    {
+      "Id": "i29684790",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i52613824",
       "Name": "Ann Ross",
@@ -54,6 +63,24 @@
       ]
     },
     {
+      "Id": "i62357517",
+      "Name": "James Ross",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1893",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i49602674",
+      "Name": "Jessie Ross",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1895",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
       "Id": "i22731476",
       "Name": "Hugh Alexander Ross",
       "Gender": "Male",
@@ -98,6 +125,24 @@
           "Children": []
         }
       ]
+    },
+    {
+      "Id": "i39695489",
+      "Name": "Marion Ross",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1900",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i60714754",
+      "Name": "John Donald Ross",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "29/Oct/1900",
+      "DateOfDeath": "26/Jan/1917",
+      "Children": []
     }
   ]
 }

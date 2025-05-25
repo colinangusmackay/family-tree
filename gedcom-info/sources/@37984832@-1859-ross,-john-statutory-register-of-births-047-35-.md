@@ -41,4 +41,4 @@ References | 1859 B 047/ 35
 ## Source Referenced by
 
 * [Hugh Ross](../people/@10594034@-hugh-ross-b1826-d1875-9-5.md) (about 1826 - 5/Sep/1875)
-* [John Ross](../people/@75057664@-john-ross-b1859-6-19-d.md) (19/Jun/1859 - )
+* [John Hugh Ross](../people/@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md) (19/Jun/1859 - 7/Oct/1941)

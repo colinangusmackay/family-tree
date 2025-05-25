@@ -281,6 +281,10 @@
           "Day": 26,
           "Events": [
             {
+              "Date": "1917-01-26",
+              "Description": "[John Donald Ross](/family-tree/people/i60714754) died on 26th of January 1917 in , At Sea."
+            },
+            {
               "Date": "1900-01-26",
               "Description": "[Jessie MacDonald](/family-tree/people/i97412403) got married to [Donald Sutherland](/family-tree/people/i6737165) on 26th of January 1900 in Golspie, Sutherland, Scotland."
             }
@@ -859,7 +863,7 @@
           "Events": [
             {
               "Date": "1864-03-31",
-              "Description": "[William Ross](/family-tree/people/i39617772) died on 31st of March 1864 in Embo, Sutherland, Scotland."
+              "Description": "[William Ross](/family-tree/people/i31822850) died on 31st of March 1864 in Embo, Sutherland, Scotland."
             },
             {
               "Date": "1905-03-31",
@@ -1535,7 +1539,7 @@
           "Events": [
             {
               "Date": "1859-06-19",
-              "Description": "[John Ross](/family-tree/people/i75057664) was born on 19th of June 1859 to [Hugh Ross](/family-tree/people/i10594034) and [Ann Mackay](/family-tree/people/i59598912) in Embo, Sutherland, Scotland."
+              "Description": "[John Hugh Ross](/family-tree/people/i75057664) was born on 19th of June 1859 to [Hugh Ross](/family-tree/people/i10594034) and [Ann Mackay](/family-tree/people/i59598912) in Embo, Sutherland, Scotland."
             },
             {
               "Date": "1942-06-19",
@@ -2507,6 +2511,10 @@
             {
               "Date": "1851-10-07",
               "Description": "[Joseph Fleming](/family-tree/people/i57117702) was born on 7th of October 1851 to [John Fleming](/family-tree/people/i39983533) and [Margaret Wood](/family-tree/people/i50500805) in Carluke, Lanarkshire, Scotland."
+            },
+            {
+              "Date": "1941-10-07",
+              "Description": "[John Hugh Ross](/family-tree/people/i75057664) died on 7th of October 1941 at Springwell Cottage, Embo, Sutherland, Scotland."
             }
           ]
         },
@@ -2708,6 +2716,10 @@
             {
               "Date": "1875-10-29",
               "Description": "[Kate MacDonald](/family-tree/people/i28255030) died on 29th of October 1875."
+            },
+            {
+              "Date": "1900-10-29",
+              "Description": "[John Donald Ross](/family-tree/people/i60714754) was born on 29th of October 1900 to [John Hugh Ross](/family-tree/people/i75057664) and [Marion Cumming](/family-tree/people/i59851647) in Embo, Sutherland, Scotland."
             }
           ]
         },
@@ -2910,10 +2922,6 @@
             {
               "Date": "1939-11-15",
               "Description": "[Virginia C Simonet](/family-tree/people/i33863084) got married on 15th of November 1939 in Wilton, Fairfield County, Connecticut, United States of America."
-            },
-            {
-              "Date": "1954-11-15",
-              "Description": "[Marion Cumming](/family-tree/people/i59851647) died on 15th of November 1954."
             }
           ]
         },
@@ -2935,13 +2943,18 @@
             },
             {
               "Date": "1896-11-17",
-              "Description": "[Hugh Alexander Ross](/family-tree/people/i22731476) was born on 17th of November 1896 to [John Ross](/family-tree/people/i75057664) and [Marion Cumming](/family-tree/people/i59851647) in Embo, Sutherland, Scotland."
+              "Description": "[Hugh Alexander Ross](/family-tree/people/i22731476) was born on 17th of November 1896 to [John Hugh Ross](/family-tree/people/i75057664) and [Marion Cumming](/family-tree/people/i59851647) in Embo, Sutherland, Scotland."
             }
           ]
         },
         {
           "Day": 18,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1944-11-18",
+              "Description": "[Marion Cumming](/family-tree/people/i59851647) died on 18th of November 1944 at Springwell Cottage, Embo, Sutherland, Scotland."
+            }
+          ]
         },
         {
           "Day": 19,
@@ -2952,7 +2965,11 @@
             },
             {
               "Date": "1889-11-19",
-              "Description": "[Marion Cumming](/family-tree/people/i59851647) got married to [John Ross](/family-tree/people/i75057664) on 19th of November 1889 in Dornoch, Sutherland, Scotland."
+              "Description": "[Marion Cumming](/family-tree/people/i59851647) got married to [John Hugh Ross](/family-tree/people/i75057664) on 19th of November 1889 in Dornoch, Sutherland, Scotland."
+            },
+            {
+              "Date": "1889-11-19",
+              "Description": "[John Hugh Ross](/family-tree/people/i75057664) got married to [Marion Cumming](/family-tree/people/i59851647) on 19th of November 1889 in Dornoch, Sutherland, Scotland."
             }
           ]
         },
@@ -3056,7 +3073,7 @@
           "Events": [
             {
               "Date": "1890-11-28",
-              "Description": "[Ann Ross](/family-tree/people/i52613824) was born on 28th of November 1890 to [John Ross](/family-tree/people/i75057664) and [Marion Cumming](/family-tree/people/i59851647) in Embo, Sutherland, Scotland."
+              "Description": "[Ann Ross](/family-tree/people/i52613824) was born on 28th of November 1890 to [John Hugh Ross](/family-tree/people/i75057664) and [Marion Cumming](/family-tree/people/i59851647) in Embo, Sutherland, Scotland."
             }
           ]
         },
@@ -3306,7 +3323,7 @@
           "Events": [
             {
               "Date": "1805-12-27",
-              "Description": "[William Ross](/family-tree/people/i39617772) got married on 27th of December 1805."
+              "Description": "[William Ross](/family-tree/people/i31822850) got married on 27th of December 1805."
             }
           ]
         },

@@ -451,7 +451,7 @@ There were 6 people who worked as a Farmer.
 
 ## Fish Worker
 
-There were 66 people who worked as a Fish Worker of some sort.
+There were 68 people who worked as a Fish Worker of some sort.
 
 * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
@@ -512,11 +512,13 @@ There were 66 people who worked as a Fish Worker of some sort.
 * **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - ).
 * **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896), mentioned 10 times.
 * **[Ross, Alexander](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - ), mentioned 5 times.
+* **[Ross, Alexander](people/@64872505@-alexander-ross-b1855-d.md)** (1855 - ).
 * **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875), mentioned 3 times.
+* **[Ross, Hugh](people/@33375290@-hugh-ross-b1857-d.md)** (about 1857 - ).
 * **[Ross, John](people/@29351958@-john-ross-b-d.md)**.
 * **[Ross, John](people/@36837210@-john-ross-b1855-12-14-d.md)** (14/Dec/1855 - ).
 * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ), mentioned twice.
-* **[Ross, John](people/@75057664@-john-ross-b1859-6-19-d.md)** (19/Jun/1859 - ), mentioned 3 times.
+* **[Ross, John Hugh](people/@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md)** (19/Jun/1859 - 7/Oct/1941), mentioned 6 times.
 * **[Ross, Kenneth](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - ).
 * **[Ross, Patrick](people/@62001920@-patrick-ross-b1853-d.md)** (about 1853 - ).
 * **[Ross, William](people/@91623667@-william-ross-b1855-d.md)** (about 1855 - ).
@@ -549,7 +551,7 @@ There were 66 people who worked as a Fish Worker of some sort.
 
 ## Fisher
 
-There were 54 people who worked as a Fisher of some sort.
+There were 56 people who worked as a Fisher of some sort.
 
 * **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896).
 
@@ -599,11 +601,13 @@ There were 54 people who worked as a Fisher of some sort.
 * **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - ).
 * **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896), mentioned 10 times.
 * **[Ross, Alexander](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - ), mentioned 5 times.
+* **[Ross, Alexander](people/@64872505@-alexander-ross-b1855-d.md)** (1855 - ).
 * **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875), mentioned 3 times.
+* **[Ross, Hugh](people/@33375290@-hugh-ross-b1857-d.md)** (about 1857 - ).
 * **[Ross, John](people/@29351958@-john-ross-b-d.md)**.
 * **[Ross, John](people/@36837210@-john-ross-b1855-12-14-d.md)** (14/Dec/1855 - ).
 * **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ), mentioned twice.
-* **[Ross, John](people/@75057664@-john-ross-b1859-6-19-d.md)** (19/Jun/1859 - ), mentioned 3 times.
+* **[Ross, John Hugh](people/@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md)** (19/Jun/1859 - 7/Oct/1941), mentioned 6 times.
 * **[Ross, Kenneth](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - ).
 * **[Ross, Patrick](people/@62001920@-patrick-ross-b1853-d.md)** (about 1853 - ).
 * **[Ross, William](people/@91623667@-william-ross-b1855-d.md)** (about 1855 - ).
@@ -896,6 +900,10 @@ There were 2 people who worked as a Manager of some sort.
 ## Mercantile Clerk
 
 * **[Howie, Peter](people/@19655531@-peter-howie-b-d.md)**.
+
+## Mercantile Marine
+
+* **[Ross, John Donald](people/@60714754@-john-donald-ross-b1900-10-29-d1917-1-26.md)** (29/Oct/1900 - 26/Jan/1917).
 
 ## Merchant
 

@@ -4,7 +4,7 @@
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "20/May/1863",
-  "DateOfDeath": "15/Nov/1954",
+  "DateOfDeath": "18/Nov/1944",
   "Parents": [
     {
       "Id": "i66384942",
@@ -89,7 +89,7 @@
           "DateOfDeath": "20/Jan/1896",
           "Parents": [
             {
-              "Id": "i39617772",
+              "Id": "i31822850",
               "Name": "William Ross",
               "Gender": "Male",
               "Relationship": "father",
@@ -117,7 +117,7 @@
               ]
             },
             {
-              "Id": "i14483646",
+              "Id": "i31854910",
               "Name": "Janet MacLeod",
               "Gender": "Female",
               "Relationship": "mother",

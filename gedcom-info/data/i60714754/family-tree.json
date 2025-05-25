@@ -1,0 +1,129 @@
+﻿{
+  "Subject": {
+    "Id": "i60714754",
+    "Name": "John Donald Ross",
+    "Gender": "Male",
+    "DateOfBirth": "29/Oct/1900",
+    "DateOfDeath": "26/Jan/1917"
+  },
+  "Parents": [
+    {
+      "Id": "i75057664",
+      "Name": "John Hugh Ross",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jun/1859",
+      "DateOfDeath": "7/Oct/1941",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i59851647",
+      "Name": "Marion Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "20/May/1863",
+      "DateOfDeath": "18/Nov/1944",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i29684790",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i59851647",
+          "i75057664"
+        ]
+      ]
+    },
+    {
+      "Id": "i52613824",
+      "Name": "Ann Ross",
+      "Gender": "Female",
+      "DateOfBirth": "28/Nov/1890",
+      "DateOfDeath": "27/Jun/1980",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i59851647",
+          "i75057664"
+        ]
+      ]
+    },
+    {
+      "Id": "i62357517",
+      "Name": "James Ross",
+      "Gender": "Male",
+      "DateOfBirth": "1893",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i59851647",
+          "i75057664"
+        ]
+      ]
+    },
+    {
+      "Id": "i49602674",
+      "Name": "Jessie Ross",
+      "Gender": "Female",
+      "DateOfBirth": "1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i59851647",
+          "i75057664"
+        ]
+      ]
+    },
+    {
+      "Id": "i22731476",
+      "Name": "Hugh Alexander Ross",
+      "Gender": "Male",
+      "DateOfBirth": "17/Nov/1896",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i59851647",
+          "i75057664"
+        ]
+      ]
+    },
+    {
+      "Id": "i39695489",
+      "Name": "Marion Ross",
+      "Gender": "Female",
+      "DateOfBirth": "1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i59851647",
+          "i75057664"
+        ]
+      ]
+    },
+    {
+      "Id": "i60714754",
+      "Name": "John Donald Ross",
+      "Gender": "Male",
+      "DateOfBirth": "29/Oct/1900",
+      "DateOfDeath": "26/Jan/1917",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i59851647",
+          "i75057664"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

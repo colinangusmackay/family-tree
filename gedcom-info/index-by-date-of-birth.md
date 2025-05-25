@@ -27,7 +27,7 @@ permalink: /indexes/by-date-of-birth
 ### 1780s
 
 * **Born in 1780.**
-  * **[Ross, William](people/@39617772@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864)
+  * **[Ross, William](people/@31822850@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864)
 * **Born in 1781.**
   * **[Grant, Margaret](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
   * **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
@@ -41,7 +41,7 @@ permalink: /indexes/by-date-of-birth
 ### 1790s
 
 * **Born in 1798.**
-  * **[MacLeod, Janet](people/@14483646@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864)
+  * **[MacLeod, Janet](people/@31854910@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864)
 
 ## 19th Century
 
@@ -207,6 +207,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Betsy](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - )
   * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
   * **[Paterson, John](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - )
+  * **[Ross, Alexander](people/@64872505@-alexander-ross-b1855-d.md)** (1855 - )
   * **[Ross, William](people/@91623667@-william-ross-b1855-d.md)** (about 1855 - )
   * **[Mackay, Ann](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940)
   * **[Ross, John](people/@36837210@-john-ross-b1855-12-14-d.md)** (14/Dec/1855 - )
@@ -233,7 +234,7 @@ permalink: /indexes/by-date-of-birth
   * **[Johnston, Jane](people/@71906070@-jane-johnston-b1859-d1922.md)** (about 1859 - before 1922)
   * **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
   * **[Mackay, Jane or Jean](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - )
-  * **[Ross, John](people/@75057664@-john-ross-b1859-6-19-d.md)** (19/Jun/1859 - )
+  * **[Ross, John Hugh](people/@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md)** (19/Jun/1859 - 7/Oct/1941)
   * **[Paterson, Jessie](people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md)** (11/Oct/1859 - 11/Mar/1881)
 
 ### 1860s
@@ -241,7 +242,6 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1860.**
   * **[Fleming, Samuel](people/@19337566@-samuel-fleming-b1860-d.md)** (about 1860 - )
   * **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939)
-  * **[Ross, Jessie](people/@34993752@-jessie-ross-b1860-d.md)** (1860 - )
   * **[Ross, Ann](people/@32419757@-ann-ross-b1860-6-17-d.md)** (17/Jun/1860 - )
   * **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923)
 * **Born in 1861.**
@@ -253,7 +253,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1911.md)** (12/Apr/1861 - before 1911)
   * **[Paterson, Williamina](people/@90589456@-williamina-paterson-b1861-6-10-d.md)** (10/Jun/1861 - )
 * **Born in 1862.**
-  * **[Ross, Sarah](people/@84017554@-sarah-ross-b1862-d.md)** (1862 - )
+  * **[Ross, Jessie](people/@34993752@-jessie-ross-b1862-d.md)** (about 1862 - )
   * **[Ross, Barbara](people/@82167024@-barbara-ross-b1862-2-28-d.md)** (28/Feb/1862 - )
   * **[Smith, Rachel](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942)
 * **Born in 1863.**
@@ -262,10 +262,11 @@ permalink: /indexes/by-date-of-birth
   * **[Napier, Mary](people/@490155@-mary-napier-b1863-d.md)** (1863 - )
   * **[Ross, Alexander](people/@98834750@-alexander-ross-b1863-d.md)** (1863 - )
   * **[Grant, Hugh](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944)
-  * **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1954-11-15.md)** (20/May/1863 - 15/Nov/1954)
+  * **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1944-11-18.md)** (20/May/1863 - 18/Nov/1944)
 * **Born in 1864.**
   * **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - )
   * **[Ross, Jeannie](people/@64098912@-jeannie-ross-b1864-d.md)** (1864 - )
+  * **[Ross, Sarah](people/@84017554@-sarah-ross-b1864-d.md)** (about 1864 - )
   * **[Sunderland, Thomas](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - )
   * **[Wynn, Eliza Jane](people/@63437677@-eliza-jane-wynn-b1864-d.md)** (about 1864 - )
   * **[Fraser, Ann](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891)
@@ -285,6 +286,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1867.**
   * **[, Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
   * **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
+  * **[Ross, Kenneth](people/@64618340@-kenneth-ross-b1867-d.md)** (1867 - )
   * **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
   * **[MacDonald, Alexander](people/@81905126@-alexander-macdonald-b1867-3-5-d1928-9-5.md)** (5/Mar/1867 - 5/Sep/1928)
   * **[Lenox, Minnie](people/@99536158@-minnie-lenox-b1867-4-15-d.md)** (15/Apr/1867 - )
@@ -309,6 +311,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1872.**
   * **[Farnham, Mae](people/@53003230@-mae-farnham-b1872-d.md)** (about 1872 - )
   * **[Mackay, Jane](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934)
+  * **[Ross, Ann](people/@99728908@-ann-ross-b1872-d.md)** (1872 - )
   * **[Walker, Ollie E](people/@42365832@-ollie-e-walker-b1872-d.md)** (about 1872 - )
   * **[Wilson, Mary](people/@23013592@-mary-wilson-b1872-d.md)** (about 1872 - )
   * **[Ross, Donald](people/@4496220@-donald-ross-b1872-8-30-d.md)** (30/Aug/1872 - )
@@ -329,6 +332,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1876.**
   * **[Dalrymple, Janet](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
   * **[McKenzie, Barbara](people/@18932462@-barbara-mckenzie-b1876-d.md)** (about 1876 - )
+  * **[Ross, Donald](people/@46967448@-donald-ross-b1876-d.md)** (1876 - )
   * **[Wilson, Henry](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - )
   * **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939)
 * **Born in 1877.**
@@ -435,6 +439,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Annie](people/@51252926@-annie-mackay-b1892-12-15-d1918.md)** (15/Dec/1892 - 1918)
 * **Born in 1893.**
   * **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
+  * **[Ross, James](people/@62357517@-james-ross-b1893-d.md)** (1893 - )
   * **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
   * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974)
 * **Born in 1894.**
@@ -443,6 +448,7 @@ permalink: /indexes/by-date-of-birth
   * **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
   * **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 * **Born in 1895.**
+  * **[Ross, Jessie](people/@49602674@-jessie-ross-b1895-d.md)** (1895 - )
   * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - )
   * **[McKnight, Richard](people/@33327416@-richard-mcknight-b1895-4-27-d.md)** (27/Apr/1895 - )
   * **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - )
@@ -474,10 +480,12 @@ permalink: /indexes/by-date-of-birth
 
 * **Born in 1900.**
   * **[Grant, Catherine](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - )
+  * **[Ross, Marion](people/@39695489@-marion-ross-b1900-d.md)** (1900 - )
   * **[Wilson, Ella R](people/@43820265@-ella-r-wilson-b1900-d.md)** (about 1900 - )
   * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
   * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
   * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
+  * **[Ross, John Donald](people/@60714754@-john-donald-ross-b1900-10-29-d1917-1-26.md)** (29/Oct/1900 - 26/Jan/1917)
   * **[Ross, Peter](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
 * **Born in 1901.**
   * **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - )

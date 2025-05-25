@@ -64,7 +64,8 @@ References | 1864 D 047/ 21
 ## Source Referenced by
 
 * [Isabella Mackay](../people/@16263484@-isabella-mackay-b1764-d.md) (before 1764 - )
-* [Janet MacLeod](../people/@14483646@-janet-macleod-b1798-d1864.md) (before 1798 - after 1864)
+* [Janet MacLeod](../people/@31854910@-janet-macleod-b1798-d1864.md) (before 1798 - after 1864)
 * [Alexander Ross](../people/@81387900@-alexander-ross-b1816-d1896-1-20.md) (about 1816 - 20/Jan/1896)
+* [Hugh Ross](../people/@10594034@-hugh-ross-b1826-d1875-9-5.md) (about 1826 - 5/Sep/1875)
 * [John Ross](../people/@76784714@-john-ross-b1764-d.md) (before 1764 - )
-* [William Ross](../people/@39617772@-william-ross-b1780-d1864-3-31.md) (about 1780 - 31/Mar/1864)
+* [William Ross](../people/@31822850@-william-ross-b1780-d1864-3-31.md) (about 1780 - 31/Mar/1864)

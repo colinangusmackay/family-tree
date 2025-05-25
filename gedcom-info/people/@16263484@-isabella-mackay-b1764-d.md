@@ -15,7 +15,7 @@ permalink: /people/i16263484
 ## Immediate Family
 
 * Partner: [John Ross](./@76784714@-john-ross-b1764-d.md) (before 1764 - )
-* Son: [William Ross](./@39617772@-william-ross-b1780-d1864-3-31.md) (about 1780 - 31/Mar/1864)
+* Son: [William Ross](./@31822850@-william-ross-b1780-d1864-3-31.md) (about 1780 - 31/Mar/1864)
 
 ## Timeline
 

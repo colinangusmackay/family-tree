@@ -16,4 +16,4 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [William Ross](../people/@39617772@-william-ross-b1780-d1864-3-31.md) (about 1780 - 31/Mar/1864)
+* [William Ross](../people/@31822850@-william-ross-b1780-d1864-3-31.md) (about 1780 - 31/Mar/1864)
