@@ -66,8 +66,8 @@ References | 1861 M 066/2 3
 
 ## Source Referenced by
 
+* [Roderick McIver](../people/@91038040@-roderick-mciver-b1821-d1878-10-11.md) (about 1821 - 11/Oct/1878)
 * [Rodrick McIver](../people/@53638178@-rodrick-mciver-b-d.md)
-* [Rodrick McIver](../people/@91038040@-rodrick-mciver-b1821-d.md) (about 1821 - )
 * [Annie McLean](../people/@68658880@-annie-mclean-b1835-d.md) (about 1835 - )
 * [John McLean](../people/@91397610@-john-mclean-b-d1877.md) ( - after 1877)
 * [Mary Morrison](../people/@18316154@-mary-morrison-b1805-d1877-10-23.md) (about 1805 - 23/Oct/1877)

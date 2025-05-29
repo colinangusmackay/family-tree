@@ -453,6 +453,10 @@
               "Description": "[Johnina Hanton](/family-tree/people/i68592798) was born on 12th of February 1919 to [James Hanton](/family-tree/people/i71830064) and [Janet McKechnie](/family-tree/people/i47324688)."
             },
             {
+              "Date": "1934-02-12",
+              "Description": "[William Alexander Mackay](/family-tree/people/i8407472) was born on 12th of February 1934 to [William Alexander Mackay](/family-tree/people/i9383584) and [Mary Ann Cumming](/family-tree/people/i48241984) in Embo, Sutherland, Scotland."
+            },
+            {
               "Date": "1941-02-12",
               "Description": "[Jessie MacDonald](/family-tree/people/i97412403) died on 12th of February 1941 at Grace Hospital, 6071 W Outer Dr, Detroit, MI 48235, United States of America."
             }
@@ -464,7 +468,12 @@
         },
         {
           "Day": 14,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1861-02-14",
+              "Description": "[Roderick McIver](/family-tree/people/i91038040) got married to [Annie McLean](/family-tree/people/i68658880) on 14th of February 1861 at Ewe Church, Gairloch, Scotland."
+            }
+          ]
         },
         {
           "Day": 15,
@@ -1020,6 +1029,10 @@
         {
           "Day": 15,
           "Events": [
+            {
+              "Date": "1920-04-15",
+              "Description": "[Christina Fleming](/family-tree/people/i89446044) got married to [John Albert Mathews](/family-tree/people/i5643892) on 15th of April 1920 in Glasgow, Scotland."
+            },
             {
               "Date": "1867-04-15",
               "Description": "[Minnie Lenox](/family-tree/people/i99536158) was born on 15th of April 1867 to [Andrew Lenox](/family-tree/people/i61792169) and [Roxannah Stewart](/family-tree/people/i56480720)."
@@ -1690,6 +1703,10 @@
             {
               "Date": "1841-07-02",
               "Description": "[Adam Cumming](/family-tree/people/i55409960) was born on 2nd of July 1841 to [Donald Cumming](/family-tree/people/i45726416) and [Kate MacDonald](/family-tree/people/i28255030) in Embo, Sutherland, Scotland."
+            },
+            {
+              "Date": "1920-07-02",
+              "Description": "[George Mathews](/family-tree/people/i81407904) was born on 2nd of July 1920 to [John Albert Mathews](/family-tree/people/i5643892) and [Christina Fleming](/family-tree/people/i89446044) in Blackburn, West Lothian, Scotland."
             }
           ]
         },
@@ -2031,7 +2048,7 @@
           "Events": [
             {
               "Date": "1878-08-17",
-              "Description": "[Hector McLean McIver](/family-tree/people/i62168745) was born on 17th of August 1878 to [Rodrick McIver](/family-tree/people/i91038040) and [Annie McLean](/family-tree/people/i68658880) in Isle of Ewe, Ross and Cromarty, Scotland."
+              "Description": "[Hector McLean McIver](/family-tree/people/i62168745) was born on 17th of August 1878 to [Roderick McIver](/family-tree/people/i91038040) and [Annie McLean](/family-tree/people/i68658880) in Isle of Ewe, Ross and Cromarty, Scotland."
             }
           ]
         },
@@ -2556,6 +2573,10 @@
               "Description": "[Hugh Ross](/family-tree/people/i75672326) was born on 11th of October 1858 to [Alexander Ross](/family-tree/people/i81387900) and [Marion Mackay](/family-tree/people/i78930004) in Embo, Sutherland, Scotland."
             },
             {
+              "Date": "1878-10-11",
+              "Description": "[Roderick McIver](/family-tree/people/i91038040) died on 11th of October 1878 in Loch Ewe, Gairloch, Rossshire, Scotland."
+            },
+            {
               "Date": "1859-10-11",
               "Description": "[Jessie Paterson](/family-tree/people/i992704) was born on 11th of October 1859 to [William Paterson](/family-tree/people/i55148620) and [Barbara Mackenzie](/family-tree/people/i28263584) in Inverness, Scotland."
             }
@@ -2987,7 +3008,7 @@
           "Events": [
             {
               "Date": "1895-11-21",
-              "Description": "[John Albert Mathews](/family-tree/people/i5643892) was born on 21st of November 1895 to [George Mathews](/family-tree/people/i7150388) and [Eliza Jane Wynn](/family-tree/people/i63437677)."
+              "Description": "[John Albert Mathews](/family-tree/people/i5643892) was born on 21st of November 1895 to [George Mathews](/family-tree/people/i7150388) and [Eliza Jane Wynn](/family-tree/people/i63437677) in Birmingham, England."
             }
           ]
         },

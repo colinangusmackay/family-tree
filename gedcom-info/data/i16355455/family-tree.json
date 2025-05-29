@@ -1,0 +1,101 @@
+﻿{
+  "Subject": {
+    "Id": "i16355455",
+    "Name": "Donald McIver",
+    "Gender": "Male",
+    "DateOfBirth": "1862",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i91038040",
+      "Name": "Roderick McIver",
+      "Gender": "Male",
+      "DateOfBirth": "about 1821",
+      "DateOfDeath": "11/Oct/1878",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i68658880",
+      "Name": "Annie McLean",
+      "Gender": "Female",
+      "DateOfBirth": "about 1835",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i16355455",
+      "Name": "Donald McIver",
+      "Gender": "Male",
+      "DateOfBirth": "1862",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i68658880",
+          "i91038040"
+        ]
+      ]
+    },
+    {
+      "Id": "i51505118",
+      "Name": "Norman McIver",
+      "Gender": "Male",
+      "DateOfBirth": "1865",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i68658880",
+          "i91038040"
+        ]
+      ]
+    },
+    {
+      "Id": "i54470962",
+      "Name": "Roderick McIver",
+      "Gender": "Male",
+      "DateOfBirth": "1867",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i68658880",
+          "i91038040"
+        ]
+      ]
+    },
+    {
+      "Id": "i29848128",
+      "Name": "John McIver",
+      "Gender": "Male",
+      "DateOfBirth": "1870",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i68658880",
+          "i91038040"
+        ]
+      ]
+    },
+    {
+      "Id": "i62168745",
+      "Name": "Hector McLean McIver",
+      "Gender": "Male",
+      "DateOfBirth": "17/Aug/1878",
+      "DateOfDeath": "21/Feb/1938",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i68658880",
+          "i91038040"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

@@ -228,7 +228,7 @@ permalink: /indexes/by-family-name
 
 - **[Agnes Fleming](people/@29204156@-agnes-fleming-b1898-5-25-d.md)** (25/May/1898 - )
 - **[Christina Fleming](people/@85123390@-christina-fleming-b1883-8-26-d1884-3-10.md)** (26/Aug/1883 - 10/Mar/1884)
-- **[Christina Fleming](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - )
+- **[Christina Fleming](people/@89446044@-christina-fleming-b1895-8-23-d1985.md)** (23/Aug/1895 - 1985)
 - **[Elizabeth Fleming](people/@79236484@-elizabeth-fleming-b1887-4-22-d.md)** (22/Apr/1887 - )
 - **[Ellen Fleming](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - )
 - **[James Fleming](people/@45874990@-james-fleming-b1854-d.md)** (about 1854 - )
@@ -508,7 +508,7 @@ permalink: /indexes/by-family-name
 - **[Thomas Mackay](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934)
 - **[Thomas Mackay](people/@11442358@-thomas-mackay-b1920-d.md)** (after 1920 - )
 - **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
-- **[William Alexander Mackay](people/@8407472@-william-alexander-mackay-b1934-2-d1934-3-23.md)** (Feb/1934 - 23/Mar/1934)
+- **[William Alexander Mackay](people/@8407472@-william-alexander-mackay-b1934-2-12-d1934-3-23.md)** (12/Feb/1934 - 23/Mar/1934)
 - **[William James Mackay](people/@53698892@-william-james-mackay-b1920-d.md)** (after 1920 - )
 - **[William Mackay](people/@24694904@-william-mackay-b-d.md)**
 - **[William Mackay](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841)
@@ -560,6 +560,7 @@ permalink: /indexes/by-family-name
 - **[b Albert Mathews](people/@35875756@-b-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 - **[Charles A Mathews](people/@74822247@-charles-a-mathews-b1899-d.md)** (about 1899 - )
 - **[George Mathews](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
+- **[George Mathews](people/@81407904@-george-mathews-b1920-7-2-d.md)** (2/Jul/1920 - )
 - **[Georgina E Mathews](people/@84093657@-georgina-e-mathews-b1886-d.md)** (about 1886 - )
 - **[John Albert Mathews](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 - **[Joseph Mathews](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - )
@@ -590,13 +591,18 @@ permalink: /indexes/by-family-name
 
 ## McIver
 
+- **[Christina McIver](people/@35976399@-christina-mciver-b1841-d.md)** (1841 - )
+- **[Donald McIver](people/@16355455@-donald-mciver-b1862-d.md)** (1862 - )
 - **[Elizabeth McIver](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
 - **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938)
 - **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
+- **[John McIver](people/@29848128@-john-mciver-b1870-d.md)** (1870 - )
 - **[Margaret McKenzie McIver](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
+- **[Norman McIver](people/@51505118@-norman-mciver-b1865-d.md)** (1865 - )
+- **[Roderick McIver](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878)
+- **[Roderick McIver](people/@54470962@-roderick-mciver-b1867-d.md)** (1867 - )
 - **[Roderick McKenzie McIver](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
 - **[Rodrick McIver](people/@53638178@-rodrick-mciver-b-d.md)**
-- **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
 - **[Thomas Clephan McIver](people/@74287888@-thomas-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
 
 ## McKay
@@ -616,6 +622,7 @@ permalink: /indexes/by-family-name
 - **[Barbara McKenzie](people/@18932462@-barbara-mckenzie-b1876-d.md)** (about 1876 - )
 - **[Christina McKenzie](people/@25915316@-christina-mckenzie-b1880-d.md)** (about 1880 - )
 - **[Jessie Paterson McKenzie](people/@2043547@-jessie-paterson-mckenzie-b1888-d.md)** (about 1888 - )
+- **[Malcolm McKenzie](people/@40866411@-malcolm-mckenzie-b1893-d.md)** (1893 - )
 - **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[Murdoch McKenzie](people/@1568232@-murdoch-mckenzie-b-d.md)**
 - **[Murdoch McKenzie](people/@99087108@-murdoch-mckenzie-b1890-d.md)** (1890 - )

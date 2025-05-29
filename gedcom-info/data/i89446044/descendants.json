@@ -4,8 +4,17 @@
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "23/Aug/1895",
-  "DateOfDeath": "",
+  "DateOfDeath": "1985",
   "Children": [
+    {
+      "Id": "i81407904",
+      "Name": "George Mathews",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "2/Jul/1920",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i98232688",
       "Name": "Joseph Mathews",

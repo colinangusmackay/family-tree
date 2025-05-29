@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i35976399",
+  "Name": "Christina McIver",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "1841",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i8610974",
+      "Name": "Christy MacLennan",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i53638178",
+      "Name": "Rodrick McIver",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

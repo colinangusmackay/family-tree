@@ -82,7 +82,7 @@ permalink: /indexes/by-date-of-birth
   * **[Grant, Donald](people/@15156692@-donald-grant-b1820-d.md)** (before 1820 - )
   * **[Mackay, Janet](people/@44945539@-janet-mackay-b1820-d.md)** (before 1820 - )
 * **Born in 1821.**
-  * **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
+  * **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878)
   * **[Nicholson, Margaret](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - )
   * **[Mackay, Marion](people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md)** (30/Jun/1821 - 30/Dec/1909)
 * **Born in 1823.**
@@ -135,6 +135,7 @@ permalink: /indexes/by-date-of-birth
   * **[Ross, Unknown (boy)](people/@68717952@-unknown-boy-ross-b1840~1855-d1840~1855.md)** (bet' 1840 and 1855 - bet' 1840 and 1855)
   * **[Ross, Jessie](people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md)** (5/Nov/1840 - 13/Jan/1918)
 * **Born in 1841.**
+  * **[McIver, Christina](people/@35976399@-christina-mciver-b1841-d.md)** (1841 - )
   * **[Tevin, Richard](people/@65007133@-richard-tevin-b1841-d.md)** (about 1841 - )
   * **[Mackay, John](people/@58430005@-john-mackay-b1841-2-18-d.md)** (18/Feb/1841 - )
   * **[Wilson, David](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - )
@@ -253,6 +254,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1911.md)** (12/Apr/1861 - before 1911)
   * **[Paterson, Williamina](people/@90589456@-williamina-paterson-b1861-6-10-d.md)** (10/Jun/1861 - )
 * **Born in 1862.**
+  * **[McIver, Donald](people/@16355455@-donald-mciver-b1862-d.md)** (1862 - )
   * **[Ross, Jessie](people/@34993752@-jessie-ross-b1862-d.md)** (about 1862 - )
   * **[Ross, Barbara](people/@82167024@-barbara-ross-b1862-2-28-d.md)** (28/Feb/1862 - )
   * **[Smith, Rachel](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942)
@@ -275,6 +277,7 @@ permalink: /indexes/by-date-of-birth
   * **[Grant, Christy](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
   * **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942)
   * **[McBride, Catherine](people/@24941331@-catherine-mcbride-b1865-d.md)** (about 1865 - )
+  * **[McIver, Norman](people/@51505118@-norman-mciver-b1865-d.md)** (1865 - )
   * **[MacDonald, William](people/@76505641@-william-macdonald-b1865-1-9-d1898-5-12.md)** (9/Jan/1865 - 12/May/1898)
   * **[Cumming, William](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
   * **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
@@ -286,6 +289,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1867.**
   * **[, Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
   * **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
+  * **[McIver, Roderick](people/@54470962@-roderick-mciver-b1867-d.md)** (1867 - )
   * **[Ross, Kenneth](people/@64618340@-kenneth-ross-b1867-d.md)** (1867 - )
   * **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
   * **[MacDonald, Alexander](people/@81905126@-alexander-macdonald-b1867-3-5-d1928-9-5.md)** (5/Mar/1867 - 5/Sep/1928)
@@ -305,6 +309,7 @@ permalink: /indexes/by-date-of-birth
 
 * **Born in 1870.**
   * **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
+  * **[McIver, John](people/@29848128@-john-mciver-b1870-d.md)** (1870 - )
   * **[Napier, Henry](people/@74931773@-henry-napier-b1870-d.md)** (1870 - )
   * **[Tevin, Thomas](people/@81418416@-thomas-tevin-b1870-d.md)** (about 1870 - )
   * **[Wilson, James](people/@59901376@-james-wilson-b1870-d.md)** (about 1870 - )
@@ -438,6 +443,7 @@ permalink: /indexes/by-date-of-birth
   * **[Fleming, Joseph](people/@89747088@-joseph-fleming-b1892-10-19-d.md)** (19/Oct/1892 - )
   * **[Mackay, Annie](people/@51252926@-annie-mackay-b1892-12-15-d1918.md)** (15/Dec/1892 - 1918)
 * **Born in 1893.**
+  * **[McKenzie, Malcolm](people/@40866411@-malcolm-mckenzie-b1893-d.md)** (1893 - )
   * **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
   * **[Ross, James](people/@62357517@-james-ross-b1893-d.md)** (1893 - )
   * **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
@@ -451,7 +457,7 @@ permalink: /indexes/by-date-of-birth
   * **[Ross, Jessie](people/@49602674@-jessie-ross-b1895-d.md)** (1895 - )
   * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - )
   * **[McKnight, Richard](people/@33327416@-richard-mcknight-b1895-4-27-d.md)** (27/Apr/1895 - )
-  * **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - )
+  * **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d1985.md)** (23/Aug/1895 - 1985)
   * **[Cumming, John](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - )
   * **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 * **Born in 1896.**
@@ -580,6 +586,7 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, Anne](people/@14926290@-anne-cumming-b1920-2-23-d2002-11-14.md)** (23/Feb/1920 - 14/Nov/2002)
   * **[Mackay, Kenneth](people/@52754046@-kenneth-mackay-b1920-3-28-d.md)** (28/Mar/1920 - )
   * **[Cumming, Jessie Ann](people/@65743680@-jessie-ann-cumming-b1920-6-16-d1921-3-26.md)** (16/Jun/1920 - 26/Mar/1921)
+  * **[Mathews, George](people/@81407904@-george-mathews-b1920-7-2-d.md)** (2/Jul/1920 - )
   * **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 * **Born in 1921.**
   * **[Flood, Mary Elizabeth](people/@28471390@-mary-elizabeth-flood-b1921-d.md)** (about 1921 - )
@@ -615,7 +622,7 @@ permalink: /indexes/by-date-of-birth
   * **[Hoctor, Sylvia Jean](people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md)** (21/Dec/1933 - 1993)
 * **Born in 1934.**
   * **[Stead, Albert](people/@82189144@-albert-stead-b1934-d1938-8-22.md)** (about 1934 - 22/Aug/1938)
-  * **[Mackay, William Alexander](people/@8407472@-william-alexander-mackay-b1934-2-d1934-3-23.md)** (Feb/1934 - 23/Mar/1934)
+  * **[Mackay, William Alexander](people/@8407472@-william-alexander-mackay-b1934-2-12-d1934-3-23.md)** (12/Feb/1934 - 23/Mar/1934)
 * **Born in 1935.**
   * **[Mackay, Alexina](people/@75066880@-alexina-mackay-b1935-1-11-d1935.md)** (11/Jan/1935 - 1935)
   * **[Hayes, Dan](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018)

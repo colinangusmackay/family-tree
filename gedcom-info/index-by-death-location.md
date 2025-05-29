@@ -94,7 +94,6 @@ permalink: /indexes/by-death-location
 - **[Fisher, Margaret](people/@21244212@-margaret-fisher-b1889-d.md)** (about 1889 - )
 - **[Fisher, William](people/@85653512@-william-fisher-b1894-d.md)** (about 1894 - )
 - **[Fleming, Agnes](people/@29204156@-agnes-fleming-b1898-5-25-d.md)** (25/May/1898 - )
-- **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - )
 - **[Fleming, Elizabeth](people/@79236484@-elizabeth-fleming-b1887-4-22-d.md)** (22/Apr/1887 - )
 - **[Fleming, Ellen](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - )
 - **[Fleming, James](people/@45874990@-james-fleming-b1854-d.md)** (about 1854 - )
@@ -257,6 +256,7 @@ permalink: /indexes/by-death-location
 - **[Mathews, b Albert](people/@35875756@-b-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 - **[Mathews, Charles A](people/@74822247@-charles-a-mathews-b1899-d.md)** (about 1899 - )
 - **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
+- **[Mathews, George](people/@81407904@-george-mathews-b1920-7-2-d.md)** (2/Jul/1920 - )
 - **[Mathews, Georgina E](people/@84093657@-georgina-e-mathews-b1886-d.md)** (about 1886 - )
 - **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 - **[Mathews, Joseph](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - )
@@ -268,10 +268,14 @@ permalink: /indexes/by-death-location
 - **[McCann, Edward](people/@91921886@-edward-mccann-b-d.md)**
 - **[McFarlane, Janet](people/@96104748@-janet-mcfarlane-b-d.md)**
 - **[McFynn, Mary](people/@36976172@-mary-mcfynn-b-d1855.md)** ( - before 1855)
+- **[McIver, Christina](people/@35976399@-christina-mciver-b1841-d.md)** (1841 - )
+- **[McIver, Donald](people/@16355455@-donald-mciver-b1862-d.md)** (1862 - )
 - **[McIver, Elizabeth](people/@80366022@-elizabeth-mciver-b-d1914.md)** ( - 1914)
+- **[McIver, John](people/@29848128@-john-mciver-b1870-d.md)** (1870 - )
+- **[McIver, Norman](people/@51505118@-norman-mciver-b1865-d.md)** (1865 - )
+- **[McIver, Roderick](people/@54470962@-roderick-mciver-b1867-d.md)** (1867 - )
 - **[McIver, Roderick McKenzie](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
 - **[McIver, Rodrick](people/@53638178@-rodrick-mciver-b-d.md)**
-- **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - )
 - **[McKay, John](people/@25989156@-john-mckay-b-d1855.md)** ( - before 1855)
 - **[McKay, Margaret](people/@76218830@-margaret-mckay-b1842-d.md)** (about 1842 - )
 - **[McKay, Susan](people/@29671874@-susan-mckay-b1833-4-d1886.md)** (Apr/1833 - before 1886)
@@ -280,6 +284,7 @@ permalink: /indexes/by-death-location
 - **[McKenzie, Barbara](people/@18932462@-barbara-mckenzie-b1876-d.md)** (about 1876 - )
 - **[McKenzie, Christina](people/@25915316@-christina-mckenzie-b1880-d.md)** (about 1880 - )
 - **[McKenzie, Jessie Paterson](people/@2043547@-jessie-paterson-mckenzie-b1888-d.md)** (about 1888 - )
+- **[McKenzie, Malcolm](people/@40866411@-malcolm-mckenzie-b1893-d.md)** (1893 - )
 - **[McKenzie, Murdoch](people/@1568232@-murdoch-mckenzie-b-d.md)**
 - **[McKenzie, Murdoch](people/@99087108@-murdoch-mckenzie-b1890-d.md)** (1890 - )
 - **[McKenzie, William P](people/@51734912@-william-p-mckenzie-b1878-d.md)** (about 1878 - )
@@ -655,6 +660,12 @@ permalink: /indexes/by-death-location
 
 - **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
 
+### Rossshire
+
+#### Loch Ewe, Gairloch
+
+- **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878)
+
 ### South Lanarkshire
 
 #### Rutherglen
@@ -690,7 +701,7 @@ permalink: /indexes/by-death-location
 - **[Mackay, Janet](people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md)** (12/Nov/1890 - 15/May/1891)
 - **[Mackay, Jessie](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932)
 - **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969)
-- **[Mackay, William Alexander](people/@8407472@-william-alexander-mackay-b1934-2-d1934-3-23.md)** (Feb/1934 - 23/Mar/1934)
+- **[Mackay, William Alexander](people/@8407472@-william-alexander-mackay-b1934-2-12-d1934-3-23.md)** (12/Feb/1934 - 23/Mar/1934)
 - **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
 - **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875)
 - **[Ross, John Hugh](people/@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md)** (19/Jun/1859 - 7/Oct/1941)
@@ -714,6 +725,10 @@ permalink: /indexes/by-death-location
 #### Livingston
 
 - **[O'Malley, Margaret Paton](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
+
+#### Uphall
+
+- **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d1985.md)** (23/Aug/1895 - 1985)
 
 #### Whitburn
 

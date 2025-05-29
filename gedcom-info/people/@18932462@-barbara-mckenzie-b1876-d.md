@@ -17,6 +17,7 @@ permalink: /people/i18932462
 * Sister: [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)
 * Sister: [Jessie Paterson McKenzie](./@2043547@-jessie-paterson-mckenzie-b1888-d.md) (about 1888 - )
 * Brother: [Murdoch McKenzie](./@99087108@-murdoch-mckenzie-b1890-d.md) (1890 - )
+* Brother: [Malcolm McKenzie](./@40866411@-malcolm-mckenzie-b1893-d.md) (1893 - )
 
 ## Timeline
 

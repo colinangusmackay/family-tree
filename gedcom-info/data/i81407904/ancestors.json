@@ -1,0 +1,104 @@
+﻿{
+  "Id": "i81407904",
+  "Name": "George Mathews",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "2/Jul/1920",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i89446044",
+      "Name": "Christina Fleming",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "23/Aug/1895",
+      "DateOfDeath": "1985",
+      "Parents": [
+        {
+          "Id": "i57117702",
+          "Name": "Joseph Fleming",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "7/Oct/1851",
+          "DateOfDeath": "30/Jan/1912",
+          "Parents": [
+            {
+              "Id": "i39983533",
+              "Name": "John Fleming",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "about 1827",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i50500805",
+              "Name": "Margaret Wood",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "about 1827",
+              "DateOfDeath": "before 1871",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i14002910",
+          "Name": "Margaret Tennant",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "19/Nov/1857",
+          "DateOfDeath": "29/Jun/1924",
+          "Parents": [
+            {
+              "Id": "i79475420",
+              "Name": "Helen Collins",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i12974870",
+              "Name": "Thomas Tennant",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "i5643892",
+      "Name": "John Albert Mathews",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "21/Nov/1895",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i7150388",
+          "Name": "George Mathews",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "about 1863",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i63437677",
+          "Name": "Eliza Jane Wynn",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "about 1864",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

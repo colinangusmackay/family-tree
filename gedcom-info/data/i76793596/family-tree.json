@@ -136,6 +136,18 @@
         "i76793596",
         "i24882788"
       ]
+    },
+    {
+      "Id": "i40866411",
+      "Name": "Malcolm McKenzie",
+      "Gender": "Male",
+      "DateOfBirth": "1893",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i76793596",
+        "i24882788"
+      ]
     }
   ]
 }

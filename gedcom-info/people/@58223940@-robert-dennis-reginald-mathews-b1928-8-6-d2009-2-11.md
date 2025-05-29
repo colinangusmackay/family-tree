@@ -9,8 +9,9 @@ permalink: /people/i58223940
 
 ## Immediate Family
 
-* Mother: [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d.md) (23/Aug/1895 - )
+* Mother: [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d1985.md) (23/Aug/1895 - 1985)
 * Father: [John Albert Mathews](./@5643892@-john-albert-mathews-b1895-11-21-d.md) (21/Nov/1895 - )
+* Brother: [George Mathews](./@81407904@-george-mathews-b1920-7-2-d.md) (2/Jul/1920 - )
 * Wife: [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) (7/Dec/1921 - 1982)
 * Brother: [Joseph Mathews](./@98232688@-joseph-mathews-b1922-6-15-d.md) (15/Jun/1922 - )
 * Sister: X
@@ -22,29 +23,30 @@ permalink: /people/i58223940
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-6/Aug/1928 | Born | Born to [John Albert Mathews](./@5643892@-john-albert-mathews-b1895-11-21-d.md) and [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d.md) in Birmingham, England. | [1](#1), [2](#2), [3](#3), [4](#4) | [5](#5)
-31/Jul/1931 | Birth of sister | X born to [John Albert Mathews](./@5643892@-john-albert-mathews-b1895-11-21-d.md) and [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d.md). | [6](#6) | 
+6/Aug/1928 | Born | Born to [John Albert Mathews](./@5643892@-john-albert-mathews-b1895-11-21-d.md) and [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d1985.md) in Birmingham, England. | [1](#1), [2](#2), [3](#3), [4](#4) | [5](#5)
+31/Jul/1931 | Birth of sister | X born to [John Albert Mathews](./@5643892@-john-albert-mathews-b1895-11-21-d.md) and [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d1985.md). | [6](#6) | 
 Oct/1952 | Marriage | Married to [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) in Birmingham, England | [7](#7) | 
 1954 | Birth of son | [b Albert Mathews](./@35875756@-b-albert-mathews-b1954-d2004.md) born to [Robert Dennis Reginald Mathews](./@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md). | [8](#8) | 
 6/Dec/1956 | Birth of son | X born to [Robert Dennis Reginald Mathews](./@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) in Blackburn, West Lothian, Scotland. | [9](#9) | 
 6/Dec/1956 | Birth of son | X born to [Robert Dennis Reginald Mathews](./@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md) and [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) in Blackburn, West Lothian, Scotland. | [10](#10) | 
 1982 | Death of partner | [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) died. | [11](#11) | 
-2004 | Death of son | [b Albert Mathews](./@35875756@-b-albert-mathews-b1954-d2004.md) died. | [12](#12) | 
+1985 | Death of mother | [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d1985.md) died in Uphall, West Lothian, Scotland. | [12](#12) | 
+2004 | Death of son | [b Albert Mathews](./@35875756@-b-albert-mathews-b1954-d2004.md) died. | [13](#13) | 
 11/Feb/2009 | Died | Died in Blackburn, West Lothian, Scotland. | [3](#3), [4](#4) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1993 | 8 Ladeside Drive, Blackburn, West Lothian, EH47 7JS, Scotland | [13](#13)
-2003 | 8 Ladeside Drive, Blackburn, West Lothian, EH47 7JS, Scotland | [14](#14)
+1993 | 8 Ladeside Drive, Blackburn, West Lothian, EH47 7JS, Scotland | [14](#14)
+2003 | 8 Ladeside Drive, Blackburn, West Lothian, EH47 7JS, Scotland | [15](#15)
 2009 | Bathgate, West Lothian, Scotland | [3](#3)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1980 | Janitor in Blackburn, West Lothian, Scotland | [13](#13), [4](#4)
+1980 | Janitor in Blackburn, West Lothian, Scotland | [14](#14), [4](#4)
 
 ## Footnotes
 
@@ -142,6 +144,16 @@ Date | Occupation | Sources & Notes
 
 ### 12
 
+**1985 MATHEWS, CHRISTINA (Index to the Statutory Register Deaths 708/ 201)**
+
+* [Full text and notes](../sources/@872604@-1985-mathews,-christina-index-to-the-statutory-register-deaths-708-201-.md)
+* Date: 1985
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1985 D 708/ 201
+
+### 13
+
 **2004 MATHEWS, JOHN ALBERT Statutory Registers - Death Index**
 
 * [Full text and notes](../sources/@70959444@-2004-mathews,-john-albert-statutory-registers-death-index.md)
@@ -149,7 +161,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 2004 D 772/8
 
-### 13
+### 14
 
 **1993 MATHEWS, ROBERT (Lothian Courier)**
 
@@ -157,7 +169,7 @@ Date | Occupation | Sources & Notes
 * Publication: Lothian Courier
 * Date: 17/Sep/1993
 
-### 14
+### 15
 
 **2003 MATHEWS, ROBERT D (UK, Electoral Registers, 2003-2010)**
 

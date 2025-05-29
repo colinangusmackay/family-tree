@@ -5,7 +5,7 @@ permalink: /people/i8407472
 ---
 
 # William Alexander Mackay
-(FEB 1934 - 23 March, 1934)
+(12 February, 1934 - 23 March, 1934)
 
 ## Immediate Family
 
@@ -23,12 +23,21 @@ permalink: /people/i8407472
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-Feb/1934 | Born | Born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md). | [1](#1) | 
-23/Mar/1934 | Died | Died in Embo, Sutherland, Scotland. | [1](#1) | 
+12/Feb/1934 | Born | Born to [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) and [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+23/Mar/1934 | Died | Died in Embo, Sutherland, Scotland. | [2](#2) | 
 
 ## Footnotes
 
 ### 1
+
+**1934 MACKAY, WILLIAM ALEXANDER (Statutory Register of Births 047/ 10)**
+
+* [Full text and notes](../sources/@68242666@-1934-mackay,-william-alexander-statutory-register-of-births-047-10-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1934 B 047/ 10
+
+### 2
 
 **1934 MACKAY, WILLIAM ALEXANDER (Statutory Register of Deaths 047/ 7)**
 

@@ -4,7 +4,7 @@
     "Name": "Christina Fleming",
     "Gender": "Female",
     "DateOfBirth": "23/Aug/1895",
-    "DateOfDeath": ""
+    "DateOfDeath": "1985"
   },
   "Parents": [
     {
@@ -156,7 +156,7 @@
       "Name": "Christina Fleming",
       "Gender": "Female",
       "DateOfBirth": "23/Aug/1895",
-      "DateOfDeath": "",
+      "DateOfDeath": "1985",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -193,6 +193,18 @@
     }
   ],
   "Children": [
+    {
+      "Id": "i81407904",
+      "Name": "George Mathews",
+      "Gender": "Male",
+      "DateOfBirth": "2/Jul/1920",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i5643892",
+        "i89446044"
+      ]
+    },
     {
       "Id": "i98232688",
       "Name": "Joseph Mathews",

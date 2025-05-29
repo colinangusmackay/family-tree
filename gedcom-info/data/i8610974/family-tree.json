@@ -33,11 +33,23 @@
   "Children": [
     {
       "Id": "i91038040",
-      "Name": "Rodrick McIver",
+      "Name": "Roderick McIver",
       "Gender": "Male",
       "DateOfBirth": "about 1821",
-      "DateOfDeath": "",
+      "DateOfDeath": "11/Oct/1878",
       "RelationToSubject": "son",
+      "ParentIds": [
+        "i53638178",
+        "i8610974"
+      ]
+    },
+    {
+      "Id": "i35976399",
+      "Name": "Christina McIver",
+      "Gender": "Female",
+      "DateOfBirth": "1841",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i53638178",
         "i8610974"

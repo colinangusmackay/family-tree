@@ -224,8 +224,8 @@ There were 2 people who worked as a Cook.
 There were 4 people who worked as a Crofter.
 
 * **[Matheson, Hector](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896).
+* **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878).
 * **[McIver, Rodrick](people/@53638178@-rodrick-mciver-b-d.md)**.
-* **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
 * **[McLean, John](people/@91397610@-john-mclean-b-d1877.md)** ( - after 1877).
 
 ## Director of Studies in Art
@@ -241,7 +241,7 @@ There were 4 people who worked as a Crofter.
 There were 23 people who worked as a Domestic Servant of some sort.
 
 * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946).
-* **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - ).
+* **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d1985.md)** (23/Aug/1895 - 1985).
 * **[Fleming, Ellen](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - ).
 * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971).
 * **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ).
@@ -418,12 +418,13 @@ There were 10 people who worked as a Farm Worker of some sort.
 * **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - ).
 * **[McAughtrie, Isabella](people/@88003126@-isabella-mcaughtrie-b-d.md)**.
 * **[McAughtrie, Mary Houston](people/@54273056@-mary-houston-mcaughtrie-b1918-d.md)** (about 1918 - ).
+* **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878).
 
 #### Ploughman
 
 * **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ).
 * **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - ).
-* **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
+* **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878).
 * **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
 
 ## Farmer
@@ -652,6 +653,10 @@ There were 2 people who worked as a General Merchant.
 
 * **[McLean, Mary](people/@45920386@-mary-mclean-b1849-d.md)** (about 1849 - ).
 
+## General Servant (Domestic)
+
+* **[McIver, Christina](people/@35976399@-christina-mciver-b1841-d.md)** (1841 - ).
+
 ## Governess
 
 * **[MacKay, Anna Jessie](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021).
@@ -706,6 +711,10 @@ There were 7 people who worked as a Health Care Professional of some sort.
 ## House Maid
 
 * **[Ross, Marion](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888).
+
+## Inspector of Water Fittings
+
+* **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929).
 
 ## Insurance Clerk
 
@@ -810,7 +819,7 @@ There were 10 people who worked as a Labourer of some sort.
 There were 2 people who worked as a Lapidary.
 
 * **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - ), mentioned twice.
-* **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ).
+* **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ), mentioned twice.
 
 ## Laundry Keeper
 
@@ -857,6 +866,10 @@ There were 3 people who worked as a Linen Weaver.
 ## Linoleum Worker Labourer
 
 * **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - ).
+
+## Lithographer's Feeder
+
+* **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964).
 
 ## Machinery Painter
 
@@ -937,6 +950,10 @@ There were 3 people who worked as a Mill Worker.
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 * **[Dalrymple, Janet](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - ).
 * **[Dalrymple, John](people/@90699645@-john-dalrymple-b-d.md)**.
+
+## Millwright's Mate
+
+* **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ).
 
 ## Miner
 
@@ -1187,7 +1204,7 @@ There were 5 people who worked as a Secretary.
 There were 2 people who worked as a Servant.
 
 * **[Cowan, Agnes](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898).
-* **[McIver, Rodrick](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ).
+* **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878).
 
 ## Sewing Machinist
 

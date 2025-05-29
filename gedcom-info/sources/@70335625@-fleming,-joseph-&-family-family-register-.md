@@ -20,7 +20,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 * [Agnes Fleming](../people/@29204156@-agnes-fleming-b1898-5-25-d.md) (25/May/1898 - )
 * [Christina Fleming](../people/@85123390@-christina-fleming-b1883-8-26-d1884-3-10.md) (26/Aug/1883 - 10/Mar/1884)
-* [Christina Fleming](../people/@89446044@-christina-fleming-b1895-8-23-d.md) (23/Aug/1895 - )
+* [Christina Fleming](../people/@89446044@-christina-fleming-b1895-8-23-d1985.md) (23/Aug/1895 - 1985)
 * [Elizabeth Fleming](../people/@79236484@-elizabeth-fleming-b1887-4-22-d.md) (22/Apr/1887 - )
 * [Ellen Fleming](../people/@69831456@-ellen-fleming-b1875-7-6-d.md) (6/Jul/1875 - )
 * [John Fleming](../people/@49475976@-john-fleming-b1877-3-11-d1961.md) (11/Mar/1877 - before 1961)

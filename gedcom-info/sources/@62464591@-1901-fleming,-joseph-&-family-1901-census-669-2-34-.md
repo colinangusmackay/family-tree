@@ -147,7 +147,7 @@ References | 1901 C 669/2/34
 ## Source Referenced by
 
 * [Agnes Fleming](../people/@29204156@-agnes-fleming-b1898-5-25-d.md) (25/May/1898 - )
-* [Christina Fleming](../people/@89446044@-christina-fleming-b1895-8-23-d.md) (23/Aug/1895 - )
+* [Christina Fleming](../people/@89446044@-christina-fleming-b1895-8-23-d1985.md) (23/Aug/1895 - 1985)
 * [Elizabeth Fleming](../people/@79236484@-elizabeth-fleming-b1887-4-22-d.md) (22/Apr/1887 - )
 * [John Fleming](../people/@49475976@-john-fleming-b1877-3-11-d1961.md) (11/Mar/1877 - before 1961)
 * [Joseph Fleming](../people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md) (7/Oct/1851 - 30/Jan/1912)

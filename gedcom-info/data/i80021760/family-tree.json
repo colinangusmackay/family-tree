@@ -122,6 +122,20 @@
           "i76793596"
         ]
       ]
+    },
+    {
+      "Id": "i40866411",
+      "Name": "Malcolm McKenzie",
+      "Gender": "Male",
+      "DateOfBirth": "1893",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
     }
   ],
   "Spouses": [],

@@ -19,7 +19,7 @@ permalink: /people/i79327488
 * Sister: [Elizabeth Fleming](./@79236484@-elizabeth-fleming-b1887-4-22-d.md) (22/Apr/1887 - )
 * Sister: [Lillias Fleming](./@39306088@-lillias-fleming-b1889-5-25-d.md) (25/May/1889 - )
 * Brother: [Joseph Fleming](./@89747088@-joseph-fleming-b1892-10-19-d.md) (19/Oct/1892 - )
-* Sister: [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d.md) (23/Aug/1895 - )
+* Sister: [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d1985.md) (23/Aug/1895 - 1985)
 * Sister: [Agnes Fleming](./@29204156@-agnes-fleming-b1898-5-25-d.md) (25/May/1898 - )
 
 ## Timeline

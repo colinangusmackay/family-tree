@@ -17,6 +17,7 @@ permalink: /people/i99087108
 * Sister: [Christina McKenzie](./@25915316@-christina-mckenzie-b1880-d.md) (about 1880 - )
 * Sister: [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)
 * Sister: [Jessie Paterson McKenzie](./@2043547@-jessie-paterson-mckenzie-b1888-d.md) (about 1888 - )
+* Brother: [Malcolm McKenzie](./@40866411@-malcolm-mckenzie-b1893-d.md) (1893 - )
 
 ## Timeline
 
@@ -29,6 +30,7 @@ Date | Item | Description | Sources | Notes
 Date | Residence | Sources & Notes
 ---|---|---
 1891 | 104 Berkeley Street, Glasgow | [1](#1)
+1901 | 106 Berkeley Street, Glasgow, Scotland | [2](#2)
 
 ## Footnotes
 
@@ -40,4 +42,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1891 C 644/9 20/ 19
+
+### 2
+
+**1901 MCKENZIE, RODERICK + HOUSEHOLD (Census 644/9 20/ 18)**
+
+* [Full text and notes](../sources/@62108286@-1901-mckenzie,-roderick-+-household-census-644-9-20-18-.md)
+* Date: 1901
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1901 C 644/9 20/ 18
 

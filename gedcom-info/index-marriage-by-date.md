@@ -63,7 +63,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1860**
   * **21/Feb/1860** : **[James Cumming](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923) and **[Jessie Ross](people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md)** (5/Nov/1840 - 13/Jan/1918) at Dornoch, Sutherland, Scotland.
 * **1861**
-  * **14/Feb/1861** : **[Rodrick McIver](people/@91038040@-rodrick-mciver-b1821-d.md)** (about 1821 - ) and **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) at Gairloch, Ross and Cromarty, Scotland.
+  * **14/Feb/1861** : **[Roderick McIver](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878) and **[Annie McLean](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ) at Gairloch, Ross and Cromarty, Scotland.
 * **1864**
   * **5/Feb/1864** : **[James MacDonald](people/@74881641@-james-macdonald-b1842-d1880-1-14.md)** (about 1842 - 14/Jan/1880) and **[Christina Ross](people/@81183416@-christina-ross-b1845-d1916-4-19.md)** (about 1845 - 19/Apr/1916) at Skelbo, Sutherland, Scotland.
 * **1865**
@@ -195,7 +195,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1920s
 
 * **1920**
-  * **15/Apr/1920** : **[John Albert Mathews](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ) and **[Christina Fleming](people/@89446044@-christina-fleming-b1895-8-23-d.md)** (23/Aug/1895 - ) at Glasgow, Scotland.
+  * **15/Apr/1920** : **[John Albert Mathews](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ) and **[Christina Fleming](people/@89446044@-christina-fleming-b1895-8-23-d1985.md)** (23/Aug/1895 - 1985) at Glasgow, Scotland.
 * **1921**
   * **6/May/1921** : **[Thomas Hawthorn](people/@30039040@-thomas-hawthorn-b1888-6-28-d1946.md)** (28/Jun/1888 - before 1946) and **[Alice Smith](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - ).
 * **1924**

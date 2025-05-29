@@ -85,16 +85,64 @@
   "Spouses": [
     {
       "Id": "i91038040",
-      "Name": "Rodrick McIver",
+      "Name": "Roderick McIver",
       "Gender": "Male",
       "DateOfBirth": "about 1821",
-      "DateOfDeath": "",
+      "DateOfDeath": "11/Oct/1878",
       "RelationToSubject": "husband",
       "DateOfMarriage": "14/Feb/1861",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
+    {
+      "Id": "i16355455",
+      "Name": "Donald McIver",
+      "Gender": "Male",
+      "DateOfBirth": "1862",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i91038040",
+        "i68658880"
+      ]
+    },
+    {
+      "Id": "i51505118",
+      "Name": "Norman McIver",
+      "Gender": "Male",
+      "DateOfBirth": "1865",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i91038040",
+        "i68658880"
+      ]
+    },
+    {
+      "Id": "i54470962",
+      "Name": "Roderick McIver",
+      "Gender": "Male",
+      "DateOfBirth": "1867",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i91038040",
+        "i68658880"
+      ]
+    },
+    {
+      "Id": "i29848128",
+      "Name": "John McIver",
+      "Gender": "Male",
+      "DateOfBirth": "1870",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i91038040",
+        "i68658880"
+      ]
+    },
     {
       "Id": "i62168745",
       "Name": "Hector McLean McIver",
