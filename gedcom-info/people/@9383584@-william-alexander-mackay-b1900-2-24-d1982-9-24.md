@@ -17,7 +17,7 @@ permalink: /people/i9383584
 ## Immediate Family
 
 * Mother: [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
-* Father: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) (12/Apr/1861 - before 1911)
+* Father: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
 * Sister: [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) (23/Sep/1889 - 15/May/1970)
 * Brother: [George Mackay](./@72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
 * Sister: [Janet Mackay](./@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md) (12/Nov/1890 - 15/May/1891)
@@ -39,11 +39,11 @@ permalink: /people/i9383584
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-24/Feb/1900 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2), [3](#3), [4](#4) | 
-27/Jun/1901 | Birth of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) in Embo, Sutherland, Scotland. | [4](#4), [5](#5) | 
-before 1911 | Death of father | [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) died. | [6](#6), [7](#7) | 
-1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1892-12-15-d1918.md) died. | [4](#4) | [8](#8)
-after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) died. | [7](#7), [9](#9) | 
+24/Feb/1900 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2), [3](#3), [4](#4) | 
+27/Jun/1901 | Birth of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) in Embo, Sutherland, Scotland. | [4](#4), [5](#5) | 
+6/Jul/1903 | Death of father | [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) died. | [6](#6) | 
+1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1892-12-15-d1918.md) died. | [4](#4) | [7](#7)
+after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) died. | [8](#8), [9](#9) | 
 1927 | Immigrated | Immigrated to Toronto, York, Ontario, Canada. | [10](#10) | 
 17/Mar/1930 | Marriage Licence | Applied for marriage licence with [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)  | [11](#11) | 
 21/Mar/1930 | Marriage | Married to [Mary Ann Cumming](./@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) in Toronto, York, Ontario, Canada | [4](#4), [11](#11), [12](#12), [13](#13) | 
@@ -70,16 +70,16 @@ after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1
 Date | Residence | Sources & Notes
 ---|---|---
 1901 | 6 Terrace Street, Embo, Sutherland, Scotland | [37](#37)
-1911 | 6 Terrace Street, Embo, Sutherlandshire | [6](#6)
+1911 | 6 Terrace Street, Embo, Sutherlandshire | [38](#38)
 1918 | 6 Terrace Street, Embo, Sutherlandshire | [2](#2)
-before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [11](#11), [38](#38)
-12/Apr/1930 | 146 King Edward Avenue, Toronto, Ontario, Canada | [39](#39)
+before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [11](#11), [39](#39)
+12/Apr/1930 | 146 King Edward Avenue, Toronto, Ontario, Canada | [40](#40)
 1/Jun/1931 | 106 Walpole Avenue, Toronto, Candada | [10](#10)
 1938 | Achiltibue, Ross and Cromarty, Scotland | [23](#23)
-1954 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [40](#40)
-1956 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [41](#41)
-1960 | 57 Kersland Street, Glasgow | [42](#42)
-1980 | 57 Kersland Street, Glasgow | [43](#43)
+1954 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [41](#41)
+1956 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [42](#42)
+1960 | 57 Kersland Street, Glasgow | [43](#43)
+1980 | 57 Kersland Street, Glasgow | [44](#44)
 1981 | Glasgow, Scotland | [30](#30)
 
 ## Known Occupations
@@ -154,15 +154,21 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 
 ### 6
 
-**1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)**
+**1903 MACKAY, JAMES (Statutory Register of Deaths 047/ 24)**
 
-* [Full text and notes](../sources/@90926792@-1911-mackay,-bella-&-family-census-047-3-12-.md)
-* Date: 2/Apr/1911
+* [Full text and notes](../sources/@53286704@-1903-mackay,-james-statutory-register-of-deaths-047-24-.md)
+* Date: 7/Jul/1903
 * Responsible Agency: National Records of Scotland
 * References: 
-  * 1911 C 047/ 3/ 12
+  * 1903 D 047/ 24
 
 ### 7
+
+> Influenza
+>
+
+
+### 8
 
 **1919 MACKAY, LUCY Statutory Registers Marriages 644/18 240**
 
@@ -170,12 +176,6 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1919 M 644/18 240
-
-### 8
-
-> Influenza
->
-
 
 ### 9
 
@@ -435,32 +435,42 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 
 ### 38
 
+**1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)**
+
+* [Full text and notes](../sources/@90926792@-1911-mackay,-bella-&-family-census-047-3-12-.md)
+* Date: 2/Apr/1911
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1911 C 047/ 3/ 12
+
+### 39
+
 > On Google maps: [https://www.google.com/maps/@43.6887457,-79.3186802,3a,20.3y,147.68h,90.09t/data=!3m6!1e1!3m4!1sCBT9uFW1WbIbebZypxNMTw!2e0!7i16384!8i8192](https://www.google.com/maps/@43.6887457,-79.3186802,3a,20.3y,147.68h,90.09t/data=!3m6!1e1!3m4!1sCBT9uFW1WbIbebZypxNMTw!2e0!7i16384!8i8192)
 >
 
 
-### 39
+### 40
 
 **1930 MACKAY, MARION C - U.S. Border Crossings from Canada to U.S.**
 
 * [Full text and notes](../sources/@41022732@-1930-mackay,-marion-c-u.s.-border-crossings-from-canada-to-u.s..md)
 * Date: 12/Apr/1930
 
-### 40
+### 41
 
 **1954 X, X A & FAMILY OF VOTING AGE (Register of Voters, Glasgow, Wards 13-26, 1954)**
 
 * [Full text and notes](../sources/@84661563@-1954-mackay,-william-a-&-family-of-voting-age-register-of-voters,-glasgow,-wards-13-26,-1954-.md)
 * Publication: Register of Voters, Glasgow, Wards 13-26, 1954
 
-### 41
+### 42
 
 **1956 X, X A & FAMILY (Glasgow, Lanarkshire, Scotland, Electoral Registers, 1857-1962)**
 
 * [Full text and notes](../sources/@19773398@-1956-mackay,-william-a-&-family-glasgow,-lanarkshire,-scotland,-electoral-registers,-1857-1962-.md)
 * Publication: Glasgow, Lanarkshire, Scotland, Electoral Registers, 1857-1962
 
-### 42
+### 43
 
 **1960 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1960**
 
@@ -469,7 +479,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * Date: May/1960
 * Responsible Agency: The Post Office
 
-### 43
+### 44
 
 **1980 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1980**
 

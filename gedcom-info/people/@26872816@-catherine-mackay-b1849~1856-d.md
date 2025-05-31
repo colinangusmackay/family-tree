@@ -16,7 +16,7 @@ permalink: /people/i26872816
 
 * Father: [George Mackay](./@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
 * Mother: [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)
-* Sister: [Janet or Jessie Mackay](./@42213240@-janet-or-jessie-mackay-b1840-d.md) (1840 - )
+* Sister: [Janet Mackay](./@42213240@-janet-mackay-b1840-d.md) (1840 - )
 * Brother: [John Mackay](./@58430005@-john-mackay-b1841-2-18-d.md) (18/Feb/1841 - )
 * Brother: [William Mackay](./@99871003@-william-mackay-b1843~1846-d.md) (bet' 1843 and 1846 - )
 * Brother: [Alexander Mackay](./@2381836@-alexander-mackay-b1844~1849-d.md) (bet' 1844 and 1849 - )
@@ -25,8 +25,8 @@ permalink: /people/i26872816
 * Husband: [Alexander Mackay](./@25433155@-alexander-mackay-b1850-d.md) (about 1850 - )
 * Brother: [Donald Mackay](./@32633938@-donald-mackay-b1855-d.md) (about 1855 - )
 * Sister: [Ann Mackay](./@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)
-* Sister: [Jane or Jean Mackay](./@4172390@-jane-or-jean-mackay-b1859~1863-d.md) (bet' 1859 and 1863 - )
-* Brother: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) (12/Apr/1861 - before 1911)
+* Sister: [Jane or Jean Mackay](./@4172390@-jane-or-jean-mackay-b1859-d.md) (about 1859 - )
+* Brother: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
 
 ## Timeline
 
@@ -38,7 +38,16 @@ bet' 1849 and 1856 | Born | Born to [George Mackay](./@33764614@-george-mackay-b
 
 Date | Residence | Sources & Notes
 ---|---|---
-1873 | Embo, Sutherland, Scotland | 
+1851 | Embo, Sutherland, Scotland | [4](#4)
+1861 | Embo, Sutherland, Scotland | [5](#5)
+1871 | Embo, Sutherland, Scotland | [6](#6)
+1873 | Embo, Sutherland, Scotland | [1](#1)
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+1871 | Fisherwoman | [6](#6)
 
 ## Notes
 
@@ -77,5 +86,37 @@ Date | Residence | Sources & Notes
 >
 > Letter to B.M.Tulloch suggests between 22/Oct/1855 to 21/Oct/1856 (Marriage at 17 on 21/Oct/1873)
 >
+> Appears on the 1851 census, as a 6 year old, but as a 9 year old on the 1861 census. Perhaps two people, a child that died and a second child where that had the same name?
+>
 
+
+### 4
+
+**1951 MACKAY, GEORGE & HOUSEHOLD (Census 1851 047/ 5/ 11)**
+
+* [Full text and notes](../sources/@77150351@-1951-mackay,-george-&-household-census-1851-047-5-11-.md)
+* Date: 1851
+* Responsible Agency: National Registers of Scotland
+* References: 
+  * 1851 C 047/ 5/ 11
+
+### 5
+
+**1861 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 1/ 15)**
+
+* [Full text and notes](../sources/@33557678@-1861-mackay,-george-&-household-census-047-1-15-.md)
+* Date: 1861
+* Responsible Agency: National Registers of Scotland
+* References: 
+  * 1861 C 047/ 1/ 15
+
+### 6
+
+**1871 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 1/L 12)**
+
+* [Full text and notes](../sources/@13396232@-1871-mackay,-george-&-household-census-047-1-l-12-.md)
+* Date: 1871
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1871 C 047/ 1/L 12
 

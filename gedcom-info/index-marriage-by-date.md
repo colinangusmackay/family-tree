@@ -30,6 +30,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1834**
   * **22/Nov/1834** : **[David Napier](people/@71012752@-david-napier-b-d.md)** and **[Agnes Williamson](people/@35381484@-agnes-williamson-b1815-10-11-d.md)** (11/Oct/1815 - ) at Dysart, Fife, Scotland.
+* **1838**
+  * **12/Oct/1838** : **[George Mackay](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893) and **[Lucy Matheson](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896) at Embo, Sutherland, Scotland.
 * **1839**
   * **23/Nov/1839** : **[James Wilson](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - ) and **[Margaret Nicholson](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - ) at Leuchars, Fife, Scotland.
 
@@ -37,7 +39,6 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1840**
   * **7/Feb/1840** : **[Alexander Ross](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896) and **[Marion Mackay](people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md)** (30/Jun/1821 - 30/Dec/1909) at Embo, Sutherland, Scotland.
-  * **16/Oct/1840** : **[George Mackay](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893) and **[Lucy Matheson](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896) at Dornoch, Sutherland, Scotland.
 * **1842**
   * **31/Dec/1842** : **[John Reid](people/@95320597@-john-reid-b-d.md)** and **[Agnes Russell](people/@37924612@-agnes-russell-b-d.md)** at Wishaw, Lanarkshire, Scotland.
 * **1847**
@@ -94,7 +95,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1877**
   * **9/Oct/1877** : **[Kenneth Ross](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - ) and X at Dornoch, Sutherland, Scotland.
   * **23/Oct/1877** : **[Alexander Mackay](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ) and **[Ann Mackay](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889) at Dornoch, Sutherland, Scotland.
-  * **13/Nov/1877** : X and **[Janet or Jessie Mackay](people/@42213240@-janet-or-jessie-mackay-b1840-d.md)** (1840 - ).
+  * **13/Nov/1877** : X and **[Janet Mackay](people/@42213240@-janet-mackay-b1840-d.md)** (1840 - ).
   * **21/Nov/1877** : **[Alexander Mackay](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ) and **[Christy Grant](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - ) at Dornoch, Sutherland, Scotland.
 
 ### 1880s
@@ -117,7 +118,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **28/Sep/1887** : **[Thomas Sunderland](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - ) and **[Marion Ross](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888) at Hayes Township, Charlevoix County, Michigan, United States of America.
   * **25/Oct/1887** : **[Donald J Cumming](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946) at Dornoch, Sutherland, Scotland.
 * **1888**
-  * **23/Oct/1888** : **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1911.md)** (12/Apr/1861 - before 1911) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923) at Dornoch, Sutherland, Scotland.
+  * **23/Oct/1888** : **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923) at Dornoch, Sutherland, Scotland.
 * **1889**
   * **22/Apr/1889** : **[Michael O'Malley](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - ) and **[Catherine McBride](people/@24941331@-catherine-mcbride-b1865-d.md)** (about 1865 - ) at Glasgow, Scotland.
   * **2/Nov/1889** : **[Alexander Mackay](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ) and X.
@@ -127,7 +128,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1890s
 
 * **1892**
-  * **24/Mar/1892** : **[John Mackay](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ) and **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md)** (bet' 1859 and 1863 - ) at Embo, Sutherland, Scotland.
+  * **24/Mar/1892** : **[John Mackay](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ) and **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859-d.md)** (about 1859 - ) at Embo, Sutherland, Scotland.
   * **30/Dec/1892** : X and **[Elizabeth Napier](people/@22336798@-elizabeth-napier-b1866-11-17-d.md)** (17/Nov/1866 - ) at Dysart, Fife, Scotland.
 * **1895**
   * **19/Feb/1895** : **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - ) and **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - ) at Dornoch, Sutherland, Scotland.

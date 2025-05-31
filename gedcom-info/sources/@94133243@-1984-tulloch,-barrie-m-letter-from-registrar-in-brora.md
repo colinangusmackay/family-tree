@@ -122,6 +122,18 @@ Responsible Agency | Highland Regional Council
 > .....
 >
 
+## Images
+
+### Page 1
+
+on 19th of July 1984
+![Page 1](../media/50134495.jpg)
+
+### Page 2
+
+on 19th of July 1984
+![Page 2](../media/73992741.jpg)
+
 ## Notes
 
 > Fishertown, Dornoch = Embo, Sutherland.
@@ -148,8 +160,8 @@ Responsible Agency | Highland Regional Council
 * [Donald Mackay](../people/@32633938@-donald-mackay-b1855-d.md) (about 1855 - )
 * [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
 * [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
-* [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1911.md) (12/Apr/1861 - before 1911)
-* [Jane or Jean Mackay](../people/@4172390@-jane-or-jean-mackay-b1859~1863-d.md) (bet' 1859 and 1863 - )
+* [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
+* [Jane or Jean Mackay](../people/@4172390@-jane-or-jean-mackay-b1859-d.md) (about 1859 - )
 * [John Mackay](../people/@15814480@-john-mackay-b1864~1865-d.md) (bet' 1864 and 1865 - )
 * [Kenneth Mackay](../people/@21362348@-kenneth-mackay-b1815-d.md) (calc'd 1815 - )
 * [William Mackay](../people/@69114879@-william-mackay-b1781-d1841.md) (1781 - 1841)

@@ -1736,6 +1736,10 @@
           "Day": 6,
           "Events": [
             {
+              "Date": "1903-07-06",
+              "Description": "[James Mackay](/family-tree/people/i60572122) died on 6th of July 1903."
+            },
+            {
               "Date": "1875-07-06",
               "Description": "[Ellen Fleming](/family-tree/people/i69831456) was born on 6th of July 1875 to [Joseph Fleming](/family-tree/people/i57117702) and [Margaret Tennant](/family-tree/people/i14002910) in Forth, Lanarkshire, Scotland."
             }
@@ -2584,7 +2588,16 @@
         },
         {
           "Day": 12,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1838-10-12",
+              "Description": "[George Mackay](/family-tree/people/i33764614) got married to [Lucy Matheson](/family-tree/people/i67811996) on 12th of October 1838 in Embo, Sutherland, Scotland."
+            },
+            {
+              "Date": "1838-10-12",
+              "Description": "[Lucy Matheson](/family-tree/people/i67811996) got married to [George Mackay](/family-tree/people/i33764614) on 12th of October 1838 in Embo, Sutherland, Scotland."
+            }
+          ]
         },
         {
           "Day": 13,
@@ -2611,14 +2624,6 @@
         {
           "Day": 16,
           "Events": [
-            {
-              "Date": "1840-10-16",
-              "Description": "[George Mackay](/family-tree/people/i33764614) got married to [Lucy Matheson](/family-tree/people/i67811996) on 16th of October 1840 in Dornoch, Sutherland, Scotland."
-            },
-            {
-              "Date": "1840-10-16",
-              "Description": "[Lucy Matheson](/family-tree/people/i67811996) got married to [George Mackay](/family-tree/people/i33764614) on 16th of October 1840 in Dornoch, Sutherland, Scotland."
-            },
             {
               "Date": "1961-10-16",
               "Description": "[Linda Margaret Campbell](/family-tree/people/i76650284) was born on 16th of October 1961 to [Norman Stead](/family-tree/people/i69808462) and [Margaret Paton O'Malley](/family-tree/people/i46723082) in Dewsbury, Yorkshire, England."

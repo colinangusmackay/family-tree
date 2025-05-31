@@ -16,7 +16,7 @@ permalink: /people/i178005
 ## Immediate Family
 
 * Mother: [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
-* Father: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) (12/Apr/1861 - before 1911)
+* Father: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
 * Husband: [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) (19/Oct/1877 - 9/May/1954)
 * Sister: [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) (23/Sep/1889 - 15/May/1970)
 * Brother: [George Mackay](./@72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
@@ -31,10 +31,10 @@ permalink: /people/i178005
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-27/Jun/1901 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
-before 1911 | Death of father | [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) died. | [3](#3), [4](#4) | 
-1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1892-12-15-d1918.md) died. | [2](#2) | [5](#5)
-after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) died. | [4](#4), [6](#6) | 
+27/Jun/1901 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+6/Jul/1903 | Death of father | [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) died. | [3](#3) | 
+1918 | Death of sister | [Annie Mackay](./@51252926@-annie-mackay-b1892-12-15-d1918.md) died. | [2](#2) | [4](#4)
+after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) died. | [5](#5), [6](#6) | 
 2/Mar/1934 | Marriage | Married to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) in Dornoch, Sutherland, Scotland | [7](#7) | 
 1935 | Birth of daughter | X born to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) and [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md). | [8](#8) | 
 9/May/1954 | Death of partner | [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) died in Embo, Sutherland, Scotland. | [9](#9) | 
@@ -46,8 +46,8 @@ after 1923 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1
 
 Date | Residence | Sources & Notes
 ---|---|---
-1911 | 6 Terrace Street, Embo, Sutherlandshire | [3](#3)
-1934 | 6 Terrace Street, Embo, Sutherland, Scotland | [7](#7), [13](#13)
+1911 | 6 Terrace Street, Embo, Sutherlandshire | [13](#13)
+1934 | 6 Terrace Street, Embo, Sutherland, Scotland | [7](#7), [14](#14)
 1973 | 6 Front Street, Embo, Sutherland, Scotland | [12](#12)
 
 ## Known Occupations
@@ -97,15 +97,21 @@ Date | Occupation | Sources & Notes
 
 ### 3
 
-**1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)**
+**1903 MACKAY, JAMES (Statutory Register of Deaths 047/ 24)**
 
-* [Full text and notes](../sources/@90926792@-1911-mackay,-bella-&-family-census-047-3-12-.md)
-* Date: 2/Apr/1911
+* [Full text and notes](../sources/@53286704@-1903-mackay,-james-statutory-register-of-deaths-047-24-.md)
+* Date: 7/Jul/1903
 * Responsible Agency: National Records of Scotland
 * References: 
-  * 1911 C 047/ 3/ 12
+  * 1903 D 047/ 24
 
 ### 4
+
+> Influenza
+>
+
+
+### 5
 
 **1919 MACKAY, LUCY Statutory Registers Marriages 644/18 240**
 
@@ -113,12 +119,6 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1919 M 644/18 240
-
-### 5
-
-> Influenza
->
-
 
 ### 6
 
@@ -190,6 +190,16 @@ Date | Occupation | Sources & Notes
   * 1973 M 182/22
 
 ### 13
+
+**1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)**
+
+* [Full text and notes](../sources/@90926792@-1911-mackay,-bella-&-family-census-047-3-12-.md)
+* Date: 2/Apr/1911
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1911 C 047/ 3/ 12
+
+### 14
 
 > 6 Terrace Street, Embo: [https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656](https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656)
 >

@@ -11,7 +11,7 @@ permalink: /people/i32633938
 
 * Father: [George Mackay](./@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
 * Mother: [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)
-* Sister: [Janet or Jessie Mackay](./@42213240@-janet-or-jessie-mackay-b1840-d.md) (1840 - )
+* Sister: [Janet Mackay](./@42213240@-janet-mackay-b1840-d.md) (1840 - )
 * Brother: [John Mackay](./@58430005@-john-mackay-b1841-2-18-d.md) (18/Feb/1841 - )
 * Brother: [William Mackay](./@99871003@-william-mackay-b1843~1846-d.md) (bet' 1843 and 1846 - )
 * Brother: [Alexander Mackay](./@2381836@-alexander-mackay-b1844~1849-d.md) (bet' 1844 and 1849 - )
@@ -20,8 +20,8 @@ permalink: /people/i32633938
 * Sister: [Catherine Mackay](./@26872816@-catherine-mackay-b1849~1856-d.md) (bet' 1849 and 1856 - )
 * Wife: [Betsy Mackay](./@49855242@-betsy-mackay-b1855~1856-d.md) (bet' 1855 and 1856 - )
 * Sister: [Ann Mackay](./@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)
-* Sister: [Jane or Jean Mackay](./@4172390@-jane-or-jean-mackay-b1859~1863-d.md) (bet' 1859 and 1863 - )
-* Brother: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1911.md) (12/Apr/1861 - before 1911)
+* Sister: [Jane or Jean Mackay](./@4172390@-jane-or-jean-mackay-b1859-d.md) (about 1859 - )
+* Brother: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
 
 ## Timeline
 
@@ -29,10 +29,18 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1855 | Born | Born to [George Mackay](./@33764614@-george-mackay-b1805~1816-d1893-11-25.md) and [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md). | [1](#1), [2](#2) | 
 
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1861 | Embo, Sutherland, Scotland | [3](#3)
+1871 | Embo, Sutherland, Scotland | [4](#4)
+
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
+1871 | Fisherman | [4](#4)
 1881 | Farm Servant | 
 
 ## Footnotes
@@ -57,4 +65,24 @@ Date | Occupation | Sources & Notes
 * Filed by Entry: EMBO/P113/F9.2
 * References: 
   * (ISBN) 978-1-910205-49-5
+
+### 3
+
+**1861 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 1/ 15)**
+
+* [Full text and notes](../sources/@33557678@-1861-mackay,-george-&-household-census-047-1-15-.md)
+* Date: 1861
+* Responsible Agency: National Registers of Scotland
+* References: 
+  * 1861 C 047/ 1/ 15
+
+### 4
+
+**1871 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 1/L 12)**
+
+* [Full text and notes](../sources/@13396232@-1871-mackay,-george-&-household-census-047-1-l-12-.md)
+* Date: 1871
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1871 C 047/ 1/L 12
 
