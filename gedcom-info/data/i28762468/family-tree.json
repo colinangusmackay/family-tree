@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i28762468",
+    "Name": "Alexander Mackay",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i28762468",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i91889557",
+      "Name": "Christy Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i21362348",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1817",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i28762468",
+        "i91889557"
+      ]
+    }
+  ]
+}

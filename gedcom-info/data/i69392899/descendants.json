@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i69392899",
+  "Name": "John Mackay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i32127758",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "6/Aug/1836",
+      "DateOfDeath": "28/Dec/1862",
+      "Children": []
+    }
+  ]
+}

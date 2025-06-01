@@ -3,7 +3,26 @@
   "Name": "Kenneth Mackay",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "calc'd 1815",
+  "DateOfBirth": "19/Jan/1817",
   "DateOfDeath": "",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i28762468",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i91889557",
+      "Name": "Christy Fraser",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

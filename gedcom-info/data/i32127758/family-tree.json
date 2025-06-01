@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i32127758",
+    "Name": "Isabella Mackay",
+    "Gender": "Female",
+    "DateOfBirth": "6/Aug/1836",
+    "DateOfDeath": "28/Dec/1862"
+  },
+  "Parents": [
+    {
+      "Id": "i69392899",
+      "Name": "John Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i86403902",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i32127758",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "6/Aug/1836",
+      "DateOfDeath": "28/Dec/1862",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i69392899",
+          "i86403902"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i21362348",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1817",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "14/Dec/1855",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

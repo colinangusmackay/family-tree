@@ -118,9 +118,10 @@ There were 4 people who worked as a Business Owner of some sort.
 
 ## Carpenter
 
-There were 3 people who worked as a Carpenter of some sort.
+There were 4 people who worked as a Carpenter of some sort.
 
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
+* **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1817-1-19-d.md)** (19/Jan/1817 - ).
 * **[Nicholson, James](people/@30814449@-james-nicholson-b-d.md)**.
 
 #### Joiner
@@ -452,7 +453,7 @@ There were 6 people who worked as a Farmer.
 
 ## Fish Worker
 
-There were 72 people who worked as a Fish Worker of some sort.
+There were 74 people who worked as a Fish Worker of some sort.
 
 * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
@@ -492,6 +493,7 @@ There were 72 people who worked as a Fish Worker of some sort.
 * **[MacDonald, Alexander](people/@47072524@-alexander-macdonald-b-d1875.md)** ( - before 1875).
 * **[MacDonald, Donald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - ).
 * **[MacDonald, James](people/@74881641@-james-macdonald-b1842-d1880-1-14.md)** (about 1842 - 14/Jan/1880), mentioned 4 times.
+* **[Mackay, Alexander](people/@28762468@-alexander-mackay-b-d.md)**.
 * **[Mackay, Alexander](people/@56321492@-alexander-mackay-b-d.md)**.
 * **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ), mentioned 3 times.
 * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ).
@@ -499,12 +501,13 @@ There were 72 people who worked as a Fish Worker of some sort.
 * **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - ).
 * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ).
 * **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939).
-* **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 6 times.
+* **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 7 times.
 * **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - ), mentioned twice.
 * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903), mentioned 9 times.
+* **[Mackay, John](people/@69392899@-john-mackay-b-d.md)**.
 * **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ).
 * **[Mackay, Kenneth](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901).
-* **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ).
+* **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1817-1-19-d.md)** (19/Jan/1817 - ).
 * **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ), mentioned twice.
 * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934).
@@ -557,7 +560,7 @@ There were 72 people who worked as a Fish Worker of some sort.
 
 ## Fisher
 
-There were 57 people who worked as a Fisher of some sort.
+There were 59 people who worked as a Fisher of some sort.
 
 * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893).
 * **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896).
@@ -586,6 +589,7 @@ There were 57 people who worked as a Fisher of some sort.
 * **[MacDonald, Alexander](people/@47072524@-alexander-macdonald-b-d1875.md)** ( - before 1875).
 * **[MacDonald, Donald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - ).
 * **[MacDonald, James](people/@74881641@-james-macdonald-b1842-d1880-1-14.md)** (about 1842 - 14/Jan/1880), mentioned 4 times.
+* **[Mackay, Alexander](people/@28762468@-alexander-mackay-b-d.md)**.
 * **[Mackay, Alexander](people/@56321492@-alexander-mackay-b-d.md)**.
 * **[Mackay, Alexander](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ), mentioned 3 times.
 * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ).
@@ -593,12 +597,13 @@ There were 57 people who worked as a Fisher of some sort.
 * **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - ).
 * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ).
 * **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939).
-* **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 6 times.
+* **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 7 times.
 * **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - ), mentioned twice.
 * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903), mentioned 9 times.
+* **[Mackay, John](people/@69392899@-john-mackay-b-d.md)**.
 * **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ).
 * **[Mackay, Kenneth](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901).
-* **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - ).
+* **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1817-1-19-d.md)** (19/Jan/1817 - ).
 * **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ), mentioned twice.
 * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934).
@@ -768,7 +773,7 @@ There were 4 people who worked as a Janitor of some sort.
 
 ## Joiner
 
-There were 3 people who worked as a Joiner of some sort.
+There were 4 people who worked as a Joiner of some sort.
 
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
 * **[Fisher, John](people/@81248806@-john-fisher-b1819-d1880.md)** (about 1819 - after 1880).
@@ -776,6 +781,7 @@ There were 3 people who worked as a Joiner of some sort.
 #### Carpenter
 
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
+* **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1817-1-19-d.md)** (19/Jan/1817 - ).
 * **[Nicholson, James](people/@30814449@-james-nicholson-b-d.md)**.
 
 ## Joiner Journeyman

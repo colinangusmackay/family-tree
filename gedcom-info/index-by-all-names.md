@@ -328,6 +328,7 @@ permalink: /indexes/by-all-names
 - **[Annie Fraser](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891)
 - **[Annie Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
 - **[Christy Fraser](people/@37144832@-christy-ross-b-d.md)**
+- **[Christy Fraser](people/@91889557@-christy-fraser-b-d.md)**
 - **[Christy Fraser](people/@45275253@-christy-fraser-b1787-d1868-1-13.md)** (about 1787 - 13/Jan/1868)
 - **[Fraser](people/@10983472@-christina-mackay-b-d.md)**
 - **[Fraser](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881)
@@ -587,6 +588,7 @@ permalink: /indexes/by-all-names
 
 ## Mackay
 
+- **[Alexander Mackay](people/@28762468@-alexander-mackay-b-d.md)**
 - **[Alexander Mackay](people/@56321492@-alexander-mackay-b-d.md)**
 - **[Alexander Mackay](people/@60647890@-alexander-mackay-b-d.md)**
 - **[Alexander Mackay](people/@3089092@-alexander-mackay-b1779-d1868-1-8.md)** (about 1779 - 8/Jan/1868)
@@ -613,6 +615,7 @@ permalink: /indexes/by-all-names
 - **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
 - **[Christina Mackay](people/@10983472@-christina-mackay-b-d.md)**
 - **[Christina Mackay](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
+- **[Christy Mackay](people/@91889557@-christy-fraser-b-d.md)**
 - **[David Mackay](people/@46263680@-david-mackay-b1846-d1860.md)** (1846 - 1860)
 - **[David Mackay](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - )
 - **[Donald James Mackay](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
@@ -624,8 +627,11 @@ permalink: /indexes/by-all-names
 - **[George Mackay](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
 - **[George Mackay](people/@72941728@-george-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
 - **[Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881)
+- **[Isabella Mackay](people/@86403902@-isabella-mackay-b-d.md)**
+- **[Isabella Mackay](people/@86403902@-isabella-mackay-b-d.md)**
 - **[Isabella Mackay](people/@89807594@-isabella-mackay-b-d.md)**
 - **[Isabella Mackay](people/@16263484@-isabella-mackay-b1764-d.md)** (before 1764 - )
+- **[Isabella Mackay](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862)
 - **[Isabella Mackay](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
 - **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923)
 - **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
@@ -641,6 +647,7 @@ permalink: /indexes/by-all-names
 - **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932)
 - **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - )
 - **[John Mackay](people/@53390906@-john-mackay-b-d.md)**
+- **[John Mackay](people/@69392899@-john-mackay-b-d.md)**
 - **[John Mackay](people/@97558120@-john-mackay-b1761-d.md)** (before 1761 - )
 - **[John Mackay](people/@58430005@-john-mackay-b1841-2-18-d.md)** (18/Feb/1841 - )
 - **[John Mackay](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - )
@@ -649,7 +656,7 @@ permalink: /indexes/by-all-names
 - **[Kenneth Mackay](people/@27357972@-kenneth-mackay-b-d.md)**
 - **[Kenneth Mackay](people/@30341840@-kenneth-mackay-b-d.md)**
 - **[Kenneth Mackay](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901)
-- **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - )
+- **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1817-1-19-d.md)** (19/Jan/1817 - )
 - **[Kenneth Mackay](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - )
 - **[Kenneth Mackay](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - )
 - **[Kenneth Mackay](people/@52754046@-kenneth-mackay-b1920-3-28-d.md)** (28/Mar/1920 - )
@@ -663,6 +670,7 @@ permalink: /indexes/by-all-names
 - **[Mackay](people/@34312672@-janet-ross-b1761-d.md)** (before 1761 - )
 - **[Mackay](people/@66584000@-janet-macrae-b1781-d.md)** (1781 - )
 - **[Mackay](people/@45275253@-christy-fraser-b1787-d1868-1-13.md)** (about 1787 - 13/Jan/1868)
+- **[Mackay](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862)
 - **[Mackay](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - )
 - **[Mackay](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
 - **[Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923)

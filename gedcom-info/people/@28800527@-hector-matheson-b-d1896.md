@@ -22,7 +22,7 @@ before 1896 | Died | Died. | [1](#1) | [2](#2)
 
 Date | Occupation | Sources & Notes
 ---|---|---
-before 1896 | Crofter | [1](#1), [3](#3)
+before 1896 | Crofter | [3](#3), [1](#1), [4](#4)
 
 ## Footnotes
 
@@ -42,6 +42,16 @@ before 1896 | Crofter | [1](#1), [3](#3)
 
 
 ### 3
+
+**1896 MACKAY, LUCY (Statutory Register of Deaths 047/ 25)**
+
+* [Full text and notes](../sources/@78326520@-1896-mackay,-lucy-statutory-register-of-deaths-047-25-.md)
+* Date: 24/Aug/1896
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1896 D 047/ 25
+
+### 4
 
 > Occupation based on death registration of daughter, so only information on date is that it was some time before the daughter died.
 >

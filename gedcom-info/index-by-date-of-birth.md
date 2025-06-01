@@ -67,12 +67,13 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Kenneth](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901)
   * **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
 * **Born in 1815.**
-  * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1815-d.md)** (calc'd 1815 - )
   * **[Williamson, Agnes](people/@35381484@-agnes-williamson-b1815-10-11-d.md)** (11/Oct/1815 - )
 * **Born in 1816.**
   * **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896)
   * **[Taylor, Helen](people/@47549486@-helen-taylor-b1816-d1865-11-27.md)** (about 1816 - 27/Nov/1865)
   * **[Wilson, James](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - )
+* **Born in 1817.**
+  * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1817-1-19-d.md)** (19/Jan/1817 - )
 * **Born in 1819.**
   * **[Fisher, John](people/@81248806@-john-fisher-b1819-d1880.md)** (about 1819 - after 1880)
 
@@ -115,6 +116,8 @@ permalink: /indexes/by-date-of-birth
   * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
   * **[Nicholson, Agnes](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - )
   * **[Napier, David](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901)
+* **Born in 1836.**
+  * **[Mackay, Isabella](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862)
 * **Born in 1837.**
   * **[Wilson, Margaret](people/@63936152@-margaret-wilson-b1837-d.md)** (about 1837 - )
   * **[Napier, Henry](people/@7484846@-henry-napier-b1837-9-27-d.md)** (27/Sep/1837 - )

@@ -3,22 +3,54 @@
     "Id": "i21362348",
     "Name": "Kenneth Mackay",
     "Gender": "Male",
-    "DateOfBirth": "calc'd 1815",
+    "DateOfBirth": "19/Jan/1817",
     "DateOfDeath": ""
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i28762468",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i91889557",
+      "Name": "Christy Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i21362348",
       "Name": "Kenneth Mackay",
       "Gender": "Male",
-      "DateOfBirth": "calc'd 1815",
+      "DateOfBirth": "19/Jan/1817",
       "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i28762468",
+          "i91889557"
+        ]
+      ]
     }
   ],
   "Spouses": [
+    {
+      "Id": "i32127758",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "6/Aug/1836",
+      "DateOfDeath": "28/Dec/1862",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "14/Dec/1855",
+      "DateOfDivorce": ""
+    },
     {
       "Id": "i52409786",
       "Name": "Barbara Mackay",

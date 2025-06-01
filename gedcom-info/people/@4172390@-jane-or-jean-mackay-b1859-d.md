@@ -35,7 +35,9 @@ Date | Residence | Sources & Notes
 ---|---|---
 1861 | Embo, Sutherland, Scotland | [1](#1)
 1871 | Embo, Sutherland, Scotland | [5](#5)
-1892 | Embo, Sutherland, Scotland | 
+1881 | Embo, Sutherland, Scotland | [6](#6)
+1891 | Embo, Sutherland, Scotland | [7](#7)
+1892 | Embo, Sutherland, Scotland | [2](#2)
 
 ## Notes
 
@@ -95,4 +97,23 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1871 C 047/ 1/L 12
+
+### 6
+
+**1881 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 2/ 15)**
+
+* [Full text and notes](../sources/@37879810@-1881-mackay,-george-&-household-census-047-2-15-.md)
+* Date: 1881
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1881 C 047/ 2/ 15
+
+### 7
+
+**1891 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 2/ 15)**
+
+* [Full text and notes](../sources/@85578480@-1891-mackay,-george-&-household-census-047-2-15-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1891 C 047/ 2/ 15
 
