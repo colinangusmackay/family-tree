@@ -163,7 +163,7 @@ on 19th of July 1984
 * [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
 * [Jane or Jean Mackay](../people/@4172390@-jane-or-jean-mackay-b1859-d.md) (about 1859 - )
 * [John Mackay](../people/@15814480@-john-mackay-b1864~1865-d.md) (bet' 1864 and 1865 - )
-* [Kenneth Mackay](../people/@21362348@-kenneth-mackay-b1817-1-19-d.md) (19/Jan/1817 - )
+* [Kenneth Mackay](../people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) (19/Jan/1817 - 21/Feb/1894)
 * [William Mackay](../people/@69114879@-william-mackay-b1781-d1841.md) (1781 - 1841)
 * [William Mackay](../people/@99871003@-william-mackay-b1843~1846-d.md) (bet' 1843 and 1846 - )
 * [Hector Matheson](../people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)

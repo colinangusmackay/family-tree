@@ -9,8 +9,9 @@ permalink: /people/i46319502
 
 ## Immediate Family
 
-* Father: [Kenneth Mackay](./@43646316@-kenneth-mackay-b1813-d1891~1901.md) (about 1813 - bet' 1891 and 1901)
-* Mother: [Barbara Mackay](./@53955929@-barbara-mackay-b1854-d.md) (about 1854 - )
+* Father: [Kenneth Mackay](./@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) (19/Jan/1817 - 21/Feb/1894)
+* Mother: [Barbara Mackay](./@52409786@-barbara-mackay-b1849~1854-d.md) (bet' 1849 and 1854 - )
+* Brother: [Kenneth Mackay](./@32622896@-kenneth-mackay-b1870-d1871-4-29.md) (1870 - 29/Apr/1871)
 * Brother: [Kenneth Mackay](./@38140776@-kenneth-mackay-b1877-d.md) (about 1877 - )
 * Brother: [David Mackay](./@66349958@-david-mackay-b1879-d.md) (about 1879 - )
 * Brother: [Thomas Mackay](./@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md) (27/Jun/1882 - 9/Nov/1934)
@@ -20,7 +21,7 @@ permalink: /people/i46319502
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1875 | Born | Born to [Kenneth Mackay](./@43646316@-kenneth-mackay-b1813-d1891~1901.md) and [Barbara Mackay](./@53955929@-barbara-mackay-b1854-d.md). | [1](#1) | 
+about 1875 | Born | Born to [Kenneth Mackay](./@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) and [Barbara Mackay](./@52409786@-barbara-mackay-b1849~1854-d.md). | [1](#1) | 
 
 ## Known Residences
 

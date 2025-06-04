@@ -5,5 +5,33 @@
   "Relationship": "Self",
   "DateOfBirth": "6/Aug/1836",
   "DateOfDeath": "28/Dec/1862",
-  "Children": []
+  "Children": [
+    {
+      "Id": "i18981292",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1857",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i23272301",
+      "Name": "John Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1859",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i20426296",
+      "Name": "Christina Mackay",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1861",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
 }

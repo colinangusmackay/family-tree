@@ -84,13 +84,13 @@ References | 1855 M 047/ 6
 
 ## Notes
 
-> The register notes that Kenneth Mackay and Isabella Mackay are cousins. They are actually Uncle and Neice.
+> The register notes that Kenneth Mackay and Isabella Mackay are cousins. They are actually Uncle and Neice. Kenneth's brother John is Isabella's father.
 >
 
 
 ## Source Referenced by
 
-* [Alexander Mackay](../people/@28762468@-alexander-mackay-b-d.md)
+* [Alexander Mackay](../people/@28762468@-alexander-mackay-b1786-d.md) (1786 - )
 * [Isabella Mackay](../people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md) (6/Aug/1836 - 28/Dec/1862)
 * [John Mackay](../people/@69392899@-john-mackay-b-d.md)
-* [Kenneth Mackay](../people/@21362348@-kenneth-mackay-b1817-1-19-d.md) (19/Jan/1817 - )
+* [Kenneth Mackay](../people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) (19/Jan/1817 - 21/Feb/1894)

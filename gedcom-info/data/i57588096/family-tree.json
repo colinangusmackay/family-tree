@@ -1,0 +1,87 @@
+﻿{
+  "Subject": {
+    "Id": "i57588096",
+    "Name": "James Mackay",
+    "Gender": "Male",
+    "DateOfBirth": "1828",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i28762468",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "1786",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i91889557",
+      "Name": "Christy Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "1791",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i69392899",
+      "Name": "John Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i28762468",
+          "i91889557"
+        ]
+      ]
+    },
+    {
+      "Id": "i21362348",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1817",
+      "DateOfDeath": "21/Feb/1894",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i28762468",
+          "i91889557"
+        ]
+      ]
+    },
+    {
+      "Id": "i15516484",
+      "Name": "William Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "1826",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i28762468",
+          "i91889557"
+        ]
+      ]
+    },
+    {
+      "Id": "i57588096",
+      "Name": "James Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "1828",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i28762468",
+          "i91889557"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

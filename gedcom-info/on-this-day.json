@@ -521,6 +521,10 @@
           "Day": 21,
           "Events": [
             {
+              "Date": "1894-02-21",
+              "Description": "[Kenneth Mackay](/family-tree/people/i21362348) died on 21st of February 1894 in Embo, Sutherland, Scotland."
+            },
+            {
               "Date": "1860-02-21",
               "Description": "[Jessie Ross](/family-tree/people/i60546968) got married to [James Cumming](/family-tree/people/i66384942) on 21st of February 1860 in Dornoch, Sutherland, Scotland."
             },
@@ -1153,7 +1157,12 @@
         },
         {
           "Day": 29,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1871-04-29",
+              "Description": "[Kenneth Mackay](/family-tree/people/i32622896) died on 29th of April 1871 in Embo, Sutherland, Scotland."
+            }
+          ]
         },
         {
           "Day": 30,
@@ -1628,7 +1637,7 @@
             },
             {
               "Date": "1882-06-27",
-              "Description": "[Thomas Mackay](/family-tree/people/i5045152) was born on 27th of June 1882 to [Kenneth Mackay](/family-tree/people/i43646316) and [Barbara Mackay](/family-tree/people/i53955929) in Embo, Sutherland, Scotland."
+              "Description": "[Thomas Mackay](/family-tree/people/i5045152) was born on 27th of June 1882 to [Kenneth Mackay](/family-tree/people/i21362348) and [Barbara Mackay](/family-tree/people/i52409786) in Embo, Sutherland, Scotland."
             },
             {
               "Date": "1919-06-27",
@@ -1950,7 +1959,7 @@
           "Events": [
             {
               "Date": "1836-08-06",
-              "Description": "[Isabella Mackay](/family-tree/people/i32127758) was born on 6th of August 1836 to [John Mackay](/family-tree/people/i69392899) and [Isabella Mackay](/family-tree/people/i86403902) in Embo, Sutherland, Scotland."
+              "Description": "[Isabella Mackay](/family-tree/people/i32127758) was born on 6th of August 1836 to [John Mackay](/family-tree/people/i69392899) and [Isabella Mackay](/family-tree/people/i86403902) in Brora, Sutherland, Scotland."
             },
             {
               "Date": "1928-08-06",
@@ -2964,7 +2973,7 @@
           "Events": [
             {
               "Date": "1869-11-16",
-              "Description": "[Kenneth Mackay](/family-tree/people/i43646316) got married to [Barbara Mackay](/family-tree/people/i53955929) on 16th of November 1869 in Poles, Dornoch, Sutherland, Scotland."
+              "Description": "[Kenneth Mackay](/family-tree/people/i21362348) got married to [Barbara Mackay](/family-tree/people/i52409786) on 16th of November 1869."
             }
           ]
         },
@@ -3243,7 +3252,11 @@
           "Events": [
             {
               "Date": "1855-12-14",
-              "Description": "[Isabella Mackay](/family-tree/people/i32127758) got married to [Kenneth Mackay](/family-tree/people/i21362348) on 14th of December 1855."
+              "Description": "[Kenneth Mackay](/family-tree/people/i21362348) got married to [Isabella Mackay](/family-tree/people/i32127758) on 14th of December 1855 at Free Church of Scotland, Dornoch, Sutherland, Scotland."
+            },
+            {
+              "Date": "1855-12-14",
+              "Description": "[Isabella Mackay](/family-tree/people/i32127758) got married to [Kenneth Mackay](/family-tree/people/i21362348) on 14th of December 1855 at Free Church of Scotland, Dornoch, Sutherland, Scotland."
             },
             {
               "Date": "1855-12-14",

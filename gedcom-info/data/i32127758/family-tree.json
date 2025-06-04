@@ -46,11 +46,48 @@
       "Name": "Kenneth Mackay",
       "Gender": "Male",
       "DateOfBirth": "19/Jan/1817",
-      "DateOfDeath": "",
+      "DateOfDeath": "21/Feb/1894",
       "RelationToSubject": "husband",
       "DateOfMarriage": "14/Dec/1855",
       "DateOfDivorce": ""
     }
   ],
-  "Children": []
+  "Children": [
+    {
+      "Id": "i18981292",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "1857",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21362348",
+        "i32127758"
+      ]
+    },
+    {
+      "Id": "i23272301",
+      "Name": "John Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "1859",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21362348",
+        "i32127758"
+      ]
+    },
+    {
+      "Id": "i20426296",
+      "Name": "Christina Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21362348",
+        "i32127758"
+      ]
+    }
+  ]
 }

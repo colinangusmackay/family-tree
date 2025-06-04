@@ -9,6 +9,11 @@ permalink: /people/i69392899
 ## Immediate Family
 
 * Partner: [Isabella Mackay](./@86403902@-isabella-mackay-b-d.md)
+* Father: [Alexander Mackay](./@28762468@-alexander-mackay-b1786-d.md) (1786 - )
+* Mother: [Christy Fraser](./@91889557@-christy-fraser-b1791-d.md) (1791 - )
+* Brother: [Kenneth Mackay](./@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) (19/Jan/1817 - 21/Feb/1894)
+* Brother: [William Mackay](./@15516484@-william-mackay-b1826-d.md) (1826 - )
+* Brother: [James Mackay](./@57588096@-james-mackay-b1828-d.md) (1828 - )
 * Daughter: [Isabella Mackay](./@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md) (6/Aug/1836 - 28/Dec/1862)
 
 ## Timeline

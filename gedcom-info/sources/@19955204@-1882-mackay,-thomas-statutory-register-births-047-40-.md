@@ -44,5 +44,5 @@ References | 1882 B 047/ 40
 
 ## Source Referenced by
 
-* [Kenneth Mackay](../people/@43646316@-kenneth-mackay-b1813-d1891~1901.md) (about 1813 - bet' 1891 and 1901)
+* [Kenneth Mackay](../people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) (19/Jan/1817 - 21/Feb/1894)
 * [Thomas Mackay](../people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md) (27/Jun/1882 - 9/Nov/1934)

@@ -1,0 +1,85 @@
+﻿{
+  "Id": "i20426296",
+  "Name": "Christina Mackay",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "1861",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i21362348",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "19/Jan/1817",
+      "DateOfDeath": "21/Feb/1894",
+      "Parents": [
+        {
+          "Id": "i28762468",
+          "Name": "Alexander Mackay",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "1786",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i91889557",
+          "Name": "Christy Fraser",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "1791",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i32127758",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "6/Aug/1836",
+      "DateOfDeath": "28/Dec/1862",
+      "Parents": [
+        {
+          "Id": "i86403902",
+          "Name": "Isabella Mackay",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i69392899",
+          "Name": "John Mackay",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": [
+            {
+              "Id": "i28762468",
+              "Name": "Alexander Mackay",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "1786",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i91889557",
+              "Name": "Christy Fraser",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "1791",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

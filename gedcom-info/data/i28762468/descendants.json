@@ -3,15 +3,190 @@
   "Name": "Alexander Mackay",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "1786",
   "DateOfDeath": "",
   "Children": [
+    {
+      "Id": "i69392899",
+      "Name": "John Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i32127758",
+          "Name": "Isabella Mackay",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "6/Aug/1836",
+          "DateOfDeath": "28/Dec/1862",
+          "Children": [
+            {
+              "Id": "i18981292",
+              "Name": "Alexander Mackay",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "1857",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i23272301",
+              "Name": "John Mackay",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "1859",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i20426296",
+              "Name": "Christina Mackay",
+              "Gender": "Female",
+              "Relationship": "daughter",
+              "DateOfBirth": "1861",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    },
     {
       "Id": "i21362348",
       "Name": "Kenneth Mackay",
       "Gender": "Male",
       "Relationship": "son",
       "DateOfBirth": "19/Jan/1817",
+      "DateOfDeath": "21/Feb/1894",
+      "Children": [
+        {
+          "Id": "i18981292",
+          "Name": "Alexander Mackay",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "1857",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i23272301",
+          "Name": "John Mackay",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "1859",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i20426296",
+          "Name": "Christina Mackay",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "1861",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i32622896",
+          "Name": "Kenneth Mackay",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "1870",
+          "DateOfDeath": "29/Apr/1871",
+          "Children": []
+        },
+        {
+          "Id": "i46319502",
+          "Name": "George Mackay",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "about 1875",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i38140776",
+          "Name": "Kenneth Mackay",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "about 1877",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i66349958",
+          "Name": "David Mackay",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "about 1879",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i5045152",
+          "Name": "Thomas Mackay",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "27/Jun/1882",
+          "DateOfDeath": "9/Nov/1934",
+          "Children": [
+            {
+              "Id": "i11442358",
+              "Name": "Thomas Mackay",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "after 1920",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i53698892",
+              "Name": "William James Mackay",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "after 1920",
+              "DateOfDeath": "",
+              "Children": []
+            },
+            {
+              "Id": "i52754046",
+              "Name": "Kenneth Mackay",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "28/Mar/1920",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": "i54814674",
+          "Name": "Bella Mackay",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "about 1885",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Id": "i15516484",
+      "Name": "William Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1826",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i57588096",
+      "Name": "James Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1828",
       "DateOfDeath": "",
       "Children": []
     }

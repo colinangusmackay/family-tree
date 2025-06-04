@@ -49,7 +49,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1855**
   * **27/Jul/1855** : **[Richard Tevin](people/@65007133@-richard-tevin-b1841-d.md)** (about 1841 - ) and **[Susan McKay](people/@29671874@-susan-mckay-b1833-4-d1886.md)** (Apr/1833 - before 1886) at Lennoxtown, Scotland.
   * **Dec/1855** : **[John Gillie](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901) and **[Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md)** ( - before 1910) at Lamberton, Berwickshire, Scotland.
-  * **14/Dec/1855** : **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1817-1-19-d.md)** (19/Jan/1817 - ) and **[Isabella Mackay](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862).
+  * **14/Dec/1855** : **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md)** (19/Jan/1817 - 21/Feb/1894) and **[Isabella Mackay](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862) at Dornoch, Sutherland, Scotland.
 * **1856**
   * **5/Dec/1856** : **[Alexander Cumming](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884) and **[Isabella Sutherland](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884).
 * **1857**
@@ -75,8 +75,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1867**
   * **Oct/1867** : **[William Mackay](people/@24694904@-william-mackay-b-d.md)** and **[Ann Cumming](people/@5075008@-ann-cumming-b-d.md)** at Dornoch, Sutherland, Scotland.
 * **1869**
-  * **16/Nov/1869** : **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1817-1-19-d.md)** (19/Jan/1817 - ) and **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - ) at Dornoch, Sutherland, Scotland.
-  * **16/Nov/1869** : **[Kenneth Mackay](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901) and **[Barbara Mackay](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - ) at Poles, Dornoch, Sutherland, Scotland.
+  * **16/Nov/1869** : **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md)** (19/Jan/1817 - 21/Feb/1894) and **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - ).
 
 ### 1870s
 

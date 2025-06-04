@@ -186,11 +186,84 @@
       "Name": "Kenneth Mackay",
       "Gender": "Male",
       "DateOfBirth": "19/Jan/1817",
-      "DateOfDeath": "",
+      "DateOfDeath": "21/Feb/1894",
       "RelationToSubject": "husband",
       "DateOfMarriage": "16/Nov/1869",
       "DateOfDivorce": ""
     }
   ],
-  "Children": []
+  "Children": [
+    {
+      "Id": "i32622896",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "1870",
+      "DateOfDeath": "29/Apr/1871",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21362348",
+        "i52409786"
+      ]
+    },
+    {
+      "Id": "i46319502",
+      "Name": "George Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1875",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21362348",
+        "i52409786"
+      ]
+    },
+    {
+      "Id": "i38140776",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21362348",
+        "i52409786"
+      ]
+    },
+    {
+      "Id": "i66349958",
+      "Name": "David Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1879",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21362348",
+        "i52409786"
+      ]
+    },
+    {
+      "Id": "i5045152",
+      "Name": "Thomas Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "27/Jun/1882",
+      "DateOfDeath": "9/Nov/1934",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21362348",
+        "i52409786"
+      ]
+    },
+    {
+      "Id": "i54814674",
+      "Name": "Bella Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1885",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21362348",
+        "i52409786"
+      ]
+    }
+  ]
 }

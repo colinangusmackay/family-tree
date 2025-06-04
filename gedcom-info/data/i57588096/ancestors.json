@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i57588096",
+  "Name": "James Mackay",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "1828",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i28762468",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "1786",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i91889557",
+      "Name": "Christy Fraser",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "1791",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

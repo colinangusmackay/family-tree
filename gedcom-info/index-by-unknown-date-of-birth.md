@@ -62,7 +62,6 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Munro, Hugh](people/@24463792@-hugh-munro-b1810-d.md)** (before 1810 - )
   * **[Sutherland, Isabella](people/@80519670@-isabella-sutherland-b1810-d.md)** (before 1810 - )
 * **Born in 1813.**
-  * **[Mackay, Kenneth](people/@43646316@-kenneth-mackay-b1813-d1891~1901.md)** (about 1813 - bet' 1891 and 1901)
   * **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
 * **Born in 1816.**
   * **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896)
@@ -170,7 +169,6 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1854.**
   * **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
   * **[Fleming, James](people/@45874990@-james-fleming-b1854-d.md)** (about 1854 - )
-  * **[Mackay, Barbara](people/@53955929@-barbara-mackay-b1854-d.md)** (about 1854 - )
   * **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - )
 * **Born in 1855.**
   * **[Hanton, William](people/@62602830@-william-hanton-b1855-d1922.md)** (about 1855 - before 1922)
@@ -443,7 +441,6 @@ This is a list of people who have vague or unknown dates of birth.
 * [Helen Fisher](people/@31266751@-helen-fisher-b-d1961.md) ( - before 1961)
 * [Sarah Fleming](people/@286084@-sarah-fleming-b-d1886.md) ( - before 1886)
 * [James Flood](people/@27080584@-james-flood-b-d.md)
-* [Christy Fraser](people/@91889557@-christy-fraser-b-d.md)
 * [Morag Fraser](people/@35363781@-morag-fraser-b-d2015.md) ( - 2015)
 * [Peter Fraser](people/@16594334@-peter-fraser-b-d.md)
 * [Thomas Fraser](people/@39286288@-thomas-fraser-b-d1889.md) ( - before 1889)
@@ -481,7 +478,6 @@ This is a list of people who have vague or unknown dates of birth.
 * [Helen MacDonald](people/@83660564@-helen-macdonald-b-d1856.md) ( - after 1856)
 * [Margaret MacDonald](people/@5053655@-margaret-macdonald-b-d.md)
 * [Mary MacDonald](people/@10426344@-mary-macdonald-b-d1900.md) ( - after 1900)
-* [Alexander Mackay](people/@28762468@-alexander-mackay-b-d.md)
 * [Alexander Mackay](people/@56321492@-alexander-mackay-b-d.md)
 * [Alexander Mackay](people/@60647890@-alexander-mackay-b-d.md)
 * [Barbara Mackay](people/@61459684@-barbara-mackay-b-d1896.md) ( - before 1896)

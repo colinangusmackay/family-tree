@@ -53,3 +53,4 @@ References | 1862 D 047/ 50
 ## Source Referenced by
 
 * [Isabella Mackay](../people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md) (6/Aug/1836 - 28/Dec/1862)
+* [Kenneth Mackay](../people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) (19/Jan/1817 - 21/Feb/1894)

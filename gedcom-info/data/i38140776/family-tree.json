@@ -8,23 +8,37 @@
   },
   "Parents": [
     {
-      "Id": "i43646316",
+      "Id": "i21362348",
       "Name": "Kenneth Mackay",
       "Gender": "Male",
-      "DateOfBirth": "about 1813",
-      "DateOfDeath": "bet' 1891 and 1901",
+      "DateOfBirth": "19/Jan/1817",
+      "DateOfDeath": "21/Feb/1894",
       "RelationToSubject": "father"
     },
     {
-      "Id": "i53955929",
+      "Id": "i52409786",
       "Name": "Barbara Mackay",
       "Gender": "Female",
-      "DateOfBirth": "about 1854",
+      "DateOfBirth": "bet' 1849 and 1854",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     }
   ],
   "Siblings": [
+    {
+      "Id": "i32622896",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "1870",
+      "DateOfDeath": "29/Apr/1871",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i21362348",
+          "i52409786"
+        ]
+      ]
+    },
     {
       "Id": "i46319502",
       "Name": "George Mackay",
@@ -34,8 +48,8 @@
       "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
-          "i43646316",
-          "i53955929"
+          "i21362348",
+          "i52409786"
         ]
       ]
     },
@@ -48,8 +62,8 @@
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
-          "i43646316",
-          "i53955929"
+          "i21362348",
+          "i52409786"
         ]
       ]
     },
@@ -62,8 +76,8 @@
       "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
-          "i43646316",
-          "i53955929"
+          "i21362348",
+          "i52409786"
         ]
       ]
     },
@@ -76,8 +90,8 @@
       "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
-          "i43646316",
-          "i53955929"
+          "i21362348",
+          "i52409786"
         ]
       ]
     },
@@ -90,8 +104,8 @@
       "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
-          "i43646316",
-          "i53955929"
+          "i21362348",
+          "i52409786"
         ]
       ]
     }
