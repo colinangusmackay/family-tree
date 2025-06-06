@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i2569089",
+    "Name": "Thomas Sharp Crawford",
+    "Gender": "Male",
+    "DateOfBirth": "1898",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i48880388",
+      "Name": "William Fullerton Crawford",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i66129376",
+      "Name": "Catherine Rodfen",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i2569089",
+      "Name": "Thomas Sharp Crawford",
+      "Gender": "Male",
+      "DateOfBirth": "1898",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i48880388",
+          "i66129376"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i26057486",
+      "Name": "Barbara Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "1894",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "22/Mar/1918",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

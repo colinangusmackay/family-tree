@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i66129376",
+    "Name": "Catherine Rodfen",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i66129376",
+      "Name": "Catherine Rodfen",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i48880388",
+      "Name": "William Fullerton Crawford",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i2569089",
+      "Name": "Thomas Sharp Crawford",
+      "Gender": "Male",
+      "DateOfBirth": "1898",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i48880388",
+        "i66129376"
+      ]
+    }
+  ]
+}

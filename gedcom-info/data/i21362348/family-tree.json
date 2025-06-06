@@ -154,6 +154,30 @@
       ]
     },
     {
+      "Id": "i60643714",
+      "Name": "Barbra Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "25/Aug/1871",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21362348",
+        "i52409786"
+      ]
+    },
+    {
+      "Id": "i64376706",
+      "Name": "Bella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "1874",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21362348",
+        "i52409786"
+      ]
+    },
+    {
       "Id": "i46319502",
       "Name": "George Mackay",
       "Gender": "Male",
@@ -204,10 +228,10 @@
     {
       "Id": "i54814674",
       "Name": "Bella Mackay",
-      "Gender": "Male",
+      "Gender": "Female",
       "DateOfBirth": "about 1885",
       "DateOfDeath": "",
-      "RelationToSubject": "son",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i21362348",
         "i52409786"

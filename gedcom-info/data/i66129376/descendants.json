@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i66129376",
+  "Name": "Catherine Rodfen",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i2569089",
+      "Name": "Thomas Sharp Crawford",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1898",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

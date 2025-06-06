@@ -26,6 +26,7 @@ Date | Residence | Sources & Notes
 ---|---|---
 1861 | Embo, Sutherland, Scotland | [1](#1)
 1871 | Embo, Sutherland, Scotland | [2](#2)
+1881 | Embo, Sutherland, Scotland | [3](#3)
 
 ## Footnotes
 
@@ -48,4 +49,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1871 C 047/ 1/L 11
+
+### 3
+
+**1881 MACKAY, KENNETH & HOUSEHOLD (Census 047/ 2/ 15)**
+
+* [Full text and notes](../sources/@7896052@-1881-mackay,-kenneth-&-household-census-047-2-15-.md)
+* Date: 1881
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1881 C 047/ 2/ 15
 

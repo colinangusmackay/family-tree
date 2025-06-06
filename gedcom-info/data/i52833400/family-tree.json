@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i52833400",
+    "Name": "Christina Ross",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i52833400",
+      "Name": "Christina Ross",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i40210906",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i28777404",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jun/1866",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i40210906",
+        "i52833400"
+      ]
+    }
+  ]
+}

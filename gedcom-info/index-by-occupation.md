@@ -209,6 +209,10 @@ There were 2 people who worked as a Clerk.
 
 * **[Napier, David](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901).
 
+## Contractor
+
+* **[Crawford, William Fullerton](people/@48880388@-william-fullerton-crawford-b-d.md)**.
+
 ## Cook
 
 There were 2 people who worked as a Cook.
@@ -243,11 +247,12 @@ There were 4 people who worked as a Crofter.
 
 ## Domestic Servant
 
-There were 23 people who worked as a Domestic Servant of some sort.
+There were 24 people who worked as a Domestic Servant of some sort.
 
 * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946).
 * **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d1985.md)** (23/Aug/1895 - 1985).
 * **[Fleming, Ellen](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - ).
+* **[Fraser, Barbara](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - ).
 * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971).
 * **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ).
 * **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
@@ -457,7 +462,7 @@ There were 6 people who worked as a Farmer.
 
 ## Fish Worker
 
-There were 73 people who worked as a Fish Worker of some sort.
+There were 75 people who worked as a Fish Worker of some sort.
 
 * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
@@ -487,6 +492,8 @@ There were 73 people who worked as a Fish Worker of some sort.
 * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned twice.
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
 * **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889).
+* **[Fraser, Thomas](people/@40210906@-thomas-fraser-b-d.md)**.
+* **[Fraser, Thomas](people/@28777404@-thomas-fraser-b1866-6-19-d.md)** (19/Jun/1866 - ), mentioned 4 times.
 * **[Fraser, Thomas](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932), mentioned twice.
 * **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ), mentioned twice.
 * **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901).
@@ -510,7 +517,7 @@ There were 73 people who worked as a Fish Worker of some sort.
 * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903), mentioned 9 times.
 * **[Mackay, John](people/@69392899@-john-mackay-b-d.md)**.
 * **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ).
-* **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md)** (19/Jan/1817 - 21/Feb/1894), mentioned 3 times.
+* **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md)** (19/Jan/1817 - 21/Feb/1894), mentioned 5 times.
 * **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ), mentioned twice.
 * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934).
@@ -563,7 +570,7 @@ There were 73 people who worked as a Fish Worker of some sort.
 
 ## Fisher
 
-There were 58 people who worked as a Fisher of some sort.
+There were 60 people who worked as a Fisher of some sort.
 
 * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893).
 * **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896).
@@ -582,6 +589,8 @@ There were 58 people who worked as a Fisher of some sort.
 * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned twice.
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
 * **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889).
+* **[Fraser, Thomas](people/@40210906@-thomas-fraser-b-d.md)**.
+* **[Fraser, Thomas](people/@28777404@-thomas-fraser-b1866-6-19-d.md)** (19/Jun/1866 - ), mentioned 4 times.
 * **[Fraser, Thomas](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932), mentioned twice.
 * **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ), mentioned twice.
 * **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901).
@@ -605,7 +614,7 @@ There were 58 people who worked as a Fisher of some sort.
 * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903), mentioned 9 times.
 * **[Mackay, John](people/@69392899@-john-mackay-b-d.md)**.
 * **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ).
-* **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md)** (19/Jan/1817 - 21/Feb/1894), mentioned 3 times.
+* **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md)** (19/Jan/1817 - 21/Feb/1894), mentioned 5 times.
 * **[Mackay, Kenneth](people/@38140776@-kenneth-mackay-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ), mentioned twice.
 * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934).
@@ -1099,6 +1108,10 @@ There were 2 people who worked as a Printer's Machinist.
 
 ## Railway Fireman
 
+There were 3 people who worked as a Railway Fireman.
+
+* **[Fraser, Kenneth](people/@73587538@-kenneth-fraser-b1900-d.md)** (1900 - ).
+* **[Fraser, Thomas](people/@41158088@-thomas-fraser-b1896-d.md)** (1896 - ).
 * **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920).
 
 ## Railway Worker

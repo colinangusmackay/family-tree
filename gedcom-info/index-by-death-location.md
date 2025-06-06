@@ -41,6 +41,8 @@ permalink: /indexes/by-death-location
 - **[Collins, Helen](people/@79475420@-helen-collins-b-d.md)**
 - **[Cowan, James](people/@66566704@-james-cowan-b-d.md)**
 - **[Crawford, John](people/@33792128@-john-crawford-b-d1936.md)** ( - before 1936)
+- **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1898-d.md)** (1898 - )
+- **[Crawford, William Fullerton](people/@48880388@-william-fullerton-crawford-b-d.md)**
 - **[Cumming, Alexander](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
 - **[Cumming, Alexander](people/@7306221@-alexander-cumming-b1865-d.md)** (about 1865 - )
 - **[Cumming, Ann](people/@19882075@-ann-cumming-b-d.md)**
@@ -112,12 +114,22 @@ permalink: /indexes/by-death-location
 - **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
 - **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
 - **[Fraser, Anna Catherine](people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md)** (28/Aug/1937 - 1992)
+- **[Fraser, Barbara](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - )
+- **[Fraser, Bella](people/@25936309@-bella-fraser-b1902-d.md)** (1902 - )
+- **[Fraser, Christina](people/@8163648@-christina-fraser-b1904-d.md)** (1904 - )
 - **[Fraser, Christy](people/@91889557@-christy-fraser-b1791-d.md)** (1791 - )
+- **[Fraser, Davidina](people/@27014400@-davidina-fraser-b1912-d.md)** (1912 - )
+- **[Fraser, John J Barrow G](people/@43044884@-john-j-barrow-g-fraser-b1906-d.md)** (1906 - )
+- **[Fraser, Kenneth](people/@73587538@-kenneth-fraser-b1900-d.md)** (1900 - )
 - **[Fraser, Morag](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015)
 - **[Fraser, Peter](people/@16594334@-peter-fraser-b-d.md)**
 - **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889)
+- **[Fraser, Thomas](people/@40210906@-thomas-fraser-b-d.md)**
 - **[Fraser, Thomas](people/@65905028@-thomas-fraser-b1769-d.md)** (before 1769 - )
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
+- **[Fraser, Thomas](people/@28777404@-thomas-fraser-b1866-6-19-d.md)** (19/Jun/1866 - )
+- **[Fraser, Thomas](people/@41158088@-thomas-fraser-b1896-d.md)** (1896 - )
+- **[Fraser, William](people/@94771760@-william-fraser-b1908-d.md)** (1908 - )
 - **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939)
 - **[Gibson, Hugh](people/@22004930@-hugh-gibson-b-d.md)**
 - **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - )
@@ -201,6 +213,8 @@ permalink: /indexes/by-death-location
 - **[Mackay, Annie](people/@51252926@-annie-mackay-b1892-12-15-d1918.md)** (15/Dec/1892 - 1918)
 - **[Mackay, Barbara](people/@61459684@-barbara-mackay-b-d1896.md)** ( - before 1896)
 - **[Mackay, Barbara](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - )
+- **[Mackay, Barbra](people/@60643714@-barbra-mackay-b1871-8-25-d.md)** (25/Aug/1871 - )
+- **[Mackay, Bella](people/@64376706@-bella-mackay-b1874-d.md)** (1874 - )
 - **[Mackay, Bella](people/@54814674@-bella-mackay-b1885-d.md)** (about 1885 - )
 - **[Mackay, Betsy](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - )
 - **[Mackay, Catherine](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - )
@@ -391,6 +405,7 @@ permalink: /indexes/by-death-location
 - **[Roberts, Janet](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
 - **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
 - **[Robertson, Mary](people/@96321158@-mary-robertson-b-d.md)**
+- **[Rodfen, Catherine](people/@66129376@-catherine-rodfen-b-d.md)**
 - **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
 - **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896)
 - **[Ross, Alexander](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - )
@@ -401,6 +416,7 @@ permalink: /indexes/by-death-location
 - **[Ross, Ann](people/@99728908@-ann-ross-b1872-d.md)** (1872 - )
 - **[Ross, Barbara](people/@82167024@-barbara-ross-b1862-2-28-d.md)** (28/Feb/1862 - )
 - **[Ross, Catherine](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - )
+- **[Ross, Christina](people/@52833400@-christina-ross-b-d.md)**
 - **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
 - **[Ross, Christy](people/@37144832@-christy-ross-b-d.md)**
 - **[Ross, Donald](people/@16842942@-donald-ross-b-d.md)**

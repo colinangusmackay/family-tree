@@ -295,6 +295,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1866.**
   * **[Mackay, Jessie or Janet](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - )
   * **[Smith, Jamima](people/@93122532@-jamima-smith-b1866-d.md)** (about 1866 - )
+  * **[Fraser, Thomas](people/@28777404@-thomas-fraser-b1866-6-19-d.md)** (19/Jun/1866 - )
   * **[Ross, Marion](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888)
   * **[Napier, Elizabeth](people/@22336798@-elizabeth-napier-b1866-11-17-d.md)** (17/Nov/1866 - )
 * **Born in 1867.**
@@ -325,6 +326,8 @@ permalink: /indexes/by-date-of-birth
   * **[Napier, Henry](people/@74931773@-henry-napier-b1870-d.md)** (1870 - )
   * **[Tevin, Thomas](people/@81418416@-thomas-tevin-b1870-d.md)** (about 1870 - )
   * **[Wilson, James](people/@59901376@-james-wilson-b1870-d.md)** (about 1870 - )
+* **Born in 1871.**
+  * **[Mackay, Barbra](people/@60643714@-barbra-mackay-b1871-8-25-d.md)** (25/Aug/1871 - )
 * **Born in 1872.**
   * **[Farnham, Mae](people/@53003230@-mae-farnham-b1872-d.md)** (about 1872 - )
   * **[Mackay, Jane](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934)
@@ -339,6 +342,7 @@ permalink: /indexes/by-date-of-birth
   * **[Hawthorn, Joseph](people/@16695817@-joseph-hawthorn-b1873-d.md)** (about 1873 - )
   * **[Ramsay, Agnes](people/@57916783@-agnes-ramsay-b1873-d.md)** (about 1873 - )
 * **Born in 1874.**
+  * **[Mackay, Bella](people/@64376706@-bella-mackay-b1874-d.md)** (1874 - )
   * **[McKenzie, Annie](people/@80021760@-annie-mckenzie-b1874-d.md)** (about 1874 - )
   * **[Sutherland, Donald](people/@6737165@-donald-sutherland-b1874-2-8-d.md)** (8/Feb/1874 - )
 * **Born in 1875.**
@@ -462,6 +466,7 @@ permalink: /indexes/by-date-of-birth
   * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974)
 * **Born in 1894.**
   * **[Fisher, William](people/@85653512@-william-fisher-b1894-d.md)** (about 1894 - )
+  * **[Fraser, Barbara](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - )
   * **[Paton, John](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - )
   * **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
   * **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
@@ -474,6 +479,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 * **Born in 1896.**
   * **[Fisher, James](people/@39137337@-james-fisher-b1896-d.md)** (about 1896 - )
+  * **[Fraser, Thomas](people/@41158088@-thomas-fraser-b1896-d.md)** (1896 - )
   * **[Lorimer, Archibald King](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - )
   * **[McKnight, Nelly](people/@63393644@-nelly-mcknight-b1896-d.md)** (about 1896 - )
   * **[Ross, Hugh Alexander](people/@22731476@-hugh-alexander-ross-b1896-11-17-d.md)** (17/Nov/1896 - )
@@ -482,6 +488,7 @@ permalink: /indexes/by-date-of-birth
   * **[Ross, William](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
   * **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977)
 * **Born in 1898.**
+  * **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1898-d.md)** (1898 - )
   * **[Roberts, Donald F](people/@38158777@-donald-f-roberts-b1898-d1990.md)** (about 1898 - before 1990)
   * **[Fleming, Agnes](people/@29204156@-agnes-fleming-b1898-5-25-d.md)** (25/May/1898 - )
   * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
@@ -497,6 +504,7 @@ permalink: /indexes/by-date-of-birth
 ### 1900s
 
 * **Born in 1900.**
+  * **[Fraser, Kenneth](people/@73587538@-kenneth-fraser-b1900-d.md)** (1900 - )
   * **[Grant, Catherine](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - )
   * **[Ross, Marion](people/@39695489@-marion-ross-b1900-d.md)** (1900 - )
   * **[Wilson, Ella R](people/@43820265@-ella-r-wilson-b1900-d.md)** (about 1900 - )
@@ -512,6 +520,7 @@ permalink: /indexes/by-date-of-birth
   * **[Stead, Albert](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
   * **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md)** (27/Jun/1901 - 24/Aug/1973)
 * **Born in 1902.**
+  * **[Fraser, Bella](people/@25936309@-bella-fraser-b1902-d.md)** (1902 - )
   * **[Hanton, Mary](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989)
   * **[Wilson, Stella K](people/@26878767@-stella-k-wilson-b1902-d.md)** (about 1902 - )
   * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
@@ -520,6 +529,7 @@ permalink: /indexes/by-date-of-birth
   * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946)
   * **[Cumming, Donald](people/@64759184@-donald-cumming-b1903-5-4-d.md)** (4/May/1903 - )
 * **Born in 1904.**
+  * **[Fraser, Christina](people/@8163648@-christina-fraser-b1904-d.md)** (1904 - )
   * **[Hanton, William](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993)
   * **[Stead, Laura](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
   * **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998)
@@ -531,6 +541,7 @@ permalink: /indexes/by-date-of-birth
   * **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
   * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
 * **Born in 1906.**
+  * **[Fraser, John J Barrow G](people/@43044884@-john-j-barrow-g-fraser-b1906-d.md)** (1906 - )
   * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
 * **Born in 1907.**
   * **[Carlyle, Mary](people/@99996424@-mary-carlyle-b1907-d.md)** (1907 - )
@@ -538,6 +549,7 @@ permalink: /indexes/by-date-of-birth
   * **[Ross, Jeanie](people/@71751658@-jeanie-ross-b1907-d.md)** (1907 - )
   * **[Ramsay, James Fisher](people/@58012424@-james-fisher-ramsay-b1907-1-15-d1908-6-5.md)** (15/Jan/1907 - 5/Jun/1908)
 * **Born in 1908.**
+  * **[Fraser, William](people/@94771760@-william-fraser-b1908-d.md)** (1908 - )
   * **[Hanton, Jane](people/@65592941@-jane-hanton-b1908-d1930-9-3.md)** (about 1908 - 3/Sep/1930)
   * **[Wilson, Frieda Belle](people/@66883950@-frieda-belle-wilson-b1908-1-10-d1995-1-4.md)** (10/Jan/1908 - 4/Jan/1995)
   * **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
@@ -560,6 +572,7 @@ permalink: /indexes/by-date-of-birth
   * **[Hanton, Jessie Johnstone](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981)
   * **[Stead, George](people/@77215226@-george-stead-b1911-3-d.md)** (Mar/1911 - )
 * **Born in 1912.**
+  * **[Fraser, Davidina](people/@27014400@-davidina-fraser-b1912-d.md)** (1912 - )
   * **[Cummings, James Edward](people/@5591850@-james-edward-cummings-b1912-1-18-d2003-12-11.md)** (18/Jan/1912 - 11/Dec/2003)
   * **[Howie, Annie Murie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
   * **[Crawford, Mary Hendry](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991)

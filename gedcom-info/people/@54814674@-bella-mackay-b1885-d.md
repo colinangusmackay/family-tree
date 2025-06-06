@@ -12,6 +12,8 @@ permalink: /people/i54814674
 * Father: [Kenneth Mackay](./@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) (19/Jan/1817 - 21/Feb/1894)
 * Mother: [Barbara Mackay](./@52409786@-barbara-mackay-b1849~1854-d.md) (bet' 1849 and 1854 - )
 * Brother: [Kenneth Mackay](./@32622896@-kenneth-mackay-b1870-d1871-4-29.md) (1870 - 29/Apr/1871)
+* Sister: [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) (25/Aug/1871 - )
+* Sister: [Bella Mackay](./@64376706@-bella-mackay-b1874-d.md) (1874 - )
 * Brother: [George Mackay](./@46319502@-george-mackay-b1875-d.md) (about 1875 - )
 * Brother: [Kenneth Mackay](./@38140776@-kenneth-mackay-b1877-d.md) (about 1877 - )
 * Brother: [David Mackay](./@66349958@-david-mackay-b1879-d.md) (about 1879 - )

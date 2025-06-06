@@ -1,0 +1,251 @@
+﻿{
+  "Subject": {
+    "Id": "i60643714",
+    "Name": "Barbra Mackay",
+    "Gender": "Female",
+    "DateOfBirth": "25/Aug/1871",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i21362348",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1817",
+      "DateOfDeath": "21/Feb/1894",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i52409786",
+      "Name": "Barbara Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 1849 and 1854",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i32622896",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "1870",
+      "DateOfDeath": "29/Apr/1871",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i21362348",
+          "i52409786"
+        ]
+      ]
+    },
+    {
+      "Id": "i60643714",
+      "Name": "Barbra Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "25/Aug/1871",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i21362348",
+          "i52409786"
+        ]
+      ]
+    },
+    {
+      "Id": "i64376706",
+      "Name": "Bella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "1874",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i21362348",
+          "i52409786"
+        ]
+      ]
+    },
+    {
+      "Id": "i46319502",
+      "Name": "George Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1875",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i21362348",
+          "i52409786"
+        ]
+      ]
+    },
+    {
+      "Id": "i38140776",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i21362348",
+          "i52409786"
+        ]
+      ]
+    },
+    {
+      "Id": "i66349958",
+      "Name": "David Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1879",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i21362348",
+          "i52409786"
+        ]
+      ]
+    },
+    {
+      "Id": "i5045152",
+      "Name": "Thomas Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "27/Jun/1882",
+      "DateOfDeath": "9/Nov/1934",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i21362348",
+          "i52409786"
+        ]
+      ]
+    },
+    {
+      "Id": "i54814674",
+      "Name": "Bella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1885",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i21362348",
+          "i52409786"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i28777404",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jun/1866",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "8/Nov/1892",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i26057486",
+      "Name": "Barbara Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "1894",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i28777404",
+        "i60643714"
+      ]
+    },
+    {
+      "Id": "i41158088",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "1896",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i28777404",
+        "i60643714"
+      ]
+    },
+    {
+      "Id": "i73587538",
+      "Name": "Kenneth Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i28777404",
+        "i60643714"
+      ]
+    },
+    {
+      "Id": "i25936309",
+      "Name": "Bella Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "1902",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i28777404",
+        "i60643714"
+      ]
+    },
+    {
+      "Id": "i8163648",
+      "Name": "Christina Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "1904",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i28777404",
+        "i60643714"
+      ]
+    },
+    {
+      "Id": "i43044884",
+      "Name": "John J Barrow G Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "1906",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i28777404",
+        "i60643714"
+      ]
+    },
+    {
+      "Id": "i94771760",
+      "Name": "William Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "1908",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i28777404",
+        "i60643714"
+      ]
+    },
+    {
+      "Id": "i27014400",
+      "Name": "Davidina Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "1912",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i28777404",
+        "i60643714"
+      ]
+    }
+  ]
+}

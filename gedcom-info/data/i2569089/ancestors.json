@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i2569089",
+  "Name": "Thomas Sharp Crawford",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "1898",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i66129376",
+      "Name": "Catherine Rodfen",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i48880388",
+      "Name": "William Fullerton Crawford",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

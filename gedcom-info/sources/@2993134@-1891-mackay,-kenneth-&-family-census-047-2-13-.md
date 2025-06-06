@@ -161,6 +161,7 @@ References | 1891 C 047/2/13
 
 ## Source Referenced by
 
+* [Barbara Mackay](../people/@52409786@-barbara-mackay-b1849~1854-d.md) (bet' 1849 and 1854 - )
 * [Bella Mackay](../people/@54814674@-bella-mackay-b1885-d.md) (about 1885 - )
 * [David Mackay](../people/@66349958@-david-mackay-b1879-d.md) (about 1879 - )
 * [George Mackay](../people/@46319502@-george-mackay-b1875-d.md) (about 1875 - )

@@ -1564,6 +1564,10 @@
           "Day": 19,
           "Events": [
             {
+              "Date": "1866-06-19",
+              "Description": "[Thomas Fraser](/family-tree/people/i28777404) was born on 19th of June 1866 to [Thomas Fraser](/family-tree/people/i40210906) and [Christina Ross](/family-tree/people/i52833400) in Embo, Sutherland, Scotland."
+            },
+            {
               "Date": "1859-06-19",
               "Description": "[John Hugh Ross](/family-tree/people/i75057664) was born on 19th of June 1859 to [Hugh Ross](/family-tree/people/i10594034) and [Ann Mackay](/family-tree/people/i59598912) in Embo, Sutherland, Scotland."
             },
@@ -2153,7 +2157,12 @@
         },
         {
           "Day": 25,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1871-08-25",
+              "Description": "[Barbra Mackay](/family-tree/people/i60643714) was born on 25th of August 1871 to [Kenneth Mackay](/family-tree/people/i21362348) and [Barbara Mackay](/family-tree/people/i52409786) in Embo, Sutherland, Scotland."
+            }
+          ]
         },
         {
           "Day": 26,

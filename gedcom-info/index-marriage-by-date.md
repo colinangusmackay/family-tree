@@ -129,6 +129,7 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1892**
   * **24/Mar/1892** : **[John Mackay](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ) and **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859-d.md)** (about 1859 - ) at Embo, Sutherland, Scotland.
+  * **8/Nov/1892** : **[Thomas Fraser](people/@28777404@-thomas-fraser-b1866-6-19-d.md)** (19/Jun/1866 - ) and **[Barbra Mackay](people/@60643714@-barbra-mackay-b1871-8-25-d.md)** (25/Aug/1871 - ) at Dornoch, Sutherland, Scotland.
   * **30/Dec/1892** : X and **[Elizabeth Napier](people/@22336798@-elizabeth-napier-b1866-11-17-d.md)** (17/Nov/1866 - ) at Dysart, Fife, Scotland.
 * **1895**
   * **19/Feb/1895** : **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - ) and **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - ) at Dornoch, Sutherland, Scotland.
@@ -189,6 +190,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **22/Dec/1916** : **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ) and **[Margaret McRae](people/@57014804@-margaret-mcrae-b-d.md)** at Dingwall, Ross & Cromarty, Scotland.
 * **1918**
   * **21/Mar/1918** : **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - ) at Applegarth, Dumfries and Galloway, Scotland.
+  * **22/Mar/1918** : **[Thomas Sharp Crawford](people/@2569089@-thomas-sharp-crawford-b1898-d.md)** (1898 - ) and **[Barbara Fraser](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - ) at Kirkcaldy, Fife, Scotland.
   * **12/Apr/1918** : **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967) and **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) at Middlesborough, England.
 * **1919**
   * **27/Jun/1919** : **[Thomas Mackay](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934) and **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970) at Glasgow, Scotland.
