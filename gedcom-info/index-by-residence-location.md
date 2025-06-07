@@ -195,9 +195,10 @@ permalink: /indexes/by-residence-location
 
 #### Kirkcaldy
 
-- **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1898-d.md)** (1898 - )
+- **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968)
 - **[Dalrymple, Janet](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
 - **[Fraser, Barbara](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - )
+- **[Litster, Robina Stobie](people/@99806264@-robina-stobie-litster-b1891-d.md)** (1891 - )
 - **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - )
 - **[Napier, Alexander](people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md)** (2/May/1913 - 25/Jun/1994)
 - **[Napier, David](people/@97555316@-david-napier-b1858-4-7-d.md)** (7/Apr/1858 - )
@@ -276,6 +277,7 @@ permalink: /indexes/by-residence-location
 - **[Paterson, Margaret](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
 - **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906)
 - **[Paterson, Williamina](people/@90589456@-williamina-paterson-b1861-6-10-d.md)** (10/Jun/1861 - )
+- **[Ross, Barbara Mackay](people/@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md)** (31/Jan/1921 - 2014)
 
 ### Inverness-shire
 
@@ -338,6 +340,12 @@ permalink: /indexes/by-residence-location
 
 - **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939)
 
+### Moray
+
+#### Elgin
+
+- **[Tulloch, John Robertson](people/@44608948@-john-robertson-tulloch-b1917-d1988.md)** (1917 - 1988)
+
 ### North Lanarkshire
 
 #### Newarthill
@@ -389,6 +397,10 @@ permalink: /indexes/by-residence-location
 #### Aultbea
 
 - **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878)
+
+#### Tain
+
+- **[Ross, Alexander](people/@34528442@-alexander-ross-b1883-d.md)** (1883 - )
 
 ### Rossshire
 
@@ -561,6 +573,7 @@ permalink: /indexes/by-residence-location
 - **[MacDonald, Jessie](people/@97412403@-jessie-macdonald-b1869-7-7-d1941-2-12.md)** (7/Jul/1869 - 12/Feb/1941)
 - **[MacDonald, William](people/@76505641@-william-macdonald-b1865-1-9-d1898-5-12.md)** (9/Jan/1865 - 12/May/1898)
 - **[McLean, Mary Ann](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - )
+- **[Ross, Barbara Mackay](people/@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md)** (31/Jan/1921 - 2014)
 - **[Ross, Christina](people/@81183416@-christina-ross-b1845-d1916-4-19.md)** (about 1845 - 19/Apr/1916)
 - **[Sutherland, Isabella](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884)
 - **[Wilson, Alice](people/@71120788@-alice-wilson-b1875-d.md)** (about 1875 - )
@@ -571,6 +584,14 @@ permalink: /indexes/by-residence-location
 - **[Wilson, Henrietta](people/@47880504@-henrietta-wilson-b1868-d.md)** (about 1868 - )
 - **[Wilson, James](people/@59901376@-james-wilson-b1870-d.md)** (about 1870 - )
 - **[Wilson, Mary](people/@23013592@-mary-wilson-b1872-d.md)** (about 1872 - )
+
+#### Helmsdale
+
+- **[Ross, Alexander](people/@34528442@-alexander-ross-b1883-d.md)** (1883 - )
+- **[Ross, Barbara Mackay](people/@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md)** (31/Jan/1921 - 2014)
+- **[Ross, John](people/@99039359@-john-ross-b1915-d.md)** (1915 - )
+- **[Ross, Kenneth](people/@31245066@-kenneth-ross-b1911-d.md)** (1911 - )
+- **[Ross, Sarah](people/@85030761@-sarah-ross-b1909-d.md)** (1909 - )
 
 #### Littleferry
 

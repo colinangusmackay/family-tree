@@ -25,13 +25,13 @@ Responsible Agency | Highland Regional Council
 >
 > Mrs B. M. Tulloch,
 >
-> XXXX,
+> Glenairn,
 >
-> XXXX XXXX XXX,
+> 12 Damfield Road,
 >
-> XXXX
+> INVERNESS
 >
-> XXXX XXXX
+> IV2 3HS
 >
 > <br/>
 >
@@ -168,3 +168,4 @@ on 19th of July 1984
 * [William Mackay](../people/@99871003@-william-mackay-b1843~1846-d.md) (bet' 1843 and 1846 - )
 * [Hector Matheson](../people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
 * [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)
+* [Barbara Mackay Ross](../people/@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md) (31/Jan/1921 - 2014)

@@ -35,7 +35,7 @@ permalink: /indexes/by-birth-location
 - **[Collins, Helen](people/@79475420@-helen-collins-b-d.md)**
 - **[Cowan, James](people/@66566704@-james-cowan-b-d.md)**
 - **[Crawford, John](people/@33792128@-john-crawford-b-d1936.md)** ( - before 1936)
-- **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1898-d.md)** (1898 - )
+- **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968)
 - **[Crawford, William Fullerton](people/@48880388@-william-fullerton-crawford-b-d.md)**
 - **[Cumming, Alexander](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
 - **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
@@ -124,6 +124,8 @@ permalink: /indexes/by-birth-location
 - **[Lenox, Minnie](people/@99536158@-minnie-lenox-b1867-4-15-d.md)** (15/Apr/1867 - )
 - **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
 - **[Lindores, William](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - )
+- **[Litster, John](people/@27896288@-john-litster-b-d.md)**
+- **[Litster, Robina Stobie](people/@99806264@-robina-stobie-litster-b1891-d.md)** (1891 - )
 - **[Lorimer, Adam](people/@89082174@-adam-lorimer-b-d1940.md)** ( - before 1940)
 - **[Lorimer, Archibald King](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - )
 - **[Macauley, Catherine](people/@40946328@-catherine-macauley-b-d1884.md)** ( - before 1884)
@@ -266,8 +268,9 @@ permalink: /indexes/by-birth-location
 - **[Roberts, Donald F](people/@38158777@-donald-f-roberts-b1898-d1990.md)** (about 1898 - before 1990)
 - **[Roberts, Frederick B](people/@36552681@-frederick-b-roberts-b1868-d.md)** (about 1868 - )
 - **[Roberts, Janet](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
+- **[Robertson, Mary Ann](people/@92986000@-mary-ann-robertson-b-d.md)**
 - **[Robertson, Mary](people/@96321158@-mary-robertson-b-d.md)**
-- **[Rodfen, Catherine](people/@66129376@-catherine-rodfen-b-d.md)**
+- **[Rodger, Catherine McDonald](people/@66129376@-catherine-mcdonald-rodger-b-d.md)**
 - **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
 - **[Ross, Alexander](people/@64872505@-alexander-ross-b1855-d.md)** (1855 - )
 - **[Ross, Alexander](people/@98834750@-alexander-ross-b1863-d.md)** (1863 - )
@@ -320,6 +323,7 @@ permalink: /indexes/by-birth-location
 - **[Steel, Janet](people/@22623536@-janet-steel-b-d.md)**
 - **[Stevens, Thomas](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 - **[Stewart, Roxannah](people/@56480720@-roxannah-stewart-b-d.md)**
+- **[Stobie, Robina](people/@73873122@-robina-stobie-b-d.md)**
 - **[Sunderland, Thomas](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - )
 - **[Sutherland, Andrew](people/@91612548@-andrew-sutherland-b-d1900.md)** ( - after 1900)
 - **[Sutherland, Isabella](people/@80519670@-isabella-sutherland-b1810-d.md)** (before 1810 - )
@@ -331,6 +335,8 @@ permalink: /indexes/by-birth-location
 - **[Thomson, Agnes Watson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
 - **[Thomson, Thomas](people/@28828844@-thomas-thomson-b-d.md)**
 - **[Thornton, Elizabeth](people/@69380928@-elizabeth-thornton-b-d1886.md)** ( - before 1886)
+- **[Tulloch, Charles Falconer](people/@120623@-charles-falconer-tulloch-b-d.md)**
+- **[Tulloch, John Robertson](people/@44608948@-john-robertson-tulloch-b1917-d1988.md)** (1917 - 1988)
 - **[Vanevery, Mary](people/@23067936@-mary-vanevery-b-d.md)**
 - **[Walker, Ollie E](people/@42365832@-ollie-e-walker-b1872-d.md)** (about 1872 - )
 - **[Walker, W. J.](people/@9365293@-w.-j.-walker-b-d.md)**
@@ -840,6 +846,11 @@ permalink: /indexes/by-birth-location
 - **[Ross, John](people/@16505504@-john-ross-b1868-8-23-d1905-11-20.md)** (23/Aug/1868 - 20/Nov/1905)
 - **[Ross, Marion](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888)
 
+#### Farr
+
+- **[Ross, Kenneth](people/@31245066@-kenneth-ross-b1911-d.md)** (1911 - )
+- **[Ross, Sarah](people/@85030761@-sarah-ross-b1909-d.md)** (1909 - )
+
 #### Golspie
 
 - **[MacDonald, Alexander](people/@81905126@-alexander-macdonald-b1867-3-5-d1928-9-5.md)** (5/Mar/1867 - 5/Sep/1928)
@@ -860,6 +871,15 @@ permalink: /indexes/by-birth-location
 
 - **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986)
 - **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896)
+- **[Ross, Barbara Mackay](people/@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md)** (31/Jan/1921 - 2014)
+
+#### Lairg
+
+- **[Ross, Alexander](people/@34528442@-alexander-ross-b1883-d.md)** (1883 - )
+
+#### Tongue
+
+- **[Ross, John](people/@99039359@-john-ross-b1915-d.md)** (1915 - )
 
 ### West Lothian
 

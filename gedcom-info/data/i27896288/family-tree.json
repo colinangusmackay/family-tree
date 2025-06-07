@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i27896288",
+    "Name": "John Litster",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i27896288",
+      "Name": "John Litster",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i73873122",
+      "Name": "Robina Stobie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i99806264",
+      "Name": "Robina Stobie Litster",
+      "Gender": "Female",
+      "DateOfBirth": "1891",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i27896288",
+        "i73873122"
+      ]
+    }
+  ]
+}

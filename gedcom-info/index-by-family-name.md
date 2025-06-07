@@ -111,7 +111,7 @@ permalink: /indexes/by-family-name
 
 - **[John Crawford](people/@33792128@-john-crawford-b-d1936.md)** ( - before 1936)
 - **[Mary Hendry Crawford](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991)
-- **[Thomas Sharp Crawford](people/@2569089@-thomas-sharp-crawford-b1898-d.md)** (1898 - )
+- **[Thomas Sharp Crawford](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968)
 - **[William Fullerton Crawford](people/@48880388@-william-fullerton-crawford-b-d.md)**
 
 ## Cumming
@@ -429,6 +429,11 @@ permalink: /indexes/by-family-name
 
 - **[Ann Lindores](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
 - **[William Lindores](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - )
+
+## Litster
+
+- **[John Litster](people/@27896288@-john-litster-b-d.md)**
+- **[Robina Stobie Litster](people/@99806264@-robina-stobie-litster-b1891-d.md)** (1891 - )
 
 ## Lorimer
 
@@ -853,11 +858,12 @@ permalink: /indexes/by-family-name
 
 ## Robertson
 
+- **[Mary Ann Robertson](people/@92986000@-mary-ann-robertson-b-d.md)**
 - **[Mary Robertson](people/@96321158@-mary-robertson-b-d.md)**
 
-## Rodfen
+## Rodger
 
-- **[Catherine Rodfen](people/@66129376@-catherine-rodfen-b-d.md)**
+- **[Catherine McDonald Rodger](people/@66129376@-catherine-mcdonald-rodger-b-d.md)**
 
 ## Ross
 
@@ -866,10 +872,12 @@ permalink: /indexes/by-family-name
 - **[Alexander Ross](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - )
 - **[Alexander Ross](people/@64872505@-alexander-ross-b1855-d.md)** (1855 - )
 - **[Alexander Ross](people/@98834750@-alexander-ross-b1863-d.md)** (1863 - )
+- **[Alexander Ross](people/@34528442@-alexander-ross-b1883-d.md)** (1883 - )
 - **[Alexander Ross](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
 - **[Ann Ross](people/@32419757@-ann-ross-b1860-6-17-d.md)** (17/Jun/1860 - )
 - **[Ann Ross](people/@99728908@-ann-ross-b1872-d.md)** (1872 - )
 - **[Ann Ross](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980)
+- **[Barbara Mackay Ross](people/@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md)** (31/Jan/1921 - 2014)
 - **[Barbara Ross](people/@82167024@-barbara-ross-b1862-2-28-d.md)** (28/Feb/1862 - )
 - **[Catherine Ross](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - )
 - **[Christina Ross](people/@52833400@-christina-ross-b-d.md)**
@@ -899,8 +907,10 @@ permalink: /indexes/by-family-name
 - **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
 - **[John Ross](people/@16505504@-john-ross-b1868-8-23-d1905-11-20.md)** (23/Aug/1868 - 20/Nov/1905)
 - **[John Ross](people/@35298145@-john-ross-b1899-d.md)** (1899 - )
+- **[John Ross](people/@99039359@-john-ross-b1915-d.md)** (1915 - )
 - **[Kenneth Ross](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - )
 - **[Kenneth Ross](people/@64618340@-kenneth-ross-b1867-d.md)** (1867 - )
+- **[Kenneth Ross](people/@31245066@-kenneth-ross-b1911-d.md)** (1911 - )
 - **[Marion Ross](people/@39612984@-marion-ross-b1853-d.md)** (about 1853 - )
 - **[Marion Ross](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888)
 - **[Marion Ross](people/@39695489@-marion-ross-b1900-d.md)** (1900 - )
@@ -908,6 +918,7 @@ permalink: /indexes/by-family-name
 - **[Peter Ross](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
 - **[Sarah Ross](people/@84017554@-sarah-ross-b1864-d.md)** (about 1864 - )
 - **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - )
+- **[Sarah Ross](people/@85030761@-sarah-ross-b1909-d.md)** (1909 - )
 - **[Unknown (boy) Ross](people/@68717952@-unknown-boy-ross-b1840~1855-d1840~1855.md)** (bet' 1840 and 1855 - bet' 1840 and 1855)
 - **[Wiliamina Ross](people/@5241144@-wiliamina-ross-b1849-d.md)** (about 1849 - )
 - **[William Ross](people/@31822850@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864)
@@ -981,6 +992,10 @@ permalink: /indexes/by-family-name
 
 - **[Roxannah Stewart](people/@56480720@-roxannah-stewart-b-d.md)**
 
+## Stobie
+
+- **[Robina Stobie](people/@73873122@-robina-stobie-b-d.md)**
+
 ## Sunderland
 
 - **[Thomas Sunderland](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - )
@@ -1028,6 +1043,11 @@ permalink: /indexes/by-family-name
 ## Thornton
 
 - **[Elizabeth Thornton](people/@69380928@-elizabeth-thornton-b-d1886.md)** ( - before 1886)
+
+## Tulloch
+
+- **[Charles Falconer Tulloch](people/@120623@-charles-falconer-tulloch-b-d.md)**
+- **[John Robertson Tulloch](people/@44608948@-john-robertson-tulloch-b1917-d1988.md)** (1917 - 1988)
 
 ## Vanevery
 

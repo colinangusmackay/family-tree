@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i27896288",
+  "Name": "John Litster",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i99806264",
+      "Name": "Robina Stobie Litster",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1891",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

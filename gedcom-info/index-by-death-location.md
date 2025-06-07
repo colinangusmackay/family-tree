@@ -41,7 +41,6 @@ permalink: /indexes/by-death-location
 - **[Collins, Helen](people/@79475420@-helen-collins-b-d.md)**
 - **[Cowan, James](people/@66566704@-james-cowan-b-d.md)**
 - **[Crawford, John](people/@33792128@-john-crawford-b-d1936.md)** ( - before 1936)
-- **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1898-d.md)** (1898 - )
 - **[Crawford, William Fullerton](people/@48880388@-william-fullerton-crawford-b-d.md)**
 - **[Cumming, Alexander](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
 - **[Cumming, Alexander](people/@7306221@-alexander-cumming-b1865-d.md)** (about 1865 - )
@@ -187,6 +186,8 @@ permalink: /indexes/by-death-location
 - **[Lenox, Minnie](people/@99536158@-minnie-lenox-b1867-4-15-d.md)** (15/Apr/1867 - )
 - **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
 - **[Lindores, William](people/@80440796@-william-lindores-b1850-d.md)** (before 1850 - )
+- **[Litster, John](people/@27896288@-john-litster-b-d.md)**
+- **[Litster, Robina Stobie](people/@99806264@-robina-stobie-litster-b1891-d.md)** (1891 - )
 - **[Lorimer, Adam](people/@89082174@-adam-lorimer-b-d1940.md)** ( - before 1940)
 - **[Lorimer, Archibald King](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - )
 - **[Macauley, Catherine](people/@40946328@-catherine-macauley-b-d1884.md)** ( - before 1884)
@@ -404,13 +405,15 @@ permalink: /indexes/by-death-location
 - **[Roberts, Frederick B](people/@36552681@-frederick-b-roberts-b1868-d.md)** (about 1868 - )
 - **[Roberts, Janet](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
 - **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
+- **[Robertson, Mary Ann](people/@92986000@-mary-ann-robertson-b-d.md)**
 - **[Robertson, Mary](people/@96321158@-mary-robertson-b-d.md)**
-- **[Rodfen, Catherine](people/@66129376@-catherine-rodfen-b-d.md)**
+- **[Rodger, Catherine McDonald](people/@66129376@-catherine-mcdonald-rodger-b-d.md)**
 - **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
 - **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896)
 - **[Ross, Alexander](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - )
 - **[Ross, Alexander](people/@64872505@-alexander-ross-b1855-d.md)** (1855 - )
 - **[Ross, Alexander](people/@98834750@-alexander-ross-b1863-d.md)** (1863 - )
+- **[Ross, Alexander](people/@34528442@-alexander-ross-b1883-d.md)** (1883 - )
 - **[Ross, Alexander](people/@52064896@-alexander-ross-b1910-9-24-d.md)** (24/Sep/1910 - )
 - **[Ross, Ann](people/@32419757@-ann-ross-b1860-6-17-d.md)** (17/Jun/1860 - )
 - **[Ross, Ann](people/@99728908@-ann-ross-b1872-d.md)** (1872 - )
@@ -438,14 +441,17 @@ permalink: /indexes/by-death-location
 - **[Ross, John](people/@36837210@-john-ross-b1855-12-14-d.md)** (14/Dec/1855 - )
 - **[Ross, John](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - )
 - **[Ross, John](people/@35298145@-john-ross-b1899-d.md)** (1899 - )
+- **[Ross, John](people/@99039359@-john-ross-b1915-d.md)** (1915 - )
 - **[Ross, Kenneth](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - )
 - **[Ross, Kenneth](people/@64618340@-kenneth-ross-b1867-d.md)** (1867 - )
+- **[Ross, Kenneth](people/@31245066@-kenneth-ross-b1911-d.md)** (1911 - )
 - **[Ross, Marion](people/@39612984@-marion-ross-b1853-d.md)** (about 1853 - )
 - **[Ross, Marion](people/@39695489@-marion-ross-b1900-d.md)** (1900 - )
 - **[Ross, Patrick](people/@62001920@-patrick-ross-b1853-d.md)** (about 1853 - )
 - **[Ross, Peter](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
 - **[Ross, Sarah](people/@84017554@-sarah-ross-b1864-d.md)** (about 1864 - )
 - **[Ross, Sarah](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - )
+- **[Ross, Sarah](people/@85030761@-sarah-ross-b1909-d.md)** (1909 - )
 - **[Ross, Unknown (boy)](people/@68717952@-unknown-boy-ross-b1840~1855-d1840~1855.md)** (bet' 1840 and 1855 - bet' 1840 and 1855)
 - **[Ross, Wiliamina](people/@5241144@-wiliamina-ross-b1849-d.md)** (about 1849 - )
 - **[Ross, William](people/@91623667@-william-ross-b1855-d.md)** (about 1855 - )
@@ -480,6 +486,7 @@ permalink: /indexes/by-death-location
 - **[Steedman, Ricky](people/@65047040@-ricky-steedman-b-d2022-6-23.md)** ( - 23/Jun/2022)
 - **[Steel, Janet](people/@22623536@-janet-steel-b-d.md)**
 - **[Stewart, Roxannah](people/@56480720@-roxannah-stewart-b-d.md)**
+- **[Stobie, Robina](people/@73873122@-robina-stobie-b-d.md)**
 - **[Sunderland, Thomas](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - )
 - **[Sutherland, Andrew](people/@91612548@-andrew-sutherland-b-d1900.md)** ( - after 1900)
 - **[Sutherland, Donald](people/@6737165@-donald-sutherland-b1874-2-8-d.md)** (8/Feb/1874 - )
@@ -498,6 +505,7 @@ permalink: /indexes/by-death-location
 - **[Thomson, Agnes Watson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
 - **[Thomson, Thomas](people/@28828844@-thomas-thomson-b-d.md)**
 - **[Thornton, Elizabeth](people/@69380928@-elizabeth-thornton-b-d1886.md)** ( - before 1886)
+- **[Tulloch, Charles Falconer](people/@120623@-charles-falconer-tulloch-b-d.md)**
 - **[Vanevery, Mary](people/@23067936@-mary-vanevery-b-d.md)**
 - **[Walker, Ollie E](people/@42365832@-ollie-e-walker-b1872-d.md)** (about 1872 - )
 - **[Walker, W. J.](people/@9365293@-w.-j.-walker-b-d.md)**
@@ -612,6 +620,10 @@ permalink: /indexes/by-death-location
 - **[Hanton, Johnina](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000)
 - **[Napier, Alexander](people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md)** (2/May/1913 - 25/Jun/1994)
 
+#### Kirkcaldy
+
+- **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968)
+
 ### Glasgow
 
 - **[Crawford, Mary Hendry](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991)
@@ -630,6 +642,8 @@ permalink: /indexes/by-death-location
 
 - **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970)
 - **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906)
+- **[Ross, Barbara Mackay](people/@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md)** (31/Jan/1921 - 2014)
+- **[Tulloch, John Robertson](people/@44608948@-john-robertson-tulloch-b1917-d1988.md)** (1917 - 1988)
 
 ### Lanarkshire
 

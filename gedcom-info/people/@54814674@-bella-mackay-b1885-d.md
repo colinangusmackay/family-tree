@@ -7,6 +7,13 @@ permalink: /people/i54814674
 # Bella Mackay
 (ABOUT 1885 - ?)
 
+## Names
+
+* Bella Mackay
+* Isabella Mackay (maiden)
+* Isabella Ross (married name)
+* Bella Mackay (variation)
+
 ## Immediate Family
 
 * Father: [Kenneth Mackay](./@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) (19/Jan/1817 - 21/Feb/1894)
@@ -18,6 +25,11 @@ permalink: /people/i54814674
 * Brother: [Kenneth Mackay](./@38140776@-kenneth-mackay-b1877-d.md) (about 1877 - )
 * Brother: [David Mackay](./@66349958@-david-mackay-b1879-d.md) (about 1879 - )
 * Brother: [Thomas Mackay](./@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md) (27/Jun/1882 - 9/Nov/1934)
+* Husband: [Alexander Ross](./@34528442@-alexander-ross-b1883-d.md) (1883 - )
+* Daughter: [Sarah Ross](./@85030761@-sarah-ross-b1909-d.md) (1909 - )
+* Son: [Kenneth Ross](./@31245066@-kenneth-ross-b1911-d.md) (1911 - )
+* Son: [John Ross](./@99039359@-john-ross-b1915-d.md) (1915 - )
+* Daughter: [Barbara Mackay Ross](./@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md) (31/Jan/1921 - 2014)
 
 ## Timeline
 
@@ -31,6 +43,13 @@ Date | Residence | Sources & Notes
 ---|---|---
 1891 | Embo, Sutherland, Scotland | [1](#1)
 1901 | 2 Terrace Street, Embo, Sutherland, Scotland | [2](#2)
+1908 | Embo, Sutherland, Scotland | [3](#3)
+
+## Notes
+
+> Griggs F2.5.10
+>
+
 
 ## Footnotes
 
@@ -51,4 +70,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1901 C 047/2/15
+
+### 3
+
+**1908 ROSS, ALEXANDER & MACKAY, ISABELLA (Statutory Register of Marriages 082/ 13)**
+
+* [Full text and notes](../sources/@62319906@-1908-ross,-alexander-&-mackay,-isabella-statutory-register-of-marriages-082-13-.md)
+* Date: 3/Jul/1908
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1908 M 082/ 13
 

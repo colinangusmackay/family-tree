@@ -168,6 +168,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **about 1906** : **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) and **[Nancy](people/@68661720@-nancy-b-d.md)**.
 * **1907**
   * **24/Dec/1907** : **[James Cumming](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918) and **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - ) at Aberdeen, Aberdeenshire, Scotland.
+* **1908**
+  * **3/Jul/1908** : **[Alexander Ross](people/@34528442@-alexander-ross-b1883-d.md)** (1883 - ) and **[Bella Mackay](people/@54814674@-bella-mackay-b1885-d.md)** (about 1885 - ) at Tain, Ross and Cromarty, Scotland.
 * **1909**
   * **31/Dec/1909** : **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938) and **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) at Glasgow, Scotland.
 
@@ -190,7 +192,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **22/Dec/1916** : **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ) and **[Margaret McRae](people/@57014804@-margaret-mcrae-b-d.md)** at Dingwall, Ross & Cromarty, Scotland.
 * **1918**
   * **21/Mar/1918** : **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - ) at Applegarth, Dumfries and Galloway, Scotland.
-  * **22/Mar/1918** : **[Thomas Sharp Crawford](people/@2569089@-thomas-sharp-crawford-b1898-d.md)** (1898 - ) and **[Barbara Fraser](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - ) at Kirkcaldy, Fife, Scotland.
+  * **22/Mar/1918** : **[Thomas Sharp Crawford](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968) and **[Barbara Fraser](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - ) at Kirkcaldy, Fife, Scotland.
   * **12/Apr/1918** : **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967) and **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) at Middlesborough, England.
 * **1919**
   * **27/Jun/1919** : **[Thomas Mackay](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934) and **[Lucy Mackay](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970) at Glasgow, Scotland.
@@ -240,7 +242,10 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1940s
 
 * **1940**
+  * **2/Mar/1940** : **[Thomas Sharp Crawford](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968) and **[Robina Stobie Litster](people/@99806264@-robina-stobie-litster-b1891-d.md)** (1891 - ) at Kirkcaldy, Fife, Scotland.
   * **13/Nov/1940** : **[Archibald King Lorimer](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - ) and **[Mary Hanton](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989) at Paisley, Renfrewshire, Scotland.
+* **1941**
+  * **22/Aug/1941** : **[John Robertson Tulloch](people/@44608948@-john-robertson-tulloch-b1917-d1988.md)** (1917 - 1988) and **[Barbara Mackay Ross](people/@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md)** (31/Jan/1921 - 2014) at Inverness, Scotland.
 * **1943**
   * **10/Dec/1943** : **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977) at Fort Lauderdale, Broward County, Florida, United States of America.
 * **1944**

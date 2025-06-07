@@ -402,6 +402,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Thomas](people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md)** (27/Jun/1882 - 9/Nov/1934)
 * **Born in 1883.**
   * **[McTurk, Georgina](people/@51187488@-georgina-mcturk-b1883-d.md)** (about 1883 - )
+  * **[Ross, Alexander](people/@34528442@-alexander-ross-b1883-d.md)** (1883 - )
   * **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - )
   * **[Fleming, Christina](people/@85123390@-christina-fleming-b1883-8-26-d1884-3-10.md)** (26/Aug/1883 - 10/Mar/1884)
 * **Born in 1884.**
@@ -446,6 +447,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Janet](people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md)** (12/Nov/1890 - 15/May/1891)
   * **[Ross, Ann](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980)
 * **Born in 1891.**
+  * **[Litster, Robina Stobie](people/@99806264@-robina-stobie-litster-b1891-d.md)** (1891 - )
   * **[McCann, Alice](people/@69495356@-alice-mccann-b1891-d.md)** (about 1891 - )
   * **[McKnight, Lizzie](people/@31828723@-lizzie-mcknight-b1891-d.md)** (about 1891 - )
   * **[Mitchell, Thomas](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972)
@@ -486,9 +488,9 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1897.**
   * **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1897-d.md)** (about 1897 - )
   * **[Ross, William](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
+  * **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968)
   * **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977)
 * **Born in 1898.**
-  * **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1898-d.md)** (1898 - )
   * **[Roberts, Donald F](people/@38158777@-donald-f-roberts-b1898-d1990.md)** (about 1898 - before 1990)
   * **[Fleming, Agnes](people/@29204156@-agnes-fleming-b1898-5-25-d.md)** (25/May/1898 - )
   * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
@@ -554,6 +556,7 @@ permalink: /indexes/by-date-of-birth
   * **[Wilson, Frieda Belle](people/@66883950@-frieda-belle-wilson-b1908-1-10-d1995-1-4.md)** (10/Jan/1908 - 4/Jan/1995)
   * **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
 * **Born in 1909.**
+  * **[Ross, Sarah](people/@85030761@-sarah-ross-b1909-d.md)** (1909 - )
   * **[Watson, John Blue](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963)
   * **[Cumming, Maggie](people/@86945960@-maggie-cumming-b1909-1-19-d.md)** (19/Jan/1909 - )
 
@@ -569,6 +572,7 @@ permalink: /indexes/by-date-of-birth
   * **[McIver, Roderick McKenzie](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
 * **Born in 1911.**
   * **[Ramsay, Allan](people/@62219744@-allan-ramsay-b1911-d1932.md)** (1911 - 1932)
+  * **[Ross, Kenneth](people/@31245066@-kenneth-ross-b1911-d.md)** (1911 - )
   * **[Hanton, Jessie Johnstone](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981)
   * **[Stead, George](people/@77215226@-george-stead-b1911-3-d.md)** (Mar/1911 - )
 * **Born in 1912.**
@@ -586,12 +590,14 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1914.**
   * **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
 * **Born in 1915.**
+  * **[Ross, John](people/@99039359@-john-ross-b1915-d.md)** (1915 - )
   * **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1915-6-16-d1974.md)** (16/Jun/1915 - 1974)
 * **Born in 1916.**
   * **[Hanton, Marion](people/@27083581@-marion-hanton-b1916-d2014.md)** (about 1916 - 2014)
   * **[Russell, Martha](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963)
   * **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md)** (14/Mar/1916 - before 2004)
 * **Born in 1917.**
+  * **[Tulloch, John Robertson](people/@44608948@-john-robertson-tulloch-b1917-d1988.md)** (1917 - 1988)
   * **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
 * **Born in 1918.**
   * **[McAughtrie, Mary Houston](people/@54273056@-mary-houston-mcaughtrie-b1918-d.md)** (about 1918 - )
@@ -616,6 +622,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1921.**
   * **[Flood, Mary Elizabeth](people/@28471390@-mary-elizabeth-flood-b1921-d.md)** (about 1921 - )
   * **[Hanton, John](people/@30651959@-john-hanton-b1921-1-2-d2009.md)** (2/Jan/1921 - 2009)
+  * **[Ross, Barbara Mackay](people/@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md)** (31/Jan/1921 - 2014)
   * **[Falloon, Hannah Elder](people/@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md)** (7/Dec/1921 - 1982)
 * **Born in 1922.**
   * **[Cumming, Donald James](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976)

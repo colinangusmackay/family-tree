@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i99806264",
+    "Name": "Robina Stobie Litster",
+    "Gender": "Female",
+    "DateOfBirth": "1891",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i27896288",
+      "Name": "John Litster",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i73873122",
+      "Name": "Robina Stobie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i99806264",
+      "Name": "Robina Stobie Litster",
+      "Gender": "Female",
+      "DateOfBirth": "1891",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i27896288",
+          "i73873122"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i2569089",
+      "Name": "Thomas Sharp Crawford",
+      "Gender": "Male",
+      "DateOfBirth": "3/Aug/1897",
+      "DateOfDeath": "5/Mar/1968",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "2/Mar/1940",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

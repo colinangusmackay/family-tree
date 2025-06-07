@@ -1,0 +1,87 @@
+﻿{
+  "Subject": {
+    "Id": "i99039359",
+    "Name": "John Ross",
+    "Gender": "Male",
+    "DateOfBirth": "1915",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i34528442",
+      "Name": "Alexander Ross",
+      "Gender": "Male",
+      "DateOfBirth": "1883",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i54814674",
+      "Name": "Bella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1885",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i85030761",
+      "Name": "Sarah Ross",
+      "Gender": "Female",
+      "DateOfBirth": "1909",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i34528442",
+          "i54814674"
+        ]
+      ]
+    },
+    {
+      "Id": "i31245066",
+      "Name": "Kenneth Ross",
+      "Gender": "Male",
+      "DateOfBirth": "1911",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i34528442",
+          "i54814674"
+        ]
+      ]
+    },
+    {
+      "Id": "i99039359",
+      "Name": "John Ross",
+      "Gender": "Male",
+      "DateOfBirth": "1915",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i34528442",
+          "i54814674"
+        ]
+      ]
+    },
+    {
+      "Id": "i63405204",
+      "Name": "Barbara Mackay Ross",
+      "Gender": "Female",
+      "DateOfBirth": "31/Jan/1921",
+      "DateOfDeath": "2014",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i34528442",
+          "i54814674"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

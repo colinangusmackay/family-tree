@@ -3,8 +3,8 @@
     "Id": "i2569089",
     "Name": "Thomas Sharp Crawford",
     "Gender": "Male",
-    "DateOfBirth": "1898",
-    "DateOfDeath": ""
+    "DateOfBirth": "3/Aug/1897",
+    "DateOfDeath": "5/Mar/1968"
   },
   "Parents": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "Id": "i66129376",
-      "Name": "Catherine Rodfen",
+      "Name": "Catherine McDonald Rodger",
       "Gender": "Female",
       "DateOfBirth": "",
       "DateOfDeath": "",
@@ -29,8 +29,8 @@
       "Id": "i2569089",
       "Name": "Thomas Sharp Crawford",
       "Gender": "Male",
-      "DateOfBirth": "1898",
-      "DateOfDeath": "",
+      "DateOfBirth": "3/Aug/1897",
+      "DateOfDeath": "5/Mar/1968",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -42,14 +42,24 @@
   ],
   "Spouses": [
     {
+      "Id": "i99806264",
+      "Name": "Robina Stobie Litster",
+      "Gender": "Female",
+      "DateOfBirth": "1891",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "2/Mar/1940",
+      "DateOfDivorce": ""
+    },
+    {
       "Id": "i26057486",
       "Name": "Barbara Fraser",
       "Gender": "Female",
       "DateOfBirth": "1894",
       "DateOfDeath": "",
-      "RelationToSubject": "wife",
+      "RelationToSubject": "ex-wife",
       "DateOfMarriage": "22/Mar/1918",
-      "DateOfDivorce": ""
+      "DateOfDivorce": "before 1940"
     }
   ],
   "Children": []

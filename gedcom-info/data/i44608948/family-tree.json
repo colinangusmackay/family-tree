@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i44608948",
+    "Name": "John Robertson Tulloch",
+    "Gender": "Male",
+    "DateOfBirth": "1917",
+    "DateOfDeath": "1988"
+  },
+  "Parents": [
+    {
+      "Id": "i120623",
+      "Name": "Charles Falconer Tulloch",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i92986000",
+      "Name": "Mary Ann Robertson",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i44608948",
+      "Name": "John Robertson Tulloch",
+      "Gender": "Male",
+      "DateOfBirth": "1917",
+      "DateOfDeath": "1988",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i120623",
+          "i92986000"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i63405204",
+      "Name": "Barbara Mackay Ross",
+      "Gender": "Female",
+      "DateOfBirth": "31/Jan/1921",
+      "DateOfDeath": "2014",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "22/Aug/1941",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

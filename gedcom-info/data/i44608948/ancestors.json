@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i44608948",
+  "Name": "John Robertson Tulloch",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "1917",
+  "DateOfDeath": "1988",
+  "Parents": [
+    {
+      "Id": "i120623",
+      "Name": "Charles Falconer Tulloch",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i92986000",
+      "Name": "Mary Ann Robertson",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

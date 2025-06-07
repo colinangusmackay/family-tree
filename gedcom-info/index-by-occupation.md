@@ -91,6 +91,10 @@ There were 2 people who worked as a Brass Moulder.
 
 * **[O'Malley, Michael](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - ).
 
+## Builder's Labourer
+
+* **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968).
+
 ## Business Owner
 
 There were 4 people who worked as a Business Owner of some sort.
@@ -136,6 +140,10 @@ There were 4 people who worked as a Carpenter of some sort.
 ## Carpet Weaver
 
 * **[McKechnie, Janet](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949).
+
+## Carting Contractor
+
+* **[Crawford, William Fullerton](people/@48880388@-william-fullerton-crawford-b-d.md)**.
 
 ## Cattle Dealer
 
@@ -313,10 +321,11 @@ There were 2 people who worked as a Draftsman, Electrical.
 
 ## Driver
 
-There were 11 people who worked as a Driver of some sort.
+There were 12 people who worked as a Driver of some sort.
 
 #### Carter
 
+* **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968).
 * **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - ).
 * **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
 * **[Sloan, James](people/@16524688@-james-sloan-b-d1901.md)** ( - before 1901).
@@ -439,7 +448,7 @@ There were 10 people who worked as a Farm Worker of some sort.
 
 ## Farmer
 
-There were 6 people who worked as a Farmer.
+There were 7 people who worked as a Farmer.
 
 * **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - ).
 * **[McKay, John](people/@25989156@-john-mckay-b-d1855.md)** ( - before 1855).
@@ -447,6 +456,7 @@ There were 6 people who worked as a Farmer.
 * **[Ross, Donald](people/@4496220@-donald-ross-b1872-8-30-d.md)** (30/Aug/1872 - ).
 * **[Sunderland, Thomas](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - ).
 * **[Teeven, John](people/@17936784@-john-teeven-b-d1855.md)** ( - before 1855).
+* **[Tulloch, Charles Falconer](people/@120623@-charles-falconer-tulloch-b-d.md)**.
 
 ## Fettler (Woollen)
 
@@ -666,6 +676,10 @@ There were 3 people who worked as a Gardener.
 * **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
 * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974).
 
+## Gas Stoker
+
+* **[Litster, John](people/@27896288@-john-litster-b-d.md)**.
+
 ## General Merchant
 
 There were 2 people who worked as a General Merchant.
@@ -692,6 +706,10 @@ There were 2 people who worked as a General Merchant.
 ## Hank Weaver
 
 * **[Hanton, Mary](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989).
+
+## Haulage Contractor
+
+* **[Crawford, William Fullerton](people/@48880388@-william-fullerton-crawford-b-d.md)**.
 
 ## Head of Department of Arts, Design and Performance
 
@@ -1037,6 +1055,10 @@ There were 6 people who worked as a Nurse of some sort.
 
 * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
 
+## P.O. Engineer
+
+* **[Tulloch, John Robertson](people/@44608948@-john-robertson-tulloch-b1917-d1988.md)** (1917 - 1988).
+
 ## Packing Box Maker
 
 * **[Hanton, James](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922).
@@ -1074,6 +1096,10 @@ There were 2 people who worked as a Painter of some sort.
 ## Pit Drawer
 
 * **[Napier, David](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901).
+
+## Police Constable
+
+* **[Ross, Alexander](people/@34528442@-alexander-ross-b1883-d.md)** (1883 - ), mentioned 4 times.
 
 ## Porter Railway
 

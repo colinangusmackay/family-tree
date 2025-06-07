@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i120623",
+    "Name": "Charles Falconer Tulloch",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i120623",
+      "Name": "Charles Falconer Tulloch",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i92986000",
+      "Name": "Mary Ann Robertson",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i44608948",
+      "Name": "John Robertson Tulloch",
+      "Gender": "Male",
+      "DateOfBirth": "1917",
+      "DateOfDeath": "1988",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i120623",
+        "i92986000"
+      ]
+    }
+  ]
+}

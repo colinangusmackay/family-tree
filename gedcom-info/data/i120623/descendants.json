@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i120623",
+  "Name": "Charles Falconer Tulloch",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i44608948",
+      "Name": "John Robertson Tulloch",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1917",
+      "DateOfDeath": "1988",
+      "Children": []
+    }
+  ]
+}

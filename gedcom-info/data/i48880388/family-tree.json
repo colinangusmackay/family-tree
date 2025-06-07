@@ -21,7 +21,7 @@
   "Spouses": [
     {
       "Id": "i66129376",
-      "Name": "Catherine Rodfen",
+      "Name": "Catherine McDonald Rodger",
       "Gender": "Female",
       "DateOfBirth": "",
       "DateOfDeath": "",
@@ -35,8 +35,8 @@
       "Id": "i2569089",
       "Name": "Thomas Sharp Crawford",
       "Gender": "Male",
-      "DateOfBirth": "1898",
-      "DateOfDeath": "",
+      "DateOfBirth": "3/Aug/1897",
+      "DateOfDeath": "5/Mar/1968",
       "RelationToSubject": "son",
       "ParentIds": [
         "i48880388",

@@ -12,7 +12,7 @@ permalink: /people/i26057486
 * Father: [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) (19/Jun/1866 - )
 * Mother: [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) (25/Aug/1871 - )
 * Brother: [Thomas Fraser](./@41158088@-thomas-fraser-b1896-d.md) (1896 - )
-* Husband: [Thomas Sharp Crawford](./@2569089@-thomas-sharp-crawford-b1898-d.md) (1898 - )
+* Ex Husband: [Thomas Sharp Crawford](./@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md) (3/Aug/1897 - 5/Mar/1968)
 * Brother: [Kenneth Fraser](./@73587538@-kenneth-fraser-b1900-d.md) (1900 - )
 * Sister: [Bella Fraser](./@25936309@-bella-fraser-b1902-d.md) (1902 - )
 * Sister: [Christina Fraser](./@8163648@-christina-fraser-b1904-d.md) (1904 - )
