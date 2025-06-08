@@ -6,6 +6,7 @@ permalink: /sources/s73538200
 # 1876 MACKAY, DONALD (Statutory Register Births 047/ 51)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1/Dec/1876

@@ -6,6 +6,7 @@ permalink: /sources/s19773398
 # 1956 X, X A & FAMILY (Glasgow, Lanarkshire, Scotland, Electoral Registers, 1857-1962)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Glasgow, Lanarkshire, Scotland, Electoral Registers, 1857-1962

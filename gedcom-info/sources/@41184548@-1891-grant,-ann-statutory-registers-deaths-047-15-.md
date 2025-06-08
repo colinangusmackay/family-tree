@@ -6,6 +6,7 @@ permalink: /sources/s41184548
 # 1891 GRANT, ANN (Statutory Registers Deaths 047/15)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 4/May/1891

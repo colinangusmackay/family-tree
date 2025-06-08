@@ -6,6 +6,7 @@ permalink: /sources/s11057392
 # 1961 MITCHELL, ANNIE (Arrival Card)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Massachusetts, U.S., Arriving Passenger and Crew Lists, 1820-1963

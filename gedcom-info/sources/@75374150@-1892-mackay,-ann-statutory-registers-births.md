@@ -6,6 +6,7 @@ permalink: /sources/s75374150
 # 1892 MACKAY, ANN - Statutory Registers Births
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 23/Dec/1892

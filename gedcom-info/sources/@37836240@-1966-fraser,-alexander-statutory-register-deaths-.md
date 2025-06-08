@@ -6,6 +6,7 @@ permalink: /sources/s37836240
 # 1966 X, ALEXANDER (Statutory Register Deaths)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 17/Feb/1966

@@ -6,6 +6,7 @@ permalink: /sources/s8791600
 # 1939 X, JOHN A & FAMILY (1939 England and Wales Register)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | 1939 England and Wales Register

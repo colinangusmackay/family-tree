@@ -6,6 +6,7 @@ permalink: /sources/s93480255
 # 1875 ROSS, HUGH (Statutory Register of Deaths 047/ 37)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 6/Sep/1875

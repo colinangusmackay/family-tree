@@ -6,6 +6,7 @@ permalink: /sources/s45089720
 # 1875 CUMMING, DONALD (Statutory Registers Deaths 047/42)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

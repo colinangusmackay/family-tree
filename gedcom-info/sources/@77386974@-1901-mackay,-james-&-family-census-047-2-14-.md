@@ -6,6 +6,7 @@ permalink: /sources/s77386974
 # 1901 MACKAY, JAMES & Family (Census 047/2/14)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 31/Mar/1901

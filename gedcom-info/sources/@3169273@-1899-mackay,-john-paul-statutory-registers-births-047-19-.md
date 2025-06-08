@@ -6,6 +6,7 @@ permalink: /sources/s3169273
 # 1899 MACKAY, JOHN PAUL (Statutory registers Births 047/19)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 17/Mar/1899

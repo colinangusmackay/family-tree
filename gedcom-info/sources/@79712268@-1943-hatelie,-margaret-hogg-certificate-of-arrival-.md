@@ -6,6 +6,7 @@ permalink: /sources/s79712268
 # 1943 HATELIE, MARGARET HOGG (Certificate of arrival)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 References | 1-418852

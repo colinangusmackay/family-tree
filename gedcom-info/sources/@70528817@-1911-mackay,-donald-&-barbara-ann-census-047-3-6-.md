@@ -6,6 +6,7 @@ permalink: /sources/s70528817
 # 1911 MACKAY, DONALD & BARBARA-ANN (Census 047/ 3/ 6)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1911

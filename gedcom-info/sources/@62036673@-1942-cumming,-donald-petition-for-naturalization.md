@@ -6,6 +6,7 @@ permalink: /sources/s62036673
 # 1942 CUMMING, DONALD - Petition for Naturalization
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 16/Mar/1942

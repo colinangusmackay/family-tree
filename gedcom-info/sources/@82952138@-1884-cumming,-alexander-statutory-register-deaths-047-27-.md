@@ -6,6 +6,7 @@ permalink: /sources/s82952138
 # 1884 CUMMING, ALEXANDER (Statutory Register Deaths 047/27)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 9/Jun/1884

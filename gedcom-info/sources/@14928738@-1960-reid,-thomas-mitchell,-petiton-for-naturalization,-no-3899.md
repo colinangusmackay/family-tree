@@ -6,6 +6,7 @@ permalink: /sources/s14928738
 # 1960 REID, THOMAS MITCHELL, petiton for naturalization, No 3899
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 8/Sep/1960

@@ -6,6 +6,7 @@ permalink: /sources/s56902432
 # 1949 Sunday Post - 150 Young Men Went out to Seek Their Fortune (15/May/1949)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Sunday Post

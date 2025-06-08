@@ -6,6 +6,7 @@ permalink: /sources/s18248370
 # 1927 ROBERTS, MALCOLM D & WILSON, MARY E (New York State, Marriage Index, 1881-1967)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | New York State, Marriage Index, 1881-1967

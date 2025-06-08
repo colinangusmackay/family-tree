@@ -6,6 +6,7 @@ permalink: /sources/s19492840
 # 1841 ROSS, ALEXANDER; MARION; JANET (Census 047/ 5/ 3)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

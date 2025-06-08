@@ -6,6 +6,7 @@ permalink: /sources/s14172856
 # 1877 FRASER, KENNETH (statutory registers Births 047/48)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Registers of Scotland

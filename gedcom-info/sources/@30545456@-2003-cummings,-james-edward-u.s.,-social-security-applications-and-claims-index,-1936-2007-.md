@@ -6,6 +6,7 @@ permalink: /sources/s30545456
 # 2003 CUMMINGS, JAMES EDWARD (U.S., Social Security Applications and Claims Index, 1936-2007)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Social Security Applications and Claims, 1936-2007

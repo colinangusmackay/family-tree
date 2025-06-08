@@ -6,6 +6,7 @@ permalink: /sources/s80882098
 # 1951 CUMMING, CHRISTINE - The Palm Beach Post, Fri Jun 15 1951
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Palm Beach Post

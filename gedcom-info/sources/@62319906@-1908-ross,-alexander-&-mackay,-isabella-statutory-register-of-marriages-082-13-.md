@@ -6,6 +6,7 @@ permalink: /sources/s62319906
 # 1908 ROSS, ALEXANDER & MACKAY, ISABELLA (Statutory Register of Marriages 082/ 13)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 3/Jul/1908

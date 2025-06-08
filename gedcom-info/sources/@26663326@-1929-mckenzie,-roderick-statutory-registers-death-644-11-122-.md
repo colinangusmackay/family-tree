@@ -6,6 +6,7 @@ permalink: /sources/s26663326
 # 1929 MCKENZIE, RODERICK (Statutory Registers Death 644/11 122)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

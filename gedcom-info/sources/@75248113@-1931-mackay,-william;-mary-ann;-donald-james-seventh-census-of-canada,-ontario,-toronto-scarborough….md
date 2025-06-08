@@ -6,6 +6,7 @@ permalink: /sources/s75248113
 # 1931 MACKAY, WILLIAM; MARY ANN; DONALD JAMES (Seventh Census of Canada, Ontario, Toronto Scarborough 160)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1/Jun/1931

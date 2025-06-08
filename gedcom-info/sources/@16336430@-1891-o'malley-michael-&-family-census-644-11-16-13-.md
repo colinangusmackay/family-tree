@@ -6,6 +6,7 @@ permalink: /sources/s16336430
 # 1891 O'MALLEY MICHAEL & FAMILY (Census 644/11 16/ 13)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

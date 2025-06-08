@@ -6,6 +6,7 @@ permalink: /sources/s53674115
 # 1938 MACKAY, ANNA JESSIE (Statutory Registers Births 075/ 2)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 11/Jul/1938

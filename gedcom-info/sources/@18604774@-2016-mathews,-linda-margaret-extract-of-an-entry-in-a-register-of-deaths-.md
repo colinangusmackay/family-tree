@@ -6,6 +6,7 @@ permalink: /sources/s18604774
 # 2016 X, LINDA MARGARET (Extract of an entry in a REGISTER of DEATHS)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | REGISTER of DEATHS

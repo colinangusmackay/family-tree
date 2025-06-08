@@ -6,6 +6,7 @@ permalink: /sources/s68937264
 # 1856 CUMMING, ALEXANDER (Statutory Registers Marriages)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

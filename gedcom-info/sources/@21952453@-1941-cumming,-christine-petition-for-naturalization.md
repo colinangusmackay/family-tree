@@ -6,6 +6,7 @@ permalink: /sources/s21952453
 # 1941 CUMMING, CHRISTINE: Petition for Naturalization
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 23/Mar/1939

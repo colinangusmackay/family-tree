@@ -6,6 +6,7 @@ permalink: /sources/s64831184
 # 1939 MACKAY, DONALD (FindAGrave.com)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com

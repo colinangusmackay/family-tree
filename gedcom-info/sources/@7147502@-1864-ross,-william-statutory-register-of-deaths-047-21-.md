@@ -6,6 +6,7 @@ permalink: /sources/s7147502
 # 1864 ROSS, WILLIAM (Statutory Register of Deaths 047/ 21)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

@@ -6,6 +6,7 @@ permalink: /sources/s67289031
 # 1962 X, X A - Birth Registration Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | England and Wales Birth Registration Index, 1837-2008

@@ -6,6 +6,7 @@ permalink: /sources/s20289898
 # 1969 X, X - Facebook Profile, About, Contact and Basic Info
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Facebook.com

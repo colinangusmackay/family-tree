@@ -6,6 +6,7 @@ permalink: /sources/s40303624
 # 1941 X, JOHN HUGH (Statutory Register of Deaths 047/ 41)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 8/Oct/1941

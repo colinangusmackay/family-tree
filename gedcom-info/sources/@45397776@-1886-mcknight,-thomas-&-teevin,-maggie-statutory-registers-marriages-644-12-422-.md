@@ -6,6 +6,7 @@ permalink: /sources/s45397776
 # 1886 MCKNIGHT, THOMAS & TEEVIN, MAGGIE (Statutory Registers Marriages 644/12 422)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 26/Oct/1886

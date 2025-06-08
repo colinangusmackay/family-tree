@@ -6,6 +6,7 @@ permalink: /sources/s62680432
 # 1986 CUMMING, DONALD JAMES - Obiturary, The Tampa Tribune
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Tampa Tribune

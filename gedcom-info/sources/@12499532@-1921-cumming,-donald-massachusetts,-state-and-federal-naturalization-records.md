@@ -6,6 +6,7 @@ permalink: /sources/s12499532
 # 1921 CUMMING, DONALD - Massachusetts, State and Federal Naturalization Records
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 2/Aug/1921

@@ -6,6 +6,7 @@ permalink: /sources/s3704060
 # 1944 CUMMING THOMASINA IAN, Border Crossing, I-448, 1944-10-18
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 18/Oct/1944

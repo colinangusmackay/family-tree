@@ -6,6 +6,7 @@ permalink: /sources/s85380635
 # 2008 X, X X - The Post Star Tuesday June 24 2008
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Post Star

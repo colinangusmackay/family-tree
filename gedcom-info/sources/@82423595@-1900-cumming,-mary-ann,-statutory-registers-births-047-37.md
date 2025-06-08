@@ -6,6 +6,7 @@ permalink: /sources/s82423595
 # 1900 CUMMING, MARY ANN, Statutory Registers Births 047/37
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 13/Aug/1900

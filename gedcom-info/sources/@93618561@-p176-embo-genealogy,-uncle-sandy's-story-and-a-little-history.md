@@ -6,6 +6,7 @@ permalink: /sources/s93618561
 # P176 Embo - genealogy, Uncle Sandy's Story and a little history
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Embo - genealogy, Uncle Sandy's Story and a little history

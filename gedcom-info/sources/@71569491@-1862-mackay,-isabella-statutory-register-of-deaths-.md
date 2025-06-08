@@ -6,6 +6,7 @@ permalink: /sources/s71569491
 # 1862 MACKAY, ISABELLA (Statutory Register of Deaths)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 29/Dec/1862

@@ -6,6 +6,7 @@ permalink: /sources/s45903628
 # 1901 ROSS, JOHN + HOUSEHOLD (Census 047/ 2/ 22)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1901

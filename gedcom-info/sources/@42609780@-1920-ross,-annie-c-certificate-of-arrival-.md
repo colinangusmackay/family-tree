@@ -6,6 +6,7 @@ permalink: /sources/s42609780
 # 1920 ROSS, ANNIE C (Certificate of Arrival)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950

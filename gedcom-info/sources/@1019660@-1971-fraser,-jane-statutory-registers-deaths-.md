@@ -6,6 +6,7 @@ permalink: /sources/s1019660
 # 1971 FRASER, JANE (Statutory Registers Deaths)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 11/Nov/1971

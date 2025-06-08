@@ -6,6 +6,7 @@ permalink: /sources/s25060303
 # Eyemouth Disaster
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Wikipedia

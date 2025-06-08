@@ -6,6 +6,7 @@ permalink: /sources/s2961014
 # 1858 NAPIER, DAVID & NICHOLSON, AGNES (Statutory Register Marriages 426/ 13)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 27/Jan/1858

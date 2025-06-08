@@ -6,6 +6,7 @@ permalink: /sources/s72249896
 # 1950 CUMMING (1950 United States Federal Census)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Source Created | 31/May/2022 22:21:46

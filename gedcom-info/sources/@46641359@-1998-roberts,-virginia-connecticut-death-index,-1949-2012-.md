@@ -6,6 +6,7 @@ permalink: /sources/s46641359
 # 1998 ROBERTS, VIRGINIA (Connecticut Death Index, 1949-2012)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Connecticut Death Index, 1949-2012

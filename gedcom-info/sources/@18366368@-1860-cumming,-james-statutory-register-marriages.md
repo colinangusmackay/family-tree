@@ -6,6 +6,7 @@ permalink: /sources/s18366368
 # 1860 CUMMING, JAMES - Statutory Register Marriages
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 22/Feb/1860

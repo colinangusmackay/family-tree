@@ -6,6 +6,7 @@ permalink: /sources/s12992908
 # 1930 CUMMING, GEORGE / ALEXINA / THOMASINA / CHRISTINE - 1930 United States Federal Census
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Originator / Author | Department of Commerce - Bureau of the Census

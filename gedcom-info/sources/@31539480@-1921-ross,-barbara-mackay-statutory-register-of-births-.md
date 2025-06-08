@@ -6,6 +6,7 @@ permalink: /sources/s31539480
 # 1921 ROSS, BARBARA MACKAY (Statutory Register of Births)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 11/Feb/1921

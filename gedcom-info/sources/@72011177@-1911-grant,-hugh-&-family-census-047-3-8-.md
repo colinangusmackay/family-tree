@@ -6,6 +6,7 @@ permalink: /sources/s72011177
 # 1911 GRANT, HUGH & Family (Census 047/3/8)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

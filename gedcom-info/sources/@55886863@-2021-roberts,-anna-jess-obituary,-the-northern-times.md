@@ -6,6 +6,7 @@ permalink: /sources/s55886863
 # 2021 X, ANNA JESS - Obituary, The Northern Times
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Northern Times

@@ -6,6 +6,7 @@ permalink: /sources/s7246522
 # 2022 X, X (Facebook profile)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Facebook

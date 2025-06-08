@@ -6,6 +6,7 @@ permalink: /sources/s45530712
 # 1939 CUMMING, CHRISTINE: Declaration of Intention
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 23/Mar/1939

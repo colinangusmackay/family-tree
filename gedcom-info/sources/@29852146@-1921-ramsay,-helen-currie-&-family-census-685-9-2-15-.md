@@ -6,6 +6,7 @@ permalink: /sources/s29852146
 # 1921 RAMSAY, HELEN CURRIE & Family (Census 685/9 2/ 15)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 19/Jun/1921

@@ -6,6 +6,7 @@ permalink: /sources/s9603929
 # 1921 ROSS, ALEXANDER & HOUSEHOLD (Census 052/ 3/ 10)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1921

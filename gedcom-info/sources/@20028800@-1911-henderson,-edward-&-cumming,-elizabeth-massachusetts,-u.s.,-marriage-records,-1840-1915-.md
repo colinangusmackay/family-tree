@@ -6,6 +6,7 @@ permalink: /sources/s20028800
 # 1911 HENDERSON, EDWARD & CUMMING, ELIZABETH (Massachusetts, U.S., Marriage Records, 1840-1915)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Massachusetts, U.S., Marriage Records, 1840-1915

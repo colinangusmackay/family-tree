@@ -6,6 +6,7 @@ permalink: /sources/s56328940
 # 2019 MONSON, CLINTON E (FindAGrave.com)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com

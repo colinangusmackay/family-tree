@@ -6,6 +6,7 @@ permalink: /sources/s62645608
 # X X/Anna J Mackay in the New York State Marriage Index, 1881-1967
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Ancestry.com

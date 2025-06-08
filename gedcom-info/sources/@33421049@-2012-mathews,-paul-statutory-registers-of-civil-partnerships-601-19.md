@@ -6,6 +6,7 @@ permalink: /sources/s33421049
 # 2012 X, X - Statutory Registers of Civil Partnerships 601/19
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 16/Apr/2012

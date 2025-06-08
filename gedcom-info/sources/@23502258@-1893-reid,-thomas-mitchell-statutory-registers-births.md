@@ -6,6 +6,7 @@ permalink: /sources/s23502258
 # 1893 REID, THOMAS MITCHELL - Statutory Registers - Births
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 26/Jan/1893

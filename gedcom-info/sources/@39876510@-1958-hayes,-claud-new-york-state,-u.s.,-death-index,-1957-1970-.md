@@ -6,6 +6,7 @@ permalink: /sources/s39876510
 # 1958 HAYES, CLAUD (New York State, U.S., Death Index, 1957-1970)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | New York State, U.S., Death Index, 1957-1970

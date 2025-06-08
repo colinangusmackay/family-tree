@@ -6,6 +6,7 @@ permalink: /sources/s98775872
 # 1982 MITCHELL, DONALD CHARLES (Certificate of Death)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Texas, U.S., Death Certificates, 1903-1982

@@ -6,6 +6,7 @@ permalink: /sources/s86071302
 # 1920 CAMPBELL, RACHEL SMITH (Statutory registers - Births) Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1920

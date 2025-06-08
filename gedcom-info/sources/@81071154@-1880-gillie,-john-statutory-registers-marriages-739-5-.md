@@ -6,6 +6,7 @@ permalink: /sources/s81071154
 # 1880 GILLIE, JOHN (Statutory Registers Marriages 739/5)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 27/May/1880

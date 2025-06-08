@@ -6,6 +6,7 @@ permalink: /sources/s28724350
 # 1980 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1980
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Phone Book

@@ -6,6 +6,7 @@ permalink: /sources/s6192783
 # 1900 MACKAY, CATHERINE (Statutory Registers Births 088/244)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 24/Sep/1900

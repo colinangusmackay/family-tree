@@ -6,6 +6,7 @@ permalink: /sources/s93257359
 # 1983 X, X (Extract of an Entry in a REGISTER of BIRTHS)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | General Registers Office

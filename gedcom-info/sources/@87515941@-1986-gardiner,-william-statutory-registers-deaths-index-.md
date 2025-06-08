@@ -6,6 +6,7 @@ permalink: /sources/s87515941
 # 1986 GARDINER, WILLIAM - Statutory Registers - Deaths (Index)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

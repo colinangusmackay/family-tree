@@ -6,6 +6,7 @@ permalink: /sources/s72260298
 # 1871 TEEVAN, RICHARD & Family (Census 475/ 6/ 29)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1871

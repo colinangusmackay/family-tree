@@ -6,6 +6,7 @@ permalink: /sources/s62764866
 # 2019 X, ISABELLA - The Herald Death Notices and Announcements
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Herald

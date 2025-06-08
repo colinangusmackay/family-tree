@@ -6,6 +6,7 @@ permalink: /sources/s61711087
 # 1975 HANTON, JAMES (Index to the Statutory Register of Deaths 646/ 623)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

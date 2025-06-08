@@ -6,6 +6,7 @@ permalink: /sources/s79205924
 # 1891 ROSS, JOHN + HOUSEHOLD (Census 1891 047/ 2/ 17)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

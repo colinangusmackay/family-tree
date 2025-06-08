@@ -6,6 +6,7 @@ permalink: /sources/s77220141
 # 1913 RAMSAY, BRUCE MORGAN (Statutory Register Births 685/3 952)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 30/Oct/1913

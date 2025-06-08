@@ -6,6 +6,7 @@ permalink: /sources/s2238856
 # 1919 HANTON, JOHNINA (Statutory Register Births 573/1 267)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

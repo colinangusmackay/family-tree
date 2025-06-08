@@ -6,6 +6,7 @@ permalink: /sources/s5024224
 # 1947 EMBO (Historylinks Archive photo 909)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Historylinks Archive

@@ -6,6 +6,7 @@ permalink: /sources/s90428818
 # 1871 MACKAY, KENNETH (Statutory Register of Deaths 047/ 11)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1/May/1871

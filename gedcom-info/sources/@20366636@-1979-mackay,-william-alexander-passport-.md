@@ -6,6 +6,7 @@ permalink: /sources/s20366636
 # 1979 MACKAY, WILLIAM ALEXANDER (Passport)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 7/Feb/1979

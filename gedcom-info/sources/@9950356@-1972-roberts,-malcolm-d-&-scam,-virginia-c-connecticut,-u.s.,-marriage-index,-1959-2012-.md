@@ -6,6 +6,7 @@ permalink: /sources/s9950356
 # 1972 ROBERTS, MALCOLM D & SCAM, VIRGINIA C (Connecticut, U.S., Marriage Index, 1959-2012)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Connecticut, U.S., Marriage Index, 1959-2012

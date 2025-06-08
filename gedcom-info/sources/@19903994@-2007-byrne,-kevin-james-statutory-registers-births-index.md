@@ -6,6 +6,7 @@ permalink: /sources/s19903994
 # 2007 BYRNE, KEVIN JAMES - Statutory Registers - Births Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

@@ -6,6 +6,7 @@ permalink: /sources/s84661563
 # 1954 X, X A & FAMILY OF VOTING AGE (Register of Voters, Glasgow, Wards 13-26, 1954)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Register of Voters, Glasgow, Wards 13-26, 1954

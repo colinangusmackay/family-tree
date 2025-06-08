@@ -6,6 +6,7 @@ permalink: /sources/s39312919
 # 1896 ROSS, HUGH ALEXANDER - (Statutory Registers Births 047/48)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 27/Nov/1896

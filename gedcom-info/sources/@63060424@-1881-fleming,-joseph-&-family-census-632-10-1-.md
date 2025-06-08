@@ -6,6 +6,7 @@ permalink: /sources/s63060424
 # 1881 FLEMING, JOSEPH & FAMILY (Census 632/10/1)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

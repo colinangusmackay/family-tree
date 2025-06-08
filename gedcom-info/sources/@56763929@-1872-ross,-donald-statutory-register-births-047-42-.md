@@ -6,6 +6,7 @@ permalink: /sources/s56763929
 # 1872 ROSS, DONALD (Statutory Register Births 047/ 42)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 18/Sep/1872

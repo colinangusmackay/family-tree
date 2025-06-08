@@ -6,6 +6,7 @@ permalink: /sources/s92153124
 # 1950 CUMMING, GEORGE DS & MARGARET HOGG (1950 Census)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | 1950 Census of Population and Housing

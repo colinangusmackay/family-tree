@@ -6,6 +6,7 @@ permalink: /sources/s75747112
 # 1858 ROSS, HUGH (Statutory Register Births 047/ 59)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 18/Oct/1858

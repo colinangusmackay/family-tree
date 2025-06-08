@@ -6,6 +6,7 @@ permalink: /sources/s35478116
 # 1962 MACKAY, ISABELLA - The Midwives roll for Scotland, 1962
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Midwives Roll for Scotland

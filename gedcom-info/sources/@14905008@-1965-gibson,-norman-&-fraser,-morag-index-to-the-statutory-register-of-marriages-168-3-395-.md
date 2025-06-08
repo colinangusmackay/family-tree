@@ -6,6 +6,7 @@ permalink: /sources/s14905008
 # 1965 GIBSON, NORMAN & FRASER, MORAG (Index to the Statutory Register of Marriages 168/3 395)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1965

@@ -6,6 +6,7 @@ permalink: /sources/s23680512
 # 1918 CUMMING, CATHERINE CLARK (U.S., Passport Applications, 1795-1925)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | National Archives and Records Administration (NARA); Washington D.C.; Roll #: 481; Volume #: Roll 0481 - Certificates: 8250-8499, 07 Mar 1918-09 Mar 1918

@@ -6,6 +6,7 @@ permalink: /sources/s8128891
 # 1944 ROSS, JOHN HUGH & MARION (Find A Grave)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com

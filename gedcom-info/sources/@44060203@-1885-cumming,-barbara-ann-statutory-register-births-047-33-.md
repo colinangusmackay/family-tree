@@ -6,6 +6,7 @@ permalink: /sources/s44060203
 # 1885 CUMMING, BARBARA-ANN (Statutory Register Births 047/  33)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 3/Sep/1885

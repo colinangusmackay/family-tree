@@ -6,6 +6,7 @@ permalink: /sources/s9828029
 # 1851 MACKAY, ALEXANDER & HOUSEHOLD (Census 047/ 5/ 6)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1851

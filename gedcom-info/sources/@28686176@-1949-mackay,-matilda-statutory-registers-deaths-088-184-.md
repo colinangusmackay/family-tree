@@ -6,6 +6,7 @@ permalink: /sources/s28686176
 # 1949 MACKAY, MATILDA (Statutory Registers Deaths 088/184)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 10/Nov/1949

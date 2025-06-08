@@ -6,6 +6,7 @@ permalink: /sources/s66749134
 # 1988 TULLOCH, JOHN ROBERTSON (Index to the Statutory Register of Deaths 240/ 559)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1988

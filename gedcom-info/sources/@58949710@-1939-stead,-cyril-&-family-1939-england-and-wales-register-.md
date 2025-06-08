@@ -6,6 +6,7 @@ permalink: /sources/s58949710
 # 1939 STEAD, CYRIL & FAMILY (1939 England and Wales Register)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | 1939 England and Wales Register

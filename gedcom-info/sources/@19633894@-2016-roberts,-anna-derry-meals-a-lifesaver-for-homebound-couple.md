@@ -6,6 +6,7 @@ permalink: /sources/s19633894
 # 2016 X, ANNA/X - Meals a lifesaver for homebound couple
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Palm Beach Post

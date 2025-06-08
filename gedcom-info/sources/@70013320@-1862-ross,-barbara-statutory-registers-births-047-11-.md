@@ -6,6 +6,7 @@ permalink: /sources/s70013320
 # 1862 ROSS, BARBARA (Statutory Registers Births 047/ 11)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 6/Mar/1862

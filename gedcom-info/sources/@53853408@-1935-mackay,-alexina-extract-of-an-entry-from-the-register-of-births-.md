@@ -6,6 +6,7 @@ permalink: /sources/s53853408
 # 1935 MACKAY, ALEXINA (Extract of an entry from the Register of Births)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Extract of an entry from the REGISTER OF BIRTHS of Scotland

@@ -6,6 +6,7 @@ permalink: /sources/s15138960
 # 1871 MACKAY, BARBARA (Statutory Register of Births 047/ 31)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 6/Sep/1871

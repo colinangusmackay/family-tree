@@ -6,6 +6,7 @@ permalink: /sources/s55527957
 # 2015 CUMMING, WILLIAM MACKAY (Index to the Statutory Register of Deaths 182/ 31)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 2015

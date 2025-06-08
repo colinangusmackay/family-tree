@@ -6,6 +6,7 @@ permalink: /sources/s66143754
 # 1924 MCKNIGHT, RICHARD & FERN, ANNIE (Statutory Registers Marriages 625/2 45)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 2/May/1924

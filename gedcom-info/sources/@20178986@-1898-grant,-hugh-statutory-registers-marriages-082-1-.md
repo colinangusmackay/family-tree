@@ -6,6 +6,7 @@ permalink: /sources/s20178986
 # 1898 GRANT, HUGH (Statutory Registers Marriages 082/1)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

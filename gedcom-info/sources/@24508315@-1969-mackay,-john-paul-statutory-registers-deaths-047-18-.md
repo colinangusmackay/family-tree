@@ -6,6 +6,7 @@ permalink: /sources/s24508315
 # 1969 X, JOHN PAUL (Statutory registers Deaths 047/18)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 3/Jul/1969

@@ -6,6 +6,7 @@ permalink: /sources/s61071920
 # 1918 CAMPBELL, WILLIAM ANDREW & MCTURK, GRACE (Statutory Registers Marriages 813/A 2)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

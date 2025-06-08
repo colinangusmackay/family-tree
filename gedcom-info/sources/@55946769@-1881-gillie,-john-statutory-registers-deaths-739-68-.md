@@ -6,6 +6,7 @@ permalink: /sources/s55946769
 # 1881 GILLIE, JOHN (Statutory Registers Deaths 739/68)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 21/Oct/1881

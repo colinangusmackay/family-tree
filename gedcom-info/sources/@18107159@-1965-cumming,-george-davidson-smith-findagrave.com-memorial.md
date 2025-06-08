@@ -6,6 +6,7 @@ permalink: /sources/s18107159
 # 1965 CUMMING, GEORGE DAVIDSON SMITH - FindAGrave.com memorial
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | [https://www.findagrave.com/memorial/187602426](https://www.findagrave.com/memorial/187602426)

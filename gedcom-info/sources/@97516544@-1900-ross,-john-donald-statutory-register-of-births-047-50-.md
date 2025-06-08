@@ -6,6 +6,7 @@ permalink: /sources/s97516544
 # 1900 ROSS, JOHN DONALD (Statutory Register of Births 047/ 50)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 3/Nov/1900

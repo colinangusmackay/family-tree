@@ -6,6 +6,7 @@ permalink: /sources/s77150351
 # 1951 MACKAY, GEORGE & HOUSEHOLD (Census 1851 047/ 5/ 11)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1851

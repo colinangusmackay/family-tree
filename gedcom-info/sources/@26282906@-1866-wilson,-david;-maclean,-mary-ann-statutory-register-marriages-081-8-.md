@@ -6,6 +6,7 @@ permalink: /sources/s26282906
 # 1866 WILSON, DAVID; MACLEAN, MARY ANN (Statutory Register Marriages 081/ 8)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 4/Oct/1866

@@ -6,6 +6,7 @@ permalink: /sources/s64707544
 # 1906 PATERSON, WILLIAM (FindAGrave.com 182545128)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com

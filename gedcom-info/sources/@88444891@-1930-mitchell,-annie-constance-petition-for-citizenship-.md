@@ -6,6 +6,7 @@ permalink: /sources/s88444891
 # 1930 MITCHELL, ANNIE CONSTANCE (Petition for Citizenship)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950

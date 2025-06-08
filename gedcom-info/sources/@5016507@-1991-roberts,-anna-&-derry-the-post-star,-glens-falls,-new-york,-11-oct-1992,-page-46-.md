@@ -6,6 +6,7 @@ permalink: /sources/s5016507
 # 1991 X, ANNA & X (The Post-Star, Glens Falls, New York, 11 OCT 1992, Page 46)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Post Star

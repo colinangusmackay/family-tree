@@ -6,6 +6,7 @@ permalink: /sources/s39336142
 # 1942 X, X (Extract of an entry in the REGISTER of BIRTHS)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 12/Mar/1942

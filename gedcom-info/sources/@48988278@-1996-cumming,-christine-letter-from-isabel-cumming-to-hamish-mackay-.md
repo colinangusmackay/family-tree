@@ -6,6 +6,7 @@ permalink: /sources/s48988278
 # 1996 CUMMING, CHRISTINE (Letter from Isabel Cumming to Hamish Mackay)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Originator / Author | Isabel Cumming

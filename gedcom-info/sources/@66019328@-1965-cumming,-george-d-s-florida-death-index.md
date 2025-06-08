@@ -6,6 +6,7 @@ permalink: /sources/s66019328
 # 1965 CUMMING, GEORGE D S - Florida Death Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Florida Death Index 1877-1998

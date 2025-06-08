@@ -6,6 +6,7 @@ permalink: /sources/s36614354
 # 1912 FRASER, KENNETH (Statutory registers Marriages 047/1)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 16/Jan/1912

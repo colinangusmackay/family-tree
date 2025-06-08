@@ -6,6 +6,7 @@ permalink: /sources/s73944120
 # 1922 HANTON, JAMES (Statutory Register of Deaths 573/1 789)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 21/Apr/1922

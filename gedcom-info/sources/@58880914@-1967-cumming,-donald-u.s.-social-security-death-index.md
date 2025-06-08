@@ -6,6 +6,7 @@ permalink: /sources/s58880914
 # 1967 CUMMING, DONALD - U.S. Social Security Death Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | Dec/1967

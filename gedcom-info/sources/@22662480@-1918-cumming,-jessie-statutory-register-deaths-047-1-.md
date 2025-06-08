@@ -6,6 +6,7 @@ permalink: /sources/s22662480
 # 1918 CUMMING, JESSIE (Statutory Register Deaths 047/1)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 14/Jan/1918

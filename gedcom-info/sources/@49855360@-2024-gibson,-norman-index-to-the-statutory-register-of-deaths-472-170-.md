@@ -6,6 +6,7 @@ permalink: /sources/s49855360
 # 2024 GIBSON, NORMAN (Index to the Statutory Register of Deaths 472/ 170)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

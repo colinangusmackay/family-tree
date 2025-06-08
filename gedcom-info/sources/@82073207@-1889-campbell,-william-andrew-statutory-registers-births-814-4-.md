@@ -6,6 +6,7 @@ permalink: /sources/s82073207
 # 1889 CAMPBELL, WILLIAM ANDREW (Statutory Registers Births 814/4)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

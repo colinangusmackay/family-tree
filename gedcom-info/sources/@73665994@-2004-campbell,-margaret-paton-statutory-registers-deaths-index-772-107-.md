@@ -6,6 +6,7 @@ permalink: /sources/s73665994
 # 2004 CAMPBELL, MARGARET PATON (Statutory Registers Deaths Index 772/ 107)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

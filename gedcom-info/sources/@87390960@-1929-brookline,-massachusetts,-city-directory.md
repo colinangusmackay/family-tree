@@ -6,6 +6,7 @@ permalink: /sources/s87390960
 # 1929 Brookline, Massachusetts, City Directory
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | W.A. GREENOUGH CO.'S 1929 BROOKLINE DIRECTORY

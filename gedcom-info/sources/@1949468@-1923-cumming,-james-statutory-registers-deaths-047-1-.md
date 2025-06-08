@@ -6,6 +6,7 @@ permalink: /sources/s1949468
 # 1923 CUMMING, JAMES (Statutory Registers Deaths 047/1)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 11/Jan/1923

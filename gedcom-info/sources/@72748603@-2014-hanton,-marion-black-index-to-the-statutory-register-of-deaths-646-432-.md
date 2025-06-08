@@ -6,6 +6,7 @@ permalink: /sources/s72748603
 # 2014 HANTON, MARION BLACK (Index to the Statutory Register of Deaths 646/ 432)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

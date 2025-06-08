@@ -6,6 +6,7 @@ permalink: /sources/s40041620
 # 1859 SMITH, JOHN; COWAN, AGNES (Statutory Register of Marriages 814/ 9)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 3/Dec/1859

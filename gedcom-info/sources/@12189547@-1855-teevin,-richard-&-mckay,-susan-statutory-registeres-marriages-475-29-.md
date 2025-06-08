@@ -6,6 +6,7 @@ permalink: /sources/s12189547
 # 1855 TEEVIN, RICHARD & MCKAY, SUSAN (Statutory Registeres Marriages 475/ 29)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 28/Jul/1855

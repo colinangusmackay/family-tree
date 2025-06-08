@@ -6,6 +6,7 @@ permalink: /sources/s61721916
 # 1988 X, X - Statutory Registers Marriages Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

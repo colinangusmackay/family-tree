@@ -6,6 +6,7 @@ permalink: /sources/s98921056
 # 1994 X, X (Obituary - Paisley Daily Express)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Paisley Daily Express

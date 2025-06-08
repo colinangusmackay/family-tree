@@ -6,6 +6,7 @@ permalink: /sources/s58508111
 # 1936 CUMMING, GEORGE - Certificate of Arrival
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Originator / Author | Byron H. Uhl

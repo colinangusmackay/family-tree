@@ -6,6 +6,7 @@ permalink: /sources/s85723388
 # 1923 MACKAY, KENNETH (Canada, Ocean Arrivals (Form 30A), 1919-1927)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Canada, Ocean Arrivals (Form 30A), 1919-1927

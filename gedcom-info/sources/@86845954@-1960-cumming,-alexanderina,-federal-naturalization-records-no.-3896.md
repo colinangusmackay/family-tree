@@ -6,6 +6,7 @@ permalink: /sources/s86845954
 # 1960 CUMMING, ALEXANDERINA, Federal Naturalization Records No. 3896
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 8/Sep/1960

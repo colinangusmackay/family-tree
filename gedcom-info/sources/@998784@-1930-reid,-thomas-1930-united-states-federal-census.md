@@ -6,6 +6,7 @@ permalink: /sources/s998784
 # 1930 REID, THOMAS - 1930 United States Federal Census
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Originator / Author | Department of Commerce - Bureau of the Census

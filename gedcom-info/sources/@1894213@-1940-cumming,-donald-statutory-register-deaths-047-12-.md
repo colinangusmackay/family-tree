@@ -6,6 +6,7 @@ permalink: /sources/s1894213
 # 1940 CUMMING, DONALD (Statutory Register Deaths 047/12)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 28/Feb/1928

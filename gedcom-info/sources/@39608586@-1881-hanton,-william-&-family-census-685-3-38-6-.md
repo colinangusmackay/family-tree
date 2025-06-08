@@ -6,6 +6,7 @@ permalink: /sources/s39608586
 # 1881 HANTON, WILLIAM & Family (Census 685/3 38/ 6)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1881

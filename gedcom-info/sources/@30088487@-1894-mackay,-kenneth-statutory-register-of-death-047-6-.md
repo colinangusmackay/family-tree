@@ -6,6 +6,7 @@ permalink: /sources/s30088487
 # 1894 MACKAY, KENNETH (Statutory Register of Death 047/ 6)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 22/Feb/1894

@@ -6,6 +6,7 @@ permalink: /sources/s15040120
 # 1996 CUMMING, CHRISTINE: US Department of Veterans Affairs BIRLS Death File
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | US Department of Veterans Affairs BIRLS Death File, 1850-2010

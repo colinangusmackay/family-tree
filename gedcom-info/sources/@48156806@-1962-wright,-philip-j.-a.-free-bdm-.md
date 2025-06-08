@@ -6,6 +6,7 @@ permalink: /sources/s48156806
 # 1962 WRIGHT, PHILIP J. A. (Free BDM)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Source Created | 22/Apr/2025 23:45:13

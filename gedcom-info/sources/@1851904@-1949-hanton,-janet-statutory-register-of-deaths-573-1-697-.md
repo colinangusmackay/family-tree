@@ -6,6 +6,7 @@ permalink: /sources/s1851904
 # 1949 HANTON, JANET (Statutory Register of Deaths 573/1 697)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 30/Jun/1949

@@ -6,6 +6,7 @@ permalink: /sources/s14483641
 # 1945 NAPIER, ALEXANDER & HANTON, JOHNINA (Statutory Register Marriages 573/1 936)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 24/Dec/1945

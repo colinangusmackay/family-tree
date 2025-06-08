@@ -6,6 +6,7 @@ permalink: /sources/s51938323
 # 1841 WILSON, DAVID (Old Parish Registers Births 445/ Leuchars)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1841

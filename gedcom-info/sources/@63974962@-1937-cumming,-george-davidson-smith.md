@@ -6,6 +6,7 @@ permalink: /sources/s63974962
 # 1937 CUMMING, GEORGE DAVIDSON SMITH
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 16/Jul/1937

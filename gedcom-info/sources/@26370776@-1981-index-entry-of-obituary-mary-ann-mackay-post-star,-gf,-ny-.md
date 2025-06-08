@@ -6,6 +6,7 @@ permalink: /sources/s26370776
 # 1981 Index entry of Obituary Mary Ann Mackay (Post Star, GF, NY)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Newspapers.com Obituary Index 1800-Currentthe o

@@ -6,6 +6,7 @@ permalink: /sources/s16149568
 # 1939 CUMMING, GEORGE DAVIDSON SMITH - Petition for Naturalization
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 2/May/1939

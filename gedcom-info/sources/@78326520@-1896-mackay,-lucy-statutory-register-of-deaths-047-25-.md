@@ -6,6 +6,7 @@ permalink: /sources/s78326520
 # 1896 MACKAY, LUCY (Statutory Register of Deaths 047/ 25)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 24/Aug/1896

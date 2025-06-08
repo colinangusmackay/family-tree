@@ -6,6 +6,7 @@ permalink: /sources/s28397450
 # 2015 X, X X Statutory Registeres Marriages 774/41
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Source Created | 25/May/2020 00:26:57

@@ -6,6 +6,7 @@ permalink: /sources/s17101956
 # 2016 X, LINDA (A Celebration of the Life of Linda X)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Originator / Author | Chris Robinson

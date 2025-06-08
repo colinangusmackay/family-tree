@@ -6,6 +6,7 @@ permalink: /sources/s66595592
 # 1878 MACIVER, RODERICK (Statutory Register of Deaths 066/1 15)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 21/Oct/1878

@@ -6,6 +6,7 @@ permalink: /sources/s35889678
 # 1880 FISHER, JAMES (Statutory Registers Marriages 685/5 528)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

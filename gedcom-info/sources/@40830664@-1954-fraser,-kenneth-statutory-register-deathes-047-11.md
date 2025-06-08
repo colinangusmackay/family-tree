@@ -6,6 +6,7 @@ permalink: /sources/s40830664
 # 1954 FRASER, KENNETH - Statutory Register Deathes 047/11
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 10/May/1954

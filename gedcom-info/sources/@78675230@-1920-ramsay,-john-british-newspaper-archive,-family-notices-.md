@@ -6,6 +6,7 @@ permalink: /sources/s78675230
 # 1920 RAMSAY, JOHN (British Newspaper Archive, Family Notices)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | British Newspaper Archive, Family Notices

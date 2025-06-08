@@ -6,6 +6,7 @@ permalink: /sources/s43818944
 # 1869 FRASER, THOMAS (Statutory Register Births 047/44)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 6/Sep/1869

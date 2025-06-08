@@ -6,6 +6,7 @@ permalink: /sources/s32789084
 # 1976 CUMMING, DONALD JAMES - Massachusetts, Death Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Source Created | 20/Aug/2020 21:01:05

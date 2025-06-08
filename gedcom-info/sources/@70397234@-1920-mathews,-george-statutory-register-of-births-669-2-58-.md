@@ -6,6 +6,7 @@ permalink: /sources/s70397234
 # 1920 MATHEWS, GEORGE (Statutory Register of Births 669/2 58)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 21/Jul/1920

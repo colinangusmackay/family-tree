@@ -6,6 +6,7 @@ permalink: /sources/s32265800
 # 1953 CUMMING, WILMA & X, CLINTON EDWIN (Michigan, U.S., County Marriage Records)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Michigan, U.S., County Marriage Records

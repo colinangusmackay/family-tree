@@ -6,6 +6,7 @@ permalink: /sources/s796877
 # 1986 CUMMING, DONALD JAMES -Florida Death Index, 1986
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Source Created | 29/Jan/2020 17:50:35

@@ -6,6 +6,7 @@ permalink: /sources/s79376054
 # 1917 ROSS, JOHN DONALD (Scottish National War Memorial)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 References | (URL) [Open original source at https://www.snwm.org/roll-search](https://www.snwm.org/roll-search)

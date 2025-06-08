@@ -6,6 +6,7 @@ permalink: /sources/s15614218
 # 1940 X, X X (Index to the Statutory Register of Births)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

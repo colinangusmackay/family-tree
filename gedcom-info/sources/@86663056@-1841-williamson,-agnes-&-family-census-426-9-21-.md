@@ -6,6 +6,7 @@ permalink: /sources/s86663056
 # 1841 WILLIAMSON, AGNES & Family (Census 426/ 9/ 21)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 6/Jun/1841

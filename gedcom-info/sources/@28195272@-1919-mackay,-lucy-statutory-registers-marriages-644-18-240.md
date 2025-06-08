@@ -6,6 +6,7 @@ permalink: /sources/s28195272
 # 1919 MACKAY, LUCY Statutory Registers Marriages 644/18 240
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

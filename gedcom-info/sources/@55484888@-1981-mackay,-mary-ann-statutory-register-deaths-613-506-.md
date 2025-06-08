@@ -6,6 +6,7 @@ permalink: /sources/s55484888
 # 1981 X, MARY ANN (Statutory Register Deaths 613/506)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

@@ -6,6 +6,7 @@ permalink: /sources/s97009852
 # 1878 MACIVER, HECTOR (Statutory Register Births 066/1 21)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 29/Aug/1878

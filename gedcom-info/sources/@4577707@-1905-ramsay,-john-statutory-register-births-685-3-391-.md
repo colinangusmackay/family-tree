@@ -6,6 +6,7 @@ permalink: /sources/s4577707
 # 1905 RAMSAY, JOHN (Statutory Register Births 685/3 391)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 15/Apr/1905

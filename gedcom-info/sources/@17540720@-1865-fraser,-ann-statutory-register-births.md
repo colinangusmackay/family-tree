@@ -6,6 +6,7 @@ permalink: /sources/s17540720
 # 1865 FRASER, ANN - Statutory Register - Births
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 23/Sep/1865

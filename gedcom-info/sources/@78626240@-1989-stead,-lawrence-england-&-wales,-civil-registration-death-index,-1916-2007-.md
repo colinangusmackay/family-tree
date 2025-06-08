@@ -6,6 +6,7 @@ permalink: /sources/s78626240
 # 1989 STEAD, LAWRENCE (England & Wales, Civil Registration Death Index, 1916-2007)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | England & Wales, Civil Registration Death Index, 1916-2007

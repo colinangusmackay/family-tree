@@ -6,6 +6,7 @@ permalink: /sources/s32473964
 # 1975 EMBO drifter Mizpah (Historylinks 3322)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Historylinks Archive

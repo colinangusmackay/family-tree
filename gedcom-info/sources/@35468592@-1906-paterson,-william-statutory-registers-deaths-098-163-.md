@@ -6,6 +6,7 @@ permalink: /sources/s35468592
 # 1906 PATERSON, WILLIAM (Statutory Registers Deaths 098/ 163)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

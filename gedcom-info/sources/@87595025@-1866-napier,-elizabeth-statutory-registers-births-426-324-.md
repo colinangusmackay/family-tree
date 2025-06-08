@@ -6,6 +6,7 @@ permalink: /sources/s87595025
 # 1866 NAPIER, ELIZABETH (Statutory Registers Births 426/ 324)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 8/Dec/1866

@@ -6,6 +6,7 @@ permalink: /sources/s2017128
 # 1896 NAPIER, DAVID (Fife, Scotland, Asylum Regisgters)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Fife and Kinross District Asylum Registers, Fife Library and Archives Services, Fife, Scotland.

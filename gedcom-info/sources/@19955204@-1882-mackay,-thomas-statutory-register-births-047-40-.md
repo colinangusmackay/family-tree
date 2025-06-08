@@ -6,6 +6,7 @@ permalink: /sources/s19955204
 # 1882 MACKAY, THOMAS (Statutory Register Births 047/ 40)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 4/Jul/1882

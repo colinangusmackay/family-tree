@@ -6,6 +6,7 @@ permalink: /sources/s45272064
 # 1881 WILSON, DAVID and Household (Census 051/ 1/ 21)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1881

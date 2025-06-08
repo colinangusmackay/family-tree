@@ -6,6 +6,7 @@ permalink: /sources/s45931272
 # 1999 X, X X (The Post Star, Glens Falls, New York, 18 FEB 1999, Page 13)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Post Star, Glens Falls, New York

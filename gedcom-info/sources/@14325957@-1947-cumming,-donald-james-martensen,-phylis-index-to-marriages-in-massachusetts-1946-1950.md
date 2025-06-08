@@ -6,6 +6,7 @@ permalink: /sources/s14325957
 # 1947 CUMMING, DONALD JAMES / MARTENSEN, PHYLIS - Index to Marriages in Massachusetts 1946-1950
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Index to Marriages in Massachusetts 1946-1950

@@ -6,6 +6,7 @@ permalink: /sources/s58782537
 # 1890 MACKAY, GEORGE (Statutory registers Births 047/47)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 15/Nov/1890

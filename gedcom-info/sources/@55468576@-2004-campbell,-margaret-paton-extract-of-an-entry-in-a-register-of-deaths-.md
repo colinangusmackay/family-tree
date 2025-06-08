@@ -6,6 +6,7 @@ permalink: /sources/s55468576
 # 2004 X, MARGARET PATON (Extract of an entry in a REGISTER of DEATHS)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 6/Apr/2004

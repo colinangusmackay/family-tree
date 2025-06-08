@@ -6,6 +6,7 @@ permalink: /sources/s45728686
 # 1930 CUMMING DONALD, JESSIE, DONALD J, ISABELLA A - 1930 Federal Census
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Federal Census

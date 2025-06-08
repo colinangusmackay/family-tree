@@ -6,6 +6,7 @@ permalink: /sources/s12112448
 # 1953 CUMMING, WILMA & X, CLINTON EDWIN (Marriage notice, The Escanaba Daily Press, Michigan, 8 JAN 1953, Page 10)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Escanaba Daily Press

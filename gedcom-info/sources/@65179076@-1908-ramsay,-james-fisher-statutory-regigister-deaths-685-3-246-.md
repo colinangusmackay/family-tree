@@ -6,6 +6,7 @@ permalink: /sources/s65179076
 # 1908 RAMSAY, JAMES FISHER (Statutory Regigister Deaths 685/3 246)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 6/Jun/1908

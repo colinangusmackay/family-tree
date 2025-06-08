@@ -6,6 +6,7 @@ permalink: /sources/s48543647
 # 1921 HANTON, JOHN (Statutory Register Births 573/1 135)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 22/Jan/1921

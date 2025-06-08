@@ -6,6 +6,7 @@ permalink: /sources/s95342578
 # 2020 WRIGHT, PHILIP JOHN ANTHONY (Companies House - Termination of a Director Appointment)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | Companies House

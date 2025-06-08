@@ -6,6 +6,7 @@ permalink: /sources/s10153260
 # 1954 X, X X (Statutory Registers Births - Index 442/164)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

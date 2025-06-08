@@ -6,6 +6,7 @@ permalink: /sources/s26564627
 # 1921 CAMPBELL, WILLIAM A & HOUSEHOLD (Census 840/ 4/ 2)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 19/Jun/1921

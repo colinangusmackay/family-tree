@@ -6,6 +6,7 @@ permalink: /sources/s57860209
 # 1911 FRASER, THOMAS & HOUSEHOLD (Census 047/ 3/ 17)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1911

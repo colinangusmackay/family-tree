@@ -6,6 +6,7 @@ permalink: /sources/s54706080
 # 1980 MITCHELL, ANN (Texas, U.S., Death Certificates, 1903-1982)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Texas, U.S., Death Certificates, 1903-1982

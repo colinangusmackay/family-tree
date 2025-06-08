@@ -6,6 +6,7 @@ permalink: /sources/s64468780
 # 1898 GRANT, JESSIE ANN (Statutory Register Births 047/ 61)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

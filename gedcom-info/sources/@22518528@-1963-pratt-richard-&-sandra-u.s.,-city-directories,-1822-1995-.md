@@ -6,6 +6,7 @@ permalink: /sources/s22518528
 # 1963 X X & SANDRA (U.S., City Directories, 1822-1995)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Middletown, Connecticut, City Directory, 1963

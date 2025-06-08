@@ -6,6 +6,7 @@ permalink: /sources/s48648969
 # 1867 MACDONALD, ALEXANDER (Statutory Registers Births 051/ 7)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 11/Mar/1867

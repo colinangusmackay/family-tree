@@ -6,6 +6,7 @@ permalink: /sources/s78629056
 # 1821 MACKAY, MARION (OPR Births 047/ Dornoch)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

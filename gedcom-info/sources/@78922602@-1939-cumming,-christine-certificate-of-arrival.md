@@ -6,6 +6,7 @@ permalink: /sources/s78922602
 # 1939 CUMMING, CHRISTINE: Certificate of Arrival
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 21/Feb/1939

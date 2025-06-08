@@ -6,6 +6,7 @@ permalink: /sources/s7896052
 # 1881 MACKAY, KENNETH & HOUSEHOLD (Census 047/ 2/ 15)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1881

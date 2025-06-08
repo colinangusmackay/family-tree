@@ -6,6 +6,7 @@ permalink: /sources/s43231186
 # 1998 GILCHRIST, JAMES (Statutory Register of Deaths Index 602/ 78)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

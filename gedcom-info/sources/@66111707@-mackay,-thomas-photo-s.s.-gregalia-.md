@@ -6,6 +6,7 @@ permalink: /sources/s66111707
 # MACKAY, THOMAS (Photo - S.S. Gregalia)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 References | (URL) [Open original source at https://www.familysearch.org/memories/memory/48623574](https://www.familysearch.org/memories/memory/48623574)

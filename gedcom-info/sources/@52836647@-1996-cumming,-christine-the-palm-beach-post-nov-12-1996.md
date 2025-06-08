@@ -6,6 +6,7 @@ permalink: /sources/s52836647
 # 1996 CUMMING, CHRISTINE - The Palm Beach Post Nov 12 1996
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Palm Beach Post

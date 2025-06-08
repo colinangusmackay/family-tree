@@ -6,6 +6,7 @@ permalink: /sources/s22481351
 # 1967 X, X X (Ohio, U.S., Birth Index, 1908-1998)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Ohio Department of Health, Index to Annual Births, 1968-1998

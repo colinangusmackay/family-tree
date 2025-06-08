@@ -6,6 +6,7 @@ permalink: /sources/s54099112
 # 1946 HAWTHORN, EDWARD JOSEPH & MCKNIGHT, MARY (Statutory Registers Marriages 639/ 265)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 9/Sep/1946

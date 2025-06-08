@@ -6,6 +6,7 @@ permalink: /sources/s52038382
 # 1999 MCIVER, RODERICK MCKENZIE (Statutory Register Deaths Index 507/ 328)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

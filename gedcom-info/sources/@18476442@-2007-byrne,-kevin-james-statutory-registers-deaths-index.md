@@ -6,6 +6,7 @@ permalink: /sources/s18476442
 # 2007 BYRNE, KEVIN JAMES - Statutory Registers - Deaths Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

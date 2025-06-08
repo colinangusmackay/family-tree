@@ -6,6 +6,7 @@ permalink: /sources/s50984294
 # 1940 CUMMING, DONALD JOHN - U.S. WWII Draft Cards Young Men, 1940-1947
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 28/Oct/1940

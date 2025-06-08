@@ -6,6 +6,7 @@ permalink: /sources/s48233928
 # 1910 WILSON, HENRY H & FAMILY (1910 United States Federal Census)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Thirteenth Census of the United States, 1910

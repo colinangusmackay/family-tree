@@ -6,6 +6,7 @@ permalink: /sources/s9056121
 # 1868 MACKAY, ALEXANDER (Statutory Register Deaths 047/ 2)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 10/Jan/1868

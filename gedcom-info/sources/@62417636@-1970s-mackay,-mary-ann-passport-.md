@@ -6,6 +6,7 @@ permalink: /sources/s62417636
 # 1970s MACKAY, MARY ANN (Passport)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | about 1970

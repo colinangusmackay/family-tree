@@ -6,6 +6,7 @@ permalink: /sources/s52759940
 # 1934 MACKAY, WILLIAM ALEXANDER (Statutory Register of Deaths 047/ 7)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 23/Mar/1934

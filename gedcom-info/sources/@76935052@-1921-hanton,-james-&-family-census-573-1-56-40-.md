@@ -6,6 +6,7 @@ permalink: /sources/s76935052
 # 1921 HANTON, JAMES & Family (Census 573/1 56/ 40)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 19/Jun/1921

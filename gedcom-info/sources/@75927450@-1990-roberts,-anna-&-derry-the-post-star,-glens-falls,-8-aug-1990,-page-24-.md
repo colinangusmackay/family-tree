@@ -6,6 +6,7 @@ permalink: /sources/s75927450
 # 1990 X, ANNA & X (The Post-Star, Glens Falls, 8 AUG 1990, Page 24)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Post Star

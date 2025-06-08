@@ -6,6 +6,7 @@ permalink: /sources/s15804504
 # 1898 X, AGNES (Statutory Register of Deaths 814/ 26)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 10/Jul/1898

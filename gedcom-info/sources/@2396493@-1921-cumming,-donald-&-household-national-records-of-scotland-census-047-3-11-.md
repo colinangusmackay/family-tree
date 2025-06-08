@@ -6,6 +6,7 @@ permalink: /sources/s2396493
 # 1921 CUMMING, DONALD & Household (National Records of Scotland Census 047/ 3/ 11)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | 1921 Census

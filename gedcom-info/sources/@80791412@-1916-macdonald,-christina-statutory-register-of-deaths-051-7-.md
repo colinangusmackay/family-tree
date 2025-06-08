@@ -6,6 +6,7 @@ permalink: /sources/s80791412
 # 1916 MACDONALD, CHRISTINA (Statutory Register of Deaths 051/7)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 22/Apr/1916

@@ -6,6 +6,7 @@ permalink: /sources/s53286741
 # 1978 MATHEWS, JOHN ALBERT - Statutory Registers Marriages Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

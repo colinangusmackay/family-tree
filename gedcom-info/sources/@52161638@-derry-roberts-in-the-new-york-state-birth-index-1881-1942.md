@@ -6,6 +6,7 @@ permalink: /sources/s52161638
 # X X in the New York State Birth Index 1881-1942
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Ancestry.com

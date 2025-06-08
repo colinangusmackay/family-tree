@@ -6,6 +6,7 @@ permalink: /sources/s87931250
 # 2020 X, X - Phone conversation notes
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 8/May/2020

@@ -6,6 +6,7 @@ permalink: /sources/s27696600
 # 1860 ROSS, ANN (Statutory Register Births 047/ 31)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 19/Jun/1860

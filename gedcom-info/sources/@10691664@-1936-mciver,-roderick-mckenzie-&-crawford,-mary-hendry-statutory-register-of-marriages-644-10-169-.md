@@ -6,6 +6,7 @@ permalink: /sources/s10691664
 # 1936 MCIVER, RODERICK MCKENZIE & CRAWFORD, MARY HENDRY (Statutory Register of Marriages 644/10 169)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 3/Jul/1936

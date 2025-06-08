@@ -6,6 +6,7 @@ permalink: /sources/s71013758
 # 1863 CUMMING, MARION (Statutory Register Births 047/ 26)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 21/May/1863

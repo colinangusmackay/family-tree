@@ -6,6 +6,7 @@ permalink: /sources/s41382264
 # 1897 TEEVIN OR MCKNIGHT, MAGGIE (North Lanarkshire Poor Law Applications and Registers)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | North Lanarkshire Poor Law Applications and Registers

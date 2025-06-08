@@ -6,6 +6,7 @@ permalink: /sources/s47462218
 # 1941 CAMPBELL, RACHEL (Statutory Register of Deaths 847/ 11)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 23/Jun/1942

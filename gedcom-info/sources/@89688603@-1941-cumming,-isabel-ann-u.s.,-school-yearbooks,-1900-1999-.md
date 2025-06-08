@@ -6,6 +6,7 @@ permalink: /sources/s89688603
 # 1941 CUMMING, ISABEL ANN (U.S., School Yearbooks, 1900-1999)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | U.S., School Yearbooks, 1900-1999

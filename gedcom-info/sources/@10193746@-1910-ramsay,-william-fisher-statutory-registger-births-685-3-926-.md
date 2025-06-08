@@ -6,6 +6,7 @@ permalink: /sources/s10193746
 # 1910 RAMSAY, WILLIAM FISHER (Statutory Registger Births 685/3 926)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 9/Sep/1910

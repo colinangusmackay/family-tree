@@ -6,6 +6,7 @@ permalink: /sources/s49049588
 # 1893 MACKAY, GEORGE (Statutory Register of Deaths 047/ 36)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 27/Nov/1893

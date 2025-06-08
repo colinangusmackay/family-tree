@@ -6,6 +6,7 @@ permalink: /sources/s2430456
 # 2019 X, SANDRA J. (The Post-Star, Glens Falls, New York)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Post-Star, Glens Falls, New York

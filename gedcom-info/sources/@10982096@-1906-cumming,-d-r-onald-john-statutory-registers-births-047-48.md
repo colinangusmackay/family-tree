@@ -6,6 +6,7 @@ permalink: /sources/s10982096
 # 1906 CUMMING, (D/R)ONALD JOHN Statutory Registers Births 047/48
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1/Dec/1906

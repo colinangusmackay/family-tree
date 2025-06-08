@@ -6,6 +6,7 @@ permalink: /sources/s29754288
 # 1948 CAMPBELL, RACHEL SMITH - Statutory Registers - Marriages (Index)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

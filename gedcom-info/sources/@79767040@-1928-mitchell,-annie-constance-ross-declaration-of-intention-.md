@@ -6,6 +6,7 @@ permalink: /sources/s79767040
 # 1928 MITCHELL, ANNIE CONSTANCE ROSS (Declaration of Intention)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950

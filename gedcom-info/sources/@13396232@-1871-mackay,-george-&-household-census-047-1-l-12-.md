@@ -6,6 +6,7 @@ permalink: /sources/s13396232
 # 1871 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 1/L 12)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1871

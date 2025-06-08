@@ -6,6 +6,7 @@ permalink: /sources/s16124232
 # 1982 X, X ALEXANDER (Register of Deaths)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 29/Sep/1982

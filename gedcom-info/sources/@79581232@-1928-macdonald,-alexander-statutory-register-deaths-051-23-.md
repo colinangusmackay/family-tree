@@ -6,6 +6,7 @@ permalink: /sources/s79581232
 # 1928 MACDONALD, ALEXANDER (Statutory Register Deaths 051/ 23)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 10/Sep/1928

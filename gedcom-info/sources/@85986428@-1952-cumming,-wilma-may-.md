@@ -6,6 +6,7 @@ permalink: /sources/s85986428
 # 1952 CUMMING, WILMA MAY ()
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 21/Dec/1952

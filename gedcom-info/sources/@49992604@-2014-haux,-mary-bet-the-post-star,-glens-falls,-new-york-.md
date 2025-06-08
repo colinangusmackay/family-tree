@@ -6,6 +6,7 @@ permalink: /sources/s49992604
 # 2014 X, MARY BET (The Post Star, Glens Falls, New York)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Post Star, Glens Falls, New York

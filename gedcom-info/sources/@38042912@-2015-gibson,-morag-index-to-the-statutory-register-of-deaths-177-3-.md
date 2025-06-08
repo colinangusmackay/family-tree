@@ -6,6 +6,7 @@ permalink: /sources/s38042912
 # 2015 GIBSON, MORAG (Index to the Statutory Register of Deaths 177/3)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 2015

@@ -6,6 +6,7 @@ permalink: /sources/s35345962
 # 1851 ROSS, ALEXANDER & FAMILY (1851 Census 047/ 5/ 5)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | CENSUS OF GREAT BRITAIN 1851 ENUMERATION BOOK 47 SCOTLAND

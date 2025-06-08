@@ -6,6 +6,7 @@ permalink: /sources/s46642344
 # 1987 CUMMING, ALEXINA U.S. Social Security Death Index, 1935-2014
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Ancestry.com

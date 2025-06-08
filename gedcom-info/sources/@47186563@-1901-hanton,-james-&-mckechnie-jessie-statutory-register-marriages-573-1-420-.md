@@ -6,6 +6,7 @@ permalink: /sources/s47186563
 # 1901 HANTON, JAMES & MCKECHNIE JESSIE (Statutory Register Marriages 573/1 420)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

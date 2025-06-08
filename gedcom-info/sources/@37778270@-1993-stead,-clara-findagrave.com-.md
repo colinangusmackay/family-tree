@@ -6,6 +6,7 @@ permalink: /sources/s37778270
 # 1993 STEAD, CLARA (FindAGrave.com)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com

@@ -6,6 +6,7 @@ permalink: /sources/s42096663
 # 1898 CUMMING, GEORGE DAVIDSON SMITH - Statutory Registers - Births
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

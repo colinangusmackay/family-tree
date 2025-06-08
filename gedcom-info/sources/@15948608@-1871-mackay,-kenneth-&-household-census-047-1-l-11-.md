@@ -6,6 +6,7 @@ permalink: /sources/s15948608
 # 1871 MACKAY, KENNETH & HOUSEHOLD (Census 047/ 1/L 11)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1871

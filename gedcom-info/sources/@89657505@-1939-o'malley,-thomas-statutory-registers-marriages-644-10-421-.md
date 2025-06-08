@@ -6,6 +6,7 @@ permalink: /sources/s89657505
 # 1939 O'MALLEY, THOMAS (Statutory registers Marriages 644/10 421)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

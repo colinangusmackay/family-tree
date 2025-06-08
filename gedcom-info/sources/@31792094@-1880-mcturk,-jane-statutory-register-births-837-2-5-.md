@@ -6,6 +6,7 @@ permalink: /sources/s31792094
 # 1880 MCTURK, JANE (Statutory Register Births 837/2 5)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 2/Mar/1880

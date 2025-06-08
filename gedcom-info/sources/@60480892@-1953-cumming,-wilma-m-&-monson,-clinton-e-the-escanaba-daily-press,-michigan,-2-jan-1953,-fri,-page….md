@@ -6,6 +6,7 @@ permalink: /sources/s60480892
 # 1953 CUMMING, WILMA M & MONSON, CLINTON E (The Escanaba Daily Press, Michigan, 2 Jan 1953, Fri, Page 2)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Escanaba Daily Press

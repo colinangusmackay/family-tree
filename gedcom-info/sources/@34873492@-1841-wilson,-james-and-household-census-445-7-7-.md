@@ -6,6 +6,7 @@ permalink: /sources/s34873492
 # 1841 WILSON, JAMES and Household (Census 445/ 7/ 7)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 6/Jun/1841

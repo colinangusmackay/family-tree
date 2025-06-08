@@ -6,6 +6,7 @@ permalink: /sources/s93302041
 # 1871 FLEMING, JOHN & FAMILY (Census 629/3/2)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

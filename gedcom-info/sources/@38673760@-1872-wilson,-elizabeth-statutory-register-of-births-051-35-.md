@@ -6,6 +6,7 @@ permalink: /sources/s38673760
 # 1872 WILSON, ELIZABETH (Statutory Register of Births 051/ 35)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 15/Nov/1872

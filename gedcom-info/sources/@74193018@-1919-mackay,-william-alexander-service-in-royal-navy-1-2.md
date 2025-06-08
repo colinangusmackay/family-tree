@@ -6,6 +6,7 @@ permalink: /sources/s74193018
 # 1919 MACKAY, WILLIAM ALEXANDER - Service in Royal Navy 1/2
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | The National Archives

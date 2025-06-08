@@ -6,6 +6,7 @@ permalink: /sources/s42105900
 # 1838 MACKAY, GEORGE  & MATHESON, LUCY (Old Parish Records)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1838

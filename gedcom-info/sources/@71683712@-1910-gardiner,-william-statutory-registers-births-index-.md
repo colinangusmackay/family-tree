@@ -6,6 +6,7 @@ permalink: /sources/s71683712
 # 1910 GARDINER, WILLIAM - Statutory Registers - Births (Index)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

@@ -6,6 +6,7 @@ permalink: /sources/s39254832
 # 2015 X, MARGARET MCKENZIE (The Herald - Death Notices and Obituaries)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Herald

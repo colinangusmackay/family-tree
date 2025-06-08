@@ -6,6 +6,7 @@ permalink: /sources/s69252361
 # 1872 MCKENZIE, RODERICK & PATERSON, BELLA (Statutory Registers Marriages 644/5 121)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

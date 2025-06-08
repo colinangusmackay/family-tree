@@ -6,6 +6,7 @@ permalink: /sources/s55336750
 # 1872 NAPIER, ALEXANDER (Statutory Register Births 426/ 332)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 23/Nov/1872

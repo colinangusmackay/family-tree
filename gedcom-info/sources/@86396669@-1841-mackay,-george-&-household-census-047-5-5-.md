@@ -6,6 +6,7 @@ permalink: /sources/s86396669
 # 1841 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 5/ 5)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1841

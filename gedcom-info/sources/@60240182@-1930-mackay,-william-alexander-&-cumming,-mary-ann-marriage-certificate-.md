@@ -6,6 +6,7 @@ permalink: /sources/s60240182
 # 1930 MACKAY, WILLIAM ALEXANDER & CUMMING, MARY ANN (Marriage Certificate)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 21/Mar/1930

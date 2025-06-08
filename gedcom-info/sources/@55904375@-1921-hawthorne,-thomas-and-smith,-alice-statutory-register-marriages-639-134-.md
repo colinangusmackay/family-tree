@@ -6,6 +6,7 @@ permalink: /sources/s55904375
 # 1921 HAWTHORNE, THOMAS and SMITH, ALICE (Statutory Register Marriages 639/ 134)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 9/May/1921

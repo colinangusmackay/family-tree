@@ -6,6 +6,7 @@ permalink: /sources/s83641024
 # 1938 CUMMING, JESSIE - Certificate of Arrival
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 11/Jul/1938

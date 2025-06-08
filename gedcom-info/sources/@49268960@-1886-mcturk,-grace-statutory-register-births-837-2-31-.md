@@ -6,6 +6,7 @@ permalink: /sources/s49268960
 # 1886 MCTURK, GRACE (Statutory Register Births 837/2 31)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

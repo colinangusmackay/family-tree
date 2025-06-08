@@ -6,6 +6,7 @@ permalink: /sources/s80253704
 # 1911 RAMSAY, JOHN & Family (Census 685/3 59/ 3)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

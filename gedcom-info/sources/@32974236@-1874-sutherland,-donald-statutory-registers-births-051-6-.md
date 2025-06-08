@@ -6,6 +6,7 @@ permalink: /sources/s32974236
 # 1874 SUTHERLAND, DONALD (Statutory Registers Births 051/6)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 14/Feb/1874

@@ -6,6 +6,7 @@ permalink: /sources/s97538140
 # 1939 GIBSON, ALASTAIR MCDONA (Statutory Registers Marriages 685/1 345)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 4/Sep/1939

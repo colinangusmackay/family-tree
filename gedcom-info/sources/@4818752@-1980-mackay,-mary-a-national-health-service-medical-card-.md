@@ -6,6 +6,7 @@ permalink: /sources/s4818752
 # 1980 MACKAY, MARY A (National Health Service Medical Card)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 31/Mar/1980

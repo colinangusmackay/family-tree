@@ -6,6 +6,7 @@ permalink: /sources/s74407506
 # 1871 ROSS, ALEXANDER & HOUSEHOLD (Census 047/ 1/L 9 - Schedule 44)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1871

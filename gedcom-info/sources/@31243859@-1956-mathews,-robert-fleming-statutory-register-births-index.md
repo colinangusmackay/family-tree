@@ -6,6 +6,7 @@ permalink: /sources/s31243859
 # 1956 X, X X (Statutory Register - Births) Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1956

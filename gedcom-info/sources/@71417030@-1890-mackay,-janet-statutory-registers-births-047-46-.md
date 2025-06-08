@@ -6,6 +6,7 @@ permalink: /sources/s71417030
 # 1890 MACKAY, JANET (Statutory registers Births 047/46)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 15/Nov/1890

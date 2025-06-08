@@ -6,6 +6,7 @@ permalink: /sources/s56970073
 # 1985 X, X (Extract of an entry in the Register of Births)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 22/Mar/1985

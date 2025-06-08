@@ -6,6 +6,7 @@ permalink: /sources/s81027024
 # 1861 MACKAY, JAMES (Scotland Births and Baptisms, 1564-1950)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Scotland Births and Baptisms, 1564-1950

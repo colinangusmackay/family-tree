@@ -6,6 +6,7 @@ permalink: /sources/s51257863
 # 1892 X, X & NAPIER, ELIZABETH (Statutory Registers Marriages 426/ 1)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 3/Jan/1893

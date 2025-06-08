@@ -6,6 +6,7 @@ permalink: /sources/s34949159
 # 1963 HANTON, ANDREW IRVINE (Statutory Register of Deaths 573/1 982)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 12/Aug/1963

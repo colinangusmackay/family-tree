@@ -6,6 +6,7 @@ permalink: /sources/s58885276
 # 1940 O'MALLEY, MARGARET PATON Index from Register of Births
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

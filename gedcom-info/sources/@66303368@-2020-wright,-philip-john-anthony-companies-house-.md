@@ -6,6 +6,7 @@ permalink: /sources/s66303368
 # 2020 WRIGHT, PHILIP JOHN ANTHONY (Companies House)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | Companies House

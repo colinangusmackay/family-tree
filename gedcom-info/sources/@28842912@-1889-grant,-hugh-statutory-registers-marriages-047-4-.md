@@ -6,6 +6,7 @@ permalink: /sources/s28842912
 # 1889 GRANT, HUGH (Statutory Registers Marriages 047/4)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 14/Nov/1889

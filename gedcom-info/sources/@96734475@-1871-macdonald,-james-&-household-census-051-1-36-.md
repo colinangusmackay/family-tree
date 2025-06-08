@@ -6,6 +6,7 @@ permalink: /sources/s96734475
 # 1871 MACDONALD, JAMES & HOUSEHOLD (Census 051/ 1/ 36)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

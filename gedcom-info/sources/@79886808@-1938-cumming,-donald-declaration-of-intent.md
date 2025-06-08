@@ -6,6 +6,7 @@ permalink: /sources/s79886808
 # 1938 CUMMING, DONALD - Declaration of Intent
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 20/Aug/1938

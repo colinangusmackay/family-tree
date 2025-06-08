@@ -6,6 +6,7 @@ permalink: /sources/s1731200
 # 1961 X, X X: Statutory Registers - Births Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

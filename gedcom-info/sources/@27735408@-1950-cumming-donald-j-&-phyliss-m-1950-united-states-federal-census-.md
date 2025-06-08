@@ -6,6 +6,7 @@ permalink: /sources/s27735408
 # 1950 CUMMING DONALD J & PHYLISS M (1950 United States Federal Census)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | 1950 United States Federal Census

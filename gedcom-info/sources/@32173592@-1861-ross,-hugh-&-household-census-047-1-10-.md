@@ -6,6 +6,7 @@ permalink: /sources/s32173592
 # 1861 ROSS, HUGH & HOUSEHOLD (Census 047/ 1/ 10)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

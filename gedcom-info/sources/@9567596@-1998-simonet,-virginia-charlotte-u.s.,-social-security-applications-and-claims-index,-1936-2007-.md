@@ -6,6 +6,7 @@ permalink: /sources/s9567596
 # 1998 SIMONET, VIRGINIA CHARLOTTE (U.S., Social Security Applications and Claims Index, 1936-2007)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | U.S., Social Security Applications and Claims Index, 1936-2007

@@ -6,6 +6,7 @@ permalink: /sources/s82693220
 # 1920 CUMMING, JESSIE ANN (Statutory Register of Births 047/ 34)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 7/Jul/1920

@@ -6,6 +6,7 @@ permalink: /sources/s88405908
 # 1884 MACKENZIE, BARBARA (FindAGrave.com 182539921)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com

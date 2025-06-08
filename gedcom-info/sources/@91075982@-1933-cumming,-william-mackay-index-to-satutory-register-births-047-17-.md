@@ -6,6 +6,7 @@ permalink: /sources/s91075982
 # 1933 CUMMING, WILLIAM MACKAY (Index to Satutory Register Births 047/ 17)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

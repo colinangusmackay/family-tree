@@ -6,6 +6,7 @@ permalink: /sources/s43781296
 # 1888 MCKAY, JAMES statutory registers Marriages 047/4
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Statutory Register Marriages

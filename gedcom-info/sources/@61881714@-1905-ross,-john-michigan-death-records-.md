@@ -6,6 +6,7 @@ permalink: /sources/s61881714
 # 1905 ROSS, JOHN (Michigan Death Records)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Source Created | 7/Mar/2024 20:57:32

@@ -6,6 +6,7 @@ permalink: /sources/s25774982
 # 1865 MACDONALD, WILLIAM (Statutory Registers Births 051/ 4)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 18/Jan/1865

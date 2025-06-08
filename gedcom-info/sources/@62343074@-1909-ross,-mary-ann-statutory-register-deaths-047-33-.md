@@ -6,6 +6,7 @@ permalink: /sources/s62343074
 # 1909 ROSS, MARY ANN (Statutory Register Deaths 047/33)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 30/Dec/1909

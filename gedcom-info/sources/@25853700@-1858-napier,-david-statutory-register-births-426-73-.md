@@ -6,6 +6,7 @@ permalink: /sources/s25853700
 # 1858 NAPIER, DAVID (Statutory Register Births 426/ 73)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 17/Apr/1858

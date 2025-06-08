@@ -6,6 +6,7 @@ permalink: /sources/s26315820
 # 1861 CUMMING, DONALD Statutory registers births 047/19
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 25/Mar/1861

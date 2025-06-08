@@ -6,6 +6,7 @@ permalink: /sources/s31156035
 # 1914 CUMMING, JAMES (01 of 33: Australian Imperial Force - Attestation Paper)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 18/Sep/1914

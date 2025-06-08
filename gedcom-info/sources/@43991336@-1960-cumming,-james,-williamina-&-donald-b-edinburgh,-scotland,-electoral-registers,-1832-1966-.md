@@ -6,6 +6,7 @@ permalink: /sources/s43991336
 # 1960 CUMMING, JAMES, WILLIAMINA & DONALD B (Edinburgh, Scotland, Electoral Registers, 1832-1966)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Register of Voters For the City of Edinburgh and the Burgh of Leith

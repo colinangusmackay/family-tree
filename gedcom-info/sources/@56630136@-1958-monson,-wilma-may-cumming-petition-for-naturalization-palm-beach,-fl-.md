@@ -6,6 +6,7 @@ permalink: /sources/s56630136
 # 1958 MONSON, WILMA MAY CUMMING (Petition for Naturalization - Palm Beach, FL)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Source Created | 25/Jul/2022 20:40:55

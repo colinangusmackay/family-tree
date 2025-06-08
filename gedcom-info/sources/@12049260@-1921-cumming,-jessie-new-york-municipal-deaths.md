@@ -6,6 +6,7 @@ permalink: /sources/s12049260
 # 1921 CUMMING, JESSIE - New York Municipal Deaths
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | New York, New York City Municipal Deaths, 1795-1949", database, FamilySearch

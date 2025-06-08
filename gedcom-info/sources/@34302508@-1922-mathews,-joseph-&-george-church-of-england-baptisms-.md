@@ -6,6 +6,7 @@ permalink: /sources/s34302508
 # 1922 MATHEWS, JOSEPH & GEORGE (Church of England Baptisms)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 22/Jul/1922

@@ -6,6 +6,7 @@ permalink: /sources/s90926792
 # 1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 2/Apr/1911

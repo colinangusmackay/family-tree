@@ -6,6 +6,7 @@ permalink: /sources/s24683442
 # 1895 MACKAY, KENNETH (Statutory Registers Births 047/9)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 5/Feb/1895

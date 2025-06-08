@@ -6,6 +6,7 @@ permalink: /sources/s78685500
 # 1960 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1960
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Post Office telephone directory Vol 15

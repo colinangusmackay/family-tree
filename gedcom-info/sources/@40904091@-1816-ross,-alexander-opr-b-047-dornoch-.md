@@ -6,6 +6,7 @@ permalink: /sources/s40904091
 # 1816 ROSS, ALEXANDER (OPR B 047/ Dornoch)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Old Parish Records - Church of Scotland

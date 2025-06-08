@@ -6,6 +6,7 @@ permalink: /sources/s86735665
 # 1860 MACKAY, ISABELLA Statutory registers Births 047/41
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 21/Aug/1860

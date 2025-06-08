@@ -6,6 +6,7 @@ permalink: /sources/s22454760
 # 1972 X, MARY ELIZABETH WILSON - The Bridgeport Post Thu Jan 13 1972
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Bridgeport Post

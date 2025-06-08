@@ -6,6 +6,7 @@ permalink: /sources/s16936882
 # 1855 ROSS, JOHN (Statutory Registers Births 047/2 50)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

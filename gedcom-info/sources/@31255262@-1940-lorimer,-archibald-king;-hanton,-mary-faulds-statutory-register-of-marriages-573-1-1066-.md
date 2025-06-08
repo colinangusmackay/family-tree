@@ -6,6 +6,7 @@ permalink: /sources/s31255262
 # 1940 LORIMER, ARCHIBALD KING; HANTON, MARY FAULDS (Statutory Register of Marriages 573/ 1/ 1066)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

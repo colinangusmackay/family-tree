@@ -6,6 +6,7 @@ permalink: /sources/s52105688
 # 1898 MACDONALD, WILLIAM (Statutory Registers Deaths 051/ 11)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 17/May/1898

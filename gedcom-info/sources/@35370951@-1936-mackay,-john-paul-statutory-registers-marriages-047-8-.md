@@ -6,6 +6,7 @@ permalink: /sources/s35370951
 # 1936 MACKAY, JOHN PAUL (Statutory Registers Marriages 047/8)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 10/Nov/1936

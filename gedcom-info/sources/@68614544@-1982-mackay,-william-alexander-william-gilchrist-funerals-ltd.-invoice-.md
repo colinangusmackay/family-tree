@@ -6,6 +6,7 @@ permalink: /sources/s68614544
 # 1982 X, X ALEXANDER (X Gilchrist Funerals Ltd. Invoice)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 4/Oct/1982

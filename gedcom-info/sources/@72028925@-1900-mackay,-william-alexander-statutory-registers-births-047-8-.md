@@ -6,6 +6,7 @@ permalink: /sources/s72028925
 # 1900 MACKAY, WILLIAM ALEXANDER (Statutory registers Births 047/8)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 12/Mar/1900

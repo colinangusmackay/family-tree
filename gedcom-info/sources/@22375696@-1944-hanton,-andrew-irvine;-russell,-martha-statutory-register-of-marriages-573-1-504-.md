@@ -6,6 +6,7 @@ permalink: /sources/s22375696
 # 1944 HANTON, ANDREW IRVINE; RUSSELL, MARTHA (Statutory Register of Marriages 573/1 504)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 21/Aug/1944

@@ -6,6 +6,7 @@ permalink: /sources/s46438216
 # 1942 GRANT, ANN (Statutory Register Deaths 047/8)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1/May/1942

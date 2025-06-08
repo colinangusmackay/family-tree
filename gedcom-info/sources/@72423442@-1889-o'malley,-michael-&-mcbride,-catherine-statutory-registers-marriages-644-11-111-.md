@@ -6,6 +6,7 @@ permalink: /sources/s72423442
 # 1889 O'MALLEY, MICHAEL & MCBRIDE, CATHERINE (Statutory Registers Marriages 644/11 111)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 29/Apr/1889

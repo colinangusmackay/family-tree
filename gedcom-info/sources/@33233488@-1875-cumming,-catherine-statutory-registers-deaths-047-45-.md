@@ -6,6 +6,7 @@ permalink: /sources/s33233488
 # 1875 CUMMING, CATHERINE (Statutory Registers Deaths 047/45)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 29/Oct/1875

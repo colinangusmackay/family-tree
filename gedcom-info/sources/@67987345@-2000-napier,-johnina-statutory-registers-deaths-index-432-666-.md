@@ -6,6 +6,7 @@ permalink: /sources/s67987345
 # 2000 NAPIER, JOHNINA (Statutory Registers Deaths Index 432/ 666)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

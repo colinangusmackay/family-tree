@@ -6,6 +6,7 @@ permalink: /sources/s8703207
 # 1950 X (1950 United States Federal Census; Connecticut)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 25/Apr/1950

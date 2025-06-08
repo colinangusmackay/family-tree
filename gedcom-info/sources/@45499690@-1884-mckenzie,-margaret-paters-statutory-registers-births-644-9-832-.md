@@ -6,6 +6,7 @@ permalink: /sources/s45499690
 # 1884 MCKENZIE, MARGARET PATERS (Statutory Registers Births 644/9 832)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 14/Jun/1884

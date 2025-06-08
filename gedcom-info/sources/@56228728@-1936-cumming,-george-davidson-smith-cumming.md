@@ -6,6 +6,7 @@ permalink: /sources/s56228728
 # 1936 CUMMING, GEORGE Davidson Smith Cumming
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 26/Mar/1936

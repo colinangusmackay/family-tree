@@ -6,6 +6,7 @@ permalink: /sources/s79116251
 # 1851 ALFORD, SUSAN & Family (Census 475/ 3/ 18)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

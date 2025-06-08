@@ -6,6 +6,7 @@ permalink: /sources/s82349376
 # 1987, CUMMING, ALEXINA, Florida Death Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Ancestry.com

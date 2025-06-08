@@ -6,6 +6,7 @@ permalink: /sources/s5071712
 # 1866 ROSS, MARION (Statutory Registers Births 047/ 57)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 5/Nov/1866

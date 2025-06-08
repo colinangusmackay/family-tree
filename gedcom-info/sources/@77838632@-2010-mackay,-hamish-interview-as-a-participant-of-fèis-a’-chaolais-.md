@@ -6,6 +6,7 @@ permalink: /sources/s77838632
 # 2010 X, X (interview as a participant of Fèis a’ Chaolais)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Fèis a’ Chaolais: Ar Daoine is Ar Dùthchas

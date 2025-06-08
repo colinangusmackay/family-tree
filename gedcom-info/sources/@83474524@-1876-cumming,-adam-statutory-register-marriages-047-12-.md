@@ -6,6 +6,7 @@ permalink: /sources/s83474524
 # 1876 CUMMING, ADAM (Statutory Register Marriages 047/12)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 18/Oct/1876

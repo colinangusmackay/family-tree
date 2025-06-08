@@ -6,6 +6,7 @@ permalink: /sources/s11274302
 # 2021 X, JOAN (Memorial Website)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 References | (URL) [Open original source at https://www.joan-west-memorial.com/last-words/](https://www.joan-west-memorial.com/last-words/)

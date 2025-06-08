@@ -6,6 +6,7 @@ permalink: /sources/s17414040
 # 1960 X, X A & ROBERTS, SANDRA J (The Bridgeport Post, Connecticut)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Bridgeport Post

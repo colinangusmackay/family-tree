@@ -6,6 +6,7 @@ permalink: /sources/s77609296
 # 1910 ROSS, ALEXANDER Statutory registers Births 047/50
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

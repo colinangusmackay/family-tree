@@ -6,6 +6,7 @@ permalink: /sources/s87990432
 # 1897 MCKNIGHT, THOMAS (Statutory Register Deaths 639/ 295)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 9/Aug/1897

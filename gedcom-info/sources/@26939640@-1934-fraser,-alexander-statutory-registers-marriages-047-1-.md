@@ -6,6 +6,7 @@ permalink: /sources/s26939640
 # 1934 FRASER, ALEXANDER (Statutory Registers Marriages 047/1)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 9/Feb/1934

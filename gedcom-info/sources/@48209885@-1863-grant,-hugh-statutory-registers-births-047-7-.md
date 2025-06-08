@@ -6,6 +6,7 @@ permalink: /sources/s48209885
 # 1863 GRANT, HUGH (Statutory Registers Births 047/7)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 7/Mar/1863

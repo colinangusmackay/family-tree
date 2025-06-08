@@ -6,6 +6,7 @@ permalink: /sources/s85578480
 # 1891 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 2/ 15)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

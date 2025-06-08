@@ -6,6 +6,7 @@ permalink: /sources/s94309804
 # 1970 MACKAY, LUCY (Statutory Register Deaths)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 15/May/1970

@@ -6,6 +6,7 @@ permalink: /sources/s68551232
 # 1958 ROBERTS, MALCOLM (Norwalk, Connecticut, City Directory, 1958)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Norwalk, Connecticut, City Directory, 1958

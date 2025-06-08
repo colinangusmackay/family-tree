@@ -6,6 +6,7 @@ permalink: /sources/s83715308
 # 1905 RAMSAY, JOHN (Statutory Register Marriages 685/5 18)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 14/Jan/1905

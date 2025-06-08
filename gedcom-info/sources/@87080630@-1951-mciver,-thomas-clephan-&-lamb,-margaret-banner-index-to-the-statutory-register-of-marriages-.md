@@ -6,6 +6,7 @@ permalink: /sources/s87080630
 # 1951 X, THOMAS CLEPHAN & X, X X (Index to the Statutory Register of Marriages)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1951

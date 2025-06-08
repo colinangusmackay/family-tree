@@ -6,6 +6,7 @@ permalink: /sources/s60749102
 # 1855 MACKAY, KENNETH & MACKAY, ISABELLA (Statutory Register of Marriages)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 14/Dec/1855

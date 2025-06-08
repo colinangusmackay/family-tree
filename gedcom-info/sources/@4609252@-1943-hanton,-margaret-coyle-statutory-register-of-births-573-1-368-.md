@@ -6,6 +6,7 @@ permalink: /sources/s4609252
 # 1943 X, X X (Statutory Register of Births 573/1 368)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

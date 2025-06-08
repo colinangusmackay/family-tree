@@ -6,6 +6,7 @@ permalink: /sources/s25441996
 # 1897 GIBSON, ALEXANDER; WILSON; ELIZABETH (Statutory Register of Marriages 051/ 4)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 17/Jun/1897

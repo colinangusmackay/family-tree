@@ -6,6 +6,7 @@ permalink: /sources/s15100298
 # 1913 O'MALLEY, THOMAS (Statutory Register Births 644/5 936)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 22/Sep/1913

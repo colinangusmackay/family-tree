@@ -6,6 +6,7 @@ permalink: /sources/s48079579
 # 1908 STEAD, CYRIL - Church of England Baptism
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 13/May/1908

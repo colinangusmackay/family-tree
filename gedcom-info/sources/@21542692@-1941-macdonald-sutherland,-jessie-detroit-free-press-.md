@@ -6,6 +6,7 @@ permalink: /sources/s21542692
 # 1941 MACDONALD X, JESSIE (Detroit Free Press)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Detroit Free Press

@@ -6,6 +6,7 @@ permalink: /sources/s94133243
 # 1984 TULLOCH, BARRIE M - Letter from Registrar in Brora
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Originator / Author | John MacLennan

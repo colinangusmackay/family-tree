@@ -6,6 +6,7 @@ permalink: /sources/s29897748
 # 1937 FRASER, ANNA CATHERINE (Statutory Registers Births 047/20)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 10/Sep/1937

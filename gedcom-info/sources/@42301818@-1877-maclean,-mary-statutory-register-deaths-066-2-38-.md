@@ -6,6 +6,7 @@ permalink: /sources/s42301818
 # 1877 MACLEAN, MARY (Statutory Register Deaths 066/2 38)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

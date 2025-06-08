@@ -6,6 +6,7 @@ permalink: /sources/s84348255
 # 1880 MCDONALD, JAMES (Statutory Register Deaths 051/ 2)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 17/Jan/1880

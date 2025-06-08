@@ -6,6 +6,7 @@ permalink: /sources/s96892520
 # 1912 HAYES, CLAUDE & RAYMOND, GOLDIE (New York, U.S., County Marriage Records, 1847-1849, 1907-1936)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | New York, U.S., County Marriage Records, 1847-1849, 1907-1936

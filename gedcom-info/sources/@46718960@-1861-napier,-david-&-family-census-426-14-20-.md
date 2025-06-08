@@ -6,6 +6,7 @@ permalink: /sources/s46718960
 # 1861 NAPIER, DAVID & Family (Census 426/ 14/ 20)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1861

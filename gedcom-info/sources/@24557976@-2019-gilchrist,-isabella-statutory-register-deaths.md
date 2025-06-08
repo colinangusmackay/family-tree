@@ -6,6 +6,7 @@ permalink: /sources/s24557976
 # 2019 GILCHRIST, ISABELLA - Statutory Register Deaths
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

@@ -6,6 +6,7 @@ permalink: /sources/s86652528
 # 1911 CUMMING, JAMES & JESSIE (Census 047/ 3/ 6)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1911

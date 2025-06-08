@@ -6,6 +6,7 @@ permalink: /sources/s92152864
 # 1891 HAWTHORN, WILLIAM & Family (Census 694/ 5/ 22)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1891

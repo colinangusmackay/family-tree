@@ -6,6 +6,7 @@ permalink: /sources/s95452173
 # 1965 X, X & X, X X (Statutory Register of Marriages 573/1 68)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 16/Feb/1965

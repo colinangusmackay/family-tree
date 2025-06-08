@@ -6,6 +6,7 @@ permalink: /sources/s27003008
 # 1934 CUMMING, DONALD JOHN, Declaration of Intention
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 27/Mar/1934

@@ -6,6 +6,7 @@ permalink: /sources/s53286704
 # 1903 MACKAY, JAMES (Statutory Register of Deaths 047/ 24)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 7/Jul/1903

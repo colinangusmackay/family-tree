@@ -6,6 +6,7 @@ permalink: /sources/s63151063
 # 1890 O'MALLEY EDWARD (Statutory Register Births 644/11 157)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 23/Jan/1890

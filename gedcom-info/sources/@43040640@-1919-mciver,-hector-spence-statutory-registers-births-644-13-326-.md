@@ -6,6 +6,7 @@ permalink: /sources/s43040640
 # 1919 MCIVER, HECTOR SPENCE (Statutory registers Births 644/13 326)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Statutory registers Births

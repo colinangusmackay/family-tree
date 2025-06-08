@@ -6,6 +6,7 @@ permalink: /sources/s15399776
 # 1942 X, X (Statutory Registers - Births) Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

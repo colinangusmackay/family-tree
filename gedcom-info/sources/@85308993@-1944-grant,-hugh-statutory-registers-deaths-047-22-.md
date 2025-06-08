@@ -6,6 +6,7 @@ permalink: /sources/s85308993
 # 1944 GRANT, HUGH (Statutory Registers Deaths 047/22)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 11/Sep/1944

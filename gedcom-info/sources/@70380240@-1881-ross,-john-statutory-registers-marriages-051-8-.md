@@ -6,6 +6,7 @@ permalink: /sources/s70380240
 # 1881 ROSS, JOHN (Statutory Registers Marriages 051/8)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

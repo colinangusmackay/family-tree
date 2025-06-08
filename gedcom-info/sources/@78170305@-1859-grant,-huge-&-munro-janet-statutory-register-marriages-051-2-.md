@@ -6,6 +6,7 @@ permalink: /sources/s78170305
 # 1859 GRANT, HUGE & MUNRO JANET (Statutory Register Marriages 051/2)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 17/Feb/1859

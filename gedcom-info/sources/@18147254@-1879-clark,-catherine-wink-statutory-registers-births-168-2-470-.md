@@ -6,6 +6,7 @@ permalink: /sources/s18147254
 # 1879 CLARK, CATHERINE WINK (Statutory Registers Births 168/2 470)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

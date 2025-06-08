@@ -6,6 +6,7 @@ permalink: /sources/s89989536
 # 1956 X, X (Statutory Registers - Births) Index
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

@@ -6,6 +6,7 @@ permalink: /sources/s9737120
 # 1961 MITCHELL, THOMAS (Arrival Card)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Massachusetts, U.S., Arriving Passenger and Crew Lists, 1820-1963

@@ -6,6 +6,7 @@ permalink: /sources/s82949924
 # 1911 O'MALLEY, EDWARD & THOMSON, AGNES WATSON (Statutory Registers Marriages 644/1 219)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 2/Dec/1911

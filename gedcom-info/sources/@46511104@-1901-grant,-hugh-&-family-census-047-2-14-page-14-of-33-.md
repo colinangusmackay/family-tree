@@ -6,6 +6,7 @@ permalink: /sources/s46511104
 # 1901 GRANT, HUGH & Family (Census 047/2/14 - Page 14 of 33)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

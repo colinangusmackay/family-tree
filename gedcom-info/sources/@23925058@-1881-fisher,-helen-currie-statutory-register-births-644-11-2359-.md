@@ -6,6 +6,7 @@ permalink: /sources/s23925058
 # 1881 FISHER, HELEN CURRIE (Statutory Register Births 644/11 2359)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 19/Dec/1881

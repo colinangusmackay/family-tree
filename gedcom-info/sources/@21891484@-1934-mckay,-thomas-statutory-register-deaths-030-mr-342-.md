@@ -6,6 +6,7 @@ permalink: /sources/s21891484
 # 1934 MCKAY, THOMAS (Statutory Register Deaths 030/MR 342)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

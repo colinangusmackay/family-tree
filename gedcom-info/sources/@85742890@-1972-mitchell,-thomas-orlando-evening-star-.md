@@ -6,6 +6,7 @@ permalink: /sources/s85742890
 # 1972 MITCHELL, THOMAS (Orlando Evening Star)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Orlando Evening Star

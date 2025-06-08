@@ -6,6 +6,7 @@ permalink: /sources/s97661476
 # 1869 GILLIE, ANDREW (Statutory Registers Births)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 11/Jan/1869

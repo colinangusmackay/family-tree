@@ -6,6 +6,7 @@ permalink: /sources/s48831844
 # 1866 FRASER, THOMAS (Statutory Register of Births 047/ 29)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 22/Jun/1866

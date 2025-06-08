@@ -6,6 +6,7 @@ permalink: /sources/s10344434
 # 1942 REID, THOMAS MITCHELL - U.S. World War II Draft Registration Cards
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 27/Apr/1942

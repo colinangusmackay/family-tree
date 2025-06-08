@@ -6,6 +6,7 @@ permalink: /sources/s78865457
 # 2009 X, ROBERT DENNIS REGINALD (Register of Deaths 772/72)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 12/Feb/2009

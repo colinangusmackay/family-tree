@@ -6,6 +6,7 @@ permalink: /sources/s15224340
 # 1971 X, THOMAS A - The Boston Globe Wed Apr 7 1971
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Boston Globe

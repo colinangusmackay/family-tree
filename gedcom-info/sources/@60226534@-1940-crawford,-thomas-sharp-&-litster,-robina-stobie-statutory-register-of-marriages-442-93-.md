@@ -6,6 +6,7 @@ permalink: /sources/s60226534
 # 1940 CRAWFORD, THOMAS SHARP & LITSTER, ROBINA STOBIE (Statutory Register of Marriages 442/ 93)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 4/Mar/1940

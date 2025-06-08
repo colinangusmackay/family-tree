@@ -6,6 +6,7 @@ permalink: /sources/s85252864
 # 1921 FRASER, THOMAS & HOUSEHOLD (Census 047/ 3/ 13)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1921

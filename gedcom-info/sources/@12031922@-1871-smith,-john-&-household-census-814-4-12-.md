@@ -6,6 +6,7 @@ permalink: /sources/s12031922
 # 1871 SMITH, JOHN & HOUSEHOLD (Census 814/ 4/ 12)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

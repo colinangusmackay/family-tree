@@ -6,6 +6,7 @@ permalink: /sources/s96514178
 # 1909 CUMMING, MAGGIE CLARK (Statutory Regisgters Births 047/6)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 25/Jan/1909

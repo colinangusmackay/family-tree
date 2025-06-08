@@ -6,6 +6,7 @@ permalink: /sources/s57159470
 # 1891 CUMMING, JAMES & FAMILY (Census 047/ 2/ 7)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1891

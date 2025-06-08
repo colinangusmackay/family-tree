@@ -6,6 +6,7 @@ permalink: /sources/s77427643
 # 1895 CUMMING, JOHN (Statutory Registers Births 047/54)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 11/Oct/1895

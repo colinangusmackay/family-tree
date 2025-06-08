@@ -6,6 +6,7 @@ permalink: /sources/s12878576
 # 1897 FRASER, THOMAS (Statutory Registers Marriages 047/1)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 19/Jan/1897

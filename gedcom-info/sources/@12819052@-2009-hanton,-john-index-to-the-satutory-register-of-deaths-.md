@@ -6,6 +6,7 @@ permalink: /sources/s12819052
 # 2009 HANTON, JOHN (Index to the Satutory Register of Deaths)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

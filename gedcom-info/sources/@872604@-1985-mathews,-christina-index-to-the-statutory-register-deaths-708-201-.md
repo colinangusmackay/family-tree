@@ -6,6 +6,7 @@ permalink: /sources/s872604
 # 1985 MATHEWS, CHRISTINA (Index to the Statutory Register Deaths 708/ 201)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 1985

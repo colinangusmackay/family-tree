@@ -6,6 +6,7 @@ permalink: /sources/s83241568
 # 1865 TAYLOR, HELEN (Edinburgh Cemetery Registers, 1771-1935)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | City of Edinburgh Archives; Edinburgh, Scotland; Edinburgh Burial Registers; Reference: BR0008

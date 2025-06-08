@@ -6,6 +6,7 @@ permalink: /sources/s1486578
 # 1940 X, MALCOLM & Family (Federal Census)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | 1940 Federal Census

@@ -6,6 +6,7 @@ permalink: /sources/s21776288
 # 1869 MACKAY, KENNETH & MACKAY, BARBARA (Statutory Registers Marriages 047/ 12)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland

@@ -6,6 +6,7 @@ permalink: /sources/s71011903
 # 1963 X, JOHN BLUE (Statutory Register of Deaths 573/1 763)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 10/Jun/1963

@@ -6,6 +6,7 @@ permalink: /sources/s85914143
 # 1938 - CUMMING, DONALD - Certificate of Arrival
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 11/Jul/1938

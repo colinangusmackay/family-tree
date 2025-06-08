@@ -6,6 +6,7 @@ permalink: /sources/s99059524
 # 1901 MATHEWS, GEORGE & FAMILY (Census Warwickshire, Birmingham, All Saints, District 28)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | Census Returns of England and Wales, 1901

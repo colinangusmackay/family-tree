@@ -6,6 +6,7 @@ permalink: /sources/s16401912
 # 1880 MACKAY, JESSIE (Statutory Registers Births 047/48)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 27/Sep/1880

@@ -6,6 +6,7 @@ permalink: /sources/s62984615
 # 1971 WILSON, MARY ELIZABETH (The Bridgeport Post, Connecticut, 18 DEC 1971, Page 29)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Publication | The Bridgeport Post

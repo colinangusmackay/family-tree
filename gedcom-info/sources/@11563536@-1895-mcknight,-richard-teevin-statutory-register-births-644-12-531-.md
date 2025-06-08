@@ -6,6 +6,7 @@ permalink: /sources/s11563536
 # 1895 MCKNIGHT, RICHARD TEEVIN (Statutory Register Births 644/12 531)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 6/May/1895

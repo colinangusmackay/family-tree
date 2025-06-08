@@ -6,6 +6,7 @@ permalink: /sources/s8493066
 # 1901 NAPIER, DAVID (Statutory Register Deaths 420/ 109)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 13/Nov/1901

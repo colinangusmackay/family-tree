@@ -6,6 +6,7 @@ permalink: /sources/s37222698
 # 1920 MACKAY, KENNETH (Statutory Registers Births 047/19)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Original Document Date | 3/Apr/1920

@@ -6,6 +6,7 @@ permalink: /sources/s17352427
 # 1903 CUMMING, DONALD (statutory register births 047/25)
 
 ## Metadata
+
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
