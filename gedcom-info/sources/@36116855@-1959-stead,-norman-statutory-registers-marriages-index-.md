@@ -5,10 +5,13 @@ permalink: /sources/s36116855
 
 # 1959 STEAD, NORMAN - Statutory Registers Marriages (Index)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1059 M 644/11 1079
+Source Created | 5/Jul/2020 00:44:14
+Source Last Updated | 5/Jul/2020 00:44:54
 
 ## Text
 

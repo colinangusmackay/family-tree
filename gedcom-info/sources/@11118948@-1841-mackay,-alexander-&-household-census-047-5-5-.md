@@ -5,11 +5,14 @@ permalink: /sources/s11118948
 
 # 1841 MACKAY, ALEXANDER & HOUSEHOLD (Census 047/ 5/ 5)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1841
+Original Document Date | 1841
 Responsible Agency | National Records of Scotland
 References | 1841 C 047/ 5/ 5
+Source Created | 3/Jun/2025 22:03:47
+Source Last Updated | 3/Jun/2025 22:22:01
 
 ## Text
 

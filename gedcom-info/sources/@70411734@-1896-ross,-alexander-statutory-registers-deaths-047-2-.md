@@ -5,11 +5,14 @@ permalink: /sources/s70411734
 
 # 1896 ROSS, ALEXANDER (Statutory Registers Deaths 047/2)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 21/Jan/1896
+Original Document Date | 21/Jan/1896
 Responsible Agency | National Records of Scotland
 References | 1896 D 047/2
+Source Created | 27/Mar/2022 11:43:41
+Source Last Updated | 24/Jun/2022 12:52:42
 
 ## Text
 

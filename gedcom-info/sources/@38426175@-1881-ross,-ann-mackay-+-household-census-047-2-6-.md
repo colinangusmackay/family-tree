@@ -5,10 +5,13 @@ permalink: /sources/s38426175
 
 # 1881 ROSS, ANN MACKAY + HOUSEHOLD (Census 047/ 2/ 6)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1881 C 047/ 2/ 6
+Source Created | 25/May/2025 00:02:01
+Source Last Updated | 25/May/2025 01:41:20
 
 ## Text
 

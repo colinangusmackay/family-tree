@@ -5,11 +5,14 @@ permalink: /sources/s81027024
 
 # 1861 MACKAY, JAMES (Scotland Births and Baptisms, 1564-1950)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Scotland Births and Baptisms, 1564-1950
 Responsible Agency | FamilySearch
 References | (URL) [Open original source at https://www.familysearch.org/ark:/61903/1:1:FQRF-PL4](https://www.familysearch.org/ark:/61903/1:1:FQRF-PL4)
+Source Created | 9/Jul/2022 11:19:31
+Source Last Updated | 9/Jul/2022 11:21:21
 
 ## Text
 

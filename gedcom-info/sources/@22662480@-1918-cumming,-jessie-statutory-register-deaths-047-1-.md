@@ -5,11 +5,14 @@ permalink: /sources/s22662480
 
 # 1918 CUMMING, JESSIE (Statutory Register Deaths 047/1)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 14/Jan/1918
+Original Document Date | 14/Jan/1918
 Responsible Agency | National Records of Scotland
 References | 1918 D 047/1
+Source Created | 26/Mar/2022 17:39:02
+Source Last Updated | 24/Jun/2022 12:52:46
 
 ## Text
 

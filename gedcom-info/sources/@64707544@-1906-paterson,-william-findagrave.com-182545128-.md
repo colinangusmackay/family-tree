@@ -5,10 +5,13 @@ permalink: /sources/s64707544
 
 # 1906 PATERSON, WILLIAM (FindAGrave.com 182545128)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
 References | (URL) [Open original source at https://www.findagrave.com/memorial/182545128/william-paterson](https://www.findagrave.com/memorial/182545128/william-paterson)
+Source Created | 4/Jul/2022 22:58:50
+Source Last Updated | 4/Jul/2022 23:01:14
 
 ## Text
 

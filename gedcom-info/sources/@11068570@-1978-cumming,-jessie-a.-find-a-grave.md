@@ -5,11 +5,14 @@ permalink: /sources/s11068570
 
 # 1978 CUMMING, JESSIE A. - Find a grave
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | [https://www.findagrave.com](https://www.findagrave.com)
-Date | 1978
+Original Document Date | 1978
 References | (URL) [Open original source at https://www.findagrave.com/memorial/195703159](https://www.findagrave.com/memorial/195703159)
+Source Created | 8/Aug/2020 22:07:46
+Source Last Updated | 8/Aug/2020 22:11:41
 
 ## Text
 

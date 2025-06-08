@@ -5,11 +5,14 @@ permalink: /sources/s86071302
 
 # 1920 CAMPBELL, RACHEL SMITH (Statutory registers - Births) Index
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1920
+Original Document Date | 1920
 Responsible Agency | National Records of Scotland
 References | 1920 B 832/2
+Source Created | 6/May/2020 17:27:52
+Source Last Updated | 6/May/2020 17:33:06
 
 ## Text
 

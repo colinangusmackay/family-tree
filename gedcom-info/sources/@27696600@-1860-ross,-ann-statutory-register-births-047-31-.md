@@ -5,11 +5,14 @@ permalink: /sources/s27696600
 
 # 1860 ROSS, ANN (Statutory Register Births 047/ 31)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 19/Jun/1860
+Original Document Date | 19/Jun/1860
 Responsible Agency | National Records of Scotland
 References | 1860 B 047/ 31
+Source Created | 8/Mar/2024 22:58:56
+Source Last Updated | 8/Mar/2024 23:08:07
 
 ## Text
 

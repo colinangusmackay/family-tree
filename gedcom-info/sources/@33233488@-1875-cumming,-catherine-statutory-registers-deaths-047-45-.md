@@ -5,11 +5,14 @@ permalink: /sources/s33233488
 
 # 1875 CUMMING, CATHERINE (Statutory Registers Deaths 047/45)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 29/Oct/1875
+Original Document Date | 29/Oct/1875
 Responsible Agency | National Records of Scotland
 References | 1875 D 047/45
+Source Created | 26/Mar/2022 13:07:56
+Source Last Updated | 24/Jun/2022 12:52:53
 
 ## Text
 

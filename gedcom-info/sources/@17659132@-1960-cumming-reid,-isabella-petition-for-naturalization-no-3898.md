@@ -5,10 +5,13 @@ permalink: /sources/s17659132
 
 # 1960 CUMMING REID, ISABELLA Petition for Naturalization No 3898
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | United States Department of Justice Immigration and Naturalisation Service
 References | 3898
+Source Created | 26/Jan/2020 22:41:28
+Source Last Updated | 21/Jul/2020 17:09:42
 
 ## Text
 

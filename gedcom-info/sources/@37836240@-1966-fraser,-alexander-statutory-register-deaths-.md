@@ -5,11 +5,14 @@ permalink: /sources/s37836240
 
 # 1966 X, ALEXANDER (Statutory Register Deaths)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 17/Feb/1966
+Original Document Date | 17/Feb/1966
 Responsible Agency | National Records of Scotland
 References | 1966 D 047/9
+Source Created | 3/Apr/2022 22:34:43
+Source Last Updated | 24/Jun/2022 12:52:30
 
 ## Text
 

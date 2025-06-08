@@ -5,9 +5,12 @@ permalink: /sources/s19757651
 
 # 1933 GILCHRIST, JAMES; HOWIE, ANNE (Wedding Photo)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 31/Aug/1933
+Original Document Date | 31/Aug/1933
+Source Created | 12/May/2025 22:18:19
+Source Last Updated | 13/May/2025 22:11:30
 
 ## Text
 

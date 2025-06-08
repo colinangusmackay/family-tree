@@ -5,11 +5,14 @@ permalink: /sources/s55946769
 
 # 1881 GILLIE, JOHN (Statutory Registers Deaths 739/68)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 21/Oct/1881
+Original Document Date | 21/Oct/1881
 Responsible Agency | National Records of Scotland
 References | 1881 D 739/68
+Source Created | 7/Jan/2022 23:34:32
+Source Last Updated | 7/Jan/2022 23:53:25
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s872604
 
 # 1985 MATHEWS, CHRISTINA (Index to the Statutory Register Deaths 708/ 201)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1985
+Original Document Date | 1985
 Responsible Agency | National Records of Scotland
 References | 1985 D 708/ 201
+Source Created | 26/May/2025 14:02:53
+Source Last Updated | 26/May/2025 14:04:24
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s85252864
 
 # 1921 FRASER, THOMAS & HOUSEHOLD (Census 047/ 3/ 13)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1921
+Original Document Date | 1921
 Responsible Agency | National Records of Scotland
 References | 1921 C 047/ 3/ 13
+Source Created | 6/Jun/2025 23:20:01
+Source Last Updated | 6/Jun/2025 23:53:51
 
 ## Text
 

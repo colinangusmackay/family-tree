@@ -5,10 +5,13 @@ permalink: /sources/s32265800
 
 # 1953 CUMMING, WILMA & X, CLINTON EDWIN (Michigan, U.S., County Marriage Records)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Michigan, U.S., County Marriage Records
 References | (Film Number) 001783720
+Source Created | 24/Jul/2022 21:58:43
+Source Last Updated | 24/Jul/2022 22:03:07
 
 ## Text
 

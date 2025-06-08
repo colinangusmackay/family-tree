@@ -5,10 +5,13 @@ permalink: /sources/s85183087
 
 # 1993 HANTON, WILLIAM (Index to the Statutory Register of Deaths 646/ 954)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1993 D 646/ 954
+Source Created | 10/Apr/2024 21:53:07
+Source Last Updated | 10/Apr/2024 21:54:48
 
 ## Text
 

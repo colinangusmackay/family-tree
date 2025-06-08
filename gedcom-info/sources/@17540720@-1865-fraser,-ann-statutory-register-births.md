@@ -5,11 +5,14 @@ permalink: /sources/s17540720
 
 # 1865 FRASER, ANN - Statutory Register - Births
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 23/Sep/1865
+Original Document Date | 23/Sep/1865
 Responsible Agency | National Records of Scotland
 References | 1865 B 047/44
+Source Created | 9/Aug/2020 17:16:44
+Source Last Updated | 3/Apr/2022 15:58:54
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s15787572
 
 # 1926 CUMMING, ADAM (Satutory Registers DEATHS 047/4)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1926 D 047/4
+Source Created | 30/May/2022 16:49:18
+Source Last Updated | 24/Jun/2022 12:51:45
 
 ## Text
 

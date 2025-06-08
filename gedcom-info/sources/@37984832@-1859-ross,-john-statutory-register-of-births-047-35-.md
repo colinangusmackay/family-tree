@@ -5,11 +5,14 @@ permalink: /sources/s37984832
 
 # 1859 ROSS, JOHN (Statutory Register of Births 047/ 35)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 13/Jul/1859
+Original Document Date | 13/Jul/1859
 Responsible Agency | National Records of Scotland
 References | 1859 B 047/ 35
+Source Created | 22/May/2025 21:33:11
+Source Last Updated | 22/May/2025 21:39:21
 
 ## Text
 

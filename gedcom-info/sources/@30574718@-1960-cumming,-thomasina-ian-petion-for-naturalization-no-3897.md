@@ -5,11 +5,14 @@ permalink: /sources/s30574718
 
 # 1960 CUMMING, THOMASINA IAN Petion for Naturalization No 3897
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 8/Sep/1960
+Original Document Date | 8/Sep/1960
 Responsible Agency | US District Court of California at San Diego
 References | 3897
+Source Created | 27/Jan/2020 17:44:44
+Source Last Updated | 24/Mar/2022 14:26:58
 
 ## Text
 

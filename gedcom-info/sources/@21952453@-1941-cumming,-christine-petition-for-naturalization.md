@@ -5,11 +5,14 @@ permalink: /sources/s21952453
 
 # 1941 CUMMING, CHRISTINE: Petition for Naturalization
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 23/Mar/1939
+Original Document Date | 23/Mar/1939
 Responsible Agency | US District Court of Massachussets at Boston
 References | 227566
+Source Created | 22/Feb/2020 15:27:39
+Source Last Updated | 24/Mar/2022 14:18:58
 
 ## Text
 

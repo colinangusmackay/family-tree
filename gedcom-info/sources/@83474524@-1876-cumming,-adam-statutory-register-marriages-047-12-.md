@@ -5,11 +5,14 @@ permalink: /sources/s83474524
 
 # 1876 CUMMING, ADAM (Statutory Register Marriages 047/12)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 18/Oct/1876
+Original Document Date | 18/Oct/1876
 Responsible Agency | National Records of Scotland
 References | 1876 M 047/12
+Source Created | 26/Feb/2022 11:08:00
+Source Last Updated | 24/Jun/2022 12:54:23
 
 ## Text
 

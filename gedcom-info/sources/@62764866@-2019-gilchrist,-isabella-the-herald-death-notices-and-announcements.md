@@ -5,11 +5,14 @@ permalink: /sources/s62764866
 
 # 2019 X, ISABELLA - The Herald Death Notices and Announcements
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Herald
-Date | 21/Dec/2019
+Original Document Date | 21/Dec/2019
 References | (URL) [Open original source at https://www.heraldscotland.com/announcements/deaths/deaths/18116490.Isabella_Gilchrist/](https://www.heraldscotland.com/announcements/deaths/deaths/18116490.Isabella_Gilchrist/)
+Source Created | 24/Jan/2021 23:04:58
+Source Last Updated | 24/Jan/2021 23:07:27
 
 ## Text
 

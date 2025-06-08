@@ -5,10 +5,13 @@ permalink: /sources/s66056354
 
 # 1967 CUMMING, DONALD - Find a grave
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | [https://www.findagrave.com/memorial/195703158](https://www.findagrave.com/memorial/195703158)
-Date | 1967
+Original Document Date | 1967
+Source Created | 8/Aug/2020 22:12:25
+Source Last Updated | 8/Aug/2020 22:14:25
 
 ## Text
 

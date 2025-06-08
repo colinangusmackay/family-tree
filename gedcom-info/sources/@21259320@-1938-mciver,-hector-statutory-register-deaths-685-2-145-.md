@@ -5,10 +5,13 @@ permalink: /sources/s21259320
 
 # 1938 MCIVER, HECTOR (Statutory register Deaths 685/2 145)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1938 D 685/2 145
+Source Created | 26/Dec/2020 23:38:09
+Source Last Updated | 27/Dec/2020 00:07:14
 
 ## Text
 

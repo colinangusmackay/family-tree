@@ -5,9 +5,12 @@ permalink: /sources/s38262038
 
 # 1932 X, X X Statutory Registers - Births Index
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
+Source Created | 28/May/2020 22:02:12
+Source Last Updated | 28/May/2020 22:03:30
 
 ## Text
 

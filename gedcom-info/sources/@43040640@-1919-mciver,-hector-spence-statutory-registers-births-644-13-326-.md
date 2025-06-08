@@ -5,12 +5,15 @@ permalink: /sources/s43040640
 
 # 1919 MCIVER, HECTOR SPENCE (Statutory registers Births 644/13 326)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Statutory registers Births
-Date | 2/May/1919
+Original Document Date | 2/May/1919
 Responsible Agency | National Records of Scotland
 References | 1919 B 644/13 326
+Source Created | 26/Apr/2020 16:40:45
+Source Last Updated | 27/Jun/2022 22:22:54
 
 ## Text
 

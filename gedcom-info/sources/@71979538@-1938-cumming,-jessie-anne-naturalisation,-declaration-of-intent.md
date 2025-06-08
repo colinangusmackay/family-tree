@@ -5,9 +5,12 @@ permalink: /sources/s71979538
 
 # 1938 CUMMING, JESSIE ANNE - Naturalisation, Declaration of Intent
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 4/Oct/1938
+Original Document Date | 4/Oct/1938
+Source Created | 8/Aug/2020 13:27:26
+Source Last Updated | 8/Aug/2020 13:37:06
 
 ## Text
 

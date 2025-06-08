@@ -5,11 +5,14 @@ permalink: /sources/s43818944
 
 # 1869 FRASER, THOMAS (Statutory Register Births 047/44)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 6/Sep/1869
+Original Document Date | 6/Sep/1869
 Responsible Agency | National Records of Scotland
 References | 1869 B 047/44
+Source Created | 4/Apr/2022 23:05:21
+Source Last Updated | 24/Jun/2022 12:52:20
 
 ## Text
 

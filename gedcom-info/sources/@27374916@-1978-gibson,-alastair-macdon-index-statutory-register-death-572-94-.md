@@ -5,12 +5,15 @@ permalink: /sources/s27374916
 
 # 1978 GIBSON, ALASTAIR MACDON (Index - Statutory Register Death 572/94)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Index
-Date | 1978
+Original Document Date | 1978
 Responsible Agency | National Records of Scotland
 References | 1978 D 572/94
+Source Created | 27/Dec/2020 21:40:24
+Source Last Updated | 27/Dec/2020 21:42:53
 
 ## Text
 

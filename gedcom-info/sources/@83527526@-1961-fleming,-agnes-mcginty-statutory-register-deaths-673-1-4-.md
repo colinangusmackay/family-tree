@@ -5,11 +5,14 @@ permalink: /sources/s83527526
 
 # 1961 FLEMING, AGNES MCGINTY (Statutory Register Deaths 673/1 4)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 8/Feb/1961
+Original Document Date | 8/Feb/1961
 Responsible Agency | National Records of Scotland
 References | 1961 D 673/1 4
+Source Created | 7/Apr/2024 17:16:58
+Source Last Updated | 7/Apr/2024 19:27:26
 
 ## Text
 

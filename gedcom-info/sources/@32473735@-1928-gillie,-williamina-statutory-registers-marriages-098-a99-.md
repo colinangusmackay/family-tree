@@ -5,11 +5,14 @@ permalink: /sources/s32473735
 
 # 1928 GILLIE, WILLIAMINA (statutory registers marriages 098/A99)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 3/May/1928
+Original Document Date | 3/May/1928
 Responsible Agency | National Records of Scotland
 References | 1928 M 098/A99
+Source Created | 12/Jan/2020 15:50:05
+Source Last Updated | 26/Jul/2022 21:52:56
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s37222698
 
 # 1920 MACKAY, KENNETH (Statutory Registers Births 047/19)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 3/Apr/1920
+Original Document Date | 3/Apr/1920
 Responsible Agency | National Records of Scotland
 References | 1920 B 047/19
+Source Created | 3/Jun/2022 18:10:53
+Source Last Updated | 24/Jun/2022 12:51:04
 
 ## Text
 

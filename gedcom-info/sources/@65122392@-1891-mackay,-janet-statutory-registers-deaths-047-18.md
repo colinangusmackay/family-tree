@@ -5,11 +5,14 @@ permalink: /sources/s65122392
 
 # 1891 MACKAY, JANET - Statutory Registers - Deaths 047/18
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 19/May/1891
+Original Document Date | 19/May/1891
 Responsible Agency | National Records of Scotland
 References | 1891 D 047/18
+Source Created | 12/Jul/2020 16:27:10
+Source Last Updated | 24/Mar/2022 15:18:46
 
 ## Text
 

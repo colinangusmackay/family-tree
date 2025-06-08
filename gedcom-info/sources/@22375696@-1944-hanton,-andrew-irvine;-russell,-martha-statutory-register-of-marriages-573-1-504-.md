@@ -5,11 +5,14 @@ permalink: /sources/s22375696
 
 # 1944 HANTON, ANDREW IRVINE; RUSSELL, MARTHA (Statutory Register of Marriages 573/1 504)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 21/Aug/1944
+Original Document Date | 21/Aug/1944
 Responsible Agency | National Records of Scotland
 References | 1944 M 573/1 504
+Source Created | 20/Apr/2024 15:24:17
+Source Last Updated | 20/Apr/2024 15:45:07
 
 ## Text
 

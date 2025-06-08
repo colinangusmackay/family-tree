@@ -5,11 +5,14 @@ permalink: /sources/s33540129
 
 # 1916 CUMMING, ALEXINA & ISABELLA/X ANN & X - History Links Archive
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The History Links Archive
-Date | 13/Nov/2009
+Original Document Date | 13/Nov/2009
 References | (URL) [Open original source at https://www.historylinksarchive.org.uk/picture/number8017](https://www.historylinksarchive.org.uk/picture/number8017)
+Source Created | 29/Aug/2020 16:40:47
+Source Last Updated | 29/Aug/2020 16:43:40
 
 ## Text
 

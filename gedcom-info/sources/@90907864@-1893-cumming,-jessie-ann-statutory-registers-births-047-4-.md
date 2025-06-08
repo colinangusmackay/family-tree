@@ -5,11 +5,14 @@ permalink: /sources/s90907864
 
 # 1893 CUMMING, JESSIE-ANN (statutory registers Births 047/4)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 21/Jan/1893
+Original Document Date | 21/Jan/1893
 Responsible Agency | National Records of Scotland
 References | 1893 B 047/4
+Source Created | 12/Jan/2020 14:16:12
+Source Last Updated | 24/Mar/2022 16:44:44
 
 ## Text
 

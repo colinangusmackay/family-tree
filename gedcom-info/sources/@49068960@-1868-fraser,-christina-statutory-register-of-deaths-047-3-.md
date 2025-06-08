@@ -5,10 +5,13 @@ permalink: /sources/s49068960
 
 # 1868 FRASER, CHRISTINA (Statutory Register of Deaths 047/ 3)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1868 D 047/ 3
+Source Created | 17/Feb/2024 22:59:25
+Source Last Updated | 17/Feb/2024 23:14:01
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s10240352
 
 # 1943 CUMMING, GEORGE DAVIDSON SMITH & HATELIE, MARGARET HOGG (Fort Lauderdale New, Florida, 15 DEC 1943, Page 7)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Fort Lauderdale News
-Date | 15/Dec/1943
+Original Document Date | 15/Dec/1943
+Source Created | 18/Jul/2022 23:01:23
+Source Last Updated | 18/Jul/2022 23:06:51
 
 ## Text
 

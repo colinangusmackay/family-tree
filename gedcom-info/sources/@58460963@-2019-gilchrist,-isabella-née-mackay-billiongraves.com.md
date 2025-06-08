@@ -5,10 +5,13 @@ permalink: /sources/s58460963
 
 # 2019 GILCHRIST, ISABELLA (née Mackay) - BillionGraves.com
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | BillionGraves.com
 References | (URL) [Open original source at https://billiongraves.com/grave/Isabella-Gilchrist-Mackay/134549507](https://billiongraves.com/grave/Isabella-Gilchrist-Mackay/134549507)
+Source Created | 1/Oct/2024 16:50:40
+Source Last Updated | 1/Oct/2024 16:56:42
 
 ## Text
 

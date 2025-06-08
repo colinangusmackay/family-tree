@@ -5,11 +5,14 @@ permalink: /sources/s3169273
 
 # 1899 MACKAY, JOHN PAUL (Statutory registers Births 047/19)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 17/Mar/1899
+Original Document Date | 17/Mar/1899
 Responsible Agency | National Records of Scotland
 References | 1899 B 047/19
+Source Created | 11/May/2020 13:08:53
+Source Last Updated | 24/Mar/2022 14:27:36
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s3704060
 
 # 1944 CUMMING THOMASINA IAN, Border Crossing, I-448, 1944-10-18
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 18/Oct/1944
+Original Document Date | 18/Oct/1944
 Responsible Agency | US Department of Justice, Immigration and Naturalisation Service
+Source Created | 27/Jan/2020 22:27:15
+Source Last Updated | 24/Mar/2022 14:30:55
 
 ## Text
 

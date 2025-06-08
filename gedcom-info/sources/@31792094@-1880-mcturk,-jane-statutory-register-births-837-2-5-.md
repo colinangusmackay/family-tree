@@ -5,11 +5,14 @@ permalink: /sources/s31792094
 
 # 1880 MCTURK, JANE (Statutory Register Births 837/2 5)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 2/Mar/1880
+Original Document Date | 2/Mar/1880
 Responsible Agency | National Records of Scotland
 References | 1880 B 837/2 5
+Source Created | 20/Apr/2025 21:21:05
+Source Last Updated | 20/Apr/2025 21:30:53
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s62416562
 
 # 1980 STEAD, CYRIL - FindAGrave.com
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
-Date | 1980
+Original Document Date | 1980
 References | (URL) [Open original source at https://www.findagrave.com/memorial/185517192/cyril-stead](https://www.findagrave.com/memorial/185517192/cyril-stead)
+Source Created | 5/Jul/2020 23:22:50
+Source Last Updated | 5/Jul/2020 23:26:28
 
 ## Text
 

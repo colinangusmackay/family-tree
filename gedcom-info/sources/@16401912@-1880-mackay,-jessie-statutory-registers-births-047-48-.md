@@ -5,11 +5,14 @@ permalink: /sources/s16401912
 
 # 1880 MACKAY, JESSIE (Statutory Registers Births 047/48)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 27/Sep/1880
+Original Document Date | 27/Sep/1880
 Responsible Agency | National Records of Scotland
 References | 1880 B 047/48
+Source Created | 1/May/2020 12:23:28
+Source Last Updated | 24/Mar/2022 14:09:37
 
 ## Text
 

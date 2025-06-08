@@ -5,11 +5,14 @@ permalink: /sources/s86663056
 
 # 1841 WILLIAMSON, AGNES & Family (Census 426/ 9/ 21)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 6/Jun/1841
+Original Document Date | 6/Jun/1841
 Responsible Agency | National Records of Scotland
 References | 1841 C 426/ 9/ 21
+Source Created | 22/Jan/2023 14:40:42
+Source Last Updated | 22/Jan/2023 15:11:59
 
 ## Text
 

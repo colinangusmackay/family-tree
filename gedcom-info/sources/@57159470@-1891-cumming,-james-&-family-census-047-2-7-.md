@@ -5,11 +5,14 @@ permalink: /sources/s57159470
 
 # 1891 CUMMING, JAMES & FAMILY (Census 047/ 2/ 7)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1891
+Original Document Date | 1891
 Responsible Agency | National Records of Scotland
 References | 1891 C 047/ 2/ 7
+Source Created | 24/Jul/2022 11:27:37
+Source Last Updated | 24/Jul/2022 11:58:27
 
 ## Text
 

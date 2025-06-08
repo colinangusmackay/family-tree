@@ -5,11 +5,14 @@ permalink: /sources/s51145316
 
 # 1941 TULLOCH, JOHN ROBERTSON & ROSS, BARBARA MACKAY (Statutory Register of Marriages 098/A 260)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 22/Aug/1941
+Original Document Date | 22/Aug/1941
 Responsible Agency | National Records of Scotland
 References | 1941 M 098/A 260
+Source Created | 7/Jun/2025 20:01:59
+Source Last Updated | 7/Jun/2025 20:17:59
 
 ## Text
 

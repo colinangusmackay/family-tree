@@ -5,11 +5,14 @@ permalink: /sources/s40303624
 
 # 1941 X, JOHN HUGH (Statutory Register of Deaths 047/ 41)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 8/Oct/1941
+Original Document Date | 8/Oct/1941
 Responsible Agency | National Records of Scotland
 References | 1941 D 047/ 41
+Source Created | 25/May/2025 20:04:34
+Source Last Updated | 25/May/2025 20:13:08
 
 ## Text
 

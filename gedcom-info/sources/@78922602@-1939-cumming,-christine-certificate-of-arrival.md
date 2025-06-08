@@ -5,11 +5,14 @@ permalink: /sources/s78922602
 
 # 1939 CUMMING, CHRISTINE: Certificate of Arrival
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 21/Feb/1939
+Original Document Date | 21/Feb/1939
 Responsible Agency | US Department of Labour, Immigration and Nturalization Service
 References | 1258436
+Source Created | 22/Feb/2020 15:14:52
+Source Last Updated | 24/Mar/2022 15:30:08
 
 ## Text
 

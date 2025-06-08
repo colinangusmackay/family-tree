@@ -5,9 +5,12 @@ permalink: /sources/s30439112
 
 # 1902 NAPIER, DAVID (National Probate Index)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Scotland, National Probate Index (Calendar of Confirmations and Inventories), 1876-1936
+Source Created | 28/Jan/2023 22:30:25
+Source Last Updated | 28/Jan/2023 22:40:15
 
 ## Text
 

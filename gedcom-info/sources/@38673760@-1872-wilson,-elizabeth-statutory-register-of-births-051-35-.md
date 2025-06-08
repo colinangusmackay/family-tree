@@ -5,11 +5,14 @@ permalink: /sources/s38673760
 
 # 1872 WILSON, ELIZABETH (Statutory Register of Births 051/ 35)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 15/Nov/1872
+Original Document Date | 15/Nov/1872
 Responsible Agency | National Records of Scotland
 References | 1872 B 051/ 35
+Source Created | 27/Apr/2024 17:17:06
+Source Last Updated | 27/Apr/2024 17:30:40
 
 ## Text
 

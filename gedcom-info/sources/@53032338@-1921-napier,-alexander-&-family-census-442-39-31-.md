@@ -5,11 +5,14 @@ permalink: /sources/s53032338
 
 # 1921 NAPIER, ALEXANDER & Family (Census 442/ 39/ 31)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 19/Jun/1921
+Original Document Date | 19/Jun/1921
 Responsible Agency | National Records of Scotland
 References | 1921 C 442/ 39/ 31
+Source Created | 28/Jan/2023 14:53:20
+Source Last Updated | 28/Jan/2023 20:02:00
 
 ## Text
 

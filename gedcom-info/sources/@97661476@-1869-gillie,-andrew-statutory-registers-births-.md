@@ -5,11 +5,14 @@ permalink: /sources/s97661476
 
 # 1869 GILLIE, ANDREW (Statutory Registers Births)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Jan/1869
+Original Document Date | 11/Jan/1869
 Responsible Agency | National Records of Scotland
 References | 1869 B 739/4
+Source Created | 7/Jan/2022 18:21:30
+Source Last Updated | 7/Jan/2022 18:32:32
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s77386974
 
 # 1901 MACKAY, JAMES & Family (Census 047/2/14)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 31/Mar/1901
+Original Document Date | 31/Mar/1901
 Responsible Agency | National Records of Scotland
 References | 1901 047/2/14
+Source Created | 3/Jan/2022 20:20:56
+Source Last Updated | 3/Jan/2022 20:42:36
 
 ## Text
 

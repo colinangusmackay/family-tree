@@ -5,9 +5,12 @@ permalink: /sources/s14808797
 
 # 1993 X, X C (U.S., Public Records Index, 1950-1993, Volume 2)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | U.S., Public Records Index, 1950-1993, Volume 2
+Source Created | 19/Jun/2022 10:30:05
+Source Last Updated | 19/Jun/2022 10:30:57
 
 ## Text
 

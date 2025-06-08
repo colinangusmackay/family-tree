@@ -5,11 +5,14 @@ permalink: /sources/s62108286
 
 # 1901 MCKENZIE, RODERICK + HOUSEHOLD (Census 644/9 20/ 18)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1901
+Original Document Date | 1901
 Responsible Agency | National Records of Scotland
 References | 1901 C 644/9 20/ 18
+Source Created | 26/May/2025 15:22:33
+Source Last Updated | 26/May/2025 16:01:55
 
 ## Text
 

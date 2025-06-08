@@ -5,10 +5,13 @@ permalink: /sources/s69616292
 
 # 1868 ROSS, JOHN (Statutory Register Births 047/ 44)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 7/Sep/1868
+Original Document Date | 7/Sep/1868
 References | 1868 B 047/ 44
+Source Created | 7/Mar/2024 20:41:23
+Source Last Updated | 7/Mar/2024 20:52:19
 
 ## Text
 

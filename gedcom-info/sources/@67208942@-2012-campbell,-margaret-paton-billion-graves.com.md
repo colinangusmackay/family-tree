@@ -5,10 +5,13 @@ permalink: /sources/s67208942
 
 # 2012 CAMPBELL, MARGARET PATON - Billion Graves.com
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | [https://billiongraves.com/grave/Margaret-Paton-Campbell/2755876](https://billiongraves.com/grave/Margaret-Paton-Campbell/2755876)
-Date | 17/Nov/2012
+Original Document Date | 17/Nov/2012
+Source Created | 13/Jun/2020 12:58:19
+Source Last Updated | 24/Mar/2022 15:19:48
 
 ## Text
 

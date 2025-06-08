@@ -5,9 +5,12 @@ permalink: /sources/s92917027
 
 # 1920 CUMMING, GEORGE (New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
+Source Created | 4/Jun/2022 20:51:31
+Source Last Updated | 4/Jun/2022 21:09:05
 
 ## Text
 

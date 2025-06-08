@@ -5,11 +5,14 @@ permalink: /sources/s28724350
 
 # 1980 MACKAY, WILLIAM ALEXANDER - Phonebook Glasgow Area 1980
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Phone Book
-Date | 1980
+Original Document Date | 1980
 Responsible Agency | British Telecom
+Source Created | 12/Jul/2020 12:39:31
+Source Last Updated | 12/Jul/2020 12:40:19
 
 ## Text
 

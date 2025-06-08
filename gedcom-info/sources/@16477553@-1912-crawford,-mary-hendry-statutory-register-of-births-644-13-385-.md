@@ -5,11 +5,14 @@ permalink: /sources/s16477553
 
 # 1912 CRAWFORD, MARY HENDRY (Statutory Register of Births 644/13 385)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 12/Apr/1912
+Original Document Date | 12/Apr/1912
 Responsible Agency | National Records of Scotland
 References | 1912 B 644/13 385
+Source Created | 5/May/2024 21:34:35
+Source Last Updated | 5/May/2024 21:41:39
 
 ## Text
 

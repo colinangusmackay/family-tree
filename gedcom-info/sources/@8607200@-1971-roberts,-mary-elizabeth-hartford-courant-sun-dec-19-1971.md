@@ -5,10 +5,13 @@ permalink: /sources/s8607200
 
 # 1971 X, MARY ELIZABETH - Hartford Courant Sun Dec 19 1971
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Hartford Courant
-Date | 19/Dec/1971
+Original Document Date | 19/Dec/1971
+Source Created | 8/Sep/2020 20:48:06
+Source Last Updated | 8/Sep/2020 20:52:44
 
 ## Text
 

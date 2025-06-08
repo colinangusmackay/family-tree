@@ -5,6 +5,11 @@ permalink: /sources/s27456125
 
 # 1981 MACKAY, MARY ANN (Register of Interments, Western Necropolis, Glasgow)
 
+## Metadata
+Field | Detail
+---:|:---
+Source Created | 29/Apr/2025 22:51:39
+Source Last Updated | 29/Apr/2025 23:05:51
 
 ## Text
 

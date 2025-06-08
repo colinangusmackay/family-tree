@@ -5,11 +5,14 @@ permalink: /sources/s78865457
 
 # 2009 X, ROBERT DENNIS REGINALD (Register of Deaths 772/72)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 12/Feb/2009
+Original Document Date | 12/Feb/2009
 Responsible Agency | National Records of Scotland
 References | 2009 D 772/ 72
+Source Created | 14/Apr/2025 21:39:50
+Source Last Updated | 14/Apr/2025 22:01:46
 
 ## Text
 

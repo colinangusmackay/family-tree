@@ -5,9 +5,12 @@ permalink: /sources/s17083797
 
 # 1961 STEAD, LINDA M : England and Wales Birth Registration Index, 1837-2008
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | England and Wales Birth Registration Index, 1837-2008
+Source Created | 31/May/2020 16:13:03
+Source Last Updated | 31/May/2020 16:16:49
 
 ## Text
 

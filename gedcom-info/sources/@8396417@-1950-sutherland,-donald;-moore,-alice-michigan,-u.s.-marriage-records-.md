@@ -5,6 +5,11 @@ permalink: /sources/s8396417
 
 # 1950 SUTHERLAND, DONALD; MOORE, ALICE (Michigan, U.S. Marriage Records)
 
+## Metadata
+Field | Detail
+---:|:---
+Source Created | 4/Mar/2024 22:31:31
+Source Last Updated | 4/Mar/2024 22:50:14
 
 ## Text
 

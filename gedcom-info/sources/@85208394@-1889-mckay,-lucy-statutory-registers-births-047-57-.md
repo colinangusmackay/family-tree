@@ -5,11 +5,14 @@ permalink: /sources/s85208394
 
 # 1889 MCKAY, LUCY (Statutory registers Births 047/57)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 26/Oct/1889
+Original Document Date | 26/Oct/1889
 Responsible Agency | National Records of Scotland
 References | 1889 B 047/57
+Source Created | 9/Feb/2020 15:43:06
+Source Last Updated | 28/Jan/2023 14:02:37
 
 ## Text
 

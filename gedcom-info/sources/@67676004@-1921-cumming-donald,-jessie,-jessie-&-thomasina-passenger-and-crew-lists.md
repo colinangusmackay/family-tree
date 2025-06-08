@@ -5,10 +5,13 @@ permalink: /sources/s67676004
 
 # 1921 CUMMING DONALD, JESSIE, JESSIE & THOMASINA - Passenger and Crew Lists
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | List or Manifest of Alien Passengers for the United States Immigration Officer at Port of Arrival
-Date | 28/Feb/1921
+Original Document Date | 28/Feb/1921
+Source Created | 2/Aug/2020 16:45:47
+Source Last Updated | 2/Aug/2020 17:36:05
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s42029146
 
 # 1883 ROSS, WILLIAMINA (Statutory Registers Births 232/1 318)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 28/Aug/1883
+Original Document Date | 28/Aug/1883
 Responsible Agency | National Records of Scotland
 References | 1883 B 232/1 318
+Source Created | 8/Jan/2022 22:08:29
+Source Last Updated | 8/Jan/2022 22:38:13
 
 ## Text
 

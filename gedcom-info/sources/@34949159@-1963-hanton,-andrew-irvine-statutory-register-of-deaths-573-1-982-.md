@@ -5,11 +5,14 @@ permalink: /sources/s34949159
 
 # 1963 HANTON, ANDREW IRVINE (Statutory Register of Deaths 573/1 982)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 12/Aug/1963
+Original Document Date | 12/Aug/1963
 Responsible Agency | National Records of Scotland
 References | 1963 D 573/1 982
+Source Created | 10/Apr/2024 22:47:36
+Source Last Updated | 10/Apr/2024 23:11:45
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s71047840
 
 # 1973 CUMMING, THOMASINA I - The Palm Beach Post Mon Jun 4 1974
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Palm Beach Post
-Date | 4/Jun/1973
+Original Document Date | 4/Jun/1973
+Source Created | 21/Aug/2020 23:22:54
+Source Last Updated | 21/Aug/2020 23:25:08
 
 ## Text
 

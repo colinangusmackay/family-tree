@@ -5,10 +5,13 @@ permalink: /sources/s81524285
 
 # 1977 MACKAY, BARBARA ANN (Statutory Register Deaths Index 182/ 22)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1977 D 182/ 22
+Source Created | 24/Jul/2022 14:08:19
+Source Last Updated | 24/Jul/2022 14:09:39
 
 ## Text
 

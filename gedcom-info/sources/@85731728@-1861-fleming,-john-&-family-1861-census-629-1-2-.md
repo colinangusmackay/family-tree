@@ -5,10 +5,13 @@ permalink: /sources/s85731728
 
 # 1861 FLEMING, JOHN & FAMILY (1861 Census 629/1/2)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1861 C 629/1/2
+Source Created | 25/Jun/2022 12:33:34
+Source Last Updated | 26/Jun/2022 15:26:06
 
 ## Text
 

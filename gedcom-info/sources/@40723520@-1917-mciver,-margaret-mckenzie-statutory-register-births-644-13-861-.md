@@ -5,11 +5,14 @@ permalink: /sources/s40723520
 
 # 1917 MCIVER, MARGARET MCKENZIE (Statutory Register Births 644/13 861)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 19/Oct/1917
+Original Document Date | 19/Oct/1917
 Responsible Agency | National Records of Scotland
 References | 1917 B 644/13 861
+Source Created | 27/Jun/2022 22:35:02
+Source Last Updated | 27/Jun/2022 22:44:41
 
 ## Text
 

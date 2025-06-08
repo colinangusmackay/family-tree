@@ -5,11 +5,14 @@ permalink: /sources/s26370776
 
 # 1981 Index entry of Obituary Mary Ann Mackay (Post Star, GF, NY)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Newspapers.com Obituary Index 1800-Currentthe o
-Date | 9/Oct/1981
+Original Document Date | 9/Oct/1981
 Responsible Agency | The Post Star (Glen Falls, New York)
+Source Created | 26/Jan/2020 14:02:36
+Source Last Updated | 25/Apr/2020 01:18:13
 
 ## Text
 

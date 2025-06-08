@@ -5,11 +5,14 @@ permalink: /sources/s32974236
 
 # 1874 SUTHERLAND, DONALD (Statutory Registers Births 051/6)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 14/Feb/1874
+Original Document Date | 14/Feb/1874
 Responsible Agency | National Records of Scotland
 References | 1874 B 051/6
+Source Created | 4/Mar/2024 22:07:22
+Source Last Updated | 4/Mar/2024 22:14:33
 
 ## Text
 

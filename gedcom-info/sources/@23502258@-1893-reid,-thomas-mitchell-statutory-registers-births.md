@@ -5,11 +5,14 @@ permalink: /sources/s23502258
 
 # 1893 REID, THOMAS MITCHELL - Statutory Registers - Births
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 26/Jan/1893
+Original Document Date | 26/Jan/1893
 Responsible Agency | National Records of Scotland
 References | 1893 B 628/67
+Source Created | 21/Jul/2020 17:24:32
+Source Last Updated | 24/Mar/2022 14:21:21
 
 ## Text
 

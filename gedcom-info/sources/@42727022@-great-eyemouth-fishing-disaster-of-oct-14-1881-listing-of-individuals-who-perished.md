@@ -5,10 +5,13 @@ permalink: /sources/s42727022
 
 # Great Eyemouth Fishing Disaster of Oct 14 1881 - Listing of Individuals who Perished
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 7/Oct/2002
+Original Document Date | 7/Oct/2002
 References | (URL) [Open original source at https://web.archive.org/web/20021007210635/http://www.geocities.com/scotborder/Eyemouth.html](https://web.archive.org/web/20021007210635/http://www.geocities.com/scotborder/Eyemouth.html)
+Source Created | 11/Jun/2022 15:54:49
+Source Last Updated | 12/Jun/2022 10:22:16
 
 ## Text
 

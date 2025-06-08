@@ -5,10 +5,13 @@ permalink: /sources/s8128891
 
 # 1944 ROSS, JOHN HUGH & MARION (Find A Grave)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
 References | (URL) [Open original source at https://www.findagrave.com/memorial/195246893/marion-ross](https://www.findagrave.com/memorial/195246893/marion-ross)
+Source Created | 25/May/2025 17:20:26
+Source Last Updated | 25/May/2025 20:02:22
 
 ## Text
 

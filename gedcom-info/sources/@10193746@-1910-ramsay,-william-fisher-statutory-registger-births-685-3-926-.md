@@ -5,10 +5,13 @@ permalink: /sources/s10193746
 
 # 1910 RAMSAY, WILLIAM FISHER (Statutory Registger Births 685/3 926)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 9/Sep/1910
+Original Document Date | 9/Sep/1910
 Responsible Agency | National Records of Scotland
+Source Created | 31/Jan/2023 20:27:07
+Source Last Updated | 31/Jan/2023 20:39:46
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s69189314
 
 # 1881 CUMMING, JAMES (Statutory Register Births 047/60)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1881 B 047/60
+Source Created | 18/Jun/2022 19:20:09
+Source Last Updated | 18/Jun/2022 19:26:52
 
 ## Text
 

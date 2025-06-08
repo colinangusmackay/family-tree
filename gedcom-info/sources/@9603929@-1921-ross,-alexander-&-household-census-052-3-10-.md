@@ -5,11 +5,14 @@ permalink: /sources/s9603929
 
 # 1921 ROSS, ALEXANDER & HOUSEHOLD (Census 052/ 3/ 10)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1921
+Original Document Date | 1921
 Responsible Agency | National Records of Scotland
 References | 1921 C 052/ 3/ 10
+Source Created | 7/Jun/2025 20:53:58
+Source Last Updated | 7/Jun/2025 21:20:31
 
 ## Text
 

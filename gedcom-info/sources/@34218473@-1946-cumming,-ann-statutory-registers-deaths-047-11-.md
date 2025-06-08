@@ -5,10 +5,13 @@ permalink: /sources/s34218473
 
 # 1946 CUMMING, ANN (Statutory Registers Deaths 047/11)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1946 D 
+Source Created | 27/Feb/2022 16:09:28
+Source Last Updated | 24/Jun/2022 12:54:15
 
 ## Text
 

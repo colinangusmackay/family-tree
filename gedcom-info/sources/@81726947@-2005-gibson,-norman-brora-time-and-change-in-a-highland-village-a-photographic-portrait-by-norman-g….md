@@ -5,12 +5,15 @@ permalink: /sources/s81726947
 
 # 2005 X, NORMAN (Brora - Time and change in a Highland village - a photographic portrait by Norman X)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Brora - Time and change in a Highland village - a photographic portrait
 Originator / Author | Norman X
-Date | 2005
+Original Document Date | 2005
 References | (ISBN) 0-9538642-1-9
+Source Created | 12/May/2024 15:37:57
+Source Last Updated | 19/May/2024 22:53:15
 
 ## Text
 

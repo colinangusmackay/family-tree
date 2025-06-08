@@ -5,10 +5,13 @@ permalink: /sources/s65929632
 
 # 1907 CUMMING, JAMES - General Merchant, The Northern Times
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Northern Times
-Date | 7/Mar/1907
+Original Document Date | 7/Mar/1907
+Source Created | 28/May/2022 22:28:22
+Source Last Updated | 28/May/2022 22:32:23
 
 ## Text
 

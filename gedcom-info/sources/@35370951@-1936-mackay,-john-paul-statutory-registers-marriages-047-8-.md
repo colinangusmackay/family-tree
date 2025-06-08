@@ -5,11 +5,14 @@ permalink: /sources/s35370951
 
 # 1936 MACKAY, JOHN PAUL (Statutory Registers Marriages 047/8)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 10/Nov/1936
+Original Document Date | 10/Nov/1936
 Responsible Agency | National Records of Scotland
 References | 1936 M 047/8
+Source Created | 2/Jan/2022 13:31:43
+Source Last Updated | 2/Jan/2022 14:43:05
 
 ## Text
 

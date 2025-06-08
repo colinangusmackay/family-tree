@@ -5,11 +5,14 @@ permalink: /sources/s12189547
 
 # 1855 TEEVIN, RICHARD & MCKAY, SUSAN (Statutory Registeres Marriages 475/ 29)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 28/Jul/1855
+Original Document Date | 28/Jul/1855
 Responsible Agency | National Records of Scotland
 References | 1855 M 475/ 29
+Source Created | 27/Jan/2023 21:38:51
+Source Last Updated | 28/Jan/2023 11:48:46
 
 ## Text
 

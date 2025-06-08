@@ -5,11 +5,14 @@ permalink: /sources/s82273964
 
 # 1931 CUMMING, WILMA MAY (Statutory Register Births Index 685/10 860)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1931
+Original Document Date | 1931
 Responsible Agency | National Records of Scotland
 References | 1931 B 685/10 860
+Source Created | 24/Jul/2022 21:29:04
+Source Last Updated | 24/Jul/2022 21:30:38
 
 ## Text
 

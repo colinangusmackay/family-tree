@@ -5,11 +5,14 @@ permalink: /sources/s15189539
 
 # 1888 CUMMING, ISABELLA Statutory register Births 047/32
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 23/Jul/1888
+Original Document Date | 23/Jul/1888
 Responsible Agency | National Records of Scotland
 References | 1888 047/32
+Source Created | 26/Jan/2020 21:56:54
+Source Last Updated | 20/Jun/2022 17:00:12
 
 ## Text
 

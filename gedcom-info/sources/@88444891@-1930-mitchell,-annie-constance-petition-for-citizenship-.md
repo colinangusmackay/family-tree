@@ -5,10 +5,13 @@ permalink: /sources/s88444891
 
 # 1930 MITCHELL, ANNIE CONSTANCE (Petition for Citizenship)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950
 References | (Petition Number) 125700
+Source Created | 11/Jul/2022 20:05:55
+Source Last Updated | 11/Jul/2022 20:22:50
 
 ## Text
 

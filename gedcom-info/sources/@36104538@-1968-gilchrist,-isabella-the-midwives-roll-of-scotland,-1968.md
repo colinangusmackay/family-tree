@@ -5,11 +5,14 @@ permalink: /sources/s36104538
 
 # 1968 GILCHRIST, ISABELLA - The Midwives Roll of Scotland, 1968
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Midwives Roll of Scotland
-Date | 1968
+Original Document Date | 1968
 Responsible Agency | The Central Midwives Board for Scotland
+Source Created | 7/Jul/2020 21:54:57
+Source Last Updated | 7/Jul/2020 21:57:12
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s2961014
 
 # 1858 NAPIER, DAVID & NICHOLSON, AGNES (Statutory Register Marriages 426/ 13)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 27/Jan/1858
+Original Document Date | 27/Jan/1858
 Responsible Agency | National Records of Scotland
+Source Created | 21/Jan/2023 22:09:50
+Source Last Updated | 21/Jan/2023 22:37:47
 
 ## Text
 

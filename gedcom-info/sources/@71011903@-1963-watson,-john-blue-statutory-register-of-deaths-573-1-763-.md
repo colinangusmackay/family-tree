@@ -5,11 +5,14 @@ permalink: /sources/s71011903
 
 # 1963 X, JOHN BLUE (Statutory Register of Deaths 573/1 763)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 10/Jun/1963
+Original Document Date | 10/Jun/1963
 Responsible Agency | National Records of Scotland
 References | 1963 D 573/1 763
+Source Created | 19/Apr/2024 23:16:33
+Source Last Updated | 19/Apr/2024 23:27:47
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s29897748
 
 # 1937 FRASER, ANNA CATHERINE (Statutory Registers Births 047/20)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 10/Sep/1937
+Original Document Date | 10/Sep/1937
 Responsible Agency | National Records of Scotland
 References | 1937 B 047/20
+Source Created | 6/Apr/2022 16:38:59
+Source Last Updated | 16/Jun/2022 23:30:41
 
 ## Text
 

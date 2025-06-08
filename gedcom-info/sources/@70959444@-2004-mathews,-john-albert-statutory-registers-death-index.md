@@ -5,10 +5,13 @@ permalink: /sources/s70959444
 
 # 2004 MATHEWS, JOHN ALBERT Statutory Registers - Death Index
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 2004 D 772/8
+Source Created | 22/May/2020 17:45:11
+Source Last Updated | 22/May/2020 17:46:47
 
 ## Text
 

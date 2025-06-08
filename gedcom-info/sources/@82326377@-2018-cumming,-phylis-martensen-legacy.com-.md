@@ -5,9 +5,12 @@ permalink: /sources/s82326377
 
 # 2018 X, PHYLIS MARTENSEN (legacy.com)
 
+## Metadata
 Field | Detail
 ---:|:---
 References | (URL) [Open original source at https://www.legacy.com/us/obituaries/wickedlocal-weymouth/name/phylis-cumming-obituary?n=phylis-cumming&pid=188510819](https://www.legacy.com/us/obituaries/wickedlocal-weymouth/name/phylis-cumming-obituary?n=phylis-cumming&pid=188510819)
+Source Created | 2/Jun/2022 15:01:57
+Source Last Updated | 2/Jun/2022 15:07:45
 
 ## Text
 

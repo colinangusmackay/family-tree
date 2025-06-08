@@ -5,11 +5,14 @@ permalink: /sources/s7246522
 
 # 2022 X, X (Facebook profile)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Facebook
-Date | 19/Jun/2022
+Original Document Date | 19/Jun/2022
 References | (URL) [Open original source at https://www.facebook.com/eddie.hawthorne.14224/about](https://www.facebook.com/eddie.hawthorne.14224/about)
+Source Created | 19/Jun/2022 23:28:42
+Source Last Updated | 19/Jun/2022 23:33:09
 
 ## Text
 

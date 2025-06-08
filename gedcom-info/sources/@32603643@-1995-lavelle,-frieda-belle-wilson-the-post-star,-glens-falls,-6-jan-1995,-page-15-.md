@@ -5,10 +5,13 @@ permalink: /sources/s32603643
 
 # 1995 LAVELLE, FRIEDA BELLE WILSON (The Post Star, Glens Falls, 6 JAN 1995, Page 15)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Post Star
-Date | 6/Jan/1995
+Original Document Date | 6/Jan/1995
+Source Created | 2/Aug/2022 21:16:54
+Source Last Updated | 2/Aug/2022 21:28:09
 
 ## Text
 

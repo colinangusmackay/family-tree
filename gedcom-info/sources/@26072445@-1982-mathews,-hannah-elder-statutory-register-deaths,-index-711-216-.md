@@ -5,10 +5,13 @@ permalink: /sources/s26072445
 
 # 1982 MATHEWS, HANNAH ELDER (Statutory Register Deaths, Index 711/216)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1982 D 711/216
+Source Created | 23/Jun/2022 17:41:58
+Source Last Updated | 23/Jun/2022 17:43:40
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s72153647
 
 # 2020 ROBERTS, ANNA JESS - Facbook post 25/Jan/2020
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Facebook
 Originator / Author | Colin Mackay
-Date | 25/Jan/2020
+Original Document Date | 25/Jan/2020
+Source Created | 26/Jan/2020 15:00:14
+Source Last Updated | 10/Apr/2022 13:21:40
 
 ## Text
 

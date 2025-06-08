@@ -5,10 +5,13 @@ permalink: /sources/s4500166
 
 # 1962 CUMMING, CHRISTINE - Honolulu Star Express, Thursday Aug 2, 1962, page 4
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Honolulu Star Express
-Date | 2/Aug/1962
+Original Document Date | 2/Aug/1962
+Source Created | 16/Aug/2020 00:20:52
+Source Last Updated | 16/Aug/2020 00:31:48
 
 ## Text
 

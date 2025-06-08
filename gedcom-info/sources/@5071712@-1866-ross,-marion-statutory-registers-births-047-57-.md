@@ -5,11 +5,14 @@ permalink: /sources/s5071712
 
 # 1866 ROSS, MARION (Statutory Registers Births 047/ 57)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 5/Nov/1866
+Original Document Date | 5/Nov/1866
 Responsible Agency | National Records of Scotland
 References | 1866 B 047/ 57
+Source Created | 6/Mar/2024 22:06:48
+Source Last Updated | 6/Mar/2024 22:19:41
 
 ## Text
 

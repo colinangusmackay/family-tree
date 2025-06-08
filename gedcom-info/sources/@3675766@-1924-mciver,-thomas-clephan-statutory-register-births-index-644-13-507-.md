@@ -5,9 +5,12 @@ permalink: /sources/s3675766
 
 # 1924 MCIVER, THOMAS CLEPHAN (Statutory Register Births Index 644/13 507)
 
+## Metadata
 Field | Detail
 ---:|:---
 References | 1924 B 644/13 507
+Source Created | 27/Jun/2022 22:30:47
+Source Last Updated | 25/Jan/2023 23:59:06
 
 ## Text
 

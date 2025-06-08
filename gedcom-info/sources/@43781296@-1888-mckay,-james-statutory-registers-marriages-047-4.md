@@ -5,12 +5,15 @@ permalink: /sources/s43781296
 
 # 1888 MCKAY, JAMES statutory registers Marriages 047/4
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Statutory Register Marriages
-Date | 24/Oct/1888
+Original Document Date | 24/Oct/1888
 Responsible Agency | National Records of Scotland
 References | 1888 M 047/4
+Source Created | 1/Feb/2020 19:30:12
+Source Last Updated | 24/Mar/2022 14:51:45
 
 ## Text
 

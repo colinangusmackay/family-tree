@@ -5,10 +5,13 @@ permalink: /sources/s25774982
 
 # 1865 MACDONALD, WILLIAM (Statutory Registers Births 051/ 4)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 18/Jan/1865
+Original Document Date | 18/Jan/1865
 References | 1865 B 051/ 4
+Source Created | 8/Mar/2024 13:38:45
+Source Last Updated | 8/Mar/2024 13:48:08
 
 ## Text
 

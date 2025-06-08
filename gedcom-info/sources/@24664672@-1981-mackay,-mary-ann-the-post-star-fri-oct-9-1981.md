@@ -5,10 +5,13 @@ permalink: /sources/s24664672
 
 # 1981 X, MARY ANN - The Post Star Fri Oct 9 1981
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Post Star
-Date | 9/Oct/1981
+Original Document Date | 9/Oct/1981
+Source Created | 21/Aug/2020 21:20:43
+Source Last Updated | 21/Aug/2020 21:26:02
 
 ## Text
 

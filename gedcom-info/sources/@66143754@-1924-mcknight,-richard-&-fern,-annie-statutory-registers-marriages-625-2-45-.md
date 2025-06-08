@@ -5,11 +5,14 @@ permalink: /sources/s66143754
 
 # 1924 MCKNIGHT, RICHARD & FERN, ANNIE (Statutory Registers Marriages 625/2 45)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 2/May/1924
+Original Document Date | 2/May/1924
 Responsible Agency | National Records of Scotland
 References | 1924 M 625/2 45
+Source Created | 25/Jan/2023 23:38:55
+Source Last Updated | 26/Jan/2023 00:03:44
 
 ## Text
 

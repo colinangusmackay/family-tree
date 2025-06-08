@@ -5,10 +5,13 @@ permalink: /sources/s65409036
 
 # 1865 CUMMING, WILLIAM (Statutory Registers - Births)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1865 B 047/13
+Source Created | 24/Mar/2022 10:29:39
+Source Last Updated | 24/Jun/2022 12:53:33
 
 ## Text
 

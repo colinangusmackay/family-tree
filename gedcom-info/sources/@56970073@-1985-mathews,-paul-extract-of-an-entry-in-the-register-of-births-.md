@@ -5,10 +5,13 @@ permalink: /sources/s56970073
 
 # 1985 X, X (Extract of an entry in the Register of Births)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 22/Mar/1985
+Original Document Date | 22/Mar/1985
 References | 1985 B 708/86
+Source Created | 7/May/2020 11:13:43
+Source Last Updated | 24/Mar/2022 15:03:43
 
 ## Text
 

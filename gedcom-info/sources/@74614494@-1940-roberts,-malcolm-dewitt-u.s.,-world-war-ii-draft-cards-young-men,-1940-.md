@@ -5,9 +5,12 @@ permalink: /sources/s74614494
 
 # 1940 ROBERTS, MALCOLM DEWITT (U.S., World War II Draft Cards Young Men, 1940)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | U.S., World War II Draft Cards Young Men, 1940-1947
+Source Created | 3/Jun/2022 10:42:42
+Source Last Updated | 3/Jun/2022 10:52:41
 
 ## Text
 

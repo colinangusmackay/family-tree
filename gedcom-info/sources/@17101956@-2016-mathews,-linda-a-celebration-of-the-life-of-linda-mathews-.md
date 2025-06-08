@@ -5,11 +5,14 @@ permalink: /sources/s17101956
 
 # 2016 X, LINDA (A Celebration of the Life of Linda X)
 
+## Metadata
 Field | Detail
 ---:|:---
 Originator / Author | Chris Robinson
-Date | 10/Oct/2016
+Original Document Date | 10/Oct/2016
 Responsible Agency | Humanist Society of Scotland
+Source Created | 29/Apr/2020 11:05:12
+Source Last Updated | 22/Mar/2022 22:17:09
 
 ## Text
 

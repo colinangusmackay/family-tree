@@ -5,10 +5,13 @@ permalink: /sources/s77118931
 
 # 1881 EYEMOUTH DISASTER (Glasgow Herald)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Glasgow Herald
-Date | 19/Oct/1881
+Original Document Date | 19/Oct/1881
+Source Created | 11/Jun/2022 16:16:08
+Source Last Updated | 11/Jun/2022 16:30:54
 
 ## Text
 

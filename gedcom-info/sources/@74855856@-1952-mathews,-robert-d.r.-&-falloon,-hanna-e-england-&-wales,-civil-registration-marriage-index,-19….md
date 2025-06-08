@@ -5,10 +5,13 @@ permalink: /sources/s74855856
 
 # 1952 MATHEWS, ROBERT D.R. & FALLOON, HANNA E (England & Wales, Civil Registration Marriage Index, 1916-2005)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | England & Wales, Civil Registration Marriage Index, 1916-2005
 Responsible Agency | General Register Office
+Source Created | 11/Jun/2022 21:51:23
+Source Last Updated | 11/Jun/2022 21:55:46
 
 ## Text
 

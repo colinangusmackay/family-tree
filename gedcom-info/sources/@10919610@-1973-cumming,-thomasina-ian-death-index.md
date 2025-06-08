@@ -5,10 +5,13 @@ permalink: /sources/s10919610
 
 # 1973 CUMMING, THOMASINA IAN Death Index
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Florida Death Index, 1877-1998
 Responsible Agency | Florida Department of Health
+Source Created | 27/Jan/2020 22:14:28
+Source Last Updated | 14/May/2020 23:22:44
 
 ## Text
 

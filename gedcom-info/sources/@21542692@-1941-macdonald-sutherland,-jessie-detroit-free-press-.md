@@ -5,10 +5,13 @@ permalink: /sources/s21542692
 
 # 1941 MACDONALD X, JESSIE (Detroit Free Press)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Detroit Free Press
-Date | 14/Feb/1941
+Original Document Date | 14/Feb/1941
+Source Created | 3/Mar/2024 23:19:16
+Source Last Updated | 3/Mar/2024 23:27:27
 
 ## Text
 

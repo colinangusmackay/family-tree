@@ -5,11 +5,14 @@ permalink: /sources/s57860209
 
 # 1911 FRASER, THOMAS & HOUSEHOLD (Census 047/ 3/ 17)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1911
+Original Document Date | 1911
 Responsible Agency | National Records of Scotland
 References | 1911 C 047/ 3/ 17
+Source Created | 6/Jun/2025 22:17:30
+Source Last Updated | 6/Jun/2025 23:11:01
 
 ## Text
 

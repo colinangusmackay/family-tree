@@ -5,11 +5,14 @@ permalink: /sources/s18594674
 
 # 1871 WILSON, DAVID & Household (Census 051/ 1/ 22)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1871
+Original Document Date | 1871
 Responsible Agency | National Records of Scotland
 References | 1871 C 051/ 1/ 22
+Source Created | 27/Apr/2024 21:05:18
+Source Last Updated | 28/Apr/2024 14:27:08
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s20178986
 
 # 1898 GRANT, HUGH (Statutory Registers Marriages 082/1)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1891 M 082/1
+Source Created | 1/Jun/2022 17:09:27
+Source Last Updated | 24/Jun/2022 12:51:29
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s53674115
 
 # 1938 MACKAY, ANNA JESSIE (Statutory Registers Births 075/ 2)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Jul/1938
+Original Document Date | 11/Jul/1938
 Responsible Agency | General Register Office for Scotland
 References | 1938 B 075/ 2
+Source Created | 9/Mar/2024 13:26:42
+Source Last Updated | 9/Mar/2024 13:40:22
 
 ## Text
 

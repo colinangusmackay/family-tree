@@ -5,10 +5,13 @@ permalink: /sources/s67874560
 
 # 1937 STEAD, NORMAN - Birth Index
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | General Register Office
 References | Reference: Volume 4a, Page 572
+Source Created | 5/Jul/2020 00:24:32
+Source Last Updated | 5/Jul/2020 12:04:07
 
 ## Text
 

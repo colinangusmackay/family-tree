@@ -5,9 +5,12 @@ permalink: /sources/s7140488
 
 # 1990 ROBERTS, MALCOLM D (Connecticut Death Index, 1949-2012)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Connecticut Death Index, 1949-2012
+Source Created | 2/Jun/2022 22:59:09
+Source Last Updated | 2/Jun/2022 23:00:52
 
 ## Text
 

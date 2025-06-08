@@ -5,11 +5,14 @@ permalink: /sources/s75198717
 
 # 1917 ROSS, DONALD JOHN (Register of the Mercantile Marine Memorial)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Register of the Mercantile Marine Memorial, Part Seven
 Originator / Author | Imperial War Graves Commission
-Date | 1928
+Original Document Date | 1928
+Source Created | 25/May/2025 14:08:48
+Source Last Updated | 25/May/2025 14:18:43
 
 ## Text
 

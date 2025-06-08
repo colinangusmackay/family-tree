@@ -5,10 +5,13 @@ permalink: /sources/s54522890
 
 # 2016 MATHEWS, LINDA (FindAGrave.com)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
 References | (URL) [Open original source at https://www.findagrave.com/memorial/214614740/linda-margaret-mathews](https://www.findagrave.com/memorial/214614740/linda-margaret-mathews)
+Source Created | 15/Jul/2022 23:40:38
+Source Last Updated | 15/Jul/2022 23:43:21
 
 ## Text
 

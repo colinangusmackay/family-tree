@@ -5,11 +5,14 @@ permalink: /sources/s93426048
 
 # 1944 MARTENSEN, PHYLLIS - High School Yearbook
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Golden Rod
-Date | Jun/1944
+Original Document Date | Jun/1944
 Responsible Agency | Quincy High School
+Source Created | 22/Aug/2020 13:06:39
+Source Last Updated | 22/Aug/2020 13:10:11
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s49992604
 
 # 2014 X, MARY BET (The Post Star, Glens Falls, New York)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Post Star, Glens Falls, New York
-Date | 9/Feb/2014
+Original Document Date | 9/Feb/2014
 References | (URL) [Open original source at https://poststar.com/lifestyles/announcements/obituaries/mary-bet-haux/article_efc4d664-9207-11e3-8641-001a4bcf887a.html](https://poststar.com/lifestyles/announcements/obituaries/mary-bet-haux/article_efc4d664-9207-11e3-8641-001a4bcf887a.html)
+Source Created | 15/Jul/2022 22:28:05
+Source Last Updated | 15/Jul/2022 23:09:19
 
 ## Text
 

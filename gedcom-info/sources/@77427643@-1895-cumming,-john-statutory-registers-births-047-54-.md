@@ -5,11 +5,14 @@ permalink: /sources/s77427643
 
 # 1895 CUMMING, JOHN (Statutory Registers Births 047/54)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Oct/1895
+Original Document Date | 11/Oct/1895
 Responsible Agency | National Records of Scotland
 References | 1895 B 047/54
+Source Created | 22/Feb/2022 22:09:38
+Source Last Updated | 24/Jun/2022 12:54:28
 
 ## Text
 

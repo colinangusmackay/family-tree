@@ -5,10 +5,13 @@ permalink: /sources/s52161638
 
 # X X in the New York State Birth Index 1881-1942
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Ancestry.com
 Responsible Agency | New York State Department of Health;
+Source Created | 24/Jan/2020 17:35:59
+Source Last Updated | 24/Jan/2020 17:48:27
 
 ## Source Referenced by
 

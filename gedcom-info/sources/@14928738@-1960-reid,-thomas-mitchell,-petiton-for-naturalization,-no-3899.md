@@ -5,11 +5,14 @@ permalink: /sources/s14928738
 
 # 1960 REID, THOMAS MITCHELL, petiton for naturalization, No 3899
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 8/Sep/1960
+Original Document Date | 8/Sep/1960
 Responsible Agency | US District Court of California at San Diego
 References | 3899
+Source Created | 26/Jan/2020 22:58:01
+Source Last Updated | 24/Mar/2022 14:08:23
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s18493588
 
 # 1938 STEAD, ALBERT (FindAGrave.com)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
 References | (URL) [Open original source at https://www.findagrave.com/memorial/131696011/albert-stead](https://www.findagrave.com/memorial/131696011/albert-stead)
+Source Created | 14/Jun/2022 22:54:07
+Source Last Updated | 14/Jun/2022 22:58:11
 
 ## Text
 

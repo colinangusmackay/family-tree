@@ -5,11 +5,14 @@ permalink: /sources/s15374640
 
 # 1900 NAPIER, ALEXANDER & DALRYMPLE, JANET (Statutory Register Marriages 442/ 137)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1/Oct/1900
+Original Document Date | 1/Oct/1900
 Responsible Agency | National Records of Scotland
 References | 1900 M 442/ 137
+Source Created | 20/Jan/2023 21:40:44
+Source Last Updated | 20/Jan/2023 22:18:43
 
 ## Text
 

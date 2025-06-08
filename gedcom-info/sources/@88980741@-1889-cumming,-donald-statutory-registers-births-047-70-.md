@@ -5,10 +5,13 @@ permalink: /sources/s88980741
 
 # 1889 CUMMING, DONALD (statutory registers Births 047/70)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1889 B 047/70
+Source Created | 14/Jan/2020 20:57:25
+Source Last Updated | 24/Jun/2022 12:59:07
 
 ## Text
 

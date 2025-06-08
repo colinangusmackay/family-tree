@@ -5,10 +5,13 @@ permalink: /sources/s91738168
 
 # 1864 MCDONALD, JAMES; ROSS, CHRISTINA (Statutory Registers Marriages 047/ 3)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1864 M 047/3
+Source Created | 3/Mar/2024 14:28:46
+Source Last Updated | 3/Mar/2024 17:03:49
 
 ## Text
 

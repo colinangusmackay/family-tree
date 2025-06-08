@@ -5,10 +5,13 @@ permalink: /sources/s55275456
 
 # 1963 X, X X M - Statutory Registers Births
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1963 B 644/8 436
+Source Created | 1/Jun/2020 23:33:16
+Source Last Updated | 1/Jun/2020 23:34:30
 
 ## Text
 

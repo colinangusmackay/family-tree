@@ -5,6 +5,11 @@ permalink: /sources/s80891523
 
 # 1940 CUMMING, ALEXINA, GEORGE, THOMASINA, & CHRISTINE - 1940 United States Federal Census
 
+## Metadata
+Field | Detail
+---:|:---
+Source Created | 16/Aug/2020 13:32:38
+Source Last Updated | 16/Aug/2020 13:52:52
 
 ## Text
 

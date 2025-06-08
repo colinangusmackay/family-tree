@@ -5,10 +5,13 @@ permalink: /sources/s30014784
 
 # 1861 PATERSON, WILLIAM & FAMILY (Census 098/ 4/L 16)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1861 C 098/ 4/L 16
+Source Created | 4/Jul/2022 21:24:51
+Source Last Updated | 4/Jul/2022 21:31:55
 
 ## Text
 

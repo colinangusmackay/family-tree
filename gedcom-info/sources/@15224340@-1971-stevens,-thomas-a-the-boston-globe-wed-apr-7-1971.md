@@ -5,10 +5,13 @@ permalink: /sources/s15224340
 
 # 1971 X, THOMAS A - The Boston Globe Wed Apr 7 1971
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Boston Globe
-Date | 7/Apr/1971
+Original Document Date | 7/Apr/1971
+Source Created | 22/Aug/2020 14:45:46
+Source Last Updated | 22/Aug/2020 14:51:49
 
 ## Text
 

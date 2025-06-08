@@ -5,11 +5,14 @@ permalink: /sources/s54701108
 
 # 1940 O'MALLEY, MARGARET PATON (Extract entry of Birth)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 4/Oct/1940
+Original Document Date | 4/Oct/1940
 Responsible Agency | General registers office
 References | 1940 B 664/710
+Source Created | 8/May/2020 23:11:11
+Source Last Updated | 24/Mar/2022 15:01:29
 
 ## Text
 

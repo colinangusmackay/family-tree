@@ -5,11 +5,14 @@ permalink: /sources/s1019660
 
 # 1971 FRASER, JANE (Statutory Registers Deaths)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Nov/1971
+Original Document Date | 11/Nov/1971
 Responsible Agency | National Records of Scotland
 References | 1971 D 047/33
+Source Created | 6/Apr/2022 17:12:49
+Source Last Updated | 24/Jun/2022 12:52:00
 
 ## Text
 

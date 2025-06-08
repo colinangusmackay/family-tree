@@ -5,11 +5,14 @@ permalink: /sources/s11201639
 
 # 1912 HOWIE, ANNIE MURIE
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 25/Mar/1912
+Original Document Date | 25/Mar/1912
 Responsible Agency | National Records of Scotland
 References | 1912 B 560/ 228
+Source Created | 8/Dec/2024 20:59:57
+Source Last Updated | 8/Dec/2024 21:13:34
 
 ## Text
 

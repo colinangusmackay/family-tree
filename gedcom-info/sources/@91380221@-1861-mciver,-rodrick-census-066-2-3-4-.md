@@ -5,10 +5,13 @@ permalink: /sources/s91380221
 
 # 1861 MCIVER, RODRICK (Census 066/2 3/4)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1861 C 066/2 3/4
+Source Created | 27/Dec/2020 13:39:57
+Source Last Updated | 25/Mar/2022 13:55:05
 
 ## Text
 

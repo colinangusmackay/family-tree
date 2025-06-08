@@ -5,9 +5,12 @@ permalink: /sources/s46960065
 
 # 1942 CUMMING, GEORGE DAVIDSON SMITH - U.S. World War II Draft Card
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 16/Feb/1942
+Original Document Date | 16/Feb/1942
+Source Created | 16/Jul/2020 17:21:17
+Source Last Updated | 24/Mar/2022 14:52:31
 
 ## Text
 

@@ -5,9 +5,12 @@ permalink: /sources/s45050196
 
 # 1874 WILSON, DAVID (Valuation Roll VR012000006-/263 Sutherland County)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
+Source Created | 28/Apr/2024 22:06:07
+Source Last Updated | 28/Apr/2024 22:14:22
 
 ## Text
 

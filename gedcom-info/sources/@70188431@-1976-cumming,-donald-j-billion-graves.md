@@ -5,11 +5,14 @@ permalink: /sources/s70188431
 
 # 1976 CUMMING, DONALD J - Billion Graves
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | BillionGraves.com
-Date | 1976
+Original Document Date | 1976
 References | (URL) [Open original source at https://billiongraves.com/grave/Donald-J-Cumming/7644409](https://billiongraves.com/grave/Donald-J-Cumming/7644409)
+Source Created | 11/Aug/2020 22:59:37
+Source Last Updated | 11/Aug/2020 23:05:49
 
 ## Text
 

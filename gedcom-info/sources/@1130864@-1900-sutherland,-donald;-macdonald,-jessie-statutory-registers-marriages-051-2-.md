@@ -5,11 +5,14 @@ permalink: /sources/s1130864
 
 # 1900 SUTHERLAND, DONALD; MACDONALD, JESSIE (Statutory Registers Marriages 051/ 2)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 27/Jan/1900
+Original Document Date | 27/Jan/1900
 Responsible Agency | National Records of Scotland
 References | 1900 M 051/2
+Source Created | 3/Mar/2024 22:27:34
+Source Last Updated | 3/Mar/2024 22:40:56
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s18319648
 
 # 1887 CUMMING, DONALD Statutory registers Marriages 047/5
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1887 M 047/5
+Source Created | 25/Jan/2020 14:51:20
+Source Last Updated | 30/May/2022 21:09:27
 
 ## Text
 

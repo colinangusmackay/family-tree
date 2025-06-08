@@ -5,10 +5,13 @@ permalink: /sources/s38656945
 
 # 1957 X, WILLIAM MACKAY; X, X (Index to Statutory Register Marriages 082/ 1)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1857 M 082/ 1
+Source Created | 6/Apr/2024 17:00:06
+Source Last Updated | 6/Apr/2024 17:01:58
 
 ## Text
 

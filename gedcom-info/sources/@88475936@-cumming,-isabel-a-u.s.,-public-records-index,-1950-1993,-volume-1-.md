@@ -5,9 +5,12 @@ permalink: /sources/s88475936
 
 # CUMMING, ISABEL A (U.S., Public Records Index, 1950-1993, Volume 1)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | U.S., Public Records Index, 1950-1993, Volume 1
+Source Created | 2/Jun/2022 12:37:37
+Source Last Updated | 2/Jun/2022 12:40:23
 
 ## Text
 

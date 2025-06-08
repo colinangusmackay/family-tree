@@ -5,11 +5,14 @@ permalink: /sources/s55336750
 
 # 1872 NAPIER, ALEXANDER (Statutory Register Births 426/ 332)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 23/Nov/1872
+Original Document Date | 23/Nov/1872
 Responsible Agency | National Records of Scotland
 References | 1872 B 426/ 332
+Source Created | 21/Jan/2023 11:49:08
+Source Last Updated | 21/Jan/2023 12:04:19
 
 ## Text
 

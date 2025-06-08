@@ -5,11 +5,14 @@ permalink: /sources/s78326520
 
 # 1896 MACKAY, LUCY (Statutory Register of Deaths 047/ 25)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 24/Aug/1896
+Original Document Date | 24/Aug/1896
 Responsible Agency | National Records of Scotland
 References | 1896 D 047/ 25
+Source Created | 1/Jun/2025 21:52:30
+Source Last Updated | 1/Jun/2025 21:58:18
 
 ## Text
 

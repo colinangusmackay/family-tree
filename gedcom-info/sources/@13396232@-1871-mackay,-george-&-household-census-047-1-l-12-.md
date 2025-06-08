@@ -5,11 +5,14 @@ permalink: /sources/s13396232
 
 # 1871 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 1/L 12)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1871
+Original Document Date | 1871
 Responsible Agency | National Records of Scotland
 References | 1871 C 047/ 1/L 12
+Source Created | 31/May/2025 23:16:42
+Source Last Updated | 31/May/2025 23:52:59
 
 ## Text
 

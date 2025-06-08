@@ -5,11 +5,14 @@ permalink: /sources/s94342520
 
 # 1920 RAMSAY, HELEN FISHER (Statutory registers Births 685/9 413)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 12/Oct/1920
+Original Document Date | 12/Oct/1920
 Responsible Agency | National Records of Scotland
 References | 1920 B 685/9 413
+Source Created | 1/Jan/2021 15:27:39
+Source Last Updated | 1/Jan/2021 15:34:18
 
 ## Text
 

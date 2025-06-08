@@ -5,11 +5,14 @@ permalink: /sources/s98507138
 
 # 1863 CUMMING, MARION (Scotland Births and Baptisms, 1564-1950)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Scotland Births and Baptisms, 1564-1950
 Responsible Agency | FamilySearch
 References | (URL) [Open original source at https://familysearch.org/ark:/61903/1:1:FQ4S-89B](https://familysearch.org/ark:/61903/1:1:FQ4S-89B)
+Source Created | 10/Jul/2022 21:05:24
+Source Last Updated | 10/Jul/2022 21:08:42
 
 ## Text
 

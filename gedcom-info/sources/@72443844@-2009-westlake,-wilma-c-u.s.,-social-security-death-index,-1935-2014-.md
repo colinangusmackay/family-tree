@@ -5,9 +5,12 @@ permalink: /sources/s72443844
 
 # 2009 WESTLAKE, WILMA C (U.S., Social Security Death Index, 1935-2014(
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | U.S., Social Security Death Index, 1935-2014
+Source Created | 26/Jul/2022 22:52:06
+Source Last Updated | 26/Jul/2022 22:53:07
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s14438872
 
 # 1913 HANTON, ANDREW IRVINE (Statutory Register of Births 644/4 430)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 2/Jun/1913
+Original Document Date | 2/Jun/1913
 Responsible Agency | National Records of Scotland
 References | 1913 B 644/4 430
+Source Created | 20/Apr/2024 13:33:11
+Source Last Updated | 20/Apr/2024 13:45:00
 
 ## Text
 

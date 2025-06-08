@@ -5,11 +5,14 @@ permalink: /sources/s60749102
 
 # 1855 MACKAY, KENNETH & MACKAY, ISABELLA (Statutory Register of Marriages)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 14/Dec/1855
+Original Document Date | 14/Dec/1855
 Responsible Agency | National Records of Scotland
 References | 1855 M 047/ 6
+Source Created | 1/Jun/2025 22:53:23
+Source Last Updated | 4/Jun/2025 19:24:57
 
 ## Text
 

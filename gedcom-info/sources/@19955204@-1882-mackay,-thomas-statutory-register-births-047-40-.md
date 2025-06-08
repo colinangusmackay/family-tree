@@ -5,11 +5,14 @@ permalink: /sources/s19955204
 
 # 1882 MACKAY, THOMAS (Statutory Register Births 047/ 40)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 4/Jul/1882
+Original Document Date | 4/Jul/1882
 Responsible Agency | National Records of Scotland
 References | 1882 B 047/ 40
+Source Created | 29/Jun/2024 15:31:47
+Source Last Updated | 29/Jun/2024 15:39:14
 
 ## Text
 

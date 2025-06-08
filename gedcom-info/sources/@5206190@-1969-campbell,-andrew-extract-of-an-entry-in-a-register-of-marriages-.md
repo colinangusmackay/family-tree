@@ -5,9 +5,12 @@ permalink: /sources/s5206190
 
 # 1969 X, X (Extract of an entry in a REGISTER of MARRIAGES)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | General Registers Office
+Source Created | 9/May/2020 12:48:06
+Source Last Updated | 9/May/2020 12:58:26
 
 ## Text
 

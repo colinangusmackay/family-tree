@@ -5,11 +5,14 @@ permalink: /sources/s48648969
 
 # 1867 MACDONALD, ALEXANDER (Statutory Registers Births 051/ 7)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Mar/1867
+Original Document Date | 11/Mar/1867
 Responsible Agency | National Records of Scotland
 References | 1867 B 051/ 7
+Source Created | 8/Mar/2024 16:09:51
+Source Last Updated | 8/Mar/2024 16:15:37
 
 ## Text
 

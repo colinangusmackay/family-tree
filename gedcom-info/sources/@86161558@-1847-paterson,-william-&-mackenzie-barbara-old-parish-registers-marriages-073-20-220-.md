@@ -5,10 +5,13 @@ permalink: /sources/s86161558
 
 # 1847 PATERSON, WILLIAM & MACKENZIE BARBARA (Old Parish Registers Marriages 073/ 20 220)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1847 OPR 073/ 20 220
+Source Created | 4/Jul/2022 20:23:08
+Source Last Updated | 4/Jul/2022 20:28:15
 
 ## Text
 

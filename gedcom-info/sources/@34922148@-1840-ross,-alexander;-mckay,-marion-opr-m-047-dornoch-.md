@@ -5,9 +5,12 @@ permalink: /sources/s34922148
 
 # 1840 ROSS, ALEXANDER; MCKAY, MARION (OPR M 047/ Dornoch)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
+Source Created | 17/Feb/2024 16:57:12
+Source Last Updated | 17/Feb/2024 17:03:46
 
 ## Text
 

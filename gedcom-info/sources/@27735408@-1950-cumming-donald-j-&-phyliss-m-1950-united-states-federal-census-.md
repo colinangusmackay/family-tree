@@ -5,10 +5,13 @@ permalink: /sources/s27735408
 
 # 1950 CUMMING DONALD J & PHYLISS M (1950 United States Federal Census)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | 1950 United States Federal Census
-Date | 19/Apr/1950
+Original Document Date | 19/Apr/1950
+Source Created | 2/Jun/2022 14:40:48
+Source Last Updated | 2/Jun/2022 14:50:58
 
 ## Text
 

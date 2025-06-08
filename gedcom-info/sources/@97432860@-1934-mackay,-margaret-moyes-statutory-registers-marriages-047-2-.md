@@ -5,10 +5,13 @@ permalink: /sources/s97432860
 
 # 1934 MACKAY, MARGARET MOYES (statutory registers Marriages 047/2)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | M1934-047/2
+Source Created | 11/Jan/2020 14:51:08
+Source Last Updated | 7/May/2020 22:23:14
 
 ## Text
 

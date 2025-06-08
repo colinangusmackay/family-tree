@@ -5,11 +5,14 @@ permalink: /sources/s8493066
 
 # 1901 NAPIER, DAVID (Statutory Register Deaths 420/ 109)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 13/Nov/1901
+Original Document Date | 13/Nov/1901
 Responsible Agency | National Records of Scotland
 References | 1901 D 420/ 109
+Source Created | 22/Jan/2023 12:32:38
+Source Last Updated | 22/Jan/2023 12:40:20
 
 ## Text
 

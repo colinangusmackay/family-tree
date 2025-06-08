@@ -5,10 +5,13 @@ permalink: /sources/s7218914
 
 # 1891 CUMMING, DONALD - Statutory Registers - Births
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 16/Nov/1891
+Original Document Date | 16/Nov/1891
 Responsible Agency | National Records of Scotland
+Source Created | 1/Aug/2020 16:44:27
+Source Last Updated | 1/Aug/2020 16:48:52
 
 ## Text
 

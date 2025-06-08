@@ -5,9 +5,12 @@ permalink: /sources/s58576096
 
 # 1921 MATHEWS, JOHN A + HOUSEHOLD (Census RD 385; SD 4; ED 5)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 25/Apr/1921
+Original Document Date | 25/Apr/1921
+Source Created | 25/May/2025 23:05:27
+Source Last Updated | 25/May/2025 23:34:26
 
 ## Text
 

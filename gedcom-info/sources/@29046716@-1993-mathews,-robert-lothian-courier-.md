@@ -5,10 +5,13 @@ permalink: /sources/s29046716
 
 # 1993 MATHEWS, ROBERT (Lothian Courier)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Lothian Courier
-Date | 17/Sep/1993
+Original Document Date | 17/Sep/1993
+Source Created | 16/Jul/2022 09:09:57
+Source Last Updated | 16/Jul/2022 09:17:09
 
 ## Text
 

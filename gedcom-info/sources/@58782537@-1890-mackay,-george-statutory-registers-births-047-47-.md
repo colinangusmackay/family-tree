@@ -5,11 +5,14 @@ permalink: /sources/s58782537
 
 # 1890 MACKAY, GEORGE (Statutory registers Births 047/47)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 15/Nov/1890
+Original Document Date | 15/Nov/1890
 Responsible Agency | National Records of Scotland
 References | 1890 B 047/47
+Source Created | 2/Mar/2020 17:43:59
+Source Last Updated | 24/Jun/2022 12:58:01
 
 ## Text
 

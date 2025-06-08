@@ -5,11 +5,14 @@ permalink: /sources/s39876510
 
 # 1958 HAYES, CLAUD (New York State, U.S., Death Index, 1957-1970)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | New York State, U.S., Death Index, 1957-1970
 Responsible Agency | New York State Department of Health; Albany, NY, USA
 References | (Certificate Number) 2433
+Source Created | 11/Jun/2022 09:56:55
+Source Last Updated | 11/Jun/2022 09:58:50
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s40041620
 
 # 1859 SMITH, JOHN; COWAN, AGNES (Statutory Register of Marriages 814/ 9)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 3/Dec/1859
+Original Document Date | 3/Dec/1859
 Responsible Agency | National Records of Scotland
 References | 1859 M 814/ 9
+Source Created | 16/May/2025 23:38:48
+Source Last Updated | 17/May/2025 14:54:50
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s82952138
 
 # 1884 CUMMING, ALEXANDER (Statutory Register Deaths 047/27)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 9/Jun/1884
+Original Document Date | 9/Jun/1884
 Responsible Agency | National Records of Scotland
 References | 1884 D 047/27
+Source Created | 30/May/2022 11:21:55
+Source Last Updated | 24/Jun/2022 12:51:49
 
 ## Text
 

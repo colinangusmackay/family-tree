@@ -5,10 +5,13 @@ permalink: /sources/s32799771
 
 # 1998 CAMPBELL, RACHEL SMITH (Statutory registers - Deaths) index
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1998 D 389/40
+Source Created | 6/May/2020 20:37:07
+Source Last Updated | 6/May/2020 20:39:34
 
 ## Text
 

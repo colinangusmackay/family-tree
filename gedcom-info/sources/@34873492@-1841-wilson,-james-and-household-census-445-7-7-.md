@@ -5,11 +5,14 @@ permalink: /sources/s34873492
 
 # 1841 WILSON, JAMES and Household (Census 445/ 7/ 7)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 6/Jun/1841
+Original Document Date | 6/Jun/1841
 Responsible Agency | National Records of Scotland
 References | 1841 C 445/ 7/ 7
+Source Created | 28/Apr/2024 14:55:27
+Source Last Updated | 28/Apr/2024 15:07:13
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s30088487
 
 # 1894 MACKAY, KENNETH (Statutory Register of Death 047/ 6)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 22/Feb/1894
+Original Document Date | 22/Feb/1894
 Responsible Agency | National Records of Scotland
 References | 1894 D 047/ 6
+Source Created | 4/Jun/2025 21:14:26
+Source Last Updated | 4/Jun/2025 21:20:35
 
 ## Text
 

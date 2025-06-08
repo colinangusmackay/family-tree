@@ -5,11 +5,14 @@ permalink: /sources/s70013320
 
 # 1862 ROSS, BARBARA (Statutory Registers Births 047/ 11)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 6/Mar/1862
+Original Document Date | 6/Mar/1862
 Responsible Agency | National Records of Scotland
 References | 1862 B 047/ 11
+Source Created | 8/Mar/2024 23:21:54
+Source Last Updated | 8/Mar/2024 23:29:22
 
 ## Text
 

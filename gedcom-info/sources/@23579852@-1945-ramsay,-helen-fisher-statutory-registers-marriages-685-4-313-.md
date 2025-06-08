@@ -5,11 +5,14 @@ permalink: /sources/s23579852
 
 # 1945 RAMSAY, HELEN FISHER (Statutory Registers Marriages 685/4 313)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 9/Apr/1945
+Original Document Date | 9/Apr/1945
 Responsible Agency | National Records of Scotland
 References | 1945 M 685/4 313
+Source Created | 1/Jan/2021 14:44:36
+Source Last Updated | 1/Jan/2021 14:58:18
 
 ## Text
 

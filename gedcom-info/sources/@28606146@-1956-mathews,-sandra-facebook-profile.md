@@ -5,9 +5,12 @@ permalink: /sources/s28606146
 
 # 1956 MATHEWS, SANDRA - Facebook profile
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 22/May/2020
+Original Document Date | 22/May/2020
+Source Created | 22/May/2020 01:53:05
+Source Last Updated | 24/Mar/2022 14:25:17
 
 ## Source Referenced by
 

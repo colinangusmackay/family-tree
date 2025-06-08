@@ -5,9 +5,12 @@ permalink: /sources/s18346226
 
 # 1891 CUMMING, DONALD & FAMILY (1891 Census)
 
+## Metadata
 Field | Detail
 ---:|:---
 References | 1891 C 047/2/17
+Source Created | 20/Jun/2022 19:19:28
+Source Last Updated | 20/Jun/2022 19:26:41
 
 ## Text
 

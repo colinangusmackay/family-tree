@@ -5,11 +5,14 @@ permalink: /sources/s19838871
 
 # 1901 FRASER, THOMAS & HOUSEHOLD (Census 047/ 2/ 21)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1901
+Original Document Date | 1901
 Responsible Agency | National Records of Scotland
 References | 1901 C 047/ 2/ 21
+Source Created | 6/Jun/2025 21:58:49
+Source Last Updated | 6/Jun/2025 22:10:14
 
 ## Text
 

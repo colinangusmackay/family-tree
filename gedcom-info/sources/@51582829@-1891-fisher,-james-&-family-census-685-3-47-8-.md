@@ -5,10 +5,13 @@ permalink: /sources/s51582829
 
 # 1891 FISHER, JAMES & FAMILY (Census 685/3 47/ 8)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1891 C 685/3 47/ 8
+Source Created | 30/Jun/2022 22:09:21
+Source Last Updated | 30/Jun/2022 22:17:32
 
 ## Text
 

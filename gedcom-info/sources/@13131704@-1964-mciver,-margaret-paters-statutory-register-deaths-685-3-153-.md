@@ -5,11 +5,14 @@ permalink: /sources/s13131704
 
 # 1964 MCIVER, MARGARET PATERS (Statutory Register Deaths 685/3 153)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 6/Apr/1964
+Original Document Date | 6/Apr/1964
 Responsible Agency | National Records of Scotland
 References | 1964 D 685/3 153
+Source Created | 26/Dec/2020 16:11:05
+Source Last Updated | 26/Dec/2020 16:23:26
 
 ## Text
 

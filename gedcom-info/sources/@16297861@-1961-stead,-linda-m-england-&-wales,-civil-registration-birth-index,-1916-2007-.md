@@ -5,9 +5,12 @@ permalink: /sources/s16297861
 
 # 1961 STEAD, LINDA M (England & Wales, Civil Registration Birth Index, 1916-2007)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | England & Wales, Civil Registration Birth Index, 1916-2007
+Source Created | 15/Jul/2022 23:29:05
+Source Last Updated | 15/Jul/2022 23:35:04
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s31243859
 
 # 1956 X, X X (Statutory Register - Births) Index
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1956
+Original Document Date | 1956
 Responsible Agency | National Records of Scotland
 References | 1956 B 669/2 66
+Source Created | 7/May/2020 00:00:01
+Source Last Updated | 23/Jun/2022 17:38:48
 
 ## Text
 

@@ -5,9 +5,12 @@ permalink: /sources/s79183804
 
 # 2009 MATHEWS, ROBERT DENNIS (Scotland and Northern Ireland, Death Index, 1989-2020)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Scotland and Northern Ireland, Death Index, 1989-2020
+Source Created | 11/Jun/2022 21:32:24
+Source Last Updated | 11/Jun/2022 21:33:43
 
 ## Text
 

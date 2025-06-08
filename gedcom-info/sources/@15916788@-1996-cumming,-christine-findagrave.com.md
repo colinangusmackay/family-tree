@@ -5,9 +5,12 @@ permalink: /sources/s15916788
 
 # 1996 CUMMING, CHRISTINE: Findagrave.com
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | [https://www.findagrave.com/memorial/144662292](https://www.findagrave.com/memorial/144662292)
+Source Created | 22/Feb/2020 15:45:45
+Source Last Updated | 15/May/2020 00:24:22
 
 ## Text
 

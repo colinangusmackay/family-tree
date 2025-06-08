@@ -5,10 +5,13 @@ permalink: /sources/s94344799
 
 # 1888 HAWTHORN, THOMAS (Statutory Register Births 669/ 35)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 10/Jul/1888
+Original Document Date | 10/Jul/1888
 Responsible Agency | National Records of Scotland
+Source Created | 17/Jan/2023 23:27:17
+Source Last Updated | 17/Jan/2023 23:57:43
 
 ## Text
 

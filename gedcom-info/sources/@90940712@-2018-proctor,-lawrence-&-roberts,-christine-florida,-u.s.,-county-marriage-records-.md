@@ -5,9 +5,12 @@ permalink: /sources/s90940712
 
 # 2018 X, X & X, X (Florida, U.S., County Marriage Records)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Florida, U.S., County Marriage Records
+Source Created | 2/Jun/2022 16:39:53
+Source Last Updated | 2/Jun/2022 16:51:10
 
 ## Text
 

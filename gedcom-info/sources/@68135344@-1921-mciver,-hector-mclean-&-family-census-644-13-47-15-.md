@@ -5,11 +5,14 @@ permalink: /sources/s68135344
 
 # 1921 MCIVER, HECTOR MCLEAN & Family (Census 644/13 47/ 15)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 19/Jun/1921
+Original Document Date | 19/Jun/1921
 Responsible Agency | National Records of Scotland
 References | 1921 C 644/13 47/ 15)
+Source Created | 26/Dec/2022 16:05:16
+Source Last Updated | 28/Jan/2023 20:03:01
 
 ## Text
 

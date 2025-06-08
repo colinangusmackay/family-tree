@@ -5,11 +5,14 @@ permalink: /sources/s33421049
 
 # 2012 X, X - Statutory Registers of Civil Partnerships 601/19
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 16/Apr/2012
+Original Document Date | 16/Apr/2012
 Responsible Agency | Registrar General
 References | 2012 CP 601/19
+Source Created | 24/May/2020 23:59:23
+Source Last Updated | 24/Mar/2022 14:28:04
 
 ## Text
 

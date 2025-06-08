@@ -5,11 +5,14 @@ permalink: /sources/s55904375
 
 # 1921 HAWTHORNE, THOMAS and SMITH, ALICE (Statutory Register Marriages 639/ 134)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 9/May/1921
+Original Document Date | 9/May/1921
 Responsible Agency | National Records of Scotland
 References | 1921 M 639/ 134
+Source Created | 17/Jan/2023 22:51:30
+Source Last Updated | 17/Jan/2023 23:18:27
 
 ## Text
 

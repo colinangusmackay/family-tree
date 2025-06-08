@@ -5,10 +5,13 @@ permalink: /sources/s95545096
 
 # 1989 HANTON, MARY FAULDS (Index to the Statutory Register of Deaths 646/ 1036)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1989 D 646/ 1036
+Source Created | 10/Apr/2024 20:58:39
+Source Last Updated | 10/Apr/2024 21:02:45
 
 ## Text
 

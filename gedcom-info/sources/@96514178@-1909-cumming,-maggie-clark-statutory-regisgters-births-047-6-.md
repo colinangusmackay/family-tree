@@ -5,11 +5,14 @@ permalink: /sources/s96514178
 
 # 1909 CUMMING, MAGGIE CLARK (Statutory Regisgters Births 047/6)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 25/Jan/1909
+Original Document Date | 25/Jan/1909
 Responsible Agency | National Records of Scotland
 References | 1909 B 047/6
+Source Created | 18/Jun/2022 20:38:14
+Source Last Updated | 18/Jun/2022 20:43:56
 
 ## Text
 

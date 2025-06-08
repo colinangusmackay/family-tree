@@ -5,10 +5,13 @@ permalink: /sources/s74867668
 
 # 1930 HANTON, JANE (Statutory Register of Deaths 572/1 36)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1930 D 572/1 36
+Source Created | 9/Apr/2024 22:37:56
+Source Last Updated | 10/Apr/2024 20:54:23
 
 ## Text
 

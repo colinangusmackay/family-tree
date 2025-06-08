@@ -5,11 +5,14 @@ permalink: /sources/s39254832
 
 # 2015 X, MARGARET MCKENZIE (The Herald - Death Notices and Obituaries)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Herald
-Date | 23/Sep/2015
+Original Document Date | 23/Sep/2015
 References | (URL) [Open original source at https://www.heraldscotland.com/announcements/deaths/deaths/13777170.Margaret_Gibson/](https://www.heraldscotland.com/announcements/deaths/deaths/13777170.Margaret_Gibson/)
+Source Created | 11/Jun/2022 23:13:13
+Source Last Updated | 11/Jun/2022 23:16:28
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s52105688
 
 # 1898 MACDONALD, WILLIAM (Statutory Registers Deaths 051/ 11)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 17/May/1898
+Original Document Date | 17/May/1898
 Responsible Agency | National Records of Scotland
 References | 1898 D 051/ 11
+Source Created | 8/Mar/2024 13:54:31
+Source Last Updated | 13/May/2025 21:42:26
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s23080216
 
 # 1894 CUMMING, JAMES (statutory register of births 047/52)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1894 B 047/ 52
+Source Created | 12/Jan/2020 15:23:02
+Source Last Updated | 26/Jul/2022 22:13:06
 
 ## Text
 

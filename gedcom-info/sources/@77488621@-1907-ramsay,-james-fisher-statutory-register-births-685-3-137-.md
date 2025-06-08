@@ -5,11 +5,14 @@ permalink: /sources/s77488621
 
 # 1907 RAMSAY, JAMES FISHER (Statutory Register Births 685/3 137)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 4/Feb/1907
+Original Document Date | 4/Feb/1907
 Responsible Agency | National Records of Scotland
 References | 1907 B 685/3 137
+Source Created | 27/Dec/2022 22:35:20
+Source Last Updated | 31/Jan/2023 20:07:08
 
 ## Text
 

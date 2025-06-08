@@ -5,11 +5,14 @@ permalink: /sources/s48246976
 
 # 1916 PATON, MARGARET MCLEOD (Statutory Register Births 644/14 244)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 29/Mar/1916
+Original Document Date | 29/Mar/1916
 Responsible Agency | National Records of Scotland
 References | 1916 B 644/14 244
+Source Created | 16/Jul/2022 12:38:30
+Source Last Updated | 16/Jul/2022 13:05:22
 
 ## Text
 

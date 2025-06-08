@@ -5,10 +5,13 @@ permalink: /sources/s86735665
 
 # 1860 MACKAY, ISABELLA Statutory registers Births 047/41
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 21/Aug/1860
+Original Document Date | 21/Aug/1860
 Responsible Agency | National Records of Scotland
+Source Created | 2/Feb/2020 15:57:57
+Source Last Updated | 23/Aug/2020 13:50:19
 
 ## Text
 

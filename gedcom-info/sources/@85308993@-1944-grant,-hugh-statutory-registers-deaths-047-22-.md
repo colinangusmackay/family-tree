@@ -5,11 +5,14 @@ permalink: /sources/s85308993
 
 # 1944 GRANT, HUGH (Statutory Registers Deaths 047/22)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Sep/1944
+Original Document Date | 11/Sep/1944
 Responsible Agency | National Records of Scotland
 References | 1944 D 047/22
+Source Created | 1/Jun/2022 22:48:28
+Source Last Updated | 24/Jun/2022 12:51:12
 
 ## Text
 

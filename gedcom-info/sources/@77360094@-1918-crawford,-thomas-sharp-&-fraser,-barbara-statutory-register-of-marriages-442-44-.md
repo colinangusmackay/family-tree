@@ -5,11 +5,14 @@ permalink: /sources/s77360094
 
 # 1918 CRAWFORD, THOMAS SHARP & FRASER, BARBARA (Statutory Register of Marriages 442/ 44)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 25/Mar/1918
+Original Document Date | 25/Mar/1918
 Responsible Agency | National Records of Scotland
 References | 1918 M 442/ 44
+Source Created | 6/Jun/2025 23:59:18
+Source Last Updated | 7/Jun/2025 00:33:15
 
 ## Text
 

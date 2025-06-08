@@ -5,9 +5,12 @@ permalink: /sources/s1379696
 
 # 1942 CUMMING, DONALD JAMES - Draft Registration Card
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 30/Jun/1942
+Original Document Date | 30/Jun/1942
+Source Created | 8/Aug/2020 12:35:18
+Source Last Updated | 8/Aug/2020 12:41:41
 
 ## Text
 

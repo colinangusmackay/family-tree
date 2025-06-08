@@ -5,10 +5,13 @@ permalink: /sources/s64284008
 
 # 1959 MACKAY, ANNA J - New York State, Passenger and Crew Lists, 1917-1967
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | Immigration and Naturalization Service
 References | A3998 - New York, 1957-1967, roll number 161
+Source Created | 25/Jan/2020 12:47:53
+Source Last Updated | 16/Mar/2021 23:26:08
 
 ## Text
 

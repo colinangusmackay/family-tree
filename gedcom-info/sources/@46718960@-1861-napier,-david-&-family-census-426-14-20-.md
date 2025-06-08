@@ -5,11 +5,14 @@ permalink: /sources/s46718960
 
 # 1861 NAPIER, DAVID & Family (Census 426/ 14/ 20)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1861
+Original Document Date | 1861
 Responsible Agency | National Records of Scotland
 References | 1861 C 426/ 14/ 20
+Source Created | 28/Jan/2023 16:09:17
+Source Last Updated | 28/Jan/2023 20:49:49
 
 ## Text
 

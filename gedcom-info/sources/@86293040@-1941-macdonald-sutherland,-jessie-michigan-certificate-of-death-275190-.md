@@ -5,10 +5,13 @@ permalink: /sources/s86293040
 
 # 1941 MACDONALD SUTHERLAND, JESSIE (Michigan Certificate of Death 275190)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 14/Feb/1941
+Original Document Date | 14/Feb/1941
 Responsible Agency | Michigan Department of Health
+Source Created | 3/Mar/2024 22:43:46
+Source Last Updated | 3/Mar/2024 23:07:45
 
 ## Text
 

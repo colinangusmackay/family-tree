@@ -5,11 +5,14 @@ permalink: /sources/s14483641
 
 # 1945 NAPIER, ALEXANDER & HANTON, JOHNINA (Statutory Register Marriages 573/1 936)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 24/Dec/1945
+Original Document Date | 24/Dec/1945
 Responsible Agency | National Records of Scotland
 References | 1945 M 573/1 936
+Source Created | 15/Jan/2023 20:53:23
+Source Last Updated | 16/Jan/2023 21:58:59
 
 ## Text
 

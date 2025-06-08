@@ -5,11 +5,14 @@ permalink: /sources/s53286704
 
 # 1903 MACKAY, JAMES (Statutory Register of Deaths 047/ 24)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 7/Jul/1903
+Original Document Date | 7/Jul/1903
 Responsible Agency | National Records of Scotland
 References | 1903 D 047/ 24
+Source Created | 30/May/2025 23:29:09
+Source Last Updated | 30/May/2025 23:39:06
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s69379252
 
 # 1968 CRAWFORD, THOMAS SHARP (Statutory Register of Deaths 442/ 168)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 5/Mar/1898
+Original Document Date | 5/Mar/1898
 Responsible Agency | National Records of Scotland
 References | 1968 D 442/ 168
+Source Created | 7/Jun/2025 16:12:51
+Source Last Updated | 7/Jun/2025 16:35:39
 
 ## Text
 

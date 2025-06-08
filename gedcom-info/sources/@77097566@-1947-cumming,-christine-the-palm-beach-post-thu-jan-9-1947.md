@@ -5,10 +5,13 @@ permalink: /sources/s77097566
 
 # 1947 CUMMING, CHRISTINE - The Palm Beach Post Thu Jan 9 1947
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Palm Beach Post
-Date | 9/Jan/1947
+Original Document Date | 9/Jan/1947
+Source Created | 17/Aug/2020 17:38:19
+Source Last Updated | 17/Aug/2020 17:40:37
 
 ## Text
 

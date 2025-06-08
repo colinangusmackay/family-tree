@@ -5,11 +5,14 @@ permalink: /sources/s9056121
 
 # 1868 MACKAY, ALEXANDER (Statutory Register Deaths 047/ 2)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 10/Jan/1868
+Original Document Date | 10/Jan/1868
 Responsible Agency | National Records of Scotland
 References | 1868 D 047/ 2
+Source Created | 17/Feb/2024 22:00:26
+Source Last Updated | 17/Feb/2024 22:25:23
 
 ## Text
 

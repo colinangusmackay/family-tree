@@ -5,10 +5,13 @@ permalink: /sources/s88442868
 
 # 1933 HANTON, JAMES & FLOOD, MARY ELIZABETH (Statutory Register of Marriages 573/1 596)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1933 M 573/1 596
+Source Created | 10/May/2024 17:11:42
+Source Last Updated | 10/May/2024 17:25:39
 
 ## Text
 

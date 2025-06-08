@@ -5,10 +5,13 @@ permalink: /sources/s79186140
 
 # 1946 GIBSON, ALASTAIR M; MARGARET M; M'IVER, HECTOR S; HELEN F; MARGARET P (Register of Voters For the City of Edinburgh and the Burgh of Leith)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Register of Voters For the City of Edinburgh and the Burgh of Leith
-Date | 1946
+Original Document Date | 1946
+Source Created | 11/May/2025 21:49:56
+Source Last Updated | 11/May/2025 23:16:15
 
 ## Text
 

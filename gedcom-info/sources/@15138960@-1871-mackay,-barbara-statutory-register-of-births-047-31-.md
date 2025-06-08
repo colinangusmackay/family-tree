@@ -5,11 +5,14 @@ permalink: /sources/s15138960
 
 # 1871 MACKAY, BARBARA (Statutory Register of Births 047/ 31)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 6/Sep/1871
+Original Document Date | 6/Sep/1871
 Responsible Agency | National Records of Scotland
 References | 1871 B 047/ 31
+Source Created | 5/Jun/2025 22:19:38
+Source Last Updated | 5/Jun/2025 22:26:14
 
 ## Text
 

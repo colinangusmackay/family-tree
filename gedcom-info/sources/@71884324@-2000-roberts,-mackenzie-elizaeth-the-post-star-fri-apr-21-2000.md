@@ -5,10 +5,13 @@ permalink: /sources/s71884324
 
 # 2000 X, X ELIZAETH - The Post Star Fri Apr 21 2000
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Post Star
-Date | 21/Apr/2000
+Original Document Date | 21/Apr/2000
+Source Created | 5/Sep/2020 17:39:03
+Source Last Updated | 5/Sep/2020 17:41:55
 
 ## Text
 

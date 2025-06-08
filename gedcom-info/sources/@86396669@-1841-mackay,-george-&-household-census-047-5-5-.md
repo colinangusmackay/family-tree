@@ -5,11 +5,14 @@ permalink: /sources/s86396669
 
 # 1841 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 5/ 5)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1841
+Original Document Date | 1841
 Responsible Agency | National Records of Scotland
 References | 1841 C 047/ 5/ 5
+Source Created | 31/May/2025 00:11:07
+Source Last Updated | 31/May/2025 15:45:55
 
 ## Text
 

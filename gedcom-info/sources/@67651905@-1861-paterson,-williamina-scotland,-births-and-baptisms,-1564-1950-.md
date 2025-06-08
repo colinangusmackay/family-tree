@@ -5,11 +5,14 @@ permalink: /sources/s67651905
 
 # 1861 PATERSON, WILLIAMINA (Scotland, Births and Baptisms, 1564-1950)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Scotland, Births and Baptisms, 1564-1950
 Responsible Agency | FamilySearch
 References | (URL) [Open original source at https://familysearch.org/ark:/61903/1:1:XYGT-VJY](https://familysearch.org/ark:/61903/1:1:XYGT-VJY)
+Source Created | 8/Jul/2022 16:27:03
+Source Last Updated | 8/Jul/2022 16:32:55
 
 ## Text
 

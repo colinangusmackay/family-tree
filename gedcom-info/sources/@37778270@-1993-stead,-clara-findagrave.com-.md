@@ -5,10 +5,13 @@ permalink: /sources/s37778270
 
 # 1993 STEAD, CLARA (FindAGrave.com)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
 References | (URL) [Open original source at https://www.findagrave.com/memorial/185517193/clara-stead](https://www.findagrave.com/memorial/185517193/clara-stead)
+Source Created | 14/Jun/2022 23:00:06
+Source Last Updated | 14/Jun/2022 23:02:10
 
 ## Text
 

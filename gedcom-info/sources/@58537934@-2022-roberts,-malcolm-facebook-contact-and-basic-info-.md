@@ -5,11 +5,14 @@ permalink: /sources/s58537934
 
 # 2022 X, X (Facebook Contact and Basic Info)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Facebook
 Originator / Author | X X
-Date | 24/Mar/2022
+Original Document Date | 24/Mar/2022
+Source Created | 24/Mar/2022 13:39:28
+Source Last Updated | 24/Mar/2022 13:41:19
 
 ## Text
 

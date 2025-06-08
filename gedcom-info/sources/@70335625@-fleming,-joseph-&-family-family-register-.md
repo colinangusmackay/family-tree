@@ -5,6 +5,11 @@ permalink: /sources/s70335625
 
 # FLEMING, JOSEPH & FAMILY (Family Register)
 
+## Metadata
+Field | Detail
+---:|:---
+Source Created | 24/Jun/2022 12:19:24
+Source Last Updated | 26/Jun/2022 09:20:18
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s56763929
 
 # 1872 ROSS, DONALD (Statutory Register Births 047/ 42)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 18/Sep/1872
+Original Document Date | 18/Sep/1872
 Responsible Agency | National Records of Scotland
 References | 1872 B 047/ 42
+Source Created | 6/Mar/2024 20:03:11
+Source Last Updated | 6/Mar/2024 20:08:14
 
 ## Text
 

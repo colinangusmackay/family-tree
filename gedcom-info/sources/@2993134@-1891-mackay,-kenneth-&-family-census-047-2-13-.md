@@ -5,10 +5,13 @@ permalink: /sources/s2993134
 
 # 1891 MACKAY, KENNETH & FAMILY (Census 047/2/13)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1891 C 047/2/13
+Source Created | 4/Jun/2022 10:27:07
+Source Last Updated | 5/Jun/2025 22:04:46
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s45499690
 
 # 1884 MCKENZIE, MARGARET PATERS (Statutory Registers Births 644/9 832)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 14/Jun/1884
+Original Document Date | 14/Jun/1884
 Responsible Agency | National Records of Scotland
 References | 1884 B 644/9 832
+Source Created | 25/Dec/2020 20:30:32
+Source Last Updated | 25/Dec/2020 20:57:06
 
 ## Text
 

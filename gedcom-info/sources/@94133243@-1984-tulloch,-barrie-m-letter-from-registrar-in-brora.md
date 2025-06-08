@@ -5,11 +5,14 @@ permalink: /sources/s94133243
 
 # 1984 TULLOCH, BARRIE M - Letter from Registrar in Brora
 
+## Metadata
 Field | Detail
 ---:|:---
 Originator / Author | John MacLennan
-Date | 19/Jul/1984
+Original Document Date | 19/Jul/1984
 Responsible Agency | Highland Regional Council
+Source Created | 3/Jun/2020 13:49:45
+Source Last Updated | 7/Jun/2025 20:22:23
 
 ## Text
 

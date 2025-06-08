@@ -5,10 +5,13 @@ permalink: /sources/s17414040
 
 # 1960 X, X A & ROBERTS, SANDRA J (The Bridgeport Post, Connecticut)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Bridgeport Post
-Date | 8/May/1960
+Original Document Date | 8/May/1960
+Source Created | 15/Jul/2022 16:59:55
+Source Last Updated | 15/Jul/2022 17:07:26
 
 ## Text
 

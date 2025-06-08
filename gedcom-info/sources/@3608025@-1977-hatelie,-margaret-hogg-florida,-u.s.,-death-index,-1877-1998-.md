@@ -5,10 +5,13 @@ permalink: /sources/s3608025
 
 # 1977 HATELIE, MARGARET HOGG (Florida, U.S., Death Index, 1877-1998)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Florida, U.S., Death Index, 1877-1998
 Responsible Agency | Florida Department of Health, Office of Vital Records
+Source Created | 31/May/2022 21:36:33
+Source Last Updated | 31/May/2022 21:38:41
 
 ## Text
 

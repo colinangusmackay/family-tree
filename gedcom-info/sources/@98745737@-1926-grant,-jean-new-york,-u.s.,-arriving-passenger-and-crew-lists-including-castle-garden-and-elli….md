@@ -5,10 +5,13 @@ permalink: /sources/s98745737
 
 # 1926 GRANT, JEAN (New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
-Date | 29/Nov/1926
+Original Document Date | 29/Nov/1926
+Source Created | 1/Jun/2022 13:35:34
+Source Last Updated | 1/Jun/2022 14:00:25
 
 ## Text
 

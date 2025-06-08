@@ -5,11 +5,14 @@ permalink: /sources/s58977291
 
 # 1966 GILCHRIST, ISABELLA - The Midwives roll for Scotland, 1966
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Midwives Roll for Scotland
-Date | 1966
+Original Document Date | 1966
 Responsible Agency | The Central Midwives Board for Scotland
+Source Created | 7/Jul/2020 21:48:27
+Source Last Updated | 7/Jul/2020 21:51:14
 
 ## Text
 

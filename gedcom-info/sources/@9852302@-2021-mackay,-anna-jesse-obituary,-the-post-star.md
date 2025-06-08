@@ -5,11 +5,14 @@ permalink: /sources/s9852302
 
 # 2021 X, ANNA JESSE - Obituary, The Post Star
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The POST STAR
-Date | 16/Mar/2021
+Original Document Date | 16/Mar/2021
 References | (URL) [Open original source at https://www.legacy.com/us/obituaries/poststar/name/anna-roberts-obituary?pid=198059055&fbclid=IwAR2F39iQXzoFaTQV1m_tIRAu2OZ-ZmViqY-A1eMnVYQevymzYILBYghZmS0](https://www.legacy.com/us/obituaries/poststar/name/anna-roberts-obituary?pid=198059055&fbclid=IwAR2F39iQXzoFaTQV1m_tIRAu2OZ-ZmViqY-A1eMnVYQevymzYILBYghZmS0)
+Source Created | 16/Mar/2021 21:36:49
+Source Last Updated | 9/Apr/2021 21:51:36
 
 ## Text
 

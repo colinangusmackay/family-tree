@@ -5,6 +5,11 @@ permalink: /sources/s43410300
 
 # 1982 MACKAY, WILLIAM A (Register of Interments, Western Necropolis, Glasgow)
 
+## Metadata
+Field | Detail
+---:|:---
+Source Created | 29/Apr/2025 22:40:34
+Source Last Updated | 29/Apr/2025 22:48:26
 
 ## Text
 

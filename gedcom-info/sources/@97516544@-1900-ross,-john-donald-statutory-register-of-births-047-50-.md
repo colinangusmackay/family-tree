@@ -5,11 +5,14 @@ permalink: /sources/s97516544
 
 # 1900 ROSS, JOHN DONALD (Statutory Register of Births 047/ 50)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 3/Nov/1900
+Original Document Date | 3/Nov/1900
 Responsible Agency | National Registers of Scotland
 References | 1900 B 047/ 50
+Source Created | 25/May/2025 14:02:15
+Source Last Updated | 25/May/2025 14:07:18
 
 ## Text
 

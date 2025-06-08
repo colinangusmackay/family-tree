@@ -5,10 +5,13 @@ permalink: /sources/s2243749
 
 # 1944 ROSS, MARION (Statutory Register of Deaths 047/ 30)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1944 D 047/ 30
+Source Created | 25/May/2025 17:01:08
+Source Last Updated | 25/May/2025 17:17:43
 
 ## Text
 

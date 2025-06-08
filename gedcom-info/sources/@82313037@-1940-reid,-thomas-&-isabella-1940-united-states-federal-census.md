@@ -5,9 +5,12 @@ permalink: /sources/s82313037
 
 # 1940 REID, THOMAS & ISABELLA - 1940 United States Federal Census
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1940
+Original Document Date | 1940
+Source Created | 16/Aug/2020 14:13:13
+Source Last Updated | 16/Aug/2020 14:20:12
 
 ## Text
 

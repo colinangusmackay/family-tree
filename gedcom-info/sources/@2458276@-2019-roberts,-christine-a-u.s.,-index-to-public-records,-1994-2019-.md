@@ -5,9 +5,12 @@ permalink: /sources/s2458276
 
 # 2019 X, X A (U.S., Index to Public Records, 1994-2019)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | U.S., Index to Public Records, 1994-2019
+Source Created | 11/Jun/2022 12:07:28
+Source Last Updated | 11/Jun/2022 12:09:11
 
 ## Text
 

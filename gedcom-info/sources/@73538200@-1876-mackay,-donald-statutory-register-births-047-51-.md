@@ -5,11 +5,14 @@ permalink: /sources/s73538200
 
 # 1876 MACKAY, DONALD (Statutory Register Births 047/ 51)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1/Dec/1876
+Original Document Date | 1/Dec/1876
 Responsible Agency | National Records of Scotland
 References | 1876 B 047/ 51
+Source Created | 24/Jul/2022 15:31:54
+Source Last Updated | 24/Jul/2022 15:37:07
 
 ## Text
 

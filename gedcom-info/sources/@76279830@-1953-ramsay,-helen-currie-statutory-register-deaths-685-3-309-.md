@@ -5,10 +5,13 @@ permalink: /sources/s76279830
 
 # 1953 RAMSAY, HELEN CURRIE (Statutory Register Deaths 685/3 309)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1953 D 685/3 309
+Source Created | 30/Jun/2022 17:12:22
+Source Last Updated | 26/Dec/2022 20:32:14
 
 ## Text
 

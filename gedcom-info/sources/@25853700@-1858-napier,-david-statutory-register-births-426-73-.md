@@ -5,11 +5,14 @@ permalink: /sources/s25853700
 
 # 1858 NAPIER, DAVID (Statutory Register Births 426/ 73)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 17/Apr/1858
+Original Document Date | 17/Apr/1858
 Responsible Agency | National Records of Scotland
 References | 1858 B 426/ 73
+Source Created | 28/Jan/2023 15:51:39
+Source Last Updated | 28/Jan/2023 16:03:02
 
 ## Text
 

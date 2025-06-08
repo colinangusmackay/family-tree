@@ -5,10 +5,13 @@ permalink: /sources/s83383680
 
 # 1943 CUMMING, GEORGE DAVIDSON SMITH - Florida County Marriage Records
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Florida County Marriage Records, 1823 - 1982
 References | (Film Number) 002241560
+Source Created | 12/Jul/2020 23:49:43
+Source Last Updated | 12/Jul/2020 23:52:29
 
 ## Text
 

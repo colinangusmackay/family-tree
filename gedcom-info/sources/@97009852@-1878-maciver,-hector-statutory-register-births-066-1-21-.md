@@ -5,11 +5,14 @@ permalink: /sources/s97009852
 
 # 1878 MACIVER, HECTOR (Statutory Register Births 066/1 21)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 29/Aug/1878
+Original Document Date | 29/Aug/1878
 Responsible Agency | National Records of Scotland
 References | 1878 B 066/1 21
+Source Created | 27/Dec/2020 00:35:25
+Source Last Updated | 27/Dec/2020 00:48:44
 
 ## Text
 

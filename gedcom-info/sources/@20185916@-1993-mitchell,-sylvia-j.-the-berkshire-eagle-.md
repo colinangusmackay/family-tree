@@ -5,10 +5,13 @@ permalink: /sources/s20185916
 
 # 1993 X, SYLVIA J. (The Berkshire Eagle)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Berkshire Eagle, Pittsfield, Massachusetts
-Date | 12/May/1993
+Original Document Date | 12/May/1993
+Source Created | 12/Jul/2022 22:31:03
+Source Last Updated | 12/Jul/2022 23:05:36
 
 ## Text
 

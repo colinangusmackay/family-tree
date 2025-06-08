@@ -5,10 +5,13 @@ permalink: /sources/s82101841
 
 # 1962 X, X - Statutory Registers - Marriages (index)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1962 M 644/10 316
+Source Created | 7/Jul/2020 20:31:21
+Source Last Updated | 7/Jul/2020 20:31:59
 
 ## Text
 

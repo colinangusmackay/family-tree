@@ -5,11 +5,14 @@ permalink: /sources/s12878576
 
 # 1897 FRASER, THOMAS (Statutory Registers Marriages 047/1)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 19/Jan/1897
+Original Document Date | 19/Jan/1897
 Responsible Agency | National Records of Scotland
 References | 1897 M 047/1
+Source Created | 4/Apr/2022 22:31:26
+Source Last Updated | 24/Jun/2022 12:52:25
 
 ## Text
 

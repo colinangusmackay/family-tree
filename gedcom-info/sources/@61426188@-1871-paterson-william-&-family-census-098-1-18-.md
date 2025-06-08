@@ -5,10 +5,13 @@ permalink: /sources/s61426188
 
 # 1871 PATERSON WILLIAM & FAMILY (Census 098/ 1/ 18)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1871 C 098/ 1/ 18
+Source Created | 6/Jul/2022 21:49:48
+Source Last Updated | 6/Jul/2022 21:56:48
 
 ## Text
 

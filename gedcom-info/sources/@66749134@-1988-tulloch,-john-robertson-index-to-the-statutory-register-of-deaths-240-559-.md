@@ -5,11 +5,14 @@ permalink: /sources/s66749134
 
 # 1988 TULLOCH, JOHN ROBERTSON (Index to the Statutory Register of Deaths 240/ 559)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1988
+Original Document Date | 1988
 Responsible Agency | National Records of Scotland
 References | 1988 D 240/ 559
+Source Created | 7/Jun/2025 20:42:14
+Source Last Updated | 7/Jun/2025 20:43:40
 
 ## Text
 

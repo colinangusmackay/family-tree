@@ -5,11 +5,14 @@ permalink: /sources/s79952972
 
 # 1871 ROSS, HUGH & HOUSEHOLD (Census 047/ 1/L 15)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1871
+Original Document Date | 1871
 Responsible Agency | National Records of Scotland
 References | 1871 C 047 1/L 15
+Source Created | 24/May/2025 15:01:02
+Source Last Updated | 24/May/2025 15:35:38
 
 ## Text
 

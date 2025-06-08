@@ -5,11 +5,14 @@ permalink: /sources/s92153124
 
 # 1950 CUMMING, GEORGE DS & MARGARET HOGG (1950 Census)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | 1950 Census of Population and Housing
-Date | 7/Apr/1950
+Original Document Date | 7/Apr/1950
 Responsible Agency | U.S. Department of Commerce, Bureau of the Census
+Source Created | 31/May/2022 17:36:46
+Source Last Updated | 31/May/2022 17:44:54
 
 ## Text
 

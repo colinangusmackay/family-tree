@@ -5,11 +5,14 @@ permalink: /sources/s9099898
 
 # 1910 GILLIE, ANDREW (Statutory Registers Marriages 047/3)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 15/Jan/1910
+Original Document Date | 15/Jan/1910
 Responsible Agency | National Records of Scotland
 References | 1910 M 047/3
+Source Created | 6/Jan/2022 22:57:34
+Source Last Updated | 6/Jan/2022 23:16:26
 
 ## Text
 

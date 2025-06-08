@@ -5,11 +5,14 @@ permalink: /sources/s95947862
 
 # 1973 FRASER, MARGARET MOYES (Statutory Register of Deaths 182/ 22)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 28/Aug/1973
+Original Document Date | 28/Aug/1973
 Responsible Agency | National Records of Scotland
 References | 1973 M 182/22
+Source Created | 30/Apr/2020 12:06:44
+Source Last Updated | 24/Apr/2025 23:22:39
 
 ## Text
 

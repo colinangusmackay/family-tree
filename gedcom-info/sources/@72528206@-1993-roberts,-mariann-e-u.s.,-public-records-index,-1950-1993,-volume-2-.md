@@ -5,9 +5,12 @@ permalink: /sources/s72528206
 
 # 1993 X, X E (U.S., Public Records Index, 1950-1993, Volume 2)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | U.S., Public Records Index, 1950-1993, Volume 2
+Source Created | 10/Jun/2022 22:51:27
+Source Last Updated | 10/Jun/2022 22:53:12
 
 ## Text
 

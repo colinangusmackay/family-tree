@@ -5,9 +5,12 @@ permalink: /sources/s68058482
 
 # 1918 CUMMING, DONALD; JESSIE ANN - Entry of Marriage
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1918
+Original Document Date | 1918
+Source Created | 1/Aug/2020 16:51:07
+Source Last Updated | 1/Aug/2020 17:00:21
 
 ## Text
 

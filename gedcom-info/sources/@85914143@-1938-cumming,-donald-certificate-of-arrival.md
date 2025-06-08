@@ -5,11 +5,14 @@ permalink: /sources/s85914143
 
 # 1938 - CUMMING, DONALD - Certificate of Arrival
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Jul/1938
+Original Document Date | 11/Jul/1938
 Responsible Agency | US Department of Labor - Immigration and Naturalization Service
 References | 1-231738
+Source Created | 1/Aug/2020 17:11:26
+Source Last Updated | 1/Aug/2020 17:16:42
 
 ## Text
 

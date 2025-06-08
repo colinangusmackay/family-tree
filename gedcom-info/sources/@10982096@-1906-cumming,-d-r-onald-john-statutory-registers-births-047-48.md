@@ -5,11 +5,14 @@ permalink: /sources/s10982096
 
 # 1906 CUMMING, (D/R)ONALD JOHN Statutory Registers Births 047/48
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1/Dec/1906
+Original Document Date | 1/Dec/1906
 Responsible Agency | National Records of Scotland
 References | 1906 B 047/48
+Source Created | 29/Jan/2020 17:15:00
+Source Last Updated | 24/Mar/2022 14:07:11
 
 ## Text
 

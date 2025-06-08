@@ -5,9 +5,12 @@ permalink: /sources/s76714770
 
 # 1859 PATERSON, JESSIE
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Scotland, Births and Baptisms, 1564-1950
+Source Created | 4/Jul/2022 22:37:04
+Source Last Updated | 4/Jul/2022 22:38:39
 
 ## Text
 

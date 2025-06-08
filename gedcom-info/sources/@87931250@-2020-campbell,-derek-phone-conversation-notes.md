@@ -5,9 +5,12 @@ permalink: /sources/s87931250
 
 # 2020 X, X - Phone conversation notes
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 8/May/2020
+Original Document Date | 8/May/2020
+Source Created | 1/Jun/2020 13:31:09
+Source Last Updated | 24/Mar/2022 15:32:57
 
 ## Text
 

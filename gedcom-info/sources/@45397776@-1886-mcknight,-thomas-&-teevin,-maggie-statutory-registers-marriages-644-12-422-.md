@@ -5,11 +5,14 @@ permalink: /sources/s45397776
 
 # 1886 MCKNIGHT, THOMAS & TEEVIN, MAGGIE (Statutory Registers Marriages 644/12 422)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 26/Oct/1886
+Original Document Date | 26/Oct/1886
 Responsible Agency | National Records of Scotland
 References | 1886 M 644/12 422
+Source Created | 26/Jan/2023 20:54:58
+Source Last Updated | 26/Jan/2023 22:33:50
 
 ## Text
 

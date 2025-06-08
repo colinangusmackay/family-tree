@@ -5,9 +5,12 @@ permalink: /sources/s17286223
 
 # 1911 STEAD, WILLIAM - 1911 England Census
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 3/Apr/1911
+Original Document Date | 3/Apr/1911
+Source Created | 6/Jul/2020 20:00:17
+Source Last Updated | 24/Mar/2022 14:12:31
 
 ## Text
 

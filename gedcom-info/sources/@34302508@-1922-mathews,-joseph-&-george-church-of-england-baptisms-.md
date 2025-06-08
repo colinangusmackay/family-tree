@@ -5,10 +5,13 @@ permalink: /sources/s34302508
 
 # 1922 MATHEWS, JOSEPH & GEORGE (Church of England Baptisms)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 22/Jul/1922
+Original Document Date | 22/Jul/1922
 Responsible Agency | Church of England
+Source Created | 26/May/2025 13:39:41
+Source Last Updated | 26/May/2025 13:54:16
 
 ## Text
 

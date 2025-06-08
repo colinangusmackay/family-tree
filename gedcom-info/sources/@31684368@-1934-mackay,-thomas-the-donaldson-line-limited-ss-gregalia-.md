@@ -5,9 +5,12 @@ permalink: /sources/s31684368
 
 # 1934 MACKAY, THOMAS (The Donaldson Line Limited - SS Gregalia)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 10/Nov/1934
+Original Document Date | 10/Nov/1934
+Source Created | 3/Jun/2022 16:05:09
+Source Last Updated | 3/Jun/2022 23:41:16
 
 ## Text
 

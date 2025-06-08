@@ -5,11 +5,14 @@ permalink: /sources/s82423595
 
 # 1900 CUMMING, MARY ANN, Statutory Registers Births 047/37
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 13/Aug/1900
+Original Document Date | 13/Aug/1900
 Responsible Agency | National Registers of Scotland
 References | 1900 B 047/37
+Source Created | 5/Jan/2020 15:27:27
+Source Last Updated | 24/Mar/2022 15:31:48
 
 ## Text
 

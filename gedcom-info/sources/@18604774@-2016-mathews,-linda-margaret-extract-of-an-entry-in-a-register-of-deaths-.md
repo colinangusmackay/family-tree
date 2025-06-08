@@ -5,12 +5,15 @@ permalink: /sources/s18604774
 
 # 2016 X, LINDA MARGARET (Extract of an entry in a REGISTER of DEATHS)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | REGISTER of DEATHS
-Date | 29/Sep/2016
+Original Document Date | 29/Sep/2016
 Responsible Agency | Registrar General
 References | 2016 D 773/14
+Source Created | 28/Apr/2020 23:41:38
+Source Last Updated | 27/Apr/2025 00:57:44
 
 ## Text
 

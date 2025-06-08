@@ -5,9 +5,12 @@ permalink: /sources/s86248524
 
 # GIBSON, NORMAN (Donn Country: A 300 year legacy)
 
+## Metadata
 Field | Detail
 ---:|:---
 References | (URL) [Open original source at https://strathnaver.wixsite.com/donncountry/copy-of-lotte-glob](https://strathnaver.wixsite.com/donncountry/copy-of-lotte-glob)
+Source Created | 4/May/2024 22:24:02
+Source Last Updated | 4/May/2024 22:46:13
 
 ## Text
 

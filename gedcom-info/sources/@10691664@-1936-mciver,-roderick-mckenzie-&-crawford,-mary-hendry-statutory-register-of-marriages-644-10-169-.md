@@ -5,11 +5,14 @@ permalink: /sources/s10691664
 
 # 1936 MCIVER, RODERICK MCKENZIE & CRAWFORD, MARY HENDRY (Statutory Register of Marriages 644/10 169)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 3/Jul/1936
+Original Document Date | 3/Jul/1936
 Responsible Agency | National Records of Scotland
 References | 1936 M 644/10 169
+Source Created | 5/May/2024 21:11:20
+Source Last Updated | 5/May/2024 21:31:23
 
 ## Text
 

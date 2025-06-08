@@ -5,10 +5,13 @@ permalink: /sources/s672117
 
 # 1871 MCIVER, RODERICK + HOUSEHOLD (Census 066/1 5/ 10)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1871 C 066/1 5/ 10
+Source Created | 26/May/2025 21:53:12
+Source Last Updated | 26/May/2025 22:12:06
 
 ## Text
 

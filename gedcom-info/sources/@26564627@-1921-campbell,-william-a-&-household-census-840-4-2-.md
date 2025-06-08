@@ -5,11 +5,14 @@ permalink: /sources/s26564627
 
 # 1921 CAMPBELL, WILLIAM A & HOUSEHOLD (Census 840/ 4/ 2)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 19/Jun/1921
+Original Document Date | 19/Jun/1921
 Responsible Agency | National Records of Scotland
 References | 1921 C 840/ 4/ 2
+Source Created | 11/Mar/2024 22:34:42
+Source Last Updated | 11/Mar/2024 22:49:50
 
 ## Text
 

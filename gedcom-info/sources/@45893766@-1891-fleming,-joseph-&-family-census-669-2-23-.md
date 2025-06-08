@@ -5,10 +5,13 @@ permalink: /sources/s45893766
 
 # 1891 FLEMING, JOSEPH & FAMILY (Census 669/2/23)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1891 C 669/2/23
+Source Created | 26/Jun/2022 19:55:08
+Source Last Updated | 26/Jun/2022 20:03:26
 
 ## Text
 

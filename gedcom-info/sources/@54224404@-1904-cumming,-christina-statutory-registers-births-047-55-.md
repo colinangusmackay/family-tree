@@ -5,10 +5,13 @@ permalink: /sources/s54224404
 
 # 1904 CUMMING, CHRISTINA (statutory registers Births 047/55)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1904 B 047/55
+Source Created | 22/Feb/2020 16:45:55
+Source Last Updated | 24/Jun/2022 12:58:17
 
 ## Text
 

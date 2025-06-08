@@ -5,9 +5,12 @@ permalink: /sources/s67712336
 
 # 1909 CUMMING, JAMES (U.S., Arriving Passenger and Crew Lists, 1820-1963)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Boston, Massachusetts. Passenger Lists of Vessels Arriving at Boston, Massachusetts, 1891-1943. Micropublication T843. RG085. 454 rolls. National Archives, Washington, D.C.
+Source Created | 18/Jun/2022 16:55:57
+Source Last Updated | 18/Jun/2022 17:59:03
 
 ## Text
 

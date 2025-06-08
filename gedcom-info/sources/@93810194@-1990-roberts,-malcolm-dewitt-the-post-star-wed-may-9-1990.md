@@ -5,10 +5,13 @@ permalink: /sources/s93810194
 
 # 1990 X, MALCOLM DEWITT - The Post Star Wed May 9 1990
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Post Star
-Date | 9/May/1990
+Original Document Date | 9/May/1990
+Source Created | 22/Aug/2020 18:12:25
+Source Last Updated | 22/Aug/2020 19:11:36
 
 ## Text
 

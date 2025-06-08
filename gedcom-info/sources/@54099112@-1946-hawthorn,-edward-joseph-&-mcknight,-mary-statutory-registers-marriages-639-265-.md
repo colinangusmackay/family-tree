@@ -5,11 +5,14 @@ permalink: /sources/s54099112
 
 # 1946 HAWTHORN, EDWARD JOSEPH & MCKNIGHT, MARY (Statutory Registers Marriages 639/ 265)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 9/Sep/1946
+Original Document Date | 9/Sep/1946
 Responsible Agency | National Records of Scotland
 References | 1946 M 639/ 265
+Source Created | 17/Jan/2023 22:09:53
+Source Last Updated | 17/Jan/2023 22:30:50
 
 ## Text
 

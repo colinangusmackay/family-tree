@@ -5,11 +5,14 @@ permalink: /sources/s58949710
 
 # 1939 STEAD, CYRIL & FAMILY (1939 England and Wales Register)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | 1939 England and Wales Register
-Date | 29/Sep/1939
+Original Document Date | 29/Sep/1939
 Responsible Agency | The National Archived
+Source Created | 5/Jul/2020 22:17:50
+Source Last Updated | 14/Jun/2022 22:37:25
 
 ## Text
 

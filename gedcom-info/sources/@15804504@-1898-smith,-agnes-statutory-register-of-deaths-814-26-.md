@@ -5,11 +5,14 @@ permalink: /sources/s15804504
 
 # 1898 X, AGNES (Statutory Register of Deaths 814/ 26)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 10/Jul/1898
+Original Document Date | 10/Jul/1898
 Responsible Agency | National Records of Scotland
 References | 1898 D 814/ 26
+Source Created | 16/May/2025 23:19:10
+Source Last Updated | 16/May/2025 23:29:03
 
 ## Text
 

@@ -5,9 +5,12 @@ permalink: /sources/s53514060
 
 # 2019 GILCHRIST, ISABELLA (née Mackay) - Memorial Service programme
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 27/Dec/2019
+Original Document Date | 27/Dec/2019
+Source Created | 28/Feb/2020 13:09:59
+Source Last Updated | 24/Mar/2022 14:55:03
 
 ## Text
 

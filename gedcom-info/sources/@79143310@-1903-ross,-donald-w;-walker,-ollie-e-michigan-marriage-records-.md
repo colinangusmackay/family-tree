@@ -5,6 +5,11 @@ permalink: /sources/s79143310
 
 # 1903 ROSS, DONALD W; WALKER, OLLIE E (Michigan Marriage Records)
 
+## Metadata
+Field | Detail
+---:|:---
+Source Created | 8/Mar/2024 10:59:01
+Source Last Updated | 8/Mar/2024 11:15:55
 
 ## Text
 

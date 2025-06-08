@@ -5,9 +5,12 @@ permalink: /sources/s60420349
 
 # 2024 GIBSON, NORMAN (Funeral Service Programme)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 30/Apr/2024
+Original Document Date | 30/Apr/2024
+Source Created | 4/May/2024 21:18:50
+Source Last Updated | 4/May/2024 21:31:02
 
 ## Text
 

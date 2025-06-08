@@ -5,10 +5,13 @@ permalink: /sources/s49308734
 
 # 1861 ROSS, ALEXANDER & FAMILY (1861 CENSUS 047/ 1/ 13)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1861 C 047/ 1/ 13
+Source Created | 25/Feb/2024 21:24:36
+Source Last Updated | 1/Mar/2024 12:57:21
 
 ## Text
 

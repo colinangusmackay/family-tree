@@ -5,10 +5,13 @@ permalink: /sources/s26043109
 
 # 1875 FLEMING, JOSEPH & TENNANT, MARGARET (Statutory Registers Marriages 632/21)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | Nation Records of Scotland
 References | 1875 M 632/21
+Source Created | 25/Jun/2022 11:51:06
+Source Last Updated | 25/Jun/2022 12:09:13
 
 ## Text
 

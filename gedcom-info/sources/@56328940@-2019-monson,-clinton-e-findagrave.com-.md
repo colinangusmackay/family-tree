@@ -5,10 +5,13 @@ permalink: /sources/s56328940
 
 # 2019 MONSON, CLINTON E (FindAGrave.com)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
 References | (URL) [Open original source at https://www.findagrave.com/memorial/201397864/clinton-e-monson](https://www.findagrave.com/memorial/201397864/clinton-e-monson)
+Source Created | 26/Jul/2022 21:17:28
+Source Last Updated | 26/Jul/2022 21:22:23
 
 ## Text
 

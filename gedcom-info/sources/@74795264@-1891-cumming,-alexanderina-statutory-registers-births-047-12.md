@@ -5,11 +5,14 @@ permalink: /sources/s74795264
 
 # 1891 CUMMING, ALEXANDERINA statutory registers births 047/12
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 4/Apr/1891
+Original Document Date | 4/Apr/1891
 Responsible Agency | National Records of Scotland
 References | 1891 B 047/12
+Source Created | 27/Jan/2020 22:46:20
+Source Last Updated | 24/Mar/2022 15:29:14
 
 ## Text
 

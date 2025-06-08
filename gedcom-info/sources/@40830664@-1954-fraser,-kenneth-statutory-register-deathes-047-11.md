@@ -5,11 +5,14 @@ permalink: /sources/s40830664
 
 # 1954 FRASER, KENNETH - Statutory Register Deathes 047/11
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 10/May/1954
+Original Document Date | 10/May/1954
 Responsible Agency | National Records of Scotland
 References | 1954 D 047/11
+Source Created | 27/Jan/2021 17:48:53
+Source Last Updated | 27/Jan/2021 20:48:07
 
 ## Text
 

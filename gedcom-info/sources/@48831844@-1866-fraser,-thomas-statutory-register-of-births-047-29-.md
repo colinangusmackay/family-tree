@@ -5,11 +5,14 @@ permalink: /sources/s48831844
 
 # 1866 FRASER, THOMAS (Statutory Register of Births 047/ 29)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 22/Jun/1866
+Original Document Date | 22/Jun/1866
 Responsible Agency | National Records of Scotland
 References | 1866 B 047/ 29
+Source Created | 5/Jun/2025 23:16:44
+Source Last Updated | 5/Jun/2025 23:22:20
 
 ## Text
 

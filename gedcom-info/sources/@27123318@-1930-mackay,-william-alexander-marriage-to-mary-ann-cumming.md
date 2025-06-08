@@ -5,11 +5,14 @@ permalink: /sources/s27123318
 
 # 1930 MACKAY, WILLIAM ALEXANDER - Marriage to Mary Ann Cumming
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Ontario, Canada, Marriages, 1826-1937
-Date | 17/Mar/1930
+Original Document Date | 17/Mar/1930
 References | 002154
+Source Created | 25/Jan/2020 11:37:19
+Source Last Updated | 10/Oct/2024 20:18:12
 
 ## Text
 

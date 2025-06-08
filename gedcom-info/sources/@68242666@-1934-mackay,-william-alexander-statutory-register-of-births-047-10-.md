@@ -5,10 +5,13 @@ permalink: /sources/s68242666
 
 # 1934 MACKAY, WILLIAM ALEXANDER (Statutory Register of Births 047/ 10)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1934 B 047/ 10
+Source Created | 29/May/2025 21:22:23
+Source Last Updated | 29/May/2025 21:27:24
 
 ## Text
 

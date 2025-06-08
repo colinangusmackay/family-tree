@@ -5,11 +5,14 @@ permalink: /sources/s94309804
 
 # 1970 MACKAY, LUCY (Statutory Register Deaths)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 15/May/1970
+Original Document Date | 15/May/1970
 Responsible Agency | National Records of Scotland
 References | 1970 D 98/A 269
+Source Created | 10/Apr/2022 22:47:23
+Source Last Updated | 24/Jun/2022 12:51:54
 
 ## Text
 

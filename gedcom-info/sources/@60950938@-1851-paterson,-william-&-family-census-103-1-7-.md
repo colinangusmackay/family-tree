@@ -5,10 +5,13 @@ permalink: /sources/s60950938
 
 # 1851 PATERSON, WILLIAM & FAMILY (Census 103/ 1/ 7)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1851 C 103/ 1/ 7
+Source Created | 4/Jul/2022 17:53:18
+Source Last Updated | 4/Jul/2022 20:09:50
 
 ## Text
 

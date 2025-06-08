@@ -5,11 +5,14 @@ permalink: /sources/s77838632
 
 # 2010 X, X (interview as a participant of Fèis a’ Chaolais)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Fèis a’ Chaolais: Ar Daoine is Ar Dùthchas
-Date | 2010
+Original Document Date | 2010
 References | (URL) [Open original source at https://www.feisean.org/wp-content/uploads/Feis-a-Chaolais.pdf](https://www.feisean.org/wp-content/uploads/Feis-a-Chaolais.pdf)
+Source Created | 28/Apr/2025 22:44:01
+Source Last Updated | 28/Apr/2025 23:35:15
 
 ## Text
 

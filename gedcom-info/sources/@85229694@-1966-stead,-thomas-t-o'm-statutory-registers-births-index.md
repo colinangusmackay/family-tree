@@ -5,10 +5,13 @@ permalink: /sources/s85229694
 
 # 1966 X, X T O'M (Statutory Registers - Births) Index
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1966 B 644/3 528
+Source Created | 8/May/2020 20:57:11
+Source Last Updated | 8/May/2020 21:26:13
 
 ## Text
 

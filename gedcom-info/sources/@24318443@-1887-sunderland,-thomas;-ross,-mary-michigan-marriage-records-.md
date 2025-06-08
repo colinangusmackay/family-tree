@@ -5,6 +5,11 @@ permalink: /sources/s24318443
 
 # 1887 SUNDERLAND, THOMAS; ROSS, MARY (Michigan Marriage Records)
 
+## Metadata
+Field | Detail
+---:|:---
+Source Created | 7/Mar/2024 09:10:22
+Source Last Updated | 7/Mar/2024 09:38:36
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s81312651
 
 # 18xx NAPIER (Old Parish Births and Baptisms Index - Dysart)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | URL
+Source Created | 22/Jan/2023 22:02:46
+Source Last Updated | 22/Jan/2023 22:34:56
 
 ## Text
 

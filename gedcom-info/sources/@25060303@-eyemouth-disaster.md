@@ -5,10 +5,13 @@ permalink: /sources/s25060303
 
 # Eyemouth Disaster
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Wikipedia
 References | (https://en.wikipedia.org/wiki/Eyemouth_disaster) URL
+Source Created | 11/Jun/2022 15:50:30
+Source Last Updated | 11/Jun/2022 15:52:36
 
 ## Text
 

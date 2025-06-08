@@ -5,11 +5,14 @@ permalink: /sources/s90428818
 
 # 1871 MACKAY, KENNETH (Statutory Register of Deaths 047/ 11)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1/May/1871
+Original Document Date | 1/May/1871
 Responsible Agency | National Records of Scotland
 References | 1871 D 047/ 11
+Source Created | 4/Jun/2025 21:02:52
+Source Last Updated | 4/Jun/2025 21:09:47
 
 ## Text
 

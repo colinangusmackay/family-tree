@@ -5,11 +5,14 @@ permalink: /sources/s65179076
 
 # 1908 RAMSAY, JAMES FISHER (Statutory Regigister Deaths 685/3 246)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 6/Jun/1908
+Original Document Date | 6/Jun/1908
 Responsible Agency | National Records of Scotland
 References | 1908 D 685/3 246
+Source Created | 31/Jan/2023 20:15:18
+Source Last Updated | 31/Jan/2023 20:24:36
 
 ## Text
 

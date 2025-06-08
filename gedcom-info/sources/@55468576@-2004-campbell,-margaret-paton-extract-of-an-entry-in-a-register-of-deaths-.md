@@ -5,11 +5,14 @@ permalink: /sources/s55468576
 
 # 2004 X, MARGARET PATON (Extract of an entry in a REGISTER of DEATHS)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 6/Apr/2004
+Original Document Date | 6/Apr/2004
 Responsible Agency | General Registers Office
 References | 2004 D 772/107
+Source Created | 9/May/2020 16:32:43
+Source Last Updated | 24/Mar/2022 15:01:56
 
 ## Text
 

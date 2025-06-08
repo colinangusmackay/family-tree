@@ -5,11 +5,14 @@ permalink: /sources/s53646957
 
 # 2015 - MCIVER, EILEEN FISHER - St John Scotland
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | [https://www.stjohnscotland.org.uk/the-order/library/91-pearls-from-the-pend-no-4](https://www.stjohnscotland.org.uk/the-order/library/91-pearls-from-the-pend-no-4)
 Originator / Author | Charles J Burnett
-Date | 10/Oct/2015
+Original Document Date | 10/Oct/2015
+Source Created | 24/Jan/2021 21:24:53
+Source Last Updated | 24/Jan/2021 21:26:29
 
 ## Text
 

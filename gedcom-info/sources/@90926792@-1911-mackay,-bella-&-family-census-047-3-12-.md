@@ -5,11 +5,14 @@ permalink: /sources/s90926792
 
 # 1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 2/Apr/1911
+Original Document Date | 2/Apr/1911
 Responsible Agency | National Records of Scotland
 References | 1911 C 047/ 3/ 12
+Source Created | 8/Jul/2022 22:36:32
+Source Last Updated | 8/Jul/2022 22:48:25
 
 ## Text
 

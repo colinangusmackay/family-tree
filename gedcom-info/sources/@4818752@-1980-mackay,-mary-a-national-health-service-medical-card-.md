@@ -5,11 +5,14 @@ permalink: /sources/s4818752
 
 # 1980 MACKAY, MARY A (National Health Service Medical Card)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 31/Mar/1980
+Original Document Date | 31/Mar/1980
 Responsible Agency | Greater Glasgow Health Board
 References | (NHS Number) SXHB-133-1
+Source Created | 29/Apr/2025 21:52:06
+Source Last Updated | 29/Apr/2025 21:59:51
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s85380635
 
 # 2008 X, X X - The Post Star Tuesday June 24 2008
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Post Star
-Date | 24/Jun/2008
+Original Document Date | 24/Jun/2008
+Source Created | 5/Sep/2020 17:23:16
+Source Last Updated | 5/Sep/2020 17:26:52
 
 ## Text
 

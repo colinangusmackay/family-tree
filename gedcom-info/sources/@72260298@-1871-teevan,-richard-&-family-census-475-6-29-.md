@@ -5,11 +5,14 @@ permalink: /sources/s72260298
 
 # 1871 TEEVAN, RICHARD & Family (Census 475/ 6/ 29)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1871
+Original Document Date | 1871
 Responsible Agency | National Records of Scotland
 References | 1871 C 475/ 6/ 29
+Source Created | 27/Jan/2023 21:04:15
+Source Last Updated | 27/Jan/2023 21:25:12
 
 ## Text
 

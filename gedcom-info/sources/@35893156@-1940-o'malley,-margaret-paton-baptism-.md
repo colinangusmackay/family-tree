@@ -5,9 +5,12 @@ permalink: /sources/s35893156
 
 # 1940 O'MALLEY, MARGARET PATON (Baptism)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 26/Nov/1940
+Original Document Date | 26/Nov/1940
+Source Created | 8/May/2020 23:38:27
+Source Last Updated | 24/Mar/2022 14:29:04
 
 ## Text
 

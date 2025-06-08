@@ -5,9 +5,12 @@ permalink: /sources/s43087046
 
 # 2003 X, EDWARD (UK, Electoral Registers, 2003-2010)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | UK, Electoral Registers, 2003-2010
+Source Created | 14/Jun/2022 21:57:36
+Source Last Updated | 14/Jun/2022 21:58:39
 
 ## Text
 

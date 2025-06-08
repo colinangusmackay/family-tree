@@ -5,10 +5,13 @@ permalink: /sources/s96911480
 
 # 2020 CUMMING, ADAM 1/3 Descendant Report
 
+## Metadata
 Field | Detail
 ---:|:---
 Originator / Author | Helen McDermott
-Date | 13/Jan/2020
+Original Document Date | 13/Jan/2020
+Source Created | 2/Jun/2020 23:08:55
+Source Last Updated | 24/Mar/2022 15:34:38
 
 ## Text
 

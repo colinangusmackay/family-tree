@@ -5,10 +5,13 @@ permalink: /sources/s35341986
 
 # 1954 MATHEWS, JOHN ALBERT: Statutory Registers - Births Index
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1954 B 672/565
+Source Created | 22/May/2020 17:42:07
+Source Last Updated | 22/May/2020 17:43:36
 
 ## Text
 

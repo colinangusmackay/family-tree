@@ -5,10 +5,13 @@ permalink: /sources/s41744483
 
 # 1950 CUMMING, CHRISTINE - The Palm Beach Post, Sun Dec 3 1950
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Palm Beach Post
-Date | 3/Dec/1950
+Original Document Date | 3/Dec/1950
+Source Created | 17/Aug/2020 17:47:27
+Source Last Updated | 17/Aug/2020 17:51:42
 
 ## Text
 

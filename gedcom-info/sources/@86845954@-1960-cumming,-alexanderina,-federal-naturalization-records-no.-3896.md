@@ -5,11 +5,14 @@ permalink: /sources/s86845954
 
 # 1960 CUMMING, ALEXANDERINA, Federal Naturalization Records No. 3896
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 8/Sep/1960
+Original Document Date | 8/Sep/1960
 Responsible Agency | US District Court of California at San Diego
 References | 3896
+Source Created | 27/Jan/2020 22:59:05
+Source Last Updated | 24/Mar/2022 15:32:38
 
 ## Text
 

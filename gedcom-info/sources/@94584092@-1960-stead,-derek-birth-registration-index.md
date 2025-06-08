@@ -5,9 +5,12 @@ permalink: /sources/s94584092
 
 # 1960 X, X - Birth Registration Index
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | England and Wales Birth Registration Index, 1837-2008
+Source Created | 1/Jun/2020 13:02:06
+Source Last Updated | 1/Jun/2020 13:02:47
 
 ## Text
 

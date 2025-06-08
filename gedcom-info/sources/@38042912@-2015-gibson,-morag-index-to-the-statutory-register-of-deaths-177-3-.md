@@ -5,11 +5,14 @@ permalink: /sources/s38042912
 
 # 2015 GIBSON, MORAG (Index to the Statutory Register of Deaths 177/3)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 2015
+Original Document Date | 2015
 Responsible Agency | National Records of Scotland
 References | 2015 D 177/3
+Source Created | 12/May/2024 17:14:52
+Source Last Updated | 12/May/2024 17:18:22
 
 ## Text
 

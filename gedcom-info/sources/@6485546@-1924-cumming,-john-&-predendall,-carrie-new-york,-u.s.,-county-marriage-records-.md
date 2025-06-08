@@ -5,9 +5,12 @@ permalink: /sources/s6485546
 
 # 1924 CUMMING, JOHN & PREDENDALL, CARRIE (New York, U.S., County Marriage Records)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | New York, U.S., County Marriage Records
+Source Created | 5/Jun/2022 09:57:41
+Source Last Updated | 5/Jun/2022 10:28:23
 
 ## Text
 

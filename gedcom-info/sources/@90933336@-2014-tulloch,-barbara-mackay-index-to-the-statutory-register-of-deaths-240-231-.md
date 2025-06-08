@@ -5,10 +5,13 @@ permalink: /sources/s90933336
 
 # 2014 TULLOCH, BARBARA MACKAY (Index to the Statutory Register of Deaths 240/ 231)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 2014 D 240/ 231
+Source Created | 7/Jun/2025 19:57:12
+Source Last Updated | 7/Jun/2025 19:58:33
 
 ## Text
 

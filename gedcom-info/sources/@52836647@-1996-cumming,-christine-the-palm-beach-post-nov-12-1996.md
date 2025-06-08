@@ -5,10 +5,13 @@ permalink: /sources/s52836647
 
 # 1996 CUMMING, CHRISTINE - The Palm Beach Post Nov 12 1996
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Palm Beach Post
-Date | 12/Nov/1996
+Original Document Date | 12/Nov/1996
+Source Created | 17/Aug/2020 17:28:14
+Source Last Updated | 17/Aug/2020 17:31:18
 
 ## Text
 

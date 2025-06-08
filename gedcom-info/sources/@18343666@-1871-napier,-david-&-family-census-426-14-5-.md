@@ -5,11 +5,14 @@ permalink: /sources/s18343666
 
 # 1871 NAPIER, DAVID & Family (Census 426/ 14/ 5)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1871
+Original Document Date | 1871
 Responsible Agency | National Records of Scotland
 References | 1871 C 426/ 14/ 5
+Source Created | 28/Jan/2023 20:38:26
+Source Last Updated | 28/Jan/2023 21:16:28
 
 ## Text
 

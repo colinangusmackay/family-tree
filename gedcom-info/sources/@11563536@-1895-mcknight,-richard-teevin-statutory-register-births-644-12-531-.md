@@ -5,11 +5,14 @@ permalink: /sources/s11563536
 
 # 1895 MCKNIGHT, RICHARD TEEVIN (Statutory Register Births 644/12 531)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 6/May/1895
+Original Document Date | 6/May/1895
 Responsible Agency | National Records of Scotland
 References | 1895 B 644/12 531
+Source Created | 26/Jan/2023 17:53:35
+Source Last Updated | 26/Jan/2023 18:01:26
 
 ## Text
 

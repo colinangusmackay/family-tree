@@ -5,12 +5,15 @@ permalink: /sources/s78675230
 
 # 1920 RAMSAY, JOHN (British Newspaper Archive, Family Notices)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | British Newspaper Archive, Family Notices
-Date | 22/Jun/1920
+Original Document Date | 22/Jun/1920
 Responsible Agency | FamilySearch
 References | (URL) [Open original source at https://www.familysearch.org/ark:/61903/1:1:QLSC-2VZC](https://www.familysearch.org/ark:/61903/1:1:QLSC-2VZC)
+Source Created | 27/Dec/2022 17:06:14
+Source Last Updated | 27/Dec/2022 17:08:42
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s78170305
 
 # 1859 GRANT, HUGE & MUNRO JANET (Statutory Register Marriages 051/2)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 17/Feb/1859
+Original Document Date | 17/Feb/1859
 Responsible Agency | National Records of Scotland
 References | 1859 M 051/2
+Source Created | 2/Jun/2022 10:04:29
+Source Last Updated | 24/Jun/2022 12:51:08
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s49049588
 
 # 1893 MACKAY, GEORGE (Statutory Register of Deaths 047/ 36)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 27/Nov/1893
+Original Document Date | 27/Nov/1893
 Responsible Agency | National Records of Scotland
 References | 1893 D 047/ 36
+Source Created | 31/May/2025 00:26:05
+Source Last Updated | 31/May/2025 00:34:48
 
 ## Text
 

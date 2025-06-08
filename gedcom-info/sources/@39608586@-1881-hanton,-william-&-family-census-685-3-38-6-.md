@@ -5,11 +5,14 @@ permalink: /sources/s39608586
 
 # 1881 HANTON, WILLIAM & Family (Census 685/3 38/ 6)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1881
+Original Document Date | 1881
 Responsible Agency | National Records of Scotland
 References | 1881 C 685/3 38/ 6
+Source Created | 17/Jan/2023 21:36:14
+Source Last Updated | 19/Jan/2023 23:54:52
 
 ## Text
 

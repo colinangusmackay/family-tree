@@ -5,9 +5,12 @@ permalink: /sources/s88810340
 
 # 1861 CUMMING, JAMES (Census)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
+Source Created | 3/Apr/2022 13:58:27
+Source Last Updated | 24/Jun/2022 12:52:34
 
 ## Text
 

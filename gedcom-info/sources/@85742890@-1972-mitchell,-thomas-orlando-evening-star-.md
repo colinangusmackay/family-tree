@@ -5,10 +5,13 @@ permalink: /sources/s85742890
 
 # 1972 MITCHELL, THOMAS (Orlando Evening Star)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Orlando Evening Star
-Date | 5/May/1972
+Original Document Date | 5/May/1972
+Source Created | 10/Jul/2022 23:05:59
+Source Last Updated | 10/Jul/2022 23:13:23
 
 ## Text
 

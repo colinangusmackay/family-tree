@@ -5,9 +5,12 @@ permalink: /sources/s72382739
 
 # 1928 MATHEWS, ROBERT D R (England and Wales Birth Registration Index, 1837-2008)
 
+## Metadata
 Field | Detail
 ---:|:---
 References | (URL) [Open original source at https://www.familysearch.org/ark:/61903/1:1:QV3K-PC7D](https://www.familysearch.org/ark:/61903/1:1:QV3K-PC7D)
+Source Created | 24/Jun/2022 22:44:48
+Source Last Updated | 24/Jun/2022 22:47:56
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s67337826
 
 # 1956 MITCHELL, DONALD CHARLES & X, SYLVIA JEAN (The Berkshire Eagle, 8 Sep 1956, page 5)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Berkshire Eagle
-Date | 8/Sep/1956
+Original Document Date | 8/Sep/1956
+Source Created | 12/Jul/2022 21:34:58
+Source Last Updated | 12/Jul/2022 21:50:11
 
 ## Text
 

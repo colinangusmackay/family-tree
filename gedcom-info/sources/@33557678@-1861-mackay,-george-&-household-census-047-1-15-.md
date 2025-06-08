@@ -5,11 +5,14 @@ permalink: /sources/s33557678
 
 # 1861 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 1/ 15)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1861
+Original Document Date | 1861
 Responsible Agency | National Registers of Scotland
 References | 1861 C 047/ 1/ 15
+Source Created | 31/May/2025 19:36:18
+Source Last Updated | 31/May/2025 21:22:06
 
 ## Text
 

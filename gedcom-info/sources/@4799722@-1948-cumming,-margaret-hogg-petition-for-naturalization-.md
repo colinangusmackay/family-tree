@@ -5,9 +5,12 @@ permalink: /sources/s4799722
 
 # 1948 CUMMING, MARGARET HOGG (Petition for Naturalization)
 
+## Metadata
 Field | Detail
 ---:|:---
 References | 1734
+Source Created | 31/May/2022 15:35:02
+Source Last Updated | 31/May/2022 17:19:29
 
 ## Text
 

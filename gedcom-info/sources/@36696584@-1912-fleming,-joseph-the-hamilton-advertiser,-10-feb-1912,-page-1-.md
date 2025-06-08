@@ -5,10 +5,13 @@ permalink: /sources/s36696584
 
 # 1912 FLEMING, JOSEPH (The Hamilton Advertiser, 10 FEB 1912, Page 1)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Hamilton Advertiser
-Date | 10/Feb/1912
+Original Document Date | 10/Feb/1912
+Source Created | 29/Jul/2022 17:27:56
+Source Last Updated | 29/Jul/2022 17:33:34
 
 ## Text
 

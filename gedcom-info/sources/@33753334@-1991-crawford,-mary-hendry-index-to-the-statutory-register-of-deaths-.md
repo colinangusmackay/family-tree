@@ -5,10 +5,13 @@ permalink: /sources/s33753334
 
 # 1991 CRAWFORD, MARY HENDRY (Index to the Statutory Register of Deaths)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1991 D 611/ 750
+Source Created | 5/May/2024 21:43:30
+Source Last Updated | 5/May/2024 21:46:11
 
 ## Text
 

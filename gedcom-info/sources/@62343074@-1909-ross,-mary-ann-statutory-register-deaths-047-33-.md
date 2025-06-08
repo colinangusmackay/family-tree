@@ -5,11 +5,14 @@ permalink: /sources/s62343074
 
 # 1909 ROSS, MARY ANN (Statutory Register Deaths 047/33)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 30/Dec/1909
+Original Document Date | 30/Dec/1909
 Responsible Agency | National Records of Scotland
 References | 1909 D 047/33
+Source Created | 27/Mar/2022 14:53:56
+Source Last Updated | 17/Feb/2024 17:31:13
 
 ## Text
 

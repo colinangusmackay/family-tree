@@ -5,11 +5,14 @@ permalink: /sources/s5639012
 
 # 1911 CUMMING, DONALD & FAMILY (Census 047/ 3/ 14)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1911
+Original Document Date | 1911
 Responsible Agency | National Records of Scotland
 References | 1911 C 047/ 3/ 14
+Source Created | 7/Jul/2022 17:25:11
+Source Last Updated | 8/Jul/2022 00:18:16
 
 ## Text
 

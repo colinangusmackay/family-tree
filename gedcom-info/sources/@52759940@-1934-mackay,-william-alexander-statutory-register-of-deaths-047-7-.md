@@ -5,11 +5,14 @@ permalink: /sources/s52759940
 
 # 1934 MACKAY, WILLIAM ALEXANDER (Statutory Register of Deaths 047/ 7)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 23/Mar/1934
+Original Document Date | 23/Mar/1934
 Responsible Agency | National Records of Scotland
 References | 1934 D 047/ 7
+Source Created | 10/May/2025 15:31:53
+Source Last Updated | 10/May/2025 20:45:38
 
 ## Text
 

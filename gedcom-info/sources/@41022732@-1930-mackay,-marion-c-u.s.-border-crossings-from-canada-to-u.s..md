@@ -5,9 +5,12 @@ permalink: /sources/s41022732
 
 # 1930 MACKAY, MARION C - U.S. Border Crossings from Canada to U.S.
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 12/Apr/1930
+Original Document Date | 12/Apr/1930
+Source Created | 19/Jul/2020 14:29:04
+Source Last Updated | 25/Feb/2024 19:30:50
 
 ## Text
 

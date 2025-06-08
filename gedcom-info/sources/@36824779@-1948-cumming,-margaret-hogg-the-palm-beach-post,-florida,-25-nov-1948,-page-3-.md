@@ -5,10 +5,13 @@ permalink: /sources/s36824779
 
 # 1948 CUMMING, MARGARET HOGG (The Palm Beach Post, Florida, 25 NOV 1948, Page 3)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Palm Beach Post
-Date | 25/Nov/1948
+Original Document Date | 25/Nov/1948
+Source Created | 18/Jul/2022 22:54:18
+Source Last Updated | 18/Jul/2022 22:59:11
 
 ## Text
 

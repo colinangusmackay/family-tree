@@ -5,10 +5,13 @@ permalink: /sources/s22441442
 
 # 1920 MATHEWS, JOHN ALBERT & CHRISTINA FLEMING (Statutory Registers Marriages 644/10 1110)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1920 M 644/10 1110
+Source Created | 23/Jun/2022 20:01:32
+Source Last Updated | 26/Jun/2022 21:48:01
 
 ## Text
 

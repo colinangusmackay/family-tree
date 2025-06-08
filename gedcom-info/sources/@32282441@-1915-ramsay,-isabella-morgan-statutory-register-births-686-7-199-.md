@@ -5,11 +5,14 @@ permalink: /sources/s32282441
 
 # 1915 RAMSAY, ISABELLA MORGAN (Statutory Register Births 686/7 199)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 5/Jul/1915
+Original Document Date | 5/Jul/1915
 Responsible Agency | National Records of Scotland
 References | 1915 B 685/7 199
+Source Created | 17/Apr/2025 22:30:53
+Source Last Updated | 17/Apr/2025 22:43:49
 
 ## Text
 

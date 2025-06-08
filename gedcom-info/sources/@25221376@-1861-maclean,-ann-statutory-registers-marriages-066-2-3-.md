@@ -5,11 +5,14 @@ permalink: /sources/s25221376
 
 # 1861 MACLEAN, ANN (Statutory registers Marriages 066/2 3)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 16/Feb/1864
+Original Document Date | 16/Feb/1864
 Responsible Agency | National Records of Scotland
 References | 1861 M 066/2 3
+Source Created | 27/Dec/2020 12:05:11
+Source Last Updated | 27/Dec/2020 13:36:53
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s13877893
 
 # 1960 MACKAY, ISABELLA - The Midwives roll for Scotland, 1960
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Midwives roll for Scotland
-Date | 1960
+Original Document Date | 1960
 Responsible Agency | The Central Midwives Board for Scotland
+Source Created | 7/Jul/2020 21:17:21
+Source Last Updated | 7/Jul/2020 21:52:28
 
 ## Text
 

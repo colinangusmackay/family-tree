@@ -5,10 +5,13 @@ permalink: /sources/s75374150
 
 # 1892 MACKAY, ANN - Statutory Registers Births
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 23/Dec/1892
+Original Document Date | 23/Dec/1892
 Responsible Agency | National Records of Scotland
+Source Created | 5/Sep/2020 15:59:21
+Source Last Updated | 5/Sep/2020 16:25:18
 
 ## Text
 

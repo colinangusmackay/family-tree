@@ -5,11 +5,14 @@ permalink: /sources/s36614354
 
 # 1912 FRASER, KENNETH (Statutory registers Marriages 047/1)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 16/Jan/1912
+Original Document Date | 16/Jan/1912
 Responsible Agency | National Records of Scotland
 References | 1912 M 047/1
+Source Created | 7/Mar/2020 12:33:02
+Source Last Updated | 24/Jun/2022 12:57:53
 
 ## Text
 

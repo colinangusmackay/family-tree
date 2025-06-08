@@ -5,9 +5,12 @@ permalink: /sources/s69591437
 
 # 1942 CUMMING, JESSIE ANN - Petition for Naturalisation
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/May/1942
+Original Document Date | 11/May/1942
+Source Created | 8/Aug/2020 13:48:50
+Source Last Updated | 8/Aug/2020 14:48:18
 
 ## Text
 

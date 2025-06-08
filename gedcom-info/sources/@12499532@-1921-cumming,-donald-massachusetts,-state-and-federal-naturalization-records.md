@@ -5,11 +5,14 @@ permalink: /sources/s12499532
 
 # 1921 CUMMING, DONALD - Massachusetts, State and Federal Naturalization Records
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 2/Aug/1921
+Original Document Date | 2/Aug/1921
 Responsible Agency | District Court, Massachusetts
 References | (Declaration of Intention) V 240 No 119501
+Source Created | 25/Jan/2020 16:18:11
+Source Last Updated | 22/Mar/2022 22:52:35
 
 ## Text
 

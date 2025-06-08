@@ -5,10 +5,13 @@ permalink: /sources/s10153260
 
 # 1954 X, X X (Statutory Registers Births - Index 442/164)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1954 B 442/164
+Source Created | 14/Jun/2022 21:32:50
+Source Last Updated | 19/Jun/2022 23:41:38
 
 ## Text
 

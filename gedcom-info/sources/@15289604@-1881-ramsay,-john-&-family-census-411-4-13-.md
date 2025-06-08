@@ -5,11 +5,14 @@ permalink: /sources/s15289604
 
 # 1881 RAMSAY, JOHN & FAMILY (Census 411/ 4/ 13)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | Apr/1881
+Original Document Date | Apr/1881
 Responsible Agency | National Records of Scotland
 References | 1881 C 411/ 4/ 13
+Source Created | 29/Jun/2022 22:16:42
+Source Last Updated | 29/Jun/2022 22:38:09
 
 ## Text
 

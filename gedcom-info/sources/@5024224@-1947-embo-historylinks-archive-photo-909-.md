@@ -5,11 +5,14 @@ permalink: /sources/s5024224
 
 # 1947 EMBO (Historylinks Archive photo 909)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Historylinks Archive
-Date | 2000
+Original Document Date | 2000
 References | (URL) [Open original source at https://www.historylinksarchive.org.uk/picture/number909/](https://www.historylinksarchive.org.uk/picture/number909/)
+Source Created | 4/Jan/2022 17:48:27
+Source Last Updated | 4/Jan/2022 17:55:03
 
 ## Text
 

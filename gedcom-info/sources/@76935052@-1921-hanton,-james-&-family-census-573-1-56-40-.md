@@ -5,11 +5,14 @@ permalink: /sources/s76935052
 
 # 1921 HANTON, JAMES & Family (Census 573/1 56/ 40)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 19/Jun/1921
+Original Document Date | 19/Jun/1921
 Responsible Agency | National Records of Scotland
 References | 1921 C 573/1 56/ 40
+Source Created | 17/Jan/2023 16:06:37
+Source Last Updated | 28/Jan/2023 20:03:38
 
 ## Text
 

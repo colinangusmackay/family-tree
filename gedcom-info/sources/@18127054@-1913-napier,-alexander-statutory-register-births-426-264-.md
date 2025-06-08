@@ -5,11 +5,14 @@ permalink: /sources/s18127054
 
 # 1913 NAPIER, ALEXANDER (Statutory Register Births 426/ 264)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 19/May/1913
+Original Document Date | 19/May/1913
 Responsible Agency | National Records of Scotland
 References | 1913 B 426/ 264
+Source Created | 20/Jan/2023 17:35:55
+Source Last Updated | 20/Jan/2023 21:34:01
 
 ## Text
 

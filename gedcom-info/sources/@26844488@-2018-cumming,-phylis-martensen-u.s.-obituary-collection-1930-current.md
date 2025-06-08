@@ -5,10 +5,13 @@ permalink: /sources/s26844488
 
 # 2018 CUMMING, PHYLIS MARTENSEN - U.S. Obituary Collection 1930-Current
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Patriot Ledger
-Date | 2018
+Original Document Date | 2018
+Source Created | 22/Aug/2020 13:18:57
+Source Last Updated | 22/Aug/2020 13:22:34
 
 ## Text
 

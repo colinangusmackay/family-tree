@@ -5,11 +5,14 @@ permalink: /sources/s48317232
 
 # 1914 GIBSON, ALASTAIR MACDON (Statutory Register Births 678/7)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Feb/1914
+Original Document Date | 11/Feb/1914
 Responsible Agency | National Records of Scotland
 References | 1914 B 678/7
+Source Created | 27/Dec/2020 22:03:33
+Source Last Updated | 27/Dec/2020 22:09:55
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s98921056
 
 # 1994 X, X (Obituary - Paisley Daily Express)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Paisley Daily Express
-Date | 27/Jun/1994
+Original Document Date | 27/Jun/1994
 References | (URL) [Open original source at https://www.newspapers.com/image/820433784/?article=3829f0d5-33ff-4bd9-af21-ac2cf6c39192&focus=0.0768008,0.55416965,0.20303267,0.70679164&xid=3355](https://www.newspapers.com/image/820433784/?article=3829f0d5-33ff-4bd9-af21-ac2cf6c39192&focus=0.0768008,0.55416965,0.20303267,0.70679164&xid=3355)
+Source Created | 22/Jan/2023 22:46:11
+Source Last Updated | 11/Apr/2024 16:39:33
 
 ## Text
 

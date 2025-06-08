@@ -5,11 +5,14 @@ permalink: /sources/s75160785
 
 # 1889 ROSS, JOHN - Statutory Registers Marriages
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 28/Nov/1889
+Original Document Date | 28/Nov/1889
 Responsible Agency | National Records of Scotland
 References | 1889 M 047/5
+Source Created | 30/Aug/2020 23:24:18
+Source Last Updated | 22/May/2025 20:17:52
 
 ## Text
 

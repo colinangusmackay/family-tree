@@ -5,11 +5,14 @@ permalink: /sources/s72028925
 
 # 1900 MACKAY, WILLIAM ALEXANDER (Statutory registers Births 047/8)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 12/Mar/1900
+Original Document Date | 12/Mar/1900
 Responsible Agency | National Registers of Scotland
 References | (Statutory Register Births) 1900 047/8
+Source Created | 5/Jan/2020 22:05:02
+Source Last Updated | 24/Mar/2022 15:24:36
 
 ## Text
 

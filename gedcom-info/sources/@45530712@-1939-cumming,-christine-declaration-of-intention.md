@@ -5,11 +5,14 @@ permalink: /sources/s45530712
 
 # 1939 CUMMING, CHRISTINE: Declaration of Intention
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 23/Mar/1939
+Original Document Date | 23/Mar/1939
 Responsible Agency | United States District Court of Massachussets at Boston
 References | 281883
+Source Created | 14/May/2020 23:58:27
+Source Last Updated | 24/Mar/2022 14:52:09
 
 ## Text
 

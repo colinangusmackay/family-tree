@@ -5,11 +5,14 @@ permalink: /sources/s83715308
 
 # 1905 RAMSAY, JOHN (Statutory Register Marriages 685/5 18)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 14/Jan/1905
+Original Document Date | 14/Jan/1905
 Responsible Agency | National Records of Scotland
 References | 1905 M 685/5 18
+Source Created | 1/Jan/2021 16:26:25
+Source Last Updated | 1/Jul/2022 21:50:50
 
 ## Text
 

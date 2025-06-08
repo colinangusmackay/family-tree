@@ -5,11 +5,14 @@ permalink: /sources/s16124232
 
 # 1982 X, X ALEXANDER (Register of Deaths)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 29/Sep/1982
+Original Document Date | 29/Sep/1982
 Responsible Agency | General Register Office
 References | 10738085
+Source Created | 29/Mar/2022 18:20:26
+Source Last Updated | 29/Mar/2022 18:34:45
 
 ## Text
 

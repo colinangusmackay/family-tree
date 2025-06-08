@@ -5,10 +5,13 @@ permalink: /sources/s142832
 
 # 1901 FISHER, JAMES & FAMILY (Census 685/5 25/ 4)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1901 C 685/5 25/ 4
+Source Created | 1/Jul/2022 21:24:22
+Source Last Updated | 1/Jul/2022 21:47:04
 
 ## Text
 

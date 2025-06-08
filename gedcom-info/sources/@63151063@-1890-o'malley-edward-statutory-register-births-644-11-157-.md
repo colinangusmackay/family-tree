@@ -5,11 +5,14 @@ permalink: /sources/s63151063
 
 # 1890 O'MALLEY EDWARD (Statutory Register Births 644/11 157)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 23/Jan/1890
+Original Document Date | 23/Jan/1890
 Responsible Agency | National Records of Scotland
 References | 1890 B 644/11 157
+Source Created | 16/Jul/2022 16:46:09
+Source Last Updated | 16/Jul/2022 16:56:16
 
 ## Text
 

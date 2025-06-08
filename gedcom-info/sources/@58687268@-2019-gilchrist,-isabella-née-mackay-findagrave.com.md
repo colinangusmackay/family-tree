@@ -5,10 +5,13 @@ permalink: /sources/s58687268
 
 # 2019 GILCHRIST, ISABELLA (née Mackay) - FindAGrave.com
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
 References | (URL) [Open original source at https://www.findagrave.com/memorial/275148419/isabella-gilchrist](https://www.findagrave.com/memorial/275148419/isabella-gilchrist)
+Source Created | 1/Oct/2024 16:32:31
+Source Last Updated | 1/Oct/2024 16:57:05
 
 ## Text
 

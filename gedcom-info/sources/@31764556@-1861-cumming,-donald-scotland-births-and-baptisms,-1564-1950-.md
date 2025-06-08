@@ -5,11 +5,14 @@ permalink: /sources/s31764556
 
 # 1861 CUMMING, DONALD (Scotland Births and Baptisms, 1564-1950)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Scotland Births and Baptisms, 1564-1950
 Responsible Agency | FamilySearch
 References | (URL) [Open original source at https://www.familysearch.org/ark:/61903/1:1:FQRF-LGZ](https://www.familysearch.org/ark:/61903/1:1:FQRF-LGZ)
+Source Created | 9/Jul/2022 23:02:38
+Source Last Updated | 9/Jul/2022 23:09:29
 
 ## Text
 

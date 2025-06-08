@@ -5,10 +5,13 @@ permalink: /sources/s64831184
 
 # 1939 MACKAY, DONALD (FindAGrave.com)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
 References | (URL) [Open original source at https://www.findagrave.com/memorial/195133735/donald-mackay](https://www.findagrave.com/memorial/195133735/donald-mackay)
+Source Created | 24/Jul/2022 14:17:58
+Source Last Updated | 24/Jul/2022 14:43:54
 
 ## Text
 

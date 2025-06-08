@@ -5,11 +5,14 @@ permalink: /sources/s84348255
 
 # 1880 MCDONALD, JAMES (Statutory Register Deaths 051/ 2)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 17/Jan/1880
+Original Document Date | 17/Jan/1880
 Responsible Agency | National Records of Scotland
 References | 1880 D 051/ 2
+Source Created | 8/Mar/2024 16:23:47
+Source Last Updated | 8/Mar/2024 16:29:49
 
 ## Text
 

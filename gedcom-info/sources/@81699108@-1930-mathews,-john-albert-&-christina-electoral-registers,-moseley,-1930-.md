@@ -5,9 +5,12 @@ permalink: /sources/s81699108
 
 # 1930 MATHEWS, JOHN ALBERT & CHRISTINA (Electoral Registers, Moseley, 1930)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1930
+Original Document Date | 1930
+Source Created | 25/May/2025 23:48:27
+Source Last Updated | 26/May/2025 00:00:46
 
 ## Text
 

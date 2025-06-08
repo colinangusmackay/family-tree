@@ -5,11 +5,14 @@ permalink: /sources/s87990432
 
 # 1897 MCKNIGHT, THOMAS (Statutory Register Deaths 639/ 295)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 9/Aug/1897
+Original Document Date | 9/Aug/1897
 Responsible Agency | National Records of Scotland
 References | 1897 D 639/ 295
+Source Created | 26/Jan/2023 22:08:39
+Source Last Updated | 26/Jan/2023 22:37:25
 
 ## Text
 

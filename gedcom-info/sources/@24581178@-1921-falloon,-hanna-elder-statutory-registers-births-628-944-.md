@@ -5,11 +5,14 @@ permalink: /sources/s24581178
 
 # 1921 FALLOON, HANNA ELDER (Statutory Registers Births 628/ 944)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 20/Dec/1921
+Original Document Date | 20/Dec/1921
 Responsible Agency | National Records of Scotland
 References | 1921 B 628/ 944
+Source Created | 24/Jan/2023 21:03:16
+Source Last Updated | 24/Jan/2023 21:12:32
 
 ## Text
 

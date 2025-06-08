@@ -5,11 +5,14 @@ permalink: /sources/s82632571
 
 # 1903 CUMMING, BARBARA-ANN & MACKAY, DONALD (Statutory Registers Marriage 047/ 5)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 27/Nov/1903
+Original Document Date | 27/Nov/1903
 Responsible Agency | National Records of Scotland
 References | 1903 M 047/ 5
+Source Created | 24/Jul/2022 13:17:00
+Source Last Updated | 24/Jul/2022 13:50:34
 
 ## Text
 

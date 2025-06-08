@@ -5,6 +5,11 @@ permalink: /sources/s17796568
 
 # 1932 STEAD, CYRIL & FAWLEY CLARA (England & Wales, Civil Registration Marriage Index, 1916-2005)
 
+## Metadata
+Field | Detail
+---:|:---
+Source Created | 14/Jun/2022 23:04:30
+Source Last Updated | 14/Jun/2022 23:06:20
 
 ## Text
 

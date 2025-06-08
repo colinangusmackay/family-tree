@@ -5,11 +5,14 @@ permalink: /sources/s24683442
 
 # 1895 MACKAY, KENNETH (Statutory Registers Births 047/9)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 5/Feb/1895
+Original Document Date | 5/Feb/1895
 Responsible Agency | National Records of Scotland
 References | 1895 B 047/9
+Source Created | 3/Jan/2022 17:16:32
+Source Last Updated | 3/Jan/2022 17:27:13
 
 ## Text
 

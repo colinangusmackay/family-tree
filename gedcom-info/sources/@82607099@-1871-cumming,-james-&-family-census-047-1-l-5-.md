@@ -5,10 +5,13 @@ permalink: /sources/s82607099
 
 # 1871 CUMMING, JAMES & FAMILY (Census 047/ 1/L 5)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1871 C 047/ 1/L 5
+Source Created | 10/Jul/2022 18:22:47
+Source Last Updated | 10/Jul/2022 19:13:59
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s44060203
 
 # 1885 CUMMING, BARBARA-ANN (Statutory Register Births 047/  33)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 3/Sep/1885
+Original Document Date | 3/Sep/1885
 Responsible Agency | National Records of Scotland
 References | 1885 B 047/ 33
+Source Created | 24/Jul/2022 12:57:02
+Source Last Updated | 24/Jul/2022 13:03:17
 
 ## Text
 

@@ -5,9 +5,12 @@ permalink: /sources/s15762227
 
 # 1996 CUMMING, CHRISTINE (U.S., Veterans' Gravesites, ca.1775-2019)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | U.S., Veterans' Gravesites, ca.1775-2019
+Source Created | 31/May/2022 21:45:16
+Source Last Updated | 31/May/2022 21:47:49
 
 ## Text
 

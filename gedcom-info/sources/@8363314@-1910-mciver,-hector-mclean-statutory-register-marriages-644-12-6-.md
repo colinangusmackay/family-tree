@@ -5,10 +5,13 @@ permalink: /sources/s8363314
 
 # 1910 MCIVER, HECTOR MCLEAN (Statutory Register Marriages 644/12 6)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | Nation Records of Scotland
 References | 1910 M 644/12 6
+Source Created | 25/Dec/2020 20:02:06
+Source Last Updated | 25/Dec/2020 20:15:41
 
 ## Text
 

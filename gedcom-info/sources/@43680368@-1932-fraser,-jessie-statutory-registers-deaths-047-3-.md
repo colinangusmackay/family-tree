@@ -5,10 +5,13 @@ permalink: /sources/s43680368
 
 # 1932 FRASER, JESSIE (Statutory Registers Deaths 047/3)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1932 D 047/3
+Source Created | 7/Mar/2020 12:57:26
+Source Last Updated | 24/Jun/2022 12:57:40
 
 ## Text
 

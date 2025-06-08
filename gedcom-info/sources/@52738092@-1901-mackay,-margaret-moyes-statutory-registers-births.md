@@ -5,11 +5,14 @@ permalink: /sources/s52738092
 
 # 1901 MACKAY, MARGARET MOYES Statutory registers Births
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 12/Jul/1901
+Original Document Date | 12/Jul/1901
 Responsible Agency | National Records of Scotland
 References | 1901-B-047/41
+Source Created | 5/Jan/2020 15:57:05
+Source Last Updated | 25/Mar/2022 11:15:45
 
 ## Text
 

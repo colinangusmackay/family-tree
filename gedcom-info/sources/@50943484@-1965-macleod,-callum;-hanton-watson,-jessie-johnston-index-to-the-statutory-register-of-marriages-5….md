@@ -5,10 +5,13 @@ permalink: /sources/s50943484
 
 # 1965 X, X; HANTON/WATSON, JESSIE JOHNSTON (Index to the Statutory Register of Marriages 573/1 207)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1965 M 573/1 207
+Source Created | 19/Apr/2024 23:35:39
+Source Last Updated | 19/Apr/2024 23:38:19
 
 ## Text
 

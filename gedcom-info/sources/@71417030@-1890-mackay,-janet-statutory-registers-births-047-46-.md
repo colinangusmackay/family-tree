@@ -5,11 +5,14 @@ permalink: /sources/s71417030
 
 # 1890 MACKAY, JANET (Statutory registers Births 047/46)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 15/Nov/1890
+Original Document Date | 15/Nov/1890
 Responsible Agency | National Records of Scotland
 References | 1890 B 047/46
+Source Created | 2/Mar/2020 13:59:56
+Source Last Updated | 24/Jun/2022 12:58:07
 
 ## Text
 

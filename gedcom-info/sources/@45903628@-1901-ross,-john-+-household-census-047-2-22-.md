@@ -5,11 +5,14 @@ permalink: /sources/s45903628
 
 # 1901 ROSS, JOHN + HOUSEHOLD (Census 047/ 2/ 22)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1901
+Original Document Date | 1901
 Responsible Agency | National Records of Scotland
 References | 1901 C 047/ 2/ 22
+Source Created | 25/May/2025 15:26:58
+Source Last Updated | 25/May/2025 15:54:42
 
 ## Text
 

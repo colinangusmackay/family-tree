@@ -5,11 +5,14 @@ permalink: /sources/s26315820
 
 # 1861 CUMMING, DONALD Statutory registers births 047/19
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 25/Mar/1861
+Original Document Date | 25/Mar/1861
 Responsible Agency | National Records of Scotland
 References | 1871 B 047/19
+Source Created | 25/Jan/2020 14:36:12
+Source Last Updated | 3/Apr/2022 13:43:16
 
 ## Text
 

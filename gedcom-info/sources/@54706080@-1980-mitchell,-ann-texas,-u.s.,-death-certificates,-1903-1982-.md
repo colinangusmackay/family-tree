@@ -5,11 +5,14 @@ permalink: /sources/s54706080
 
 # 1980 MITCHELL, ANN (Texas, U.S., Death Certificates, 1903-1982)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Texas, U.S., Death Certificates, 1903-1982
 Responsible Agency | Texas Department of State Health Services; Austin Texas, USA
 References | (State File Number) 55415
+Source Created | 10/Jul/2022 21:32:40
+Source Last Updated | 10/Jul/2022 22:19:58
 
 ## Text
 

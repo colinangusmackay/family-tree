@@ -5,10 +5,13 @@ permalink: /sources/s47104687
 
 # 1930 GRANT, JEAN & CATHERINE (1930 United States Federal Census)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | 1930 United States Federal Census
-Date | 22/Apr/1930
+Original Document Date | 22/Apr/1930
+Source Created | 1/Jun/2022 21:27:22
+Source Last Updated | 1/Jun/2022 21:37:34
 
 ## Text
 

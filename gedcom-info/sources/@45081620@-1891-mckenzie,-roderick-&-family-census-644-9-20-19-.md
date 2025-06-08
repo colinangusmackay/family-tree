@@ -5,10 +5,13 @@ permalink: /sources/s45081620
 
 # 1891 MCKENZIE, RODERICK & FAMILY (Census 644/9 20/ 19)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1891 C 644/9 20/ 19
+Source Created | 2/Jul/2022 17:51:00
+Source Last Updated | 2/Jul/2022 22:16:14
 
 ## Text
 

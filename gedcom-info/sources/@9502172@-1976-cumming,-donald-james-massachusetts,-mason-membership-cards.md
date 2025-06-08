@@ -5,9 +5,12 @@ permalink: /sources/s9502172
 
 # 1976 CUMMING, DONALD JAMES - Massachusetts, Mason Membership Cards
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1976
+Original Document Date | 1976
+Source Created | 10/Aug/2020 23:19:34
+Source Last Updated | 10/Aug/2020 23:23:40
 
 ## Text
 

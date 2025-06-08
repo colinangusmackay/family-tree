@@ -5,11 +5,14 @@ permalink: /sources/s31539480
 
 # 1921 ROSS, BARBARA MACKAY (Statutory Register of Births)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Feb/1921
+Original Document Date | 11/Feb/1921
 Responsible Agency | National Records of Scotland
 References | 1921 B 052/ 3
+Source Created | 7/Jun/2025 19:27:18
+Source Last Updated | 7/Jun/2025 19:35:17
 
 ## Text
 

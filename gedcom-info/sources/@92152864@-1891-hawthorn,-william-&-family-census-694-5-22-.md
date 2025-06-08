@@ -5,11 +5,14 @@ permalink: /sources/s92152864
 
 # 1891 HAWTHORN, WILLIAM & Family (Census 694/ 5/ 22)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1891
+Original Document Date | 1891
 Responsible Agency | National Records of Scotland
 References | 1891 C 694/ 5/ 22
+Source Created | 19/Jan/2023 19:32:32
+Source Last Updated | 19/Jan/2023 21:40:11
 
 ## Text
 

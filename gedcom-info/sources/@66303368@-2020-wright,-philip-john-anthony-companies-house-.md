@@ -5,10 +5,13 @@ permalink: /sources/s66303368
 
 # 2020 WRIGHT, PHILIP JOHN ANTHONY (Companies House)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | Companies House
 References | (URL) [Open original source at https://find-and-update.company-information.service.gov.uk/officers/iOHs3FIpx2xvlaqPLwc1o2Ab7UI/appointments](https://find-and-update.company-information.service.gov.uk/officers/iOHs3FIpx2xvlaqPLwc1o2Ab7UI/appointments)
+Source Created | 22/Apr/2025 23:19:20
+Source Last Updated | 22/Apr/2025 23:30:01
 
 ## Text
 

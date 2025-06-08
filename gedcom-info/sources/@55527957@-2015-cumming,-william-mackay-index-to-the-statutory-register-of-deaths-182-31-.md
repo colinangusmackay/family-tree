@@ -5,11 +5,14 @@ permalink: /sources/s55527957
 
 # 2015 CUMMING, WILLIAM MACKAY (Index to the Statutory Register of Deaths 182/ 31)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 2015
+Original Document Date | 2015
 Responsible Agency | Nation Records of Scotland
 References | 2015 D 182/ 31
+Source Created | 24/Apr/2025 23:24:02
+Source Last Updated | 24/Apr/2025 23:26:13
 
 ## Text
 

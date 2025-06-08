@@ -5,10 +5,13 @@ permalink: /sources/s27003008
 
 # 1934 CUMMING, DONALD JOHN, Declaration of Intention
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 27/Mar/1934
+Original Document Date | 27/Mar/1934
 Responsible Agency | District Court, Massachusetts
+Source Created | 29/Jan/2020 17:35:41
+Source Last Updated | 24/Mar/2022 14:22:34
 
 ## Text
 

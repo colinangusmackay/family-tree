@@ -5,11 +5,14 @@ permalink: /sources/s48543647
 
 # 1921 HANTON, JOHN (Statutory Register Births 573/1 135)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 22/Jan/1921
+Original Document Date | 22/Jan/1921
 Responsible Agency | National Records of Scotland
 References | 1921 B 573/1 135
+Source Created | 9/Apr/2024 21:36:09
+Source Last Updated | 9/Apr/2024 21:58:53
 
 ## Text
 

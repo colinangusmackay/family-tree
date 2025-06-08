@@ -5,11 +5,14 @@ permalink: /sources/s47462218
 
 # 1941 CAMPBELL, RACHEL (Statutory Register of Deaths 847/ 11)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 23/Jun/1942
+Original Document Date | 23/Jun/1942
 Responsible Agency | National Records of Scotland
 References | 1942 D 847/ 11
+Source Created | 10/May/2025 14:06:55
+Source Last Updated | 10/May/2025 14:15:02
 
 ## Text
 

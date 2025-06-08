@@ -5,10 +5,13 @@ permalink: /sources/s7477392
 
 # 1923 CUMMING, DONALD, JESSIE, THOMASINA - Cambridge Massachusetts City Directory
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Cambridge, Massachusetts, City Directory, 1923
-Date | 1923
+Original Document Date | 1923
+Source Created | 8/Aug/2020 14:54:58
+Source Last Updated | 8/Aug/2020 15:01:42
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s10451888
 
 # 1862 SMITH, RACHEL (Statutory Registers Births 814/110)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1862 B 814/110
+Source Created | 12/Jun/2022 22:22:30
+Source Last Updated | 12/Jun/2022 22:41:16
 
 ## Text
 

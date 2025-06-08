@@ -5,11 +5,14 @@ permalink: /sources/s60498666
 
 # 2020 X, X - Facebook About page
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Facebook.com
 Originator / Author | X X
-Date | 28/May/2020
+Original Document Date | 28/May/2020
+Source Created | 28/May/2020 22:04:02
+Source Last Updated | 24/Mar/2022 15:18:06
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s19457833
 
 # 1910 GILLIE, WILLIAMINA (statutory registers births 047/19)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 2/May/1910
+Original Document Date | 2/May/1910
 Responsible Agency | National Records of Scotland
 References | 1910 B 047/19
+Source Created | 12/Jan/2020 15:30:59
+Source Last Updated | 24/Jun/2022 12:59:13
 
 ## Text
 

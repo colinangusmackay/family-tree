@@ -5,11 +5,14 @@ permalink: /sources/s20366636
 
 # 1979 MACKAY, WILLIAM ALEXANDER (Passport)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 7/Feb/1979
+Original Document Date | 7/Feb/1979
 Responsible Agency | Passport Office
 References | (Passport Number) G102330A
+Source Created | 9/Oct/2024 21:26:09
+Source Last Updated | 12/Oct/2024 15:00:48
 
 ## Text
 

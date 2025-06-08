@@ -5,11 +5,14 @@ permalink: /sources/s62364534
 
 # 1901 GILCHRIST, ALEXANDER; SLOAN, MARY (Statutory Register of Marriages 622/1 187)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 19/Aug/1901
+Original Document Date | 19/Aug/1901
 Responsible Agency | National Registers of Scotland
 References | 1901 M 622/1 187
+Source Created | 13/May/2025 22:34:35
+Source Last Updated | 13/May/2025 23:10:50
 
 ## Text
 

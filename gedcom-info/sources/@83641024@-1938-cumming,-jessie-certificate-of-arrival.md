@@ -5,10 +5,13 @@ permalink: /sources/s83641024
 
 # 1938 CUMMING, JESSIE - Certificate of Arrival
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Jul/1938
+Original Document Date | 11/Jul/1938
 Responsible Agency | U.S. Department of Labour, Immigration and Naturalisation Service
+Source Created | 8/Aug/2020 12:52:16
+Source Last Updated | 8/Aug/2020 12:55:46
 
 ## Text
 

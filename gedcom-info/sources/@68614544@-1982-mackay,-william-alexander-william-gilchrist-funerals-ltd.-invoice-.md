@@ -5,11 +5,14 @@ permalink: /sources/s68614544
 
 # 1982 X, X ALEXANDER (X Gilchrist Funerals Ltd. Invoice)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 4/Oct/1982
+Original Document Date | 4/Oct/1982
 Responsible Agency | WIlliam Gilchrist (Funerals) Ltd.
 References | C/922/N
+Source Created | 25/Apr/2025 20:37:10
+Source Last Updated | 25/Apr/2025 23:49:55
 
 ## Text
 

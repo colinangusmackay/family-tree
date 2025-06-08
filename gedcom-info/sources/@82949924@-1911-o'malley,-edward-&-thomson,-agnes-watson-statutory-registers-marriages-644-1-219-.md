@@ -5,11 +5,14 @@ permalink: /sources/s82949924
 
 # 1911 O'MALLEY, EDWARD & THOMSON, AGNES WATSON (Statutory Registers Marriages 644/1 219)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 2/Dec/1911
+Original Document Date | 2/Dec/1911
 Responsible Agency | National Records of Scotland
 References | 1911 M 644/1 219
+Source Created | 16/Jul/2022 14:20:11
+Source Last Updated | 30/Jan/2023 21:14:07
 
 ## Text
 

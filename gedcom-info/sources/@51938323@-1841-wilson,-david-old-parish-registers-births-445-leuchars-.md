@@ -5,10 +5,13 @@ permalink: /sources/s51938323
 
 # 1841 WILSON, DAVID (Old Parish Registers Births 445/ Leuchars)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1841
+Original Document Date | 1841
 Responsible Agency | National Records of Scotland
+Source Created | 28/Apr/2024 14:38:48
+Source Last Updated | 28/Apr/2024 14:55:21
 
 ## Text
 

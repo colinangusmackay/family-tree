@@ -5,10 +5,13 @@ permalink: /sources/s9213
 
 # 1901 MACKAY, BARBARA & FAMILY (Census 047/2/15)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1901 C 047/2/15
+Source Created | 4/Jun/2022 11:00:36
+Source Last Updated | 24/Jun/2022 12:50:52
 
 ## Text
 

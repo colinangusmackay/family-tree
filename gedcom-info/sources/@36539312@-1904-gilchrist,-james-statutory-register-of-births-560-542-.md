@@ -5,12 +5,15 @@ permalink: /sources/s36539312
 
 # 1904 GILCHRIST, JAMES (Statutory Register of Births 560/ 542)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Statutory Register Births
-Date | 29/Sep/1904
+Original Document Date | 29/Sep/1904
 Responsible Agency | National Records of Scotland
 References | 1904 B 560/ 542
+Source Created | 12/May/2025 22:00:48
+Source Last Updated | 12/May/2025 22:10:08
 
 ## Text
 

@@ -5,9 +5,12 @@ permalink: /sources/s17071617
 
 # 1931 MACKAY, WILLIAM ALEXANDER - Incomming Passenger Lists, Glasgow Scotland
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 6/Dec/1931
+Original Document Date | 6/Dec/1931
+Source Created | 19/Jul/2020 16:48:55
+Source Last Updated | 29/Mar/2022 18:54:11
 
 ## Text
 

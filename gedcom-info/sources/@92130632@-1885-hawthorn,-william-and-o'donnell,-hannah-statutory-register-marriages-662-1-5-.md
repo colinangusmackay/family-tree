@@ -5,11 +5,14 @@ permalink: /sources/s92130632
 
 # 1885 HAWTHORN, WILLIAM and O'DONNELL, HANNAH (Statutory Register Marriages 662/1 5)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 3/Jan/1885
+Original Document Date | 3/Jan/1885
 Responsible Agency | National Records of Scotland
 References | 1885 M 662/1 5
+Source Created | 18/Jan/2023 22:03:49
+Source Last Updated | 19/Jan/2023 21:49:55
 
 ## Text
 

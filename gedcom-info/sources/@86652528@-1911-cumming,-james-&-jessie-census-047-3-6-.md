@@ -5,11 +5,14 @@ permalink: /sources/s86652528
 
 # 1911 CUMMING, JAMES & JESSIE (Census 047/ 3/ 6)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1911
+Original Document Date | 1911
 Responsible Agency | National Records of Scotland
 References | 1911 C 047/ 3/ 6
+Source Created | 24/Jul/2022 15:10:17
+Source Last Updated | 24/Jul/2022 15:20:33
 
 ## Text
 

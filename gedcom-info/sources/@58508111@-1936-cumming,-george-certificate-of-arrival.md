@@ -5,11 +5,14 @@ permalink: /sources/s58508111
 
 # 1936 CUMMING, GEORGE - Certificate of Arrival
 
+## Metadata
 Field | Detail
 ---:|:---
 Originator / Author | Byron H. Uhl
 Responsible Agency | US Department of Labour, Immigration and Naturalization Service
 References | 1 175660
+Source Created | 17/Jul/2020 17:50:43
+Source Last Updated | 17/Jul/2020 17:56:18
 
 ## Text
 

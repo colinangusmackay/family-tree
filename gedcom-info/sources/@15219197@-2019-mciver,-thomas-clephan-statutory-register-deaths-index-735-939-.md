@@ -5,10 +5,13 @@ permalink: /sources/s15219197
 
 # 2019 MCIVER, THOMAS CLEPHAN (Statutory Register Deaths Index 735/ 939)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 2019 D 735/ 939
+Source Created | 28/Jun/2022 16:23:15
+Source Last Updated | 28/Jun/2022 16:24:54
 
 ## Text
 

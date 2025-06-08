@@ -5,11 +5,14 @@ permalink: /sources/s15948608
 
 # 1871 MACKAY, KENNETH & HOUSEHOLD (Census 047/ 1/L 11)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1871
+Original Document Date | 1871
 Responsible Agency | National Records of Scotland
 References | 1871 C 047/ 1/L 11
+Source Created | 4/Jun/2025 19:45:29
+Source Last Updated | 4/Jun/2025 20:43:30
 
 ## Text
 

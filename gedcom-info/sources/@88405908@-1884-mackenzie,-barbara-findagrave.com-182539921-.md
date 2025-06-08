@@ -5,10 +5,13 @@ permalink: /sources/s88405908
 
 # 1884 MACKENZIE, BARBARA (FindAGrave.com 182539921)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
 References | (URL) [Open original source at https://www.findagrave.com/memorial/182539921/barbara-paterson](https://www.findagrave.com/memorial/182539921/barbara-paterson)
+Source Created | 4/Jul/2022 23:10:33
+Source Last Updated | 4/Jul/2022 23:32:15
 
 ## Text
 

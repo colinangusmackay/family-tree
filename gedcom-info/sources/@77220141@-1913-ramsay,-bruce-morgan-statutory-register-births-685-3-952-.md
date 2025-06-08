@@ -5,11 +5,14 @@ permalink: /sources/s77220141
 
 # 1913 RAMSAY, BRUCE MORGAN (Statutory Register Births 685/3 952)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 30/Oct/1913
+Original Document Date | 30/Oct/1913
 Responsible Agency | National Records of Scotland
 References | 1913 B 685/3 952
+Source Created | 27/Dec/2022 15:18:51
+Source Last Updated | 27/Dec/2022 15:28:16
 
 ## Text
 

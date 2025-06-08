@@ -5,11 +5,14 @@ permalink: /sources/s4000218
 
 # 1937 STEAD, NORMAN - Birth - FamilySearch.org
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | FamilySearch.org
-Date | from 1937 to 2008
+Original Document Date | from 1937 to 2008
 References | (URL) [Open original source at https://www.familysearch.org/ark:/61903/1:1:QVQX-NBGM](https://www.familysearch.org/ark:/61903/1:1:QVQX-NBGM)
+Source Created | 5/Jul/2020 14:04:21
+Source Last Updated | 5/Jul/2020 14:07:58
 
 ## Text
 

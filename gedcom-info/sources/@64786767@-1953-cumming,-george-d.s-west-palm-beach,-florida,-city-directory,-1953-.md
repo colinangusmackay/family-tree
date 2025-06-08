@@ -5,9 +5,12 @@ permalink: /sources/s64786767
 
 # 1953 CUMMING, GEORGE D.S (West Palm Beach, Florida, City Directory, 1953)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1953
+Original Document Date | 1953
+Source Created | 31/May/2022 21:05:57
+Source Last Updated | 31/May/2022 21:16:24
 
 ## Text
 

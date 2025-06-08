@@ -5,11 +5,14 @@ permalink: /sources/s48209885
 
 # 1863 GRANT, HUGH (Statutory Registers Births 047/7)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 7/Mar/1863
+Original Document Date | 7/Mar/1863
 Responsible Agency | National Records of Scotland
 References | 1863 B 047/7
+Source Created | 1/Jun/2022 15:36:36
+Source Last Updated | 24/Jun/2022 12:51:37
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s66595592
 
 # 1878 MACIVER, RODERICK (Statutory Register of Deaths 066/1 15)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 21/Oct/1878
+Original Document Date | 21/Oct/1878
 Responsible Agency | National Records of Scotland
 References | 1878 D 066/1 15
+Source Created | 26/May/2025 20:05:29
+Source Last Updated | 26/May/2025 20:16:37
 
 ## Text
 

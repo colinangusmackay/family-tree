@@ -5,10 +5,13 @@ permalink: /sources/s20289898
 
 # 1969 X, X - Facebook Profile, About, Contact and Basic Info
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Facebook.com
-Date | 26/May/2020
+Original Document Date | 26/May/2020
+Source Created | 26/May/2020 17:04:29
+Source Last Updated | 24/Mar/2022 14:15:38
 
 ## Text
 

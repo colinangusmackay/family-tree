@@ -5,11 +5,14 @@ permalink: /sources/s59937852
 
 # 1922 NAPIER, Alexander (Rosyth Dockyard Employee Books)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Rosyth, Fife, Scotland, Dockyard Employee Books, 1892-1967
-Date | 1922
+Original Document Date | 1922
 Responsible Agency | Rosyth Dockyard Employmee Books, Fife Library and Archives Services, Fife, Scotland.
+Source Created | 21/Jan/2023 12:11:03
+Source Last Updated | 21/Jan/2023 12:26:11
 
 ## Text
 

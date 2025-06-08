@@ -5,11 +5,14 @@ permalink: /sources/s48792801
 
 # 1930 WATSON, JOHN BLUE; HANTON, JESSIE JOHNSTONE (Statutory Registers of Marriages 573/1 70)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Feb/1930
+Original Document Date | 11/Feb/1930
 Responsible Agency | National Re
 References | 1930 M 573/1 70
+Source Created | 19/Apr/2024 20:20:02
+Source Last Updated | 19/Apr/2024 20:44:46
 
 ## Text
 

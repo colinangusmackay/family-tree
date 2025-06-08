@@ -5,10 +5,13 @@ permalink: /sources/s44478256
 
 # 2015 MCIVER, HELEN (EILEEN) - Edinburgh Evening News (via Legacy.com)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | [https://www.legacy.com/obituaries/edinburghnews-scotsman-uk/obituary.aspx?n=helen-mciver&pid=184674213](https://www.legacy.com/obituaries/edinburghnews-scotsman-uk/obituary.aspx?n=helen-mciver&pid=184674213)
-Date | 19/Oct/2015
+Original Document Date | 19/Oct/2015
+Source Created | 24/Jan/2021 22:15:04
+Source Last Updated | 24/Jan/2021 22:17:48
 
 ## Text
 

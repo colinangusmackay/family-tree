@@ -5,11 +5,14 @@ permalink: /sources/s72423442
 
 # 1889 O'MALLEY, MICHAEL & MCBRIDE, CATHERINE (Statutory Registers Marriages 644/11 111)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 29/Apr/1889
+Original Document Date | 29/Apr/1889
 Responsible Agency | National Records of Scotland
 References | 1889 M 644/11 111
+Source Created | 16/Jul/2022 17:04:31
+Source Last Updated | 16/Jul/2022 17:15:49
 
 ## Text
 

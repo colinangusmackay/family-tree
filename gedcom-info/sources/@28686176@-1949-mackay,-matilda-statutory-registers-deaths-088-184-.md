@@ -5,11 +5,14 @@ permalink: /sources/s28686176
 
 # 1949 MACKAY, MATILDA (Statutory Registers Deaths 088/184)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 10/Nov/1949
+Original Document Date | 10/Nov/1949
 Responsible Agency | National Records of Scotland
 References | 1949 D 088/184
+Source Created | 2/Jan/2022 23:11:11
+Source Last Updated | 2/Jan/2022 23:20:06
 
 ## Text
 

@@ -5,6 +5,11 @@ permalink: /sources/s32256946
 
 # 1978 CUMMING, JESSIE ANN - Florida Death Index
 
+## Metadata
+Field | Detail
+---:|:---
+Source Created | 21/Jul/2020 21:48:47
+Source Last Updated | 21/Jul/2020 21:50:15
 
 ## Text
 

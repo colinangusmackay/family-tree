@@ -5,10 +5,13 @@ permalink: /sources/s29817066
 
 # 1920 RAMSAY, JOHN (Statutory Register Deaths 685/5 634)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1920 D 685/5 634
+Source Created | 3/Jul/2022 14:22:47
+Source Last Updated | 3/Jul/2022 14:34:38
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s71013758
 
 # 1863 CUMMING, MARION (Statutory Register Births 047/ 26)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 21/May/1863
+Original Document Date | 21/May/1863
 Responsible Agency | National Records of Scotland
 References | 1863 B 047/ 26
+Source Created | 30/Aug/2020 21:51:36
+Source Last Updated | 10/Jul/2022 21:04:38
 
 ## Text
 

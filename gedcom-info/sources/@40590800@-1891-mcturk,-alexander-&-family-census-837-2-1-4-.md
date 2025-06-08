@@ -5,10 +5,13 @@ permalink: /sources/s40590800
 
 # 1891 MCTURK, ALEXANDER & FAMILY (Census 837/2 1/4)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1891 C 837/2 1/4
+Source Created | 12/Jun/2022 16:10:44
+Source Last Updated | 20/Apr/2025 21:31:48
 
 ## Text
 

@@ -5,11 +5,14 @@ permalink: /sources/s70397234
 
 # 1920 MATHEWS, GEORGE (Statutory Register of Births 669/2 58)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 21/Jul/1920
+Original Document Date | 21/Jul/1920
 Responsible Agency | National Records of Scotland
 References | 1920 B 669/2 58
+Source Created | 25/May/2025 23:36:25
+Source Last Updated | 25/May/2025 23:43:24
 
 ## Text
 

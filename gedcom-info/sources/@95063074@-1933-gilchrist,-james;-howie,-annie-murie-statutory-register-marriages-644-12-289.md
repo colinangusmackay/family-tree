@@ -5,11 +5,14 @@ permalink: /sources/s95063074
 
 # 1933 GILCHRIST, JAMES; HOWIE, ANNIE MURIE (Statutory Register Marriages 644/ 12 289
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 5/Sep/1933
+Original Document Date | 5/Sep/1933
 Responsible Agency | National Records of Scotland
 References | 1933 M 644/ 12 289
+Source Created | 8/Dec/2024 20:26:37
+Source Last Updated | 8/Dec/2024 21:16:49
 
 ## Text
 

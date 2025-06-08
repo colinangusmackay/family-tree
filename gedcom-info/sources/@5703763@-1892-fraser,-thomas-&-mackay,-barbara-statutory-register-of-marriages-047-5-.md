@@ -5,11 +5,14 @@ permalink: /sources/s5703763
 
 # 1892 FRASER, THOMAS & MACKAY, BARBARA (Statutory Register of Marriages 047/ 5)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 9/Nov/1892
+Original Document Date | 9/Nov/1892
 Responsible Agency | National Records of Scotland
 References | 1891 M 042/ 5
+Source Created | 5/Jun/2025 22:57:24
+Source Last Updated | 5/Jun/2025 23:14:46
 
 ## Text
 

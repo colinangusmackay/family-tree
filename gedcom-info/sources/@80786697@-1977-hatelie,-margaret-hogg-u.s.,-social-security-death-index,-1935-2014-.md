@@ -5,9 +5,12 @@ permalink: /sources/s80786697
 
 # 1977 HATELIE, MARGARET HOGG (U.S., Social Security Death Index, 1935-2014)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | U.S., Social Security Death Index, 1935-2014
+Source Created | 31/May/2022 21:25:26
+Source Last Updated | 31/May/2022 21:30:03
 
 ## Text
 

@@ -5,13 +5,16 @@ permalink: /sources/s17489530
 
 # P113 Embo - genealogy, Uncle Sandy's Story and a little history
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Embo - genealogy, Uncle Sandy's Story and a little history
 Originator / Author | Catriona Grigg
-Date | 2016
+Original Document Date | 2016
 Filed by Entry | EMBO/P113/F9.2
 References | (ISBN) 978-1-910205-49-5
+Source Created | 26/Apr/2020 12:26:26
+Source Last Updated | 3/Jun/2020 12:08:18
 
 ## Text
 

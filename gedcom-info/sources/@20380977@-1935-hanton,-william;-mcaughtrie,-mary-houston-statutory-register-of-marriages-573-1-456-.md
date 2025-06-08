@@ -5,11 +5,14 @@ permalink: /sources/s20380977
 
 # 1935 HANTON, X; MCAUGHTRIE, MARY HOUSTON (Statutory Register of Marriages 573/1 456)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 31/Jul/1935
+Original Document Date | 31/Jul/1935
 Responsible Agency | National Records of Scotland
 References | 1935 M 573/1 456
+Source Created | 10/Apr/2024 22:10:05
+Source Last Updated | 10/Apr/2024 22:33:21
 
 ## Text
 

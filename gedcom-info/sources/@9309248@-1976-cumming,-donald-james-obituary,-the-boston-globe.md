@@ -5,10 +5,13 @@ permalink: /sources/s9309248
 
 # 1976 X, DONALD JAMES - Obituary, The Boston Globe
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | The Boston Globe
-Date | 17/Jan/1976
+Original Document Date | 17/Jan/1976
+Source Created | 10/Aug/2020 23:25:18
+Source Last Updated | 10/Aug/2020 23:30:32
 
 ## Text
 

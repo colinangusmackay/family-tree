@@ -5,12 +5,15 @@ permalink: /sources/s80113535
 
 # STEAD, NORMAN - Ancestry.co.uk life story from Family Tree of Karen Robb
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Ancestry.co.uk
 Originator / Author | Karen Robb
-Date | 5/Jul/2020
+Original Document Date | 5/Jul/2020
 References | (URL) [Open original source at https://www.ancestry.co.uk/family-tree/person/tree/105855969/person/390070559867/story](https://www.ancestry.co.uk/family-tree/person/tree/105855969/person/390070559867/story)
+Source Created | 5/Jul/2020 17:21:02
+Source Last Updated | 24/Mar/2022 15:30:59
 
 ## Text
 

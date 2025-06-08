@@ -5,10 +5,13 @@ permalink: /sources/s23925058
 
 # 1881 FISHER, HELEN CURRIE (Statutory Register Births 644/11 2359)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 19/Dec/1881
+Original Document Date | 19/Dec/1881
 Responsible Agency | National Records of Scotland
+Source Created | 25/Mar/2022 17:08:05
+Source Last Updated | 24/Jun/2022 12:53:08
 
 ## Text
 

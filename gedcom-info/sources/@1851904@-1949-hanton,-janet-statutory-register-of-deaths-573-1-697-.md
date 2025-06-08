@@ -5,11 +5,14 @@ permalink: /sources/s1851904
 
 # 1949 HANTON, JANET (Statutory Register of Deaths 573/1 697)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 30/Jun/1949
+Original Document Date | 30/Jun/1949
 Responsible Agency | National Records of Scotland
 References | 1949 D 573/1 697
+Source Created | 20/Apr/2024 19:03:25
+Source Last Updated | 20/Apr/2024 19:13:59
 
 ## Text
 

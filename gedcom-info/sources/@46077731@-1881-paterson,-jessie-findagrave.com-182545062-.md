@@ -5,10 +5,13 @@ permalink: /sources/s46077731
 
 # 1881 PATERSON, JESSIE (FindAGrave.com 182545062)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | FindAGrave.com
 References | (URL) [Open original source at https://www.findagrave.com/memorial/182545062/jessie-paterson](https://www.findagrave.com/memorial/182545062/jessie-paterson)
+Source Created | 4/Jul/2022 23:15:00
+Source Last Updated | 4/Jul/2022 23:16:39
 
 ## Text
 

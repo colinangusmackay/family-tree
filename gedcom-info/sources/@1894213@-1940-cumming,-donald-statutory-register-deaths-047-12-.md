@@ -5,11 +5,14 @@ permalink: /sources/s1894213
 
 # 1940 CUMMING, DONALD (Statutory Register Deaths 047/12)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 28/Feb/1928
+Original Document Date | 28/Feb/1928
 Responsible Agency | National Records of Scotland
 References | 1940 D 047/12
+Source Created | 27/Feb/2022 15:07:12
+Source Last Updated | 24/Jun/2022 12:54:19
 
 ## Text
 

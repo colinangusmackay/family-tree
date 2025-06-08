@@ -5,10 +5,13 @@ permalink: /sources/s17539604
 
 # 1953 X, X X: Statutory Registers - Births Index
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1953 B 685/3 1404
+Source Created | 15/May/2020 15:25:53
+Source Last Updated | 15/May/2020 15:29:25
 
 ## Text
 

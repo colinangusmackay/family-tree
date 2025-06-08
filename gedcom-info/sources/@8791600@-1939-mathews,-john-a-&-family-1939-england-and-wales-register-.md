@@ -5,11 +5,14 @@ permalink: /sources/s8791600
 
 # 1939 X, JOHN A & FAMILY (1939 England and Wales Register)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | 1939 England and Wales Register
 Responsible Agency | The National Archives; Kew, London, England
 References | Rg 101/5510i
+Source Created | 23/Jun/2022 22:00:54
+Source Last Updated | 23/Jun/2022 22:13:58
 
 ## Text
 

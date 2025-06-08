@@ -5,11 +5,14 @@ permalink: /sources/s82693220
 
 # 1920 CUMMING, JESSIE ANN (Statutory Register of Births 047/ 34)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 7/Jul/1920
+Original Document Date | 7/Jul/1920
 Responsible Agency | National Records of Scotland
 References | 1920 B 047/ 34
+Source Created | 2/Aug/2020 21:26:05
+Source Last Updated | 17/May/2025 22:15:53
 
 ## Text
 

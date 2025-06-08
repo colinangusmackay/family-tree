@@ -5,11 +5,14 @@ permalink: /sources/s73944120
 
 # 1922 HANTON, JAMES (Statutory Register of Deaths 573/1 789)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 21/Apr/1922
+Original Document Date | 21/Apr/1922
 Responsible Agency | National Records of Scotland
 References | 1922 D 573/1 789
+Source Created | 20/Apr/2024 13:49:31
+Source Last Updated | 20/Apr/2024 15:17:54
 
 ## Text
 

@@ -5,9 +5,12 @@ permalink: /sources/s25553316
 
 # 1915 CUMMINGS, JAMES (Petition for Naturalization)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 26/Apr/1915
+Original Document Date | 26/Apr/1915
+Source Created | 18/Jun/2022 20:04:47
+Source Last Updated | 18/Jun/2022 23:27:53
 
 ## Text
 

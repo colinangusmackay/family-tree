@@ -5,11 +5,14 @@ permalink: /sources/s71569491
 
 # 1862 MACKAY, ISABELLA (Statutory Register of Deaths)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 29/Dec/1862
+Original Document Date | 29/Dec/1862
 Responsible Agency | National Records of Scotland
 References | 1862 D 047/ 50
+Source Created | 1/Jun/2025 22:40:37
+Source Last Updated | 1/Jun/2025 22:48:49
 
 ## Text
 

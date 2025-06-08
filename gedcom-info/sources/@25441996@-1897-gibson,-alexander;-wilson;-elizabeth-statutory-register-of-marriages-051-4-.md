@@ -5,11 +5,14 @@ permalink: /sources/s25441996
 
 # 1897 GIBSON, ALEXANDER; WILSON; ELIZABETH (Statutory Register of Marriages 051/ 4)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 17/Jun/1897
+Original Document Date | 17/Jun/1897
 Responsible Agency | National Records of Scotland
 References | 1897 M 051/ 4
+Source Created | 27/Apr/2024 15:21:59
+Source Last Updated | 27/Apr/2024 15:37:00
 
 ## Text
 

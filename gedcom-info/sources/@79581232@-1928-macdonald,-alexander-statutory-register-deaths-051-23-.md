@@ -5,11 +5,14 @@ permalink: /sources/s79581232
 
 # 1928 MACDONALD, ALEXANDER (Statutory Register Deaths 051/ 23)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 10/Sep/1928
+Original Document Date | 10/Sep/1928
 Responsible Agency | National Records of Scotland
 References | 1928 D 051/ 23
+Source Created | 8/Mar/2024 15:54:17
+Source Last Updated | 8/Mar/2024 16:02:16
 
 ## Text
 

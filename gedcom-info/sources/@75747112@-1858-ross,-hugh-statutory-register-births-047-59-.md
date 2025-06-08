@@ -5,11 +5,14 @@ permalink: /sources/s75747112
 
 # 1858 ROSS, HUGH (Statutory Register Births 047/ 59)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 18/Oct/1858
+Original Document Date | 18/Oct/1858
 Responsible Agency | National Records of Scotland
 References | 1858 B 047/ 59
+Source Created | 8/Mar/2024 22:41:41
+Source Last Updated | 8/Mar/2024 22:47:50
 
 ## Text
 

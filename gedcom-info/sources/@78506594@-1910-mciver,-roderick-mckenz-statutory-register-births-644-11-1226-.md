@@ -5,11 +5,14 @@ permalink: /sources/s78506594
 
 # 1910 MCIVER, RODERICK MCKENZ (Statutory Register Births 644/11 1226)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Nov/1911
+Original Document Date | 11/Nov/1911
 Responsible Agency | National Records of Scotland
 References | 1910 B 644/11 1226
+Source Created | 27/Dec/2020 23:02:57
+Source Last Updated | 27/Dec/2020 23:08:06
 
 ## Text
 

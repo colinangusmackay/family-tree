@@ -5,10 +5,13 @@ permalink: /sources/s30287136
 
 # 1981 HANTON, JESSIE JOHNSTON (Index to the Statutory Register of Deaths)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1981 D 643/ 314
+Source Created | 18/Apr/2024 22:19:43
+Source Last Updated | 19/Apr/2024 23:39:58
 
 ## Text
 

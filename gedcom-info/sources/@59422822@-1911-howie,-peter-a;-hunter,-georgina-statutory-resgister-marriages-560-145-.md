@@ -5,11 +5,14 @@ permalink: /sources/s59422822
 
 # 1911 HOWIE, PETER A; HUNTER, GEORGINA (Statutory Resgister Marriages 560/ 145)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Sep/1911
+Original Document Date | 11/Sep/1911
 Responsible Agency | National Records of Scotland
 References | 1911 M 560/ 145
+Source Created | 8/Dec/2024 21:17:58
+Source Last Updated | 8/Dec/2024 21:52:23
 
 ## Text
 

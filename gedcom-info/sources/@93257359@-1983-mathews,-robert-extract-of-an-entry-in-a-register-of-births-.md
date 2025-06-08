@@ -5,10 +5,13 @@ permalink: /sources/s93257359
 
 # 1983 X, X (Extract of an Entry in a REGISTER of BIRTHS)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | General Registers Office
 References | 1983 B 772/209
+Source Created | 7/May/2020 23:58:47
+Source Last Updated | 8/May/2020 00:04:37
 
 ## Text
 

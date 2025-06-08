@@ -5,11 +5,14 @@ permalink: /sources/s99493120
 
 # 1860 MACKAY, ISABELLA (Scotland Births and Baptisms, 1564-1950)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Scotland Births and Baptisms, 1564-1950
 Responsible Agency | FamilySearch
 References | (URL) [Open original source at https://www.familysearch.org/ark:/61903/1:1:FQ4S-HZ9](https://www.familysearch.org/ark:/61903/1:1:FQ4S-HZ9)
+Source Created | 8/Jul/2022 22:59:06
+Source Last Updated | 8/Jul/2022 23:01:17
 
 ## Text
 

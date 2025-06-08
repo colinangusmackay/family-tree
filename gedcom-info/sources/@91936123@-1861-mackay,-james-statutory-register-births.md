@@ -5,12 +5,15 @@ permalink: /sources/s91936123
 
 # 1861 MACKAY, JAMES - Statutory Register Births
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Statutory Register Births
-Date | 15/Apr/1861
+Original Document Date | 15/Apr/1861
 Responsible Agency | National Records of Scotland
 References | 1861 B 047/25
+Source Created | 23/Aug/2020 12:25:31
+Source Last Updated | 30/May/2025 23:42:19
 
 ## Text
 

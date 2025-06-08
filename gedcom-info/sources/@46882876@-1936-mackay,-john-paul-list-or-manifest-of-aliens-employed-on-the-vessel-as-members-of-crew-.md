@@ -5,9 +5,12 @@ permalink: /sources/s46882876
 
 # 1936 MACKAY, JOHN PAUL (List or manifest of aliens employed on the vessel as members of crew)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 4/Mar/1936
+Original Document Date | 4/Mar/1936
+Source Created | 31/May/2022 12:56:43
+Source Last Updated | 31/May/2022 13:07:01
 
 ## Text
 

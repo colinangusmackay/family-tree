@@ -5,11 +5,14 @@ permalink: /sources/s74407506
 
 # 1871 ROSS, ALEXANDER & HOUSEHOLD (Census 047/ 1/L 9 - Schedule 44)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1871
+Original Document Date | 1871
 Responsible Agency | National Records of Scotland
 References | 1871 C 047/ 1/L 9 (44)
+Source Created | 8/Mar/2024 21:15:06
+Source Last Updated | 8/Mar/2024 23:14:44
 
 ## Text
 

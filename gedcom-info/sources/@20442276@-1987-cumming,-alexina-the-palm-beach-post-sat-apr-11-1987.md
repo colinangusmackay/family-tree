@@ -5,9 +5,12 @@ permalink: /sources/s20442276
 
 # 1987 CUMMING, ALEXINA - The Palm Beach Post Sat Apr 11 1987
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 11/Apr/1987
+Original Document Date | 11/Apr/1987
+Source Created | 17/Aug/2020 20:12:13
+Source Last Updated | 17/Aug/2020 20:33:56
 
 ## Text
 

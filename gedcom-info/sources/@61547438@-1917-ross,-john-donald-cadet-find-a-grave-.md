@@ -5,9 +5,12 @@ permalink: /sources/s61547438
 
 # 1917 ROSS, JOHN DONALD Cadet (Find a Grave)
 
+## Metadata
 Field | Detail
 ---:|:---
 References | (URL) [Open original source at https://www.findagrave.com/memorial/15371569/john-donald-ross](https://www.findagrave.com/memorial/15371569/john-donald-ross)
+Source Created | 25/May/2025 20:51:49
+Source Last Updated | 25/May/2025 21:02:47
 
 ## Text
 

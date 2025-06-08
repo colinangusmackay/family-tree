@@ -5,10 +5,13 @@ permalink: /sources/s42105900
 
 # 1838 MACKAY, GEORGE  & MATHESON, LUCY (Old Parish Records)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 1838
+Original Document Date | 1838
 Responsible Agency | National Records of Scotland
+Source Created | 31/May/2025 23:01:58
+Source Last Updated | 31/May/2025 23:10:16
 
 ## Text
 

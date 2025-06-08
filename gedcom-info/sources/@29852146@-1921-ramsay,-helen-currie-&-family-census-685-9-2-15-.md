@@ -5,11 +5,14 @@ permalink: /sources/s29852146
 
 # 1921 RAMSAY, HELEN CURRIE & Family (Census 685/9 2/ 15)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 19/Jun/1921
+Original Document Date | 19/Jun/1921
 Responsible Agency | National Records of Scotland
 References | 1921 C 685/9 2/ 15
+Source Created | 26/Dec/2022 17:00:33
+Source Last Updated | 28/Jan/2023 20:03:06
 
 ## Text
 

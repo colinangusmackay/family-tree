@@ -5,10 +5,13 @@ permalink: /sources/s70778838
 
 # 1898 FRASER, ALEXANDER (statutory registers births 047/49)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1898 B 047/49
+Source Created | 1/Feb/2020 14:35:06
+Source Last Updated | 3/Apr/2022 21:34:01
 
 ## Text
 

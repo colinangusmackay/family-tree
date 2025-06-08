@@ -5,9 +5,12 @@ permalink: /sources/s80358309
 
 # 1920 ROBERTS, FRED & FAMILY (1920 United States Federal Census)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | 1920 United States Federal Census
+Source Created | 13/Jul/2022 21:01:53
+Source Last Updated | 13/Jul/2022 21:14:48
 
 ## Text
 

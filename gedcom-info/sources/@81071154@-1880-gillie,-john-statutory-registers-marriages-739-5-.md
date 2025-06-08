@@ -5,11 +5,14 @@ permalink: /sources/s81071154
 
 # 1880 GILLIE, JOHN (Statutory Registers Marriages 739/5)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 27/May/1880
+Original Document Date | 27/May/1880
 Responsible Agency | National Records of Scotland
 References | 1880 M 739/5
+Source Created | 8/Jan/2022 00:20:20
+Source Last Updated | 8/Jan/2022 00:31:57
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s22481351
 
 # 1967 X, X X (Ohio, U.S., Birth Index, 1908-1998)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Ohio Department of Health, Index to Annual Births, 1968-1998
 Responsible Agency | Ohio Department of Health, State Vital Statistics Unit; Columbus, OH, USA
+Source Created | 14/Jul/2022 23:44:11
+Source Last Updated | 14/Jul/2022 23:47:31
 
 ## Text
 

@@ -5,9 +5,12 @@ permalink: /sources/s92574284
 
 # 1939 X, X & SIMONET, VIRGINIA (Connecticut, U.S., Marriage Records, 1897-1968)
 
+## Metadata
 Field | Detail
 ---:|:---
 Publication | Connecticut, U.S., Marriage Records, 1897-1968
+Source Created | 3/Jun/2022 10:10:55
+Source Last Updated | 3/Jun/2022 10:12:32
 
 ## Text
 

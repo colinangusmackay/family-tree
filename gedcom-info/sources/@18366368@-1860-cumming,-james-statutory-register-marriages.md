@@ -5,11 +5,14 @@ permalink: /sources/s18366368
 
 # 1860 CUMMING, JAMES - Statutory Register Marriages
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 22/Feb/1860
+Original Document Date | 22/Feb/1860
 Responsible Agency | National Records of Scotland
 References | 1860 M 047/4
+Source Created | 30/Aug/2020 16:51:41
+Source Last Updated | 30/Aug/2020 17:04:11
 
 ## Text
 

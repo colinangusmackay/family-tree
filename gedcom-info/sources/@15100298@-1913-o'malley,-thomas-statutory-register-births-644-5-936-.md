@@ -5,11 +5,14 @@ permalink: /sources/s15100298
 
 # 1913 O'MALLEY, THOMAS (Statutory Register Births 644/5 936)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 22/Sep/1913
+Original Document Date | 22/Sep/1913
 Responsible Agency | National Records of Scotland
 References | 1913 B 644/5 936
+Source Created | 16/Jul/2022 21:44:06
+Source Last Updated | 16/Jul/2022 21:50:46
 
 ## Text
 

@@ -5,10 +5,13 @@ permalink: /sources/s72927227
 
 # 1864 FRASER, ANN (Statutory Register Births 047/46)
 
+## Metadata
 Field | Detail
 ---:|:---
 Responsible Agency | National Records of Scotland
 References | 1864 B 047/46
+Source Created | 1/Jun/2022 16:26:46
+Source Last Updated | 24/Jun/2022 12:51:33
 
 ## Text
 

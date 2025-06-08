@@ -5,6 +5,11 @@ permalink: /sources/s92706349
 
 # 1910 CUMMINGS, JAMES (Naturalization: Declaration of Intention)
 
+## Metadata
+Field | Detail
+---:|:---
+Source Created | 18/Jun/2022 19:40:46
+Source Last Updated | 18/Jun/2022 20:02:25
 
 ## Text
 

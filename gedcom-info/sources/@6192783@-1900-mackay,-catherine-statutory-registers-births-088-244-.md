@@ -5,11 +5,14 @@ permalink: /sources/s6192783
 
 # 1900 MACKAY, CATHERINE (Statutory Registers Births 088/244)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 24/Sep/1900
+Original Document Date | 24/Sep/1900
 Responsible Agency | National Records of Scotland
 References | 1900 B 088/244
+Source Created | 2/Jan/2022 16:22:47
+Source Last Updated | 3/Jul/2022 17:13:27
 
 ## Text
 

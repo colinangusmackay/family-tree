@@ -5,6 +5,11 @@ permalink: /sources/s13602796
 
 # 1898 SMITH, AGNES (Death and Internment Register)
 
+## Metadata
+Field | Detail
+---:|:---
+Source Created | 16/May/2025 23:06:19
+Source Last Updated | 16/May/2025 23:17:00
 
 ## Text
 

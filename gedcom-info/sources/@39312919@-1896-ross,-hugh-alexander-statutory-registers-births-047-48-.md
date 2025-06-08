@@ -5,11 +5,14 @@ permalink: /sources/s39312919
 
 # 1896 ROSS, HUGH ALEXANDER - (Statutory Registers Births 047/48)
 
+## Metadata
 Field | Detail
 ---:|:---
-Date | 27/Nov/1896
+Original Document Date | 27/Nov/1896
 Responsible Agency | National Records of Scotland
 References | 1896 B 047/48
+Source Created | 31/Aug/2020 20:32:40
+Source Last Updated | 3/Jan/2022 16:59:02
 
 ## Text
 
