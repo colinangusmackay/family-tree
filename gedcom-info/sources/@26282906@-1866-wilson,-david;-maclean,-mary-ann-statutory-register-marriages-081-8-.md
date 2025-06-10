@@ -76,6 +76,8 @@ Source Last Updated | 27/Apr/2024 21:01:27
 
 ## Source Referenced by
 
-* [Mary Ann McLean](../people/@87096403@-mary-ann-mclean-b1843-d.md) (about 1843 - )
-* [David Wilson](../people/@15598112@-david-wilson-b1841-3-22-d.md) (22/Mar/1841 - )
-* [James Wilson](../people/@98356536@-james-wilson-b1816-d.md) (about 1816 - )
+* McLean
+  * [Mary Ann McLean](../people/@87096403@-mary-ann-mclean-b1843-d.md) (about 1843 - )
+* Wilson
+  * [David Wilson](../people/@15598112@-david-wilson-b1841-3-22-d.md) (22/Mar/1841 - )
+  * [James Wilson](../people/@98356536@-james-wilson-b1816-d.md) (about 1816 - )

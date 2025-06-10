@@ -94,8 +94,11 @@ Source Last Updated | 27/Jan/2023 21:25:12
 
 ## Source Referenced by
 
-* [Susan McKay](../people/@29671874@-susan-mckay-b1833-4-d1886.md) (Apr/1833 - before 1886)
-* [Margaret Teevin](../people/@7753096@-margaret-teevin-b1861-d.md) (about 1861 - )
-* [Mary Teevin](../people/@39463713@-mary-teevin-b1858-d.md) (about 1858 - )
-* [Richard Tevin](../people/@65007133@-richard-tevin-b1841-d.md) (about 1841 - )
-* [Thomas Tevin](../people/@81418416@-thomas-tevin-b1870-d.md) (about 1870 - )
+* McKay
+  * [Susan McKay](../people/@29671874@-susan-mckay-b1833-4-d1886.md) (Apr/1833 - before 1886)
+* Teevin
+  * [Margaret Teevin](../people/@7753096@-margaret-teevin-b1861-d.md) (about 1861 - )
+  * [Mary Teevin](../people/@39463713@-mary-teevin-b1858-d.md) (about 1858 - )
+* Tevin
+  * [Richard Tevin](../people/@65007133@-richard-tevin-b1841-d.md) (about 1841 - )
+  * [Thomas Tevin](../people/@81418416@-thomas-tevin-b1870-d.md) (about 1870 - )

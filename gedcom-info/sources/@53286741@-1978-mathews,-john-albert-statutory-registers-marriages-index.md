@@ -33,5 +33,7 @@ Source Last Updated | 22/May/2020 17:41:30
 
 ## Source Referenced by
 
-* [Sandra Sarah Bolger](../people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md) (30/Aug/1956 - 2023)
-* [b Albert Mathews](../people/@35875756@-b-albert-mathews-b1954-d2004.md) (1954 - 2004)
+* Bolger
+  * [Sandra Sarah Bolger](../people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md) (30/Aug/1956 - 2023)
+* Mathews
+  * [b Albert Mathews](../people/@35875756@-b-albert-mathews-b1954-d2004.md) (1954 - 2004)

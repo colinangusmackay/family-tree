@@ -87,5 +87,7 @@ Source Last Updated | 7/Mar/2024 09:38:36
 
 ## Source Referenced by
 
-* [Marion Ross](../people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md) (1/Nov/1866 - 19/Aug/1888)
-* [Thomas Sunderland](../people/@33156539@-thomas-sunderland-b1864-d.md) (about 1864 - )
+* Ross
+  * [Marion Ross](../people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md) (1/Nov/1866 - 19/Aug/1888)
+* Sunderland
+  * [Thomas Sunderland](../people/@33156539@-thomas-sunderland-b1864-d.md) (about 1864 - )

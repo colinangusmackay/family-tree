@@ -86,6 +86,8 @@ Source Last Updated | 3/Jun/2025 23:06:56
 
 ## Source Referenced by
 
-* [Christy Fraser](../people/@91889557@-christy-fraser-b1791-d.md) (1791 - )
-* [Alexander Mackay](../people/@28762468@-alexander-mackay-b1786-d.md) (1786 - )
-* [Kenneth Mackay](../people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) (19/Jan/1817 - 21/Feb/1894)
+* Fraser
+  * [Christy Fraser](../people/@91889557@-christy-fraser-b1791-d.md) (1791 - )
+* Mackay
+  * [Alexander Mackay](../people/@28762468@-alexander-mackay-b1786-d.md) (1786 - )
+  * [Kenneth Mackay](../people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) (19/Jan/1817 - 21/Feb/1894)

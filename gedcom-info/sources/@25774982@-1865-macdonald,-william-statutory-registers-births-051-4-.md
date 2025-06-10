@@ -47,6 +47,8 @@ Source Last Updated | 8/Mar/2024 13:48:08
 
 ## Source Referenced by
 
-* [James MacDonald](../people/@74881641@-james-macdonald-b1842-d1880-1-14.md) (about 1842 - 14/Jan/1880)
-* [William MacDonald](../people/@76505641@-william-macdonald-b1865-1-9-d1898-5-12.md) (9/Jan/1865 - 12/May/1898)
-* [Christina Ross](../people/@81183416@-christina-ross-b1845-d1916-4-19.md) (about 1845 - 19/Apr/1916)
+* MacDonald
+  * [James MacDonald](../people/@74881641@-james-macdonald-b1842-d1880-1-14.md) (about 1842 - 14/Jan/1880)
+  * [William MacDonald](../people/@76505641@-william-macdonald-b1865-1-9-d1898-5-12.md) (9/Jan/1865 - 12/May/1898)
+* Ross
+  * [Christina Ross](../people/@81183416@-christina-ross-b1845-d1916-4-19.md) (about 1845 - 19/Apr/1916)

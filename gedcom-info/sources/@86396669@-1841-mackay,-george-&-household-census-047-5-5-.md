@@ -76,8 +76,10 @@ Source Last Updated | 31/May/2025 15:45:55
 
 ## Source Referenced by
 
-* [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
-* [Janet Mackay](../people/@42213240@-janet-mackay-b1840-d.md) (1840 - )
-* [John Mackay](../people/@58430005@-john-mackay-b1841-2-18-d.md) (18/Feb/1841 - )
-* [William Mackay](../people/@69114879@-william-mackay-b1781-d1841.md) (1781 - 1841)
-* [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)
+* Mackay
+  * [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
+  * [Janet Mackay](../people/@42213240@-janet-mackay-b1840-d.md) (1840 - )
+  * [John Mackay](../people/@58430005@-john-mackay-b1841-2-18-d.md) (18/Feb/1841 - )
+  * [William Mackay](../people/@69114879@-william-mackay-b1781-d1841.md) (1781 - 1841)
+* Matheson
+  * [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)

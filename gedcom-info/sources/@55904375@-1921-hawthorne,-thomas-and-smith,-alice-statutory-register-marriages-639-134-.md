@@ -72,8 +72,11 @@ Source Last Updated | 17/Jan/2023 23:18:27
 
 ## Source Referenced by
 
-* [Thomas Hawthorn](../people/@30039040@-thomas-hawthorn-b1888-6-28-d1946.md) (28/Jun/1888 - before 1946)
-* [William Hawthorn](../people/@92463484@-william-hawthorn-b1847-d1921.md) (about 1847 - before 1921)
-* [Hannah O'Donnell](../people/@64641527@-hannah-o'donnell-b1857-d1921.md) (about 1857 - before 1921)
-* [Alice Smith](../people/@30782592@-alice-smith-b1890-d.md) (about 1890 - )
-* [John Smith](../people/@64841197@-john-smith-b-d.md)
+* Hawthorn
+  * [Thomas Hawthorn](../people/@30039040@-thomas-hawthorn-b1888-6-28-d1946.md) (28/Jun/1888 - before 1946)
+  * [William Hawthorn](../people/@92463484@-william-hawthorn-b1847-d1921.md) (about 1847 - before 1921)
+* O'Donnell
+  * [Hannah O'Donnell](../people/@64641527@-hannah-o'donnell-b1857-d1921.md) (about 1857 - before 1921)
+* Smith
+  * [Alice Smith](../people/@30782592@-alice-smith-b1890-d.md) (about 1890 - )
+  * [John Smith](../people/@64841197@-john-smith-b-d.md)

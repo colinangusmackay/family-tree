@@ -132,7 +132,9 @@ Source Last Updated | 28/Jan/2023 20:02:00
 
 ## Source Referenced by
 
-* [Janet Dalrymple](../people/@30057967@-janet-dalrymple-b1876-d.md) (about 1876 - )
-* [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d.md) (4/Nov/1872 - )
-* [David Napier](../people/@46994217@-david-napier-b1901-d.md) (about 1901 - )
-* [John Napier](../people/@61882948@-john-napier-b1905-d.md) (about 1905 - )
+* Dalrymple
+  * [Janet Dalrymple](../people/@30057967@-janet-dalrymple-b1876-d.md) (about 1876 - )
+* Napier
+  * [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d.md) (4/Nov/1872 - )
+  * [David Napier](../people/@46994217@-david-napier-b1901-d.md) (about 1901 - )
+  * [John Napier](../people/@61882948@-john-napier-b1905-d.md) (about 1905 - )

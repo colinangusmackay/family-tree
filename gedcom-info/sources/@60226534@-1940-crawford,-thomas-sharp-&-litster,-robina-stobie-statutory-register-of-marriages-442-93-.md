@@ -76,7 +76,9 @@ Source Last Updated | 7/Jun/2025 17:05:08
 
 ## Source Referenced by
 
-* [Thomas Sharp Crawford](../people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md) (3/Aug/1897 - 5/Mar/1968)
-* [William Fullerton Crawford](../people/@48880388@-william-fullerton-crawford-b-d.md)
-* [John Litster](../people/@27896288@-john-litster-b-d.md)
-* [Robina Stobie Litster](../people/@99806264@-robina-stobie-litster-b1891-d.md) (1891 - )
+* Crawford
+  * [Thomas Sharp Crawford](../people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md) (3/Aug/1897 - 5/Mar/1968)
+  * [William Fullerton Crawford](../people/@48880388@-william-fullerton-crawford-b-d.md)
+* Litster
+  * [John Litster](../people/@27896288@-john-litster-b-d.md)
+  * [Robina Stobie Litster](../people/@99806264@-robina-stobie-litster-b1891-d.md) (1891 - )

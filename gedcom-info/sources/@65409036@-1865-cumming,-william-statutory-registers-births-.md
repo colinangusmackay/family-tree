@@ -55,6 +55,8 @@ Source Last Updated | 24/Jun/2022 12:53:33
 
 ## Source Referenced by
 
-* [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
-* [William Cumming](../people/@90082380@-william-cumming-b1865-2-27-d.md) (27/Feb/1865 - )
-* [Isabella Sutherland](../people/@79967653@-isabella-sutherland-b1838-d1884.md) (1838 - after 1884)
+* Cumming
+  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
+  * [William Cumming](../people/@90082380@-william-cumming-b1865-2-27-d.md) (27/Feb/1865 - )
+* Sutherland
+  * [Isabella Sutherland](../people/@79967653@-isabella-sutherland-b1838-d1884.md) (1838 - after 1884)

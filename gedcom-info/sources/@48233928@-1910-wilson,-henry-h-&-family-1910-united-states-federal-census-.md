@@ -166,9 +166,11 @@ Source Last Updated | 31/Jul/2022 20:26:30
 
 ## Source Referenced by
 
-* [Minnie Lenox](../people/@99536158@-minnie-lenox-b1867-4-15-d.md) (15/Apr/1867 - )
-* [Ella R Wilson](../people/@43820265@-ella-r-wilson-b1900-d.md) (about 1900 - )
-* [Frieda Belle Wilson](../people/@66883950@-frieda-belle-wilson-b1908-1-10-d1995-1-4.md) (10/Jan/1908 - 4/Jan/1995)
-* [Henry Wilson](../people/@5904501@-henry-wilson-b1876-d.md) (about 1876 - )
-* [Mary Elizabeth Wilson](../people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md) (about 1905 - 16/Dec/1971)
-* [Stella K Wilson](../people/@26878767@-stella-k-wilson-b1902-d.md) (about 1902 - )
+* Lenox
+  * [Minnie Lenox](../people/@99536158@-minnie-lenox-b1867-4-15-d.md) (15/Apr/1867 - )
+* Wilson
+  * [Ella R Wilson](../people/@43820265@-ella-r-wilson-b1900-d.md) (about 1900 - )
+  * [Frieda Belle Wilson](../people/@66883950@-frieda-belle-wilson-b1908-1-10-d1995-1-4.md) (10/Jan/1908 - 4/Jan/1995)
+  * [Henry Wilson](../people/@5904501@-henry-wilson-b1876-d.md) (about 1876 - )
+  * [Mary Elizabeth Wilson](../people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md) (about 1905 - 16/Dec/1971)
+  * [Stella K Wilson](../people/@26878767@-stella-k-wilson-b1902-d.md) (about 1902 - )

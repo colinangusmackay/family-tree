@@ -126,9 +126,11 @@ Source Last Updated | 26/Jun/2022 23:04:31
 
 ## Source Referenced by
 
-* [Alfred G Mathews](../people/@71188720@-alfred-g-mathews-b1892-d.md) (about 1892 - )
-* [Charles A Mathews](../people/@74822247@-charles-a-mathews-b1899-d.md) (about 1899 - )
-* [George Mathews](../people/@7150388@-george-mathews-b1863-d.md) (about 1863 - )
-* [Georgina E Mathews](../people/@84093657@-georgina-e-mathews-b1886-d.md) (about 1886 - )
-* [John Albert Mathews](../people/@5643892@-john-albert-mathews-b1895-11-21-d.md) (21/Nov/1895 - )
-* [Eliza Jane Wynn](../people/@63437677@-eliza-jane-wynn-b1864-d.md) (about 1864 - )
+* Mathews
+  * [Alfred G Mathews](../people/@71188720@-alfred-g-mathews-b1892-d.md) (about 1892 - )
+  * [Charles A Mathews](../people/@74822247@-charles-a-mathews-b1899-d.md) (about 1899 - )
+  * [George Mathews](../people/@7150388@-george-mathews-b1863-d.md) (about 1863 - )
+  * [Georgina E Mathews](../people/@84093657@-georgina-e-mathews-b1886-d.md) (about 1886 - )
+  * [John Albert Mathews](../people/@5643892@-john-albert-mathews-b1895-11-21-d.md) (21/Nov/1895 - )
+* Wynn
+  * [Eliza Jane Wynn](../people/@63437677@-eliza-jane-wynn-b1864-d.md) (about 1864 - )

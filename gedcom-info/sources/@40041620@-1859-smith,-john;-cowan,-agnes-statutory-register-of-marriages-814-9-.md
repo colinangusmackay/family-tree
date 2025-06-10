@@ -70,7 +70,9 @@ Source Last Updated | 17/May/2025 14:54:50
 
 ## Source Referenced by
 
-* [Agnes Cowan](../people/@38031148@-agnes-cowan-b1830-d1898-7-4.md) (about 1830 - 4/Jul/1898)
-* [James Cowan](../people/@66566704@-james-cowan-b-d.md)
-* [John Smith](../people/@3582868@-john-smith-b1825-d1898.md) (about 1825 - before 1898)
-* [William Smith](../people/@77031673@-william-smith-b-d.md)
+* Cowan
+  * [Agnes Cowan](../people/@38031148@-agnes-cowan-b1830-d1898-7-4.md) (about 1830 - 4/Jul/1898)
+  * [James Cowan](../people/@66566704@-james-cowan-b-d.md)
+* Smith
+  * [John Smith](../people/@3582868@-john-smith-b1825-d1898.md) (about 1825 - before 1898)
+  * [William Smith](../people/@77031673@-william-smith-b-d.md)

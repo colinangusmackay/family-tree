@@ -37,6 +37,8 @@ Source Last Updated | 4/Jul/2022 23:32:15
 
 ## Source Referenced by
 
-* [Barbara Mackenzie](../people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md) (about 1823 - 27/Apr/1884)
-* [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
-* [William Paterson](../people/@55148620@-william-paterson-b1823-d1906-4-26.md) (about 1823 - 26/Apr/1906)
+* Mackenzie
+  * [Barbara Mackenzie](../people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md) (about 1823 - 27/Apr/1884)
+* Paterson
+  * [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
+  * [William Paterson](../people/@55148620@-william-paterson-b1823-d1906-4-26.md) (about 1823 - 26/Apr/1906)

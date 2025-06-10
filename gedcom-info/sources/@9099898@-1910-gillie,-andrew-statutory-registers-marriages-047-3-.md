@@ -82,7 +82,9 @@ Source Last Updated | 6/Jan/2022 23:16:26
 
 ## Source Referenced by
 
-* [Andrew Gillie](../people/@60068056@-andrew-gillie-b1868-12-28-d.md) (28/Dec/1868 - )
-* [John Gillie](../people/@49104732@-john-gillie-b1859-d1881-10-14.md) (about 1859 - 14/Oct/1881)
-* [John Ross](../people/@81395704@-john-ross-b1856-d.md) (about 1856 - )
-* [Williamina Ross](../people/@86024374@-williamina-ross-b1883-8-22-d.md) (22/Aug/1883 - )
+* Gillie
+  * [Andrew Gillie](../people/@60068056@-andrew-gillie-b1868-12-28-d.md) (28/Dec/1868 - )
+  * [John Gillie](../people/@49104732@-john-gillie-b1859-d1881-10-14.md) (about 1859 - 14/Oct/1881)
+* Ross
+  * [John Ross](../people/@81395704@-john-ross-b1856-d.md) (about 1856 - )
+  * [Williamina Ross](../people/@86024374@-williamina-ross-b1883-8-22-d.md) (22/Aug/1883 - )

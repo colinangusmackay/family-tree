@@ -72,6 +72,8 @@ Source Last Updated | 19/Jan/2023 23:54:52
 
 ## Source Referenced by
 
-* [James Hanton](../people/@71830064@-james-hanton-b1880-d1922-4-20.md) (about 1880 - 20/Apr/1922)
-* [William Hanton](../people/@62602830@-william-hanton-b1855-d1922.md) (about 1855 - before 1922)
-* [Jane Johnston](../people/@71906070@-jane-johnston-b1859-d1922.md) (about 1859 - before 1922)
+* Hanton
+  * [James Hanton](../people/@71830064@-james-hanton-b1880-d1922-4-20.md) (about 1880 - 20/Apr/1922)
+  * [William Hanton](../people/@62602830@-william-hanton-b1855-d1922.md) (about 1855 - before 1922)
+* Johnston
+  * [Jane Johnston](../people/@71906070@-jane-johnston-b1859-d1922.md) (about 1859 - before 1922)

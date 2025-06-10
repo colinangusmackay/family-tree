@@ -71,7 +71,9 @@ Source Last Updated | 9/May/2020 15:27:28
 
 ## Source Referenced by
 
-* [Edward O'Malley](../people/@76741424@-edward-o'malley-b1890-1-4-d.md) (4/Jan/1890 - )
-* [Thomas O'Malley](../people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md) (4/Sep/1913 - before 2004)
-* [John Paton](../people/@5211114@-john-paton-b1894-d.md) (about 1894 - )
-* [Margaret McLeod Paton](../people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) (14/Mar/1916 - before 2004)
+* O'Malley
+  * [Edward O'Malley](../people/@76741424@-edward-o'malley-b1890-1-4-d.md) (4/Jan/1890 - )
+  * [Thomas O'Malley](../people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md) (4/Sep/1913 - before 2004)
+* Paton
+  * [John Paton](../people/@5211114@-john-paton-b1894-d.md) (about 1894 - )
+  * [Margaret McLeod Paton](../people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) (14/Mar/1916 - before 2004)

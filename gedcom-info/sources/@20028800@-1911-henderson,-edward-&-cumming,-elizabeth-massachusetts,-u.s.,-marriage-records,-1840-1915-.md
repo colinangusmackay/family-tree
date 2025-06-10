@@ -72,7 +72,10 @@ Source Last Updated | 5/Jun/2022 11:24:50
 
 ## Source Referenced by
 
-* [Adam Cumming](../people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) (2/Jul/1841 - 18/Jan/1926)
-* [Elizabeth Cumming](../people/@35928164@-elizabeth-cumming-b1882-d.md) (about 1882 - )
-* [Edward Henderson](../people/@4822940@-edward-henderson-b1881-d.md) (about 1881 - )
-* [Ann Mackay](../people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)
+* Cumming
+  * [Adam Cumming](../people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) (2/Jul/1841 - 18/Jan/1926)
+  * [Elizabeth Cumming](../people/@35928164@-elizabeth-cumming-b1882-d.md) (about 1882 - )
+* Henderson
+  * [Edward Henderson](../people/@4822940@-edward-henderson-b1881-d.md) (about 1881 - )
+* Mackay
+  * [Ann Mackay](../people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)

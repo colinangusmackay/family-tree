@@ -40,6 +40,8 @@ Source Last Updated | 6/Jun/2022 23:58:31
 
 ## Source Referenced by
 
-* [Nancy](../people/@68661720@-nancy-b-d.md)
-* [Cyril Stead](../people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md) (11/Mar/1908 - 25/Nov/1980)
-* [Harry Stead](../people/@68900898@-harry-stead-b1888-d.md) (about 1888 - )
+* 
+  * [Nancy](../people/@68661720@-nancy-b-d.md)
+* Stead
+  * [Cyril Stead](../people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md) (11/Mar/1908 - 25/Nov/1980)
+  * [Harry Stead](../people/@68900898@-harry-stead-b1888-d.md) (about 1888 - )

@@ -56,7 +56,9 @@ Source Last Updated | 1/Jun/2025 21:58:18
 
 ## Source Referenced by
 
-* [Ann Mackay](../people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)
-* [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
-* [Hector Matheson](../people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
-* [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)
+* Mackay
+  * [Ann Mackay](../people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)
+  * [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
+* Matheson
+  * [Hector Matheson](../people/@28800527@-hector-matheson-b-d1896.md) ( - before 1896)
+  * [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)

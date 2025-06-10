@@ -49,5 +49,7 @@ Source Last Updated | 11/Jul/2022 22:47:09
 
 ## Source Referenced by
 
-* [Donald Charles Mitchell](../people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md) (26/Mar/1929 - 12/Mar/1982)
-* [Ann Ross](../people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md) (28/Nov/1890 - 27/Jun/1980)
+* Mitchell
+  * [Donald Charles Mitchell](../people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md) (26/Mar/1929 - 12/Mar/1982)
+* Ross
+  * [Ann Ross](../people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md) (28/Nov/1890 - 27/Jun/1980)

@@ -57,6 +57,8 @@ Source Last Updated | 26/Jun/2022 15:33:17
 
 ## Source Referenced by
 
-* [John Fleming](../people/@39983533@-john-fleming-b1827-d.md) (about 1827 - )
-* [Joseph Fleming](../people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md) (7/Oct/1851 - 30/Jan/1912)
-* [Margaret Wood](../people/@50500805@-margaret-wood-b1827-d1871.md) (about 1827 - before 1871)
+* Fleming
+  * [John Fleming](../people/@39983533@-john-fleming-b1827-d.md) (about 1827 - )
+  * [Joseph Fleming](../people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md) (7/Oct/1851 - 30/Jan/1912)
+* Wood
+  * [Margaret Wood](../people/@50500805@-margaret-wood-b1827-d1871.md) (about 1827 - before 1871)

@@ -20,5 +20,7 @@ Source Last Updated | 25/Jul/2022 20:33:31
 
 ## Source Referenced by
 
-* [Wilma May Cumming](../people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md) (9/Nov/1931 - 12/Sep/2009)
-* [Clinton Edwin Monson](../people/@24393948@-clinton-edwin-monson-b1931-9-9-d2019-7-15.md) (9/Sep/1931 - 15/Jul/2019)
+* Cumming
+  * [Wilma May Cumming](../people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md) (9/Nov/1931 - 12/Sep/2009)
+* Monson
+  * [Clinton Edwin Monson](../people/@24393948@-clinton-edwin-monson-b1931-9-9-d2019-7-15.md) (9/Sep/1931 - 15/Jul/2019)

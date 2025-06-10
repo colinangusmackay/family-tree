@@ -142,12 +142,15 @@ Source Last Updated | 26/May/2025 16:01:55
 
 ## Source Referenced by
 
-* [Barbara Mackenzie](../people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md) (about 1823 - 27/Apr/1884)
-* [Jessie Paterson McKenzie](../people/@2043547@-jessie-paterson-mckenzie-b1888-d.md) (about 1888 - )
-* [Malcolm McKenzie](../people/@40866411@-malcolm-mckenzie-b1893-d.md) (1893 - )
-* [Margaret Paterson McKenzie](../people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)
-* [Murdoch McKenzie](../people/@99087108@-murdoch-mckenzie-b1890-d.md) (1890 - )
-* [Roderick McKenzie](../people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) (about 1851 - 23/Jan/1929)
-* [William P McKenzie](../people/@51734912@-william-p-mckenzie-b1878-d.md) (about 1878 - )
-* [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
-* [William Paterson](../people/@55148620@-william-paterson-b1823-d1906-4-26.md) (about 1823 - 26/Apr/1906)
+* Mackenzie
+  * [Barbara Mackenzie](../people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md) (about 1823 - 27/Apr/1884)
+* McKenzie
+  * [Jessie Paterson McKenzie](../people/@2043547@-jessie-paterson-mckenzie-b1888-d.md) (about 1888 - )
+  * [Malcolm McKenzie](../people/@40866411@-malcolm-mckenzie-b1893-d.md) (1893 - )
+  * [Margaret Paterson McKenzie](../people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)
+  * [Murdoch McKenzie](../people/@99087108@-murdoch-mckenzie-b1890-d.md) (1890 - )
+  * [Roderick McKenzie](../people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) (about 1851 - 23/Jan/1929)
+  * [William P McKenzie](../people/@51734912@-william-p-mckenzie-b1878-d.md) (about 1878 - )
+* Paterson
+  * [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
+  * [William Paterson](../people/@55148620@-william-paterson-b1823-d1906-4-26.md) (about 1823 - 26/Apr/1906)

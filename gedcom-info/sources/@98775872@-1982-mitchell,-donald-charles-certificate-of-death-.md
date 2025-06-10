@@ -98,5 +98,7 @@ Source Last Updated | 11/Jul/2022 22:26:23
 
 ## Source Referenced by
 
-* [Sylvia Jean Hoctor](../people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md) (21/Dec/1933 - 1993)
-* [Donald Charles Mitchell](../people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md) (26/Mar/1929 - 12/Mar/1982)
+* Hoctor
+  * [Sylvia Jean Hoctor](../people/@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md) (21/Dec/1933 - 1993)
+* Mitchell
+  * [Donald Charles Mitchell](../people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md) (26/Mar/1929 - 12/Mar/1982)

@@ -192,5 +192,7 @@ Source Last Updated | 31/May/2022 17:19:29
 
 ## Source Referenced by
 
-* [George Davidson Smith Cumming](../people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md) (31/May/1898 - Aug/1965)
-* [Margaret Hogg Hatelie](../people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md) (11/Sep/1897 - 23/Dec/1977)
+* Cumming
+  * [George Davidson Smith Cumming](../people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md) (31/May/1898 - Aug/1965)
+* Hatelie
+  * [Margaret Hogg Hatelie](../people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md) (11/Sep/1897 - 23/Dec/1977)

@@ -60,8 +60,11 @@ Source Last Updated | 7/Apr/2024 19:27:26
 
 ## Source Referenced by
 
-* [Helen Fisher](../people/@31266751@-helen-fisher-b-d1961.md) ( - before 1961)
-* [Christina Fleming](../people/@89446044@-christina-fleming-b1895-8-23-d1985.md) (23/Aug/1895 - 1985)
-* [John Fleming](../people/@49475976@-john-fleming-b1877-3-11-d1961.md) (11/Mar/1877 - before 1961)
-* [Agnes Rennie](../people/@57426108@-agnes-rennie-b1878-d1961-2-7.md) (1878 - 7/Feb/1961)
-* [James Fraser Rennie](../people/@2624560@-james-fraser-rennie-b-d1961.md) ( - before 1961)
+* Fisher
+  * [Helen Fisher](../people/@31266751@-helen-fisher-b-d1961.md) ( - before 1961)
+* Fleming
+  * [Christina Fleming](../people/@89446044@-christina-fleming-b1895-8-23-d1985.md) (23/Aug/1895 - 1985)
+  * [John Fleming](../people/@49475976@-john-fleming-b1877-3-11-d1961.md) (11/Mar/1877 - before 1961)
+* Rennie
+  * [Agnes Rennie](../people/@57426108@-agnes-rennie-b1878-d1961-2-7.md) (1878 - 7/Feb/1961)
+  * [James Fraser Rennie](../people/@2624560@-james-fraser-rennie-b-d1961.md) ( - before 1961)

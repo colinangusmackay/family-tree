@@ -52,5 +52,7 @@ Source Last Updated | 3/Jun/2022 10:17:18
 
 ## Source Referenced by
 
-* [Malcolm DeWitt Roberts](../people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) (30/Sep/1905 - 6/May/1990)
-* [Virginia C Simonet](../people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md) (14/Apr/1918 - 5/Mar/1998)
+* Roberts
+  * [Malcolm DeWitt Roberts](../people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) (30/Sep/1905 - 6/May/1990)
+* Simonet
+  * [Virginia C Simonet](../people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md) (14/Apr/1918 - 5/Mar/1998)

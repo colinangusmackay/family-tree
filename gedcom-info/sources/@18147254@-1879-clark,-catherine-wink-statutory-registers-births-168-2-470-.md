@@ -43,6 +43,8 @@ Source Last Updated | 18/Jun/2022 22:10:04
 
 ## Source Referenced by
 
-* [Catherine Wink Clark](../people/@35162161@-catherine-wink-clark-b1879-3-27-d.md) (27/Mar/1879 - )
-* [James Clark](../people/@29410614@-james-clark-b-d.md)
-* [Jamesina Morrison](../people/@11801376@-jamesina-morrison-b-d.md)
+* Clark
+  * [Catherine Wink Clark](../people/@35162161@-catherine-wink-clark-b1879-3-27-d.md) (27/Mar/1879 - )
+  * [James Clark](../people/@29410614@-james-clark-b-d.md)
+* Morrison
+  * [Jamesina Morrison](../people/@11801376@-jamesina-morrison-b-d.md)

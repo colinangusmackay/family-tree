@@ -63,5 +63,7 @@ Source Last Updated | 1/Jun/2022 23:24:44
 
 ## Source Referenced by
 
-* [Catherine Grant](../people/@5052852@-catherine-grant-b1900-d.md) (about 1900 - )
-* [Arthur Fred McLean](../people/@56292410@-arthur-fred-mclean-b1901-d.md) (about 1901 - )
+* Grant
+  * [Catherine Grant](../people/@5052852@-catherine-grant-b1900-d.md) (about 1900 - )
+* McLean
+  * [Arthur Fred McLean](../people/@56292410@-arthur-fred-mclean-b1901-d.md) (about 1901 - )

@@ -48,6 +48,8 @@ Source Last Updated | 11/Jun/2022 09:58:50
 
 ## Source Referenced by
 
-* [Claude Hayes](../people/@99088640@-claude-hayes-b1889-d1958-1-30.md) (about 1889 - 30/Jan/1958)
-* [Dan Hayes](../people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md) (25/Sep/1935 - 31/Aug/2018)
-* [Goldie Raymond](../people/@2876469@-goldie-raymond-b1894-d2018.md) (about 1894 - before 2018)
+* Hayes
+  * [Claude Hayes](../people/@99088640@-claude-hayes-b1889-d1958-1-30.md) (about 1889 - 30/Jan/1958)
+  * [Dan Hayes](../people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md) (25/Sep/1935 - 31/Aug/2018)
+* Raymond
+  * [Goldie Raymond](../people/@2876469@-goldie-raymond-b1894-d2018.md) (about 1894 - before 2018)

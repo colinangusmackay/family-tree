@@ -84,5 +84,7 @@ Source Last Updated | 11/Jun/2022 10:14:12
 
 ## Source Referenced by
 
-* [Claude Hayes](../people/@99088640@-claude-hayes-b1889-d1958-1-30.md) (about 1889 - 30/Jan/1958)
-* [Goldie Raymond](../people/@2876469@-goldie-raymond-b1894-d2018.md) (about 1894 - before 2018)
+* Hayes
+  * [Claude Hayes](../people/@99088640@-claude-hayes-b1889-d1958-1-30.md) (about 1889 - 30/Jan/1958)
+* Raymond
+  * [Goldie Raymond](../people/@2876469@-goldie-raymond-b1894-d2018.md) (about 1894 - before 2018)

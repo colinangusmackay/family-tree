@@ -52,5 +52,7 @@ Source Last Updated | 18/Jun/2022 15:35:32
 
 ## Source Referenced by
 
-* [James Cumming](../people/@64418166@-james-cumming-b1881-11-4-d1918.md) (4/Nov/1881 - before 1918)
-* [James Edward Cummings](../people/@5591850@-james-edward-cummings-b1912-1-18-d2003-12-11.md) (18/Jan/1912 - 11/Dec/2003)
+* Cumming
+  * [James Cumming](../people/@64418166@-james-cumming-b1881-11-4-d1918.md) (4/Nov/1881 - before 1918)
+* Cummings
+  * [James Edward Cummings](../people/@5591850@-james-edward-cummings-b1912-1-18-d2003-12-11.md) (18/Jan/1912 - 11/Dec/2003)

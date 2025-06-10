@@ -50,6 +50,8 @@ Source Last Updated | 16/Jul/2022 16:56:16
 
 ## Source Referenced by
 
-* [Catherine McBride](../people/@24941331@-catherine-mcbride-b1865-d.md) (about 1865 - )
-* [Edward O'Malley](../people/@76741424@-edward-o'malley-b1890-1-4-d.md) (4/Jan/1890 - )
-* [Michael O'Malley](../people/@34933754@-michael-o'malley-b1851-d.md) (about 1851 - )
+* McBride
+  * [Catherine McBride](../people/@24941331@-catherine-mcbride-b1865-d.md) (about 1865 - )
+* O'Malley
+  * [Edward O'Malley](../people/@76741424@-edward-o'malley-b1890-1-4-d.md) (4/Jan/1890 - )
+  * [Michael O'Malley](../people/@34933754@-michael-o'malley-b1851-d.md) (about 1851 - )

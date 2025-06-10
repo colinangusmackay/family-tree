@@ -50,6 +50,8 @@ Source Last Updated | 24/Mar/2022 14:09:37
 
 ## Source Referenced by
 
-* [Christy Grant](../people/@94200830@-christy-grant-b1865-d.md) (before 1865 - )
-* [Alexander Mackay](../people/@24272756@-alexander-mackay-b1856-d.md) (about 1856 - )
-* [Jessie Mackay](../people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md) (12/Sep/1880 - 7/Feb/1932)
+* Grant
+  * [Christy Grant](../people/@94200830@-christy-grant-b1865-d.md) (before 1865 - )
+* Mackay
+  * [Alexander Mackay](../people/@24272756@-alexander-mackay-b1856-d.md) (about 1856 - )
+  * [Jessie Mackay](../people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md) (12/Sep/1880 - 7/Feb/1932)

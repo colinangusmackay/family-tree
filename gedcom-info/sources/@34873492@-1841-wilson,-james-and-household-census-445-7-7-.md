@@ -66,6 +66,8 @@ Source Last Updated | 28/Apr/2024 15:07:13
 
 ## Source Referenced by
 
-* [Margaret Nicholson](../people/@22262126@-margaret-nicholson-b1821-d.md) (about 1821 - )
-* [James Wilson](../people/@98356536@-james-wilson-b1816-d.md) (about 1816 - )
-* [Margaret Wilson](../people/@63936152@-margaret-wilson-b1837-d.md) (about 1837 - )
+* Nicholson
+  * [Margaret Nicholson](../people/@22262126@-margaret-nicholson-b1821-d.md) (about 1821 - )
+* Wilson
+  * [James Wilson](../people/@98356536@-james-wilson-b1816-d.md) (about 1816 - )
+  * [Margaret Wilson](../people/@63936152@-margaret-wilson-b1837-d.md) (about 1837 - )

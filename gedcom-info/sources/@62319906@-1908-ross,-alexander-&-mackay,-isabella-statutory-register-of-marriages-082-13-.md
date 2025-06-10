@@ -80,5 +80,7 @@ Source Last Updated | 7/Jun/2025 19:25:09
 
 ## Source Referenced by
 
-* [Bella Mackay](../people/@54814674@-bella-mackay-b1885-d.md) (about 1885 - )
-* [Alexander Ross](../people/@34528442@-alexander-ross-b1883-d.md) (1883 - )
+* Mackay
+  * [Bella Mackay](../people/@54814674@-bella-mackay-b1885-d.md) (about 1885 - )
+* Ross
+  * [Alexander Ross](../people/@34528442@-alexander-ross-b1883-d.md) (1883 - )

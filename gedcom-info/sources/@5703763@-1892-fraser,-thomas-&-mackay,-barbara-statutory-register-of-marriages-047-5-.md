@@ -76,5 +76,7 @@ Source Last Updated | 5/Jun/2025 23:14:46
 
 ## Source Referenced by
 
-* [Thomas Fraser](../people/@28777404@-thomas-fraser-b1866-6-19-d.md) (19/Jun/1866 - )
-* [Barbra Mackay](../people/@60643714@-barbra-mackay-b1871-8-25-d.md) (25/Aug/1871 - )
+* Fraser
+  * [Thomas Fraser](../people/@28777404@-thomas-fraser-b1866-6-19-d.md) (19/Jun/1866 - )
+* Mackay
+  * [Barbra Mackay](../people/@60643714@-barbra-mackay-b1871-8-25-d.md) (25/Aug/1871 - )

@@ -99,6 +99,9 @@ Source Last Updated | 26/Jun/2022 21:38:54
 
 ## Source Referenced by
 
-* [Mary Carlyle](../people/@99996424@-mary-carlyle-b1907-d.md) (1907 - )
-* [John Fleming](../people/@49475976@-john-fleming-b1877-3-11-d1961.md) (11/Mar/1877 - before 1961)
-* [Agnes Rennie](../people/@57426108@-agnes-rennie-b1878-d1961-2-7.md) (1878 - 7/Feb/1961)
+* Carlyle
+  * [Mary Carlyle](../people/@99996424@-mary-carlyle-b1907-d.md) (1907 - )
+* Fleming
+  * [John Fleming](../people/@49475976@-john-fleming-b1877-3-11-d1961.md) (11/Mar/1877 - before 1961)
+* Rennie
+  * [Agnes Rennie](../people/@57426108@-agnes-rennie-b1878-d1961-2-7.md) (1878 - 7/Feb/1961)

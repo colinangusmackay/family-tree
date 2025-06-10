@@ -76,8 +76,11 @@ Source Last Updated | 20/Apr/2024 15:45:07
 
 ## Source Referenced by
 
-* [Catherine Dickson](../people/@82920396@-catherine-dickson-b-d1944.md) ( - before 1944)
-* [Andrew Irvine Hanton](../people/@53392578@-andrew-irvine-hanton-b1913-5-19-d1963-8-9.md) (19/May/1913 - 9/Aug/1963)
-* [John Hanton](../people/@30651959@-john-hanton-b1921-1-2-d2009.md) (2/Jan/1921 - 2009)
-* [Alexander McGregor Russell](../people/@72370350@-alexander-mcgregor-russell-b-d.md)
-* [Martha Russell](../people/@30062456@-martha-russell-b1916-d1963.md) (about 1916 - before 1963)
+* Dickson
+  * [Catherine Dickson](../people/@82920396@-catherine-dickson-b-d1944.md) ( - before 1944)
+* Hanton
+  * [Andrew Irvine Hanton](../people/@53392578@-andrew-irvine-hanton-b1913-5-19-d1963-8-9.md) (19/May/1913 - 9/Aug/1963)
+  * [John Hanton](../people/@30651959@-john-hanton-b1921-1-2-d2009.md) (2/Jan/1921 - 2009)
+* Russell
+  * [Alexander McGregor Russell](../people/@72370350@-alexander-mcgregor-russell-b-d.md)
+  * [Martha Russell](../people/@30062456@-martha-russell-b1916-d1963.md) (about 1916 - before 1963)

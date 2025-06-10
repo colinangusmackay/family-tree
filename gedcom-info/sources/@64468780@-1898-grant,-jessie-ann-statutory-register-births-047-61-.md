@@ -45,6 +45,8 @@ Source Last Updated | 19/Apr/2025 23:45:22
 
 ## Source Referenced by
 
-* [Hugh Grant](../people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md) (26/Feb/1863 - 10/Sep/1944)
-* [Jessie Ann Grant](../people/@15036054@-jessie-ann-grant-b1898-10-31-d.md) (31/Oct/1898 - )
-* [Annie Mackay](../people/@503334@-annie-mackay-b1865-d1942-5-1.md) (about 1865 - 1/May/1942)
+* Grant
+  * [Hugh Grant](../people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md) (26/Feb/1863 - 10/Sep/1944)
+  * [Jessie Ann Grant](../people/@15036054@-jessie-ann-grant-b1898-10-31-d.md) (31/Oct/1898 - )
+* Mackay
+  * [Annie Mackay](../people/@503334@-annie-mackay-b1865-d1942-5-1.md) (about 1865 - 1/May/1942)

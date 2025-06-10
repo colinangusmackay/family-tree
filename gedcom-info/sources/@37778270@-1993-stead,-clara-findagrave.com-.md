@@ -25,5 +25,7 @@ Source Last Updated | 14/Jun/2022 23:02:10
 
 ## Source Referenced by
 
-* [Clara Fawley](../people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md) (20/Apr/1912 - 12/Aug/1993)
-* [Norman Stead](../people/@69808462@-norman-stead-b1937-10-d2011.md) (Oct/1937 - 2011)
+* Fawley
+  * [Clara Fawley](../people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md) (20/Apr/1912 - 12/Aug/1993)
+* Stead
+  * [Norman Stead](../people/@69808462@-norman-stead-b1937-10-d2011.md) (Oct/1937 - 2011)

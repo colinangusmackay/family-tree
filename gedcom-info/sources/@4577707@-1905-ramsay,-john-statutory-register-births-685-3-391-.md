@@ -45,6 +45,8 @@ Source Last Updated | 31/Jan/2023 20:05:02
 
 ## Source Referenced by
 
-* [Helen Currie Fisher](../people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md) (29/Nov/1881 - 6/Jun/1953)
-* [John Morgan Ramsay](../people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md) (31/Mar/1905 - 1967)
-* [John Ramsay](../people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) (21/Feb/1880 - 20/Jun/1920)
+* Fisher
+  * [Helen Currie Fisher](../people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md) (29/Nov/1881 - 6/Jun/1953)
+* Ramsay
+  * [John Morgan Ramsay](../people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md) (31/Mar/1905 - 1967)
+  * [John Ramsay](../people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) (21/Feb/1880 - 20/Jun/1920)

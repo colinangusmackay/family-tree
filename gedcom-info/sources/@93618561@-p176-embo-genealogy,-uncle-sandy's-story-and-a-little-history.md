@@ -33,6 +33,8 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [Kenneth Fraser](../people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) (19/Oct/1877 - 9/May/1954)
-* [Jessie Mackay](../people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md) (12/Sep/1880 - 7/Feb/1932)
-* [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) (27/Jun/1901 - 24/Aug/1973)
+* Fraser
+  * [Kenneth Fraser](../people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) (19/Oct/1877 - 9/May/1954)
+* Mackay
+  * [Jessie Mackay](../people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md) (12/Sep/1880 - 7/Feb/1932)
+  * [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) (27/Jun/1901 - 24/Aug/1973)

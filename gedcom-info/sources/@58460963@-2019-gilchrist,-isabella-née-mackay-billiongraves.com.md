@@ -49,5 +49,7 @@ Source Last Updated | 1/Oct/2024 16:56:42
 
 ## Source Referenced by
 
-* [Isabella Mackay](../people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md) (1/Jan/1936 - 19/Dec/2019)
-* [Anna Jessie MacKay](../people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md) (7/Jul/1938 - 12/Mar/2021)
+* Mackay
+  * [Isabella Mackay](../people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md) (1/Jan/1936 - 19/Dec/2019)
+* MacKay
+  * [Anna Jessie MacKay](../people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md) (7/Jul/1938 - 12/Mar/2021)

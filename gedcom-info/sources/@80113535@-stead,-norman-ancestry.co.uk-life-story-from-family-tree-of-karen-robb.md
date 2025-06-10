@@ -229,9 +229,12 @@ Source Last Updated | 24/Mar/2022 15:30:59
 
 ## Source Referenced by
 
-* [Linda Margaret Campbell](../people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) (16/Oct/1961 - 28/Sep/2016)
-* [Clara Fawley](../people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md) (20/Apr/1912 - 12/Aug/1993)
-* [Albert Stead](../people/@82189144@-albert-stead-b1934-d1938-8-22.md) (about 1934 - 22/Aug/1938)
-* [Cyril Stead](../people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md) (11/Mar/1908 - 25/Nov/1980)
-* [Lawrence Stead](../people/@18256653@-lawrence-stead-b1933-11-29-d1989-3.md) (29/Nov/1933 - Mar/1989)
-* [Norman Stead](../people/@69808462@-norman-stead-b1937-10-d2011.md) (Oct/1937 - 2011)
+* Campbell
+  * [Linda Margaret Campbell](../people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) (16/Oct/1961 - 28/Sep/2016)
+* Fawley
+  * [Clara Fawley](../people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md) (20/Apr/1912 - 12/Aug/1993)
+* Stead
+  * [Albert Stead](../people/@82189144@-albert-stead-b1934-d1938-8-22.md) (about 1934 - 22/Aug/1938)
+  * [Cyril Stead](../people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md) (11/Mar/1908 - 25/Nov/1980)
+  * [Lawrence Stead](../people/@18256653@-lawrence-stead-b1933-11-29-d1989-3.md) (29/Nov/1933 - Mar/1989)
+  * [Norman Stead](../people/@69808462@-norman-stead-b1937-10-d2011.md) (Oct/1937 - 2011)

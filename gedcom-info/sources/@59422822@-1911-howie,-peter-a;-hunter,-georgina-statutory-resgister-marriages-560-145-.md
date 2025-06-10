@@ -76,8 +76,11 @@ Source Last Updated | 8/Dec/2024 21:52:23
 
 ## Source Referenced by
 
-* [Annie Boyle](../people/@30556026@-annie-boyle-b-d1911.md) ( - before 1911)
-* [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-d.md) (about 1890 - )
-* [Peter Howie](../people/@19655531@-peter-howie-b-d.md)
-* [Georgina Hunter](../people/@69291286@-georgina-hunter-b1889-d.md) (about 1889 - )
-* [James Hunter](../people/@13263378@-james-hunter-b-d.md)
+* Boyle
+  * [Annie Boyle](../people/@30556026@-annie-boyle-b-d1911.md) ( - before 1911)
+* Howie
+  * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-d.md) (about 1890 - )
+  * [Peter Howie](../people/@19655531@-peter-howie-b-d.md)
+* Hunter
+  * [Georgina Hunter](../people/@69291286@-georgina-hunter-b1889-d.md) (about 1889 - )
+  * [James Hunter](../people/@13263378@-james-hunter-b-d.md)

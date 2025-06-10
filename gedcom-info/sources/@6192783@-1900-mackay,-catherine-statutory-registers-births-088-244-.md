@@ -48,5 +48,7 @@ Source Last Updated | 3/Jul/2022 17:13:27
 
 ## Source Referenced by
 
-* [Catherine Mackay](../people/@28166672@-catherine-mackay-b1900-9-3-d.md) (3/Sep/1900 - )
-* [Matilda MacLeod](../people/@31540392@-matilda-macleod-b1861-d1949-11-9.md) (about 1861 - 9/Nov/1949)
+* Mackay
+  * [Catherine Mackay](../people/@28166672@-catherine-mackay-b1900-9-3-d.md) (3/Sep/1900 - )
+* MacLeod
+  * [Matilda MacLeod](../people/@31540392@-matilda-macleod-b1861-d1949-11-9.md) (about 1861 - 9/Nov/1949)

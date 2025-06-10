@@ -76,5 +76,7 @@ Source Last Updated | 24/Jun/2022 12:51:08
 
 ## Source Referenced by
 
-* [Hugh Grant](../people/@34164542@-hugh-grant-b1840-d.md) (about 1840 - )
-* [Jessie Munro](../people/@41510480@-jessie-munro-b1829-d.md) (about 1829 - )
+* Grant
+  * [Hugh Grant](../people/@34164542@-hugh-grant-b1840-d.md) (about 1840 - )
+* Munro
+  * [Jessie Munro](../people/@41510480@-jessie-munro-b1829-d.md) (about 1829 - )

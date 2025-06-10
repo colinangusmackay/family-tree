@@ -21,7 +21,10 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [Hannah Elder Falloon](../people/@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) (7/Dec/1921 - 1982)
-* [Christina Fleming](../people/@89446044@-christina-fleming-b1895-8-23-d1985.md) (23/Aug/1895 - 1985)
-* [John Albert Mathews](../people/@5643892@-john-albert-mathews-b1895-11-21-d.md) (21/Nov/1895 - )
-* [Robert Dennis Reginald Mathews](../people/@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md) (6/Aug/1928 - 11/Feb/2009)
+* Falloon
+  * [Hannah Elder Falloon](../people/@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) (7/Dec/1921 - 1982)
+* Fleming
+  * [Christina Fleming](../people/@89446044@-christina-fleming-b1895-8-23-d1985.md) (23/Aug/1895 - 1985)
+* Mathews
+  * [John Albert Mathews](../people/@5643892@-john-albert-mathews-b1895-11-21-d.md) (21/Nov/1895 - )
+  * [Robert Dennis Reginald Mathews](../people/@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md) (6/Aug/1928 - 11/Feb/2009)

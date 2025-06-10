@@ -66,10 +66,14 @@ Source Last Updated | 30/Aug/2020 17:04:11
 
 ## Source Referenced by
 
-* [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
-* [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
-* [James Cumming](../people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
-* [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1875-10-29.md) (about 1807 - 29/Oct/1875)
-* [Marion Mackay](../people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) (30/Jun/1821 - 30/Dec/1909)
-* [Alexander Ross](../people/@81387900@-alexander-ross-b1816-d1896-1-20.md) (about 1816 - 20/Jan/1896)
-* [Jessie Ross](../people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md) (5/Nov/1840 - 13/Jan/1918)
+* Cumming
+  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
+  * [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
+  * [James Cumming](../people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
+* MacDonald
+  * [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1875-10-29.md) (about 1807 - 29/Oct/1875)
+* Mackay
+  * [Marion Mackay](../people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) (30/Jun/1821 - 30/Dec/1909)
+* Ross
+  * [Alexander Ross](../people/@81387900@-alexander-ross-b1816-d1896-1-20.md) (about 1816 - 20/Jan/1896)
+  * [Jessie Ross](../people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md) (5/Nov/1840 - 13/Jan/1918)

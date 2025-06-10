@@ -67,7 +67,10 @@ Source Last Updated | 24/Jun/2022 12:53:37
 
 ## Source Referenced by
 
-* [Anne Chisholm](../people/@48064613@-anne-chisholm-b-d1877.md) ( - before 1877)
-* [John McLean](../people/@91397610@-john-mclean-b-d1877.md) ( - after 1877)
-* [John Morrison](../people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
-* [Mary Morrison](../people/@18316154@-mary-morrison-b1805-d1877-10-23.md) (about 1805 - 23/Oct/1877)
+* Chisholm
+  * [Anne Chisholm](../people/@48064613@-anne-chisholm-b-d1877.md) ( - before 1877)
+* McLean
+  * [John McLean](../people/@91397610@-john-mclean-b-d1877.md) ( - after 1877)
+* Morrison
+  * [John Morrison](../people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
+  * [Mary Morrison](../people/@18316154@-mary-morrison-b1805-d1877-10-23.md) (about 1805 - 23/Oct/1877)

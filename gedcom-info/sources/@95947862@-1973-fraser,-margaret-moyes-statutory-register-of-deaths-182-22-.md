@@ -58,6 +58,8 @@ Source Last Updated | 24/Apr/2025 23:22:39
 
 ## Source Referenced by
 
-* [William Mackay Cumming](../people/@99807914@-william-mackay-cumming-b1933-d2015.md) (1933 - 2015)
-* [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) (27/Jun/1901 - 24/Aug/1973)
-* [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)
+* Cumming
+  * [William Mackay Cumming](../people/@99807914@-william-mackay-cumming-b1933-d2015.md) (1933 - 2015)
+* Mackay
+  * [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) (27/Jun/1901 - 24/Aug/1973)
+  * [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)

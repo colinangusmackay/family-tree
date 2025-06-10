@@ -54,5 +54,7 @@ Source Last Updated | 12/May/2024 17:18:22
 
 ## Source Referenced by
 
-* [Morag Fraser](../people/@35363781@-morag-fraser-b-d2015.md) ( - 2015)
-* [Norman Alexander Gibson](../people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md) (19/Jun/1942 - 11/Apr/2024)
+* Fraser
+  * [Morag Fraser](../people/@35363781@-morag-fraser-b-d2015.md) ( - 2015)
+* Gibson
+  * [Norman Alexander Gibson](../people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md) (19/Jun/1942 - 11/Apr/2024)

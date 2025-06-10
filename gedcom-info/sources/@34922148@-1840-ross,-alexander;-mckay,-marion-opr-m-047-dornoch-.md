@@ -32,5 +32,7 @@ Source Last Updated | 17/Feb/2024 17:03:46
 
 ## Source Referenced by
 
-* [Marion Mackay](../people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) (30/Jun/1821 - 30/Dec/1909)
-* [Alexander Ross](../people/@81387900@-alexander-ross-b1816-d1896-1-20.md) (about 1816 - 20/Jan/1896)
+* Mackay
+  * [Marion Mackay](../people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) (30/Jun/1821 - 30/Dec/1909)
+* Ross
+  * [Alexander Ross](../people/@81387900@-alexander-ross-b1816-d1896-1-20.md) (about 1816 - 20/Jan/1896)

@@ -72,6 +72,8 @@ Source Last Updated | 28/Jan/2023 20:49:49
 
 ## Source Referenced by
 
-* [David Napier](../people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md) (12/Sep/1835 - 2/Nov/1901)
-* [David Napier](../people/@97555316@-david-napier-b1858-4-7-d.md) (7/Apr/1858 - )
-* [Agnes Nicholson](../people/@65182613@-agnes-nicholson-b1835-d.md) (about 1835 - )
+* Napier
+  * [David Napier](../people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md) (12/Sep/1835 - 2/Nov/1901)
+  * [David Napier](../people/@97555316@-david-napier-b1858-4-7-d.md) (7/Apr/1858 - )
+* Nicholson
+  * [Agnes Nicholson](../people/@65182613@-agnes-nicholson-b1835-d.md) (about 1835 - )

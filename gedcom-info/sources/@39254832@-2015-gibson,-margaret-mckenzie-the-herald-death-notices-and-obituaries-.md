@@ -21,6 +21,8 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [Norman Alexander Gibson](../people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md) (19/Jun/1942 - 11/Apr/2024)
-* [Margaret McKenzie McIver](../people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) (29/Sep/1917 - 12/Sep/2015)
-* [Thomas Clephan McIver](../people/@74287888@-thomas-clephan-mciver-b1924-d2019.md) (1924 - 2019)
+* Gibson
+  * [Norman Alexander Gibson](../people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md) (19/Jun/1942 - 11/Apr/2024)
+* McIver
+  * [Margaret McKenzie McIver](../people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) (29/Sep/1917 - 12/Sep/2015)
+  * [Thomas Clephan McIver](../people/@74287888@-thomas-clephan-mciver-b1924-d2019.md) (1924 - 2019)

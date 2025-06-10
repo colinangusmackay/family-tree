@@ -59,7 +59,9 @@ Source Last Updated | 26/May/2025 13:54:16
 
 ## Source Referenced by
 
-* [Christina Fleming](../people/@89446044@-christina-fleming-b1895-8-23-d1985.md) (23/Aug/1895 - 1985)
-* [George Mathews](../people/@81407904@-george-mathews-b1920-7-2-d.md) (2/Jul/1920 - )
-* [John Albert Mathews](../people/@5643892@-john-albert-mathews-b1895-11-21-d.md) (21/Nov/1895 - )
-* [Joseph Mathews](../people/@98232688@-joseph-mathews-b1922-6-15-d.md) (15/Jun/1922 - )
+* Fleming
+  * [Christina Fleming](../people/@89446044@-christina-fleming-b1895-8-23-d1985.md) (23/Aug/1895 - 1985)
+* Mathews
+  * [George Mathews](../people/@81407904@-george-mathews-b1920-7-2-d.md) (2/Jul/1920 - )
+  * [John Albert Mathews](../people/@5643892@-john-albert-mathews-b1895-11-21-d.md) (21/Nov/1895 - )
+  * [Joseph Mathews](../people/@98232688@-joseph-mathews-b1922-6-15-d.md) (15/Jun/1922 - )

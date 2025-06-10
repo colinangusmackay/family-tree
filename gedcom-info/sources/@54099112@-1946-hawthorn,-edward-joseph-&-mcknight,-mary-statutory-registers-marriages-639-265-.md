@@ -74,7 +74,10 @@ Source Last Updated | 17/Jan/2023 22:30:50
 
 ## Source Referenced by
 
-* [Annie Fern](../people/@53954394@-annie-fern-b1903-d1946.md) (about 1903 - before 1946)
-* [Edward Joseph Hawthorne](../people/@51411241@-edward-joseph-hawthorne-b1923-4-13-d2013.md) (about 13/Apr/1923 - 2013)
-* [Mary McKnight](../people/@41720825@-mary-mcknight-b1924-d1991.md) (about 1924 - about 1991)
-* [Richard McKnight](../people/@33327416@-richard-mcknight-b1895-4-27-d.md) (27/Apr/1895 - )
+* Fern
+  * [Annie Fern](../people/@53954394@-annie-fern-b1903-d1946.md) (about 1903 - before 1946)
+* Hawthorne
+  * [Edward Joseph Hawthorne](../people/@51411241@-edward-joseph-hawthorne-b1923-4-13-d2013.md) (about 13/Apr/1923 - 2013)
+* McKnight
+  * [Mary McKnight](../people/@41720825@-mary-mcknight-b1924-d1991.md) (about 1924 - about 1991)
+  * [Richard McKnight](../people/@33327416@-richard-mcknight-b1895-4-27-d.md) (27/Apr/1895 - )

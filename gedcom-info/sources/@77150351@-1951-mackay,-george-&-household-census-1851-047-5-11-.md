@@ -114,10 +114,12 @@ Source Last Updated | 31/May/2025 17:06:04
 
 ## Source Referenced by
 
-* [Alexander Mackay](../people/@2381836@-alexander-mackay-b1844~1849-d.md) (bet' 1844 and 1849 - )
-* [Catherine Mackay](../people/@26872816@-catherine-mackay-b1849~1856-d.md) (bet' 1849 and 1856 - )
-* [David Mackay](../people/@46263680@-david-mackay-b1846-d1860.md) (1846 - 1860)
-* [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
-* [Janet Mackay](../people/@42213240@-janet-mackay-b1840-d.md) (1840 - )
-* [William Mackay](../people/@99871003@-william-mackay-b1843~1846-d.md) (bet' 1843 and 1846 - )
-* [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)
+* Mackay
+  * [Alexander Mackay](../people/@2381836@-alexander-mackay-b1844~1849-d.md) (bet' 1844 and 1849 - )
+  * [Catherine Mackay](../people/@26872816@-catherine-mackay-b1849~1856-d.md) (bet' 1849 and 1856 - )
+  * [David Mackay](../people/@46263680@-david-mackay-b1846-d1860.md) (1846 - 1860)
+  * [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
+  * [Janet Mackay](../people/@42213240@-janet-mackay-b1840-d.md) (1840 - )
+  * [William Mackay](../people/@99871003@-william-mackay-b1843~1846-d.md) (bet' 1843 and 1846 - )
+* Matheson
+  * [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)

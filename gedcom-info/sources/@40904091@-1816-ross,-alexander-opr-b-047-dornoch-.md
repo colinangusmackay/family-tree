@@ -30,6 +30,8 @@ Source Last Updated | 17/Feb/2024 16:21:08
 
 ## Source Referenced by
 
-* [Janet MacLeod](../people/@31854910@-janet-macleod-b1798-d1864.md) (before 1798 - after 1864)
-* [Alexander Ross](../people/@81387900@-alexander-ross-b1816-d1896-1-20.md) (about 1816 - 20/Jan/1896)
-* [William Ross](../people/@31822850@-william-ross-b1780-d1864-3-31.md) (about 1780 - 31/Mar/1864)
+* MacLeod
+  * [Janet MacLeod](../people/@31854910@-janet-macleod-b1798-d1864.md) (before 1798 - after 1864)
+* Ross
+  * [Alexander Ross](../people/@81387900@-alexander-ross-b1816-d1896-1-20.md) (about 1816 - 20/Jan/1896)
+  * [William Ross](../people/@31822850@-william-ross-b1780-d1864-3-31.md) (about 1780 - 31/Mar/1864)

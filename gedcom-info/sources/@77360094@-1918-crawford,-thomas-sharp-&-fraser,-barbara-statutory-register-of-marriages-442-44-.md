@@ -76,6 +76,8 @@ Source Last Updated | 7/Jun/2025 00:33:15
 
 ## Source Referenced by
 
-* [Thomas Sharp Crawford](../people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md) (3/Aug/1897 - 5/Mar/1968)
-* [William Fullerton Crawford](../people/@48880388@-william-fullerton-crawford-b-d.md)
-* [Barbara Fraser](../people/@26057486@-barbara-fraser-b1894-d.md) (1894 - )
+* Crawford
+  * [Thomas Sharp Crawford](../people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md) (3/Aug/1897 - 5/Mar/1968)
+  * [William Fullerton Crawford](../people/@48880388@-william-fullerton-crawford-b-d.md)
+* Fraser
+  * [Barbara Fraser](../people/@26057486@-barbara-fraser-b1894-d.md) (1894 - )

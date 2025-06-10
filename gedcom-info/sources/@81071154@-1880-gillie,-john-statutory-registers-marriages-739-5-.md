@@ -78,6 +78,8 @@ Source Last Updated | 8/Jan/2022 00:31:57
 
 ## Source Referenced by
 
-* [John Gillie](../people/@49104732@-john-gillie-b1859-d1881-10-14.md) (about 1859 - 14/Oct/1881)
-* [Ann Lindores](../people/@44575087@-ann-lindores-b1859-d.md) (about 1859 - )
-* [William Lindores](../people/@80440796@-william-lindores-b1850-d.md) (before 1850 - )
+* Gillie
+  * [John Gillie](../people/@49104732@-john-gillie-b1859-d1881-10-14.md) (about 1859 - 14/Oct/1881)
+* Lindores
+  * [Ann Lindores](../people/@44575087@-ann-lindores-b1859-d.md) (about 1859 - )
+  * [William Lindores](../people/@80440796@-william-lindores-b1850-d.md) (before 1850 - )

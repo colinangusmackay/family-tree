@@ -35,5 +35,7 @@ Source Last Updated | 16/Jun/2022 23:01:18
 
 ## Source Referenced by
 
-* [Anna Catherine Fraser](../people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md) (28/Aug/1937 - 1992)
-* [Donald James Mackay](../people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md) (1931 - 29/Dec/2011)
+* Fraser
+  * [Anna Catherine Fraser](../people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md) (28/Aug/1937 - 1992)
+* Mackay
+  * [Donald James Mackay](../people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md) (1931 - 29/Dec/2011)

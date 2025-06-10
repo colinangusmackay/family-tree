@@ -41,5 +41,7 @@ Source Last Updated | 12/Jun/2022 21:11:37
 
 ## Source Referenced by
 
-* [William Andrew Campbell](../people/@4716977@-william-andrew-campbell-b1889-1-2-d.md) (2/Jan/1889 - )
-* [Rachel Smith](../people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) (11/Nov/1862 - 23/Jun/1942)
+* Campbell
+  * [William Andrew Campbell](../people/@4716977@-william-andrew-campbell-b1889-1-2-d.md) (2/Jan/1889 - )
+* Smith
+  * [Rachel Smith](../people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) (11/Nov/1862 - 23/Jun/1942)

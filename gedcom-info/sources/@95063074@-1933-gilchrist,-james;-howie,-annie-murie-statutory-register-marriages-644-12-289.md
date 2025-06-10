@@ -80,6 +80,8 @@ Source Last Updated | 8/Dec/2024 21:16:49
 
 ## Source Referenced by
 
-* [James Gilchrist](../people/@43287262@-james-gilchrist-b1904-9-9-d1998.md) (9/Sep/1904 - 1998)
-* [Annie Murie Howie](../people/@89893535@-annie-murie-howie-b1912-3-19-d.md) (19/Mar/1912 - )
-* [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-d.md) (about 1890 - )
+* Gilchrist
+  * [James Gilchrist](../people/@43287262@-james-gilchrist-b1904-9-9-d1998.md) (9/Sep/1904 - 1998)
+* Howie
+  * [Annie Murie Howie](../people/@89893535@-annie-murie-howie-b1912-3-19-d.md) (19/Mar/1912 - )
+  * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-d.md) (about 1890 - )

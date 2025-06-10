@@ -72,8 +72,11 @@ Source Last Updated | 16/Jul/2022 17:15:49
 
 ## Source Referenced by
 
-* [Catherine Docherty](../people/@61251200@-catherine-docherty-b-d1889.md) ( - before 1889)
-* [Catherine McBride](../people/@24941331@-catherine-mcbride-b1865-d.md) (about 1865 - )
-* [Patrick McBride](../people/@28079676@-patrick-mcbride-b-d1889.md) ( - before 1889)
-* [John O'Malley](../people/@50797152@-john-o'malley-b-d1889.md) ( - before 1889)
-* [Michael O'Malley](../people/@34933754@-michael-o'malley-b1851-d.md) (about 1851 - )
+* Docherty
+  * [Catherine Docherty](../people/@61251200@-catherine-docherty-b-d1889.md) ( - before 1889)
+* McBride
+  * [Catherine McBride](../people/@24941331@-catherine-mcbride-b1865-d.md) (about 1865 - )
+  * [Patrick McBride](../people/@28079676@-patrick-mcbride-b-d1889.md) ( - before 1889)
+* O'Malley
+  * [John O'Malley](../people/@50797152@-john-o'malley-b-d1889.md) ( - before 1889)
+  * [Michael O'Malley](../people/@34933754@-michael-o'malley-b1851-d.md) (about 1851 - )

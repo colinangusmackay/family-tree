@@ -74,7 +74,9 @@ Source Last Updated | 24/Jul/2022 13:50:34
 
 ## Source Referenced by
 
-* [Barbara Ann Cumming](../people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md) (30/Aug/1885 - 1977)
-* [James Cumming](../people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
-* [Donald Mackay](../people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md) (25/Nov/1876 - 22/Nov/1939)
-* [William Mackay](../people/@24694904@-william-mackay-b-d.md)
+* Cumming
+  * [Barbara Ann Cumming](../people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md) (30/Aug/1885 - 1977)
+  * [James Cumming](../people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
+* Mackay
+  * [Donald Mackay](../people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md) (25/Nov/1876 - 22/Nov/1939)
+  * [William Mackay](../people/@24694904@-william-mackay-b-d.md)

@@ -46,5 +46,7 @@ Source Last Updated | 2/Jul/2022 13:53:02
 
 ## Source Referenced by
 
-* [John Fisher](../people/@81248806@-john-fisher-b1819-d1880.md) (about 1819 - after 1880)
-* [Helen Taylor](../people/@47549486@-helen-taylor-b1816-d1865-11-27.md) (about 1816 - 27/Nov/1865)
+* Fisher
+  * [John Fisher](../people/@81248806@-john-fisher-b1819-d1880.md) (about 1819 - after 1880)
+* Taylor
+  * [Helen Taylor](../people/@47549486@-helen-taylor-b1816-d1865-11-27.md) (about 1816 - 27/Nov/1865)

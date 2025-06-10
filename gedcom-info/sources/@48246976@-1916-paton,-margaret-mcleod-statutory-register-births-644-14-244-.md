@@ -54,6 +54,8 @@ Source Last Updated | 16/Jul/2022 13:05:22
 
 ## Source Referenced by
 
-* [Jeanie McLeod](../people/@70248352@-jeanie-mcleod-b1897-d.md) (about 1897 - )
-* [John Paton](../people/@5211114@-john-paton-b1894-d.md) (about 1894 - )
-* [Margaret McLeod Paton](../people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) (14/Mar/1916 - before 2004)
+* McLeod
+  * [Jeanie McLeod](../people/@70248352@-jeanie-mcleod-b1897-d.md) (about 1897 - )
+* Paton
+  * [John Paton](../people/@5211114@-john-paton-b1894-d.md) (about 1894 - )
+  * [Margaret McLeod Paton](../people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) (14/Mar/1916 - before 2004)

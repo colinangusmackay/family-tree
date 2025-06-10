@@ -131,8 +131,12 @@ Source Last Updated | 25/Mar/2022 13:55:05
 
 ## Source Referenced by
 
-* [Janet MacLean](../people/@4850940@-janet-maclean-b1839-d.md) (about 1839 - )
-* [Roderick McIver](../people/@91038040@-roderick-mciver-b1821-d1878-10-11.md) (about 1821 - 11/Oct/1878)
-* [Christy McLean](../people/@62955988@-christy-mclean-b1846-d.md) (about 1846 - )
-* [Mary McLean](../people/@45920386@-mary-mclean-b1849-d.md) (about 1849 - )
-* [Mary Morrison](../people/@18316154@-mary-morrison-b1805-d1877-10-23.md) (about 1805 - 23/Oct/1877)
+* MacLean
+  * [Janet MacLean](../people/@4850940@-janet-maclean-b1839-d.md) (about 1839 - )
+* McIver
+  * [Roderick McIver](../people/@91038040@-roderick-mciver-b1821-d1878-10-11.md) (about 1821 - 11/Oct/1878)
+* McLean
+  * [Christy McLean](../people/@62955988@-christy-mclean-b1846-d.md) (about 1846 - )
+  * [Mary McLean](../people/@45920386@-mary-mclean-b1849-d.md) (about 1849 - )
+* Morrison
+  * [Mary Morrison](../people/@18316154@-mary-morrison-b1805-d1877-10-23.md) (about 1805 - 23/Oct/1877)

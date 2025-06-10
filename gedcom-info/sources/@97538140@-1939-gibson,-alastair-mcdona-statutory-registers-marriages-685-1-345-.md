@@ -79,7 +79,10 @@ Source Last Updated | 27/Dec/2020 18:16:55
 
 ## Source Referenced by
 
-* [Alastair McDonald Gibson](../people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) (19/Jan/1914 - 1978)
-* [Alexander Gibson](../people/@21968540@-alexander-gibson-b1860-d1939.md) (1860 - before 1939)
-* [Margaret McKenzie McIver](../people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) (29/Sep/1917 - 12/Sep/2015)
-* [Elizabeth Wilson](../people/@71295041@-elizabeth-wilson-b1872-10-31-d1942.md) (31/Oct/1872 - about 1942)
+* Gibson
+  * [Alastair McDonald Gibson](../people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) (19/Jan/1914 - 1978)
+  * [Alexander Gibson](../people/@21968540@-alexander-gibson-b1860-d1939.md) (1860 - before 1939)
+* McIver
+  * [Margaret McKenzie McIver](../people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) (29/Sep/1917 - 12/Sep/2015)
+* Wilson
+  * [Elizabeth Wilson](../people/@71295041@-elizabeth-wilson-b1872-10-31-d1942.md) (31/Oct/1872 - about 1942)

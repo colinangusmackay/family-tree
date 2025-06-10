@@ -73,7 +73,10 @@ Source Last Updated | 16/Jan/2023 22:54:32
 
 ## Source Referenced by
 
-* [Mary Faulds](../people/@14943438@-mary-faulds-b-d1901.md) ( - before 1901)
-* [James Hanton](../people/@71830064@-james-hanton-b1880-d1922-4-20.md) (about 1880 - 20/Apr/1922)
-* [William Hanton](../people/@62602830@-william-hanton-b1855-d1922.md) (about 1855 - before 1922)
-* [Janet McKechnie](../people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md) (about 1879 - 29/Jun/1949)
+* Faulds
+  * [Mary Faulds](../people/@14943438@-mary-faulds-b-d1901.md) ( - before 1901)
+* Hanton
+  * [James Hanton](../people/@71830064@-james-hanton-b1880-d1922-4-20.md) (about 1880 - 20/Apr/1922)
+  * [William Hanton](../people/@62602830@-william-hanton-b1855-d1922.md) (about 1855 - before 1922)
+* McKechnie
+  * [Janet McKechnie](../people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md) (about 1879 - 29/Jun/1949)

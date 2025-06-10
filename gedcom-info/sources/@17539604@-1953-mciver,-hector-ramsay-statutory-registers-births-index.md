@@ -20,5 +20,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [Hector Spence McIver](../people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) (12/Apr/1919 - 27/Jan/2008)
-* [Helen Fisher Ramsay](../people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md) (28/Sep/1920 - 15/Oct/2015)
+* McIver
+  * [Hector Spence McIver](../people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md) (12/Apr/1919 - 27/Jan/2008)
+* Ramsay
+  * [Helen Fisher Ramsay](../people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md) (28/Sep/1920 - 15/Oct/2015)

@@ -208,11 +208,13 @@ Source Last Updated | 24/Mar/2022 14:12:31
 
 ## Source Referenced by
 
-* [Harriet](../people/@98128898@-harriet-b1867-d.md) (about 1867 - )
-* [Albert Stead](../people/@51674188@-albert-stead-b1901-d.md) (1901 - )
-* [Cyril Stead](../people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md) (11/Mar/1908 - 25/Nov/1980)
-* [Emily Stead](../people/@58190216@-emily-stead-b1892-d.md) (about 1892 - )
-* [George Stead](../people/@77215226@-george-stead-b1911-3-d.md) (Mar/1911 - )
-* [Harry Stead](../people/@68900898@-harry-stead-b1888-d.md) (about 1888 - )
-* [Laura Stead](../people/@67809808@-laura-stead-b1904-d.md) (about 1904 - )
-* [William Stead](../people/@44546659@-william-stead-b1867-d.md) (about 1867 - )
+* 
+  * [Harriet](../people/@98128898@-harriet-b1867-d.md) (about 1867 - )
+* Stead
+  * [Albert Stead](../people/@51674188@-albert-stead-b1901-d.md) (1901 - )
+  * [Cyril Stead](../people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md) (11/Mar/1908 - 25/Nov/1980)
+  * [Emily Stead](../people/@58190216@-emily-stead-b1892-d.md) (about 1892 - )
+  * [George Stead](../people/@77215226@-george-stead-b1911-3-d.md) (Mar/1911 - )
+  * [Harry Stead](../people/@68900898@-harry-stead-b1888-d.md) (about 1888 - )
+  * [Laura Stead](../people/@67809808@-laura-stead-b1904-d.md) (about 1904 - )
+  * [William Stead](../people/@44546659@-william-stead-b1867-d.md) (about 1867 - )

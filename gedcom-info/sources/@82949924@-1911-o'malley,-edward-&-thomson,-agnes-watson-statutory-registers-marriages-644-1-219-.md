@@ -74,8 +74,11 @@ Source Last Updated | 30/Jan/2023 21:14:07
 
 ## Source Referenced by
 
-* [Elizabeth Alexander](../people/@86375908@-elizabeth-alexander-b-d1911.md) ( - before 1911)
-* [Edward O'Malley](../people/@76741424@-edward-o'malley-b1890-1-4-d.md) (4/Jan/1890 - )
-* [Michael O'Malley](../people/@34933754@-michael-o'malley-b1851-d.md) (about 1851 - )
-* [Agnes Watson Thomson](../people/@96590245@-agnes-watson-thomson-b1892-d.md) (about 1892 - )
-* [Thomas Thomson](../people/@28828844@-thomas-thomson-b-d.md)
+* Alexander
+  * [Elizabeth Alexander](../people/@86375908@-elizabeth-alexander-b-d1911.md) ( - before 1911)
+* O'Malley
+  * [Edward O'Malley](../people/@76741424@-edward-o'malley-b1890-1-4-d.md) (4/Jan/1890 - )
+  * [Michael O'Malley](../people/@34933754@-michael-o'malley-b1851-d.md) (about 1851 - )
+* Thomson
+  * [Agnes Watson Thomson](../people/@96590245@-agnes-watson-thomson-b1892-d.md) (about 1892 - )
+  * [Thomas Thomson](../people/@28828844@-thomas-thomson-b-d.md)

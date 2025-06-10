@@ -112,5 +112,7 @@ Source Last Updated | 5/Jun/2022 10:28:23
 
 ## Source Referenced by
 
-* [John Cumming](../people/@7323242@-john-cumming-b1895-10-10-d.md) (10/Oct/1895 - )
-* [Carrie Elizabeth Predendall](../people/@2361090@-carrie-elizabeth-predendall-b1901-d.md) (about 1901 - )
+* Cumming
+  * [John Cumming](../people/@7323242@-john-cumming-b1895-10-10-d.md) (10/Oct/1895 - )
+* Predendall
+  * [Carrie Elizabeth Predendall](../people/@2361090@-carrie-elizabeth-predendall-b1901-d.md) (about 1901 - )

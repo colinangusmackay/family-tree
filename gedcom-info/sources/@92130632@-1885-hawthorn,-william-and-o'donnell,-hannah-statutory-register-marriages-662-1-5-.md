@@ -86,8 +86,11 @@ Source Last Updated | 19/Jan/2023 21:49:55
 
 ## Source Referenced by
 
-* [William Hawthorn](../people/@96807032@-william-hawthorn-b-d1884.md) ( - before 1884)
-* [William Hawthorn](../people/@92463484@-william-hawthorn-b1847-d1921.md) (about 1847 - before 1921)
-* [Catherine Macauley](../people/@40946328@-catherine-macauley-b-d1884.md) ( - before 1884)
-* [Edward O'Donnell](../people/@4921696@-edward-o'donnell-b-d1884.md) ( - before 1884)
-* [Hannah O'Donnell](../people/@64641527@-hannah-o'donnell-b1857-d1921.md) (about 1857 - before 1921)
+* Hawthorn
+  * [William Hawthorn](../people/@96807032@-william-hawthorn-b-d1884.md) ( - before 1884)
+  * [William Hawthorn](../people/@92463484@-william-hawthorn-b1847-d1921.md) (about 1847 - before 1921)
+* Macauley
+  * [Catherine Macauley](../people/@40946328@-catherine-macauley-b-d1884.md) ( - before 1884)
+* O'Donnell
+  * [Edward O'Donnell](../people/@4921696@-edward-o'donnell-b-d1884.md) ( - before 1884)
+  * [Hannah O'Donnell](../people/@64641527@-hannah-o'donnell-b1857-d1921.md) (about 1857 - before 1921)

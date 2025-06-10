@@ -71,6 +71,8 @@ Source Last Updated | 10/May/2024 17:25:39
 
 ## Source Referenced by
 
-* [James Flood](../people/@27080584@-james-flood-b-d.md)
-* [Mary Elizabeth Flood](../people/@28471390@-mary-elizabeth-flood-b1921-d.md) (about 1921 - )
-* [James Hanton](../people/@30630538@-james-hanton-b1907-d1975.md) (about 1907 - 1975)
+* Flood
+  * [James Flood](../people/@27080584@-james-flood-b-d.md)
+  * [Mary Elizabeth Flood](../people/@28471390@-mary-elizabeth-flood-b1921-d.md) (about 1921 - )
+* Hanton
+  * [James Hanton](../people/@30630538@-james-hanton-b1907-d1975.md) (about 1907 - 1975)

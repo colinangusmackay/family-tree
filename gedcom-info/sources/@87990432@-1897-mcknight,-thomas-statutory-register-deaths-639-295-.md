@@ -62,6 +62,8 @@ Source Last Updated | 26/Jan/2023 22:37:25
 
 ## Source Referenced by
 
-* [Sarah Fleming](../people/@286084@-sarah-fleming-b-d1886.md) ( - before 1886)
-* [Thomas McKnight](../people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md) (about 1856 - 8/Aug/1897)
-* [William McKnight](../people/@38388851@-william-mcknight-b-d1886.md) ( - before 1886)
+* Fleming
+  * [Sarah Fleming](../people/@286084@-sarah-fleming-b-d1886.md) ( - before 1886)
+* McKnight
+  * [Thomas McKnight](../people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md) (about 1856 - 8/Aug/1897)
+  * [William McKnight](../people/@38388851@-william-mcknight-b-d1886.md) ( - before 1886)

@@ -89,5 +89,7 @@ Source Last Updated | 8/Mar/2024 11:15:55
 
 ## Source Referenced by
 
-* [Donald Ross](../people/@4496220@-donald-ross-b1872-8-30-d.md) (30/Aug/1872 - )
-* [Ollie E Walker](../people/@42365832@-ollie-e-walker-b1872-d.md) (about 1872 - )
+* Ross
+  * [Donald Ross](../people/@4496220@-donald-ross-b1872-8-30-d.md) (30/Aug/1872 - )
+* Walker
+  * [Ollie E Walker](../people/@42365832@-ollie-e-walker-b1872-d.md) (about 1872 - )

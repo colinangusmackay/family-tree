@@ -109,8 +109,10 @@ Source Last Updated | 16/Jul/2022 15:52:40
 
 ## Source Referenced by
 
-* [Catherine McBride](../people/@24941331@-catherine-mcbride-b1865-d.md) (about 1865 - )
-* [Bridget O'Malley](../people/@26923306@-bridget-o'malley-b1882-d.md) (about 1882 - )
-* [Edward O'Malley](../people/@76741424@-edward-o'malley-b1890-1-4-d.md) (4/Jan/1890 - )
-* [Michael O'Malley](../people/@34933754@-michael-o'malley-b1851-d.md) (about 1851 - )
-* [Patrick O'Malley](../people/@39412375@-patrick-o'malley-b1880-d.md) (about 1880 - )
+* McBride
+  * [Catherine McBride](../people/@24941331@-catherine-mcbride-b1865-d.md) (about 1865 - )
+* O'Malley
+  * [Bridget O'Malley](../people/@26923306@-bridget-o'malley-b1882-d.md) (about 1882 - )
+  * [Edward O'Malley](../people/@76741424@-edward-o'malley-b1890-1-4-d.md) (4/Jan/1890 - )
+  * [Michael O'Malley](../people/@34933754@-michael-o'malley-b1851-d.md) (about 1851 - )
+  * [Patrick O'Malley](../people/@39412375@-patrick-o'malley-b1880-d.md) (about 1880 - )

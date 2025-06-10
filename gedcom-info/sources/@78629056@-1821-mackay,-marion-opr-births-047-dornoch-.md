@@ -25,6 +25,8 @@ Source Last Updated | 17/Feb/2024 17:40:31
 
 ## Source Referenced by
 
-* [Christy Fraser](../people/@45275253@-christy-fraser-b1787-d1868-1-13.md) (about 1787 - 13/Jan/1868)
-* [Alexander Mackay](../people/@3089092@-alexander-mackay-b1779-d1868-1-8.md) (about 1779 - 8/Jan/1868)
-* [Marion Mackay](../people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) (30/Jun/1821 - 30/Dec/1909)
+* Fraser
+  * [Christy Fraser](../people/@45275253@-christy-fraser-b1787-d1868-1-13.md) (about 1787 - 13/Jan/1868)
+* Mackay
+  * [Alexander Mackay](../people/@3089092@-alexander-mackay-b1779-d1868-1-8.md) (about 1779 - 8/Jan/1868)
+  * [Marion Mackay](../people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) (30/Jun/1821 - 30/Dec/1909)

@@ -20,5 +20,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [Mary Hendry Crawford](../people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md) (22/Mar/1912 - 1991)
-* [Roderick McKenzie McIver](../people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md) (22/Oct/1910 - 1999)
+* Crawford
+  * [Mary Hendry Crawford](../people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md) (22/Mar/1912 - 1991)
+* McIver
+  * [Roderick McKenzie McIver](../people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md) (22/Oct/1910 - 1999)

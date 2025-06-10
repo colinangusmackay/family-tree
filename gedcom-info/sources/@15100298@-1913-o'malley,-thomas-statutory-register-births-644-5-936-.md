@@ -58,6 +58,8 @@ Source Last Updated | 16/Jul/2022 21:50:46
 
 ## Source Referenced by
 
-* [Edward O'Malley](../people/@76741424@-edward-o'malley-b1890-1-4-d.md) (4/Jan/1890 - )
-* [Thomas O'Malley](../people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md) (4/Sep/1913 - before 2004)
-* [Agnes Watson Thomson](../people/@96590245@-agnes-watson-thomson-b1892-d.md) (about 1892 - )
+* O'Malley
+  * [Edward O'Malley](../people/@76741424@-edward-o'malley-b1890-1-4-d.md) (4/Jan/1890 - )
+  * [Thomas O'Malley](../people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md) (4/Sep/1913 - before 2004)
+* Thomson
+  * [Agnes Watson Thomson](../people/@96590245@-agnes-watson-thomson-b1892-d.md) (about 1892 - )
