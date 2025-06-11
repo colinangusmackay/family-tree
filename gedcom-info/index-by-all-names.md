@@ -171,7 +171,7 @@ permalink: /indexes/by-all-names
 - **[Cumming](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
 - **[Cumming](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - )
 - **[Cumming](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
-- **[Donald Bernard Cumming](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025)
+- **[Donald Bernard Cumming](people/@88821212@-donald-bernard-cumming-b1938-d2025-3-9.md)** (1938 - 9/Mar/2025)
 - **[Donald Cumming](people/@24876512@-donald-cumming-b-d.md)**
 - **[Donald Cumming](people/@69575920@-donald-cumming-b-d1875.md)** ( - after 1875)
 - **[Donald Cumming](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
@@ -324,7 +324,9 @@ permalink: /indexes/by-all-names
 
 ## Fraser
 
+- **[Alex Fraser](people/@36585616@-alexander-fraser-b1859-8-29-d.md)** (29/Aug/1859 - )
 - **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
+- **[Alexander Fraser](people/@36585616@-alexander-fraser-b1859-8-29-d.md)** (29/Aug/1859 - )
 - **[Alexander Fraser](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966)
 - **[Ann Fraser](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891)
 - **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
@@ -861,7 +863,7 @@ permalink: /indexes/by-all-names
 - **[Annie McKenzie](people/@80021760@-annie-mckenzie-b1874-d.md)** (about 1874 - )
 - **[Barbara McKenzie](people/@18932462@-barbara-mckenzie-b1876-d.md)** (about 1876 - )
 - **[Christina McKenzie](people/@25915316@-christina-mckenzie-b1880-d.md)** (about 1880 - )
-- **[Isabella McKenzie](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
+- **[Isabella McKenzie](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923)
 - **[Jessie Paterson McKenzie](people/@2043547@-jessie-paterson-mckenzie-b1888-d.md)** (about 1888 - )
 - **[Maggie P McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[Malcolm McKenzie](people/@40866411@-malcolm-mckenzie-b1893-d.md)** (1893 - )
@@ -1040,8 +1042,8 @@ permalink: /indexes/by-all-names
 - **[Ann Paterson](people/@11400006@-ann-paterson-b1853-d.md)** (about 1853 - )
 - **[Barbara Paterson](people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md)** (about 1823 - 27/Apr/1884)
 - **[Barbara Paterson](people/@65135072@-barbara-paterson-b1857-d.md)** (about 1857 - )
-- **[Bella Paterson](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
-- **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
+- **[Bella Paterson](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923)
+- **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923)
 - **[Jessie Paterson](people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md)** (11/Oct/1859 - 11/Mar/1881)
 - **[John Paterson](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - )
 - **[Margaret Paterson](people/@23268600@-margaret-mackintosh-b-d.md)**

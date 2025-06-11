@@ -11,7 +11,7 @@ Field | Detail
 ---:|:---
 Original Document Date | 26/Nov/1940
 Source Created | 8/May/2020 23:38:27
-Source Last Updated | 24/Mar/2022 14:29:04
+Source Last Updated | 11/Jun/2025 22:34:46
 
 ## Text
 
@@ -25,6 +25,18 @@ Source Last Updated | 24/Mar/2022 14:29:04
 >
 > Glasgow
 >
+
+## Images
+
+### Baptism note
+
+![Baptism note](../media/8304760.jpg)
+
+## Notes
+
+> This was a handwritten note on the back of the birth extract for Margaret Paton O'Malley
+>
+
 
 ## Source Referenced by
 

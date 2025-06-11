@@ -193,7 +193,7 @@ permalink: /indexes/by-date-of-birth
   * **[MacDonald, Donald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - )
   * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
   * **[Mackay, Sophia](people/@52720474@-sophia-mackay-b1850-d.md)** (before 1850 - )
-  * **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
+  * **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923)
   * **[Punton, Joan](people/@98605400@-joan-punton-b1850-d.md)** (before 1850 - )
 * **Born in 1851.**
   * **[Fisher, Johanna](people/@76159436@-johanna-fisher-b1851-d.md)** (about 1851 - )
@@ -246,6 +246,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, Jane or Jean](people/@4172390@-jane-or-jean-mackay-b1859-d.md)** (about 1859 - )
   * **[Mackay, John](people/@23272301@-john-mackay-b1859-d.md)** (1859 - )
   * **[Ross, John Hugh](people/@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md)** (19/Jun/1859 - 7/Oct/1941)
+  * **[Fraser, Alexander](people/@36585616@-alexander-fraser-b1859-8-29-d.md)** (29/Aug/1859 - )
   * **[Paterson, Jessie](people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md)** (11/Oct/1859 - 11/Mar/1881)
 
 ### 1860s
@@ -665,7 +666,7 @@ permalink: /indexes/by-date-of-birth
   * **[Stead, Norman](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
   * **[Roberts, Sandra Jane](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
 * **Born in 1938.**
-  * **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025)
+  * **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3-9.md)** (1938 - 9/Mar/2025)
   * **[MacKay, Anna Jessie](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
 
 ### 1940s

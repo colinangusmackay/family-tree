@@ -152,5 +152,5 @@ Source Last Updated | 26/May/2025 16:01:55
   * [Roderick McKenzie](../people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) (about 1851 - 23/Jan/1929)
   * [William P McKenzie](../people/@51734912@-william-p-mckenzie-b1878-d.md) (about 1878 - )
 * Paterson
-  * [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
+  * [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1923-2-27.md) (1850 - 27/Feb/1923)
   * [William Paterson](../people/@55148620@-william-paterson-b1823-d1906-4-26.md) (about 1823 - 26/Apr/1906)

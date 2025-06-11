@@ -111,6 +111,7 @@ permalink: /indexes/by-death-location
 - **[Flood, James](people/@27080584@-james-flood-b-d.md)**
 - **[Flood, Mary Elizabeth](people/@28471390@-mary-elizabeth-flood-b1921-d.md)** (about 1921 - )
 - **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
+- **[Fraser, Alexander](people/@36585616@-alexander-fraser-b1859-8-29-d.md)** (29/Aug/1859 - )
 - **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
 - **[Fraser, Anna Catherine](people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md)** (28/Aug/1937 - 1992)
 - **[Fraser, Barbara](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - )
@@ -371,7 +372,6 @@ permalink: /indexes/by-death-location
 - **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004)
 - **[Paterson, Ann](people/@11400006@-ann-paterson-b1853-d.md)** (about 1853 - )
 - **[Paterson, Barbara](people/@65135072@-barbara-paterson-b1857-d.md)** (about 1857 - )
-- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
 - **[Paterson, Jessie](people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md)** (11/Oct/1859 - 11/Mar/1881)
 - **[Paterson, John](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - )
 - **[Paterson, Margaret](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
@@ -557,9 +557,9 @@ permalink: /indexes/by-death-location
 
 ### Worcestershire
 
-#### Malvern
+#### Worcester
 
-- **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025)
+- **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3-9.md)** (1938 - 9/Mar/2025)
 
 
 ## German Ocean
@@ -631,6 +631,7 @@ permalink: /indexes/by-death-location
 - **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998)
 - **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
 - **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929)
+- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923)
 
 ### Highland
 

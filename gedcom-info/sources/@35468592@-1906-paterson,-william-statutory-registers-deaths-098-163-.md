@@ -57,5 +57,5 @@ Source Last Updated | 6/Jul/2022 23:23:45
 
 ## Source Referenced by
 
-* [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
+* [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1923-2-27.md) (1850 - 27/Feb/1923)
 * [William Paterson](../people/@55148620@-william-paterson-b1823-d1906-4-26.md) (about 1823 - 26/Apr/1906)

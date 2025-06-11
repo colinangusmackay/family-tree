@@ -595,6 +595,10 @@
           "Day": 27,
           "Events": [
             {
+              "Date": "1923-02-27",
+              "Description": "[Isabella Paterson](/family-tree/people/i24882788) died on 27th of February 1923 at 03:45 at 104 Berkeley Street, Glasgow."
+            },
+            {
               "Date": "1838-02-27",
               "Description": "[Isabella Mackay](/family-tree/people/i41556256) was born on 27th of February 1838 to [Alexander Mackay](/family-tree/people/i60647890) and [Ann Johnson](/family-tree/people/i85807260)."
             },
@@ -686,7 +690,12 @@
         },
         {
           "Day": 9,
-          "Events": []
+          "Events": [
+            {
+              "Date": "2025-03-09",
+              "Description": "[Donald Bernard Cumming](/family-tree/people/i88821212) died on 9th of March 2025 at Worcestershire Royal Hospital, Worcester, Worcestershire, England."
+            }
+          ]
         },
         {
           "Day": 10,
@@ -2219,6 +2228,10 @@
         {
           "Day": 29,
           "Events": [
+            {
+              "Date": "1859-08-29",
+              "Description": "[Alexander Fraser](/family-tree/people/i36585616) was born on 29th of August 1859 at 04:00 to [Alexander Fraser](/family-tree/people/i97086424) and [Isabella Mackay](/family-tree/people/i41556256) in Embo, Sutherland, Scotland."
+            },
             {
               "Date": "1881-08-29",
               "Description": "[Thomas Tennant Fleming](/family-tree/people/i79327488) was born on 29th of August 1881 to [Joseph Fleming](/family-tree/people/i57117702) and [Margaret Tennant](/family-tree/people/i14002910) in Forth, Lanarkshire, Scotland."

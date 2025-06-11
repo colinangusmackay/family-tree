@@ -154,7 +154,6 @@ This is a list of people who have vague or unknown dates of birth.
   * **[MacDonald, Donald](people/@28173184@-donald-macdonald-b1850-d.md)** (before 1850 - )
   * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
   * **[Mackay, Sophia](people/@52720474@-sophia-mackay-b1850-d.md)** (before 1850 - )
-  * **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
   * **[Punton, Joan](people/@98605400@-joan-punton-b1850-d.md)** (before 1850 - )
 * **Born in 1851.**
   * **[Fisher, Johanna](people/@76159436@-johanna-fisher-b1851-d.md)** (about 1851 - )

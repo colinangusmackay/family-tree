@@ -156,7 +156,7 @@ Source Last Updated | 4/Jul/2022 21:31:55
 * Paterson
   * [Ann Paterson](../people/@11400006@-ann-paterson-b1853-d.md) (about 1853 - )
   * [Barbara Paterson](../people/@65135072@-barbara-paterson-b1857-d.md) (about 1857 - )
-  * [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
+  * [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1923-2-27.md) (1850 - 27/Feb/1923)
   * [Jessie Paterson](../people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md) (11/Oct/1859 - 11/Mar/1881)
   * [John Paterson](../people/@54157362@-john-paterson-b1855-d.md) (about 1855 - )
   * [Margaret Paterson](../people/@93188721@-margaret-paterson-b1848-d.md) (about 1848 - )

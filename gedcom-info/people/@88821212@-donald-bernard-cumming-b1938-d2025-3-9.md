@@ -5,7 +5,7 @@ permalink: /people/i88821212
 ---
 
 # Donald Bernard Cumming
-(1938 - MAR 2025)
+(1938 - 9 March, 2025)
 
 ## Immediate Family
 
@@ -27,14 +27,16 @@ Date | Item | Description | Sources | Notes
 2/Jul/1975 | Death of father | [James Cumming](./@492889@-james-cumming-b1894-11-7-d1975-7-2.md) died. | [1](#1) | 
 4/Nov/2003 | Death of mother | [Williamina Gillie](./@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md) died. | [1](#1) | 
 12/Sep/2009 | Death of sister | [Wilma May Cumming](./@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md) died in Edinburgh, Scotland. | [2](#2), [3](#3), [4](#4) | 
-Mar/2025 | Died | Died in Malvern, Worcestershire, England. |  | 
+Mar/2025 | CREM |  | [5](#5) | 
+9/Mar/2025 | Died | Died in Worcester, Worcestershire, England, . | [5](#5) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1960 | Niddrie Marischal Schoolhouse, Edinburgh, Scotland | [5](#5)
-bet' 2003 and 2008 | Ardchoile, West Terrace, Kingussie, PH21 1HB, Scotland | [6](#6)
+1960 | Niddrie Marischal Schoolhouse, Edinburgh, Scotland | [6](#6)
+bet' 2003 and 2008 | Ardchoile, West Terrace, Kingussie, PH21 1HB, Scotland | [7](#7)
+2016 | Kingussie, Highland, Scotland | [8](#8)
 
 ## Footnotes
 
@@ -75,6 +77,16 @@ bet' 2003 and 2008 | Ardchoile, West Terrace, Kingussie, PH21 1HB, Scotland | [6
 
 ### 5
 
+**2025 CUMMING, DONALD (Strathspey & Badenoch Herald - Death Notices)**
+
+* [Full text and notes](../sources/@79630532@-2025-cumming,-donald-strathspey-&-badenoch-herald-death-notices-.md)
+* Publication: Strathspey and Badenoch Herald
+* Date: Mar/2025
+* References: 
+  * (URL) https://www.strathspey-herald.co.uk/family-notices/death-notices/cumming-h0014495-v1/
+
+### 6
+
 **1960 CUMMING, JAMES, WILLIAMINA & DONALD B (Edinburgh, Scotland, Electoral Registers, 1832-1966)**
 
 * [Full text and notes](../sources/@43991336@-1960-cumming,-james,-williamina-&-donald-b-edinburgh,-scotland,-electoral-registers,-1832-1966-.md)
@@ -84,9 +96,19 @@ bet' 2003 and 2008 | Ardchoile, West Terrace, Kingussie, PH21 1HB, Scotland | [6
 * References: 
   * Sl56/153
 
-### 6
+### 7
 
 **2003-2008 CUMMING, DONALD B (UK, Electoral Registers, 2003-2010)**
 
 * [Full text and notes](../sources/@82785386@-2003-2008-cumming,-donald-b-uk,-electoral-registers,-2003-2010-.md)
+
+### 8
+
+**2016 X, BEN & X (Press and Journal - Plug pulled on Vue’s cinema club for pensioners)**
+
+* [Full text and notes](../sources/@69480058@-2016-cumming,-ben-&-audrey-press-and-journal-plug-pulled-on-vue’s-cinema-club-for-pensioners-.md)
+* Publication: The Press and Journal
+* Date: 13/Aug/2016
+* References: 
+  * (URL) https://www.pressandjournal.co.uk/fp/news/aberdeen-aberdeenshire/999434/plugs-pulled-on-cinema-club/
 

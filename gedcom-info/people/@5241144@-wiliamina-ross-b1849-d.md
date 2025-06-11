@@ -42,6 +42,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1871 | Fisherwoman | [4](#4)
 
+## Notes
+
+> Griggs 1.2.4
+>
+
+
 ## Footnotes
 
 ### 1

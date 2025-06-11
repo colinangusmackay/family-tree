@@ -270,7 +270,7 @@ There were 24 people who worked as a Domestic Servant of some sort.
 * **[McLean, Mary Ann](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - ).
 * **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ).
 * **[O'Donnell, Hannah](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921).
-* **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929).
+* **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923).
 * **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ).
 * **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - ).
 
@@ -498,7 +498,7 @@ There were 75 people who worked as a Fish Worker of some sort.
 * **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - ).
 * **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ).
 * **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ).
-* **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
+* **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ), mentioned twice.
 * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned twice.
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
 * **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889).
@@ -595,7 +595,7 @@ There were 60 people who worked as a Fisher of some sort.
 * **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - ).
 * **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ).
 * **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ).
-* **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ).
+* **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ), mentioned twice.
 * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned twice.
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
 * **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889).

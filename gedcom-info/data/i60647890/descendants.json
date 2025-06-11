@@ -15,6 +15,15 @@
       "DateOfDeath": "",
       "Children": [
         {
+          "Id": "i36585616",
+          "Name": "Alexander Fraser",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "29/Aug/1859",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
           "Id": "i70425788",
           "Name": "Ann Fraser",
           "Gender": "Female",
@@ -146,7 +155,7 @@
                   "Gender": "Male",
                   "Relationship": "son",
                   "DateOfBirth": "1938",
-                  "DateOfDeath": "Mar/2025",
+                  "DateOfDeath": "9/Mar/2025",
                   "Children": []
                 },
                 {

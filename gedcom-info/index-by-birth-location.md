@@ -42,7 +42,7 @@ permalink: /indexes/by-birth-location
 - **[Cumming, Ann](people/@19882075@-ann-cumming-b-d.md)**
 - **[Cumming, Ann](people/@5075008@-ann-cumming-b-d.md)**
 - **[Cumming, Christy](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
-- **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025)
+- **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3-9.md)** (1938 - 9/Mar/2025)
 - **[Cumming, Donald](people/@24876512@-donald-cumming-b-d.md)**
 - **[Cumming, Donald](people/@69575920@-donald-cumming-b-d1875.md)** ( - after 1875)
 - **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
@@ -721,7 +721,7 @@ permalink: /indexes/by-birth-location
 
 #### Beauly
 
-- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
+- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923)
 
 #### Gairloch
 
@@ -794,6 +794,7 @@ permalink: /indexes/by-birth-location
 - **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
 - **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
 - **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
+- **[Fraser, Alexander](people/@36585616@-alexander-fraser-b1859-8-29-d.md)** (29/Aug/1859 - )
 - **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966)
 - **[Fraser, Ann](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891)
 - **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)

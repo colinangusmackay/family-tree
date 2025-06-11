@@ -59,4 +59,4 @@ Source Last Updated | 3/Jul/2022 11:14:25
   * [Margaret Paterson McKenzie](../people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) (26/May/1884 - 5/Apr/1964)
   * [Roderick McKenzie](../people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) (about 1851 - 23/Jan/1929)
 * Paterson
-  * [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1929.md) (about 1850 - before 1929)
+  * [Isabella Paterson](../people/@24882788@-isabella-paterson-b1850-d1923-2-27.md) (1850 - 27/Feb/1923)

@@ -42,6 +42,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1871 | Fisherman | [2](#2)
 
+## Notes
+
+> Griggs R1.2.5
+>
+
+
 ## Footnotes
 
 ### 1

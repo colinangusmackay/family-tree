@@ -80,7 +80,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1870s
 
 * **1872**
-  * **18/Jul/1872** : **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929) and **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929) at Glasgow, Scotland.
+  * **18/Jul/1872** : **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929) and **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923) at Glasgow, Scotland.
 * **1873**
   * **Feb/1873** : **[Andrew Sutherland](people/@91612548@-andrew-sutherland-b-d1900.md)** ( - after 1900) and **[Mary MacDonald](people/@10426344@-mary-macdonald-b-d1900.md)** ( - after 1900) at Golspie, Sutherland, Scotland.
   * **21/Oct/1873** : **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ) and **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - ).
@@ -288,7 +288,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1965**
   * **1965** : **[Norman Alexander Gibson](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024) and **[Morag Fraser](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015) at Aberdeen, Aberdeenshire, Scotland.
   * **1965** : X and **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) at Paisley, Renfrewshire, Scotland.
-  * **1965** : **[Donald Bernard Cumming](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025) and X.
+  * **1965** : **[Donald Bernard Cumming](people/@88821212@-donald-bernard-cumming-b1938-d2025-3-9.md)** (1938 - 9/Mar/2025) and X.
 * **1968**
   * **14/Dec/1968** : **[Dan Hayes](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018) and X.
 * **1969**

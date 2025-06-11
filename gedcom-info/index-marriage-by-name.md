@@ -57,7 +57,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md)** (30/Aug/1885 - 1977) and **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939) **on 27th of November 1903**.
   * **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ) and **[Margaret McRae](people/@57014804@-margaret-mcrae-b-d.md)** **on 22nd of December 1916** at Dingwall, Ross & Cromarty, Scotland.
   * **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967) and **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978) **on 12th of April 1918** at Middlesborough, England.
-  * **[Donald Bernard Cumming](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025) and X **in 1965**.
+  * **[Donald Bernard Cumming](people/@88821212@-donald-bernard-cumming-b1938-d2025-3-9.md)** (1938 - 9/Mar/2025) and X **in 1965**.
   * **[Donald J Cumming](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946) **on 25th of October 1887** at Dornoch, Sutherland, Scotland.
   * **[Donald James Cumming](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976) and **[Phylis Martensen](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018) **in 1947** at , Norfolk County, Massachusetts, United States of America.
   * **[Elizabeth Cumming](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ) and **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - ) **on 28th of July 1911** at Boston, Massachusetts, United States of America.
@@ -338,7 +338,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## McKenzie
 
   * **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) and **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938) **on 31st of December 1909** at Glasgow, Scotland.
-  * **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929) and **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929) **on 18th of July 1872** at Glasgow, Scotland.
+  * **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929) and **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923) **on 18th of July 1872** at Glasgow, Scotland.
 
 ## McKnight
 
@@ -417,7 +417,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Paterson
 
-  * **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929) and **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929) **on 18th of July 1872** at Glasgow, Scotland.
+  * **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923) and **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929) **on 18th of July 1872** at Glasgow, Scotland.
   * **[William Paterson](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906) and **[Barbara Mackenzie](people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md)** (about 1823 - 27/Apr/1884) **on 7th of August 1847** at Knockbain, Ross and Cromarty, Scotland.
 
 ## Paton

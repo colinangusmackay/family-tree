@@ -116,7 +116,7 @@ permalink: /indexes/by-residence-location
 
 ### Edinburgh
 
-- **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025)
+- **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3-9.md)** (1938 - 9/Mar/2025)
 - **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 - **[Cumming, Wilma May](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009)
 - **[Fisher, Agnes](people/@45605556@-agnes-fisher-b1887-d.md)** (about 1887 - )
@@ -251,7 +251,7 @@ permalink: /indexes/by-residence-location
 - **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1890-1-4-d.md)** (4/Jan/1890 - )
 - **[O'Malley, Michael](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - )
 - **[O'Malley, Patrick](people/@39412375@-patrick-o'malley-b1880-d.md)** (about 1880 - )
-- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
+- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923)
 - **[Paton, John](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - )
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
 - **[Thomson, Agnes Watson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
@@ -264,14 +264,14 @@ permalink: /indexes/by-residence-location
 
 #### Kingussie
 
-- **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3.md)** (1938 - Mar/2025)
+- **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3-9.md)** (1938 - 9/Mar/2025)
 
 ### Inverness
 
 - **[Mackenzie, Barbara](people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md)** (about 1823 - 27/Apr/1884)
 - **[Paterson, Ann](people/@11400006@-ann-paterson-b1853-d.md)** (about 1853 - )
 - **[Paterson, Barbara](people/@65135072@-barbara-paterson-b1857-d.md)** (about 1857 - )
-- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
+- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923)
 - **[Paterson, Jessie](people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md)** (11/Oct/1859 - 11/Mar/1881)
 - **[Paterson, John](people/@54157362@-john-paterson-b1855-d.md)** (about 1855 - )
 - **[Paterson, Margaret](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
@@ -284,7 +284,7 @@ permalink: /indexes/by-residence-location
 #### Kirkhill
 
 - **[Mackenzie, Barbara](people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md)** (about 1823 - 27/Apr/1884)
-- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1929.md)** (about 1850 - before 1929)
+- **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923)
 - **[Paterson, Margaret](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
 - **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906)
 

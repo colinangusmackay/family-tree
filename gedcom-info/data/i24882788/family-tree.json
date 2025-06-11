@@ -3,8 +3,8 @@
     "Id": "i24882788",
     "Name": "Isabella Paterson",
     "Gender": "Female",
-    "DateOfBirth": "about 1850",
-    "DateOfDeath": "before 1929"
+    "DateOfBirth": "1850",
+    "DateOfDeath": "27/Feb/1923"
   },
   "Parents": [
     {
@@ -43,8 +43,8 @@
       "Id": "i24882788",
       "Name": "Isabella Paterson",
       "Gender": "Female",
-      "DateOfBirth": "about 1850",
-      "DateOfDeath": "before 1929",
+      "DateOfBirth": "1850",
+      "DateOfDeath": "27/Feb/1923",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
