@@ -27,7 +27,7 @@ Date | Item | Description | Sources | Notes
 2/Jul/1975 | Death of father | [James Cumming](./@492889@-james-cumming-b1894-11-7-d1975-7-2.md) died. | [1](#1) | 
 4/Nov/2003 | Death of mother | [Williamina Gillie](./@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md) died. | [1](#1) | 
 12/Sep/2009 | Death of sister | [Wilma May Cumming](./@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md) died in Edinburgh, Scotland. | [2](#2), [3](#3), [4](#4) | 
-Mar/2025 | CREM |  | [5](#5) | 
+Mar/2025 | Cremation | Was cremated in Malvern, Worcestershire, England. | [5](#5) | 
 9/Mar/2025 | Died | Died in Worcester, Worcestershire, England, . | [5](#5) | 
 
 ## Known Residences
