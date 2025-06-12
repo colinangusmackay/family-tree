@@ -103,4 +103,5 @@ after 1993 | 217 Citrus Grove Bv, Polk City, Florida, United States of America |
 * [Full text and notes](../sources/@48988278@-1996-cumming,-christine-letter-from-isabel-cumming-to-hamish-mackay-.md)
 * Originator / Author: Isabel Cumming
 * Date: 21/Nov/1996
+* ![1 - Letter](../media/62020309_thumb.jpg) ![2 - Attachment note](../media/59618648_thumb.jpg) ![3 - attachment: newspaper notice](../media/3544600_thumb.jpg) ![4 - attachment: Funeral Program](../media/27839156_thumb.jpg)
 

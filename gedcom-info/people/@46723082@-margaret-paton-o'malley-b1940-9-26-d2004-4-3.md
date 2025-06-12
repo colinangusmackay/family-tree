@@ -76,6 +76,7 @@ before 2004 | Office/Contract Cleaner | [17](#17), [20](#20), [21](#21)
 
 * [Full text and notes](../sources/@35893156@-1940-o'malley,-margaret-paton-baptism-.md)
 * Date: 26/Nov/1940
+* ![Baptism note](../media/8304760_thumb.jpg)
 
 ### 4
 

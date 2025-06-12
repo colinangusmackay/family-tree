@@ -65,6 +65,7 @@ Unknown | Head of Department of Arts, Design and Performance in Manchester, Engl
 
 * [Full text and notes](../sources/@60420349@-2024-gibson,-norman-funeral-service-programme-.md)
 * Date: 30/Apr/2024
+* ![1 - Funeral Programme (front)](../media/79617421_thumb.jpg) ![2 - Funeral Programme (inside)](../media/42449423_thumb.jpg) ![3 - Funeral programme (back cover)](../media/56208940_thumb.jpg)
 
 ### 3
 

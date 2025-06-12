@@ -137,6 +137,7 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: Greater Glasgow Health Board
 * References: 
   * (NHS Number) SXHB-133-1
+* ![NHS Medical Card](../media/61715849_thumb.jpg)
 
 ### 7
 

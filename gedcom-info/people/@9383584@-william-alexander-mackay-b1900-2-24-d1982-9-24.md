@@ -211,6 +211,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * Date: 21/Mar/1930
 * References: 
   * (Registration Certificate Number) 8878
+* ![Certificate of Marriage - William Alexander Mackay & Mary Ann Cumming](../media/57388492_thumb.jpg)
 
 ### 13
 
@@ -299,6 +300,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 
 * [Full text and notes](../sources/@53514060@-2019-gilchrist,-isabella-née-mackay-memorial-service-programme.md)
 * Date: 27/Dec/2019
+* ![1 - Front](../media/72163232_thumb.jpg) ![2 - Back](../media/19521878_thumb.jpg)
 
 ### 23
 
@@ -381,6 +383,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 **1981 MACKAY, MARY ANN (Register of Interments, Western Necropolis, Glasgow)**
 
 * [Full text and notes](../sources/@27456125@-1981-mackay,-mary-ann-register-of-interments,-western-necropolis,-glasgow-.md)
+* ![Extract from the Register of Interments](../media/97217076_thumb.jpg)
 
 ### 32
 
@@ -396,6 +399,7 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 **1982 MACKAY, WILLIAM A (Register of Interments, Western Necropolis, Glasgow)**
 
 * [Full text and notes](../sources/@43410300@-1982-mackay,-william-a-register-of-interments,-western-necropolis,-glasgow-.md)
+* ![Extract from the Register of Interments](../media/9684528_thumb.jpg)
 
 ### 34
 

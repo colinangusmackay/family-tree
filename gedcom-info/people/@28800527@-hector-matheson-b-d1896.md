@@ -34,6 +34,7 @@ before 1896 | Crofter | [3](#3), [1](#1), [4](#4)
 * Originator / Author: John MacLennan
 * Date: 19/Jul/1984
 * Responsible Agency: Highland Regional Council
+* ![Page 1](../media/50134495_thumb.jpg) ![Page 2](../media/73992741_thumb.jpg)
 
 ### 2
 
