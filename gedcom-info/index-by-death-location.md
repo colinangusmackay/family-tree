@@ -7,6 +7,7 @@ permalink: /indexes/by-death-location
 
 ## _Unknown_
 
+- **[, Agnes](people/@96321158@-agnes-b-d.md)**
 - **[, Elizabeth](people/@8553973@-elizabeth-b-d.md)**
 - **[, Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
 - **[, Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
@@ -110,17 +111,22 @@ permalink: /indexes/by-death-location
 - **[Fleming, William](people/@78368531@-william-fleming-b1858-d.md)** (about 1858 - )
 - **[Flood, James](people/@27080584@-james-flood-b-d.md)**
 - **[Flood, Mary Elizabeth](people/@28471390@-mary-elizabeth-flood-b1921-d.md)** (about 1921 - )
-- **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - )
 - **[Fraser, Alexander](people/@36585616@-alexander-fraser-b1859-8-29-d.md)** (29/Aug/1859 - )
-- **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
+- **[Fraser, Alexander](people/@60675311@-alexander-fraser-b1889-d.md)** (1889 - )
 - **[Fraser, Anna Catherine](people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md)** (28/Aug/1937 - 1992)
+- **[Fraser, Barbara](people/@65128525@-barbara-fraser-b1887-d.md)** (1887 - )
 - **[Fraser, Barbara](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - )
 - **[Fraser, Bella](people/@25936309@-bella-fraser-b1902-d.md)** (1902 - )
 - **[Fraser, Christina](people/@8163648@-christina-fraser-b1904-d.md)** (1904 - )
 - **[Fraser, Christy](people/@91889557@-christy-fraser-b1791-d.md)** (1791 - )
 - **[Fraser, Davidina](people/@27014400@-davidina-fraser-b1912-d.md)** (1912 - )
+- **[Fraser, George](people/@78876088@-george-fraser-b1896-d.md)** (1896 - )
+- **[Fraser, Isabella](people/@92660555@-isabella-fraser-b1863-d.md)** (about 1863 - )
+- **[Fraser, Isabella](people/@81999219@-isabella-fraser-b1900-d.md)** (1900 - )
 - **[Fraser, John J Barrow G](people/@43044884@-john-j-barrow-g-fraser-b1906-d.md)** (1906 - )
+- **[Fraser, Kenneth](people/@89580356@-kenneth-fraser-b1890-8-13-d.md)** (13/Aug/1890 - )
 - **[Fraser, Kenneth](people/@73587538@-kenneth-fraser-b1900-d.md)** (1900 - )
+- **[Fraser, Mary Ann](people/@94394924@-mary-ann-fraser-b1892-d.md)** (1892 - )
 - **[Fraser, Morag](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015)
 - **[Fraser, Peter](people/@16594334@-peter-fraser-b-d.md)**
 - **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889)
@@ -150,7 +156,6 @@ permalink: /indexes/by-death-location
 - **[Grant, Jessie](people/@31091676@-jessie-grant-b-d.md)**
 - **[Grant, Margaret](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
 - **[Gregory, Belle](people/@91101318@-belle-gregory-b-d.md)**
-- **[Grieve, Jane](people/@33882736@-jane-grieve-b-d.md)**
 - **[Hanton, William](people/@62602830@-william-hanton-b1855-d1922.md)** (about 1855 - before 1922)
 - **[Hawthorn, Edward](people/@88518114@-edward-hawthorn-b1886-d.md)** (about 1886 - )
 - **[Hawthorn, James](people/@21482384@-james-hawthorn-b1877-d.md)** (about 1877 - )
@@ -335,7 +340,9 @@ permalink: /indexes/by-death-location
 - **[Mitchell, ?](people/@47829915@--mitchell-b-d.md)**
 - **[Morgan, Andrew](people/@23628312@-andrew-morgan-b1849-d.md)** (about 1849 - )
 - **[Morgan, Ann](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - )
-- **[Morgan, John](people/@38398015@-john-morgan-b-d.md)**
+- **[Morgan, David](people/@38398015@-david-morgan-b-d.md)**
+- **[Morris, Catherine](people/@33882736@-catherine-morris-b1816-d.md)** (1816 - )
+- **[Morris, James](people/@82086731@-james-morris-b-d.md)**
 - **[Morrison, Jamesina](people/@11801376@-jamesina-morrison-b-d.md)**
 - **[Morrison, John](people/@39757210@-john-morrison-b-d1877.md)** ( - before 1877)
 - **[Munn, Campbell Elizabeth](people/@11230712@-campbell-elizabeth-munn-b-d.md)**
@@ -386,17 +393,24 @@ permalink: /indexes/by-death-location
 - **[Prey, Mary E](people/@37901232@-mary-e-prey-b-d.md)**
 - **[Pritchard, Elisabeth](people/@8049072@-elisabeth-pritchard-b-d1910.md)** ( - before 1910)
 - **[Punton, Joan](people/@98605400@-joan-punton-b1850-d.md)** (before 1850 - )
+- **[Ramsay, Agnes](people/@73804628@-agnes-ramsay-b1847-d.md)** (1847 - )
 - **[Ramsay, Agnes](people/@57916783@-agnes-ramsay-b1873-d.md)** (about 1873 - )
 - **[Ramsay, Allan](people/@62219744@-allan-ramsay-b1911-d1932.md)** (1911 - 1932)
 - **[Ramsay, Bruce Morgan](people/@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md)** (10/Oct/1913 - 29/Nov/1965)
+- **[Ramsay, Catherine](people/@12774174@-catherine-ramsay-b1860-d.md)** (1860 - )
 - **[Ramsay, Cattie](people/@35547078@-cattie-ramsay-b1877-d.md)** (about 1877 - )
+- **[Ramsay, David](people/@17577117@-david-ramsay-b1844-d.md)** (1844 - )
 - **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
-- **[Ramsay, George](people/@33817858@-george-ramsay-b-d.md)**
+- **[Ramsay, Euphemia](people/@99132181@-euphemia-ramsay-b1855-d.md)** (1855 - )
 - **[Ramsay, Isabella](people/@54722192@-isabella-ramsay-b1878-d.md)** (about 1878 - )
 - **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1915-6-16-d1974.md)** (16/Jun/1915 - 1974)
+- **[Ramsay, James](people/@5972344@-james-ramsay-b1846-d.md)** (1846 - )
+- **[Ramsay, Jane](people/@25940269@-jane-ramsay-b1850-d.md)** (1850 - )
 - **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
-- **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - )
+- **[Ramsay, John](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - )
+- **[Ramsay, John](people/@63088441@-john-ramsay-b1852-1-13-d.md)** (13/Jan/1852 - )
 - **[Ramsay, William Fisher](people/@81255608@-william-fisher-ramsay-b1910-8-24-d.md)** (24/Aug/1910 - )
+- **[Ramsay, William](people/@29868878@-william-ramsay-b1858-d.md)** (1858 - )
 - **[Raymond, Frank](people/@30488355@-frank-raymond-b-d.md)**
 - **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
 - **[Reid, John](people/@95320597@-john-reid-b-d.md)**
@@ -406,7 +420,6 @@ permalink: /indexes/by-death-location
 - **[Roberts, Janet](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
 - **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
 - **[Robertson, Mary Ann](people/@92986000@-mary-ann-robertson-b-d.md)**
-- **[Robertson, Mary](people/@96321158@-mary-robertson-b-d.md)**
 - **[Rodger, Catherine McDonald](people/@66129376@-catherine-mcdonald-rodger-b-d.md)**
 - **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - )
 - **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896)
@@ -724,8 +737,10 @@ permalink: /indexes/by-death-location
 - **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
 - **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923)
 - **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1944-11-18.md)** (20/May/1863 - 18/Nov/1944)
+- **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md)** (5/Dec/1833 - 5/Oct/1876)
 - **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966)
 - **[Fraser, Ann](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891)
+- **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
 - **[Fraser, Christy](people/@45275253@-christy-fraser-b1787-d1868-1-13.md)** (about 1787 - 13/Jan/1868)
 - **[Fraser, Kenneth](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
 - **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)

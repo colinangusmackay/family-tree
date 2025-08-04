@@ -9,15 +9,15 @@ permalink: /people/i23628312
 
 ## Immediate Family
 
-* Father: [John Morgan](./@38398015@-john-morgan-b-d.md)
-* Mother: [Mary Robertson](./@96321158@-mary-robertson-b-d.md)
+* Father: [David Morgan](./@38398015@-david-morgan-b-d.md)
+* Mother: [Agnes](./@96321158@-agnes-b-d.md)
 * Sister: [Ann Morgan](./@60684755@-ann-morgan-b1845-d.md) (about 1845 - )
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1849 | Born | Born to [John Morgan](./@38398015@-john-morgan-b-d.md) and [Mary Robertson](./@96321158@-mary-robertson-b-d.md) in Carnbee, Fife, Scotland. | [1](#1) | 
+about 1849 | Born | Born to [David Morgan](./@38398015@-david-morgan-b-d.md) and [Agnes](./@96321158@-agnes-b-d.md) in Carnbee, Fife, Scotland. | [1](#1) | 
 
 ## Known Residences
 

@@ -46,7 +46,7 @@
       "Name": "Alexander Fraser",
       "Gender": "Male",
       "DateOfBirth": "5/Dec/1833",
-      "DateOfDeath": "",
+      "DateOfDeath": "5/Oct/1876",
       "RelationToSubject": "husband",
       "DateOfMarriage": "16/Oct/1857",
       "DateOfDivorce": ""
@@ -60,6 +60,18 @@
       "DateOfBirth": "29/Aug/1859",
       "DateOfDeath": "",
       "RelationToSubject": "son",
+      "ParentIds": [
+        "i97086424",
+        "i41556256"
+      ]
+    },
+    {
+      "Id": "i92660555",
+      "Name": "Isabella Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "about 1863",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i97086424",
         "i41556256"

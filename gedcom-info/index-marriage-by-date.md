@@ -41,6 +41,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **7/Feb/1840** : **[Alexander Ross](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896) and **[Marion Mackay](people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md)** (30/Jun/1821 - 30/Dec/1909) at Embo, Sutherland, Scotland.
 * **1842**
   * **31/Dec/1842** : **[John Reid](people/@95320597@-john-reid-b-d.md)** and **[Agnes Russell](people/@37924612@-agnes-russell-b-d.md)** at Wishaw, Lanarkshire, Scotland.
+* **1843**
+  * **4/Feb/1843** : **[John Ramsay](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - ) and **[Catherine Morris](people/@33882736@-catherine-morris-b1816-d.md)** (1816 - ) at Crail, Fife, Scotland, .
 * **1847**
   * **7/Aug/1847** : **[William Paterson](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906) and **[Barbara Mackenzie](people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md)** (about 1823 - 27/Apr/1884) at Knockbain, Ross and Cromarty, Scotland.
 
@@ -53,7 +55,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1856**
   * **5/Dec/1856** : **[Alexander Cumming](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884) and **[Isabella Sutherland](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884).
 * **1857**
-  * **16/Oct/1857** : **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ) and **[Isabella Mackay](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - ) at Dornoch, Sutherland, Scotland.
+  * **16/Oct/1857** : **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md)** (5/Dec/1833 - 5/Oct/1876) and **[Isabella Mackay](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - ) at Dornoch, Sutherland, Scotland.
 * **1858**
   * **25/Jan/1858** : **[David Napier](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901) and **[Agnes Nicholson](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - ) at Dysart, Fife, Scotland.
 * **1859**
@@ -81,6 +83,7 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1872**
   * **18/Jul/1872** : **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929) and **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923) at Glasgow, Scotland.
+  * **23/Nov/1872** : **[John Ramsay](people/@63088441@-john-ramsay-b1852-1-13-d.md)** (13/Jan/1852 - ) and **[Ann Morgan](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - ) at Carnbee, Fife, Scotland, .
 * **1873**
   * **Feb/1873** : **[Andrew Sutherland](people/@91612548@-andrew-sutherland-b-d1900.md)** ( - after 1900) and **[Mary MacDonald](people/@10426344@-mary-macdonald-b-d1900.md)** ( - after 1900) at Golspie, Sutherland, Scotland.
   * **21/Oct/1873** : **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ) and **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - ).
@@ -115,6 +118,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1887**
   * **about 1887** : **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ).
   * **12/Mar/1887** : **[William Campbell](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918) and **[Rachel Smith](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942) at Canonbie, Dumfriesshire, Scotland.
+  * **12/Apr/1887** : **[Alexander Fraser](people/@36585616@-alexander-fraser-b1859-8-29-d.md)** (29/Aug/1859 - ) and **[Barbara Ross](people/@82167024@-barbara-ross-b1862-2-28-d.md)** (28/Feb/1862 - ) at Embo, Sutherland, Scotland.
   * **28/Sep/1887** : **[Thomas Sunderland](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - ) and **[Marion Ross](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888) at Hayes Township, Charlevoix County, Michigan, United States of America.
   * **25/Oct/1887** : **[Donald J Cumming](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946) at Dornoch, Sutherland, Scotland.
 * **1888**

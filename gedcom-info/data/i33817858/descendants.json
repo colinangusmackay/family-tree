@@ -1,17 +1,53 @@
 ﻿{
   "Id": "i33817858",
-  "Name": "George Ramsay",
+  "Name": "John Ramsay",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "1813",
   "DateOfDeath": "",
   "Children": [
+    {
+      "Id": "i17577117",
+      "Name": "David Ramsay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1844",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i5972344",
+      "Name": "James Ramsay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1846",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i73804628",
+      "Name": "Agnes Ramsay",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1847",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i25940269",
+      "Name": "Jane Ramsay",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1850",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i63088441",
       "Name": "John Ramsay",
       "Gender": "Male",
       "Relationship": "son",
-      "DateOfBirth": "about 1852",
+      "DateOfBirth": "13/Jan/1852",
       "DateOfDeath": "",
       "Children": [
         {
@@ -228,6 +264,33 @@
           ]
         }
       ]
+    },
+    {
+      "Id": "i99132181",
+      "Name": "Euphemia Ramsay",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1855",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i29868878",
+      "Name": "William Ramsay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1858",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i12774174",
+      "Name": "Catherine Ramsay",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1860",
+      "DateOfDeath": "",
+      "Children": []
     }
   ]
 }

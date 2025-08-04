@@ -56,5 +56,5 @@ Source Last Updated | 3/Apr/2022 15:58:54
 
 ## Source Referenced by
 
-* [Alexander Fraser](../people/@97086424@-alexander-fraser-b1833-12-5-d.md) (5/Dec/1833 - )
+* [Alexander Fraser](../people/@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md) (5/Dec/1833 - 5/Oct/1876)
 * [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) (18/Sep/1865 - 20/Jun/1946)

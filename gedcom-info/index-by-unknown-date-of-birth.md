@@ -159,8 +159,6 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Fisher, Johanna](people/@76159436@-johanna-fisher-b1851-d.md)** (about 1851 - )
   * **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929)
   * **[O'Malley, Michael](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - )
-* **Born in 1852.**
-  * **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - )
 * **Born in 1853.**
   * **[Paterson, Ann](people/@11400006@-ann-paterson-b1853-d.md)** (about 1853 - )
   * **[Ross, Marion](people/@39612984@-marion-ross-b1853-d.md)** (about 1853 - )
@@ -208,6 +206,7 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1862.**
   * **[Ross, Jessie](people/@34993752@-jessie-ross-b1862-d.md)** (about 1862 - )
 * **Born in 1863.**
+  * **[Fraser, Isabella](people/@92660555@-isabella-fraser-b1863-d.md)** (about 1863 - )
   * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
   * **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
 * **Born in 1864.**
@@ -400,6 +399,7 @@ This is a list of people who have vague or unknown dates of birth.
 
 ## Unknown Date of Birth
 
+* [Agnes](people/@96321158@-agnes-b-d.md)
 * [Elizabeth](people/@8553973@-elizabeth-b-d.md)
 * [Isabella](people/@41136024@-isabella-b-d1864.md) ( - after 1864)
 * [Joan](people/@53960434@-joan-b-d2021-2-18.md) ( - 18/Feb/2021)
@@ -451,7 +451,6 @@ This is a list of people who have vague or unknown dates of birth.
 * [Jane Gordon](people/@19799810@-jane-gordon-b-d.md)
 * [Jessie Grant](people/@31091676@-jessie-grant-b-d.md)
 * [Belle Gregory](people/@91101318@-belle-gregory-b-d.md)
-* [Jane Grieve](people/@33882736@-jane-grieve-b-d.md)
 * [William Hawthorn](people/@96807032@-william-hawthorn-b-d1884.md) ( - before 1884)
 * [Ada Hayes](people/@80079834@-ada-hayes-b-d2018.md) ( - before 2018)
 * [Joseph Hayes](people/@49395288@-joseph-hayes-b-d.md)
@@ -513,7 +512,8 @@ This is a list of people who have vague or unknown dates of birth.
 * [Margaret McLeod](people/@25554110@-margaret-mcleod-b-d.md)
 * [Margaret McRae](people/@57014804@-margaret-mcrae-b-d.md)
 * [? Mitchell](people/@47829915@--mitchell-b-d.md)
-* [John Morgan](people/@38398015@-john-morgan-b-d.md)
+* [David Morgan](people/@38398015@-david-morgan-b-d.md)
+* [James Morris](people/@82086731@-james-morris-b-d.md)
 * [Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)
 * [John Morrison](people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
 * [Campbell Elizabeth Munn](people/@11230712@-campbell-elizabeth-munn-b-d.md)
@@ -529,12 +529,10 @@ This is a list of people who have vague or unknown dates of birth.
 * [Barney Predendall](people/@69952770@-barney-predendall-b-d.md)
 * [Mary E Prey](people/@37901232@-mary-e-prey-b-d.md)
 * [Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md) ( - before 1910)
-* [George Ramsay](people/@33817858@-george-ramsay-b-d.md)
 * [Frank Raymond](people/@30488355@-frank-raymond-b-d.md)
 * [John Reid](people/@95320597@-john-reid-b-d.md)
 * [James Fraser Rennie](people/@2624560@-james-fraser-rennie-b-d1961.md) ( - before 1961)
 * [Mary Ann Robertson](people/@92986000@-mary-ann-robertson-b-d.md)
-* [Mary Robertson](people/@96321158@-mary-robertson-b-d.md)
 * [Catherine McDonald Rodger](people/@66129376@-catherine-mcdonald-rodger-b-d.md)
 * [Christina Ross](people/@52833400@-christina-ross-b-d.md)
 * [Christy Ross](people/@37144832@-christy-ross-b-d.md)

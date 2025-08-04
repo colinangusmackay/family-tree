@@ -1,0 +1,87 @@
+﻿{
+  "Subject": {
+    "Id": "i92660555",
+    "Name": "Isabella Fraser",
+    "Gender": "Female",
+    "DateOfBirth": "about 1863",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i97086424",
+      "Name": "Alexander Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "5/Dec/1833",
+      "DateOfDeath": "5/Oct/1876",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i41556256",
+      "Name": "Isabella Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "27/Feb/1838",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i36585616",
+      "Name": "Alexander Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "29/Aug/1859",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i41556256",
+          "i97086424"
+        ]
+      ]
+    },
+    {
+      "Id": "i92660555",
+      "Name": "Isabella Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "about 1863",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i41556256",
+          "i97086424"
+        ]
+      ]
+    },
+    {
+      "Id": "i70425788",
+      "Name": "Ann Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "18/Sep/1865",
+      "DateOfDeath": "20/Jun/1946",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i41556256",
+          "i97086424"
+        ]
+      ]
+    },
+    {
+      "Id": "i69725432",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "12/Aug/1869",
+      "DateOfDeath": "20/Apr/1932",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i41556256",
+          "i97086424"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

@@ -11,7 +11,7 @@ Field | Detail
 ---:|:---
 Original Document Date | 10/Nov/1934
 Source Created | 3/Jun/2022 16:05:09
-Source Last Updated | 3/Jun/2022 23:41:16
+Source Last Updated | 27/Jul/2025 14:51:40
 
 ## Text
 
@@ -27,7 +27,7 @@ Source Last Updated | 3/Jun/2022 23:41:16
 >
 > <br/>
 >
-> Thomas McKay, Boatsain, (Deceased)
+> Thomas McKay, Boatswain, (Deceased)
 >
 > <br/>
 >

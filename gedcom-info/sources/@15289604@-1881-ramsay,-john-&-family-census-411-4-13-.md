@@ -13,7 +13,7 @@ Original Document Date | Apr/1881
 Responsible Agency | National Records of Scotland
 References | 1881 C 411/ 4/ 13
 Source Created | 29/Jun/2022 22:16:42
-Source Last Updated | 29/Jun/2022 22:38:09
+Source Last Updated | 4/Aug/2025 22:26:38
 
 ## Text
 
@@ -139,5 +139,5 @@ Source Last Updated | 29/Jun/2022 22:38:09
   * [Agnes Ramsay](../people/@57916783@-agnes-ramsay-b1873-d.md) (about 1873 - )
   * [Cattie Ramsay](../people/@35547078@-cattie-ramsay-b1877-d.md) (about 1877 - )
   * [Isabella Ramsay](../people/@54722192@-isabella-ramsay-b1878-d.md) (about 1878 - )
-  * [John Ramsay](../people/@63088441@-john-ramsay-b1852-d.md) (about 1852 - )
+  * [John Ramsay](../people/@63088441@-john-ramsay-b1852-1-13-d.md) (13/Jan/1852 - )
   * [John Ramsay](../people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) (21/Feb/1880 - 20/Jun/1920)

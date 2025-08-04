@@ -1,0 +1,38 @@
+﻿{
+  "Id": "i25940269",
+  "Name": "Jane Ramsay",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "1850",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i33817858",
+      "Name": "John Ramsay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "1813",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i33882736",
+      "Name": "Catherine Morris",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "1816",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i82086731",
+          "Name": "James Morris",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

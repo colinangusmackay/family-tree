@@ -1,0 +1,115 @@
+﻿{
+  "Subject": {
+    "Id": "i94394924",
+    "Name": "Mary Ann Fraser",
+    "Gender": "Female",
+    "DateOfBirth": "1892",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i36585616",
+      "Name": "Alexander Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "29/Aug/1859",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i82167024",
+      "Name": "Barbara Ross",
+      "Gender": "Female",
+      "DateOfBirth": "28/Feb/1862",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i65128525",
+      "Name": "Barbara Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "1887",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i36585616",
+          "i82167024"
+        ]
+      ]
+    },
+    {
+      "Id": "i60675311",
+      "Name": "Alexander Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i36585616",
+          "i82167024"
+        ]
+      ]
+    },
+    {
+      "Id": "i89580356",
+      "Name": "Kenneth Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "13/Aug/1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i36585616",
+          "i82167024"
+        ]
+      ]
+    },
+    {
+      "Id": "i94394924",
+      "Name": "Mary Ann Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "1892",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i36585616",
+          "i82167024"
+        ]
+      ]
+    },
+    {
+      "Id": "i78876088",
+      "Name": "George Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "1896",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i36585616",
+          "i82167024"
+        ]
+      ]
+    },
+    {
+      "Id": "i81999219",
+      "Name": "Isabella Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i36585616",
+          "i82167024"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

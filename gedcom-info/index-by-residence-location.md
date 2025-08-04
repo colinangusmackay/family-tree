@@ -174,8 +174,25 @@ permalink: /indexes/by-residence-location
 
 - **[Morgan, Andrew](people/@23628312@-andrew-morgan-b1849-d.md)** (about 1849 - )
 - **[Morgan, Ann](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - )
-- **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - )
+- **[Ramsay, John](people/@63088441@-john-ramsay-b1852-1-13-d.md)** (13/Jan/1852 - )
 - **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
+
+#### Carnbee
+
+- **[Morgan, Ann](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - )
+
+#### Crail
+
+- **[Morris, Catherine](people/@33882736@-catherine-morris-b1816-d.md)** (1816 - )
+- **[Ramsay, Agnes](people/@73804628@-agnes-ramsay-b1847-d.md)** (1847 - )
+- **[Ramsay, Catherine](people/@12774174@-catherine-ramsay-b1860-d.md)** (1860 - )
+- **[Ramsay, David](people/@17577117@-david-ramsay-b1844-d.md)** (1844 - )
+- **[Ramsay, Euphemia](people/@99132181@-euphemia-ramsay-b1855-d.md)** (1855 - )
+- **[Ramsay, James](people/@5972344@-james-ramsay-b1846-d.md)** (1846 - )
+- **[Ramsay, Jane](people/@25940269@-jane-ramsay-b1850-d.md)** (1850 - )
+- **[Ramsay, John](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - )
+- **[Ramsay, John](people/@63088441@-john-ramsay-b1852-1-13-d.md)** (13/Jan/1852 - )
+- **[Ramsay, William](people/@29868878@-william-ramsay-b1858-d.md)** (1858 - )
 
 #### Dunfermline
 
@@ -192,6 +209,10 @@ permalink: /indexes/by-residence-location
 - **[Napier, Mary](people/@490155@-mary-napier-b1863-d.md)** (1863 - )
 - **[Nicholson, Agnes](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - )
 - **[Williamson, Agnes](people/@35381484@-agnes-williamson-b1815-10-11-d.md)** (11/Oct/1815 - )
+
+#### Kingsbarns
+
+- **[Morris, Catherine](people/@33882736@-catherine-morris-b1816-d.md)** (1816 - )
 
 #### Kirkcaldy
 
@@ -464,16 +485,25 @@ permalink: /indexes/by-residence-location
 - **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
 - **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
 - **[Cumming, William Mackay](people/@99807914@-william-mackay-cumming-b1933-d2015.md)** (1933 - 2015)
+- **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md)** (5/Dec/1833 - 5/Oct/1876)
+- **[Fraser, Alexander](people/@36585616@-alexander-fraser-b1859-8-29-d.md)** (29/Aug/1859 - )
+- **[Fraser, Alexander](people/@60675311@-alexander-fraser-b1889-d.md)** (1889 - )
 - **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966)
 - **[Fraser, Ann](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946)
+- **[Fraser, Barbara](people/@65128525@-barbara-fraser-b1887-d.md)** (1887 - )
 - **[Fraser, Barbara](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - )
 - **[Fraser, Bella](people/@25936309@-bella-fraser-b1902-d.md)** (1902 - )
 - **[Fraser, Christina](people/@8163648@-christina-fraser-b1904-d.md)** (1904 - )
 - **[Fraser, Christy](people/@91889557@-christy-fraser-b1791-d.md)** (1791 - )
 - **[Fraser, Davidina](people/@27014400@-davidina-fraser-b1912-d.md)** (1912 - )
+- **[Fraser, George](people/@78876088@-george-fraser-b1896-d.md)** (1896 - )
+- **[Fraser, Isabella](people/@92660555@-isabella-fraser-b1863-d.md)** (about 1863 - )
+- **[Fraser, Isabella](people/@81999219@-isabella-fraser-b1900-d.md)** (1900 - )
 - **[Fraser, John J Barrow G](people/@43044884@-john-j-barrow-g-fraser-b1906-d.md)** (1906 - )
 - **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
+- **[Fraser, Kenneth](people/@89580356@-kenneth-fraser-b1890-8-13-d.md)** (13/Aug/1890 - )
 - **[Fraser, Kenneth](people/@73587538@-kenneth-fraser-b1900-d.md)** (1900 - )
+- **[Fraser, Mary Ann](people/@94394924@-mary-ann-fraser-b1892-d.md)** (1892 - )
 - **[Fraser, Thomas](people/@28777404@-thomas-fraser-b1866-6-19-d.md)** (19/Jun/1866 - )
 - **[Fraser, Thomas](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932)
 - **[Fraser, Thomas](people/@41158088@-thomas-fraser-b1896-d.md)** (1896 - )
@@ -508,6 +538,7 @@ permalink: /indexes/by-residence-location
 - **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
 - **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
 - **[Mackay, Isabella](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862)
+- **[Mackay, Isabella](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
 - **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923)
 - **[Mackay, James](people/@57588096@-james-mackay-b1828-d.md)** (1828 - )
 - **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903)

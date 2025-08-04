@@ -64,6 +64,30 @@
         "i12568152",
         "i56209708"
       ]
+    },
+    {
+      "Id": "i70482012",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "1945",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i12568152",
+        "i56209708"
+      ]
+    },
+    {
+      "Id": "i68408992",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "1951",
+      "DateOfDeath": "2025",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i12568152",
+        "i56209708"
+      ]
     }
   ]
 }

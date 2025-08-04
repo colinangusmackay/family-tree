@@ -16,6 +16,10 @@ permalink: /indexes/by-occupation
 
 * **[Napier, David](people/@46994217@-david-napier-b1901-d.md)** (about 1901 - ).
 
+## Apprentice Joiner
+
+* **[Ramsay, David](people/@17577117@-david-ramsay-b1844-d.md)** (1844 - ).
+
 ## Apprentice Moulder
 
 * **[Hanton, James](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975).
@@ -32,14 +36,15 @@ There were 2 people who worked as a Baker of some sort.
 
 #### Baker (Journeyman)
 
-* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - ).
+* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-1-13-d.md)** (13/Jan/1852 - ).
 
 ## Blacksmith
 
-There were 2 people who worked as a Blacksmith of some sort.
+There were 3 people who worked as a Blacksmith of some sort.
 
 * **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d1961.md)** (11/Mar/1877 - before 1961), mentioned twice.
 * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912), mentioned 3 times.
+* **[Ramsay, John](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - ).
 
 #### Apprentice Blacksmith
 
@@ -255,7 +260,7 @@ There were 4 people who worked as a Crofter.
 
 ## Domestic Servant
 
-There were 24 people who worked as a Domestic Servant of some sort.
+There were 25 people who worked as a Domestic Servant of some sort.
 
 * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946).
 * **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d1985.md)** (23/Aug/1895 - 1985).
@@ -268,6 +273,7 @@ There were 24 people who worked as a Domestic Servant of some sort.
 * **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - ).
 * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - ).
 * **[McLean, Mary Ann](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - ).
+* **[Morgan, Ann](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - ).
 * **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ).
 * **[O'Donnell, Hannah](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921).
 * **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923).
@@ -344,7 +350,7 @@ There were 12 people who worked as a Driver of some sort.
 
 #### Railway Driver
 
-* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - ).
+* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-1-13-d.md)** (13/Jan/1852 - ).
 
 #### Railway Engine Driver
 
@@ -424,7 +430,7 @@ There were 2 people who worked as a Farm Labourer.
 
 ## Farm Worker
 
-There were 10 people who worked as a Farm Worker of some sort.
+There were 11 people who worked as a Farm Worker of some sort.
 
 #### Dairy Maid
 
@@ -445,6 +451,7 @@ There were 10 people who worked as a Farm Worker of some sort.
 * **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - ).
 * **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878).
 * **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
+* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-1-13-d.md)** (13/Jan/1852 - ).
 
 ## Farmer
 
@@ -458,6 +465,10 @@ There were 7 people who worked as a Farmer.
 * **[Teeven, John](people/@17936784@-john-teeven-b-d1855.md)** ( - before 1855).
 * **[Tulloch, Charles Falconer](people/@120623@-charles-falconer-tulloch-b-d.md)**.
 
+## Farrier
+
+* **[Ramsay, John](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - ).
+
 ## Fettler (Woollen)
 
 * **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980).
@@ -468,11 +479,11 @@ There were 7 people who worked as a Farmer.
 
 ## Fireman Steamer
 
-* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-d.md)** (about 1852 - ).
+* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-1-13-d.md)** (13/Jan/1852 - ).
 
 ## Fish Worker
 
-There were 75 people who worked as a Fish Worker of some sort.
+There were 76 people who worked as a Fish Worker of some sort.
 
 * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
@@ -498,7 +509,8 @@ There were 75 people who worked as a Fish Worker of some sort.
 * **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - ).
 * **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ).
 * **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ).
-* **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ), mentioned twice.
+* **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md)** (5/Dec/1833 - 5/Oct/1876), mentioned 3 times.
+* **[Fraser, Alexander](people/@36585616@-alexander-fraser-b1859-8-29-d.md)** (29/Aug/1859 - ), mentioned 3 times.
 * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned twice.
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
 * **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889).
@@ -536,7 +548,7 @@ There were 75 people who worked as a Fish Worker of some sort.
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ), mentioned twice.
 * **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949).
 * **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - ).
-* **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896), mentioned 10 times.
+* **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896), mentioned 11 times.
 * **[Ross, Alexander](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - ), mentioned 5 times.
 * **[Ross, Alexander](people/@64872505@-alexander-ross-b1855-d.md)** (1855 - ).
 * **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875), mentioned 3 times.
@@ -580,7 +592,7 @@ There were 75 people who worked as a Fish Worker of some sort.
 
 ## Fisher
 
-There were 60 people who worked as a Fisher of some sort.
+There were 61 people who worked as a Fisher of some sort.
 
 * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893).
 * **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896).
@@ -595,7 +607,8 @@ There were 60 people who worked as a Fisher of some sort.
 * **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - ).
 * **[Cumming, Kenneth](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ).
 * **[Cumming, William](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ).
-* **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d.md)** (5/Dec/1833 - ), mentioned twice.
+* **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md)** (5/Dec/1833 - 5/Oct/1876), mentioned 3 times.
+* **[Fraser, Alexander](people/@36585616@-alexander-fraser-b1859-8-29-d.md)** (29/Aug/1859 - ), mentioned 3 times.
 * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned twice.
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
 * **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889).
@@ -633,7 +646,7 @@ There were 60 people who worked as a Fisher of some sort.
 * **[Mackay, William](people/@99871003@-william-mackay-b1843~1846-d.md)** (bet' 1843 and 1846 - ), mentioned twice.
 * **[MacLeod, Hector](people/@28404010@-hector-macleod-b-d1949.md)** ( - before 1949).
 * **[Ross, Alex](people/@58451451@-alex-ross-b1840-d.md)** (before 1840 - ).
-* **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896), mentioned 10 times.
+* **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896), mentioned 11 times.
 * **[Ross, Alexander](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - ), mentioned 5 times.
 * **[Ross, Alexander](people/@64872505@-alexander-ross-b1855-d.md)** (1855 - ).
 * **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875), mentioned 3 times.
@@ -948,6 +961,10 @@ There were 2 people who worked as a Manager of some sort.
 ## Master Baker
 
 * **[Wilson, David](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - ), mentioned twice.
+
+## Master Blacksmith
+
+* **[Ramsay, John](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - ).
 
 ## Master Tailor
 
@@ -1299,12 +1316,13 @@ There were 2 people who worked as a Servant.
 
 ## Smith
 
-There were 3 people who worked as a Smith of some sort.
+There were 4 people who worked as a Smith of some sort.
 
 #### Blacksmith
 
 * **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d1961.md)** (11/Mar/1877 - before 1961), mentioned twice.
 * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912), mentioned 3 times.
+* **[Ramsay, John](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - ).
 
 #### Blacksmith Labourer
 
@@ -1401,6 +1419,10 @@ There were 5 people who worked as a Threadmill Worker.
 ## Tutor
 
 * **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024).
+
+## Veterinary Surgeon
+
+* **[Ramsay, John](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - ).
 
 ## Vulcanite Worker
 

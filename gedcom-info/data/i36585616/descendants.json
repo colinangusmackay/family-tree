@@ -5,5 +5,60 @@
   "Relationship": "Self",
   "DateOfBirth": "29/Aug/1859",
   "DateOfDeath": "",
-  "Children": []
+  "Children": [
+    {
+      "Id": "i65128525",
+      "Name": "Barbara Fraser",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1887",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i60675311",
+      "Name": "Alexander Fraser",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1889",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i89580356",
+      "Name": "Kenneth Fraser",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "13/Aug/1890",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i94394924",
+      "Name": "Mary Ann Fraser",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1892",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i78876088",
+      "Name": "George Fraser",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1896",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i81999219",
+      "Name": "Isabella Fraser",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1900",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
 }

@@ -1,0 +1,207 @@
+---
+layout: default
+---
+
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+<div class="container">
+  <h1>Search</h1>
+
+  <div class="search-instructions">
+    <p>Enter your search below:</p>
+    <input id="query" type="text" placeholder="Search..." required>
+    <button>Search</button>
+  </div>
+
+  <div class="search-results">
+    <ul>
+      <!-- Search results will be populated here -->
+    </ul>
+
+</div>
+
+<script type="text/javascript">
+
+let cachedSearchData = null;
+
+async function loadSearchData() {
+  if (!cachedSearchData) {
+    // Show spinner
+    let spinner = document.getElementById('search-spinner');
+    if (!spinner) {
+      spinner = document.createElement('div');
+      spinner.id = 'search-spinner';
+      spinner.style.margin = '20px auto';
+      spinner.innerHTML = '<svg width="40" height="40" viewBox="0 0 40 40"><circle cx="20" cy="20" r="16" stroke="#888" stroke-width="4" fill="none" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" dur="1s" repeatCount="indefinite" from="0 20 20" to="360 20 20"/></circle></svg>';
+      document.querySelector('.search-instructions').appendChild(spinner);
+    }
+
+    const response = await fetch('./gedcom-info/search-index.json');
+
+    // Hide spinner
+    if (spinner) spinner.remove();
+    cachedSearchData = await response.json();
+  }
+
+  return cachedSearchData;
+}
+
+document.querySelector('.search-instructions button')
+.addEventListener('click', async () => {
+  const searchData = await loadSearchData();
+  // You can add code here to perform the search using searchData
+
+  const query = document.getElementById('query').value.trim().toLowerCase();
+  const terms = query.split(/\s+/);
+
+  const results = searchPeople(searchData, terms);
+
+});
+
+function searchPeople(data, terms) {
+  // data is an array of person objects that came from search-index.json, e.g.:
+  // {
+  //   "id": "i10016098",
+  //   "nameParts": [
+  //     "cumming",
+  //     "william"
+  //   ],
+  //   "wholeNames": [
+  //     "William Cumming"
+  //   ],
+  //   "birth": {
+  //     "date": "about 1870",
+  //     "year": 1870,
+  //     "place": [
+  //       "dornoch",
+  //       "sutherland",
+  //       "scotland"
+  //     ]
+  //   },
+  //   "marriages": [
+  //     {
+  //       "spouse": "i41411602",
+  //       "date": "on 2nd of January 1900",
+  //       "year": 1900,
+  //       "month": 1,
+  //       "day": 2
+  //       "place": [
+  //         "dornoch",
+  //         "sutherland",
+  //         "scotland"
+  //       ]
+  //     }
+  //   ],
+  //   "death": {
+  //     "date": "on 5th of September 1875 at 02:30",
+  //     "year": 1875,
+  //     "month": 9,
+  //     "day": 5,
+  //     "place": [
+  //       "embo",
+  //       "sutherland",
+  //       "scotland"
+  //     ]
+  //   },
+  //   "residences": [
+  //     {
+  //       "place": [
+  //         "embo",
+  //         "sutherland",
+  //         "scotland"
+  //       ],
+  //       "dates": [
+  //         1871,
+  //         1891
+  //       ]
+  //     }
+  //   ]
+  // }
+  // terms is an array of search terms.
+
+  return data.map(person =>{
+    // Calculate a score for this person based on matching terms
+    const matches = []; // Array to hold matching terms includes the field and the value that was matched. e.g. {field: 'name', value: 'John Doe'}
+    let score = 0; // The match score
+    
+    // The the search terms includes matches only a part of the name, add it to the matches incating which name part matched and add a score of 5.
+    person.nameParts.forEach(part => {
+      terms.forEach(term => {
+        if (part.includes(term)) {
+          matches.push({field: 'name', value: part});
+          score += 5; // Increase score for name match
+        }
+      });
+    });    
+
+    // If the search terms includes any part of a place for birth, marriage, death or residence, add it to the matches and add a score of 3.
+    if (person.birth && person.birth.place) {
+      person.birth.place.forEach(place => {
+        terms.forEach(term => {
+          if (place.includes(term)) {
+            matches.push({field: 'birth place', value: place});
+            score += 3; // Increase score for birth place match
+          }
+        });
+      });
+    }
+
+    if (person.marriages) {
+      person.marriages.forEach(marriage => {
+        if (marriage.place) {
+          marriage.place.forEach(place => {
+            terms.forEach(term => {
+              if (place.includes(term)) {
+                matches.push({field: 'marriage place', value: place});
+                score += 3; // Increase score for marriage place match
+              }
+            });
+          });
+        }
+      });
+    }
+    
+    if (person.death && person.death.place) {
+      person.death.place.forEach(place => {
+        terms.forEach(term => {
+          if (place.includes(term)) {
+            matches.push({field: 'death place', value: place});
+            score += 3; // Increase score for death place match
+          }
+        });
+      });
+    }
+
+    if (person.residences) {
+      person.residences.forEach(residence => {
+        if (residence.place) {
+          residence.place.forEach(place => {
+            terms.forEach(term => {
+              if (place.includes(term)) {
+                matches.push({field: 'residence place', value: place});
+                score += 3; // Increase score for residence place match
+              }
+            });
+          });
+        }
+      });
+    }
+
+
+  }
+
+
+
+</script>

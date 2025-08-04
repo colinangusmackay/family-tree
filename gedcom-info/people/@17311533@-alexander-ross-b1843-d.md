@@ -21,7 +21,7 @@ permalink: /people/i17311533
 * Brother: [John Ross](./@36837210@-john-ross-b1855-12-14-d.md) (14/Dec/1855 - )
 * Brother: [Hugh Ross](./@75672326@-hugh-ross-b1858-10-11-d.md) (11/Oct/1858 - )
 * Brother: [Ann Ross](./@32419757@-ann-ross-b1860-6-17-d.md) (17/Jun/1860 - )
-* Brother: [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md) (28/Feb/1862 - )
+* Sister: [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md) (28/Feb/1862 - )
 * Daughter: [Marion Ross](./@75416110@-marion-ross-b1866-11-1-d1888-8-19.md) (1/Nov/1866 - 19/Aug/1888)
 * Son: [John Ross](./@16505504@-john-ross-b1868-8-23-d1905-11-20.md) (23/Aug/1868 - 20/Nov/1905)
 * Son: [Donald Ross](./@4496220@-donald-ross-b1872-8-30-d.md) (30/Aug/1872 - )

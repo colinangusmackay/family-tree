@@ -9,7 +9,7 @@
   "Parents": [
     {
       "Id": "i38398015",
-      "Name": "John Morgan",
+      "Name": "David Morgan",
       "Gender": "Male",
       "DateOfBirth": "",
       "DateOfDeath": "",
@@ -17,7 +17,7 @@
     },
     {
       "Id": "i96321158",
-      "Name": "Mary Robertson",
+      "Name": "Agnes",
       "Gender": "Female",
       "DateOfBirth": "",
       "DateOfDeath": "",
@@ -59,10 +59,10 @@
       "Id": "i63088441",
       "Name": "John Ramsay",
       "Gender": "Male",
-      "DateOfBirth": "about 1852",
+      "DateOfBirth": "13/Jan/1852",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "23/Nov/1872",
       "DateOfDivorce": ""
     }
   ],

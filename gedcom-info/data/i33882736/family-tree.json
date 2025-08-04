@@ -1,43 +1,153 @@
 ﻿{
   "Subject": {
     "Id": "i33882736",
-    "Name": "Jane Grieve",
+    "Name": "Catherine Morris",
     "Gender": "Female",
-    "DateOfBirth": "",
+    "DateOfBirth": "1816",
     "DateOfDeath": ""
   },
-  "Parents": [],
-  "Siblings": [
+  "Parents": [
     {
-      "Id": "i33882736",
-      "Name": "Jane Grieve",
-      "Gender": "Female",
+      "Id": "i82086731",
+      "Name": "James Morris",
+      "Gender": "Male",
       "DateOfBirth": "",
       "DateOfDeath": "",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i53606350",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i82086731"
+        ]
+      ]
+    },
+    {
+      "Id": "i33882736",
+      "Name": "Catherine Morris",
+      "Gender": "Female",
+      "DateOfBirth": "1816",
+      "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i82086731"
+        ]
+      ]
     }
   ],
   "Spouses": [
     {
       "Id": "i33817858",
-      "Name": "George Ramsay",
+      "Name": "John Ramsay",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "1813",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "4/Feb/1843",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
     {
+      "Id": "i17577117",
+      "Name": "David Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "1844",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i33817858",
+        "i33882736"
+      ]
+    },
+    {
+      "Id": "i5972344",
+      "Name": "James Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "1846",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i33817858",
+        "i33882736"
+      ]
+    },
+    {
+      "Id": "i73804628",
+      "Name": "Agnes Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "1847",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i33817858",
+        "i33882736"
+      ]
+    },
+    {
+      "Id": "i25940269",
+      "Name": "Jane Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "1850",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i33817858",
+        "i33882736"
+      ]
+    },
+    {
       "Id": "i63088441",
       "Name": "John Ramsay",
       "Gender": "Male",
-      "DateOfBirth": "about 1852",
+      "DateOfBirth": "13/Jan/1852",
       "DateOfDeath": "",
       "RelationToSubject": "son",
+      "ParentIds": [
+        "i33817858",
+        "i33882736"
+      ]
+    },
+    {
+      "Id": "i99132181",
+      "Name": "Euphemia Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "1855",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i33817858",
+        "i33882736"
+      ]
+    },
+    {
+      "Id": "i29868878",
+      "Name": "William Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "1858",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i33817858",
+        "i33882736"
+      ]
+    },
+    {
+      "Id": "i12774174",
+      "Name": "Catherine Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "1860",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
       "ParentIds": [
         "i33817858",
         "i33882736"

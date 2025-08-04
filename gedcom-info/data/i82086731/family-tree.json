@@ -1,0 +1,46 @@
+﻿{
+  "Subject": {
+    "Id": "i82086731",
+    "Name": "James Morris",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i82086731",
+      "Name": "James Morris",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [],
+  "Children": [
+    {
+      "Id": "i53606350",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i82086731"
+      ]
+    },
+    {
+      "Id": "i33882736",
+      "Name": "Catherine Morris",
+      "Gender": "Female",
+      "DateOfBirth": "1816",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i82086731"
+      ]
+    }
+  ]
+}

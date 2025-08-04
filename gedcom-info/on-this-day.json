@@ -131,6 +131,10 @@
               "Description": "[Jessie Ross](/family-tree/people/i60546968) died on 13th of January 1918 at 13:00."
             },
             {
+              "Date": "1852-01-13",
+              "Description": "[John Ramsay](/family-tree/people/i63088441) was born on 13th of January 1852 to [John Ramsay](/family-tree/people/i33817858) and [Catherine Morris](/family-tree/people/i33882736) in Crail, Fife, Scotland, ."
+            },
+            {
               "Date": "1905-01-13",
               "Description": "[John Ramsay](/family-tree/people/i64225415) got married to [Helen Currie Fisher](/family-tree/people/i18426904) on 13th of January 1905 at 10 North Richmond Street, Edinburgh, Scotland."
             }
@@ -1612,7 +1616,7 @@
             },
             {
               "Date": "1946-06-20",
-              "Description": "[Ann Fraser](/family-tree/people/i70425788) died on 20th of June 1946."
+              "Description": "[Ann Fraser](/family-tree/people/i70425788) died on 20th of June 1946 in Embo, Sutherland, Scotland."
             }
           ]
         },
@@ -2072,7 +2076,12 @@
         },
         {
           "Day": 13,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1890-08-13",
+              "Description": "[Kenneth Fraser](/family-tree/people/i89580356) was born on 13th of August 1890 to [Alexander Fraser](/family-tree/people/i36585616) and [Barbara Ross](/family-tree/people/i82167024) in Helmsdale, Sutherland, Scotland."
+            }
+          ]
         },
         {
           "Day": 14,
@@ -2584,7 +2593,12 @@
         },
         {
           "Day": 5,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1876-10-05",
+              "Description": "[Alexander Fraser](/family-tree/people/i97086424) died on 5th of October 1876 at 06:05 in Embo, Sutherland, Scotland."
+            }
+          ]
         },
         {
           "Day": 6,
@@ -2696,6 +2710,10 @@
             {
               "Date": "1961-10-16",
               "Description": "[Linda Margaret Campbell](/family-tree/people/i76650284) was born on 16th of October 1961 to [Norman Stead](/family-tree/people/i69808462) and [Margaret Paton O'Malley](/family-tree/people/i46723082) in Dewsbury, Yorkshire, England."
+            },
+            {
+              "Date": "1857-10-16",
+              "Description": "[Alexander Fraser](/family-tree/people/i97086424) got married to [Isabella Mackay](/family-tree/people/i41556256) on 16th of October 1857 in Dornoch, Sutherland, Scotland."
             }
           ]
         },

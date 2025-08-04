@@ -10,7 +10,7 @@ permalink: /people/i57916783
 ## Immediate Family
 
 * Mother: [Ann Morgan](./@60684755@-ann-morgan-b1845-d.md) (about 1845 - )
-* Father: [John Ramsay](./@63088441@-john-ramsay-b1852-d.md) (about 1852 - )
+* Father: [John Ramsay](./@63088441@-john-ramsay-b1852-1-13-d.md) (13/Jan/1852 - )
 * Sister: [Cattie Ramsay](./@35547078@-cattie-ramsay-b1877-d.md) (about 1877 - )
 * Sister: [Isabella Ramsay](./@54722192@-isabella-ramsay-b1878-d.md) (about 1878 - )
 * Brother: [John Ramsay](./@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) (21/Feb/1880 - 20/Jun/1920)
@@ -19,7 +19,7 @@ permalink: /people/i57916783
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1873 | Born | Born to [John Ramsay](./@63088441@-john-ramsay-b1852-d.md) and [Ann Morgan](./@60684755@-ann-morgan-b1845-d.md) in Carnbee, Fife, Scotland. | [1](#1) | 
+about 1873 | Born | Born to [John Ramsay](./@63088441@-john-ramsay-b1852-1-13-d.md) and [Ann Morgan](./@60684755@-ann-morgan-b1845-d.md) in Carnbee, Fife, Scotland. | [1](#1) | 
 
 ## Footnotes
 

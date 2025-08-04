@@ -168,10 +168,10 @@
     {
       "Id": "i82167024",
       "Name": "Barbara Ross",
-      "Gender": "Male",
+      "Gender": "Female",
       "DateOfBirth": "28/Feb/1862",
       "DateOfDeath": "",
-      "RelationToSubject": "brother",
+      "RelationToSubject": "sister",
       "ParentGroupIds": [
         [
           "i78930004",
