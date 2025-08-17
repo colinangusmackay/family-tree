@@ -1,34 +1,58 @@
 ﻿{
   "Subject": {
     "Id": "i65047040",
-    "Name": "Ricky Steedman",
+    "Name": "Richard Trotter Steedman",
     "Gender": "Male",
-    "DateOfBirth": "",
+    "DateOfBirth": "1948",
     "DateOfDeath": "23/Jun/2022"
   },
   "Parents": [],
   "Siblings": [
     {
       "Id": "i65047040",
-      "Name": "Ricky Steedman",
+      "Name": "Richard Trotter Steedman",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "1948",
       "DateOfDeath": "23/Jun/2022",
       "RelationToSubject": "self",
       "ParentGroupIds": []
     }
   ],
-  "Spouses": [],
+  "Spouses": [
+    {
+      "Id": "i76530426",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "1949",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "1970",
+      "DateOfDivorce": ""
+    }
+  ],
   "Children": [
     {
       "Id": "i80796234",
       "Name": "X",
       "Gender": "Male",
-      "DateOfBirth": "1975",
+      "DateOfBirth": "Jul/1975",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [
-        "i65047040"
+        "i65047040",
+        "i76530426"
+      ]
+    },
+    {
+      "Id": "i48635994",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "Mar/1977",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i65047040",
+        "i76530426"
       ]
     }
   ]

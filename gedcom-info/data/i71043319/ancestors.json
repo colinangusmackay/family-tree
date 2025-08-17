@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i71043319",
+  "Name": "Margaret Kinnomond Lawrence",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "1906",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i24281088",
+      "Name": "Christina Campbell",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1931",
+      "Parents": []
+    },
+    {
+      "Id": "i1090404",
+      "Name": "William Lawrence",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i9475046",
+  "Name": "Walter Alex Parkinson",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "1901",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i4365378",
+      "Name": "Thomas Parkinson",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "2/Sep/1870",
+      "DateOfDeath": "1941",
+      "Parents": []
+    },
+    {
+      "Id": "i25594216",
+      "Name": "Mildred Parkinson",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "1876",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

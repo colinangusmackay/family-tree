@@ -122,6 +122,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Barbara Fraser](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - ) and **[Thomas Sharp Crawford](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968) **on 22nd of March 1918** at Kirkcaldy, Fife, Scotland.
   * **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883) and **[Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881) **on 24th of November 1820** at Embo, Sutherland, Scotland.
   * **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) **on 16th of January 1912** at Dornoch, Sutherland, Scotland.
+  * **[Kenneth Fraser](people/@89580356@-kenneth-fraser-b1890-8-13-d.md)** (13/Aug/1890 - ) and X **in 1916**.
   * **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md)** (27/Jun/1901 - 24/Aug/1973) **on 2nd of March 1934** at Dornoch, Sutherland, Scotland.
   * **[Morag Fraser](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015) and **[Norman Alexander Gibson](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024) **in 1965** at Aberdeen, Aberdeenshire, Scotland.
   * **[Thomas Fraser](people/@28777404@-thomas-fraser-b1866-6-19-d.md)** (19/Jun/1866 - ) and **[Barbra Mackay](people/@60643714@-barbra-mackay-b1871-8-25-d.md)** (25/Aug/1871 - ) **on 8th of November 1892** at Dornoch, Sutherland, Scotland.
@@ -209,6 +210,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Hunter
 
   * **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ) and **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - ) **on 8th of September 1911** at Cathcart, Glasgow, Scotland.
+
+## Lawrence
+
+  * **[Margaret Kinnomond Lawrence](people/@71043319@-margaret-kinnomond-lawrence-b1906-d.md)** (1906 - ) and **[John Morgan Ramsay](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md)** (31/Mar/1905 - 31/Dec/1966) **on 23rd of January 1931** at Edinburgh, Scotland.
 
 ## Lindores
 
@@ -424,6 +429,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Michael O'Malley](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - ) and **[Catherine McBride](people/@24941331@-catherine-mcbride-b1865-d.md)** (about 1865 - ) **on 22nd of April 1889** at Glasgow, Scotland.
   * **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004) and **[Margaret McLeod Paton](people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md)** (14/Mar/1916 - before 2004) **on 28th of December 1939** at Glasgow, Scotland.
 
+## Parkinson
+
+  * **[Ernestine Parkinson](people/@32129630@-ernestine-parkinson-b1903-d.md)** (1903 - ) and **[Bruce Morgan Ramsay](people/@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md)** (10/Oct/1913 - 29/Nov/1965) **on 13th of August 1941** at Chester, Cheshire West and Chester, England.
+
 ## Paterson
 
   * **[Isabella Paterson](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923) and **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929) **on 18th of July 1872** at Glasgow, Scotland.
@@ -444,10 +453,14 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Ramsay
 
+  * **[Bruce Morgan Ramsay](people/@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md)** (10/Oct/1913 - 29/Nov/1965) and **[Ernestine Parkinson](people/@32129630@-ernestine-parkinson-b1903-d.md)** (1903 - ) **on 13th of August 1941** at Chester, Cheshire West and Chester, England.
   * **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015) and **[Hector Spence McIver](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008) **on 6th of April 1945** at Edinburgh, Scotland.
+  * **[Isabella Morgan Ramsay](people/@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md)** (16/Jun/1915 - 12/Sep/1974) and **[George Percival Albert Wyndow](people/@6915792@-george-percival-albert-wyndow-b1912-d1958-8-20.md)** (1912 - 20/Aug/1958) **on 14th of June 1947** at Fayid, Ismailia, Egypt.
   * **[John Ramsay](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - ) and **[Catherine Morris](people/@33882736@-catherine-morris-b1816-d.md)** (1816 - ) **on 4th of February 1843** at Crail, Fife, Scotland, .
   * **[John Ramsay](people/@63088441@-john-ramsay-b1852-1-13-d.md)** (13/Jan/1852 - ) and **[Ann Morgan](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - ) **on 23rd of November 1872** at Carnbee, Fife, Scotland, .
   * **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920) and **[Helen Currie Fisher](people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md)** (29/Nov/1881 - 6/Jun/1953) **on 13th of January 1905** at Edinburgh, Scotland.
+  * **[John Morgan Ramsay](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md)** (31/Mar/1905 - 31/Dec/1966) and **[Margaret Kinnomond Lawrence](people/@71043319@-margaret-kinnomond-lawrence-b1906-d.md)** (1906 - ) **on 23rd of January 1931** at Edinburgh, Scotland.
+  * **[John Morgan Ramsay](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md)** (31/Mar/1905 - 31/Dec/1966) and X **in 1950** at Edinburgh, Scotland.
 
 ## Raymond
 
@@ -522,6 +535,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Norman Stead](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011) and **[Margaret Paton O'Malley](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004) **in 1959** at Glasgow, Scotland.
   * **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ) **about 1887**.
 
+## Steedman
+
+  * **[Richard Trotter Steedman](people/@65047040@-richard-trotter-steedman-b1948-d2022-6-23.md)** (1948 - 23/Jun/2022) and X **in 1970** at Edinburgh, Scotland.
+
 ## Sunderland
 
   * **[Thomas Sunderland](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - ) and **[Marion Ross](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888) **on 28th of September 1887** at Hayes Township, Charlevoix County, Michigan, United States of America.
@@ -575,4 +592,8 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Wright
 
   * **[Philip John Anthony Wright](people/@66352546@-philip-john-anthony-wright-b1962-1-d2025-2.md)** (Jan/1962 - Feb/2025) and X **in 1988** at Glasgow, Scotland.
+
+## Wyndow
+
+  * **[George Percival Albert Wyndow](people/@6915792@-george-percival-albert-wyndow-b1912-d1958-8-20.md)** (1912 - 20/Aug/1958) and **[Isabella Morgan Ramsay](people/@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md)** (16/Jun/1915 - 12/Sep/1974) **on 14th of June 1947** at Fayid, Ismailia, Egypt.
 

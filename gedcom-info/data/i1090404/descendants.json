@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i1090404",
+  "Name": "William Lawrence",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i71043319",
+      "Name": "Margaret Kinnomond Lawrence",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1906",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

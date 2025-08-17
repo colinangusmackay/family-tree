@@ -12,6 +12,7 @@ permalink: /indexes/by-death-location
 - **[, Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
 - **[, Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
+- **[, Kathleen](people/@37756528@-kathleen-b-d1958.md)** ( - before 1958)
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 - **[, Nancy](people/@68661720@-nancy-b-d.md)**
 - **[?, ](people/@94950024@---b-d.md)**
@@ -31,6 +32,7 @@ permalink: /indexes/by-death-location
 - **[Buchanan, Janet](people/@48339564@-janet-buchanan-b-d.md)**
 - **[Burns, Mary](people/@81238912@-mary-burns-b-d.md)**
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
+- **[Campbell, Christina](people/@24281088@-christina-campbell-b-d1931.md)** ( - before 1931)
 - **[Campbell, James](people/@16864904@-james-campbell-b1890-d.md)** (about 1890 - )
 - **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - )
 - **[Campbell, William](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918)
@@ -188,6 +190,8 @@ permalink: /indexes/by-death-location
 - **[Johnston, Jane](people/@71906070@-jane-johnston-b1859-d1922.md)** (about 1859 - before 1922)
 - **[Kirkland, Margaret](people/@48501002@-margaret-kirkland-b-d.md)**
 - **[LaFavre, Stasia](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
+- **[Lawrence, Margaret Kinnomond](people/@71043319@-margaret-kinnomond-lawrence-b1906-d.md)** (1906 - )
+- **[Lawrence, William](people/@1090404@-william-lawrence-b-d.md)**
 - **[Lenox, Andrew](people/@61792169@-andrew-lenox-b-d.md)**
 - **[Lenox, Minnie](people/@99536158@-minnie-lenox-b1867-4-15-d.md)** (15/Apr/1867 - )
 - **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
@@ -377,6 +381,15 @@ permalink: /indexes/by-death-location
 - **[O'Malley, Michael](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - )
 - **[O'Malley, Patrick](people/@39412375@-patrick-o'malley-b1880-d.md)** (about 1880 - )
 - **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004)
+- **[Parkinson, Ernestine](people/@32129630@-ernestine-parkinson-b1903-d.md)** (1903 - )
+- **[Parkinson, Gladys Marie W](people/@93191940@-gladys-marie-w-parkinson-b1899-d.md)** (1899 - )
+- **[Parkinson, Lawrence Sidney Arthur](people/@98781744@-lawrence-sidney-arthur-parkinson-b1906-d.md)** (1906 - )
+- **[Parkinson, Leonard Albert](people/@59797112@-leonard-albert-parkinson-b1908-d.md)** (1908 - )
+- **[Parkinson, Marie Olive](people/@25205426@-marie-olive-parkinson-b1909-d.md)** (1909 - )
+- **[Parkinson, Mildred](people/@25594216@-mildred-parkinson-b1876-d.md)** (1876 - )
+- **[Parkinson, Thomas](people/@4365378@-thomas-parkinson-b1870-9-2-d1941.md)** (2/Sep/1870 - 1941)
+- **[Parkinson, Victor Roy](people/@64799854@-victor-roy-parkinson-b1915-d.md)** (1915 - )
+- **[Parkinson, Walter Alex](people/@9475046@-walter-alex-parkinson-b1901-d.md)** (1901 - )
 - **[Paterson, Ann](people/@11400006@-ann-paterson-b1853-d.md)** (about 1853 - )
 - **[Paterson, Barbara](people/@65135072@-barbara-paterson-b1857-d.md)** (about 1857 - )
 - **[Paterson, Jessie](people/@992704@-jessie-paterson-b1859-10-11-d1881-3-11.md)** (11/Oct/1859 - 11/Mar/1881)
@@ -396,17 +409,15 @@ permalink: /indexes/by-death-location
 - **[Ramsay, Agnes](people/@73804628@-agnes-ramsay-b1847-d.md)** (1847 - )
 - **[Ramsay, Agnes](people/@57916783@-agnes-ramsay-b1873-d.md)** (about 1873 - )
 - **[Ramsay, Allan](people/@62219744@-allan-ramsay-b1911-d1932.md)** (1911 - 1932)
-- **[Ramsay, Bruce Morgan](people/@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md)** (10/Oct/1913 - 29/Nov/1965)
 - **[Ramsay, Catherine](people/@12774174@-catherine-ramsay-b1860-d.md)** (1860 - )
 - **[Ramsay, Cattie](people/@35547078@-cattie-ramsay-b1877-d.md)** (about 1877 - )
 - **[Ramsay, David](people/@17577117@-david-ramsay-b1844-d.md)** (1844 - )
-- **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
+- **[Ramsay, David](people/@2690064@-david-ramsay-b1888-d.md)** (1888 - )
+- **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-9-17-d1993.md)** (17/Sep/1918 - 1993)
 - **[Ramsay, Euphemia](people/@99132181@-euphemia-ramsay-b1855-d.md)** (1855 - )
 - **[Ramsay, Isabella](people/@54722192@-isabella-ramsay-b1878-d.md)** (about 1878 - )
-- **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1915-6-16-d1974.md)** (16/Jun/1915 - 1974)
 - **[Ramsay, James](people/@5972344@-james-ramsay-b1846-d.md)** (1846 - )
 - **[Ramsay, Jane](people/@25940269@-jane-ramsay-b1850-d.md)** (1850 - )
-- **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
 - **[Ramsay, John](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - )
 - **[Ramsay, John](people/@63088441@-john-ramsay-b1852-1-13-d.md)** (13/Jan/1852 - )
 - **[Ramsay, William Fisher](people/@81255608@-william-fisher-ramsay-b1910-8-24-d.md)** (24/Aug/1910 - )
@@ -496,7 +507,7 @@ permalink: /indexes/by-death-location
 - **[Stead, Laura](people/@67809808@-laura-stead-b1904-d.md)** (about 1904 - )
 - **[Stead, Norman](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
 - **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
-- **[Steedman, Ricky](people/@65047040@-ricky-steedman-b-d2022-6-23.md)** ( - 23/Jun/2022)
+- **[Steedman, Richard Trotter](people/@65047040@-richard-trotter-steedman-b1948-d2022-6-23.md)** (1948 - 23/Jun/2022)
 - **[Steel, Janet](people/@22623536@-janet-steel-b-d.md)**
 - **[Stewart, Roxannah](people/@56480720@-roxannah-stewart-b-d.md)**
 - **[Stobie, Robina](people/@73873122@-robina-stobie-b-d.md)**
@@ -568,6 +579,10 @@ permalink: /indexes/by-death-location
 
 - **[Wright, Philip John Anthony](people/@66352546@-philip-john-anthony-wright-b1962-1-d2025-2.md)** (Jan/1962 - Feb/2025)
 
+#### Westminster
+
+- **[Ramsay, Bruce Morgan](people/@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md)** (10/Oct/1913 - 29/Nov/1965)
+
 ### Worcestershire
 
 #### Worcester
@@ -620,6 +635,7 @@ permalink: /indexes/by-death-location
 - **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964)
 - **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 - **[Ramsay, James Fisher](people/@58012424@-james-fisher-ramsay-b1907-1-15-d1908-6-5.md)** (15/Jan/1907 - 5/Jun/1908)
+- **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md)** (31/Mar/1905 - 31/Dec/1966)
 - **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
 
 ### Fife
@@ -889,4 +905,15 @@ permalink: /indexes/by-death-location
 #### El Lago, Harris County
 
 - **[Mitchell, Donald Charles](people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md)** (26/Mar/1929 - 12/Mar/1982)
+
+
+## Zimbabwe
+
+### Bulawayo
+
+- **[Wyndow, George Percival Albert](people/@6915792@-george-percival-albert-wyndow-b1912-d1958-8-20.md)** (1912 - 20/Aug/1958)
+
+### Harare
+
+- **[Ramsay, Isabella Morgan](people/@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md)** (16/Jun/1915 - 12/Sep/1974)
 

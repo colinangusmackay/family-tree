@@ -131,6 +131,16 @@
     ]
   },
   {
+    "id": "i1090404",
+    "nameParts": [
+      "lawrence",
+      "william"
+    ],
+    "wholeNames": [
+      "William Lawrence"
+    ]
+  },
+  {
     "id": "i10983472",
     "nameParts": [
       "christina",
@@ -455,8 +465,14 @@
       "Douglas Ramsay"
     ],
     "birth": {
-      "date": "in 1918",
-      "year": 1918
+      "date": "on 17th of September 1918 at 14:10",
+      "year": 1918,
+      "month": 9,
+      "day": 17,
+      "place": [
+        "edinburgh",
+        "scotland"
+      ]
     },
     "death": {
       "date": "in 1993",
@@ -1647,6 +1663,8 @@
           1911,
           1920,
           1921,
+          1935,
+          1939,
           1953
         ]
       }
@@ -3085,6 +3103,21 @@
     ]
   },
   {
+    "id": "i24281088",
+    "nameParts": [
+      "campbell",
+      "christina",
+      "lawrence"
+    ],
+    "wholeNames": [
+      "Christina Campbell",
+      "Christina Lawrence"
+    ],
+    "death": {
+      "date": "before 1931"
+    }
+  },
+  {
     "id": "i24328630",
     "nameParts": [
       "christine",
@@ -3574,6 +3607,49 @@
     ]
   },
   {
+    "id": "i25205426",
+    "nameParts": [
+      "marie",
+      "olive",
+      "parkinson"
+    ],
+    "wholeNames": [
+      "Marie Olive Parkinson"
+    ],
+    "birth": {
+      "date": "in 1909",
+      "year": 1909,
+      "place": [
+        "new cross",
+        "london",
+        "england"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "woolwich",
+          "greenwich",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1921
+        ]
+      },
+      {
+        "place": [
+          "bexley",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1939
+        ]
+      }
+    ]
+  },
+  {
     "id": "i25303611",
     "nameParts": [
       "gilchrist",
@@ -3688,6 +3764,39 @@
     "wholeNames": [
       "Margaret McLeod",
       "McLeod"
+    ]
+  },
+  {
+    "id": "i25594216",
+    "nameParts": [
+      "mildred",
+      "parkinson"
+    ],
+    "wholeNames": [
+      "Mildred Parkinson",
+      "Parkinson"
+    ],
+    "birth": {
+      "date": "in 1876",
+      "year": 1876,
+      "place": [
+        "whitechapel",
+        "london",
+        "england"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "woolwich",
+          "greenwich",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1921
+        ]
+      }
     ]
   },
   {
@@ -4154,6 +4263,37 @@
         ],
         "dates": [
           1967
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i2690064",
+    "nameParts": [
+      "david",
+      "ramsay"
+    ],
+    "wholeNames": [
+      "David Ramsay"
+    ],
+    "birth": {
+      "date": "in 1888",
+      "year": 1888,
+      "place": [
+        "burntisland",
+        "fife",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "burntisland",
+          "fife",
+          "scotland"
+        ],
+        "dates": [
+          1891
         ]
       }
     ]
@@ -5789,6 +5929,73 @@
     ]
   },
   {
+    "id": "i32129630",
+    "nameParts": [
+      "ernestine",
+      "parkinson",
+      "ramsay"
+    ],
+    "wholeNames": [
+      "Ernestine Parkinson",
+      "Ernestine Ramsay"
+    ],
+    "birth": {
+      "date": "in 1903",
+      "year": 1903,
+      "place": [
+        "blackpool",
+        "england"
+      ]
+    },
+    "marriages": [
+      {
+        "spouse": "i49046148",
+        "date": "on 13th of August 1941",
+        "year": 1941,
+        "month": 8,
+        "day": 13,
+        "place": [
+          "chester",
+          "cheshire west and chester",
+          "england"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "woolwich",
+          "greenwich",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1921
+        ]
+      },
+      {
+        "place": [
+          "bexley",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1939
+        ]
+      },
+      {
+        "place": [
+          "chester",
+          "cheshire west and chester",
+          "england"
+        ],
+        "dates": [
+          1941
+        ]
+      }
+    ]
+  },
+  {
     "id": "i32419757",
     "nameParts": [
       "ann",
@@ -7366,6 +7573,20 @@
         ]
       }
     ]
+  },
+  {
+    "id": "i37756528",
+    "nameParts": [
+      "kathleen",
+      "wyndow"
+    ],
+    "wholeNames": [
+      "Kathleen",
+      "Wyndow"
+    ],
+    "death": {
+      "date": "before 1958"
+    }
   },
   {
     "id": "i37901232",
@@ -9033,6 +9254,55 @@
     ]
   },
   {
+    "id": "i4365378",
+    "nameParts": [
+      "parkinson",
+      "thomas"
+    ],
+    "wholeNames": [
+      "Thomas Parkinson"
+    ],
+    "birth": {
+      "date": "on 2nd of September 1870",
+      "year": 1870,
+      "month": 9,
+      "day": 2,
+      "place": [
+        "plumstead",
+        "greenwich",
+        "london",
+        "england"
+      ]
+    },
+    "death": {
+      "date": "in 1941",
+      "year": 1941
+    },
+    "residences": [
+      {
+        "place": [
+          "woolwich",
+          "greenwich",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1921
+        ]
+      },
+      {
+        "place": [
+          "bexley",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1939
+        ]
+      }
+    ]
+  },
+  {
     "id": "i43723296",
     "nameParts": [
       "cumming",
@@ -10559,8 +10829,27 @@
       "date": "on 29th of November 1965",
       "year": 1965,
       "month": 11,
-      "day": 29
+      "day": 29,
+      "place": [
+        "westminster",
+        "london",
+        "england"
+      ]
     },
+    "marriages": [
+      {
+        "spouse": "i32129630",
+        "date": "on 13th of August 1941",
+        "year": 1941,
+        "month": 8,
+        "day": 13,
+        "place": [
+          "chester",
+          "cheshire west and chester",
+          "england"
+        ]
+      }
+    ],
     "residences": [
       {
         "place": [
@@ -10568,7 +10857,30 @@
           "scotland"
         ],
         "dates": [
-          1921
+          1921,
+          1935,
+          1935,
+          1939
+        ]
+      },
+      {
+        "place": [
+          "chester",
+          "cheshire west and chester",
+          "england"
+        ],
+        "dates": [
+          1941
+        ]
+      },
+      {
+        "place": [
+          "westminster",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1965
         ]
       }
     ]
@@ -12189,7 +12501,20 @@
         "fife",
         "scotland"
       ]
-    }
+    },
+    "residences": [
+      {
+        "place": [
+          "burntisland",
+          "fife",
+          "scotland"
+        ],
+        "dates": [
+          1881,
+          1891
+        ]
+      }
+    ]
   },
   {
     "id": "i54814674",
@@ -12260,9 +12585,37 @@
       ]
     },
     "death": {
-      "date": "in 1967",
-      "year": 1967
+      "date": "on 31st of December 1966 at 06:00",
+      "year": 1966,
+      "month": 12,
+      "day": 31,
+      "place": [
+        "edinburgh",
+        "scotland"
+      ]
     },
+    "marriages": [
+      {
+        "spouse": "i71043319",
+        "date": "on 23rd of January 1931",
+        "year": 1931,
+        "month": 1,
+        "day": 23,
+        "place": [
+          "edinburgh",
+          "scotland"
+        ]
+      },
+      {
+        "spouse": "i68733720",
+        "date": "in 1950",
+        "year": 1950,
+        "place": [
+          "edinburgh",
+          "scotland"
+        ]
+      }
+    ],
     "residences": [
       {
         "place": [
@@ -12280,6 +12633,7 @@
         ],
         "dates": [
           1921,
+          1931,
           1953
         ]
       }
@@ -13233,7 +13587,20 @@
         "fife",
         "scotland"
       ]
-    }
+    },
+    "residences": [
+      {
+        "place": [
+          "burntisland",
+          "fife",
+          "scotland"
+        ],
+        "dates": [
+          1881,
+          1891
+        ]
+      }
+    ]
   },
   {
     "id": "i58012424",
@@ -13695,6 +14062,39 @@
         ],
         "dates": [
           1851
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i59797112",
+    "nameParts": [
+      "albert",
+      "leonard",
+      "parkinson"
+    ],
+    "wholeNames": [
+      "Leonard Albert Parkinson"
+    ],
+    "birth": {
+      "date": "in 1908",
+      "year": 1908,
+      "place": [
+        "new cross",
+        "london",
+        "england"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "woolwich",
+          "greenwich",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1921
         ]
       }
     ]
@@ -14172,7 +14572,8 @@
           "scotland"
         ],
         "dates": [
-          1881
+          1881,
+          1891
         ]
       }
     ]
@@ -14681,7 +15082,9 @@
           "scotland"
         ],
         "dates": [
-          1881
+          1881,
+          1891,
+          1892
         ]
       }
     ]
@@ -15241,6 +15644,39 @@
     }
   },
   {
+    "id": "i64799854",
+    "nameParts": [
+      "parkinson",
+      "roy",
+      "victor"
+    ],
+    "wholeNames": [
+      "Victor Roy Parkinson"
+    ],
+    "birth": {
+      "date": "in 1915",
+      "year": 1915,
+      "place": [
+        "halstead",
+        "essex",
+        "england"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "woolwich",
+          "greenwich",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1921
+        ]
+      }
+    ]
+  },
+  {
     "id": "i64841197",
     "nameParts": [
       "john",
@@ -15322,18 +15758,53 @@
   {
     "id": "i65047040",
     "nameParts": [
+      "richard",
       "ricky",
-      "steedman"
+      "steedman",
+      "trotter"
     ],
     "wholeNames": [
+      "Richard Trotter Steedman",
       "Ricky Steedman"
     ],
+    "birth": {
+      "date": "in 1948",
+      "year": 1948,
+      "place": [
+        "edinburgh",
+        "scotland"
+      ]
+    },
     "death": {
       "date": "on 23rd of June 2022",
       "year": 2022,
       "month": 6,
       "day": 23
-    }
+    },
+    "marriages": [
+      {
+        "spouse": "i76530426",
+        "date": "in 1970",
+        "year": 1970,
+        "place": [
+          "edinburgh",
+          "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "edinburgh",
+          "scotland"
+        ],
+        "dates": [
+          2003,
+          2011,
+          2017
+        ]
+      }
+    ]
   },
   {
     "id": "i65128525",
@@ -16387,6 +16858,64 @@
     ]
   },
   {
+    "id": "i6915792",
+    "nameParts": [
+      "albert",
+      "george",
+      "percival",
+      "wyndow"
+    ],
+    "wholeNames": [
+      "George Percival Albert Wyndow"
+    ],
+    "birth": {
+      "date": "in 1912",
+      "year": 1912,
+      "place": [
+        "brighton",
+        "brighton and hove",
+        "england"
+      ]
+    },
+    "death": {
+      "date": "on 20th of August 1958",
+      "year": 1958,
+      "month": 8,
+      "day": 20,
+      "place": [
+        "bulawayo",
+        "bulawayo",
+        "zimbabwe"
+      ]
+    },
+    "marriages": [
+      {
+        "spouse": "i80504300",
+        "date": "on 14th of June 1947",
+        "year": 1947,
+        "month": 6,
+        "day": 14,
+        "place": [
+          "fayid",
+          "ismailia",
+          "egypt"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "bulawayo",
+          "bulawayo",
+          "zimbabwe"
+        ],
+        "dates": [
+          1958
+        ]
+      }
+    ]
+  },
+  {
     "id": "i69291286",
     "nameParts": [
       "georgina",
@@ -16863,6 +17392,36 @@
         "place": [
           "dysart",
           "fife",
+          "scotland"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i71043319",
+    "nameParts": [
+      "kinnomond",
+      "lawrence",
+      "margaret",
+      "ramsay"
+    ],
+    "wholeNames": [
+      "Margaret Kinnomond Lawrence",
+      "Ramsay"
+    ],
+    "birth": {
+      "date": "in 1906",
+      "year": 1906
+    },
+    "marriages": [
+      {
+        "spouse": "i55070438",
+        "date": "on 23rd of January 1931",
+        "year": 1931,
+        "month": 1,
+        "day": 23,
+        "place": [
+          "edinburgh",
           "scotland"
         ]
       }
@@ -18953,10 +19512,11 @@
     "id": "i80504300",
     "nameParts": [
       "isabella",
+      "morgan",
       "ramsay"
     ],
     "wholeNames": [
-      "Isabella Ramsay"
+      "Isabella Morgan Ramsay"
     ],
     "birth": {
       "date": "on 16th of June 1915 at 05:00",
@@ -18970,9 +19530,29 @@
       ]
     },
     "death": {
-      "date": "in 1974",
-      "year": 1974
+      "date": "on 12th of September 1974",
+      "year": 1974,
+      "month": 9,
+      "day": 12,
+      "place": [
+        "harare",
+        "zimbabwe"
+      ]
     },
+    "marriages": [
+      {
+        "spouse": "i6915792",
+        "date": "on 14th of June 1947",
+        "year": 1947,
+        "month": 6,
+        "day": 14,
+        "place": [
+          "fayid",
+          "ismailia",
+          "egypt"
+        ]
+      }
+    ],
     "residences": [
       {
         "place": [
@@ -18991,7 +19571,27 @@
         ],
         "dates": [
           1921,
-          1945
+          1939,
+          1945,
+          1948,
+          1950
+        ]
+      },
+      {
+        "place": [
+          "egypt"
+        ],
+        "dates": [
+          1948
+        ]
+      },
+      {
+        "place": [
+          "harare",
+          "zimbabwe"
+        ],
+        "dates": [
+          1974
         ]
       }
     ]
@@ -20819,6 +21419,13 @@
         "scotland"
       ]
     },
+    "marriages": [
+      {
+        "spouse": "i47782544",
+        "date": "in 1916",
+        "year": 1916
+      }
+    ],
     "residences": [
       {
         "place": [
@@ -21855,6 +22462,50 @@
     ]
   },
   {
+    "id": "i93191940",
+    "nameParts": [
+      "gladys",
+      "marie",
+      "parkinson",
+      "w"
+    ],
+    "wholeNames": [
+      "Gladys Marie W Parkinson"
+    ],
+    "birth": {
+      "date": "in 1899",
+      "year": 1899,
+      "place": [
+        "new cross",
+        "london",
+        "england"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "woolwich",
+          "greenwich",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1921
+        ]
+      },
+      {
+        "place": [
+          "bexley",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1939
+        ]
+      }
+    ]
+  },
+  {
     "id": "i9365293",
     "nameParts": [
       "j.",
@@ -22050,6 +22701,39 @@
         ],
         "dates": [
           1901
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i9475046",
+    "nameParts": [
+      "alex",
+      "parkinson",
+      "walter"
+    ],
+    "wholeNames": [
+      "Walter Alex Parkinson"
+    ],
+    "birth": {
+      "date": "in 1901",
+      "year": 1901,
+      "place": [
+        "new cross",
+        "london",
+        "england"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "woolwich",
+          "greenwich",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1921
         ]
       }
     ]
@@ -22687,6 +23371,50 @@
     "birth": {
       "date": "before 1850"
     }
+  },
+  {
+    "id": "i98781744",
+    "nameParts": [
+      "arthur",
+      "lawrence",
+      "parkinson",
+      "sidney"
+    ],
+    "wholeNames": [
+      "Lawrence Sidney Arthur Parkinson"
+    ],
+    "birth": {
+      "date": "in 1906",
+      "year": 1906,
+      "place": [
+        "new cross",
+        "london",
+        "england"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "woolwich",
+          "greenwich",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1921
+        ]
+      },
+      {
+        "place": [
+          "bexley",
+          "london",
+          "england"
+        ],
+        "dates": [
+          1939
+        ]
+      }
+    ]
   },
   {
     "id": "i98834750",

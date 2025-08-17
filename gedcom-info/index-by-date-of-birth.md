@@ -337,6 +337,7 @@ permalink: /indexes/by-date-of-birth
   * **[Napier, Henry](people/@74931773@-henry-napier-b1870-d.md)** (1870 - )
   * **[Tevin, Thomas](people/@81418416@-thomas-tevin-b1870-d.md)** (about 1870 - )
   * **[Wilson, James](people/@59901376@-james-wilson-b1870-d.md)** (about 1870 - )
+  * **[Parkinson, Thomas](people/@4365378@-thomas-parkinson-b1870-9-2-d1941.md)** (2/Sep/1870 - 1941)
 * **Born in 1871.**
   * **[Mackay, Barbra](people/@60643714@-barbra-mackay-b1871-8-25-d.md)** (25/Aug/1871 - )
 * **Born in 1872.**
@@ -364,6 +365,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1876.**
   * **[Dalrymple, Janet](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
   * **[McKenzie, Barbara](people/@18932462@-barbara-mckenzie-b1876-d.md)** (about 1876 - )
+  * **[Parkinson, Mildred](people/@25594216@-mildred-parkinson-b1876-d.md)** (1876 - )
   * **[Ross, Donald](people/@46967448@-donald-ross-b1876-d.md)** (1876 - )
   * **[Wilson, Henry](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - )
   * **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939)
@@ -434,6 +436,7 @@ permalink: /indexes/by-date-of-birth
   * **[Fleming, Elizabeth](people/@79236484@-elizabeth-fleming-b1887-4-22-d.md)** (22/Apr/1887 - )
 * **Born in 1888.**
   * **[McKenzie, Jessie Paterson](people/@2043547@-jessie-paterson-mckenzie-b1888-d.md)** (about 1888 - )
+  * **[Ramsay, David](people/@2690064@-david-ramsay-b1888-d.md)** (1888 - )
   * **[Stead, Harry](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - )
   * **[Hawthorn, Thomas](people/@30039040@-thomas-hawthorn-b1888-6-28-d1946.md)** (28/Jun/1888 - before 1946)
   * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986)
@@ -514,6 +517,7 @@ permalink: /indexes/by-date-of-birth
   * **[Grant, Jessie Ann](people/@15036054@-jessie-ann-grant-b1898-10-31-d.md)** (31/Oct/1898 - )
 * **Born in 1899.**
   * **[Mathews, Charles A](people/@74822247@-charles-a-mathews-b1899-d.md)** (about 1899 - )
+  * **[Parkinson, Gladys Marie W](people/@93191940@-gladys-marie-w-parkinson-b1899-d.md)** (1899 - )
   * **[Ross, John](people/@35298145@-john-ross-b1899-d.md)** (1899 - )
   * **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969)
 
@@ -535,6 +539,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1901.**
   * **[McLean, Arthur Fred](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - )
   * **[Napier, David](people/@46994217@-david-napier-b1901-d.md)** (about 1901 - )
+  * **[Parkinson, Walter Alex](people/@9475046@-walter-alex-parkinson-b1901-d.md)** (1901 - )
   * **[Predendall, Carrie Elizabeth](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - )
   * **[Stead, Albert](people/@51674188@-albert-stead-b1901-d.md)** (1901 - )
   * **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md)** (27/Jun/1901 - 24/Aug/1973)
@@ -546,6 +551,7 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
 * **Born in 1903.**
   * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946)
+  * **[Parkinson, Ernestine](people/@32129630@-ernestine-parkinson-b1903-d.md)** (1903 - )
   * **[Cumming, Donald](people/@64759184@-donald-cumming-b1903-5-4-d.md)** (4/May/1903 - )
 * **Born in 1904.**
   * **[Fraser, Christina](people/@8163648@-christina-fraser-b1904-d.md)** (1904 - )
@@ -557,10 +563,12 @@ permalink: /indexes/by-date-of-birth
   * **[Napier, John](people/@61882948@-john-napier-b1905-d.md)** (about 1905 - )
   * **[Ross, Johan or Janet](people/@18017632@-johan-or-janet-ross-b1905-d.md)** (1905 - )
   * **[Wilson, Mary Elizabeth](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971)
-  * **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
+  * **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md)** (31/Mar/1905 - 31/Dec/1966)
   * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
 * **Born in 1906.**
   * **[Fraser, John J Barrow G](people/@43044884@-john-j-barrow-g-fraser-b1906-d.md)** (1906 - )
+  * **[Lawrence, Margaret Kinnomond](people/@71043319@-margaret-kinnomond-lawrence-b1906-d.md)** (1906 - )
+  * **[Parkinson, Lawrence Sidney Arthur](people/@98781744@-lawrence-sidney-arthur-parkinson-b1906-d.md)** (1906 - )
   * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986)
 * **Born in 1907.**
   * **[Carlyle, Mary](people/@99996424@-mary-carlyle-b1907-d.md)** (1907 - )
@@ -570,9 +578,11 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1908.**
   * **[Fraser, William](people/@94771760@-william-fraser-b1908-d.md)** (1908 - )
   * **[Hanton, Jane](people/@65592941@-jane-hanton-b1908-d1930-9-3.md)** (about 1908 - 3/Sep/1930)
+  * **[Parkinson, Leonard Albert](people/@59797112@-leonard-albert-parkinson-b1908-d.md)** (1908 - )
   * **[Wilson, Frieda Belle](people/@66883950@-frieda-belle-wilson-b1908-1-10-d1995-1-4.md)** (10/Jan/1908 - 4/Jan/1995)
   * **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
 * **Born in 1909.**
+  * **[Parkinson, Marie Olive](people/@25205426@-marie-olive-parkinson-b1909-d.md)** (1909 - )
   * **[Ross, Sarah](people/@85030761@-sarah-ross-b1909-d.md)** (1909 - )
   * **[Watson, John Blue](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963)
   * **[Cumming, Maggie](people/@86945960@-maggie-cumming-b1909-1-19-d.md)** (19/Jan/1909 - )
@@ -594,6 +604,7 @@ permalink: /indexes/by-date-of-birth
   * **[Stead, George](people/@77215226@-george-stead-b1911-3-d.md)** (Mar/1911 - )
 * **Born in 1912.**
   * **[Fraser, Davidina](people/@27014400@-davidina-fraser-b1912-d.md)** (1912 - )
+  * **[Wyndow, George Percival Albert](people/@6915792@-george-percival-albert-wyndow-b1912-d1958-8-20.md)** (1912 - 20/Aug/1958)
   * **[Cummings, James Edward](people/@5591850@-james-edward-cummings-b1912-1-18-d2003-12-11.md)** (18/Jan/1912 - 11/Dec/2003)
   * **[Howie, Annie Murie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
   * **[Crawford, Mary Hendry](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991)
@@ -607,8 +618,9 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1914.**
   * **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978)
 * **Born in 1915.**
+  * **[Parkinson, Victor Roy](people/@64799854@-victor-roy-parkinson-b1915-d.md)** (1915 - )
   * **[Ross, John](people/@99039359@-john-ross-b1915-d.md)** (1915 - )
-  * **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1915-6-16-d1974.md)** (16/Jun/1915 - 1974)
+  * **[Ramsay, Isabella Morgan](people/@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md)** (16/Jun/1915 - 12/Sep/1974)
 * **Born in 1916.**
   * **[Hanton, Marion](people/@27083581@-marion-hanton-b1916-d2014.md)** (about 1916 - 2014)
   * **[Russell, Martha](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963)
@@ -618,9 +630,9 @@ permalink: /indexes/by-date-of-birth
   * **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
 * **Born in 1918.**
   * **[McAughtrie, Mary Houston](people/@54273056@-mary-houston-mcaughtrie-b1918-d.md)** (about 1918 - )
-  * **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
   * **[Simonet, Virginia C](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998)
   * **[Stevens, Thomas](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
+  * **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-9-17-d1993.md)** (17/Sep/1918 - 1993)
 * **Born in 1919.**
   * **[Hanton, Johnina](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000)
   * **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
@@ -691,6 +703,8 @@ permalink: /indexes/by-date-of-birth
   * **[O'Malley, Margaret Paton](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
 * **Born in 1942.**
   * **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024)
+* **Born in 1948.**
+  * **[Steedman, Richard Trotter](people/@65047040@-richard-trotter-steedman-b1948-d2022-6-23.md)** (1948 - 23/Jun/2022)
 
 ### 1950s
 

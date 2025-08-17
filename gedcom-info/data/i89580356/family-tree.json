@@ -110,6 +110,30 @@
       ]
     }
   ],
-  "Spouses": [],
-  "Children": []
+  "Spouses": [
+    {
+      "Id": "i47782544",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "1916",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i19170576",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "1925",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i89580356",
+        "i47782544"
+      ]
+    }
+  ]
 }

@@ -14,12 +14,20 @@ permalink: /people/i54722192
 * Sister: [Agnes Ramsay](./@57916783@-agnes-ramsay-b1873-d.md) (about 1873 - )
 * Sister: [Cattie Ramsay](./@35547078@-cattie-ramsay-b1877-d.md) (about 1877 - )
 * Brother: [John Ramsay](./@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) (21/Feb/1880 - 20/Jun/1920)
+* Brother: [David Ramsay](./@2690064@-david-ramsay-b1888-d.md) (1888 - )
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1878 | Born | Born to [John Ramsay](./@63088441@-john-ramsay-b1852-1-13-d.md) and [Ann Morgan](./@60684755@-ann-morgan-b1845-d.md) in Burntisland, Fife, Scotland. | [1](#1) | 
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1881 | Buccleuch Place, Burntisland, Fife, Scotland | [1](#1)
+1891 | 2 Buccleuch Place, Burntisland, Fife, Scotland | [2](#2)
 
 ## Footnotes
 
@@ -32,4 +40,14 @@ about 1878 | Born | Born to [John Ramsay](./@63088441@-john-ramsay-b1852-1-13-d.
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1881 C 411/ 4/ 13
+
+### 2
+
+**1891 RAMSAY, JOHN & HOUSEHOLD (Census 411/ 4/ 35)**
+
+* [Full text and notes](../sources/@6963384@-1891-ramsay,-john-&-household-census-411-4-35-.md)
+* Date: 1891
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1891 C 411/ 4/ 35
 

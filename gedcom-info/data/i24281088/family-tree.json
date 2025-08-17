@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i24281088",
+    "Name": "Christina Campbell",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1931"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i24281088",
+      "Name": "Christina Campbell",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1931",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i1090404",
+      "Name": "William Lawrence",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i71043319",
+      "Name": "Margaret Kinnomond Lawrence",
+      "Gender": "Female",
+      "DateOfBirth": "1906",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i1090404",
+        "i24281088"
+      ]
+    }
+  ]
+}

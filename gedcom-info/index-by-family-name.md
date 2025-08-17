@@ -12,6 +12,7 @@ permalink: /indexes/by-family-name
 - **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
 - **[Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
+- **[Kathleen](people/@37756528@-kathleen-b-d1958.md)** ( - before 1958)
 - **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 - **[Nancy](people/@68661720@-nancy-b-d.md)**
 
@@ -79,6 +80,7 @@ permalink: /indexes/by-family-name
 
 ## Campbell
 
+- **[Christina Campbell](people/@24281088@-christina-campbell-b-d1931.md)** ( - before 1931)
 - **[James Campbell](people/@16864904@-james-campbell-b1890-d.md)** (about 1890 - )
 - **[Linda Margaret Campbell](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998)
@@ -424,6 +426,11 @@ permalink: /indexes/by-family-name
 ## LaFavre
 
 - **[Stasia LaFavre](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
+
+## Lawrence
+
+- **[Margaret Kinnomond Lawrence](people/@71043319@-margaret-kinnomond-lawrence-b1906-d.md)** (1906 - )
+- **[William Lawrence](people/@1090404@-william-lawrence-b-d.md)**
 
 ## Lenox
 
@@ -786,6 +793,18 @@ permalink: /indexes/by-family-name
 - **[Patrick O'Malley](people/@39412375@-patrick-o'malley-b1880-d.md)** (about 1880 - )
 - **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004)
 
+## Parkinson
+
+- **[Ernestine Parkinson](people/@32129630@-ernestine-parkinson-b1903-d.md)** (1903 - )
+- **[Gladys Marie W Parkinson](people/@93191940@-gladys-marie-w-parkinson-b1899-d.md)** (1899 - )
+- **[Lawrence Sidney Arthur Parkinson](people/@98781744@-lawrence-sidney-arthur-parkinson-b1906-d.md)** (1906 - )
+- **[Leonard Albert Parkinson](people/@59797112@-leonard-albert-parkinson-b1908-d.md)** (1908 - )
+- **[Marie Olive Parkinson](people/@25205426@-marie-olive-parkinson-b1909-d.md)** (1909 - )
+- **[Mildred Parkinson](people/@25594216@-mildred-parkinson-b1876-d.md)** (1876 - )
+- **[Thomas Parkinson](people/@4365378@-thomas-parkinson-b1870-9-2-d1941.md)** (2/Sep/1870 - 1941)
+- **[Victor Roy Parkinson](people/@64799854@-victor-roy-parkinson-b1915-d.md)** (1915 - )
+- **[Walter Alex Parkinson](people/@9475046@-walter-alex-parkinson-b1901-d.md)** (1901 - )
+
 ## Paterson
 
 - **[Ann Paterson](people/@11400006@-ann-paterson-b1853-d.md)** (about 1853 - )
@@ -834,15 +853,16 @@ permalink: /indexes/by-family-name
 - **[Catherine Ramsay](people/@12774174@-catherine-ramsay-b1860-d.md)** (1860 - )
 - **[Cattie Ramsay](people/@35547078@-cattie-ramsay-b1877-d.md)** (about 1877 - )
 - **[David Ramsay](people/@17577117@-david-ramsay-b1844-d.md)** (1844 - )
-- **[Douglas Ramsay](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
+- **[David Ramsay](people/@2690064@-david-ramsay-b1888-d.md)** (1888 - )
+- **[Douglas Ramsay](people/@12977578@-douglas-ramsay-b1918-9-17-d1993.md)** (17/Sep/1918 - 1993)
 - **[Euphemia Ramsay](people/@99132181@-euphemia-ramsay-b1855-d.md)** (1855 - )
 - **[Helen Fisher Ramsay](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
+- **[Isabella Morgan Ramsay](people/@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md)** (16/Jun/1915 - 12/Sep/1974)
 - **[Isabella Ramsay](people/@54722192@-isabella-ramsay-b1878-d.md)** (about 1878 - )
-- **[Isabella Ramsay](people/@80504300@-isabella-ramsay-b1915-6-16-d1974.md)** (16/Jun/1915 - 1974)
 - **[James Fisher Ramsay](people/@58012424@-james-fisher-ramsay-b1907-1-15-d1908-6-5.md)** (15/Jan/1907 - 5/Jun/1908)
 - **[James Ramsay](people/@5972344@-james-ramsay-b1846-d.md)** (1846 - )
 - **[Jane Ramsay](people/@25940269@-jane-ramsay-b1850-d.md)** (1850 - )
-- **[John Morgan Ramsay](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
+- **[John Morgan Ramsay](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md)** (31/Mar/1905 - 31/Dec/1966)
 - **[John Ramsay](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - )
 - **[John Ramsay](people/@63088441@-john-ramsay-b1852-1-13-d.md)** (13/Jan/1852 - )
 - **[John Ramsay](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
@@ -994,7 +1014,7 @@ permalink: /indexes/by-family-name
 
 ## Steedman
 
-- **[Ricky Steedman](people/@65047040@-ricky-steedman-b-d2022-6-23.md)** ( - 23/Jun/2022)
+- **[Richard Trotter Steedman](people/@65047040@-richard-trotter-steedman-b1948-d2022-6-23.md)** (1948 - 23/Jun/2022)
 
 ## Steel
 
@@ -1114,6 +1134,10 @@ permalink: /indexes/by-family-name
 ## Wright
 
 - **[Philip John Anthony Wright](people/@66352546@-philip-john-anthony-wright-b1962-1-d2025-2.md)** (Jan/1962 - Feb/2025)
+
+## Wyndow
+
+- **[George Percival Albert Wyndow](people/@6915792@-george-percival-albert-wyndow-b1912-d1958-8-20.md)** (1912 - 20/Aug/1958)
 
 ## Wynn
 

@@ -1,0 +1,35 @@
+﻿{
+  "Subject": {
+    "Id": "i37756528",
+    "Name": "Kathleen",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1958"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i37756528",
+      "Name": "Kathleen",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1958",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [],
+  "Children": [
+    {
+      "Id": "i6915792",
+      "Name": "George Percival Albert Wyndow",
+      "Gender": "Male",
+      "DateOfBirth": "1912",
+      "DateOfDeath": "20/Aug/1958",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i37756528"
+      ]
+    }
+  ]
+}

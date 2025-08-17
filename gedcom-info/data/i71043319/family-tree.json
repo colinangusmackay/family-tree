@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i71043319",
+    "Name": "Margaret Kinnomond Lawrence",
+    "Gender": "Female",
+    "DateOfBirth": "1906",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i1090404",
+      "Name": "William Lawrence",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i24281088",
+      "Name": "Christina Campbell",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1931",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i71043319",
+      "Name": "Margaret Kinnomond Lawrence",
+      "Gender": "Female",
+      "DateOfBirth": "1906",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i1090404",
+          "i24281088"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i55070438",
+      "Name": "John Morgan Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "31/Mar/1905",
+      "DateOfDeath": "31/Dec/1966",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "23/Jan/1931",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

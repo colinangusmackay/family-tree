@@ -267,6 +267,10 @@
           "Day": 23,
           "Events": [
             {
+              "Date": "1931-01-23",
+              "Description": "[John Morgan Ramsay](/family-tree/people/i55070438) got married to [Margaret Kinnomond Lawrence](/family-tree/people/i71043319) on 23rd of January 1931 in Edinburgh, Scotland."
+            },
+            {
               "Date": "1929-01-23",
               "Description": "[Roderick McKenzie](/family-tree/people/i76793596) died on 23rd of January 1929 at 23:45 at 104 Berkeley Street, Glasgow."
             }
@@ -1542,6 +1546,14 @@
           "Day": 14,
           "Events": [
             {
+              "Date": "1947-06-14",
+              "Description": "[George Percival Albert Wyndow](/family-tree/people/i6915792) got married to [Isabella Morgan Ramsay](/family-tree/people/i80504300) on 14th of June 1947 in Fayid, Ismailia, Egypt."
+            },
+            {
+              "Date": "1947-06-14",
+              "Description": "[Isabella Morgan Ramsay](/family-tree/people/i80504300) got married to [George Percival Albert Wyndow](/family-tree/people/i6915792) on 14th of June 1947 in Fayid, Ismailia, Egypt."
+            },
+            {
               "Date": "1889-06-14",
               "Description": "[Ann Mackay](/family-tree/people/i85130771) died on 14th of June 1889."
             }
@@ -1573,7 +1585,7 @@
             },
             {
               "Date": "1915-06-16",
-              "Description": "[Isabella Ramsay](/family-tree/people/i80504300) was born on 16th of June 1915 at 05:00 to [John Ramsay](/family-tree/people/i64225415) and [Helen Currie Fisher](/family-tree/people/i18426904) at 136 Restalrig Road, Edinburgh, Scotland."
+              "Description": "[Isabella Morgan Ramsay](/family-tree/people/i80504300) was born on 16th of June 1915 at 05:00 to [John Ramsay](/family-tree/people/i64225415) and [Helen Currie Fisher](/family-tree/people/i18426904) at 136 Restalrig Road, Edinburgh, Scotland."
             }
           ]
         },
@@ -1637,7 +1649,7 @@
             },
             {
               "Date": "2022-06-23",
-              "Description": "[Ricky Steedman](/family-tree/people/i65047040) died on 23rd of June 2022."
+              "Description": "[Richard Trotter Steedman](/family-tree/people/i65047040) died on 23rd of June 2022."
             }
           ]
         },
@@ -2078,6 +2090,10 @@
           "Day": 13,
           "Events": [
             {
+              "Date": "1941-08-13",
+              "Description": "[Bruce Morgan Ramsay](/family-tree/people/i49046148) got married to [Ernestine Parkinson](/family-tree/people/i32129630) on 13th of August 1941 in Chester, Cheshire West and Chester, England."
+            },
+            {
               "Date": "1890-08-13",
               "Description": "[Kenneth Fraser](/family-tree/people/i89580356) was born on 13th of August 1890 to [Alexander Fraser](/family-tree/people/i36585616) and [Barbara Ross](/family-tree/people/i82167024) in Helmsdale, Sutherland, Scotland."
             }
@@ -2141,7 +2157,12 @@
         },
         {
           "Day": 20,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1958-08-20",
+              "Description": "[George Percival Albert Wyndow](/family-tree/people/i6915792) died on 20th of August 1958 at General Hospital, Bulawayo, Southern Rhodesia (Zimbabwe)."
+            }
+          ]
         },
         {
           "Day": 21,
@@ -2301,7 +2322,12 @@
         },
         {
           "Day": 2,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1870-09-02",
+              "Description": "[Thomas Parkinson](/family-tree/people/i4365378) was born on 2nd of September 1870 in Plumstead, Greenwich, London, England, ."
+            }
+          ]
         },
         {
           "Day": 3,
@@ -2417,6 +2443,10 @@
             {
               "Date": "2009-09-12",
               "Description": "[Wilma May Cumming](/family-tree/people/i74680609) died on 12th of September 2009 at 14:00 at Royal Infirmary Edinburgh, Little France, Edinburgh, EH16 4SA, Scotland."
+            },
+            {
+              "Date": "1974-09-12",
+              "Description": "[Isabella Morgan Ramsay](/family-tree/people/i80504300) died on 12th of September 1974 at Andrew Fleming Hospital, Salisbury (Harare), Rhodesia (Zimbabwe)."
             }
           ]
         },
@@ -2438,7 +2468,12 @@
         },
         {
           "Day": 17,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1918-09-17",
+              "Description": "[Douglas Ramsay](/family-tree/people/i12977578) was born on 17th of September 1918 at 14:10 to [John Ramsay](/family-tree/people/i64225415) and [Helen Currie Fisher](/family-tree/people/i18426904) at 136 Restalrig Road, Edinburgh, Scotland."
+            }
+          ]
         },
         {
           "Day": 18,
@@ -3207,7 +3242,7 @@
             },
             {
               "Date": "1965-11-29",
-              "Description": "[Bruce Morgan Ramsay](/family-tree/people/i49046148) died on 29th of November 1965."
+              "Description": "[Bruce Morgan Ramsay](/family-tree/people/i49046148) died on 29th of November 1965 at St. Georges Hospital, Westminster, London, England."
             }
           ]
         },
@@ -3505,6 +3540,10 @@
             {
               "Date": "1901-12-31",
               "Description": "[John Fleming](/family-tree/people/i49475976) got married to [Agnes Rennie](/family-tree/people/i57426108) on 31st of December 1901 in Blackburn, West Lothian, Scotland."
+            },
+            {
+              "Date": "1966-12-31",
+              "Description": "[John Morgan Ramsay](/family-tree/people/i55070438) died on 31st of December 1966 at 06:00 at 11 Oxgangs Farm Gardens, Edinburgh, Scotland."
             },
             {
               "Date": "1901-12-31",

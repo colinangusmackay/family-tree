@@ -13,7 +13,7 @@ Original Document Date | 19/Jun/1921
 Responsible Agency | National Records of Scotland
 References | 1921 C 685/9 2/ 15
 Source Created | 26/Dec/2022 17:00:33
-Source Last Updated | 28/Jan/2023 20:03:06
+Source Last Updated | 9/Aug/2025 21:54:36
 
 ## Text
 
@@ -113,7 +113,7 @@ Source Last Updated | 28/Jan/2023 20:03:06
 >
 > ---
 >
-> Name: XXXXX M. Ramsay
+> Name: Isabella M. Ramsay
 >
 > Relation to head: Daughter
 >
@@ -192,7 +192,7 @@ Source Last Updated | 28/Jan/2023 20:03:06
 * Ramsay
   * [Allan Ramsay](../people/@62219744@-allan-ramsay-b1911-d1932.md) (1911 - 1932)
   * [Bruce Morgan Ramsay](../people/@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md) (10/Oct/1913 - 29/Nov/1965)
-  * [Douglas Ramsay](../people/@12977578@-douglas-ramsay-b1918-d1993.md) (1918 - 1993)
+  * [Douglas Ramsay](../people/@12977578@-douglas-ramsay-b1918-9-17-d1993.md) (17/Sep/1918 - 1993)
   * [Helen Fisher Ramsay](../people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md) (28/Sep/1920 - 15/Oct/2015)
-  * [Isabella Ramsay](../people/@80504300@-isabella-ramsay-b1915-6-16-d1974.md) (16/Jun/1915 - 1974)
-  * [John Morgan Ramsay](../people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md) (31/Mar/1905 - 1967)
+  * [Isabella Morgan Ramsay](../people/@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md) (16/Jun/1915 - 12/Sep/1974)
+  * [John Morgan Ramsay](../people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md) (31/Mar/1905 - 31/Dec/1966)

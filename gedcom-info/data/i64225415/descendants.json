@@ -12,7 +12,7 @@
       "Gender": "Male",
       "Relationship": "son",
       "DateOfBirth": "31/Mar/1905",
-      "DateOfDeath": "1967",
+      "DateOfDeath": "31/Dec/1966",
       "Children": []
     },
     {
@@ -53,19 +53,29 @@
     },
     {
       "Id": "i80504300",
-      "Name": "Isabella Ramsay",
+      "Name": "Isabella Morgan Ramsay",
       "Gender": "Female",
       "Relationship": "daughter",
       "DateOfBirth": "16/Jun/1915",
-      "DateOfDeath": "1974",
-      "Children": []
+      "DateOfDeath": "12/Sep/1974",
+      "Children": [
+        {
+          "Id": "i51444016",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "27/Mar/1948",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
     },
     {
       "Id": "i12977578",
       "Name": "Douglas Ramsay",
       "Gender": "Male",
       "Relationship": "son",
-      "DateOfBirth": "1918",
+      "DateOfBirth": "17/Sep/1918",
       "DateOfDeath": "1993",
       "Children": []
     },

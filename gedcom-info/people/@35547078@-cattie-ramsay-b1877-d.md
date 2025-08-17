@@ -14,6 +14,7 @@ permalink: /people/i35547078
 * Sister: [Agnes Ramsay](./@57916783@-agnes-ramsay-b1873-d.md) (about 1873 - )
 * Sister: [Isabella Ramsay](./@54722192@-isabella-ramsay-b1878-d.md) (about 1878 - )
 * Brother: [John Ramsay](./@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) (21/Feb/1880 - 20/Jun/1920)
+* Brother: [David Ramsay](./@2690064@-david-ramsay-b1888-d.md) (1888 - )
 
 ## Timeline
 

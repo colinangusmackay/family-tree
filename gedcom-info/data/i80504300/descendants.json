@@ -1,9 +1,19 @@
 ﻿{
   "Id": "i80504300",
-  "Name": "Isabella Ramsay",
+  "Name": "Isabella Morgan Ramsay",
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "16/Jun/1915",
-  "DateOfDeath": "1974",
-  "Children": []
+  "DateOfDeath": "12/Sep/1974",
+  "Children": [
+    {
+      "Id": "i51444016",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "27/Mar/1948",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
 }

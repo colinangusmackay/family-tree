@@ -40,10 +40,11 @@ There were 2 people who worked as a Baker of some sort.
 
 ## Blacksmith
 
-There were 3 people who worked as a Blacksmith of some sort.
+There were 4 people who worked as a Blacksmith of some sort.
 
 * **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d1961.md)** (11/Mar/1877 - before 1961), mentioned twice.
 * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912), mentioned 3 times.
+* **[Lawrence, William](people/@1090404@-william-lawrence-b-d.md)**.
 * **[Ramsay, John](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - ).
 
 #### Apprentice Blacksmith
@@ -150,6 +151,10 @@ There were 4 people who worked as a Carpenter of some sort.
 
 * **[Crawford, William Fullerton](people/@48880388@-william-fullerton-crawford-b-d.md)**.
 
+## Cashier - Drapery Store
+
+* **[Parkinson, Gladys Marie W](people/@93191940@-gladys-marie-w-parkinson-b1899-d.md)** (1899 - ).
+
 ## Cattle Dealer
 
 * **[Morrison, John](people/@39757210@-john-morrison-b-d1877.md)** ( - before 1877).
@@ -199,6 +204,10 @@ There were 3 people who worked as a Child Care Professional of some sort.
 
 * **[MacKay, Anna Jessie](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021), mentioned twice.
 
+## Cinema Proprietor
+
+* **[Parkinson, Thomas](people/@4365378@-thomas-parkinson-b1870-9-2-d1941.md)** (2/Sep/1870 - 1941).
+
 ## Clerk
 
 There were 2 people who worked as a Clerk.
@@ -206,9 +215,13 @@ There were 2 people who worked as a Clerk.
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973).
 
+## Clerk (Film Trade)
+
+* **[Parkinson, Walter Alex](people/@9475046@-walter-alex-parkinson-b1901-d.md)** (1901 - ).
+
 ## Coal Picker
 
-* **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967).
+* **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md)** (31/Mar/1905 - 31/Dec/1966).
 
 ## College Lecturer
 
@@ -221,6 +234,14 @@ There were 2 people who worked as a Clerk.
 ## Collier
 
 * **[Napier, David](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901).
+
+## Company Director
+
+* **[Steedman, Richard Trotter](people/@65047040@-richard-trotter-steedman-b1948-d2022-6-23.md)** (1948 - 23/Jun/2022), mentioned 8 times.
+
+## Company Secretary
+
+* **[Steedman, Richard Trotter](people/@65047040@-richard-trotter-steedman-b1948-d2022-6-23.md)** (1948 - 23/Jun/2022), mentioned 4 times.
 
 ## Contractor
 
@@ -260,13 +281,14 @@ There were 4 people who worked as a Crofter.
 
 ## Domestic Servant
 
-There were 25 people who worked as a Domestic Servant of some sort.
+There were 26 people who worked as a Domestic Servant of some sort.
 
 * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946).
 * **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d1985.md)** (23/Aug/1895 - 1985).
 * **[Fleming, Ellen](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - ).
 * **[Fraser, Barbara](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - ).
 * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971).
+* **[Lawrence, Margaret Kinnomond](people/@71043319@-margaret-kinnomond-lawrence-b1906-d.md)** (1906 - ).
 * **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ).
 * **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
 * **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970).
@@ -325,9 +347,13 @@ There were 2 people who worked as a Draftsman, Electrical.
 
 * **[Crawford, Mary Hendry](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991).
 
+## Dressmaker
+
+* **[Ramsay, Agnes](people/@57916783@-agnes-ramsay-b1873-d.md)** (about 1873 - ).
+
 ## Driver
 
-There were 12 people who worked as a Driver of some sort.
+There were 13 people who worked as a Driver of some sort.
 
 #### Carter
 
@@ -342,6 +368,7 @@ There were 12 people who worked as a Driver of some sort.
 
 #### Crane Driver
 
+* **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md)** (31/Mar/1905 - 31/Dec/1966).
 * **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ).
 
 #### Ham Curer's Vanman
@@ -354,6 +381,7 @@ There were 12 people who worked as a Driver of some sort.
 
 #### Railway Engine Driver
 
+* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-1-13-d.md)** (13/Jan/1852 - ).
 * **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920), mentioned 5 times.
 
 #### Tramcar Driver
@@ -366,12 +394,24 @@ There were 12 people who worked as a Driver of some sort.
 
 * **[Russell, Alexander McGregor](people/@72370350@-alexander-mcgregor-russell-b-d.md)**.
 
+## Electrical Engineer
+
+* **[Parkinson, Lawrence Sidney Arthur](people/@98781744@-lawrence-sidney-arthur-parkinson-b1906-d.md)** (1906 - ).
+
 ## Electrician
 
 There were 2 people who worked as a Electrician.
 
 * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965).
 * **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004), mentioned twice.
+
+## Engine Driver
+
+* **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920).
+
+## Engine-Driver
+
+* **[Ramsay, John](people/@63088441@-john-ramsay-b1852-1-13-d.md)** (13/Jan/1852 - ).
 
 ## Engineer
 
@@ -763,6 +803,10 @@ There were 7 people who worked as a Health Care Professional of some sort.
 
 * **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996).
 
+## Hostel Superintendant
+
+* **[Ramsay, Isabella Morgan](people/@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md)** (16/Jun/1915 - 12/Sep/1974).
+
 ## House Maid
 
 * **[Ross, Marion](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888).
@@ -1043,6 +1087,14 @@ There were 2 people who worked as a Motel Co-Owner.
 * **[MacKay, Anna Jessie](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021).
 * **[Roberts, Sandra Jane](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019).
 
+## Music Hall Artist
+
+There were 3 people who worked as a Music Hall Artist.
+
+* **[Parkinson, Ernestine](people/@32129630@-ernestine-parkinson-b1903-d.md)** (1903 - ).
+* **[Parkinson, Gladys Marie W](people/@93191940@-gladys-marie-w-parkinson-b1899-d.md)** (1899 - ).
+* **[Parkinson, Thomas](people/@4365378@-thomas-parkinson-b1870-9-2-d1941.md)** (2/Sep/1870 - 1941).
+
 ## Night Inspector of Water Fittings
 
 * **[McKenzie, Roderick](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929).
@@ -1071,6 +1123,10 @@ There were 6 people who worked as a Nurse of some sort.
 #### Practical Nursing
 
 * **[Cumming, Isabella](people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md)** (21/Jul/1888 - 1/Feb/1986).
+
+## Office Manager
+
+* **[Wyndow, George Percival Albert](people/@6915792@-george-percival-albert-wyndow-b1912-d1958-8-20.md)** (1912 - 20/Aug/1958).
 
 ## P.O. Engineer
 
@@ -1106,6 +1162,10 @@ There were 2 people who worked as a Painter of some sort.
 
 * **[Fisher, John](people/@81248806@-john-fisher-b1819-d1880.md)** (about 1819 - after 1880).
 
+## Petty Office, Royal Navy
+
+* **[Ramsay, Bruce Morgan](people/@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md)** (10/Oct/1913 - 29/Nov/1965).
+
 ## Pipe Worker
 
 * **[Napier, David](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901).
@@ -1134,6 +1194,10 @@ There were 2 people who worked as a Painter of some sort.
 
 * **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967).
 
+## Printer's Apprentice
+
+* **[Parkinson, Lawrence Sidney Arthur](people/@98781744@-lawrence-sidney-arthur-parkinson-b1906-d.md)** (1906 - ).
+
 ## Printer's Machinist
 
 There were 2 people who worked as a Printer's Machinist.
@@ -1156,6 +1220,10 @@ There were 3 people who worked as a Railway Fireman.
 * **[Fraser, Kenneth](people/@73587538@-kenneth-fraser-b1900-d.md)** (1900 - ).
 * **[Fraser, Thomas](people/@41158088@-thomas-fraser-b1896-d.md)** (1896 - ).
 * **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920).
+
+## Railway Labourer
+
+* **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md)** (31/Mar/1905 - 31/Dec/1966).
 
 ## Railway Worker
 
@@ -1186,6 +1254,10 @@ There were 2 people who worked as a Retail Worker of some sort.
 ## Retired
 
 * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982).
+
+## Retired Variety Artist
+
+* **[Parkinson, Thomas](people/@4365378@-thomas-parkinson-b1870-9-2-d1941.md)** (2/Sep/1870 - 1941).
 
 ## Retortman (Oilwork)
 
@@ -1290,6 +1362,10 @@ There were 2 people who worked as a Servant.
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 
+## Shipwright
+
+* **[Fraser, Kenneth](people/@89580356@-kenneth-fraser-b1890-8-13-d.md)** (13/Aug/1890 - ).
+
 ## Shoemaker
 
 * **[Wilson, James](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - ).
@@ -1316,12 +1392,13 @@ There were 2 people who worked as a Servant.
 
 ## Smith
 
-There were 4 people who worked as a Smith of some sort.
+There were 5 people who worked as a Smith of some sort.
 
 #### Blacksmith
 
 * **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d1961.md)** (11/Mar/1877 - before 1961), mentioned twice.
 * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912), mentioned 3 times.
+* **[Lawrence, William](people/@1090404@-william-lawrence-b-d.md)**.
 * **[Ramsay, John](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - ).
 
 #### Blacksmith Labourer
@@ -1382,6 +1459,10 @@ There were 3 people who worked as a Tailor of some sort.
 
 * **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938), mentioned twice.
 
+## Tax Consultant
+
+* **[Steedman, Richard Trotter](people/@65047040@-richard-trotter-steedman-b1948-d2022-6-23.md)** (1948 - 23/Jun/2022), mentioned 5 times.
+
 ## Teacher
 
 * **[Wilson, James](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - ), mentioned twice.
@@ -1419,6 +1500,13 @@ There were 5 people who worked as a Threadmill Worker.
 ## Tutor
 
 * **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024).
+
+## Variety Artist, Travelling
+
+There were 2 people who worked as a Variety Artist, Travelling.
+
+* **[Parkinson, Ernestine](people/@32129630@-ernestine-parkinson-b1903-d.md)** (1903 - ).
+* **[Parkinson, Marie Olive](people/@25205426@-marie-olive-parkinson-b1909-d.md)** (1909 - ).
 
 ## Veterinary Surgeon
 

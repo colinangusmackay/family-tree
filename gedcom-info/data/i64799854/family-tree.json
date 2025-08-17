@@ -1,0 +1,129 @@
+﻿{
+  "Subject": {
+    "Id": "i64799854",
+    "Name": "Victor Roy Parkinson",
+    "Gender": "Male",
+    "DateOfBirth": "1915",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i4365378",
+      "Name": "Thomas Parkinson",
+      "Gender": "Male",
+      "DateOfBirth": "2/Sep/1870",
+      "DateOfDeath": "1941",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i25594216",
+      "Name": "Mildred Parkinson",
+      "Gender": "Female",
+      "DateOfBirth": "1876",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i93191940",
+      "Name": "Gladys Marie W Parkinson",
+      "Gender": "Male",
+      "DateOfBirth": "1899",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i25594216",
+          "i4365378"
+        ]
+      ]
+    },
+    {
+      "Id": "i9475046",
+      "Name": "Walter Alex Parkinson",
+      "Gender": "Male",
+      "DateOfBirth": "1901",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i25594216",
+          "i4365378"
+        ]
+      ]
+    },
+    {
+      "Id": "i32129630",
+      "Name": "Ernestine Parkinson",
+      "Gender": "Female",
+      "DateOfBirth": "1903",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i25594216",
+          "i4365378"
+        ]
+      ]
+    },
+    {
+      "Id": "i98781744",
+      "Name": "Lawrence Sidney Arthur Parkinson",
+      "Gender": "Male",
+      "DateOfBirth": "1906",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i25594216",
+          "i4365378"
+        ]
+      ]
+    },
+    {
+      "Id": "i59797112",
+      "Name": "Leonard Albert Parkinson",
+      "Gender": "Male",
+      "DateOfBirth": "1908",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i25594216",
+          "i4365378"
+        ]
+      ]
+    },
+    {
+      "Id": "i25205426",
+      "Name": "Marie Olive Parkinson",
+      "Gender": "Female",
+      "DateOfBirth": "1909",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i25594216",
+          "i4365378"
+        ]
+      ]
+    },
+    {
+      "Id": "i64799854",
+      "Name": "Victor Roy Parkinson",
+      "Gender": "Male",
+      "DateOfBirth": "1915",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i25594216",
+          "i4365378"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

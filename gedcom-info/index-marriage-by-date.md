@@ -193,6 +193,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **23/Apr/1915** : **[William John Falloon](people/@14463787@-william-john-falloon-b-d.md)** and **[Campbell Elizabeth Munn](people/@11230712@-campbell-elizabeth-munn-b-d.md)** at Glasgow, Scotland.
   * **8/Jun/1915** : **[John Paton](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - ) and **[Jeanie McLeod](people/@70248352@-jeanie-mcleod-b1897-d.md)** (about 1897 - ) at Glasgow, Scotland.
 * **1916**
+  * **1916** : **[Kenneth Fraser](people/@89580356@-kenneth-fraser-b1890-8-13-d.md)** (13/Aug/1890 - ) and X.
   * **22/Dec/1916** : **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ) and **[Margaret McRae](people/@57014804@-margaret-mcrae-b-d.md)** at Dingwall, Ross & Cromarty, Scotland.
 * **1918**
   * **21/Mar/1918** : **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - ) at Applegarth, Dumfries and Galloway, Scotland.
@@ -225,6 +226,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **7/Feb/1930** : **[John Blue Watson](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963) and **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) at Paisley, Renfrewshire, Scotland.
   * **21/Mar/1930** : **[William Alexander Mackay](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982) and **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981) at Toronto, York, Ontario, Canada.
   * **7/Jun/1930** : **[Arthur Fred McLean](people/@56292410@-arthur-fred-mclean-b1901-d.md)** (about 1901 - ) and **[Catherine Grant](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - ) at Royal Oak, Oakland County, Michigan, United States of America.
+* **1931**
+  * **23/Jan/1931** : **[John Morgan Ramsay](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md)** (31/Mar/1905 - 31/Dec/1966) and **[Margaret Kinnomond Lawrence](people/@71043319@-margaret-kinnomond-lawrence-b1906-d.md)** (1906 - ) at Edinburgh, Scotland.
 * **1932**
   * **Jul/1932** : **[Cyril Stead](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980) and **[Clara Fawley](people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md)** (20/Apr/1912 - 12/Aug/1993) at Dewsbury, Yorkshire, England.
 * **1933**
@@ -249,6 +252,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **2/Mar/1940** : **[Thomas Sharp Crawford](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968) and **[Robina Stobie Litster](people/@99806264@-robina-stobie-litster-b1891-d.md)** (1891 - ) at Kirkcaldy, Fife, Scotland.
   * **13/Nov/1940** : **[Archibald King Lorimer](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - ) and **[Mary Hanton](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989) at Paisley, Renfrewshire, Scotland.
 * **1941**
+  * **13/Aug/1941** : **[Bruce Morgan Ramsay](people/@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md)** (10/Oct/1913 - 29/Nov/1965) and **[Ernestine Parkinson](people/@32129630@-ernestine-parkinson-b1903-d.md)** (1903 - ) at Chester, Cheshire West and Chester, England.
   * **22/Aug/1941** : **[John Robertson Tulloch](people/@44608948@-john-robertson-tulloch-b1917-d1988.md)** (1917 - 1988) and **[Barbara Mackay Ross](people/@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md)** (31/Jan/1921 - 2014) at Inverness, Scotland.
 * **1943**
   * **10/Dec/1943** : **[George Davidson Smith Cumming](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965) and **[Margaret Hogg Hatelie](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977) at Fort Lauderdale, Broward County, Florida, United States of America.
@@ -261,12 +265,14 @@ A list of marriages, civil partnerships and civil unions by date.
   * **6/Sep/1946** : **[Edward Joseph Hawthorne](people/@51411241@-edward-joseph-hawthorne-b1923-4-13-d2013.md)** (about 13/Apr/1923 - 2013) and **[Mary McKnight](people/@41720825@-mary-mcknight-b1924-d1991.md)** (about 1924 - about 1991) at Motherwell, Lanarkshire, Scotland.
 * **1947**
   * **1947** : **[Donald James Cumming](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976) and **[Phylis Martensen](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018) at , Norfolk County, Massachusetts, United States of America.
+  * **14/Jun/1947** : **[George Percival Albert Wyndow](people/@6915792@-george-percival-albert-wyndow-b1912-d1958-8-20.md)** (1912 - 20/Aug/1958) and **[Isabella Morgan Ramsay](people/@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md)** (16/Jun/1915 - 12/Sep/1974) at Fayid, Ismailia, Egypt.
 * **1948**
   * **26/Nov/1948** : **[William Gardiner](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986) and **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998) at Dryfesdale, Dumfrieshire, Scotland.
 
 ### 1950s
 
 * **1950**
+  * **1950** : **[John Morgan Ramsay](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md)** (31/Mar/1905 - 31/Dec/1966) and X at Edinburgh, Scotland.
   * **14/Jun/1950** : **[Donald Sutherland](people/@6737165@-donald-sutherland-b1874-2-8-d.md)** (8/Feb/1874 - ) and **[Alice McCann](people/@69495356@-alice-mccann-b1891-d.md)** (about 1891 - ) at Detroit, Michigan, United States of America.
   * **8/Aug/1950** : X and **[Mary Beth Roberts](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014) at Bolton Landing, Warren County, New York, United States of America.
 * **1951**
@@ -301,6 +307,7 @@ A list of marriages, civil partnerships and civil unions by date.
 ### 1970s
 
 * **1970**
+  * **1970** : **[Richard Trotter Steedman](people/@65047040@-richard-trotter-steedman-b1948-d2022-6-23.md)** (1948 - 23/Jun/2022) and X at Edinburgh, Scotland.
   * **7/Nov/1970** : X and **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021).
 * **1972**
   * **30/Sep/1972** : **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Virginia C Simonet](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998) at Norwalk, Fairfield County, Connecticut, United States of America.

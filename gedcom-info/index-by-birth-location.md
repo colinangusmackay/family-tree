@@ -11,6 +11,7 @@ permalink: /indexes/by-birth-location
 - **[, Elizabeth](people/@8553973@-elizabeth-b-d.md)**
 - **[, Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
+- **[, Kathleen](people/@37756528@-kathleen-b-d1958.md)** ( - before 1958)
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 - **[, Nancy](people/@68661720@-nancy-b-d.md)**
 - **[?, ](people/@94950024@---b-d.md)**
@@ -28,6 +29,7 @@ permalink: /indexes/by-birth-location
 - **[Buchanan, Janet](people/@48339564@-janet-buchanan-b-d.md)**
 - **[Burns, Mary](people/@81238912@-mary-burns-b-d.md)**
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
+- **[Campbell, Christina](people/@24281088@-christina-campbell-b-d1931.md)** ( - before 1931)
 - **[Campbell, James](people/@16864904@-james-campbell-b1890-d.md)** (about 1890 - )
 - **[Campbell, William](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918)
 - **[Carlyle, Robert](people/@63376955@-robert-carlyle-b-d.md)**
@@ -125,6 +127,8 @@ permalink: /indexes/by-birth-location
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
 - **[Kirkland, Margaret](people/@48501002@-margaret-kirkland-b-d.md)**
 - **[LaFavre, Stasia](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
+- **[Lawrence, Margaret Kinnomond](people/@71043319@-margaret-kinnomond-lawrence-b1906-d.md)** (1906 - )
+- **[Lawrence, William](people/@1090404@-william-lawrence-b-d.md)**
 - **[Lenox, Andrew](people/@61792169@-andrew-lenox-b-d.md)**
 - **[Lenox, Minnie](people/@99536158@-minnie-lenox-b1867-4-15-d.md)** (15/Apr/1867 - )
 - **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
@@ -266,7 +270,6 @@ permalink: /indexes/by-birth-location
 - **[Punton, Joan](people/@98605400@-joan-punton-b1850-d.md)** (before 1850 - )
 - **[Ramsay, Allan](people/@62219744@-allan-ramsay-b1911-d1932.md)** (1911 - 1932)
 - **[Ramsay, Bruce Morgan](people/@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md)** (10/Oct/1913 - 29/Nov/1965)
-- **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-d1993.md)** (1918 - 1993)
 - **[Raymond, Frank](people/@30488355@-frank-raymond-b-d.md)**
 - **[Reid, John](people/@95320597@-john-reid-b-d.md)**
 - **[Rennie, James Fraser](people/@2624560@-james-fraser-rennie-b-d1961.md)** ( - before 1961)
@@ -323,7 +326,6 @@ permalink: /indexes/by-birth-location
 - **[Stead, Albert](people/@82189144@-albert-stead-b1934-d1938-8-22.md)** (about 1934 - 22/Aug/1938)
 - **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
 - **[Stead, Lawrence](people/@18256653@-lawrence-stead-b1933-11-29-d1989-3.md)** (29/Nov/1933 - Mar/1989)
-- **[Steedman, Ricky](people/@65047040@-ricky-steedman-b-d2022-6-23.md)** ( - 23/Jun/2022)
 - **[Steel, Janet](people/@22623536@-janet-steel-b-d.md)**
 - **[Stevens, Thomas](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 - **[Stewart, Roxannah](people/@56480720@-roxannah-stewart-b-d.md)**
@@ -389,6 +391,22 @@ permalink: /indexes/by-birth-location
 - **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - )
 - **[Mathews, Robert Dennis Reginald](people/@58223940@-robert-dennis-reginald-mathews-b1928-8-6-d2009-2-11.md)** (6/Aug/1928 - 11/Feb/2009)
 
+### Blackpool
+
+- **[Parkinson, Ernestine](people/@32129630@-ernestine-parkinson-b1903-d.md)** (1903 - )
+
+### Brighton and Hove
+
+#### Brighton
+
+- **[Wyndow, George Percival Albert](people/@6915792@-george-percival-albert-wyndow-b1912-d1958-8-20.md)** (1912 - 20/Aug/1958)
+
+### Essex
+
+#### Halstead
+
+- **[Parkinson, Victor Roy](people/@64799854@-victor-roy-parkinson-b1915-d.md)** (1915 - )
+
 ### Liverpool
 
 - **[Wright, Philip John Anthony](people/@66352546@-philip-john-anthony-wright-b1962-1-d2025-2.md)** (Jan/1962 - Feb/2025)
@@ -396,6 +414,22 @@ permalink: /indexes/by-birth-location
 ### London
 
 - **[Wilson, Henrietta](people/@47880504@-henrietta-wilson-b1868-d.md)** (about 1868 - )
+
+#### New Cross
+
+- **[Parkinson, Gladys Marie W](people/@93191940@-gladys-marie-w-parkinson-b1899-d.md)** (1899 - )
+- **[Parkinson, Lawrence Sidney Arthur](people/@98781744@-lawrence-sidney-arthur-parkinson-b1906-d.md)** (1906 - )
+- **[Parkinson, Leonard Albert](people/@59797112@-leonard-albert-parkinson-b1908-d.md)** (1908 - )
+- **[Parkinson, Marie Olive](people/@25205426@-marie-olive-parkinson-b1909-d.md)** (1909 - )
+- **[Parkinson, Walter Alex](people/@9475046@-walter-alex-parkinson-b1901-d.md)** (1901 - )
+
+#### Plumstead, Greenwich
+
+- **[Parkinson, Thomas](people/@4365378@-thomas-parkinson-b1870-9-2-d1941.md)** (2/Sep/1870 - 1941)
+
+#### Whitechapel
+
+- **[Parkinson, Mildred](people/@25594216@-mildred-parkinson-b1876-d.md)** (1876 - )
 
 ### Wolverhampton
 
@@ -527,15 +561,17 @@ permalink: /indexes/by-birth-location
 - **[Hanton, James](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922)
 - **[Hatelie, Margaret Hogg](people/@43723296@-margaret-hogg-hatelie-b1897-9-11-d1977-12-23.md)** (11/Sep/1897 - 23/Dec/1977)
 - **[Johnston, Jane](people/@71906070@-jane-johnston-b1859-d1922.md)** (about 1859 - before 1922)
+- **[Ramsay, Douglas](people/@12977578@-douglas-ramsay-b1918-9-17-d1993.md)** (17/Sep/1918 - 1993)
 - **[Ramsay, Helen Fisher](people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md)** (28/Sep/1920 - 15/Oct/2015)
 - **[Ramsay, James Fisher](people/@58012424@-james-fisher-ramsay-b1907-1-15-d1908-6-5.md)** (15/Jan/1907 - 5/Jun/1908)
-- **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md)** (31/Mar/1905 - 1967)
+- **[Ramsay, John Morgan](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md)** (31/Mar/1905 - 31/Dec/1966)
 - **[Ramsay, William Fisher](people/@81255608@-william-fisher-ramsay-b1910-8-24-d.md)** (24/Aug/1910 - )
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
+- **[Steedman, Richard Trotter](people/@65047040@-richard-trotter-steedman-b1948-d2022-6-23.md)** (1948 - 23/Jun/2022)
 
 #### Portobello
 
-- **[Ramsay, Isabella](people/@80504300@-isabella-ramsay-b1915-6-16-d1974.md)** (16/Jun/1915 - 1974)
+- **[Ramsay, Isabella Morgan](people/@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md)** (16/Jun/1915 - 12/Sep/1974)
 
 ### Eilean Siar
 
@@ -547,6 +583,7 @@ permalink: /indexes/by-birth-location
 
 #### Burntisland
 
+- **[Ramsay, David](people/@2690064@-david-ramsay-b1888-d.md)** (1888 - )
 - **[Ramsay, Isabella](people/@54722192@-isabella-ramsay-b1878-d.md)** (about 1878 - )
 - **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920)
 

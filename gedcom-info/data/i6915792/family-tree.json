@@ -1,0 +1,60 @@
+﻿{
+  "Subject": {
+    "Id": "i6915792",
+    "Name": "George Percival Albert Wyndow",
+    "Gender": "Male",
+    "DateOfBirth": "1912",
+    "DateOfDeath": "20/Aug/1958"
+  },
+  "Parents": [
+    {
+      "Id": "i37756528",
+      "Name": "Kathleen",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1958",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i6915792",
+      "Name": "George Percival Albert Wyndow",
+      "Gender": "Male",
+      "DateOfBirth": "1912",
+      "DateOfDeath": "20/Aug/1958",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i37756528"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i80504300",
+      "Name": "Isabella Morgan Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "16/Jun/1915",
+      "DateOfDeath": "12/Sep/1974",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "14/Jun/1947",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i51444016",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "27/Mar/1948",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i6915792",
+        "i80504300"
+      ]
+    }
+  ]
+}

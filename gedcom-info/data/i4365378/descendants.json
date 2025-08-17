@@ -1,0 +1,73 @@
+﻿{
+  "Id": "i4365378",
+  "Name": "Thomas Parkinson",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "2/Sep/1870",
+  "DateOfDeath": "1941",
+  "Children": [
+    {
+      "Id": "i93191940",
+      "Name": "Gladys Marie W Parkinson",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1899",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i9475046",
+      "Name": "Walter Alex Parkinson",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1901",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i32129630",
+      "Name": "Ernestine Parkinson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1903",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i98781744",
+      "Name": "Lawrence Sidney Arthur Parkinson",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1906",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i59797112",
+      "Name": "Leonard Albert Parkinson",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1908",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i25205426",
+      "Name": "Marie Olive Parkinson",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1909",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i64799854",
+      "Name": "Victor Roy Parkinson",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1915",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

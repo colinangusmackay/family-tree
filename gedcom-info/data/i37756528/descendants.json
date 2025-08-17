@@ -1,0 +1,29 @@
+﻿{
+  "Id": "i37756528",
+  "Name": "Kathleen",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "before 1958",
+  "Children": [
+    {
+      "Id": "i6915792",
+      "Name": "George Percival Albert Wyndow",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1912",
+      "DateOfDeath": "20/Aug/1958",
+      "Children": [
+        {
+          "Id": "i51444016",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "27/Mar/1948",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

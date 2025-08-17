@@ -80,6 +80,20 @@
           "i63088441"
         ]
       ]
+    },
+    {
+      "Id": "i2690064",
+      "Name": "David Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "1888",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i60684755",
+          "i63088441"
+        ]
+      ]
     }
   ],
   "Spouses": [],

@@ -117,5 +117,5 @@ Source Last Updated | 27/Dec/2022 22:24:56
   * [Helen Currie Fisher](../people/@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md) (29/Nov/1881 - 6/Jun/1953)
   * [Margaret Fisher](../people/@21244212@-margaret-fisher-b1889-d.md) (about 1889 - )
 * Ramsay
-  * [John Morgan Ramsay](../people/@55070438@-john-morgan-ramsay-b1905-3-31-d1967.md) (31/Mar/1905 - 1967)
+  * [John Morgan Ramsay](../people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md) (31/Mar/1905 - 31/Dec/1966)
   * [John Ramsay](../people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) (21/Feb/1880 - 20/Jun/1920)

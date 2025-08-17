@@ -1,10 +1,10 @@
 ﻿{
   "Subject": {
     "Id": "i80504300",
-    "Name": "Isabella Ramsay",
+    "Name": "Isabella Morgan Ramsay",
     "Gender": "Female",
     "DateOfBirth": "16/Jun/1915",
-    "DateOfDeath": "1974"
+    "DateOfDeath": "12/Sep/1974"
   },
   "Parents": [
     {
@@ -30,7 +30,7 @@
       "Name": "John Morgan Ramsay",
       "Gender": "Male",
       "DateOfBirth": "31/Mar/1905",
-      "DateOfDeath": "1967",
+      "DateOfDeath": "31/Dec/1966",
       "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
@@ -97,10 +97,10 @@
     },
     {
       "Id": "i80504300",
-      "Name": "Isabella Ramsay",
+      "Name": "Isabella Morgan Ramsay",
       "Gender": "Female",
       "DateOfBirth": "16/Jun/1915",
-      "DateOfDeath": "1974",
+      "DateOfDeath": "12/Sep/1974",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -113,7 +113,7 @@
       "Id": "i12977578",
       "Name": "Douglas Ramsay",
       "Gender": "Male",
-      "DateOfBirth": "1918",
+      "DateOfBirth": "17/Sep/1918",
       "DateOfDeath": "1993",
       "RelationToSubject": "brother",
       "ParentGroupIds": [
@@ -138,6 +138,30 @@
       ]
     }
   ],
-  "Spouses": [],
-  "Children": []
+  "Spouses": [
+    {
+      "Id": "i6915792",
+      "Name": "George Percival Albert Wyndow",
+      "Gender": "Male",
+      "DateOfBirth": "1912",
+      "DateOfDeath": "20/Aug/1958",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "14/Jun/1947",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i51444016",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "27/Mar/1948",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i6915792",
+        "i80504300"
+      ]
+    }
+  ]
 }

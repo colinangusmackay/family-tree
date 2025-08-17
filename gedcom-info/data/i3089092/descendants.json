@@ -572,6 +572,15 @@
                               "DateOfBirth": "28/Nov/2021",
                               "DateOfDeath": "",
                               "Children": []
+                            },
+                            {
+                              "Id": "i41789196",
+                              "Name": "X",
+                              "Gender": "Female",
+                              "Relationship": "daughter",
+                              "DateOfBirth": "16/Aug/2025",
+                              "DateOfDeath": "",
+                              "Children": []
                             }
                           ]
                         }
@@ -1159,7 +1168,17 @@
               "Relationship": "son",
               "DateOfBirth": "13/Aug/1890",
               "DateOfDeath": "",
-              "Children": []
+              "Children": [
+                {
+                  "Id": "i19170576",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "1925",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
             },
             {
               "Id": "i94394924",

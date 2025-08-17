@@ -30,7 +30,7 @@
       "Name": "John Morgan Ramsay",
       "Gender": "Male",
       "DateOfBirth": "31/Mar/1905",
-      "DateOfDeath": "1967",
+      "DateOfDeath": "31/Dec/1966",
       "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
@@ -97,10 +97,10 @@
     },
     {
       "Id": "i80504300",
-      "Name": "Isabella Ramsay",
+      "Name": "Isabella Morgan Ramsay",
       "Gender": "Female",
       "DateOfBirth": "16/Jun/1915",
-      "DateOfDeath": "1974",
+      "DateOfDeath": "12/Sep/1974",
       "RelationToSubject": "sister",
       "ParentGroupIds": [
         [
@@ -113,7 +113,7 @@
       "Id": "i12977578",
       "Name": "Douglas Ramsay",
       "Gender": "Male",
-      "DateOfBirth": "1918",
+      "DateOfBirth": "17/Sep/1918",
       "DateOfDeath": "1993",
       "RelationToSubject": "brother",
       "ParentGroupIds": [
