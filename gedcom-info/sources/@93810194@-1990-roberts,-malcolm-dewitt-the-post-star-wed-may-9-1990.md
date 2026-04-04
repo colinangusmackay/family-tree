@@ -21,6 +21,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 ## Source Referenced by
 
 * Roberts
+  * [Derry Roberts](../people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md) (8/Feb/1936 - 8/Dec/2025)
   * [Donald F Roberts](../people/@38158777@-donald-f-roberts-b1898-d1990.md) (about 1898 - before 1990)
   * [Janet Roberts](../people/@46105652@-janet-roberts-b1913-d.md) (about 1913 - )
   * [Malcolm DeWitt Roberts](../people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) (30/Sep/1905 - 6/May/1990)

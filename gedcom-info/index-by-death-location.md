@@ -125,6 +125,7 @@ permalink: /indexes/by-death-location
 - **[Fraser, George](people/@78876088@-george-fraser-b1896-d.md)** (1896 - )
 - **[Fraser, Isabella](people/@92660555@-isabella-fraser-b1863-d.md)** (about 1863 - )
 - **[Fraser, Isabella](people/@81999219@-isabella-fraser-b1900-d.md)** (1900 - )
+- **[Fraser, John Hugh](people/@19170576@-john-hugh-fraser-b1925-d.md)** (1925 - )
 - **[Fraser, John J Barrow G](people/@43044884@-john-j-barrow-g-fraser-b1906-d.md)** (1906 - )
 - **[Fraser, Kenneth](people/@89580356@-kenneth-fraser-b1890-8-13-d.md)** (13/Aug/1890 - )
 - **[Fraser, Kenneth](people/@73587538@-kenneth-fraser-b1900-d.md)** (1900 - )
@@ -341,6 +342,7 @@ permalink: /indexes/by-death-location
 - **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
 - **[McTurk, Jane](people/@18380667@-jane-mcturk-b1880-2-22-d.md)** (22/Feb/1880 - )
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
+- **[Miranda, Rose](people/@47782544@-rose-miranda-b-d.md)**
 - **[Mitchell, ?](people/@47829915@--mitchell-b-d.md)**
 - **[Morgan, Andrew](people/@23628312@-andrew-morgan-b1849-d.md)** (about 1849 - )
 - **[Morgan, Ann](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - )
@@ -381,6 +383,7 @@ permalink: /indexes/by-death-location
 - **[O'Malley, Michael](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - )
 - **[O'Malley, Patrick](people/@39412375@-patrick-o'malley-b1880-d.md)** (about 1880 - )
 - **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004)
+- **[O'Malley, Thomas](people/@68408992@-thomas-o'malley-b1951-d2025.md)** (1951 - 2025)
 - **[Parkinson, Ernestine](people/@32129630@-ernestine-parkinson-b1903-d.md)** (1903 - )
 - **[Parkinson, Gladys Marie W](people/@93191940@-gladys-marie-w-parkinson-b1899-d.md)** (1899 - )
 - **[Parkinson, Lawrence Sidney Arthur](people/@98781744@-lawrence-sidney-arthur-parkinson-b1906-d.md)** (1906 - )
@@ -842,6 +845,7 @@ permalink: /indexes/by-death-location
 
 - **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
 - **[Cumming, Christine](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
+- **[Roberts, Derry](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025)
 
 ### Massachusetts
 

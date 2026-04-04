@@ -59,15 +59,6 @@
           "DateOfDeath": "6/Feb/2014",
           "Children": [
             {
-              "Id": "i74628380",
-              "Name": "X",
-              "Gender": "Male",
-              "Relationship": "son",
-              "DateOfBirth": "",
-              "DateOfDeath": "",
-              "Children": []
-            },
-            {
               "Id": "i43920628",
               "Name": "X",
               "Gender": "Female",
@@ -94,16 +85,25 @@
                   "Children": []
                 }
               ]
+            },
+            {
+              "Id": "i74628380",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "about Feb/1967",
+              "DateOfDeath": "",
+              "Children": []
             }
           ]
         },
         {
           "Id": "i38836920",
-          "Name": "X",
+          "Name": "Derry Roberts",
           "Gender": "Male",
           "Relationship": "son",
           "DateOfBirth": "8/Feb/1936",
-          "DateOfDeath": "",
+          "DateOfDeath": "8/Dec/2025",
           "Children": [
             {
               "Id": "i58454492",
@@ -383,7 +383,17 @@
           "Relationship": "daughter",
           "DateOfBirth": "about 1944",
           "DateOfDeath": "",
-          "Children": []
+          "Children": [
+            {
+              "Id": "i8760320",
+              "Name": "X",
+              "Gender": "Male",
+              "Relationship": "son",
+              "DateOfBirth": "1967",
+              "DateOfDeath": "",
+              "Children": []
+            }
+          ]
         }
       ]
     },

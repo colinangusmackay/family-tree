@@ -1,0 +1,171 @@
+﻿{
+  "Subject": {
+    "Id": "i38836920",
+    "Name": "Derry Roberts",
+    "Gender": "Male",
+    "DateOfBirth": "8/Feb/1936",
+    "DateOfDeath": "8/Dec/2025"
+  },
+  "Parents": [
+    {
+      "Id": "i99819804",
+      "Name": "Mary Elizabeth Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1905",
+      "DateOfDeath": "16/Dec/1971",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i21721539",
+      "Name": "Malcolm DeWitt Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "30/Sep/1905",
+      "DateOfDeath": "6/May/1990",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i44331192",
+      "Name": "Mary Beth Roberts",
+      "Gender": "Female",
+      "DateOfBirth": "1/Nov/1930",
+      "DateOfDeath": "6/Feb/2014",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i21721539",
+          "i99819804"
+        ]
+      ]
+    },
+    {
+      "Id": "i38836920",
+      "Name": "Derry Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "8/Feb/1936",
+      "DateOfDeath": "8/Dec/2025",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i21721539",
+          "i99819804"
+        ]
+      ]
+    },
+    {
+      "Id": "i40000604",
+      "Name": "Sandra Jane Roberts",
+      "Gender": "Female",
+      "DateOfBirth": "10/Nov/1937",
+      "DateOfDeath": "26/Nov/2019",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i21721539",
+          "i99819804"
+        ]
+      ]
+    },
+    {
+      "Id": "i21326189",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "about 1944",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i21721539",
+          "i99819804"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i41265374",
+      "Name": "Anna Jessie MacKay",
+      "Gender": "Female",
+      "DateOfBirth": "7/Jul/1938",
+      "DateOfDeath": "12/Mar/2021",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "30/Jul/1960",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i58454492",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "6/Sep/1963",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i38836920",
+        "i41265374"
+      ]
+    },
+    {
+      "Id": "i96638311",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "15/Mar/1968",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i38836920",
+        "i41265374"
+      ]
+    },
+    {
+      "Id": "i18685039",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "22/May/1974",
+      "DateOfDeath": "",
+      "RelationToSubject": "adopted-son",
+      "ParentIds": [
+        "i38836920",
+        "i41265374"
+      ]
+    },
+    {
+      "Id": "i25217139",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "12/Sep/1978",
+      "DateOfDeath": "",
+      "RelationToSubject": "adopted-daughter",
+      "ParentIds": [
+        "i38836920",
+        "i41265374"
+      ]
+    },
+    {
+      "Id": "i64573483",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "2/Mar/1982",
+      "DateOfDeath": "",
+      "RelationToSubject": "adopted-daughter",
+      "ParentIds": [
+        "i38836920",
+        "i41265374"
+      ]
+    },
+    {
+      "Id": "i71666818",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "19/Jun/1988",
+      "DateOfDeath": "",
+      "RelationToSubject": "adopted-daughter",
+      "ParentIds": [
+        "i38836920",
+        "i41265374"
+      ]
+    }
+  ]
+}

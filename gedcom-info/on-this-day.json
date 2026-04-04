@@ -431,6 +431,10 @@
           "Day": 8,
           "Events": [
             {
+              "Date": "1936-02-08",
+              "Description": "[Derry Roberts](/family-tree/people/i38836920) was born on 8th of February 1936 to [Malcolm DeWitt Roberts](/family-tree/people/i21721539) and [Mary Elizabeth Wilson](/family-tree/people/i99819804) in Ilion, New York, United States of America."
+            },
+            {
               "Date": "1874-02-08",
               "Description": "[Donald Sutherland](/family-tree/people/i6737165) was born on 8th of February 1874 at 11:00 to [Andrew Sutherland](/family-tree/people/i91612548) and [Mary MacDonald](/family-tree/people/i10426344) in Golspie, Sutherland, Scotland."
             }
@@ -1962,7 +1966,11 @@
             },
             {
               "Date": "1960-07-30",
-              "Description": "[Anna Jessie MacKay](/family-tree/people/i41265374) got married on 30th of July 1960 in Bolton, New York, United States of America."
+              "Description": "[Derry Roberts](/family-tree/people/i38836920) got married to [Anna Jessie MacKay](/family-tree/people/i41265374) on 30th of July 1960 in Bolton, New York, United States of America."
+            },
+            {
+              "Date": "1960-07-30",
+              "Description": "[Anna Jessie MacKay](/family-tree/people/i41265374) got married to [Derry Roberts](/family-tree/people/i38836920) on 30th of July 1960 in Bolton, New York, United States of America."
             }
           ]
         },
@@ -3311,6 +3319,10 @@
             {
               "Date": "1881-12-08",
               "Description": "[Isabella Mackay](/family-tree/people/i26104572) died on 8th of December 1881 in Embo, Sutherland, Scotland."
+            },
+            {
+              "Date": "2025-12-08",
+              "Description": "[Derry Roberts](/family-tree/people/i38836920) died on 8th of December 2025 in West Palm Beach, Palm Beach, Florida, United States of America."
             }
           ]
         },
@@ -3521,7 +3533,7 @@
             },
             {
               "Date": "2011-12-29",
-              "Description": "[Donald James Mackay](/family-tree/people/i43065376) died on 29th of December 2011 in Basingstoke, Hampshire, England."
+              "Description": "[Donald James Mackay](/family-tree/people/i43065376) died on 29th of December 2011 at Flat 5, Geffrey's Fields, Chequers Road, Basingstoke, Hampshire, England."
             }
           ]
         },

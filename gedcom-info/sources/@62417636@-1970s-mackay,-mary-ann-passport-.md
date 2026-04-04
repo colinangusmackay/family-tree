@@ -29,3 +29,5 @@ _Redacted because this source is referenced by a (potentially) living person and
   * [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) (26/Jul/1900 - 8/Oct/1981)
 * Fraser
   * [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) (18/Sep/1865 - 20/Jun/1946)
+* Roberts
+  * [Derry Roberts](../people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md) (8/Feb/1936 - 8/Dec/2025)

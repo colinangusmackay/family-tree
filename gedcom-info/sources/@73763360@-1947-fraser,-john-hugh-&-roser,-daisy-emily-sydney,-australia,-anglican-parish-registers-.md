@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s73763360
 ---
 
-# 1947 X, X X & X, X X (Sydney, Australia, Anglican Parish Registers)
+# 1947 X, X HUGH & X, X X (Sydney, Australia, Anglican Parish Registers)
 
 ## Metadata
 
@@ -18,4 +18,5 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
+* [John Hugh Fraser](../people/@19170576@-john-hugh-fraser-b1925-d.md) (1925 - )
 * [Kenneth Fraser](../people/@89580356@-kenneth-fraser-b1890-8-13-d.md) (13/Aug/1890 - )

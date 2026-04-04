@@ -19,7 +19,7 @@ permalink: /people/i56209708
 * Husband: [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) (4/Sep/1913 - before 2004)
 * Daughter: [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) (26/Sep/1940 - 3/Apr/2004)
 * Son: X
-* Son: X
+* Son: [Thomas O'Malley](./@68408992@-thomas-o'malley-b1951-d2025.md) (1951 - 2025)
 
 ## Timeline
 
@@ -29,7 +29,7 @@ Date | Item | Description | Sources | Notes
 28/Dec/1939 | Marriage | Married to [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) in Glasgow, Scotland | [2](#2), [3](#3) | 
 26/Sep/1940 | Birth of daughter | [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) born to [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) and [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) in Glasgow, Scotland. | [3](#3), [4](#4) | 
 1945 | Birth of son | X born to [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) and [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) in Glasgow, Scotland. | [5](#5) | 
-1951 | Birth of son | X born to [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) and [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) in Glasgow, Scotland. | [6](#6) | 
+1951 | Birth of son | [Thomas O'Malley](./@68408992@-thomas-o'malley-b1951-d2025.md) born to [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) and [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) in Glasgow, Scotland. | [6](#6) | 
 before 2004 | Died | Died. | [7](#7) | 
 before 2004 | Death of partner | [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) died. | [7](#7) | 
 
@@ -90,7 +90,7 @@ before 2004 | Biscuit Factory Operative | [7](#7)
 
 ### 6
 
-**1951 X, X (Index of the Statutory Register of Births 644/18/1052)**
+**1951 O'MALLEY, THOMAS (Index of the Statutory Register of Births 644/18/1052)**
 
 * [Full text and notes](../sources/@72538196@-1951-o'malley,-thomas-index-of-the-statutory-register-of-births-644-18-1052-.md)
 * Responsible Agency: National Records of Scotland

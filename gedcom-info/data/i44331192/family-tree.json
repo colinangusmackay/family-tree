@@ -41,10 +41,10 @@
     },
     {
       "Id": "i38836920",
-      "Name": "X",
+      "Name": "Derry Roberts",
       "Gender": "Male",
       "DateOfBirth": "8/Feb/1936",
-      "DateOfDeath": "",
+      "DateOfDeath": "8/Dec/2025",
       "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
@@ -96,18 +96,6 @@
   ],
   "Children": [
     {
-      "Id": "i74628380",
-      "Name": "X",
-      "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "son",
-      "ParentIds": [
-        "i553899",
-        "i44331192"
-      ]
-    },
-    {
       "Id": "i43920628",
       "Name": "X",
       "Gender": "Female",
@@ -126,6 +114,18 @@
       "DateOfBirth": "",
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i553899",
+        "i44331192"
+      ]
+    },
+    {
+      "Id": "i74628380",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "about Feb/1967",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
       "ParentIds": [
         "i553899",
         "i44331192"

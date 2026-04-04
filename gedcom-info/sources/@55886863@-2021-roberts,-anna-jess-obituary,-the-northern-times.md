@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s55886863
 ---
 
-# 2021 X, ANNA JESS - Obituary, The Northern Times
+# 2021 ROBERTS, ANNA JESS - Obituary, The Northern Times
 
 ## Metadata
 
@@ -21,4 +21,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [Anna Jessie MacKay](../people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md) (7/Jul/1938 - 12/Mar/2021)
+* MacKay
+  * [Anna Jessie MacKay](../people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md) (7/Jul/1938 - 12/Mar/2021)
+* Roberts
+  * [Derry Roberts](../people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md) (8/Feb/1936 - 8/Dec/2025)

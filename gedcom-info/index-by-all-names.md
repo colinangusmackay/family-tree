@@ -349,6 +349,7 @@ permalink: /indexes/by-all-names
 - **[Fraser](people/@10983472@-christina-mackay-b-d.md)**
 - **[Fraser](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881)
 - **[Fraser](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
+- **[Fraser](people/@47782544@-rose-miranda-b-d.md)**
 - **[Fraser](people/@90096770@-marion-mackay-b1769-d.md)** (before 1769 - )
 - **[Fraser](people/@56151384@-marion-mackay-b1788-d.md)** (before 1788 - )
 - **[Fraser](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
@@ -358,6 +359,7 @@ permalink: /indexes/by-all-names
 - **[Isabella Fraser](people/@92660555@-isabella-fraser-b1863-d.md)** (about 1863 - )
 - **[Isabella Fraser](people/@81999219@-isabella-fraser-b1900-d.md)** (1900 - )
 - **[Jane Fraser](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971)
+- **[John Hugh Fraser](people/@19170576@-john-hugh-fraser-b1925-d.md)** (1925 - )
 - **[John J Barrow G Fraser](people/@43044884@-john-j-barrow-g-fraser-b1906-d.md)** (1906 - )
 - **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
 - **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954)
@@ -938,6 +940,10 @@ permalink: /indexes/by-all-names
 
 - **[May Miller](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
 
+## Miranda
+
+- **[Rose Miranda](people/@47782544@-rose-miranda-b-d.md)**
+
 ## Mitchell
 
 - **[? Mitchell](people/@47829915@--mitchell-b-d.md)**
@@ -1053,6 +1059,7 @@ permalink: /indexes/by-all-names
 - **[O'Malley](people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md)** (14/Mar/1916 - before 2004)
 - **[Patrick O'Malley](people/@39412375@-patrick-o'malley-b1880-d.md)** (about 1880 - )
 - **[Thomas O'Malley](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004)
+- **[Thomas O'Malley](people/@68408992@-thomas-o'malley-b1951-d2025.md)** (1951 - 2025)
 
 ## Parkinson
 
@@ -1173,6 +1180,7 @@ permalink: /indexes/by-all-names
 
 ## Roberts
 
+- **[Derry Roberts](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025)
 - **[Donald F Roberts](people/@38158777@-donald-f-roberts-b1898-d1990.md)** (about 1898 - before 1990)
 - **[Frederick B Roberts](people/@36552681@-frederick-b-roberts-b1868-d.md)** (about 1868 - )
 - **[Janet Roberts](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )

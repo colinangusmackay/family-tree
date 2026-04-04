@@ -1800,6 +1800,40 @@
     ]
   },
   {
+    "id": "i19170576",
+    "nameParts": [
+      "fraser",
+      "hugh",
+      "john"
+    ],
+    "wholeNames": [
+      "John Hugh Fraser"
+    ],
+    "birth": {
+      "date": "in 1925",
+      "year": 1925,
+      "place": [
+        "sydney",
+        "new south wales",
+        "australia"
+      ]
+    },
+    "marriages": [
+      {
+        "spouse": "i75180417",
+        "date": "on 29th of September 1947",
+        "year": 1947,
+        "month": 9,
+        "day": 29,
+        "place": [
+          "sydney",
+          "new south wales",
+          "australia"
+        ]
+      }
+    ]
+  },
+  {
     "id": "i19187808",
     "nameParts": [
       "hanton",
@@ -7764,6 +7798,153 @@
     ]
   },
   {
+    "id": "i38836920",
+    "nameParts": [
+      "derry",
+      "roberts"
+    ],
+    "wholeNames": [
+      "Derry Roberts"
+    ],
+    "birth": {
+      "date": "on 8th of February 1936",
+      "year": 1936,
+      "month": 2,
+      "day": 8,
+      "place": [
+        "ilion",
+        "new york",
+        "united states of america"
+      ]
+    },
+    "death": {
+      "date": "on 8th of December 2025",
+      "year": 2025,
+      "month": 12,
+      "day": 8,
+      "place": [
+        "west palm beach",
+        "palm beach",
+        "florida",
+        "united states of america"
+      ]
+    },
+    "marriages": [
+      {
+        "spouse": "i41265374",
+        "date": "on 30th of July 1960",
+        "year": 1960,
+        "month": 7,
+        "day": 30,
+        "place": [
+          "bolton",
+          "new york",
+          "united states of america"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "german flatts",
+          "herkimer county",
+          "new york",
+          "united states of america"
+        ],
+        "dates": [
+          1940
+        ]
+      },
+      {
+        "place": [
+          "fairfield",
+          "connecticut",
+          "united states of america"
+        ],
+        "dates": [
+          1950
+        ]
+      },
+      {
+        "place": [
+          "east norwalk",
+          "fairfield county",
+          "connecticut",
+          "united states of america"
+        ],
+        "dates": [
+          1958
+        ]
+      },
+      {
+        "place": [
+          "norwalk",
+          "fairfield county",
+          "connecticut",
+          "united states of america"
+        ],
+        "dates": [
+          1967
+        ]
+      },
+      {
+        "place": [
+          "danbury",
+          "fairfield county",
+          "connecticut",
+          "united states of america"
+        ],
+        "dates": [
+          1971,
+          1972
+        ]
+      },
+      {
+        "place": [
+          "bolton landing",
+          "warren county",
+          "new york",
+          "united states of america"
+        ],
+        "dates": [
+          1973,
+          1979,
+          1990,
+          1993,
+          1994,
+          1999,
+          2000
+        ]
+      },
+      {
+        "place": [
+          "west palm beach",
+          "palm beach",
+          "florida",
+          "united states of america"
+        ],
+        "dates": [
+          2006,
+          2021,
+          2023
+        ]
+      },
+      {
+        "place": [
+          "palm beach gardens",
+          "palm beach county",
+          "florida",
+          "united states of america"
+        ],
+        "dates": [
+          2008,
+          2016,
+          2021
+        ]
+      }
+    ]
+  },
+  {
     "id": "i39137337",
     "nameParts": [
       "fisher",
@@ -9199,6 +9380,16 @@
         "dates": [
           1981
         ]
+      },
+      {
+        "place": [
+          "basingstoke",
+          "hampshire",
+          "england"
+        ],
+        "dates": [
+          2011
+        ]
       }
     ]
   },
@@ -10480,6 +10671,25 @@
         "dates": [
           1861
         ]
+      }
+    ]
+  },
+  {
+    "id": "i47782544",
+    "nameParts": [
+      "fraser",
+      "miranda",
+      "rose"
+    ],
+    "wholeNames": [
+      "Fraser",
+      "Rose Miranda"
+    ],
+    "marriages": [
+      {
+        "spouse": "i89580356",
+        "date": "in 1916",
+        "year": 1916
       }
     ]
   },
@@ -16626,6 +16836,28 @@
         "fife",
         "scotland"
       ]
+    }
+  },
+  {
+    "id": "i68408992",
+    "nameParts": [
+      "o\u0027malley",
+      "thomas"
+    ],
+    "wholeNames": [
+      "Thomas O\u0027Malley"
+    ],
+    "birth": {
+      "date": "in 1951",
+      "year": 1951,
+      "place": [
+        "glasgow",
+        "scotland"
+      ]
+    },
+    "death": {
+      "date": "in 2025",
+      "year": 2025
     }
   },
   {

@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s52161638
 ---
 
-# X X in the New York State Birth Index 1881-1942
+# Derry Roberts in the New York State Birth Index 1881-1942
 
 ## Metadata
 
@@ -17,6 +17,7 @@ Source Last Updated | 24/Jan/2020 17:48:27
 ## Source Referenced by
 
 * Roberts
+  * [Derry Roberts](../people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md) (8/Feb/1936 - 8/Dec/2025)
   * [Malcolm DeWitt Roberts](../people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) (30/Sep/1905 - 6/May/1990)
   * [Mary Beth Roberts](../people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md) (1/Nov/1930 - 6/Feb/2014)
 * Wilson

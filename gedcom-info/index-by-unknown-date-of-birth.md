@@ -514,6 +514,7 @@ This is a list of people who have vague or unknown dates of birth.
 * [John McLean](people/@91397610@-john-mclean-b-d1877.md) ( - after 1877)
 * [Margaret McLeod](people/@25554110@-margaret-mcleod-b-d.md)
 * [Margaret McRae](people/@57014804@-margaret-mcrae-b-d.md)
+* [Rose Miranda](people/@47782544@-rose-miranda-b-d.md)
 * [? Mitchell](people/@47829915@--mitchell-b-d.md)
 * [David Morgan](people/@38398015@-david-morgan-b-d.md)
 * [James Morris](people/@82086731@-james-morris-b-d.md)

@@ -13,7 +13,7 @@ Original Document Date | 1871
 Responsible Agency | National Records of Scotland
 References | 1871 C 047/ 1/L 12
 Source Created | 31/May/2025 23:16:42
-Source Last Updated | 31/May/2025 23:52:59
+Source Last Updated | 8/Dec/2025 23:40:27
 
 ## Text
 
@@ -49,7 +49,7 @@ Source Last Updated | 31/May/2025 23:52:59
 >
 > Age: 59
 >
-> Occupation: Fisherman's Wift
+> Occupation: Fisherman's Wife
 >
 > Where Born: Sutherland, Helmsdale
 >

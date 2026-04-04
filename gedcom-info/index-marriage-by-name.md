@@ -120,9 +120,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Ann Fraser](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891) and **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) **on 12th of November 1889** at Dornoch, Sutherland, Scotland.
   * **[Anna Catherine Fraser](people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md)** (28/Aug/1937 - 1992) and **[Donald James Mackay](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011).
   * **[Barbara Fraser](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - ) and **[Thomas Sharp Crawford](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968) **on 22nd of March 1918** at Kirkcaldy, Fife, Scotland.
+  * **[John Hugh Fraser](people/@19170576@-john-hugh-fraser-b1925-d.md)** (1925 - ) and X **on 29th of September 1947** at Sydney, New South Wales, Australia.
   * **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883) and **[Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881) **on 24th of November 1820** at Embo, Sutherland, Scotland.
   * **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) **on 16th of January 1912** at Dornoch, Sutherland, Scotland.
-  * **[Kenneth Fraser](people/@89580356@-kenneth-fraser-b1890-8-13-d.md)** (13/Aug/1890 - ) and X **in 1916**.
+  * **[Kenneth Fraser](people/@89580356@-kenneth-fraser-b1890-8-13-d.md)** (13/Aug/1890 - ) and **[Rose Miranda](people/@47782544@-rose-miranda-b-d.md)** **in 1916**.
   * **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Margaret Moyes Mackay](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md)** (27/Jun/1901 - 24/Aug/1973) **on 2nd of March 1934** at Dornoch, Sutherland, Scotland.
   * **[Morag Fraser](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015) and **[Norman Alexander Gibson](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024) **in 1965** at Aberdeen, Aberdeenshire, Scotland.
   * **[Thomas Fraser](people/@28777404@-thomas-fraser-b1866-6-19-d.md)** (19/Jun/1866 - ) and **[Barbra Mackay](people/@60643714@-barbra-mackay-b1871-8-25-d.md)** (25/Aug/1871 - ) **on 8th of November 1892** at Dornoch, Sutherland, Scotland.
@@ -282,7 +283,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## MacKay
 
-  * **[Anna Jessie MacKay](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021) and X **on 30th of July 1960** at Bolton, New York, United States of America.
+  * **[Anna Jessie MacKay](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021) and **[Derry Roberts](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025) **on 30th of July 1960** at Bolton, New York, United States of America.
 
 ## Mackenzie
 
@@ -374,6 +375,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Miller
 
   * **[May Miller](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - ) and **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ) **on 2nd of January 1900**.
+
+## Miranda
+
+  * **[Rose Miranda](people/@47782544@-rose-miranda-b-d.md)** and **[Kenneth Fraser](people/@89580356@-kenneth-fraser-b1890-8-13-d.md)** (13/Aug/1890 - ) **in 1916**.
 
 ## Mitchell
 
@@ -477,6 +482,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Roberts
 
+  * **[Derry Roberts](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025) and **[Anna Jessie MacKay](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021) **on 30th of July 1960** at Bolton, New York, United States of America.
   * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971) **in 1927** at Lake George, Warren County, New York, United States of America.
   * **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Virginia C Simonet](people/@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md)** (14/Apr/1918 - 5/Mar/1998) **on 30th of September 1972** at Norwalk, Fairfield County, Connecticut, United States of America.
   * **[Mary Beth Roberts](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014) and X **on 8th of August 1950** at Bolton Landing, Warren County, New York, United States of America.

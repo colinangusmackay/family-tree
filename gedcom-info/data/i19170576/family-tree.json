@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i19170576",
+    "Name": "John Hugh Fraser",
+    "Gender": "Male",
+    "DateOfBirth": "1925",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i47782544",
+      "Name": "Rose Miranda",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i89580356",
+      "Name": "Kenneth Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "13/Aug/1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i19170576",
+      "Name": "John Hugh Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "1925",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i47782544",
+          "i89580356"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i75180417",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "1926",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "29/Sep/1947",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

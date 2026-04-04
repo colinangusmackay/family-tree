@@ -193,7 +193,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **23/Apr/1915** : **[William John Falloon](people/@14463787@-william-john-falloon-b-d.md)** and **[Campbell Elizabeth Munn](people/@11230712@-campbell-elizabeth-munn-b-d.md)** at Glasgow, Scotland.
   * **8/Jun/1915** : **[John Paton](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - ) and **[Jeanie McLeod](people/@70248352@-jeanie-mcleod-b1897-d.md)** (about 1897 - ) at Glasgow, Scotland.
 * **1916**
-  * **1916** : **[Kenneth Fraser](people/@89580356@-kenneth-fraser-b1890-8-13-d.md)** (13/Aug/1890 - ) and X.
+  * **1916** : **[Kenneth Fraser](people/@89580356@-kenneth-fraser-b1890-8-13-d.md)** (13/Aug/1890 - ) and **[Rose Miranda](people/@47782544@-rose-miranda-b-d.md)**.
   * **22/Dec/1916** : **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ) and **[Margaret McRae](people/@57014804@-margaret-mcrae-b-d.md)** at Dingwall, Ross & Cromarty, Scotland.
 * **1918**
   * **21/Mar/1918** : **[William Andrew Campbell](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ) and **[Grace McTurk](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - ) at Applegarth, Dumfries and Galloway, Scotland.
@@ -266,6 +266,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1947**
   * **1947** : **[Donald James Cumming](people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md)** (19/Jan/1922 - 16/Jan/1976) and **[Phylis Martensen](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018) at , Norfolk County, Massachusetts, United States of America.
   * **14/Jun/1947** : **[George Percival Albert Wyndow](people/@6915792@-george-percival-albert-wyndow-b1912-d1958-8-20.md)** (1912 - 20/Aug/1958) and **[Isabella Morgan Ramsay](people/@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md)** (16/Jun/1915 - 12/Sep/1974) at Fayid, Ismailia, Egypt.
+  * **29/Sep/1947** : **[John Hugh Fraser](people/@19170576@-john-hugh-fraser-b1925-d.md)** (1925 - ) and X at Sydney, New South Wales, Australia.
 * **1948**
   * **26/Nov/1948** : **[William Gardiner](people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md)** (17/Jul/1910 - 18/Apr/1986) and **[Rachel Smith Campbell](people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md)** (6/Jan/1920 - 11/Dec/1998) at Dryfesdale, Dumfrieshire, Scotland.
 
@@ -292,7 +293,7 @@ A list of marriages, civil partnerships and civil unions by date.
 
 * **1960**
   * **28/May/1960** : X and **[Sandra Jane Roberts](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019).
-  * **30/Jul/1960** : X and **[Anna Jessie MacKay](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021) at Bolton, New York, United States of America.
+  * **30/Jul/1960** : **[Derry Roberts](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025) and **[Anna Jessie MacKay](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021) at Bolton, New York, United States of America.
 * **1962**
   * **1962** : X and **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019) at Glasgow, Scotland.
 * **1965**

@@ -16,7 +16,7 @@ permalink: /people/i21721539
 * Sister: [Janet Roberts](./@46105652@-janet-roberts-b1913-d.md) (about 1913 - )
 * Wife: [Virginia C Simonet](./@33863084@-virginia-c-simonet-b1918-4-14-d1998-3-5.md) (14/Apr/1918 - 5/Mar/1998)
 * Daughter: [Mary Beth Roberts](./@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md) (1/Nov/1930 - 6/Feb/2014)
-* Son: X
+* Son: [Derry Roberts](./@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md) (8/Feb/1936 - 8/Dec/2025)
 * Daughter: [Sandra Jane Roberts](./@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md) (10/Nov/1937 - 26/Nov/2019)
 * Daughter: X
 
@@ -28,7 +28,7 @@ Date | Item | Description | Sources | Notes
 about 1913 | Birth of sister | [Janet Roberts](./@46105652@-janet-roberts-b1913-d.md) born to [Frederick B Roberts](./@36552681@-frederick-b-roberts-b1868-d.md) and [Mae Farnham](./@53003230@-mae-farnham-b1872-d.md). | [2](#2) | 
 1927 | Marriage | Married to [Mary Elizabeth Wilson](./@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md) in Lake George, Warren County, New York, United States of America | [3](#3) | 
 1/Nov/1930 | Birth of daughter | [Mary Beth Roberts](./@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md) born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary Elizabeth Wilson](./@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md) in Ilion, New York, United States of America. | [4](#4), [5](#5) | 
-8/Feb/1936 | Birth of son | X born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary Elizabeth Wilson](./@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md) in Ilion, New York, United States of America. | [6](#6) | 
+8/Feb/1936 | Birth of son | [Derry Roberts](./@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md) born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary Elizabeth Wilson](./@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md) in Ilion, New York, United States of America. | [6](#6) | 
 10/Nov/1937 | Birth of daughter | [Sandra Jane Roberts](./@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md) born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary Elizabeth Wilson](./@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md) in Ilion, New York, United States of America. | [4](#4), [7](#7) | 
 16/Oct/1940 | EVEN:Military Conscription/Draft |  | [8](#8) | 
 about 1944 | Birth of daughter | X born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary Elizabeth Wilson](./@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md). | [4](#4) | 
@@ -103,7 +103,7 @@ Date | Occupation | Sources & Notes
 
 ### 6
 
-**X X in the New York State Birth Index 1881-1942**
+**Derry Roberts in the New York State Birth Index 1881-1942**
 
 * Publication: Ancestry.com
 * Responsible Agency: New York State Department of Health;
@@ -163,7 +163,7 @@ Date | Occupation | Sources & Notes
 
 ### 14
 
-**1940 X, MALCOLM & Family (Federal Census)**
+**1940 ROBERTS, MALCOLM & Family (Federal Census)**
 
 * [Full text and notes](../sources/@1486578@-1940-roberts,-malcolm-&-family-federal-census-.md)
 * Publication: 1940 Federal Census

@@ -21,7 +21,7 @@ permalink: /people/i46723082
 * Ex Husband: [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) (Oct/1937 - 2011)
 * Husband: X
 * Brother: X
-* Brother: X
+* Brother: [Thomas O'Malley](./@68408992@-thomas-o'malley-b1951-d2025.md) (1951 - 2025)
 * Son: X
 * Daughter: [Linda Margaret Campbell](./@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) (16/Oct/1961 - 28/Sep/2016)
 * Son: X
@@ -35,7 +35,7 @@ Date | Item | Description | Sources | Notes
 26/Sep/1940 | Born | Born to [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) and [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) in Glasgow, Scotland. | [1](#1), [2](#2) | 
 26/Nov/1940 | Baptism | Baptised at Renfield Street Church, Glasgow, Scotland | [3](#3) | [4](#4)
 1945 | Birth of brother | X born to [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) and [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) in Glasgow, Scotland. | [5](#5) | 
-1951 | Birth of brother | X born to [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) and [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) in Glasgow, Scotland. | [6](#6) | 
+1951 | Birth of brother | [Thomas O'Malley](./@68408992@-thomas-o'malley-b1951-d2025.md) born to [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) and [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) in Glasgow, Scotland. | [6](#6) | 
 1959 | Marriage | Married to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) in Glasgow, Scotland | [7](#7) | 
 22/Oct/1960 | Birth of son | X born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Morley, Yorkshire, England. | [8](#8), [9](#9), [10](#10) | 
 16/Oct/1961 | Birth of daughter | [Linda Margaret Campbell](./@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) born to [Norman Stead](./@69808462@-norman-stead-b1937-10-d2011.md) and [Margaret Paton O'Malley](./@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) in Dewsbury, Yorkshire, England. | [11](#11), [12](#12), [13](#13) | 
@@ -104,7 +104,7 @@ before 2004 | Office/Contract Cleaner | [19](#19), [22](#22), [23](#23)
 
 ### 6
 
-**1951 X, X (Index of the Statutory Register of Births 644/18/1052)**
+**1951 O'MALLEY, THOMAS (Index of the Statutory Register of Births 644/18/1052)**
 
 * [Full text and notes](../sources/@72538196@-1951-o'malley,-thomas-index-of-the-statutory-register-of-births-644-18-1052-.md)
 * Responsible Agency: National Records of Scotland

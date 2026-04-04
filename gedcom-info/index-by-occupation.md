@@ -132,9 +132,10 @@ There were 4 people who worked as a Business Owner of some sort.
 
 ## Carpenter
 
-There were 4 people who worked as a Carpenter of some sort.
+There were 5 people who worked as a Carpenter of some sort.
 
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
+* **[Mackay, Donald James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011).
 * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md)** (19/Jan/1817 - 21/Feb/1894).
 * **[Nicholson, James](people/@30814449@-james-nicholson-b-d.md)**.
 
@@ -202,7 +203,10 @@ There were 3 people who worked as a Child Care Professional of some sort.
 
 ## Child day care business owner
 
+There were 2 people who worked as a Child day care business owner.
+
 * **[MacKay, Anna Jessie](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021), mentioned twice.
+* **[Roberts, Derry](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025), mentioned twice.
 
 ## Cinema Proprietor
 
@@ -415,9 +419,10 @@ There were 2 people who worked as a Electrician.
 
 ## Engineer
 
-There were 4 people who worked as a Engineer of some sort.
+There were 5 people who worked as a Engineer of some sort.
 
 * **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - ).
+* **[Roberts, Derry](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025).
 * **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990).
 * **[Wilson, Henry](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - ).
 
@@ -515,7 +520,10 @@ There were 7 people who worked as a Farmer.
 
 ## Fireman
 
+There were 2 people who worked as a Fireman.
+
 * **[Hawthorn, William](people/@92463484@-william-hawthorn-b1847-d1921.md)** (about 1847 - before 1921).
+* **[Roberts, Derry](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025).
 
 ## Fireman Steamer
 
@@ -859,7 +867,7 @@ There were 4 people who worked as a Janitor of some sort.
 
 ## Joiner
 
-There were 4 people who worked as a Joiner of some sort.
+There were 5 people who worked as a Joiner of some sort.
 
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
 * **[Fisher, John](people/@81248806@-john-fisher-b1819-d1880.md)** (about 1819 - after 1880).
@@ -867,6 +875,7 @@ There were 4 people who worked as a Joiner of some sort.
 #### Carpenter
 
 * **[Cumming, James](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918).
+* **[Mackay, Donald James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011).
 * **[Mackay, Kenneth](people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md)** (19/Jan/1817 - 21/Feb/1894).
 * **[Nicholson, James](people/@30814449@-james-nicholson-b-d.md)**.
 
@@ -1080,11 +1089,16 @@ There were 7 people who worked as a Miner of some sort.
 
 * **[Gibson, Alastair McDonald](people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md)** (19/Jan/1914 - 1978).
 
+## Motel Co-owner
+
+* **[Roberts, Derry](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025).
+
 ## Motel Co-Owner
 
-There were 2 people who worked as a Motel Co-Owner.
+There were 3 people who worked as a Motel Co-Owner.
 
 * **[MacKay, Anna Jessie](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021).
+* **[Roberts, Derry](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025).
 * **[Roberts, Sandra Jane](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019).
 
 ## Music Hall Artist
@@ -1185,6 +1199,14 @@ There were 2 people who worked as a Painter of some sort.
 ## Power Loom Weaver
 
 * **[Thomson, Agnes Watson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - ).
+
+## President (Chambers of Commerce)
+
+* **[Roberts, Derry](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025).
+
+## President (Warrn County Council of Chambers)
+
+* **[Roberts, Derry](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025).
 
 ## Principal Teacher of Art
 
@@ -1364,6 +1386,9 @@ There were 2 people who worked as a Servant.
 
 ## Shipwright
 
+There were 2 people who worked as a Shipwright.
+
+* **[Fraser, John Hugh](people/@19170576@-john-hugh-fraser-b1925-d.md)** (1925 - ).
 * **[Fraser, Kenneth](people/@89580356@-kenneth-fraser-b1890-8-13-d.md)** (13/Aug/1890 - ).
 
 ## Shoemaker
@@ -1500,6 +1525,10 @@ There were 5 people who worked as a Threadmill Worker.
 ## Tutor
 
 * **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024).
+
+## US Navy
+
+* **[Roberts, Derry](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025).
 
 ## Variety Artist, Travelling
 

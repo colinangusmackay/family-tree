@@ -243,6 +243,7 @@ permalink: /indexes/by-birth-location
 - **[McLeod, Margaret](people/@25554110@-margaret-mcleod-b-d.md)**
 - **[McRae, Margaret](people/@57014804@-margaret-mcrae-b-d.md)**
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
+- **[Miranda, Rose](people/@47782544@-rose-miranda-b-d.md)**
 - **[Mitchell, ?](people/@47829915@--mitchell-b-d.md)**
 - **[Morgan, David](people/@38398015@-david-morgan-b-d.md)**
 - **[Morris, James](people/@82086731@-james-morris-b-d.md)**
@@ -357,6 +358,15 @@ permalink: /indexes/by-birth-location
 - **[Wilson, Margaret](people/@63936152@-margaret-wilson-b1837-d.md)** (about 1837 - )
 - **[Wilson, Stella K](people/@26878767@-stella-k-wilson-b1902-d.md)** (about 1902 - )
 - **[Younger, Mary](people/@25511104@-mary-younger-b-d.md)**
+
+
+## Australia
+
+### New South Wales
+
+#### Sydney
+
+- **[Fraser, John Hugh](people/@19170576@-john-hugh-fraser-b1925-d.md)** (1925 - )
 
 
 ## Canada
@@ -671,6 +681,7 @@ permalink: /indexes/by-birth-location
 - **[O'Malley, Margaret Paton](people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md)** (26/Sep/1940 - 3/Apr/2004)
 - **[O'Malley, Patrick](people/@39412375@-patrick-o'malley-b1880-d.md)** (about 1880 - )
 - **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004)
+- **[O'Malley, Thomas](people/@68408992@-thomas-o'malley-b1951-d2025.md)** (1951 - 2025)
 - **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md)** (14/Mar/1916 - before 2004)
 
 #### Cathcart
@@ -1010,6 +1021,7 @@ permalink: /indexes/by-birth-location
 
 #### Ilion
 
+- **[Roberts, Derry](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025)
 - **[Roberts, Malcolm DeWitt](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990)
 - **[Roberts, Mary Beth](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014)
 - **[Roberts, Sandra Jane](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)

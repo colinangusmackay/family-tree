@@ -1,0 +1,73 @@
+﻿{
+  "Subject": {
+    "Id": "i68408992",
+    "Name": "Thomas O'Malley",
+    "Gender": "Male",
+    "DateOfBirth": "1951",
+    "DateOfDeath": "2025"
+  },
+  "Parents": [
+    {
+      "Id": "i12568152",
+      "Name": "Thomas O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "4/Sep/1913",
+      "DateOfDeath": "before 2004",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i56209708",
+      "Name": "Margaret McLeod Paton",
+      "Gender": "Female",
+      "DateOfBirth": "14/Mar/1916",
+      "DateOfDeath": "before 2004",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i46723082",
+      "Name": "Margaret Paton O'Malley",
+      "Gender": "Female",
+      "DateOfBirth": "26/Sep/1940",
+      "DateOfDeath": "3/Apr/2004",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i12568152",
+          "i56209708"
+        ]
+      ]
+    },
+    {
+      "Id": "i70482012",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "1945",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i12568152",
+          "i56209708"
+        ]
+      ]
+    },
+    {
+      "Id": "i68408992",
+      "Name": "Thomas O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "1951",
+      "DateOfDeath": "2025",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i12568152",
+          "i56209708"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

@@ -7,15 +7,6 @@
   "DateOfDeath": "6/Feb/2014",
   "Children": [
     {
-      "Id": "i74628380",
-      "Name": "X",
-      "Gender": "Male",
-      "Relationship": "son",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Children": []
-    },
-    {
       "Id": "i43920628",
       "Name": "X",
       "Gender": "Female",
@@ -42,6 +33,15 @@
           "Children": []
         }
       ]
+    },
+    {
+      "Id": "i74628380",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about Feb/1967",
+      "DateOfDeath": "",
+      "Children": []
     }
   ]
 }

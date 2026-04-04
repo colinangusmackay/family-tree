@@ -662,6 +662,8 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1924.**
   * **[McIver, Thomas Clephan](people/@74287888@-thomas-clephan-mciver-b1924-d2019.md)** (1924 - 2019)
   * **[McKnight, Mary](people/@41720825@-mary-mcknight-b1924-d1991.md)** (about 1924 - about 1991)
+* **Born in 1925.**
+  * **[Fraser, John Hugh](people/@19170576@-john-hugh-fraser-b1925-d.md)** (1925 - )
 * **Born in 1926.**
   * **[Martensen, Phylis](people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md)** (21/Oct/1926 - 17/Mar/2018)
 * **Born in 1928.**
@@ -689,6 +691,7 @@ permalink: /indexes/by-date-of-birth
   * **[Hayes, Dan](people/@76918782@-dan-hayes-b1935-9-25-d2018-8-31.md)** (25/Sep/1935 - 31/Aug/2018)
 * **Born in 1936.**
   * **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
+  * **[Roberts, Derry](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025)
 * **Born in 1937.**
   * **[Fraser, Anna Catherine](people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md)** (28/Aug/1937 - 1992)
   * **[Stead, Norman](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
@@ -708,6 +711,8 @@ permalink: /indexes/by-date-of-birth
 
 ### 1950s
 
+* **Born in 1951.**
+  * **[O'Malley, Thomas](people/@68408992@-thomas-o'malley-b1951-d2025.md)** (1951 - 2025)
 * **Born in 1954.**
   * **[Mathews, b Albert](people/@35875756@-b-albert-mathews-b1954-d2004.md)** (1954 - 2004)
 * **Born in 1956.**
