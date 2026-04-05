@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s62645608
 ---
 
-# Derry Roberts/Anna J Mackay in the New York State Marriage Index, 1881-1967
+# 1960 ROBERTS, DERRY & MACKAY, ANNA J (New York State Marriage Index, 1881-1967)
 
 ## Metadata
 
@@ -13,7 +13,32 @@ Publication | Ancestry.com
 Responsible Agency | New York State Department of Health
 References | 34905
 Source Created | 24/Jan/2020 17:57:31
-Source Last Updated | 24/Jan/2020 17:59:24
+Source Last Updated | 4/Apr/2026 22:50:16
+
+## Text
+
+> MARRIAGE INDEX 1960
+>
+> <br/>
+>
+> NAME: ROBERTS DERRY
+>
+> PLACE LICENSE ISSUED: BOLTON
+>
+> DATE: 7/30
+>
+> CERT NO: 34905
+>
+> <br/>
+>
+> NAME: MACKAY ANNA J
+>
+> PLACE LICENSE ISSUED: BOLTON
+>
+> DATE: 7/30
+>
+> CERT NO: 34905
+>
 
 ## Source Referenced by
 

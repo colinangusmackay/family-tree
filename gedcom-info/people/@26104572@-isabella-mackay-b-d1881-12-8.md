@@ -16,6 +16,7 @@ permalink: /people/i26104572
 
 * Husband: [Kenneth Fraser](./@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md) (5/May/1800 - 19/Jan/1883)
 * Son: [Alexander Fraser](./@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md) (5/Dec/1833 - 5/Oct/1876)
+* Son: [Peter Fraser](./@16594334@-peter-fraser-b1847-d.md) (about 1847 - )
 
 ## Timeline
 

@@ -531,7 +531,7 @@ There were 2 people who worked as a Fireman.
 
 ## Fish Worker
 
-There were 76 people who worked as a Fish Worker of some sort.
+There were 78 people who worked as a Fish Worker of some sort.
 
 * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - ).
 * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
@@ -560,6 +560,7 @@ There were 76 people who worked as a Fish Worker of some sort.
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md)** (5/Dec/1833 - 5/Oct/1876), mentioned 3 times.
 * **[Fraser, Alexander](people/@36585616@-alexander-fraser-b1859-8-29-d.md)** (29/Aug/1859 - ), mentioned 3 times.
 * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned twice.
+* **[Fraser, Kenneth](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883).
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
 * **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889).
 * **[Fraser, Thomas](people/@40210906@-thomas-fraser-b-d.md)**.
@@ -580,6 +581,7 @@ There were 76 people who worked as a Fish Worker of some sort.
 * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ).
 * **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ).
 * **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - ).
+* **[Mackay, Donald](people/@67781103@-donald-mackay-b-d.md)**.
 * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ).
 * **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939).
 * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 7 times.
@@ -640,7 +642,7 @@ There were 76 people who worked as a Fish Worker of some sort.
 
 ## Fisher
 
-There were 61 people who worked as a Fisher of some sort.
+There were 63 people who worked as a Fisher of some sort.
 
 * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893).
 * **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896).
@@ -658,6 +660,7 @@ There were 61 people who worked as a Fisher of some sort.
 * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md)** (5/Dec/1833 - 5/Oct/1876), mentioned 3 times.
 * **[Fraser, Alexander](people/@36585616@-alexander-fraser-b1859-8-29-d.md)** (29/Aug/1859 - ), mentioned 3 times.
 * **[Fraser, Alexander](people/@91293396@-alexander-fraser-b1898-8-31-d1966-2-17.md)** (31/Aug/1898 - 17/Feb/1966), mentioned twice.
+* **[Fraser, Kenneth](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883).
 * **[Fraser, Kenneth](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954).
 * **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889).
 * **[Fraser, Thomas](people/@40210906@-thomas-fraser-b-d.md)**.
@@ -678,6 +681,7 @@ There were 61 people who worked as a Fisher of some sort.
 * **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ).
 * **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - ).
 * **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - ).
+* **[Mackay, Donald](people/@67781103@-donald-mackay-b-d.md)**.
 * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ).
 * **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939).
 * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 7 times.
@@ -929,6 +933,10 @@ There were 2 people who worked as a Lapidary.
 
 * **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - ), mentioned twice.
 * **[Mathews, John Albert](people/@5643892@-john-albert-mathews-b1895-11-21-d.md)** (21/Nov/1895 - ), mentioned twice.
+
+## Lath Splitter
+
+* **[Mitchell, Thomas](people/@47829915@-thomas-mitchell-b1860-d.md)** (1860 - ).
 
 ## Laundry Keeper
 

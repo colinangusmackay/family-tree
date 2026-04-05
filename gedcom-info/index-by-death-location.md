@@ -15,7 +15,6 @@ permalink: /indexes/by-death-location
 - **[, Kathleen](people/@37756528@-kathleen-b-d1958.md)** ( - before 1958)
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 - **[, Nancy](people/@68661720@-nancy-b-d.md)**
-- **[?, ](people/@94950024@---b-d.md)**
 - **[Abernethy, Janet](people/@82771990@-janet-abernethy-b-d.md)**
 - **[Alexander, Elizabeth](people/@86375908@-elizabeth-alexander-b-d1911.md)** ( - before 1911)
 - **[Allford, Susan](people/@24534213@-susan-allford-b1807-d.md)** (about 1807 - )
@@ -23,6 +22,7 @@ permalink: /indexes/by-death-location
 - **[Beaton, Ann](people/@23061759@-ann-beaton-b-d.md)**
 - **[Beattie, Rachel](people/@72822722@-rachel-beattie-b-d.md)**
 - **[Berry, Janet](people/@71857147@-janet-berry-b-d.md)**
+- **[Black, Mary Ann](people/@94950024@-mary-ann-black-b1861-d.md)** (1861 - )
 - **[Bode, Katherine](people/@8567159@-katherine-bode-b-d1930.md)** ( - before 1930)
 - **[Bolger, Sandra Sarah](people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md)** (30/Aug/1956 - 2023)
 - **[Bond, Helen](people/@39873338@-helen-bond-b-d.md)**
@@ -131,7 +131,7 @@ permalink: /indexes/by-death-location
 - **[Fraser, Kenneth](people/@73587538@-kenneth-fraser-b1900-d.md)** (1900 - )
 - **[Fraser, Mary Ann](people/@94394924@-mary-ann-fraser-b1892-d.md)** (1892 - )
 - **[Fraser, Morag](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015)
-- **[Fraser, Peter](people/@16594334@-peter-fraser-b-d.md)**
+- **[Fraser, Peter](people/@16594334@-peter-fraser-b1847-d.md)** (about 1847 - )
 - **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889)
 - **[Fraser, Thomas](people/@40210906@-thomas-fraser-b-d.md)**
 - **[Fraser, Thomas](people/@65905028@-thomas-fraser-b1769-d.md)** (before 1769 - )
@@ -218,6 +218,7 @@ permalink: /indexes/by-death-location
 - **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - )
 - **[Mackay, Alexander](people/@18981292@-alexander-mackay-b1857-d.md)** (1857 - )
 - **[Mackay, Alexina](people/@75066880@-alexina-mackay-b1935-1-11-d1935.md)** (11/Jan/1935 - 1935)
+- **[Mackay, Ann](people/@90776940@-ann-mackay-b-d.md)**
 - **[Mackay, Ann](people/@59598912@-ann-mackay-b1835-d.md)** (1835 - )
 - **[Mackay, Ann](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940)
 - **[Mackay, Ann](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
@@ -231,10 +232,11 @@ permalink: /indexes/by-death-location
 - **[Mackay, Betsy](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - )
 - **[Mackay, Catherine](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - )
 - **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
-- **[Mackay, Christina](people/@10983472@-christina-mackay-b-d.md)**
+- **[Mackay, Christina](people/@10983472@-christina-mackay-b1848-d.md)** (about 1848 - )
 - **[Mackay, Christina](people/@20426296@-christina-mackay-b1861-d.md)** (1861 - )
 - **[Mackay, David](people/@46263680@-david-mackay-b1846-d1860.md)** (1846 - 1860)
 - **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - )
+- **[Mackay, Donald](people/@67781103@-donald-mackay-b-d.md)**
 - **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
 - **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939)
 - **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
@@ -343,7 +345,9 @@ permalink: /indexes/by-death-location
 - **[McTurk, Jane](people/@18380667@-jane-mcturk-b1880-2-22-d.md)** (22/Feb/1880 - )
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
 - **[Miranda, Rose](people/@47782544@-rose-miranda-b-d.md)**
-- **[Mitchell, ?](people/@47829915@--mitchell-b-d.md)**
+- **[Mitchell, Robert](people/@86070232@-robert-mitchell-b1886-d.md)** (1886 - )
+- **[Mitchell, Thomas](people/@47829915@-thomas-mitchell-b1860-d.md)** (1860 - )
+- **[Mitchell, Violet](people/@73739848@-violet-mitchell-b1889-d.md)** (1889 - )
 - **[Morgan, Andrew](people/@23628312@-andrew-morgan-b1849-d.md)** (about 1849 - )
 - **[Morgan, Ann](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - )
 - **[Morgan, David](people/@38398015@-david-morgan-b-d.md)**

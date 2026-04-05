@@ -14,7 +14,6 @@ permalink: /indexes/by-birth-location
 - **[, Kathleen](people/@37756528@-kathleen-b-d1958.md)** ( - before 1958)
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
 - **[, Nancy](people/@68661720@-nancy-b-d.md)**
-- **[?, ](people/@94950024@---b-d.md)**
 - **[Abernethy, Janet](people/@82771990@-janet-abernethy-b-d.md)**
 - **[Alexander, Elizabeth](people/@86375908@-elizabeth-alexander-b-d1911.md)** ( - before 1911)
 - **[Beaton, Ann](people/@23061759@-ann-beaton-b-d.md)**
@@ -79,7 +78,7 @@ permalink: /indexes/by-birth-location
 - **[Fraser, Isabella](people/@81999219@-isabella-fraser-b1900-d.md)** (1900 - )
 - **[Fraser, Mary Ann](people/@94394924@-mary-ann-fraser-b1892-d.md)** (1892 - )
 - **[Fraser, Morag](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015)
-- **[Fraser, Peter](people/@16594334@-peter-fraser-b-d.md)**
+- **[Fraser, Peter](people/@16594334@-peter-fraser-b1847-d.md)** (about 1847 - )
 - **[Fraser, Thomas](people/@39286288@-thomas-fraser-b-d1889.md)** ( - before 1889)
 - **[Fraser, Thomas](people/@40210906@-thomas-fraser-b-d.md)**
 - **[Fraser, Thomas](people/@65905028@-thomas-fraser-b1769-d.md)** (before 1769 - )
@@ -156,6 +155,7 @@ permalink: /indexes/by-birth-location
 - **[Mackay, Alexander](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - )
 - **[Mackay, Alexander](people/@24272756@-alexander-mackay-b1856-d.md)** (about 1856 - )
 - **[Mackay, Alexander](people/@18981292@-alexander-mackay-b1857-d.md)** (1857 - )
+- **[Mackay, Ann](people/@90776940@-ann-mackay-b-d.md)**
 - **[Mackay, Ann](people/@59598912@-ann-mackay-b1835-d.md)** (1835 - )
 - **[Mackay, Ann](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
 - **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942)
@@ -165,10 +165,11 @@ permalink: /indexes/by-birth-location
 - **[Mackay, Bella](people/@54814674@-bella-mackay-b1885-d.md)** (about 1885 - )
 - **[Mackay, Betsy](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - )
 - **[Mackay, Catherine](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - )
-- **[Mackay, Christina](people/@10983472@-christina-mackay-b-d.md)**
+- **[Mackay, Christina](people/@10983472@-christina-mackay-b1848-d.md)** (about 1848 - )
 - **[Mackay, Christina](people/@20426296@-christina-mackay-b1861-d.md)** (1861 - )
 - **[Mackay, David](people/@46263680@-david-mackay-b1846-d1860.md)** (1846 - 1860)
 - **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - )
+- **[Mackay, Donald](people/@67781103@-donald-mackay-b-d.md)**
 - **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
 - **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
 - **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
@@ -244,7 +245,6 @@ permalink: /indexes/by-birth-location
 - **[McRae, Margaret](people/@57014804@-margaret-mcrae-b-d.md)**
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
 - **[Miranda, Rose](people/@47782544@-rose-miranda-b-d.md)**
-- **[Mitchell, ?](people/@47829915@--mitchell-b-d.md)**
 - **[Morgan, David](people/@38398015@-david-morgan-b-d.md)**
 - **[Morris, James](people/@82086731@-james-morris-b-d.md)**
 - **[Morrison, Jamesina](people/@11801376@-jamesina-morrison-b-d.md)**
@@ -502,7 +502,10 @@ permalink: /indexes/by-birth-location
 
 #### Arbroath
 
+- **[Mitchell, Robert](people/@86070232@-robert-mitchell-b1886-d.md)** (1886 - )
+- **[Mitchell, Thomas](people/@47829915@-thomas-mitchell-b1860-d.md)** (1860 - )
 - **[Mitchell, Thomas](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972)
+- **[Mitchell, Violet](people/@73739848@-violet-mitchell-b1889-d.md)** (1889 - )
 
 ### Berwickshire
 
@@ -558,6 +561,7 @@ permalink: /indexes/by-birth-location
 
 ### Edinburgh
 
+- **[Black, Mary Ann](people/@94950024@-mary-ann-black-b1861-d.md)** (1861 - )
 - **[Fisher, Agnes](people/@45605556@-agnes-fisher-b1887-d.md)** (about 1887 - )
 - **[Fisher, Isabella](people/@74012383@-isabella-fisher-b1846-d.md)** (about 1846 - )
 - **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )

@@ -73,6 +73,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1865**
   * **15/Dec/1865** : **[Alexander Ross](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - ) and **[Catherine Ross](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - ) at Little Ferry, Sutherland, Scotland.
 * **1866**
+  * **9/Feb/1866** : **[Peter Fraser](people/@16594334@-peter-fraser-b1847-d.md)** (about 1847 - ) and **[Christina Mackay](people/@10983472@-christina-mackay-b1848-d.md)** (about 1848 - ) at Dornoch, Sutherland, Scotland.
   * **3/Oct/1866** : **[David Wilson](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - ) and **[Mary Ann McLean](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - ) at Invergordon, Rossshire, Scotland.
 * **1867**
   * **Oct/1867** : **[William Mackay](people/@24694904@-william-mackay-b-d.md)** and **[Ann Cumming](people/@5075008@-ann-cumming-b-d.md)** at Dornoch, Sutherland, Scotland.

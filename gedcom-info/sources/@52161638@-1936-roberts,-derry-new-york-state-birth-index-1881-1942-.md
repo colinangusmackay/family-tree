@@ -3,7 +3,7 @@ layout: page
 permalink: /sources/s52161638
 ---
 
-# Derry Roberts in the New York State Birth Index 1881-1942
+# 1936 ROBERTS, DERRY (New York State Birth Index 1881-1942)
 
 ## Metadata
 
@@ -12,7 +12,12 @@ Field | Detail
 Publication | Ancestry.com
 Responsible Agency | New York State Department of Health;
 Source Created | 24/Jan/2020 17:35:59
-Source Last Updated | 24/Jan/2020 17:48:27
+Source Last Updated | 4/Apr/2026 22:45:39
+
+## Text
+
+> Roberts, Derry 5 Feb Illion 9232
+>
 
 ## Source Referenced by
 

@@ -109,8 +109,9 @@ Footnote | Source
 
 ### 6
 
-**Derry Roberts in the New York State Birth Index 1881-1942**
+**1936 ROBERTS, DERRY (New York State Birth Index 1881-1942)**
 
+* [Full text and notes](../sources/@52161638@-1936-roberts,-derry-new-york-state-birth-index-1881-1942-.md)
 * Publication: Ancestry.com
 * Responsible Agency: New York State Department of Health;
 

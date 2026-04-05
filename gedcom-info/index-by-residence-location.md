@@ -115,6 +115,16 @@ permalink: /indexes/by-residence-location
 - **[Clark, James](people/@29410614@-james-clark-b-d.md)**
 - **[Morrison, Jamesina](people/@11801376@-jamesina-morrison-b-d.md)**
 
+### Angus
+
+#### Arbroath
+
+- **[Black, Mary Ann](people/@94950024@-mary-ann-black-b1861-d.md)** (1861 - )
+- **[Mitchell, Robert](people/@86070232@-robert-mitchell-b1886-d.md)** (1886 - )
+- **[Mitchell, Thomas](people/@47829915@-thomas-mitchell-b1860-d.md)** (1860 - )
+- **[Mitchell, Thomas](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972)
+- **[Mitchell, Violet](people/@73739848@-violet-mitchell-b1889-d.md)** (1889 - )
+
 ### Berwickshire
 
 #### Eyemouth

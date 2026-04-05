@@ -148,8 +148,26 @@
       "mackay"
     ],
     "wholeNames": [
-      "Christina Mackay",
-      "Fraser"
+      "Christina Fraser",
+      "Christina Mackay"
+    ],
+    "birth": {
+      "date": "about 1848",
+      "year": 1848
+    },
+    "marriages": [
+      {
+        "spouse": "i16594334",
+        "date": "on 9th of February 1866",
+        "year": 1866,
+        "month": 2,
+        "day": 9,
+        "place": [
+          "dornoch",
+          "sutherland",
+          "scotland"
+        ]
+      }
     ]
   },
   {
@@ -1216,6 +1234,24 @@
     ],
     "wholeNames": [
       "Peter Fraser"
+    ],
+    "birth": {
+      "date": "about 1847",
+      "year": 1847
+    },
+    "marriages": [
+      {
+        "spouse": "i10983472",
+        "date": "on 9th of February 1866",
+        "year": 1866,
+        "month": 2,
+        "day": 9,
+        "place": [
+          "dornoch",
+          "sutherland",
+          "scotland"
+        ]
+      }
     ]
   },
   {
@@ -10696,11 +10732,32 @@
   {
     "id": "i47829915",
     "nameParts": [
-      "?",
-      "mitchell"
+      "mitchell",
+      "thomas"
     ],
     "wholeNames": [
-      "? Mitchell"
+      "Thomas Mitchell"
+    ],
+    "birth": {
+      "date": "in 1860",
+      "year": 1860,
+      "place": [
+        "arbroath",
+        "angus",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "arbroath",
+          "angus",
+          "scotland"
+        ],
+        "dates": [
+          1891
+        ]
+      }
     ]
   },
   {
@@ -16226,7 +16283,7 @@
       "Thomas Mitchell"
     ],
     "birth": {
-      "date": "on 2nd of February 1891",
+      "date": "on 2nd of February 1891 at 15:00",
       "year": 1891,
       "month": 2,
       "day": 2,
@@ -16264,6 +16321,16 @@
       }
     ],
     "residences": [
+      {
+        "place": [
+          "arbroath",
+          "angus",
+          "scotland"
+        ],
+        "dates": [
+          1891
+        ]
+      },
       {
         "place": [
           "bridgewater",
@@ -16727,6 +16794,16 @@
           "scotland"
         ]
       }
+    ]
+  },
+  {
+    "id": "i67781103",
+    "nameParts": [
+      "donald",
+      "mackay"
+    ],
+    "wholeNames": [
+      "Donald Mackay"
     ]
   },
   {
@@ -18117,6 +18194,39 @@
           1901,
           1911,
           1921
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i73739848",
+    "nameParts": [
+      "mcgregor",
+      "mitchell",
+      "violet"
+    ],
+    "wholeNames": [
+      "Violet McGregor",
+      "Violet Mitchell"
+    ],
+    "birth": {
+      "date": "in 1889",
+      "year": 1889,
+      "place": [
+        "arbroath",
+        "angus",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "arbroath",
+          "angus",
+          "scotland"
+        ],
+        "dates": [
+          1891
         ]
       }
     ]
@@ -21047,6 +21157,37 @@
     ]
   },
   {
+    "id": "i86070232",
+    "nameParts": [
+      "mitchell",
+      "robert"
+    ],
+    "wholeNames": [
+      "Robert Mitchell"
+    ],
+    "birth": {
+      "date": "in 1886",
+      "year": 1886,
+      "place": [
+        "arbroath",
+        "angus",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "arbroath",
+          "angus",
+          "scotland"
+        ],
+        "dates": [
+          1891
+        ]
+      }
+    ]
+  },
+  {
     "id": "i8610974",
     "nameParts": [
       "christy",
@@ -22029,6 +22170,17 @@
     ]
   },
   {
+    "id": "i90776940",
+    "nameParts": [
+      "ann",
+      "mackay"
+    ],
+    "wholeNames": [
+      "Ann Mackay",
+      "Mackay"
+    ]
+  },
+  {
     "id": "i90830540",
     "nameParts": [
       "mciver",
@@ -23005,12 +23157,34 @@
   {
     "id": "i94950024",
     "nameParts": [
-      "?",
+      "ann",
+      "black",
+      "mary",
       "mitchell"
     ],
     "wholeNames": [
-      "? ?",
-      "? Mitchell"
+      "Mary Ann Black",
+      "Mary Ann Mitchell"
+    ],
+    "birth": {
+      "date": "in 1861",
+      "year": 1861,
+      "place": [
+        "edinburgh",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "arbroath",
+          "angus",
+          "scotland"
+        ],
+        "dates": [
+          1891
+        ]
+      }
     ]
   },
   {

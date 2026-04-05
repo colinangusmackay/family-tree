@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i86070232",
+  "Name": "Robert Mitchell",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "1886",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i47829915",
+      "Name": "Thomas Mitchell",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "1860",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i94950024",
+      "Name": "Mary Ann Black",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "1861",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i67781103",
+    "Name": "Donald Mackay",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i67781103",
+      "Name": "Donald Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i90776940",
+      "Name": "Ann Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i10983472",
+      "Name": "Christina Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1848",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i67781103",
+        "i90776940"
+      ]
+    }
+  ]
+}

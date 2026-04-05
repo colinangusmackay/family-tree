@@ -176,11 +176,13 @@ permalink: /indexes/by-date-of-birth
   * **[Ramsay, James](people/@5972344@-james-ramsay-b1846-d.md)** (1846 - )
   * **[Ross, Catherine](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - )
 * **Born in 1847.**
+  * **[Fraser, Peter](people/@16594334@-peter-fraser-b1847-d.md)** (about 1847 - )
   * **[Hawthorn, William](people/@92463484@-william-hawthorn-b1847-d1921.md)** (about 1847 - before 1921)
   * **[Ramsay, Agnes](people/@73804628@-agnes-ramsay-b1847-d.md)** (1847 - )
   * **[Napier, Jean](people/@89412864@-jean-napier-b1847-3-28-d.md)** (28/Mar/1847 - )
 * **Born in 1848.**
   * **[Fisher, John](people/@60298048@-john-fisher-b1848-d.md)** (about 1848 - )
+  * **[Mackay, Christina](people/@10983472@-christina-mackay-b1848-d.md)** (about 1848 - )
   * **[Paterson, Margaret](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
 * **Born in 1849.**
   * **[Grant, Cate](people/@89641618@-cate-grant-b1849~1851-d.md)** (bet' 1849 and 1851 - )
@@ -262,10 +264,12 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1860.**
   * **[Fleming, Samuel](people/@19337566@-samuel-fleming-b1860-d.md)** (about 1860 - )
   * **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939)
+  * **[Mitchell, Thomas](people/@47829915@-thomas-mitchell-b1860-d.md)** (1860 - )
   * **[Ramsay, Catherine](people/@12774174@-catherine-ramsay-b1860-d.md)** (1860 - )
   * **[Ross, Ann](people/@32419757@-ann-ross-b1860-6-17-d.md)** (17/Jun/1860 - )
   * **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923)
 * **Born in 1861.**
+  * **[Black, Mary Ann](people/@94950024@-mary-ann-black-b1861-d.md)** (1861 - )
   * **[Mackay, Christina](people/@20426296@-christina-mackay-b1861-d.md)** (1861 - )
   * **[MacLeod, Matilda](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
   * **[Napier, Janet](people/@44813825@-janet-napier-b1861-d.md)** (about 1861 - )
@@ -429,6 +433,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1886.**
   * **[Hawthorn, Edward](people/@88518114@-edward-hawthorn-b1886-d.md)** (about 1886 - )
   * **[Mathews, Georgina E](people/@84093657@-georgina-e-mathews-b1886-d.md)** (about 1886 - )
+  * **[Mitchell, Robert](people/@86070232@-robert-mitchell-b1886-d.md)** (1886 - )
   * **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
 * **Born in 1887.**
   * **[Fisher, Agnes](people/@45605556@-agnes-fisher-b1887-d.md)** (about 1887 - )
@@ -446,6 +451,7 @@ permalink: /indexes/by-date-of-birth
   * **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958)
   * **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
   * **[McKnight, Susan](people/@87185096@-susan-mcknight-b1889-d.md)** (about 1889 - )
+  * **[Mitchell, Violet](people/@73739848@-violet-mitchell-b1889-d.md)** (1889 - )
   * **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - )
   * **[Fleming, Lillias](people/@39306088@-lillias-fleming-b1889-5-25-d.md)** (25/May/1889 - )
   * **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970)

@@ -64,6 +64,18 @@
         "i61428726",
         "i26104572"
       ]
+    },
+    {
+      "Id": "i16594334",
+      "Name": "Peter Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "about 1847",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i61428726",
+        "i26104572"
+      ]
     }
   ]
 }

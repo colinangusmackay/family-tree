@@ -1,18 +1,18 @@
 ﻿{
   "Subject": {
     "Id": "i94950024",
-    "Name": "? ?",
+    "Name": "Mary Ann Black",
     "Gender": "Female",
-    "DateOfBirth": "",
+    "DateOfBirth": "1861",
     "DateOfDeath": ""
   },
   "Parents": [],
   "Siblings": [
     {
       "Id": "i94950024",
-      "Name": "? ?",
+      "Name": "Mary Ann Black",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "1861",
       "DateOfDeath": "",
       "RelationToSubject": "self",
       "ParentGroupIds": []
@@ -21,9 +21,9 @@
   "Spouses": [
     {
       "Id": "i47829915",
-      "Name": "? Mitchell",
+      "Name": "Thomas Mitchell",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "1860",
       "DateOfDeath": "",
       "RelationToSubject": "partner",
       "DateOfMarriage": "",
@@ -44,10 +44,22 @@
       ]
     },
     {
+      "Id": "i86070232",
+      "Name": "Robert Mitchell",
+      "Gender": "Male",
+      "DateOfBirth": "1886",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i47829915",
+        "i94950024"
+      ]
+    },
+    {
       "Id": "i73739848",
-      "Name": "X",
+      "Name": "Violet Mitchell",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "1889",
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
       "ParentIds": [

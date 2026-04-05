@@ -1,9 +1,9 @@
 ﻿{
   "Id": "i47829915",
-  "Name": "? Mitchell",
+  "Name": "Thomas Mitchell",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "1860",
   "DateOfDeath": "",
   "Children": [
     {
@@ -16,11 +16,20 @@
       "Children": []
     },
     {
+      "Id": "i86070232",
+      "Name": "Robert Mitchell",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1886",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
       "Id": "i73739848",
-      "Name": "X",
+      "Name": "Violet Mitchell",
       "Gender": "Female",
       "Relationship": "daughter",
-      "DateOfBirth": "",
+      "DateOfBirth": "1889",
       "DateOfDeath": "",
       "Children": []
     },

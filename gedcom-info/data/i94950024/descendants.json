@@ -1,9 +1,9 @@
 ﻿{
   "Id": "i94950024",
-  "Name": "? ?",
+  "Name": "Mary Ann Black",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "1861",
   "DateOfDeath": "",
   "Children": [
     {
@@ -16,11 +16,20 @@
       "Children": []
     },
     {
+      "Id": "i86070232",
+      "Name": "Robert Mitchell",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "1886",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
       "Id": "i73739848",
-      "Name": "X",
+      "Name": "Violet Mitchell",
       "Gender": "Female",
       "Relationship": "daughter",
-      "DateOfBirth": "",
+      "DateOfBirth": "1889",
       "DateOfDeath": "",
       "Children": []
     },

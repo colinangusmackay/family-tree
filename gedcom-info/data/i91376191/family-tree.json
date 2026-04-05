@@ -11,7 +11,7 @@
       "Id": "i16594334",
       "Name": "Peter Fraser",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1847",
       "DateOfDeath": "",
       "RelationToSubject": "father"
     },
@@ -19,7 +19,7 @@
       "Id": "i10983472",
       "Name": "Christina Mackay",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1848",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     }
