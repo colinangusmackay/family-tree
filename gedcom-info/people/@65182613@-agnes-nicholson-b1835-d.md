@@ -44,6 +44,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1858 | Linen Weaver | [1](#1)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[5](#5) | **[1900 NAPIER, ALEXANDER & DALRYMPLE, JANET (Statutory Register Marriages 442/ 137)](../sources/@15374640@-1900-napier,-alexander-&-dalrymple,-janet-statutory-register-marriages-442-137-.md)**
+
 ## Footnotes
 
 ### 1
@@ -80,4 +86,14 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@2017128@-1896-napier,-david-fife,-scotland,-asylum-regisgters-.md)
 * Publication: Fife and Kinross District Asylum Registers, Fife Library and Archives Services, Fife, Scotland.
+
+### 5
+
+**1900 NAPIER, ALEXANDER & DALRYMPLE, JANET (Statutory Register Marriages 442/ 137)**
+
+* [Full text and notes](../sources/@15374640@-1900-napier,-alexander-&-dalrymple,-janet-statutory-register-marriages-442-137-.md)
+* Date: 1/Oct/1900
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1900 M 442/ 137
 

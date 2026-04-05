@@ -78,5 +78,8 @@ Source Last Updated | 16/Jan/2023 22:54:32
 * Hanton
   * [James Hanton](../people/@71830064@-james-hanton-b1880-d1922-4-20.md) (about 1880 - 20/Apr/1922)
   * [William Hanton](../people/@62602830@-william-hanton-b1855-d1922.md) (about 1855 - before 1922)
+* Johnston
+  * [Jane Johnston](../people/@71906070@-jane-johnston-b1859-d1922.md) (about 1859 - before 1922)
 * McKechnie
   * [Janet McKechnie](../people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md) (about 1879 - 29/Jun/1949)
+  * [William McKechnie](../people/@95027126@-william-mckechnie-b-d.md)

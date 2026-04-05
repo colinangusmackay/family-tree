@@ -67,6 +67,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1901 | Lithographer's Feeder | [3](#3)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[15](#15) | **[MCIVER, HECTOR MCLEAN & MCKENZIE, MARGARET PATERSON (Photo)](../sources/@12926564@-mciver,-hector-mclean-&-mckenzie,-margaret-paterson-photo-.md)**
+
 ## Footnotes
 
 ### 1
@@ -201,4 +207,10 @@ Date | Occupation | Sources & Notes
 * [Full text and notes](../sources/@79186140@-1946-gibson,-alastair-m;-margaret-m;-m'iver,-hector-s;-helen-f;-margaret-p-register-of-voters-for-t….md)
 * Publication: Register of Voters For the City of Edinburgh and the Burgh of Leith
 * Date: 1946
+
+### 15
+
+**MCIVER, HECTOR MCLEAN & MCKENZIE, MARGARET PATERSON (Photo)**
+
+* [Full text and notes](../sources/@12926564@-mciver,-hector-mclean-&-mckenzie,-margaret-paterson-photo-.md)
 

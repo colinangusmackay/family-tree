@@ -48,6 +48,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1936 | School Teacher | [5](#5)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[12](#12) | **[MCIVER, HECTOR/EILEEN/RODERICK (Photo)](../sources/@33723396@-mciver,-hector-eileen-roderick-photo-.md)**
+
 ## Footnotes
 
 ### 1
@@ -154,4 +160,10 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1921 C 644/13 47/ 15)
+
+### 12
+
+**MCIVER, HECTOR/EILEEN/RODERICK (Photo)**
+
+* [Full text and notes](../sources/@33723396@-mciver,-hector-eileen-roderick-photo-.md)
 

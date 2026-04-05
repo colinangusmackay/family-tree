@@ -38,6 +38,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1859 | Domestic Servant | [1](#1)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[2](#2) | **[1863 GRANT, HUGH (Statutory Registers Births 047/7)](../sources/@48209885@-1863-grant,-hugh-statutory-registers-births-047-7-.md)**
+
 ## Footnotes
 
 ### 1
@@ -49,4 +55,14 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1859 M 051/2
+
+### 2
+
+**1863 GRANT, HUGH (Statutory Registers Births 047/7)**
+
+* [Full text and notes](../sources/@48209885@-1863-grant,-hugh-statutory-registers-births-047-7-.md)
+* Date: 7/Mar/1863
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1863 B 047/7
 

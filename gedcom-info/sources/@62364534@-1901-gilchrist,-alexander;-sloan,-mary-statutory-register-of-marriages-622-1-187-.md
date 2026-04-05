@@ -77,6 +77,10 @@ Source Last Updated | 13/May/2025 23:10:50
 * Gilchrist
   * [Alexander Gilchrist](../people/@61092708@-alexander-gilchrist-b1877-d.md) (about 1877 - )
   * [David Gilchrist](../people/@89232476@-david-gilchrist-b-d.md)
+* Kirkland
+  * [Margaret Kirkland](../people/@48501002@-margaret-kirkland-b-d.md)
 * Sloan
   * [James Sloan](../people/@16524688@-james-sloan-b-d1901.md) ( - before 1901)
   * [Mary Bowie Sloan](../people/@59122260@-mary-bowie-sloan-b1879-d.md) (about 1879 - )
+* Steel
+  * [Janet Steel](../people/@22623536@-janet-steel-b-d.md)

@@ -61,6 +61,12 @@ Date | Occupation | Sources & Notes
 1950 | Tool Engineer | [4](#4)
 1958 | Engineer | [15](#15)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[18](#18) | **[X, MALCOLM DEWITT & FAMILY (Photo - 80th Birthday celebrations)](../sources/@85347224@-roberts,-malcolm-dewitt-&-family-photo-80th-birthday-celebrations-.md)**
+
 ## Footnotes
 
 ### 1
@@ -190,4 +196,11 @@ Date | Occupation | Sources & Notes
 * [Full text and notes](../sources/@69967380@-1967-wilson,-mrs.-the-glens-falls-times,-new-york,-4-may-1967,-page-3-.md)
 * Publication: The Glens Falls Times
 * Date: 4/May/1967
+
+### 18
+
+**X, MALCOLM DEWITT & FAMILY (Photo - 80th Birthday celebrations)**
+
+* [Full text and notes](../sources/@85347224@-roberts,-malcolm-dewitt-&-family-photo-80th-birthday-celebrations-.md)
+* Date: 30/Sep/1985
 

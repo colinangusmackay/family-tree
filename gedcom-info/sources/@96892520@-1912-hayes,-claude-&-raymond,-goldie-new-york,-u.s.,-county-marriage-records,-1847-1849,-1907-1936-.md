@@ -84,7 +84,13 @@ Source Last Updated | 11/Jun/2022 10:14:12
 
 ## Source Referenced by
 
+* Gregory
+  * [Belle Gregory](../people/@91101318@-belle-gregory-b-d.md)
 * Hayes
   * [Claude Hayes](../people/@99088640@-claude-hayes-b1889-d1958-1-30.md) (about 1889 - 30/Jan/1958)
+  * [Joseph Hayes](../people/@49395288@-joseph-hayes-b-d.md)
 * Raymond
+  * [Frank Raymond](../people/@30488355@-frank-raymond-b-d.md)
   * [Goldie Raymond](../people/@2876469@-goldie-raymond-b1894-d2018.md) (about 1894 - before 2018)
+* Younger
+  * [Mary Younger](../people/@25511104@-mary-younger-b-d.md)

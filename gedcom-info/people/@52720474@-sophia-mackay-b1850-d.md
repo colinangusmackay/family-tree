@@ -23,3 +23,20 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 before 1850 | Born | Born. |  | 
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[1](#1) | **[1881 ROSS, JOHN (Statutory Registers Marriages 051/8)](../sources/@70380240@-1881-ross,-john-statutory-registers-marriages-051-8-.md)**
+
+## Footnotes
+
+### 1
+
+**1881 ROSS, JOHN (Statutory Registers Marriages 051/8)**
+
+* [Full text and notes](../sources/@70380240@-1881-ross,-john-statutory-registers-marriages-051-8-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1881 M 051/8
+

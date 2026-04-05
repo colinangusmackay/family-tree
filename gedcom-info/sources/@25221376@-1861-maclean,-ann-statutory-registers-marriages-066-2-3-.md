@@ -70,6 +70,8 @@ Source Last Updated | 27/Dec/2020 13:36:53
 
 ## Source Referenced by
 
+* MacLennan
+  * [Christy MacLennan](../people/@8610974@-christy-maclennan-b-d.md)
 * McIver
   * [Roderick McIver](../people/@91038040@-roderick-mciver-b1821-d1878-10-11.md) (about 1821 - 11/Oct/1878)
   * [Rodrick McIver](../people/@53638178@-rodrick-mciver-b-d.md)

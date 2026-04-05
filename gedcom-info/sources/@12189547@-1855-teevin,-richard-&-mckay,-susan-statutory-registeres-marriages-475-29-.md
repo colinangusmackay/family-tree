@@ -92,6 +92,8 @@ Source Last Updated | 28/Jan/2023 11:48:46
 
 ## Source Referenced by
 
+* Allford
+  * [Susan Allford](../people/@24534213@-susan-allford-b1807-d.md) (about 1807 - )
 * McFynn
   * [Mary McFynn](../people/@36976172@-mary-mcfynn-b-d1855.md) ( - before 1855)
 * McKay

@@ -28,6 +28,12 @@ Date | Residence | Sources & Notes
 ---|---|---
 1871 | Poolewe, Rossshire, Scotland | [1](#1)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[2](#2) | **[1878 MACIVER, RODERICK (Statutory Register of Deaths 066/1 15)](../sources/@66595592@-1878-maciver,-roderick-statutory-register-of-deaths-066-1-15-.md)**
+
 ## Footnotes
 
 ### 1
@@ -38,4 +44,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1871 C 066/1 5/ 10
+
+### 2
+
+**1878 MACIVER, RODERICK (Statutory Register of Deaths 066/1 15)**
+
+* [Full text and notes](../sources/@66595592@-1878-maciver,-roderick-statutory-register-of-deaths-066-1-15-.md)
+* Date: 21/Oct/1878
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1878 D 066/1 15
 

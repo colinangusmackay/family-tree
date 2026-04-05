@@ -72,10 +72,13 @@ Source Last Updated | 5/Jun/2022 11:24:50
 
 ## Source Referenced by
 
+* Abernethy
+  * [Janet Abernethy](../people/@82771990@-janet-abernethy-b-d.md)
 * Cumming
   * [Adam Cumming](../people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) (2/Jul/1841 - 18/Jan/1926)
   * [Elizabeth Cumming](../people/@35928164@-elizabeth-cumming-b1882-d.md) (about 1882 - )
 * Henderson
   * [Edward Henderson](../people/@4822940@-edward-henderson-b1881-d.md) (about 1881 - )
+  * [James Henderson](../people/@92250700@-james-henderson-b-d.md)
 * Mackay
   * [Ann Mackay](../people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)

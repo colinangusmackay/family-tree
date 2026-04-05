@@ -25,6 +25,8 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 * Cumming
   * [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) (26/Jul/1900 - 8/Oct/1981)
+* Fraser
+  * [Kenneth Fraser](../people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) (19/Oct/1877 - 9/May/1954)
 * Mackay
   * [Ann Mackay](../people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)
   * [Anna Jessie MacKay](../people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md) (7/Jul/1938 - 12/Mar/2021)
@@ -39,6 +41,7 @@ _Redacted because this source is referenced by a (potentially) living person and
   * [Kenneth Mackay](../people/@48909111@-kenneth-mackay-b1895-2-2-d.md) (2/Feb/1895 - )
   * [Lucy Mackay](../people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) (23/Sep/1889 - 15/May/1970)
   * [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) (27/Jun/1901 - 24/Aug/1973)
+  * [Thomas Mackay](../people/@5045152@-thomas-mackay-b1882-6-27-d1934-11-9.md) (27/Jun/1882 - 9/Nov/1934)
   * [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)
 * Matheson
   * [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)

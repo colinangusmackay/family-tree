@@ -22,6 +22,12 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 before 1993 | Died | Died. | [1](#1) | 
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[2](#2) | **[1956 MITCHELL, DONALD CHARLES & X, SYLVIA JEAN (The Berkshire Eagle, 8 Sep 1956, page 5)](../sources/@67337826@-1956-mitchell,-donald-charles-&-hoctor,-sylvia-jean-the-berkshire-eagle,-8-sep-1956,-page-5-.md)**
+
 ## Footnotes
 
 ### 1
@@ -31,4 +37,12 @@ before 1993 | Died | Died. | [1](#1) |
 * [Full text and notes](../sources/@20185916@-1993-mitchell,-sylvia-j.-the-berkshire-eagle-.md)
 * Publication: The Berkshire Eagle, Pittsfield, Massachusetts
 * Date: 12/May/1993
+
+### 2
+
+**1956 MITCHELL, DONALD CHARLES & X, SYLVIA JEAN (The Berkshire Eagle, 8 Sep 1956, page 5)**
+
+* [Full text and notes](../sources/@67337826@-1956-mitchell,-donald-charles-&-hoctor,-sylvia-jean-the-berkshire-eagle,-8-sep-1956,-page-5-.md)
+* Publication: The Berkshire Eagle
+* Date: 8/Sep/1956
 

@@ -91,5 +91,8 @@ Source Last Updated | 8/Mar/2024 11:15:55
 
 * Ross
   * [Donald Ross](../people/@4496220@-donald-ross-b1872-8-30-d.md) (30/Aug/1872 - )
+* Vanevery
+  * [Mary Vanevery](../people/@23067936@-mary-vanevery-b-d.md)
 * Walker
   * [Ollie E Walker](../people/@42365832@-ollie-e-walker-b1872-d.md) (about 1872 - )
+  * [W. J.  Walker](../people/@9365293@-w.-j.-walker-b-d.md)

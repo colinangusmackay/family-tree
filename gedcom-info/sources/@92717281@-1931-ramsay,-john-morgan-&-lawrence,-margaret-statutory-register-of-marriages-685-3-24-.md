@@ -77,6 +77,8 @@ Source Last Updated | 9/Aug/2025 22:55:24
 
 ## Source Referenced by
 
+* Campbell
+  * [Christina Campbell](../people/@24281088@-christina-campbell-b-d1931.md) ( - before 1931)
 * Lawrence
   * [Margaret Kinnomond Lawrence](../people/@71043319@-margaret-kinnomond-lawrence-b1906-d.md) (1906 - )
   * [William Lawrence](../people/@1090404@-william-lawrence-b-d.md)

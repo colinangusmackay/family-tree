@@ -32,6 +32,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1920 | Toolmaker | [1](#1)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[2](#2) | **[1990 X, MALCOLM DEWITT - The Post Star Wed May 9 1990](../sources/@93810194@-1990-roberts,-malcolm-dewitt-the-post-star-wed-may-9-1990.md)**
+
 ## Footnotes
 
 ### 1
@@ -40,4 +46,12 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@80358309@-1920-roberts,-fred-&-family-1920-united-states-federal-census-.md)
 * Publication: 1920 United States Federal Census
+
+### 2
+
+**1990 X, MALCOLM DEWITT - The Post Star Wed May 9 1990**
+
+* [Full text and notes](../sources/@93810194@-1990-roberts,-malcolm-dewitt-the-post-star-wed-may-9-1990.md)
+* Publication: The Post Star
+* Date: 9/May/1990
 

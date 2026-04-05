@@ -31,6 +31,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1911 | Sewing Machinist | [1](#1)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[2](#2) | **[1933 GILCHRIST, JAMES; HOWIE, ANNIE MURIE (Statutory Register Marriages 644/ 12 289](../sources/@95063074@-1933-gilchrist,-james;-howie,-annie-murie-statutory-register-marriages-644-12-289.md)**
+
 ## Footnotes
 
 ### 1
@@ -42,4 +48,14 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1911 M 560/ 145
+
+### 2
+
+**1933 GILCHRIST, JAMES; HOWIE, ANNIE MURIE (Statutory Register Marriages 644/ 12 289**
+
+* [Full text and notes](../sources/@95063074@-1933-gilchrist,-james;-howie,-annie-murie-statutory-register-marriages-644-12-289.md)
+* Date: 5/Sep/1933
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1933 M 644/ 12 289
 

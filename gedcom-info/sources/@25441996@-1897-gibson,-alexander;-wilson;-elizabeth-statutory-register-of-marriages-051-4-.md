@@ -77,6 +77,10 @@ Source Last Updated | 27/Apr/2024 15:37:00
 * Gibson
   * [Alexander Gibson](../people/@21968540@-alexander-gibson-b1860-d1939.md) (1860 - before 1939)
   * [Hugh Gibson](../people/@22004930@-hugh-gibson-b-d.md)
+* MacDonald
+  * [Margaret MacDonald](../people/@5053655@-margaret-macdonald-b-d.md)
+* McLean
+  * [Mary Ann McLean](../people/@87096403@-mary-ann-mclean-b1843-d.md) (about 1843 - )
 * Wilson
   * [David Wilson](../people/@15598112@-david-wilson-b1841-3-22-d.md) (22/Mar/1841 - )
   * [Elizabeth Wilson](../people/@71295041@-elizabeth-wilson-b1872-10-31-d1942.md) (31/Oct/1872 - about 1942)

@@ -90,3 +90,5 @@ Source Last Updated | 26/Jun/2022 21:48:01
   * [John Albert Mathews](../people/@5643892@-john-albert-mathews-b1895-11-21-d.md) (21/Nov/1895 - )
 * Tennant
   * [Margaret Tennant](../people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md) (19/Nov/1857 - 29/Jun/1924)
+* Wynn
+  * [Eliza Jane Wynn](../people/@63437677@-eliza-jane-wynn-b1864-d.md) (about 1864 - )

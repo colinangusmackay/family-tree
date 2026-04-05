@@ -81,3 +81,5 @@ Source Last Updated | 7/Jun/2025 00:33:15
   * [William Fullerton Crawford](../people/@48880388@-william-fullerton-crawford-b-d.md)
 * Fraser
   * [Barbara Fraser](../people/@26057486@-barbara-fraser-b1894-d.md) (1894 - )
+* Rodger
+  * [Catherine McDonald Rodger](../people/@66129376@-catherine-mcdonald-rodger-b-d.md)

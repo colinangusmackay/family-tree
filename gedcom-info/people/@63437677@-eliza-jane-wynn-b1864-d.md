@@ -32,6 +32,12 @@ Date | Residence | Sources & Notes
 ---|---|---
 1901 | 7 Queens Avenue, Factory Road, Birmingham, England | [1](#1)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[2](#2) | **[1920 MATHEWS, JOHN ALBERT & CHRISTINA FLEMING (Statutory Registers Marriages 644/10 1110)](../sources/@22441442@-1920-mathews,-john-albert-&-christina-fleming-statutory-registers-marriages-644-10-1110-.md)**
+
 ## Footnotes
 
 ### 1
@@ -43,4 +49,13 @@ Date | Residence | Sources & Notes
 * Responsible Agency: The National Archives, 1901
 * References: 
   * Class: RG13; Piece: 2850; Folio: 48; Page: 43
+
+### 2
+
+**1920 MATHEWS, JOHN ALBERT & CHRISTINA FLEMING (Statutory Registers Marriages 644/10 1110)**
+
+* [Full text and notes](../sources/@22441442@-1920-mathews,-john-albert-&-christina-fleming-statutory-registers-marriages-644-10-1110-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1920 M 644/10 1110
 

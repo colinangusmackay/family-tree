@@ -54,5 +54,8 @@ Source Last Updated | 24/Jun/2022 12:51:37
 
 ## Source Referenced by
 
-* [Hugh Grant](../people/@34164542@-hugh-grant-b1840-d.md) (about 1840 - )
-* [Hugh Grant](../people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md) (26/Feb/1863 - 10/Sep/1944)
+* Grant
+  * [Hugh Grant](../people/@34164542@-hugh-grant-b1840-d.md) (about 1840 - )
+  * [Hugh Grant](../people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md) (26/Feb/1863 - 10/Sep/1944)
+* Munro
+  * [Jessie Munro](../people/@41510480@-jessie-munro-b1829-d.md) (about 1829 - )

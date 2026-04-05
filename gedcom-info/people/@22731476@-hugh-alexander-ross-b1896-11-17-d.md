@@ -35,6 +35,12 @@ Date | Residence | Sources & Notes
 ---|---|---
 1901 | 1 Front Street, Embo, Sutherland, Scotland | 
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[2](#2) | **[1916 CUMMING, ALEXINA & ISABELLA/X ANN & X - History Links Archive](../sources/@33540129@-1916-cumming,-alexina-&-isabella-ross-ann-&-hugh-history-links-archive.md)**
+
 ## Footnotes
 
 ### 1
@@ -46,4 +52,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1896 B 047/48
+
+### 2
+
+**1916 CUMMING, ALEXINA & ISABELLA/X ANN & X - History Links Archive**
+
+* [Full text and notes](../sources/@33540129@-1916-cumming,-alexina-&-isabella-ross-ann-&-hugh-history-links-archive.md)
+* Publication: The History Links Archive
+* Date: 13/Nov/2009
+* References: 
+  * (URL) https://www.historylinksarchive.org.uk/picture/number8017
 

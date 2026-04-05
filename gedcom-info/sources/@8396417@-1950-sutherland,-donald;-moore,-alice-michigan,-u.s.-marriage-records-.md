@@ -103,4 +103,8 @@ Source Last Updated | 4/Mar/2024 22:50:14
 
 ## Source Referenced by
 
-* [Alice McCann](../people/@69495356@-alice-mccann-b1891-d.md) (about 1891 - )
+* McCann
+  * [Alice McCann](../people/@69495356@-alice-mccann-b1891-d.md) (about 1891 - )
+  * [Edward McCann](../people/@91921886@-edward-mccann-b-d.md)
+* Smith
+  * [Alice Smith](../people/@77089636@-alice-smith-b-d.md)

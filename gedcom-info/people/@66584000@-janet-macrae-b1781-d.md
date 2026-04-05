@@ -23,3 +23,21 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1781 | Born | Born. |  | 
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[1](#1) | **[1984 TULLOCH, BARRIE M - Letter from Registrar in Brora](../sources/@94133243@-1984-tulloch,-barrie-m-letter-from-registrar-in-brora.md)**
+
+## Footnotes
+
+### 1
+
+**1984 TULLOCH, BARRIE M - Letter from Registrar in Brora**
+
+* [Full text and notes](../sources/@94133243@-1984-tulloch,-barrie-m-letter-from-registrar-in-brora.md)
+* Originator / Author: John MacLennan
+* Date: 19/Jul/1984
+* Responsible Agency: Highland Regional Council
+* ![Page 1](../media/50134495_thumb.jpg) ![Page 2](../media/73992741_thumb.jpg)
+

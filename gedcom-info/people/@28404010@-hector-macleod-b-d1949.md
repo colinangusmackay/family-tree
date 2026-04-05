@@ -24,3 +24,21 @@ Date | Occupation | Sources & Notes
 ---|---|---
 Unknown | Fisherman | 
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[1](#1) | **[1949 MACKAY, MATILDA (Statutory Registers Deaths 088/184)](../sources/@28686176@-1949-mackay,-matilda-statutory-registers-deaths-088-184-.md)**
+
+## Footnotes
+
+### 1
+
+**1949 MACKAY, MATILDA (Statutory Registers Deaths 088/184)**
+
+* [Full text and notes](../sources/@28686176@-1949-mackay,-matilda-statutory-registers-deaths-088-184-.md)
+* Date: 10/Nov/1949
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1949 D 088/184
+

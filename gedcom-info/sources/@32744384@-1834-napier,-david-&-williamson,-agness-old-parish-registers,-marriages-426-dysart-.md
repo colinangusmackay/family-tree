@@ -19,4 +19,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [David Napier](../people/@71012752@-david-napier-b-d.md)
+* Napier
+  * [David Napier](../people/@71012752@-david-napier-b-d.md)
+* Williamson
+  * [William Williamson](../people/@67023796@-william-williamson-b-d.md)

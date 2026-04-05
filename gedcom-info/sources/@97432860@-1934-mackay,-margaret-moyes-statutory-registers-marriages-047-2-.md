@@ -69,6 +69,9 @@ Source Last Updated | 7/May/2020 22:23:14
 
 * Fraser
   * [Kenneth Fraser](../people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) (19/Oct/1877 - 9/May/1954)
+  * [Peter Fraser](../people/@16594334@-peter-fraser-b-d.md)
 * Mackay
+  * [Annie Mackay](../people/@503334@-annie-mackay-b1865-d1942-5-1.md) (about 1865 - 1/May/1942)
+  * [Christina Mackay](../people/@10983472@-christina-mackay-b-d.md)
   * [John Paul Mackay](../people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
   * [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) (27/Jun/1901 - 24/Aug/1973)

@@ -41,6 +41,12 @@ Date | Residence | Sources & Notes
 1861 | Ragfield, Crail, Fife, Scotland | [1](#1)
 1871 | Ragfield, Crail, Fife, Scotland | [3](#3)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[4](#4) | **[1872 RAMSAY, JOHN & MORGAN, ANN (Statutory Register of Marriages 413/ 8)](../sources/@73390380@-1872-ramsay,-john-&-morgan,-ann-statutory-register-of-marriages-413-8-.md)**
+
 ## Footnotes
 
 ### 1
@@ -71,4 +77,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1871 C 417/ 7/ 3
+
+### 4
+
+**1872 RAMSAY, JOHN & MORGAN, ANN (Statutory Register of Marriages 413/ 8)**
+
+* [Full text and notes](../sources/@73390380@-1872-ramsay,-john-&-morgan,-ann-statutory-register-of-marriages-413-8-.md)
+* Date: 25/Nov/1872
+* Responsible Agency: National Record
+* References: 
+  * 1872 M 413/ 8
 

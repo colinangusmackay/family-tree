@@ -37,6 +37,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1901 | Vulcanite Worker | [2](#2)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[3](#3) | **[2022 RAMSAY family (Conversation)](../sources/@3881135@-2022-ramsay-family-conversation-.md)**
+
 ## Footnotes
 
 ### 1
@@ -56,4 +62,12 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1901 C 685/5 25/ 4
+
+### 3
+
+**2022 RAMSAY family (Conversation)**
+
+* [Full text and notes](../sources/@3881135@-2022-ramsay-family-conversation-.md)
+* Originator / Author: Helen Margaret Mackay (née McIver)
+* Date: 26/Dec/2022
 

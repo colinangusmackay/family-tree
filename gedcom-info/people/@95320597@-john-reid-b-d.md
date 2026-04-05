@@ -22,3 +22,21 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1893 | Coal Miner | 
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[1](#1) | **[1893 REID, THOMAS MITCHELL - Statutory Registers - Births](../sources/@23502258@-1893-reid,-thomas-mitchell-statutory-registers-births.md)**
+
+## Footnotes
+
+### 1
+
+**1893 REID, THOMAS MITCHELL - Statutory Registers - Births**
+
+* [Full text and notes](../sources/@23502258@-1893-reid,-thomas-mitchell-statutory-registers-births.md)
+* Date: 26/Jan/1893
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1893 B 628/67
+

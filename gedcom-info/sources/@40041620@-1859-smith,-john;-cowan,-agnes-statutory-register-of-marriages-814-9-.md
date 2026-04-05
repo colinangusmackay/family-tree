@@ -70,6 +70,8 @@ Source Last Updated | 17/May/2025 14:54:50
 
 ## Source Referenced by
 
+* Beattie
+  * [Rachel Beattie](../people/@72822722@-rachel-beattie-b-d.md)
 * Cowan
   * [Agnes Cowan](../people/@38031148@-agnes-cowan-b1830-d1898-7-4.md) (about 1830 - 4/Jul/1898)
   * [James Cowan](../people/@66566704@-james-cowan-b-d.md)

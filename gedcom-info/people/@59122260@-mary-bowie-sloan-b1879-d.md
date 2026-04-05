@@ -37,6 +37,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1901 | Domestic Servant | [1](#1)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[2](#2) | **[1933 GILCHRIST, JAMES; HOWIE, ANNIE MURIE (Statutory Register Marriages 644/ 12 289](../sources/@95063074@-1933-gilchrist,-james;-howie,-annie-murie-statutory-register-marriages-644-12-289.md)**
+
 ## Footnotes
 
 ### 1
@@ -48,4 +54,14 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Registers of Scotland
 * References: 
   * 1901 M 622/1 187
+
+### 2
+
+**1933 GILCHRIST, JAMES; HOWIE, ANNIE MURIE (Statutory Register Marriages 644/ 12 289**
+
+* [Full text and notes](../sources/@95063074@-1933-gilchrist,-james;-howie,-annie-murie-statutory-register-marriages-644-12-289.md)
+* Date: 5/Sep/1933
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1933 M 644/ 12 289
 

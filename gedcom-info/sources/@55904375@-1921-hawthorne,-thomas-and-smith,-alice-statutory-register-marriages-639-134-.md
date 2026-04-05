@@ -72,6 +72,8 @@ Source Last Updated | 17/Jan/2023 23:18:27
 
 ## Source Referenced by
 
+* Burns
+  * [Mary Burns](../people/@81238912@-mary-burns-b-d.md)
 * Hawthorn
   * [Thomas Hawthorn](../people/@30039040@-thomas-hawthorn-b1888-6-28-d1946.md) (28/Jun/1888 - before 1946)
   * [William Hawthorn](../people/@92463484@-william-hawthorn-b1847-d1921.md) (about 1847 - before 1921)

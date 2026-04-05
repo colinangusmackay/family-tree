@@ -80,3 +80,5 @@ Source Last Updated | 1/Jul/2022 21:50:50
 * Ramsay
   * [John Ramsay](../people/@63088441@-john-ramsay-b1852-1-13-d.md) (13/Jan/1852 - )
   * [John Ramsay](../people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) (21/Feb/1880 - 20/Jun/1920)
+* Seaton
+  * [Margaret Dickson Seaton](../people/@45571672@-margaret-dickson-seaton-b1856-d.md) (about 1856 - )

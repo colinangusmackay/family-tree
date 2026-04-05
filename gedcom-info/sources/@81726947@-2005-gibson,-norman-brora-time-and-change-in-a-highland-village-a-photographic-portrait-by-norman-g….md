@@ -22,6 +22,8 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
+* Fraser
+  * [Morag Fraser](../people/@35363781@-morag-fraser-b-d2015.md) ( - 2015)
 * Gibson
   * [Alastair McDonald Gibson](../people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) (19/Jan/1914 - 1978)
   * [Alexander Gibson](../people/@21968540@-alexander-gibson-b1860-d1939.md) (1860 - before 1939)

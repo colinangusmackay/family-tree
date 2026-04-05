@@ -21,6 +21,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 * Campbell
   * [Linda Margaret Campbell](../people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md) (16/Oct/1961 - 28/Sep/2016)
+  * [Rachel Smith Campbell](../people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md) (6/Jan/1920 - 11/Dec/1998)
 * O'Malley
   * [Margaret Paton O'Malley](../people/@46723082@-margaret-paton-o'malley-b1940-9-26-d2004-4-3.md) (26/Sep/1940 - 3/Apr/2004)
   * [Thomas O'Malley](../people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md) (4/Sep/1913 - before 2004)

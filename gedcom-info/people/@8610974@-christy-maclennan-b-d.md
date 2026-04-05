@@ -17,3 +17,21 @@ permalink: /people/i8610974
 * Son: [Roderick McIver](./@91038040@-roderick-mciver-b1821-d1878-10-11.md) (about 1821 - 11/Oct/1878)
 * Daughter: [Christina McIver](./@35976399@-christina-mciver-b1841-d.md) (1841 - )
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[1](#1) | **[1861 MACLEAN, ANN (Statutory registers Marriages 066/2 3)](../sources/@25221376@-1861-maclean,-ann-statutory-registers-marriages-066-2-3-.md)**
+
+## Footnotes
+
+### 1
+
+**1861 MACLEAN, ANN (Statutory registers Marriages 066/2 3)**
+
+* [Full text and notes](../sources/@25221376@-1861-maclean,-ann-statutory-registers-marriages-066-2-3-.md)
+* Date: 16/Feb/1864
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1861 M 066/2 3
+

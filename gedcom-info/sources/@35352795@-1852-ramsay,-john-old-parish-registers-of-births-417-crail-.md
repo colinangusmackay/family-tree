@@ -21,4 +21,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [John Ramsay](../people/@63088441@-john-ramsay-b1852-1-13-d.md) (13/Jan/1852 - )
+* Morris
+  * [James Morris](../people/@82086731@-james-morris-b-d.md)
+* Ramsay
+  * [John Ramsay](../people/@63088441@-john-ramsay-b1852-1-13-d.md) (13/Jan/1852 - )

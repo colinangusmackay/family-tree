@@ -79,6 +79,8 @@ Source Last Updated | 24/Jun/2022 12:50:38
 
 ## Source Referenced by
 
+* Beatie
+  * [Margaret Beatie](../people/@2654341@-margaret-beatie-b1844-d.md) (about 1844 - )
 * Campbell
   * [William Andrew Campbell](../people/@4716977@-william-andrew-campbell-b1889-1-2-d.md) (2/Jan/1889 - )
   * [William Campbell](../people/@70442784@-william-campbell-b-d1918.md) ( - before 1918)

@@ -45,6 +45,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1841 | Linen Hand Loom Weaver | [2](#2)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[3](#3) | **[1858 NAPIER, DAVID & NICHOLSON, AGNES (Statutory Register Marriages 426/ 13)](../sources/@2961014@-1858-napier,-david-&-nicholson,-agnes-statutory-register-marriages-426-13-.md)**
+
 ## Footnotes
 
 ### 1
@@ -63,4 +69,12 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1841 C 426/ 9/ 21
+
+### 3
+
+**1858 NAPIER, DAVID & NICHOLSON, AGNES (Statutory Register Marriages 426/ 13)**
+
+* [Full text and notes](../sources/@2961014@-1858-napier,-david-&-nicholson,-agnes-statutory-register-marriages-426-13-.md)
+* Date: 27/Jan/1858
+* Responsible Agency: National Records of Scotland
 

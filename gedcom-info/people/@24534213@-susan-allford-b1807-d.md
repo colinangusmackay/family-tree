@@ -30,6 +30,12 @@ Date | Residence | Sources & Notes
 ---|---|---
 1851 | Main Street, Lennoxtown, Campsie, Scotland | [1](#1)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[2](#2) | **[1855 TEEVIN, RICHARD & MCKAY, SUSAN (Statutory Registeres Marriages 475/ 29)](../sources/@12189547@-1855-teevin,-richard-&-mckay,-susan-statutory-registeres-marriages-475-29-.md)**
+
 ## Footnotes
 
 ### 1
@@ -40,4 +46,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1851 C 475/ 3/ 18
+
+### 2
+
+**1855 TEEVIN, RICHARD & MCKAY, SUSAN (Statutory Registeres Marriages 475/ 29)**
+
+* [Full text and notes](../sources/@12189547@-1855-teevin,-richard-&-mckay,-susan-statutory-registeres-marriages-475-29-.md)
+* Date: 28/Jul/1855
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1855 M 475/ 29
 

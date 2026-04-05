@@ -38,6 +38,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 before 1982 | Auxiliary Nurse | [7](#7)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[8](#8) | **[2004 MATHEWS, JOHN ALBERT Statutory Registers - Death Index](../sources/@70959444@-2004-mathews,-john-albert-statutory-registers-death-index.md)**
+
 ## Footnotes
 
 ### 1
@@ -102,4 +108,13 @@ before 1982 | Auxiliary Nurse | [7](#7)
 * Responsible Agency: National Records of Scotland
 * References: 
   * 2009 D 772/ 72
+
+### 8
+
+**2004 MATHEWS, JOHN ALBERT Statutory Registers - Death Index**
+
+* [Full text and notes](../sources/@70959444@-2004-mathews,-john-albert-statutory-registers-death-index.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 2004 D 772/8
 

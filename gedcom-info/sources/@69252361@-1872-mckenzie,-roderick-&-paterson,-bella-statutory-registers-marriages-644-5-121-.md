@@ -75,6 +75,10 @@ Source Last Updated | 2/Jul/2022 23:10:42
 
 ## Source Referenced by
 
+* Beaton
+  * [Ann Beaton](../people/@23061759@-ann-beaton-b-d.md)
+* Mackenzie
+  * [Barbara Mackenzie](../people/@28263584@-barbara-mackenzie-b1823-d1884-4-27.md) (about 1823 - 27/Apr/1884)
 * McKenzie
   * [Murdoch McKenzie](../people/@1568232@-murdoch-mckenzie-b-d.md)
   * [Roderick McKenzie](../people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) (about 1851 - 23/Jan/1929)

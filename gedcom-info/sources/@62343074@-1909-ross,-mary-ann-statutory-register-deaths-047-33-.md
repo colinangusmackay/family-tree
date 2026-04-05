@@ -78,3 +78,4 @@ Source Last Updated | 17/Feb/2024 17:31:13
 * Ross
   * [Christina Ross](../people/@81183416@-christina-ross-b1845-d1916-4-19.md) (about 1845 - 19/Apr/1916)
   * [Jessie Ross](../people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md) (5/Nov/1840 - 13/Jan/1918)
+  * [John Ross](../people/@36837210@-john-ross-b1855-12-14-d.md) (14/Dec/1855 - )

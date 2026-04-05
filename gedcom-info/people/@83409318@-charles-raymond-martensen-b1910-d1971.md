@@ -23,6 +23,12 @@ before 1910 | Born | Born. |  |
 21/Oct/1926 | Birth of daughter | [Phylis Martensen](./@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md) born to [Charles Raymond Martensen](./@83409318@-charles-raymond-martensen-b1910-d1971.md) and [Margaret](./@17287208@-margaret-b1910-d.md). | [1](#1), [2](#2) | 
 after 1971 | Died | Died. | [3](#3) | 
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[4](#4) | **[2018 CUMMING, PHYLIS MARTENSEN - U.S. Obituary Collection 1930-Current](../sources/@26844488@-2018-cumming,-phylis-martensen-u.s.-obituary-collection-1930-current.md)**
+
 ## Footnotes
 
 ### 1
@@ -48,4 +54,12 @@ after 1971 | Died | Died. | [3](#3) |
 * [Full text and notes](../sources/@15224340@-1971-stevens,-thomas-a-the-boston-globe-wed-apr-7-1971.md)
 * Publication: The Boston Globe
 * Date: 7/Apr/1971
+
+### 4
+
+**2018 CUMMING, PHYLIS MARTENSEN - U.S. Obituary Collection 1930-Current**
+
+* [Full text and notes](../sources/@26844488@-2018-cumming,-phylis-martensen-u.s.-obituary-collection-1930-current.md)
+* Publication: The Patriot Ledger
+* Date: 2018
 

@@ -38,6 +38,12 @@ Date | Residence | Sources & Notes
 ---|---|---
 1897 | 177 New Logans, Motherwell, Scotland | [3](#3)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[4](#4) | **[1924 MCKNIGHT, RICHARD & FERN, ANNIE (Statutory Registers Marriages 625/2 45)](../sources/@66143754@-1924-mcknight,-richard-&-fern,-annie-statutory-registers-marriages-625-2-45-.md)**
+
 ## Footnotes
 
 ### 1
@@ -69,4 +75,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: North Lanarkshire Heritage Centre
 * References: 
   * CO1/37/65
+
+### 4
+
+**1924 MCKNIGHT, RICHARD & FERN, ANNIE (Statutory Registers Marriages 625/2 45)**
+
+* [Full text and notes](../sources/@66143754@-1924-mcknight,-richard-&-fern,-annie-statutory-registers-marriages-625-2-45-.md)
+* Date: 2/May/1924
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1924 M 625/2 45
 

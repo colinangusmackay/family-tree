@@ -54,4 +54,7 @@ Source Last Updated | 7/Jan/2022 23:53:25
 
 ## Source Referenced by
 
-* [John Gillie](../people/@49104732@-john-gillie-b1859-d1881-10-14.md) (about 1859 - 14/Oct/1881)
+* Gillie
+  * [John Gillie](../people/@49104732@-john-gillie-b1859-d1881-10-14.md) (about 1859 - 14/Oct/1881)
+* Mackay
+  * [Mary Mackay](../people/@78757487@-mary-mackay-b1840-d.md) (before 1840 - )

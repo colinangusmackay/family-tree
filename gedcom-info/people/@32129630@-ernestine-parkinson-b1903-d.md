@@ -45,6 +45,12 @@ Date | Occupation | Sources & Notes
 1921 | Music Hall Artist | [1](#1)
 1939 | Variety Artist, Travelling | [2](#2)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[4](#4) | **[1965 RAMSAY, BRUCE MORGAN (England & Wales, National Probate Calendar)](../sources/@81133372@-1965-ramsay,-bruce-morgan-england-&-wales,-national-probate-calendar-.md)**
+
 ## Footnotes
 
 ### 1
@@ -68,4 +74,10 @@ Date | Occupation | Sources & Notes
 
 * [Full text and notes](../sources/@27507200@-1941-ramsay,-bruce-morgan-&-parkinson,-ernestine-entry-of-marriage-.md)
 * Date: 1941
+
+### 4
+
+**1965 RAMSAY, BRUCE MORGAN (England & Wales, National Probate Calendar)**
+
+* [Full text and notes](../sources/@81133372@-1965-ramsay,-bruce-morgan-england-&-wales,-national-probate-calendar-.md)
 

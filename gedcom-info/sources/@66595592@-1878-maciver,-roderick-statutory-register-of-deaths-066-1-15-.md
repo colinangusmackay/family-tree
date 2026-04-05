@@ -51,4 +51,5 @@ Source Last Updated | 26/May/2025 20:16:37
 ## Source Referenced by
 
 * [Hector McLean McIver](../people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md) (17/Aug/1878 - 21/Feb/1938)
+* [Norman McIver](../people/@51505118@-norman-mciver-b1865-d.md) (1865 - )
 * [Roderick McIver](../people/@91038040@-roderick-mciver-b1821-d1878-10-11.md) (about 1821 - 11/Oct/1878)

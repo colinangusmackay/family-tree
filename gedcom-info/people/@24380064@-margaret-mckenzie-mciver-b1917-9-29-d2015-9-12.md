@@ -54,6 +54,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1939 | Ladies Outfitters Shop Assistant | [5](#5)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[15](#15) | **[MCIVER HECTOR/MARGARET/TOM (photo)](../sources/@71090070@-mciver-hector-margaret-tom-photo-.md)**
+
 ## Footnotes
 
 ### 1
@@ -186,4 +192,10 @@ Date | Occupation | Sources & Notes
 * [Full text and notes](../sources/@79186140@-1946-gibson,-alastair-m;-margaret-m;-m'iver,-hector-s;-helen-f;-margaret-p-register-of-voters-for-t….md)
 * Publication: Register of Voters For the City of Edinburgh and the Burgh of Leith
 * Date: 1946
+
+### 15
+
+**MCIVER HECTOR/MARGARET/TOM (photo)**
+
+* [Full text and notes](../sources/@71090070@-mciver-hector-margaret-tom-photo-.md)
 

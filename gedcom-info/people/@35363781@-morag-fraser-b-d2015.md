@@ -24,6 +24,12 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 2015 | Died | Died. | [1](#1) | 
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[2](#2) | **[2005 X, NORMAN (Brora - Time and change in a Highland village - a photographic portrait by Norman X)](../sources/@81726947@-2005-gibson,-norman-brora-time-and-change-in-a-highland-village-a-photographic-portrait-by-norman-g….md)**
+
 ## Footnotes
 
 ### 1
@@ -35,4 +41,15 @@ Date | Item | Description | Sources | Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 2015 D 177/3
+
+### 2
+
+**2005 X, NORMAN (Brora - Time and change in a Highland village - a photographic portrait by Norman X)**
+
+* [Full text and notes](../sources/@81726947@-2005-gibson,-norman-brora-time-and-change-in-a-highland-village-a-photographic-portrait-by-norman-g….md)
+* Publication: Brora - Time and change in a Highland village - a photographic portrait
+* Originator / Author: Norman X
+* Date: 2005
+* References: 
+  * (ISBN) 0-9538642-1-9
 

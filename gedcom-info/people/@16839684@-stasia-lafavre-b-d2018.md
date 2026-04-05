@@ -26,6 +26,12 @@ Date | Residence | Sources & Notes
 ---|---|---
 1971 | Quincy, Massachusetts, United States of America | [2](#2)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[3](#3) | **[2018 CUMMING, PHYLIS MARTENSEN - U.S. Obituary Collection 1930-Current](../sources/@26844488@-2018-cumming,-phylis-martensen-u.s.-obituary-collection-1930-current.md)**
+
 ## Footnotes
 
 ### 1
@@ -43,4 +49,12 @@ Date | Residence | Sources & Notes
 * [Full text and notes](../sources/@15224340@-1971-stevens,-thomas-a-the-boston-globe-wed-apr-7-1971.md)
 * Publication: The Boston Globe
 * Date: 7/Apr/1971
+
+### 3
+
+**2018 CUMMING, PHYLIS MARTENSEN - U.S. Obituary Collection 1930-Current**
+
+* [Full text and notes](../sources/@26844488@-2018-cumming,-phylis-martensen-u.s.-obituary-collection-1930-current.md)
+* Publication: The Patriot Ledger
+* Date: 2018
 

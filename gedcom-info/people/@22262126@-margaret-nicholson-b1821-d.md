@@ -30,6 +30,12 @@ Date | Residence | Sources & Notes
 ---|---|---
 1841 | Leuchars, Fife, Scotland | [1](#1)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[2](#2) | **[1866 WILSON, DAVID; MACLEAN, MARY ANN (Statutory Register Marriages 081/ 8)](../sources/@26282906@-1866-wilson,-david;-maclean,-mary-ann-statutory-register-marriages-081-8-.md)**
+
 ## Footnotes
 
 ### 1
@@ -41,4 +47,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1841 C 445/ 7/ 7
+
+### 2
+
+**1866 WILSON, DAVID; MACLEAN, MARY ANN (Statutory Register Marriages 081/ 8)**
+
+* [Full text and notes](../sources/@26282906@-1866-wilson,-david;-maclean,-mary-ann-statutory-register-marriages-081-8-.md)
+* Date: 4/Oct/1866
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1866 M 081/ 8
 

@@ -41,6 +41,13 @@ Date | Residence | Sources & Notes
 ---|---|---
 1945 | 50 Hillview Crescent, Edinburgh, Scotland | [8](#8)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[9](#9) | **[MCIVER, HECTOR/MARGARET/TOM & MRS CLEPHAN (Photo)](../sources/@48328775@-mciver,-hector-margaret-tom-&-mrs-clephan-photo-.md)**
+[10](#10) | **[MCIVER HECTOR/MARGARET/TOM (photo)](../sources/@71090070@-mciver-hector-margaret-tom-photo-.md)**
+
 ## Footnotes
 
 ### 1
@@ -117,4 +124,16 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1945 M 685/4 313
+
+### 9
+
+**MCIVER, HECTOR/MARGARET/TOM & MRS CLEPHAN (Photo)**
+
+* [Full text and notes](../sources/@48328775@-mciver,-hector-margaret-tom-&-mrs-clephan-photo-.md)
+
+### 10
+
+**MCIVER HECTOR/MARGARET/TOM (photo)**
+
+* [Full text and notes](../sources/@71090070@-mciver-hector-margaret-tom-photo-.md)
 

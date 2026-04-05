@@ -77,6 +77,12 @@ Source Last Updated | 24/Jun/2022 12:51:08
 ## Source Referenced by
 
 * Grant
+  * [Donald Grant](../people/@15156692@-donald-grant-b1820-d.md) (before 1820 - )
   * [Hugh Grant](../people/@34164542@-hugh-grant-b1840-d.md) (about 1840 - )
+* Mackay
+  * [Janet Mackay](../people/@44945539@-janet-mackay-b1820-d.md) (before 1820 - )
 * Munro
+  * [Hugh Munro](../people/@24463792@-hugh-munro-b1810-d.md) (before 1810 - )
   * [Jessie Munro](../people/@41510480@-jessie-munro-b1829-d.md) (about 1829 - )
+* Sutherland
+  * [Isabella Sutherland](../people/@80519670@-isabella-sutherland-b1810-d.md) (before 1810 - )

@@ -37,6 +37,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1915 | Weaving Mill Clerk | [1](#1)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[4](#4) | **[1939 O'MALLEY, THOMAS (Statutory registers Marriages 644/10 421)](../sources/@89657505@-1939-o'malley,-thomas-statutory-registers-marriages-644-10-421-.md)**
+
 ## Footnotes
 
 ### 1
@@ -64,4 +70,13 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1916 B 644/14 244
+
+### 4
+
+**1939 O'MALLEY, THOMAS (Statutory registers Marriages 644/10 421)**
+
+* [Full text and notes](../sources/@89657505@-1939-o'malley,-thomas-statutory-registers-marriages-644-10-421-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1939 M 644/10 421
 

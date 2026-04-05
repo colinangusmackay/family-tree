@@ -67,3 +67,6 @@ Source Last Updated | 1/Jun/2022 23:24:44
   * [Catherine Grant](../people/@5052852@-catherine-grant-b1900-d.md) (about 1900 - )
 * McLean
   * [Arthur Fred McLean](../people/@56292410@-arthur-fred-mclean-b1901-d.md) (about 1901 - )
+  * [Harvey McLean](../people/@70471714@-harvey-mclean-b-d.md)
+* Sherwood
+  * [Clara Sherwood](../people/@79435398@-clara-sherwood-b-d.md)

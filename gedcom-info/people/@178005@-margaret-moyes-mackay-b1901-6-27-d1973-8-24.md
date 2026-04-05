@@ -56,6 +56,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1934 | Fish worker in Embo, Sutherland, Scotland | [7](#7)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[15](#15) | **[MACKAY, WILLIAM ALEXANDER; MARGARET MOYES; LUCY; JOHN PAUL (Photo)](../sources/@65890512@-mackay,-william-alexander;-margaret-moyes;-lucy;-john-paul-photo-.md)**
+
 ## Notes
 
 ### Note #1
@@ -204,4 +210,10 @@ Date | Occupation | Sources & Notes
 > 6 Terrace Street, Embo: [https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656](https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656)
 >
 
+
+### 15
+
+**MACKAY, WILLIAM ALEXANDER; MARGARET MOYES; LUCY; JOHN PAUL (Photo)**
+
+* [Full text and notes](../sources/@65890512@-mackay,-william-alexander;-margaret-moyes;-lucy;-john-paul-photo-.md)
 

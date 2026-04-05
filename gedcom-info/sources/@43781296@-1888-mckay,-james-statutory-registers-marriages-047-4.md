@@ -77,3 +77,5 @@ Source Last Updated | 24/Mar/2022 14:51:45
 
 * [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
 * [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
+* [Janet Mackay](../people/@20237816@-janet-mackay-b-d.md)
+* [Kenneth Mackay](../people/@30341840@-kenneth-mackay-b-d.md)

@@ -78,6 +78,8 @@ Source Last Updated | 27/Apr/2024 21:01:27
 
 * McLean
   * [Mary Ann McLean](../people/@87096403@-mary-ann-mclean-b1843-d.md) (about 1843 - )
+* Nicholson
+  * [Margaret Nicholson](../people/@22262126@-margaret-nicholson-b1821-d.md) (about 1821 - )
 * Wilson
   * [David Wilson](../people/@15598112@-david-wilson-b1841-3-22-d.md) (22/Mar/1841 - )
   * [James Wilson](../people/@98356536@-james-wilson-b1816-d.md) (about 1816 - )

@@ -40,6 +40,12 @@ Date | Residence | Sources & Notes
 1891 | 31 Up Viewcraig Road, Edinburgh, Scotland | [2](#2)
 1901 | 10 North Richmond Street, Edinburgh, Scotland | [4](#4)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[5](#5) | **[1905 RAMSAY, JOHN (Statutory Register Marriages 685/5 18)](../sources/@83715308@-1905-ramsay,-john-statutory-register-marriages-685-5-18-.md)**
+
 ## Footnotes
 
 ### 1
@@ -76,4 +82,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1901 C 685/5 25/ 4
+
+### 5
+
+**1905 RAMSAY, JOHN (Statutory Register Marriages 685/5 18)**
+
+* [Full text and notes](../sources/@83715308@-1905-ramsay,-john-statutory-register-marriages-685-5-18-.md)
+* Date: 14/Jan/1905
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1905 M 685/5 18
 

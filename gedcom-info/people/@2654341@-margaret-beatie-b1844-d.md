@@ -33,6 +33,12 @@ Date | Residence | Sources & Notes
 ---|---|---
 1891 | Nowthill Cottage, Carlisle and Glasgow Road, Kirkpatrick-Fleming, Dumfriesshire, Scotland | [1](#1)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[2](#2) | **[1918 CAMPBELL, WILLIAM ANDREW & MCTURK, GRACE (Statutory Registers Marriages 813/A 2)](../sources/@61071920@-1918-campbell,-william-andrew-&-mcturk,-grace-statutory-registers-marriages-813-a-2-.md)**
+
 ## Footnotes
 
 ### 1
@@ -43,4 +49,13 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1891 C 837/2 1/4
+
+### 2
+
+**1918 CAMPBELL, WILLIAM ANDREW & MCTURK, GRACE (Statutory Registers Marriages 813/A 2)**
+
+* [Full text and notes](../sources/@61071920@-1918-campbell,-william-andrew-&-mcturk,-grace-statutory-registers-marriages-813-a-2-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1918 M 813/A 2
 

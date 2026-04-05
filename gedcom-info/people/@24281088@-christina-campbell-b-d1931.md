@@ -23,3 +23,20 @@ Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 before 1931 | Died | Died. |  | 
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[1](#1) | **[1931 RAMSAY, JOHN MORGAN & LAWRENCE, MARGARET (Statutory Register of Marriages 685/3 24)](../sources/@92717281@-1931-ramsay,-john-morgan-&-lawrence,-margaret-statutory-register-of-marriages-685-3-24-.md)**
+
+## Footnotes
+
+### 1
+
+**1931 RAMSAY, JOHN MORGAN & LAWRENCE, MARGARET (Statutory Register of Marriages 685/3 24)**
+
+* [Full text and notes](../sources/@92717281@-1931-ramsay,-john-morgan-&-lawrence,-margaret-statutory-register-of-marriages-685-3-24-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1931 M 685/3 24
+

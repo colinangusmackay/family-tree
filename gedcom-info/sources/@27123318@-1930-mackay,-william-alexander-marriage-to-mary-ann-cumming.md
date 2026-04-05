@@ -163,6 +163,9 @@ Place of Brith: Scotland | Scotland
 ## Source Referenced by
 
 * Cumming
+  * [Donald J Cumming](../people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
   * [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) (26/Jul/1900 - 8/Oct/1981)
+* Fraser
+  * [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) (18/Sep/1865 - 20/Jun/1946)
 * Mackay
   * [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)

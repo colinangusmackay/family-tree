@@ -84,3 +84,5 @@ Source Last Updated | 8/Dec/2024 21:52:23
 * Hunter
   * [Georgina Hunter](../people/@69291286@-georgina-hunter-b1889-d.md) (about 1889 - )
   * [James Hunter](../people/@13263378@-james-hunter-b-d.md)
+* Murie
+  * [Annie Murie](../people/@23704804@-annie-murie-b-d.md)

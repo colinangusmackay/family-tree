@@ -37,6 +37,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1881 | Fishergirl | [1](#1)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[2](#2) | **[1910 GILLIE, ANDREW (Statutory Registers Marriages 047/3)](../sources/@9099898@-1910-gillie,-andrew-statutory-registers-marriages-047-3-.md)**
+
 ## Footnotes
 
 ### 1
@@ -47,4 +53,14 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1881 M 051/8
+
+### 2
+
+**1910 GILLIE, ANDREW (Statutory Registers Marriages 047/3)**
+
+* [Full text and notes](../sources/@9099898@-1910-gillie,-andrew-statutory-registers-marriages-047-3-.md)
+* Date: 15/Jan/1910
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1910 M 047/3
 

@@ -81,6 +81,7 @@ Source Last Updated | 24/Jun/2022 12:51:29
 
 * Grant
   * [Hugh Grant](../people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md) (26/Feb/1863 - 10/Sep/1944)
+  * [Jessie Grant](../people/@31091676@-jessie-grant-b-d.md)
 * Mackay
   * [Alexander Mackay](../people/@56321492@-alexander-mackay-b-d.md)
   * [Annie Mackay](../people/@503334@-annie-mackay-b1865-d1942-5-1.md) (about 1865 - 1/May/1942)

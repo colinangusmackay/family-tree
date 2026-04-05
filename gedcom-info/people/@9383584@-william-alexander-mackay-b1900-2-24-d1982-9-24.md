@@ -93,6 +93,14 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 1938 | Cement Finisher | [23](#23)
 1979 | Retired | [3](#3)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[45](#45) | **[1971 Wedding Day Photo (X, X, Mary Ann X & Isabel, X, X, X X)](../sources/@5770084@-1971-wedding-day-photo-william,-hamish,-mary-ann-mackay-&-isabel,-alastair,-graeme,-karen-gilchrist-.md)**
+[46](#46) | **[MACKAY, WILLIAM ALEXANDER; MARGARET MOYES; LUCY; JOHN PAUL (Photo)](../sources/@65890512@-mackay,-william-alexander;-margaret-moyes;-lucy;-john-paul-photo-.md)**
+[47](#47) | **[1946 X Family Photo (Embo)](../sources/@72624888@-1946-mackay-family-photo-embo-.md)**
+
 ## Notes
 
 > Rona Griggs 2016 Ref: F9.2.11.6
@@ -491,4 +499,24 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 * Publication: The Phone Book
 * Date: 1980
 * Responsible Agency: British Telecom
+
+### 45
+
+**1971 Wedding Day Photo (X, X, Mary Ann X & Isabel, X, X, X X)**
+
+* [Full text and notes](../sources/@5770084@-1971-wedding-day-photo-william,-hamish,-mary-ann-mackay-&-isabel,-alastair,-graeme,-karen-gilchrist-.md)
+* Date: 19/Jun/1971
+
+### 46
+
+**MACKAY, WILLIAM ALEXANDER; MARGARET MOYES; LUCY; JOHN PAUL (Photo)**
+
+* [Full text and notes](../sources/@65890512@-mackay,-william-alexander;-margaret-moyes;-lucy;-john-paul-photo-.md)
+
+### 47
+
+**1946 X Family Photo (Embo)**
+
+* [Full text and notes](../sources/@72624888@-1946-mackay-family-photo-embo-.md)
+* Date: about 1946
 

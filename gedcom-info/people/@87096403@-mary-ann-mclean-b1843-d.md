@@ -44,6 +44,12 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1866 | Domestic Servant | [1](#1)
 
+## Additional Sources
+
+Footnote | Source
+---|---
+[5](#5) | **[1897 GIBSON, ALEXANDER; WILSON; ELIZABETH (Statutory Register of Marriages 051/ 4)](../sources/@25441996@-1897-gibson,-alexander;-wilson;-elizabeth-statutory-register-of-marriages-051-4-.md)**
+
 ## Footnotes
 
 ### 1
@@ -85,4 +91,14 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1881 C 051/ 1/ 21
+
+### 5
+
+**1897 GIBSON, ALEXANDER; WILSON; ELIZABETH (Statutory Register of Marriages 051/ 4)**
+
+* [Full text and notes](../sources/@25441996@-1897-gibson,-alexander;-wilson;-elizabeth-statutory-register-of-marriages-051-4-.md)
+* Date: 17/Jun/1897
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1897 M 051/ 4
 
