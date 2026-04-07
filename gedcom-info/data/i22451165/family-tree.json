@@ -4,7 +4,7 @@
     "Name": "Alexander Napier",
     "Gender": "Male",
     "DateOfBirth": "4/Nov/1872",
-    "DateOfDeath": ""
+    "DateOfDeath": "18/Apr/1952"
   },
   "Parents": [
     {
@@ -100,7 +100,7 @@
       "Name": "Alexander Napier",
       "Gender": "Male",
       "DateOfBirth": "4/Nov/1872",
-      "DateOfDeath": "",
+      "DateOfDeath": "18/Apr/1952",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -113,10 +113,10 @@
   "Spouses": [
     {
       "Id": "i30057967",
-      "Name": "Janet Dalrymple",
+      "Name": "Janet Balfour Dalrymple",
       "Gender": "Female",
-      "DateOfBirth": "about 1876",
-      "DateOfDeath": "",
+      "DateOfBirth": "16/Dec/1875",
+      "DateOfDeath": "2/Mar/1960",
       "RelationToSubject": "wife",
       "DateOfMarriage": "28/Sep/1900",
       "DateOfDivorce": ""

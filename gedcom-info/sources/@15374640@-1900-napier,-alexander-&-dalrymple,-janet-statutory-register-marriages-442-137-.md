@@ -81,10 +81,10 @@ Source Last Updated | 20/Jan/2023 22:18:43
 * Buchanan
   * [Janet Buchanan](../people/@48339564@-janet-buchanan-b-d.md)
 * Dalrymple
-  * [Janet Dalrymple](../people/@30057967@-janet-dalrymple-b1876-d.md) (about 1876 - )
+  * [Janet Balfour Dalrymple](../people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md) (16/Dec/1875 - 2/Mar/1960)
   * [John Dalrymple](../people/@90699645@-john-dalrymple-b-d.md)
 * Napier
-  * [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d.md) (4/Nov/1872 - )
+  * [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) (4/Nov/1872 - 18/Apr/1952)
   * [David Napier](../people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md) (12/Sep/1835 - 2/Nov/1901)
 * Nicholson
   * [Agnes Nicholson](../people/@65182613@-agnes-nicholson-b1835-d.md) (about 1835 - )

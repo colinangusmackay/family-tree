@@ -229,7 +229,7 @@ permalink: /indexes/by-all-names
 ## Dalrymple
 
 - **[Dalrymple](people/@48339564@-janet-buchanan-b-d.md)**
-- **[Janet Dalrymple](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
+- **[Janet Balfour Dalrymple](people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md)** (16/Dec/1875 - 2/Mar/1960)
 - **[John Dalrymple](people/@90699645@-john-dalrymple-b-d.md)**
 
 ## Davies
@@ -1016,7 +1016,7 @@ permalink: /indexes/by-all-names
 - **[Agnes Napier](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - )
 - **[Agnes Napier](people/@67902640@-agnes-napier-b1845-4-14-d.md)** (14/Apr/1845 - )
 - **[Alexander Napier](people/@42551448@-alexander-napier-b1841-10-6-d.md)** (6/Oct/1841 - )
-- **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - )
+- **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952)
 - **[Alexander Napier](people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md)** (2/May/1913 - 25/Jun/1994)
 - **[Andrew Napier](people/@90505172@-andrew-napier-b1843-6-29-d.md)** (29/Jun/1843 - )
 - **[David Napier](people/@71012752@-david-napier-b-d.md)**
@@ -1029,7 +1029,7 @@ permalink: /indexes/by-all-names
 - **[Henry Napier](people/@74931773@-henry-napier-b1870-d.md)** (1870 - )
 - **[James Napier](people/@29473130@-james-napier-b1849-1-16-d.md)** (16/Jan/1849 - )
 - **[Janet Napier](people/@44813825@-janet-napier-b1861-d.md)** (about 1861 - )
-- **[Janet Napier](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
+- **[Janet Napier](people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md)** (16/Dec/1875 - 2/Mar/1960)
 - **[Jean Napier](people/@89412864@-jean-napier-b1847-3-28-d.md)** (28/Mar/1847 - )
 - **[John Napier](people/@61882948@-john-napier-b1905-d.md)** (about 1905 - )
 - **[Mary Napier](people/@490155@-mary-napier-b1863-d.md)** (1863 - )

@@ -471,7 +471,7 @@
           "Events": [
             {
               "Date": "1919-02-12",
-              "Description": "[Johnina Hanton](/family-tree/people/i68592798) was born on 12th of February 1919 at 16:30 to [James Hanton](/family-tree/people/i71830064) and [Janet McKechnie](/family-tree/people/i47324688)."
+              "Description": "[Johnina Hanton](/family-tree/people/i68592798) was born on 12th of February 1919 at 16:30 to [James Hanton](/family-tree/people/i71830064) and [Janet McKechnie](/family-tree/people/i47324688) at 10 Mackenzie Street, Paisley, Scotland."
             },
             {
               "Date": "1934-02-12",
@@ -656,6 +656,10 @@
             {
               "Date": "1940-03-02",
               "Description": "[Thomas Sharp Crawford](/family-tree/people/i2569089) got married to [Robina Stobie Litster](/family-tree/people/i99806264) on 2nd of March 1940 in Kirkcaldy, Fife, Scotland."
+            },
+            {
+              "Date": "1960-03-02",
+              "Description": "[Janet Balfour Dalrymple](/family-tree/people/i30057967) died on 2nd of March 1960 at 17:00 at 51 East March Street, Kirkcaldy, Scotland."
             },
             {
               "Date": "1934-03-02",
@@ -1097,6 +1101,10 @@
           "Day": 18,
           "Events": [
             {
+              "Date": "1952-04-18",
+              "Description": "[Alexander Napier](/family-tree/people/i22451165) died on 18th of April 1952 in Kirkcaldy, Fife, Scotland."
+            },
+            {
               "Date": "1986-04-18",
               "Description": "[William Gardiner](/family-tree/people/i29232511) died on 18th of April 1986 in Perth, Perthshire, Scotland."
             }
@@ -1233,7 +1241,7 @@
             },
             {
               "Date": "1913-05-02",
-              "Description": "[Alexander Napier](/family-tree/people/i80968928) was born on 2nd of May 1913 at 12:40 to [Alexander Napier](/family-tree/people/i22451165) and [Janet Dalrymple](/family-tree/people/i30057967) at 8 Saint Clair Street, Sinclairtown, Dysart, Fife, Scotland."
+              "Description": "[Alexander Napier](/family-tree/people/i80968928) was born on 2nd of May 1913 at 12:40 to [Alexander Napier](/family-tree/people/i22451165) and [Janet Balfour Dalrymple](/family-tree/people/i30057967) at 8 Saint Clair Street, Sinclairtown, Dysart, Fife, Scotland."
             }
           ]
         },
@@ -2565,6 +2573,14 @@
           "Day": 28,
           "Events": [
             {
+              "Date": "1900-09-28",
+              "Description": "[Alexander Napier](/family-tree/people/i22451165) got married to [Janet Balfour Dalrymple](/family-tree/people/i30057967) on 28th of September 1900 in Kirkcaldy, Fife, Scotland."
+            },
+            {
+              "Date": "1900-09-28",
+              "Description": "[Janet Balfour Dalrymple](/family-tree/people/i30057967) got married to [Alexander Napier](/family-tree/people/i22451165) on 28th of September 1900 in Kirkcaldy, Fife, Scotland."
+            },
+            {
               "Date": "1920-09-28",
               "Description": "[Helen Fisher Ramsay](/family-tree/people/i34267190) was born on 28th of September 1920 to [John Ramsay](/family-tree/people/i64225415) and [Helen Currie Fisher](/family-tree/people/i18426904) in Edinburgh, Scotland."
             },
@@ -3401,6 +3417,10 @@
         {
           "Day": 16,
           "Events": [
+            {
+              "Date": "1875-12-16",
+              "Description": "[Janet Balfour Dalrymple](/family-tree/people/i30057967) was born on 16th of December 1875 to [John Dalrymple](/family-tree/people/i90699645) and [Janet Buchanan](/family-tree/people/i48339564) in Kirkcaldy, Fife, Scotland."
+            },
             {
               "Date": "1971-12-16",
               "Description": "[Mary Elizabeth Wilson](/family-tree/people/i99819804) died on 16th of December 1971 at Hartford Hospital, 80 Seymore St, Hartford, Connecticut, USA."

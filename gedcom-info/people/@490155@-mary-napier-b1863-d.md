@@ -15,7 +15,7 @@ permalink: /people/i490155
 * Sister: [Janet Napier](./@44813825@-janet-napier-b1861-d.md) (about 1861 - )
 * Sister: [Elizabeth Napier](./@22336798@-elizabeth-napier-b1866-11-17-d.md) (17/Nov/1866 - )
 * Brother: [Henry Napier](./@74931773@-henry-napier-b1870-d.md) (1870 - )
-* Brother: [Alexander Napier](./@22451165@-alexander-napier-b1872-11-4-d.md) (4/Nov/1872 - )
+* Brother: [Alexander Napier](./@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) (4/Nov/1872 - 18/Apr/1952)
 
 ## Timeline
 

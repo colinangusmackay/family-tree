@@ -17,6 +17,12 @@ Source Last Updated | 27/Jun/2022 23:11:43
 > A photograph of Hector McLean McIver and his wife Margaret Paterson McIver née McKenzie in the back garden at 52 Hillview Crescent, Corstorphine, Edinburgh, Scotland.
 >
 
+## Images
+
+### McIver, Hector & Margaret (original)
+
+![McIver, Hector & Margaret (original)](../media/27041312.jpg)
+
 ## Source Referenced by
 
 * McIver

@@ -269,6 +269,7 @@ permalink: /indexes/by-residence-location
 
 #### Dysart
 
+- **[Napier, David](people/@71012752@-david-napier-b-d.md)**
 - **[Napier, David](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901)
 - **[Napier, David](people/@97555316@-david-napier-b1858-4-7-d.md)** (7/Apr/1858 - )
 - **[Napier, Elizabeth](people/@22336798@-elizabeth-napier-b1866-11-17-d.md)** (17/Nov/1866 - )
@@ -285,10 +286,10 @@ permalink: /indexes/by-residence-location
 #### Kirkcaldy
 
 - **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968)
-- **[Dalrymple, Janet](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
+- **[Dalrymple, Janet Balfour](people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md)** (16/Dec/1875 - 2/Mar/1960)
 - **[Fraser, Barbara](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - )
 - **[Litster, Robina Stobie](people/@99806264@-robina-stobie-litster-b1891-d.md)** (1891 - )
-- **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - )
+- **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952)
 - **[Napier, Alexander](people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md)** (2/May/1913 - 25/Jun/1994)
 - **[Napier, David](people/@97555316@-david-napier-b1858-4-7-d.md)** (7/Apr/1858 - )
 - **[Napier, David](people/@46994217@-david-napier-b1901-d.md)** (about 1901 - )

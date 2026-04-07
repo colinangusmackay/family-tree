@@ -2695,6 +2695,17 @@
         "scotland"
       ]
     },
+    "death": {
+      "date": "on 18th of April 1952",
+      "year": 1952,
+      "month": 4,
+      "day": 18,
+      "place": [
+        "kirkcaldy",
+        "fife",
+        "scotland"
+      ]
+    },
     "marriages": [
       {
         "spouse": "i30057967",
@@ -2718,7 +2729,8 @@
         ],
         "dates": [
           1900,
-          1921
+          1921,
+          1952
         ]
       }
     ]
@@ -5327,17 +5339,31 @@
   {
     "id": "i30057967",
     "nameParts": [
+      "balfour",
       "dalrymple",
       "janet",
       "napier"
     ],
     "wholeNames": [
-      "Janet Dalrymple",
+      "Janet Balfour Dalrymple",
       "Janet Napier"
     ],
     "birth": {
-      "date": "about 1876",
-      "year": 1876,
+      "date": "on 16th of December 1875",
+      "year": 1875,
+      "month": 12,
+      "day": 16,
+      "place": [
+        "kirkcaldy",
+        "fife",
+        "scotland"
+      ]
+    },
+    "death": {
+      "date": "on 2nd of March 1960 at 17:00",
+      "year": 1960,
+      "month": 3,
+      "day": 2,
       "place": [
         "kirkcaldy",
         "fife",
@@ -5367,7 +5393,8 @@
         ],
         "dates": [
           1900,
-          1921
+          1921,
+          1960
         ]
       }
     ]
@@ -10958,6 +10985,20 @@
     "wholeNames": [
       "Dalrymple",
       "Janet Buchanan"
+    ],
+    "marriages": [
+      {
+        "spouse": "i90699645",
+        "date": "on 24th of November 1874",
+        "year": 1874,
+        "month": 11,
+        "day": 24,
+        "place": [
+          "kinghorn",
+          "fife",
+          "scotland"
+        ]
+      }
     ]
   },
   {
@@ -16952,7 +16993,12 @@
       "date": "on 12th of February 1919 at 16:30",
       "year": 1919,
       "month": 2,
-      "day": 12
+      "day": 12,
+      "place": [
+        "paisley",
+        "renfrewshire",
+        "scotland"
+      ]
     },
     "death": {
       "date": "in 2000",
@@ -17702,6 +17748,18 @@
           "dysart",
           "fife",
           "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "dysart",
+          "fife",
+          "scotland"
+        ],
+        "dates": [
+          1834
         ]
       }
     ]
@@ -20049,6 +20107,8 @@
         ],
         "dates": [
           1945,
+          1952,
+          1960,
           1961,
           1961
         ]
@@ -22167,6 +22227,20 @@
     ],
     "wholeNames": [
       "John Dalrymple"
+    ],
+    "marriages": [
+      {
+        "spouse": "i48339564",
+        "date": "on 24th of November 1874",
+        "year": 1874,
+        "month": 11,
+        "day": 24,
+        "place": [
+          "kinghorn",
+          "fife",
+          "scotland"
+        ]
+      }
     ]
   },
   {

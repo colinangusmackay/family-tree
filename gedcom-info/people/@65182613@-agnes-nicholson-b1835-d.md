@@ -22,7 +22,7 @@ permalink: /people/i65182613
 * Daughter: [Mary Napier](./@490155@-mary-napier-b1863-d.md) (1863 - )
 * Daughter: [Elizabeth Napier](./@22336798@-elizabeth-napier-b1866-11-17-d.md) (17/Nov/1866 - )
 * Son: [Henry Napier](./@74931773@-henry-napier-b1870-d.md) (1870 - )
-* Son: [Alexander Napier](./@22451165@-alexander-napier-b1872-11-4-d.md) (4/Nov/1872 - )
+* Son: [Alexander Napier](./@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) (4/Nov/1872 - 18/Apr/1952)
 
 ## Timeline
 

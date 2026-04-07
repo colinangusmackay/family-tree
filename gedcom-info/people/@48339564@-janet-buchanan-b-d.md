@@ -13,8 +13,8 @@ permalink: /people/i48339564
 
 ## Immediate Family
 
-* Partner: [John Dalrymple](./@90699645@-john-dalrymple-b-d.md)
-* Daughter: [Janet Dalrymple](./@30057967@-janet-dalrymple-b1876-d.md) (about 1876 - )
+* Husband: [John Dalrymple](./@90699645@-john-dalrymple-b-d.md)
+* Daughter: [Janet Balfour Dalrymple](./@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md) (16/Dec/1875 - 2/Mar/1960)
 
 ## Additional Sources
 

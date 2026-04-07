@@ -25,18 +25,18 @@
       "Gender": "Male",
       "DateOfBirth": "",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "24/Nov/1874",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
     {
       "Id": "i30057967",
-      "Name": "Janet Dalrymple",
+      "Name": "Janet Balfour Dalrymple",
       "Gender": "Female",
-      "DateOfBirth": "about 1876",
-      "DateOfDeath": "",
+      "DateOfBirth": "16/Dec/1875",
+      "DateOfDeath": "2/Mar/1960",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i90699645",

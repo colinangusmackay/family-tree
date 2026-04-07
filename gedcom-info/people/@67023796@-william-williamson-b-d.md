@@ -15,14 +15,14 @@ permalink: /people/i67023796
 
 Footnote | Source
 ---|---
-[1](#1) | **[1834 X, DAVID & WILLIAMSON, AGNESS (Old Parish Registers, Marriages 426/ Dysart)](../sources/@32744384@-1834-napier,-david-&-williamson,-agness-old-parish-registers,-marriages-426-dysart-.md)**
+[1](#1) | **[1834 X, DAVID & WILLIAMSON, AGNES (Old Parish Registers, Marriages 426/ Dysart)](../sources/@32744384@-1834-napier,-david-&-williamson,-agnes-old-parish-registers,-marriages-426-dysart-.md)**
 
 ## Footnotes
 
 ### 1
 
-**1834 X, DAVID & WILLIAMSON, AGNESS (Old Parish Registers, Marriages 426/ Dysart)**
+**1834 X, DAVID & WILLIAMSON, AGNES (Old Parish Registers, Marriages 426/ Dysart)**
 
-* [Full text and notes](../sources/@32744384@-1834-napier,-david-&-williamson,-agness-old-parish-registers,-marriages-426-dysart-.md)
+* [Full text and notes](../sources/@32744384@-1834-napier,-david-&-williamson,-agnes-old-parish-registers,-marriages-426-dysart-.md)
 * Responsible Agency: National Records of Scotland
 

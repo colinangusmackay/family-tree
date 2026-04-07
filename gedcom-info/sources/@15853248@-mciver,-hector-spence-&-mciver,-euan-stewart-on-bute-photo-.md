@@ -3,14 +3,14 @@ layout: page
 permalink: /sources/s15853248
 ---
 
-# X, HECTOR SPENCE/X X on Bute (Photo)
+# X, HECTOR SPENCE & X, X X on Bute (Photo)
 
 ## Metadata
 
 Field | Detail
 ---:|:---
 Source Created | 29/Jun/2022 21:03:43
-Source Last Updated | 29/Jun/2022 21:13:24
+Source Last Updated | 6/Apr/2026 20:56:23
 
 ## Text
 

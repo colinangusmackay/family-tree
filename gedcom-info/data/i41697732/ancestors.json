@@ -15,6 +15,15 @@
       "DateOfDeath": "",
       "Parents": [
         {
+          "Id": "i34461024",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
           "Id": "i78343578",
           "Name": "X",
           "Gender": "Male",

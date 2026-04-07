@@ -8,8 +8,8 @@ permalink: /people/i90699645
 
 ## Immediate Family
 
-* Partner: [Janet Buchanan](./@48339564@-janet-buchanan-b-d.md)
-* Daughter: [Janet Dalrymple](./@30057967@-janet-dalrymple-b1876-d.md) (about 1876 - )
+* Wife: [Janet Buchanan](./@48339564@-janet-buchanan-b-d.md)
+* Daughter: [Janet Balfour Dalrymple](./@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md) (16/Dec/1875 - 2/Mar/1960)
 
 ## Timeline
 
@@ -20,11 +20,33 @@ Date | Item | Description | Sources | Notes
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1900 | Mill Worker | [1](#1)
+Unknown | Mill Labourer | [1](#1)
+1875 | Field Labourer | [2](#2)
+1900 | Mill Worker | [3](#3)
 
 ## Footnotes
 
 ### 1
+
+**1960 NAPIER, JANET (Statutory Register of Deaths 442/ 147)**
+
+* [Full text and notes](../sources/@80757158@-1960-napier,-janet-statutory-register-of-deaths-442-147-.md)
+* Date: 3/Mar/1960
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1960 D 442/ 147
+
+### 2
+
+**1875 DALRYMPLE, JANET (Statutory Register Births 442/ 514)**
+
+* [Full text and notes](../sources/@44383033@-1875-dalrymple,-janet-statutory-register-births-442-514-.md)
+* Date: 30/Dec/1875
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1875 B 442/ 514
+
+### 3
 
 **1900 NAPIER, ALEXANDER & DALRYMPLE, JANET (Statutory Register Marriages 442/ 137)**
 

@@ -21,6 +21,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Sandra Sarah Bolger](people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md)** (30/Aug/1956 - 2023) and **[b Albert Mathews](people/@35875756@-b-albert-mathews-b1954-d2004.md)** (1954 - 2004) **in 1978**.
 
+## Buchanan
+
+  * **[Janet Buchanan](people/@48339564@-janet-buchanan-b-d.md)** and **[John Dalrymple](people/@90699645@-john-dalrymple-b-d.md)** **on 24th of November 1874** at Kinghorn, Fife, Scotland.
+
 ## Campbell
 
   * **[Linda Margaret Campbell](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016) and X **on 6th of June 1981** at Blackburn, West Lothian, Scotland.
@@ -78,7 +82,8 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Dalrymple
 
-  * **[Janet Dalrymple](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - ) and **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - ) **on 28th of September 1900** at Kirkcaldy, Fife, Scotland.
+  * **[Janet Balfour Dalrymple](people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md)** (16/Dec/1875 - 2/Mar/1960) and **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952) **on 28th of September 1900** at Kirkcaldy, Fife, Scotland.
+  * **[John Dalrymple](people/@90699645@-john-dalrymple-b-d.md)** and **[Janet Buchanan](people/@48339564@-janet-buchanan-b-d.md)** **on 24th of November 1874** at Kinghorn, Fife, Scotland.
 
 ## Falloon
 
@@ -413,7 +418,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Napier
 
-  * **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - ) and **[Janet Dalrymple](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - ) **on 28th of September 1900** at Kirkcaldy, Fife, Scotland.
+  * **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952) and **[Janet Balfour Dalrymple](people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md)** (16/Dec/1875 - 2/Mar/1960) **on 28th of September 1900** at Kirkcaldy, Fife, Scotland.
   * **[Alexander Napier](people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md)** (2/May/1913 - 25/Jun/1994) and **[Johnina Hanton](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000) **on 22nd of December 1945** at Paisley, Renfrewshire, Scotland.
   * **[David Napier](people/@71012752@-david-napier-b-d.md)** and **[Agnes Williamson](people/@35381484@-agnes-williamson-b1815-10-11-d.md)** (11/Oct/1815 - ) **on 22nd of November 1834** at Dysart, Fife, Scotland.
   * **[David Napier](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901) and **[Agnes Nicholson](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - ) **on 25th of January 1858** at Dysart, Fife, Scotland.

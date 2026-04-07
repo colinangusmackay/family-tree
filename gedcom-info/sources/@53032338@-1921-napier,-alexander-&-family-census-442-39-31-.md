@@ -133,8 +133,8 @@ Source Last Updated | 28/Jan/2023 20:02:00
 ## Source Referenced by
 
 * Dalrymple
-  * [Janet Dalrymple](../people/@30057967@-janet-dalrymple-b1876-d.md) (about 1876 - )
+  * [Janet Balfour Dalrymple](../people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md) (16/Dec/1875 - 2/Mar/1960)
 * Napier
-  * [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d.md) (4/Nov/1872 - )
+  * [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) (4/Nov/1872 - 18/Apr/1952)
   * [David Napier](../people/@46994217@-david-napier-b1901-d.md) (about 1901 - )
   * [John Napier](../people/@61882948@-john-napier-b1905-d.md) (about 1905 - )

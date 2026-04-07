@@ -352,7 +352,7 @@ permalink: /indexes/by-date-of-birth
   * **[Wilson, Mary](people/@23013592@-mary-wilson-b1872-d.md)** (about 1872 - )
   * **[Ross, Donald](people/@4496220@-donald-ross-b1872-8-30-d.md)** (30/Aug/1872 - )
   * **[Wilson, Elizabeth](people/@71295041@-elizabeth-wilson-b1872-10-31-d1942.md)** (31/Oct/1872 - about 1942)
-  * **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - )
+  * **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952)
 * **Born in 1873.**
   * **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
   * **[Hawthorn, Joseph](people/@16695817@-joseph-hawthorn-b1873-d.md)** (about 1873 - )
@@ -366,8 +366,8 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
   * **[Wilson, Alice](people/@71120788@-alice-wilson-b1875-d.md)** (about 1875 - )
   * **[Fleming, Ellen](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - )
+  * **[Dalrymple, Janet Balfour](people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md)** (16/Dec/1875 - 2/Mar/1960)
 * **Born in 1876.**
-  * **[Dalrymple, Janet](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
   * **[McKenzie, Barbara](people/@18932462@-barbara-mckenzie-b1876-d.md)** (about 1876 - )
   * **[Parkinson, Mildred](people/@25594216@-mildred-parkinson-b1876-d.md)** (1876 - )
   * **[Ross, Donald](people/@46967448@-donald-ross-b1876-d.md)** (1876 - )

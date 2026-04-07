@@ -48,5 +48,8 @@ Source Last Updated | 20/Jan/2023 21:34:01
 
 ## Source Referenced by
 
-* [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d.md) (4/Nov/1872 - )
-* [Alexander Napier](../people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md) (2/May/1913 - 25/Jun/1994)
+* Dalrymple
+  * [Janet Balfour Dalrymple](../people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md) (16/Dec/1875 - 2/Mar/1960)
+* Napier
+  * [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) (4/Nov/1872 - 18/Apr/1952)
+  * [Alexander Napier](../people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md) (2/May/1913 - 25/Jun/1994)

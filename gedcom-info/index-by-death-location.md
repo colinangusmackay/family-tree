@@ -71,7 +71,6 @@ permalink: /indexes/by-death-location
 - **[Cumming, William Mackay](people/@99807914@-william-mackay-cumming-b1933-d2015.md)** (1933 - 2015)
 - **[Cummings, James Edward](people/@5591850@-james-edward-cummings-b1912-1-18-d2003-12-11.md)** (18/Jan/1912 - 11/Dec/2003)
 - **[Currie, Helen](people/@14506844@-helen-currie-b-d1880.md)** ( - before 1880)
-- **[Dalrymple, Janet](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
 - **[Dalrymple, John](people/@90699645@-john-dalrymple-b-d.md)**
 - **[Davies, Ann](people/@759904@-ann-davies-b-d1875.md)** ( - before 1875)
 - **[Dickson, Catherine](people/@82920396@-catherine-dickson-b-d1944.md)** ( - before 1944)
@@ -361,7 +360,6 @@ permalink: /indexes/by-death-location
 - **[Murie, Annie](people/@23704804@-annie-murie-b-d.md)**
 - **[Napier, Agnes](people/@67902640@-agnes-napier-b1845-4-14-d.md)** (14/Apr/1845 - )
 - **[Napier, Alexander](people/@42551448@-alexander-napier-b1841-10-6-d.md)** (6/Oct/1841 - )
-- **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - )
 - **[Napier, Andrew](people/@90505172@-andrew-napier-b1843-6-29-d.md)** (29/Jun/1843 - )
 - **[Napier, David](people/@71012752@-david-napier-b-d.md)**
 - **[Napier, David](people/@97555316@-david-napier-b1858-4-7-d.md)** (7/Apr/1858 - )
@@ -659,6 +657,8 @@ permalink: /indexes/by-death-location
 #### Kirkcaldy
 
 - **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968)
+- **[Dalrymple, Janet Balfour](people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md)** (16/Dec/1875 - 2/Mar/1960)
+- **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952)
 
 ### Glasgow
 

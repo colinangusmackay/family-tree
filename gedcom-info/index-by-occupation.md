@@ -281,7 +281,7 @@ There were 4 people who worked as a Crofter.
 
 ## Dockyard Labourer
 
-* **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - ).
+* **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952).
 
 ## Domestic Servant
 
@@ -517,6 +517,10 @@ There were 7 people who worked as a Farmer.
 ## Fettler (Woollen)
 
 * **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980).
+
+## Field Labourer
+
+* **[Dalrymple, John](people/@90699645@-john-dalrymple-b-d.md)**.
 
 ## Fireman
 
@@ -893,7 +897,7 @@ There were 10 people who worked as a Labourer of some sort.
 
 * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
 * **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - ).
-* **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - ), mentioned twice.
+* **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952), mentioned twice.
 * **[Napier, David](people/@97555316@-david-napier-b1858-4-7-d.md)** (7/Apr/1858 - ).
 * **[O'Malley, Michael](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - ).
 
@@ -972,17 +976,17 @@ There were 2 people who worked as a Librarian of some sort.
 
 There were 3 people who worked as a Linen Weaver.
 
-* **[Napier, David](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901), mentioned twice.
+* **[Napier, David](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901), mentioned 3 times.
 * **[Napier, David](people/@97555316@-david-napier-b1858-4-7-d.md)** (7/Apr/1858 - ).
 * **[Nicholson, Agnes](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - ).
 
 ## Linoleum Worker
 
-* **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - ), mentioned twice.
+* **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952), mentioned 3 times.
 
 ## Linoleum Worker Labourer
 
-* **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - ).
+* **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952).
 
 ## Lithographer's Feeder
 
@@ -1064,12 +1068,16 @@ There were 2 people who worked as a Merchant.
 
 * **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1890-1-4-d.md)** (4/Jan/1890 - ).
 
+## Mill Labourer
+
+* **[Dalrymple, John](people/@90699645@-john-dalrymple-b-d.md)**.
+
 ## Mill Worker
 
 There were 3 people who worked as a Mill Worker.
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
-* **[Dalrymple, Janet](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - ).
+* **[Dalrymple, Janet Balfour](people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md)** (16/Dec/1875 - 2/Mar/1960).
 * **[Dalrymple, John](people/@90699645@-john-dalrymple-b-d.md)**.
 
 ## Millwright's Mate

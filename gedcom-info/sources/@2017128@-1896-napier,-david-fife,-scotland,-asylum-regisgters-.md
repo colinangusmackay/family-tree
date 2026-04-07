@@ -69,6 +69,7 @@ Source Last Updated | 21/Jan/2023 23:29:29
 ## Source Referenced by
 
 * Napier
+  * [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) (4/Nov/1872 - 18/Apr/1952)
   * [David Napier](../people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md) (12/Sep/1835 - 2/Nov/1901)
 * Nicholson
   * [Agnes Nicholson](../people/@65182613@-agnes-nicholson-b1835-d.md) (about 1835 - )

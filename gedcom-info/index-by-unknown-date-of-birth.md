@@ -256,7 +256,6 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
   * **[Wilson, Alice](people/@71120788@-alice-wilson-b1875-d.md)** (about 1875 - )
 * **Born in 1876.**
-  * **[Dalrymple, Janet](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
   * **[McKenzie, Barbara](people/@18932462@-barbara-mckenzie-b1876-d.md)** (about 1876 - )
   * **[Wilson, Henry](people/@5904501@-henry-wilson-b1876-d.md)** (about 1876 - )
 * **Born in 1877.**

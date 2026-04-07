@@ -21,7 +21,7 @@ permalink: /people/i22336798
 * Sister: [Janet Napier](./@44813825@-janet-napier-b1861-d.md) (about 1861 - )
 * Sister: [Mary Napier](./@490155@-mary-napier-b1863-d.md) (1863 - )
 * Brother: [Henry Napier](./@74931773@-henry-napier-b1870-d.md) (1870 - )
-* Brother: [Alexander Napier](./@22451165@-alexander-napier-b1872-11-4-d.md) (4/Nov/1872 - )
+* Brother: [Alexander Napier](./@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) (4/Nov/1872 - 18/Apr/1952)
 
 ## Timeline
 

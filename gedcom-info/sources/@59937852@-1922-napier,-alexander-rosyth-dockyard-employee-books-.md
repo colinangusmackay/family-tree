@@ -64,4 +64,4 @@ Source Last Updated | 21/Jan/2023 12:26:11
 
 ## Source Referenced by
 
-* [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d.md) (4/Nov/1872 - )
+* [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) (4/Nov/1872 - 18/Apr/1952)

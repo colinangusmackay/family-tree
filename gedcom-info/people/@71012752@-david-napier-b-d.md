@@ -9,6 +9,7 @@ permalink: /people/i71012752
 ## Immediate Family
 
 * Father: X
+* Mother: X
 * Wife: [Agnes Williamson](./@35381484@-agnes-williamson-b1815-10-11-d.md) (11/Oct/1815 - )
 * Son: [David Napier](./@41697732@-david-napier-b1835-9-12-d1901-11-2.md) (12/Sep/1835 - 2/Nov/1901)
 * Son: [Henry Napier](./@7484846@-henry-napier-b1837-9-27-d.md) (27/Sep/1837 - )
@@ -24,6 +25,12 @@ permalink: /people/i71012752
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1834 | Dysart, Fife, Scotland | [1](#1)
+
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
@@ -35,9 +42,9 @@ Date | Occupation | Sources & Notes
 
 ### 1
 
-**1834 X, DAVID & WILLIAMSON, AGNESS (Old Parish Registers, Marriages 426/ Dysart)**
+**1834 X, DAVID & WILLIAMSON, AGNES (Old Parish Registers, Marriages 426/ Dysart)**
 
-* [Full text and notes](../sources/@32744384@-1834-napier,-david-&-williamson,-agness-old-parish-registers,-marriages-426-dysart-.md)
+* [Full text and notes](../sources/@32744384@-1834-napier,-david-&-williamson,-agnes-old-parish-registers,-marriages-426-dysart-.md)
 * Responsible Agency: National Records of Scotland
 
 ### 2

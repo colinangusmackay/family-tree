@@ -171,7 +171,7 @@ permalink: /indexes/by-family-name
 
 ## Dalrymple
 
-- **[Janet Dalrymple](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
+- **[Janet Balfour Dalrymple](people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md)** (16/Dec/1875 - 2/Mar/1960)
 - **[John Dalrymple](people/@90699645@-john-dalrymple-b-d.md)**
 
 ## Davies
@@ -760,7 +760,7 @@ permalink: /indexes/by-family-name
 
 - **[Agnes Napier](people/@67902640@-agnes-napier-b1845-4-14-d.md)** (14/Apr/1845 - )
 - **[Alexander Napier](people/@42551448@-alexander-napier-b1841-10-6-d.md)** (6/Oct/1841 - )
-- **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - )
+- **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952)
 - **[Alexander Napier](people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md)** (2/May/1913 - 25/Jun/1994)
 - **[Andrew Napier](people/@90505172@-andrew-napier-b1843-6-29-d.md)** (29/Jun/1843 - )
 - **[David Napier](people/@71012752@-david-napier-b-d.md)**

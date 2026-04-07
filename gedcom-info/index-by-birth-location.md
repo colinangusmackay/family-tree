@@ -101,7 +101,6 @@ permalink: /indexes/by-birth-location
 - **[Grant, Jessie](people/@31091676@-jessie-grant-b-d.md)**
 - **[Grant, Margaret](people/@39612304@-margaret-grant-b1781-d.md)** (before 1781 - )
 - **[Gregory, Belle](people/@91101318@-belle-gregory-b-d.md)**
-- **[Hanton, Johnina](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000)
 - **[Hawthorn, William](people/@96807032@-william-hawthorn-b-d1884.md)** ( - before 1884)
 - **[Hawthorn, William](people/@92463484@-william-hawthorn-b1847-d1921.md)** (about 1847 - before 1921)
 - **[Hawthorne, Edward Joseph](people/@51411241@-edward-joseph-hawthorne-b1923-4-13-d2013.md)** (about 13/Apr/1923 - 2013)
@@ -625,7 +624,7 @@ permalink: /indexes/by-birth-location
 
 - **[Napier, Agnes](people/@67902640@-agnes-napier-b1845-4-14-d.md)** (14/Apr/1845 - )
 - **[Napier, Alexander](people/@42551448@-alexander-napier-b1841-10-6-d.md)** (6/Oct/1841 - )
-- **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - )
+- **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952)
 - **[Napier, Alexander](people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md)** (2/May/1913 - 25/Jun/1994)
 - **[Napier, Andrew](people/@90505172@-andrew-napier-b1843-6-29-d.md)** (29/Jun/1843 - )
 - **[Napier, David](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901)
@@ -649,7 +648,7 @@ permalink: /indexes/by-birth-location
 
 #### Kirkcaldy
 
-- **[Dalrymple, Janet](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - )
+- **[Dalrymple, Janet Balfour](people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md)** (16/Dec/1875 - 2/Mar/1960)
 - **[Napier, David](people/@46994217@-david-napier-b1901-d.md)** (about 1901 - )
 - **[Napier, John](people/@61882948@-john-napier-b1905-d.md)** (about 1905 - )
 
@@ -773,6 +772,7 @@ permalink: /indexes/by-birth-location
 #### Paisley
 
 - **[Hanton, John](people/@30651959@-john-hanton-b1921-1-2-d2009.md)** (2/Jan/1921 - 2009)
+- **[Hanton, Johnina](people/@68592798@-johnina-hanton-b1919-2-12-d2000.md)** (12/Feb/1919 - 2000)
 - **[Hanton, Mary](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989)
 - **[Hanton, William](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993)
 

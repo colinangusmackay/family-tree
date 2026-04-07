@@ -90,6 +90,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **21/Oct/1873** : **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ) and **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - ).
 * **1874**
   * **2/Oct/1874** : **[Alexander McTurk](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ) and **[Margaret Beatie](people/@2654341@-margaret-beatie-b1844-d.md)** (about 1844 - ) at Kirkpatrick-Fleming, Dumfriesshire, Scotland.
+  * **24/Nov/1874** : **[John Dalrymple](people/@90699645@-john-dalrymple-b-d.md)** and **[Janet Buchanan](people/@48339564@-janet-buchanan-b-d.md)** at Kinghorn, Fife, Scotland.
 * **1875**
   * **4/Jun/1875** : **[Joseph Fleming](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912) and **[Margaret Tennant](people/@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md)** (19/Nov/1857 - 29/Jun/1924) at Forth, Lanarkshire, Scotland.
 * **1876**
@@ -155,7 +156,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1900**
   * **2/Jan/1900** : **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - ) and **[May Miller](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - ).
   * **26/Jan/1900** : **[Donald Sutherland](people/@6737165@-donald-sutherland-b1874-2-8-d.md)** (8/Feb/1874 - ) and **[Jessie MacDonald](people/@97412403@-jessie-macdonald-b1869-7-7-d1941-2-12.md)** (7/Jul/1869 - 12/Feb/1941) at Golspie, Sutherland, Scotland.
-  * **28/Sep/1900** : **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d.md)** (4/Nov/1872 - ) and **[Janet Dalrymple](people/@30057967@-janet-dalrymple-b1876-d.md)** (about 1876 - ) at Kirkcaldy, Fife, Scotland.
+  * **28/Sep/1900** : **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952) and **[Janet Balfour Dalrymple](people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md)** (16/Dec/1875 - 2/Mar/1960) at Kirkcaldy, Fife, Scotland.
 * **1901**
   * **22/Jan/1901** : **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ).
   * **7/Aug/1901** : **[James Hanton](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922) and **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949) at Paisley, Renfrewshire, Scotland.
