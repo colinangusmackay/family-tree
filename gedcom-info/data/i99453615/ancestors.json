@@ -1,0 +1,66 @@
+﻿{
+  "Id": "i99453615",
+  "Name": "Peter R Howie",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about Aug/1916",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i69291286",
+      "Name": "Georgina Hunter",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1889",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i23704804",
+          "Name": "Annie Murie",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i13263378",
+          "Name": "James Hunter",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i60521938",
+      "Name": "Peter Alexander Howie",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "about Dec/1889",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i30556026",
+          "Name": "Annie Boyle",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1911",
+          "Parents": []
+        },
+        {
+          "Id": "i19655531",
+          "Name": "Peter Howie",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

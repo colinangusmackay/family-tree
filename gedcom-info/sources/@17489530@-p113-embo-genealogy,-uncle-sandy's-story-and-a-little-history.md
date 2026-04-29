@@ -33,8 +33,9 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 * Cumming
   * [Adam Cumming](../people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) (2/Jul/1841 - 18/Jan/1926)
-  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
+  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1831-d1884-5-7.md) (about 1831 - 7/May/1884)
   * [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
+  * [Donald Cumming](../people/@69575920@-donald-cumming-b1838-d1875.md) (about 1838 - after 1875)
   * [James Cumming](../people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
 * Grant
   * [Cate Grant](../people/@89641618@-cate-grant-b1849~1851-d.md) (bet' 1849 and 1851 - )
@@ -49,7 +50,7 @@ _Redacted because this source is referenced by a (potentially) living person and
   * [Catherine Mackay](../people/@26872816@-catherine-mackay-b1849~1856-d.md) (bet' 1849 and 1856 - )
   * [David Mackay](../people/@46263680@-david-mackay-b1846-d1860.md) (1846 - 1860)
   * [Donald Mackay](../people/@32633938@-donald-mackay-b1855-d.md) (about 1855 - )
-  * [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
+  * [George Mackay](../people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) (26/Oct/1811 - 25/Nov/1893)
   * [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
   * [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
   * [Jane or Jean Mackay](../people/@4172390@-jane-or-jean-mackay-b1859-d.md) (about 1859 - )

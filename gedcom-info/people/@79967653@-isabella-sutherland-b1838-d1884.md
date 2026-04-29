@@ -16,7 +16,7 @@ permalink: /people/i79967653
 
 * Father: [William Sutherland](./@72992640@-william-sutherland-b-d1856.md) ( - after 1856)
 * Mother: [Helen MacDonald](./@83660564@-helen-macdonald-b-d1856.md) ( - after 1856)
-* Husband: [Alexander Cumming](./@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
+* Husband: [Alexander Cumming](./@7028096@-alexander-cumming-b1831-d1884-5-7.md) (about 1831 - 7/May/1884)
 * Son: [William Cumming](./@90082380@-william-cumming-b1865-2-27-d.md) (27/Feb/1865 - )
 
 ## Timeline
@@ -26,8 +26,8 @@ Date | Item | Description | Sources | Notes
 1838 | Born | Born to [William Sutherland](./@72992640@-william-sutherland-b-d1856.md) and [Helen MacDonald](./@83660564@-helen-macdonald-b-d1856.md). |  | 
 after 1856 | Death of father | [William Sutherland](./@72992640@-william-sutherland-b-d1856.md) died. | [1](#1) | 
 after 1856 | Death of mother | [Helen MacDonald](./@83660564@-helen-macdonald-b-d1856.md) died. | [1](#1) | 
-5/Dec/1856 | Marriage | Married to [Alexander Cumming](./@7028096@-alexander-cumming-b1833-d1884-5-7.md)  | [1](#1) | 
-27/Feb/1865 | Birth of son | [William Cumming](./@90082380@-william-cumming-b1865-2-27-d.md) born to [Alexander Cumming](./@7028096@-alexander-cumming-b1833-d1884-5-7.md) and [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d1884.md). | [2](#2) | 
+5/Dec/1856 | Marriage | Married to [Alexander Cumming](./@7028096@-alexander-cumming-b1831-d1884-5-7.md)  | [1](#1) | 
+27/Feb/1865 | Birth of son | [William Cumming](./@90082380@-william-cumming-b1865-2-27-d.md) born to [Alexander Cumming](./@7028096@-alexander-cumming-b1831-d1884-5-7.md) and [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d1884.md). | [2](#2) | 
 after 1884 | Died | Died. | [3](#3) | 
 
 ## Known Residences

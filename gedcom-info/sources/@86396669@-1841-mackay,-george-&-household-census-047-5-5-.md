@@ -13,7 +13,7 @@ Original Document Date | 1841
 Responsible Agency | National Records of Scotland
 References | 1841 C 047/ 5/ 5
 Source Created | 31/May/2025 00:11:07
-Source Last Updated | 31/May/2025 15:45:55
+Source Last Updated | 26/Apr/2026 21:50:23
 
 ## Text
 
@@ -77,7 +77,7 @@ Source Last Updated | 31/May/2025 15:45:55
 ## Source Referenced by
 
 * Mackay
-  * [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
+  * [George Mackay](../people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) (26/Oct/1811 - 25/Nov/1893)
   * [Janet Mackay](../people/@42213240@-janet-mackay-b1840-d.md) (1840 - )
   * [John Mackay](../people/@58430005@-john-mackay-b1841-2-18-d.md) (18/Feb/1841 - )
   * [William Mackay](../people/@69114879@-william-mackay-b1781-d1841.md) (1781 - 1841)

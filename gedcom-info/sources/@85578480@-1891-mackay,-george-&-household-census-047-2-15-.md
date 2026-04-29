@@ -12,7 +12,7 @@ Field | Detail
 Responsible Agency | National Records of Scotland
 References | 1891 C 047/ 2/ 15
 Source Created | 1/Jun/2025 10:24:43
-Source Last Updated | 1/Jun/2025 10:31:08
+Source Last Updated | 26/Apr/2026 21:56:32
 
 ## Text
 
@@ -80,7 +80,7 @@ Source Last Updated | 1/Jun/2025 10:31:08
 ## Source Referenced by
 
 * Mackay
-  * [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
+  * [George Mackay](../people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) (26/Oct/1811 - 25/Nov/1893)
   * [Jane or Jean Mackay](../people/@4172390@-jane-or-jean-mackay-b1859-d.md) (about 1859 - )
 * Matheson
   * [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)

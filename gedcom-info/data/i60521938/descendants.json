@@ -3,7 +3,7 @@
   "Name": "Peter Alexander Howie",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "about 1890",
+  "DateOfBirth": "about Dec/1889",
   "DateOfDeath": "",
   "Children": [
     {
@@ -81,6 +81,15 @@
           ]
         }
       ]
+    },
+    {
+      "Id": "i99453615",
+      "Name": "Peter R Howie",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about Aug/1916",
+      "DateOfDeath": "",
+      "Children": []
     }
   ]
 }

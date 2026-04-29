@@ -11,20 +11,34 @@ permalink: /people/i89893535
 ## Names
 
 * Annie Murie Howie
-* Gilchrist (married name)
+* Annie Murie Gilchrist (married name)
 
 ## Immediate Family
 
 * Mother: [Georgina Hunter](./@69291286@-georgina-hunter-b1889-d.md) (about 1889 - )
-* Father: [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1890-d.md) (about 1890 - )
+* Father: [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1889-12-d.md) (about Dec/1889 - )
 * Husband: [James Gilchrist](./@43287262@-james-gilchrist-b1904-9-9-d1998.md) (9/Sep/1904 - 1998)
+* Brother: [Peter R Howie](./@99453615@-peter-r-howie-b1916-8-d.md) (about Aug/1916 - )
 * Son: X
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-19/Mar/1912 | Born | Born to [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1890-d.md) and [Georgina Hunter](./@69291286@-georgina-hunter-b1889-d.md) in Cathcart, Glasgow, Scotland. | [1](#1), [2](#2) | 
+19/Mar/1912 | Born | Born to [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1889-12-d.md) and [Georgina Hunter](./@69291286@-georgina-hunter-b1889-d.md) in Cathcart, Glasgow, Scotland. | [1](#1), [2](#2) | 
+1921 | Census | Census | [3](#3) | 
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1921 | 77 Westmoreland Street, Glasgow, Scotland | [3](#3)
+
+## Known Occupations
+
+Date | Occupation | Sources & Notes
+---|---|---
+1933 | Lithograpics Clerk | [2](#2)
 
 ## Footnotes
 
@@ -47,4 +61,12 @@ Date | Item | Description | Sources | Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1933 M 644/ 12 289
+
+### 3
+
+**1921 HOWIE HOUSEHOLD (1921 Census)**
+
+* [Full text and notes](../sources/@92457702@-1921-howie-household-1921-census-.md)
+* Date: 19/Jun/1921
+* Responsible Agency: National Records of Scotland
 

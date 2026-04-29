@@ -1612,7 +1612,12 @@
         },
         {
           "Day": 18,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1839-06-18",
+              "Description": "[John Cumming](/family-tree/people/i38336704) was born on 18th of June 1839 to [Donald Cumming](/family-tree/people/i45726416) and [Kate MacDonald](/family-tree/people/i28255030)."
+            }
+          ]
         },
         {
           "Day": 19,
@@ -1806,6 +1811,10 @@
         {
           "Day": 6,
           "Events": [
+            {
+              "Date": "1962-07-06",
+              "Description": "[Isabella Mackay](/family-tree/people/i25303611) got married on 6th of July 1962 at Mosspark Parish Church, Church of Scotland, 167 Ashkirk Drive, Glasgow, Scotland."
+            },
             {
               "Date": "1903-07-06",
               "Description": "[James Mackay](/family-tree/people/i60572122) died on 6th of July 1903 at 16:30."
@@ -2872,7 +2881,12 @@
         },
         {
           "Day": 26,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1811-10-26",
+              "Description": "[George Mackay](/family-tree/people/i33764614) was born on 26th of October 1811 to [William Mackay](/family-tree/people/i69114879) and [Janet Macrae](/family-tree/people/i66584000) in Embo, Sutherland, Scotland."
+            }
+          ]
         },
         {
           "Day": 27,
@@ -2977,7 +2991,7 @@
             },
             {
               "Date": "1855-11-05",
-              "Description": "[Ann Mackay](/family-tree/people/i74868546) was born on 5th of November 1855 to [George Mackay](/family-tree/people/i33764614) and [Lucy Matheson](/family-tree/people/i67811996) in Embo, Sutherland, Scotland."
+              "Description": "[Ann Mackay](/family-tree/people/i74868546) was born on 5th of November 1855 at 01:30 to [George Mackay](/family-tree/people/i33764614) and [Lucy Matheson](/family-tree/people/i67811996) in Embo, Sutherland, Scotland."
             }
           ]
         },

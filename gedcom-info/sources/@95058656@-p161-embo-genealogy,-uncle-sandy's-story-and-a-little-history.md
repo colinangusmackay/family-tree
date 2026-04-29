@@ -27,7 +27,7 @@ _Redacted because this source is referenced by a (potentially) living person and
   * [Catherine Wink Clark](../people/@35162161@-catherine-wink-clark-b1879-3-27-d.md) (27/Mar/1879 - )
 * Cumming
   * [Adam Cumming](../people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) (2/Jul/1841 - 18/Jan/1926)
-  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
+  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1831-d1884-5-7.md) (about 1831 - 7/May/1884)
   * [Alexander Cumming](../people/@7306221@-alexander-cumming-b1865-d.md) (about 1865 - )
   * [Alexandrina Cumming](../people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md) (30/Mar/1891 - 10/Apr/1987)
   * [Barbara Ann Cumming](../people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md) (30/Aug/1885 - 1977)

@@ -124,7 +124,7 @@ Source Last Updated | 10/Jul/2022 19:13:59
 ## Source Referenced by
 
 * Cumming
-  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
+  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1831-d1884-5-7.md) (about 1831 - 7/May/1884)
   * [Alexander Cumming](../people/@7306221@-alexander-cumming-b1865-d.md) (about 1865 - )
   * [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
   * [Donald J Cumming](../people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)

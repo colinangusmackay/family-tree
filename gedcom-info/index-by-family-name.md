@@ -121,19 +121,21 @@ permalink: /indexes/by-family-name
 
 - **[Adam Cumming](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926)
 - **[Alexander Cumming](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
-- **[Alexander Cumming](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
+- **[Alexander Cumming](people/@7028096@-alexander-cumming-b1831-d1884-5-7.md)** (about 1831 - 7/May/1884)
 - **[Alexander Cumming](people/@7306221@-alexander-cumming-b1865-d.md)** (about 1865 - )
 - **[Alexandrina Cumming](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
 - **[Ann Cumming](people/@19882075@-ann-cumming-b-d.md)**
 - **[Ann Cumming](people/@5075008@-ann-cumming-b-d.md)**
+- **[Ann Cumming](people/@28938235@-ann-cumming-b1847-d.md)** (about 1847 - )
 - **[Anne Cumming](people/@14926290@-anne-cumming-b1920-2-23-d2002-11-14.md)** (23/Feb/1920 - 14/Nov/2002)
 - **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md)** (30/Aug/1885 - 1977)
+- **[Catherine Cumming](people/@61803880@-catherine-cumming-b1835-d.md)** (about 1835 - )
 - **[Christine Cumming](people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md)** (15/Dec/1904 - 10/Nov/1996)
 - **[Christy Cumming](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
 - **[Donald Bernard Cumming](people/@88821212@-donald-bernard-cumming-b1938-d2025-3-9.md)** (1938 - 9/Mar/2025)
 - **[Donald Cumming](people/@24876512@-donald-cumming-b-d.md)**
-- **[Donald Cumming](people/@69575920@-donald-cumming-b-d1875.md)** ( - after 1875)
 - **[Donald Cumming](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
+- **[Donald Cumming](people/@69575920@-donald-cumming-b1838-d1875.md)** (about 1838 - after 1875)
 - **[Donald Cumming](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
 - **[Donald Cumming](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
 - **[Donald Cumming](people/@64759184@-donald-cumming-b1903-5-4-d.md)** (4/May/1903 - )
@@ -149,6 +151,7 @@ permalink: /indexes/by-family-name
 - **[James Cumming](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
 - **[Jessie Ann Cumming](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
 - **[Jessie Ann Cumming](people/@65743680@-jessie-ann-cumming-b1920-6-16-d1921-3-26.md)** (16/Jun/1920 - 26/Mar/1921)
+- **[John Cumming](people/@38336704@-john-cumming-b1839-6-18-d.md)** (18/Jun/1839 - )
 - **[John Cumming](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
 - **[John Cumming](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - )
 - **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - )
@@ -156,6 +159,7 @@ permalink: /indexes/by-family-name
 - **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1944-11-18.md)** (20/May/1863 - 18/Nov/1944)
 - **[Mary Ann Cumming](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
 - **[Thomasina Ian Cumming](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973)
+- **[William Cumming](people/@26299943@-william-cumming-b1848-d.md)** (about 1848 - )
 - **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
 - **[William Cumming](people/@10016098@-william-cumming-b1870-d.md)** (about 1870 - )
 - **[William Mackay Cumming](people/@99807914@-william-mackay-cumming-b1933-d2015.md)** (1933 - 2015)
@@ -404,8 +408,9 @@ permalink: /indexes/by-family-name
 ## Howie
 
 - **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
-- **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - )
+- **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - )
 - **[Peter Howie](people/@19655531@-peter-howie-b-d.md)**
+- **[Peter R Howie](people/@99453615@-peter-r-howie-b1916-8-d.md)** (about Aug/1916 - )
 
 ## Hunter
 
@@ -506,7 +511,7 @@ permalink: /indexes/by-family-name
 - **[Donald Mackay](people/@67781103@-donald-mackay-b-d.md)**
 - **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
 - **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939)
-- **[George Mackay](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
+- **[George Mackay](people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md)** (26/Oct/1811 - 25/Nov/1893)
 - **[George Mackay](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
 - **[George Mackay](people/@72941728@-george-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
 - **[Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881)

@@ -74,7 +74,7 @@ Source Last Updated | 24/Jun/2022 12:53:29
 ## Source Referenced by
 
 * Cumming
-  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
+  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1831-d1884-5-7.md) (about 1831 - 7/May/1884)
   * [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
 * MacDonald
   * [Helen MacDonald](../people/@83660564@-helen-macdonald-b-d1856.md) ( - after 1856)

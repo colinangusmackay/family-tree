@@ -31,7 +31,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1834**
   * **22/Nov/1834** : **[David Napier](people/@71012752@-david-napier-b-d.md)** and **[Agnes Williamson](people/@35381484@-agnes-williamson-b1815-10-11-d.md)** (11/Oct/1815 - ) at Dysart, Fife, Scotland.
 * **1838**
-  * **12/Oct/1838** : **[George Mackay](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893) and **[Lucy Matheson](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896) at Embo, Sutherland, Scotland.
+  * **12/Oct/1838** : **[George Mackay](people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md)** (26/Oct/1811 - 25/Nov/1893) and **[Lucy Matheson](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896) at Embo, Sutherland, Scotland.
 * **1839**
   * **23/Nov/1839** : **[James Wilson](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - ) and **[Margaret Nicholson](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - ) at Leuchars, Fife, Scotland.
 
@@ -53,7 +53,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **Dec/1855** : **[John Gillie](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901) and **[Elisabeth Pritchard](people/@8049072@-elisabeth-pritchard-b-d1910.md)** ( - before 1910) at Lamberton, Berwickshire, Scotland.
   * **14/Dec/1855** : **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md)** (19/Jan/1817 - 21/Feb/1894) and **[Isabella Mackay](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862) at Dornoch, Sutherland, Scotland.
 * **1856**
-  * **5/Dec/1856** : **[Alexander Cumming](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884) and **[Isabella Sutherland](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884).
+  * **5/Dec/1856** : **[Alexander Cumming](people/@7028096@-alexander-cumming-b1831-d1884-5-7.md)** (about 1831 - 7/May/1884) and **[Isabella Sutherland](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884).
 * **1857**
   * **16/Oct/1857** : **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md)** (5/Dec/1833 - 5/Oct/1876) and **[Isabella Mackay](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - ) at Dornoch, Sutherland, Scotland.
 * **1858**
@@ -186,7 +186,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **15/Jul/1910** : X and **[Lillias Fleming](people/@39306088@-lillias-fleming-b1889-5-25-d.md)** (25/May/1889 - ) at Blackburn, West Lothian, Scotland.
 * **1911**
   * **28/Jul/1911** : **[Elizabeth Cumming](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ) and **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - ) at Boston, Massachusetts, United States of America.
-  * **8/Sep/1911** : **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - ) and **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ) at Cathcart, Glasgow, Scotland.
+  * **8/Sep/1911** : **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - ) and **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ) at Cathcart, Glasgow, Scotland.
   * **30/Nov/1911** : **[Edward O'Malley](people/@76741424@-edward-o'malley-b1890-1-4-d.md)** (4/Jan/1890 - ) and **[Agnes Watson Thomson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - ) at Glasgow, Scotland.
 * **1912**
   * **16/Jan/1912** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) at Dornoch, Sutherland, Scotland.
@@ -297,7 +297,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **28/May/1960** : X and **[Sandra Jane Roberts](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019).
   * **30/Jul/1960** : **[Derry Roberts](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025) and **[Anna Jessie MacKay](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021) at Bolton, New York, United States of America.
 * **1962**
-  * **1962** : X and **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019) at Glasgow, Scotland.
+  * **6/Jul/1962** : X and **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019) at Glasgow, Scotland.
 * **1965**
   * **1965** : **[Norman Alexander Gibson](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024) and **[Morag Fraser](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015) at Aberdeen, Aberdeenshire, Scotland.
   * **1965** : X and **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) at Paisley, Renfrewshire, Scotland.

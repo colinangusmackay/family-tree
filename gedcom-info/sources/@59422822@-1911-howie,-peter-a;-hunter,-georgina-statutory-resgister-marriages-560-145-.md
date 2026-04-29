@@ -79,7 +79,7 @@ Source Last Updated | 8/Dec/2024 21:52:23
 * Boyle
   * [Annie Boyle](../people/@30556026@-annie-boyle-b-d1911.md) ( - before 1911)
 * Howie
-  * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-d.md) (about 1890 - )
+  * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1889-12-d.md) (about Dec/1889 - )
   * [Peter Howie](../people/@19655531@-peter-howie-b-d.md)
 * Hunter
   * [Georgina Hunter](../people/@69291286@-georgina-hunter-b1889-d.md) (about 1889 - )

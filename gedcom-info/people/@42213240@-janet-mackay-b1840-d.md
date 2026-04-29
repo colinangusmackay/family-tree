@@ -15,7 +15,7 @@ permalink: /people/i42213240
 ## Immediate Family
 
 * Husband: X
-* Father: [George Mackay](./@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
+* Father: [George Mackay](./@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) (26/Oct/1811 - 25/Nov/1893)
 * Mother: [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)
 * Brother: [John Mackay](./@58430005@-john-mackay-b1841-2-18-d.md) (18/Feb/1841 - )
 * Brother: [William Mackay](./@99871003@-william-mackay-b1843~1846-d.md) (bet' 1843 and 1846 - )
@@ -32,7 +32,7 @@ permalink: /people/i42213240
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-1840 | Born | Born to [George Mackay](./@33764614@-george-mackay-b1805~1816-d1893-11-25.md) and [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md). | [1](#1), [2](#2) | 
+1840 | Born | Born to [George Mackay](./@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) and [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md). | [1](#1), [2](#2) | 
 
 ## Known Residences
 

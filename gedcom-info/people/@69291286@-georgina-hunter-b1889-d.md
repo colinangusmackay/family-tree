@@ -16,8 +16,9 @@ permalink: /people/i69291286
 
 * Father: [James Hunter](./@13263378@-james-hunter-b-d.md)
 * Mother: [Annie Murie](./@23704804@-annie-murie-b-d.md)
-* Husband: [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1890-d.md) (about 1890 - )
+* Husband: [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1889-12-d.md) (about Dec/1889 - )
 * Daughter: [Annie Murie Howie](./@89893535@-annie-murie-howie-b1912-3-19-d.md) (19/Mar/1912 - )
+* Son: [Peter R Howie](./@99453615@-peter-r-howie-b1916-8-d.md) (about Aug/1916 - )
 
 ## Timeline
 

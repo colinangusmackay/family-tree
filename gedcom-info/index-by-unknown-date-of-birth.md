@@ -48,7 +48,6 @@ This is a list of people who have vague or unknown dates of birth.
 ### 1800s
 
 * **Born in 1805.**
-  * **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
   * **[Morrison, Mary](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
 * **Born in 1806.**
   * **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
@@ -97,13 +96,18 @@ This is a list of people who have vague or unknown dates of birth.
 
 * **Born in 1830.**
   * **[Cowan, Agnes](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898)
+* **Born in 1831.**
+  * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1831-d1884-5-7.md)** (about 1831 - 7/May/1884)
 * **Born in 1834.**
   * **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923)
 * **Born in 1835.**
+  * **[Cumming, Catherine](people/@61803880@-catherine-cumming-b1835-d.md)** (about 1835 - )
   * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
   * **[Nicholson, Agnes](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - )
 * **Born in 1837.**
   * **[Wilson, Margaret](people/@63936152@-margaret-wilson-b1837-d.md)** (about 1837 - )
+* **Born in 1838.**
+  * **[Cumming, Donald](people/@69575920@-donald-cumming-b1838-d1875.md)** (about 1838 - after 1875)
 * **Born in 1839.**
   * **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - )
 
@@ -135,9 +139,11 @@ This is a list of people who have vague or unknown dates of birth.
   * **[McLean, Christy](people/@62955988@-christy-mclean-b1846-d.md)** (about 1846 - )
   * **[Ross, Catherine](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - )
 * **Born in 1847.**
+  * **[Cumming, Ann](people/@28938235@-ann-cumming-b1847-d.md)** (about 1847 - )
   * **[Fraser, Peter](people/@16594334@-peter-fraser-b1847-d.md)** (about 1847 - )
   * **[Hawthorn, William](people/@92463484@-william-hawthorn-b1847-d1921.md)** (about 1847 - before 1921)
 * **Born in 1848.**
+  * **[Cumming, William](people/@26299943@-william-cumming-b1848-d.md)** (about 1848 - )
   * **[Fisher, John](people/@60298048@-john-fisher-b1848-d.md)** (about 1848 - )
   * **[Mackay, Christina](people/@10983472@-christina-mackay-b1848-d.md)** (about 1848 - )
   * **[Paterson, Margaret](people/@93188721@-margaret-paterson-b1848-d.md)** (about 1848 - )
@@ -309,12 +315,12 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Hayes, Claude](people/@99088640@-claude-hayes-b1889-d1958-1-30.md)** (about 1889 - 30/Jan/1958)
   * **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
   * **[McKnight, Susan](people/@87185096@-susan-mcknight-b1889-d.md)** (about 1889 - )
+  * **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - )
 
 ### 1890s
 
 * **Born in 1890.**
   * **[Campbell, James](people/@16864904@-james-campbell-b1890-d.md)** (about 1890 - )
-  * **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - )
   * **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
 * **Born in 1891.**
   * **[McCann, Alice](people/@69495356@-alice-mccann-b1891-d.md)** (about 1891 - )
@@ -378,6 +384,7 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1916.**
   * **[Hanton, Marion](people/@27083581@-marion-hanton-b1916-d2014.md)** (about 1916 - 2014)
   * **[Russell, Martha](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963)
+  * **[Howie, Peter R](people/@99453615@-peter-r-howie-b1916-8-d.md)** (about Aug/1916 - )
 * **Born in 1918.**
   * **[McAughtrie, Mary Houston](people/@54273056@-mary-houston-mcaughtrie-b1918-d.md)** (about 1918 - )
 
@@ -430,7 +437,6 @@ This is a list of people who have vague or unknown dates of birth.
 * [Ann Cumming](people/@19882075@-ann-cumming-b-d.md)
 * [Ann Cumming](people/@5075008@-ann-cumming-b-d.md)
 * [Donald Cumming](people/@24876512@-donald-cumming-b-d.md)
-* [Donald Cumming](people/@69575920@-donald-cumming-b-d1875.md) ( - after 1875)
 * [Helen Currie](people/@14506844@-helen-currie-b-d1880.md) ( - before 1880)
 * [John Dalrymple](people/@90699645@-john-dalrymple-b-d.md)
 * [Ann Davies](people/@759904@-ann-davies-b-d1875.md) ( - before 1875)

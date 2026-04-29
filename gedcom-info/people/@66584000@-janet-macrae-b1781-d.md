@@ -15,13 +15,19 @@ permalink: /people/i66584000
 ## Immediate Family
 
 * Husband: [William Mackay](./@69114879@-william-mackay-b1781-d1841.md) (1781 - 1841)
-* Son: [George Mackay](./@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
+* Son: [George Mackay](./@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) (26/Oct/1811 - 25/Nov/1893)
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1781 | Born | Born. |  | 
+
+## Known Residences
+
+Date | Residence | Sources & Notes
+---|---|---
+1811 | Embo, Sutherland, Scotland | 
 
 ## Additional Sources
 

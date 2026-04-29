@@ -9,11 +9,11 @@ permalink: /sources/s9603929
 
 Field | Detail
 ---:|:---
-Original Document Date | 1921
+Original Document Date | 19/Jun/1921
 Responsible Agency | National Records of Scotland
 References | 1921 C 052/ 3/ 10
 Source Created | 7/Jun/2025 20:53:58
-Source Last Updated | 7/Jun/2025 21:20:31
+Source Last Updated | 26/Apr/2026 15:16:13
 
 ## Text
 

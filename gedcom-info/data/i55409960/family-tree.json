@@ -26,24 +26,10 @@
   ],
   "Siblings": [
     {
-      "Id": "i69575920",
-      "Name": "Donald Cumming",
-      "Gender": "Male",
-      "DateOfBirth": "",
-      "DateOfDeath": "after 1875",
-      "RelationToSubject": "brother",
-      "ParentGroupIds": [
-        [
-          "i28255030",
-          "i45726416"
-        ]
-      ]
-    },
-    {
       "Id": "i7028096",
       "Name": "Alexander Cumming",
       "Gender": "Male",
-      "DateOfBirth": "1833",
+      "DateOfBirth": "about 1831",
       "DateOfDeath": "7/May/1884",
       "RelationToSubject": "brother",
       "ParentGroupIds": [
@@ -68,12 +54,82 @@
       ]
     },
     {
+      "Id": "i61803880",
+      "Name": "Catherine Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "about 1835",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    },
+    {
+      "Id": "i69575920",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1838",
+      "DateOfDeath": "after 1875",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    },
+    {
+      "Id": "i38336704",
+      "Name": "John Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "18/Jun/1839",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    },
+    {
       "Id": "i55409960",
       "Name": "Adam Cumming",
       "Gender": "Male",
       "DateOfBirth": "2/Jul/1841",
       "DateOfDeath": "18/Jan/1926",
       "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    },
+    {
+      "Id": "i28938235",
+      "Name": "Ann Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "about 1847",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i28255030",
+          "i45726416"
+        ]
+      ]
+    },
+    {
+      "Id": "i26299943",
+      "Name": "William Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "about 1848",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
           "i28255030",

@@ -47,4 +47,4 @@ Source Last Updated | 8/Dec/2024 21:13:34
 ## Source Referenced by
 
 * [Annie Murie Howie](../people/@89893535@-annie-murie-howie-b1912-3-19-d.md) (19/Mar/1912 - )
-* [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-d.md) (about 1890 - )
+* [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1889-12-d.md) (about Dec/1889 - )

@@ -67,7 +67,7 @@ There were 4 people who worked as a Blacksmith of some sort.
 
 There were 2 people who worked as a Bookkeeper.
 
-* **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
+* **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986), mentioned twice.
 * **[Predendall, Carrie Elizabeth](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - ).
 
 ## Brass Finisher
@@ -166,7 +166,7 @@ There were 5 people who worked as a Carpenter of some sort.
 
 ## Cement Finisher
 
-* **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982), mentioned 5 times.
+* **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982), mentioned 6 times.
 
 ## Chartered Accountant
 
@@ -174,15 +174,15 @@ There were 5 people who worked as a Carpenter of some sort.
 
 ## Cheese Merchant
 
-* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - ).
+* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - ).
 
 ## Cheese Merchant's Salesman
 
-* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - ).
+* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - ).
 
 ## Cheese Storeman
 
-* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - ).
+* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - ).
 
 ## Child Care Professional
 
@@ -217,7 +217,7 @@ There were 2 people who worked as a Child day care business owner.
 There were 2 people who worked as a Clerk.
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
-* **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973).
+* **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973), mentioned twice.
 
 ## Clerk (Film Trade)
 
@@ -278,6 +278,10 @@ There were 4 people who worked as a Crofter.
 ## Director of Studies in Art
 
 * **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024).
+
+## Dispatch Clerk
+
+* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - ).
 
 ## Dockyard Labourer
 
@@ -362,7 +366,7 @@ There were 13 people who worked as a Driver of some sort.
 #### Carter
 
 * **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968).
-* **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - ).
+* **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - ), mentioned twice.
 * **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
 * **[Sloan, James](people/@16524688@-james-sloan-b-d1901.md)** ( - before 1901).
 
@@ -543,7 +547,8 @@ There were 78 people who worked as a Fish Worker of some sort.
 
 #### Fisher
 
-* **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893).
+* **[Mackay, George](people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md)** (26/Oct/1811 - 25/Nov/1893).
+* **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
 * **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896).
 
 #### Fishergirl
@@ -554,8 +559,8 @@ There were 78 people who worked as a Fish Worker of some sort.
 #### Fisherman
 
 * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926), mentioned 3 times.
-* **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884), mentioned 3 times.
-* **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875), mentioned 3 times.
+* **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1831-d1884-5-7.md)** (about 1831 - 7/May/1884), mentioned 4 times.
+* **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875), mentioned 4 times.
 * **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 12 times.
 * **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923), mentioned 7 times.
 * **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - ).
@@ -588,7 +593,7 @@ There were 78 people who worked as a Fish Worker of some sort.
 * **[Mackay, Donald](people/@67781103@-donald-mackay-b-d.md)**.
 * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ).
 * **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939).
-* **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 7 times.
+* **[Mackay, George](people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md)** (26/Oct/1811 - 25/Nov/1893), mentioned 8 times.
 * **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - ), mentioned twice.
 * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903), mentioned 9 times.
 * **[Mackay, John](people/@69392899@-john-mackay-b-d.md)**.
@@ -648,14 +653,15 @@ There were 78 people who worked as a Fish Worker of some sort.
 
 There were 63 people who worked as a Fisher of some sort.
 
-* **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893).
+* **[Mackay, George](people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md)** (26/Oct/1811 - 25/Nov/1893).
+* **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
 * **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896).
 
 #### Fisherman
 
 * **[Cumming, Adam](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926), mentioned 3 times.
-* **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884), mentioned 3 times.
-* **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875), mentioned 3 times.
+* **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1831-d1884-5-7.md)** (about 1831 - 7/May/1884), mentioned 4 times.
+* **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875), mentioned 4 times.
 * **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940), mentioned 12 times.
 * **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923), mentioned 7 times.
 * **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - ).
@@ -688,7 +694,7 @@ There were 63 people who worked as a Fisher of some sort.
 * **[Mackay, Donald](people/@67781103@-donald-mackay-b-d.md)**.
 * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ).
 * **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939).
-* **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893), mentioned 7 times.
+* **[Mackay, George](people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md)** (26/Oct/1811 - 25/Nov/1893), mentioned 8 times.
 * **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - ), mentioned twice.
 * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903), mentioned 9 times.
 * **[Mackay, John](people/@69392899@-john-mackay-b-d.md)**.
@@ -728,6 +734,10 @@ There were 3 people who worked as a Fisherman's Wife.
 * **[Mackay, Ann](people/@59598912@-ann-mackay-b1835-d.md)** (1835 - ), mentioned twice.
 * **[Matheson, Lucy](people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md)** (bet' 1813 and 1820 - 23/Aug/1896).
 * **[Ross, Catherine](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - ).
+
+## Fitter (Post Office Engineering Department)
+
+* **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998).
 
 ## Fixer Corporation Tramways
 
@@ -992,6 +1002,10 @@ There were 3 people who worked as a Linen Weaver.
 
 * **[McKenzie, Margaret Paterson](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964).
 
+## Lithograpics Clerk
+
+* **[Howie, Annie Murie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - ).
+
 ## Machinery Painter
 
 * **[Flood, James](people/@27080584@-james-flood-b-d.md)**.
@@ -1061,6 +1075,10 @@ There were 2 people who worked as a Merchant.
 > The education and training for a midwife concentrates extensively on the care of women throughout their lifespan; concentrating on being experts in what is normal and identifying conditions that need further evaluation. In most countries, midwives are recognised as skilled healthcare providers. Midwives are trained to recognise variations from the normal progress of labour and understand how to deal with deviations from normal. They may intervene in high risk situations such as breech births, twin births, and births where the baby is in a posterior position, using non-invasive techniques. For complications related to pregnancy and birth that are beyond the midwife's scope of practice, including surgical and instrumental deliveries, they refer their patients to physicians or surgeons.
 > 
 > -- From Wikipedia: [Midwife](https://en.wikipedia.org/wiki/Midwife)
+
+* **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019).
+
+## Midwifery Sister
 
 * **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019).
 
@@ -1476,6 +1494,10 @@ There were 2 people who worked as a Stenographer.
 
 * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973), mentioned 4 times.
 * **[Cumming, Wilma May](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009).
+
+## Storekeepker
+
+* **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987).
 
 ## Student
 

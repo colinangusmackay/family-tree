@@ -40,16 +40,20 @@ permalink: /indexes/by-birth-location
 - **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968)
 - **[Crawford, William Fullerton](people/@48880388@-william-fullerton-crawford-b-d.md)**
 - **[Cumming, Alexander](people/@1900151@-alexander-cumming-b1779-d.md)** (before 1779 - )
-- **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1833-d1884-5-7.md)** (1833 - 7/May/1884)
+- **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1831-d1884-5-7.md)** (about 1831 - 7/May/1884)
 - **[Cumming, Ann](people/@19882075@-ann-cumming-b-d.md)**
 - **[Cumming, Ann](people/@5075008@-ann-cumming-b-d.md)**
+- **[Cumming, Ann](people/@28938235@-ann-cumming-b1847-d.md)** (about 1847 - )
+- **[Cumming, Catherine](people/@61803880@-catherine-cumming-b1835-d.md)** (about 1835 - )
 - **[Cumming, Christy](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
 - **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3-9.md)** (1938 - 9/Mar/2025)
 - **[Cumming, Donald](people/@24876512@-donald-cumming-b-d.md)**
-- **[Cumming, Donald](people/@69575920@-donald-cumming-b-d1875.md)** ( - after 1875)
 - **[Cumming, Donald](people/@45726416@-donald-cumming-b1806-d1875-10-2.md)** (about 1806 - 2/Oct/1875)
+- **[Cumming, Donald](people/@69575920@-donald-cumming-b1838-d1875.md)** (about 1838 - after 1875)
 - **[Cumming, Elizabeth](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - )
+- **[Cumming, John](people/@38336704@-john-cumming-b1839-6-18-d.md)** (18/Jun/1839 - )
 - **[Cumming, John](people/@87723702@-john-cumming-b1873-d.md)** (about 1873 - )
+- **[Cumming, William](people/@26299943@-william-cumming-b1848-d.md)** (about 1848 - )
 - **[Cumming, William](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - )
 - **[Cumming, William Mackay](people/@99807914@-william-mackay-cumming-b1933-d2015.md)** (1933 - 2015)
 - **[Currie, Helen](people/@14506844@-helen-currie-b-d1880.md)** ( - before 1880)
@@ -118,7 +122,7 @@ permalink: /indexes/by-birth-location
 - **[Hendry, Agnes Gibb](people/@79368912@-agnes-gibb-hendry-b-d1936.md)** ( - after 1936)
 - **[Hoctor, James A](people/@72154199@-james-a-hoctor-b-d1993.md)** ( - before 1993)
 - **[Hoctor, Timothy](people/@74378972@-timothy-hoctor-b-d1993.md)** ( - before 1993)
-- **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-d.md)** (about 1890 - )
+- **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - )
 - **[Howie, Peter](people/@19655531@-peter-howie-b-d.md)**
 - **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
 - **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**
@@ -143,7 +147,6 @@ permalink: /indexes/by-birth-location
 - **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
 - **[MacDonald, James](people/@74881641@-james-macdonald-b1842-d1880-1-14.md)** (about 1842 - 14/Jan/1880)
 - **[MacDonald, Jessie](people/@97412403@-jessie-macdonald-b1869-7-7-d1941-2-12.md)** (7/Jul/1869 - 12/Feb/1941)
-- **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d1875-10-29.md)** (about 1807 - 29/Oct/1875)
 - **[MacDonald, Margaret](people/@5053655@-margaret-macdonald-b-d.md)**
 - **[MacDonald, Mary](people/@10426344@-mary-macdonald-b-d1900.md)** ( - after 1900)
 - **[Mackay, Alexander](people/@56321492@-alexander-mackay-b-d.md)**
@@ -170,7 +173,6 @@ permalink: /indexes/by-birth-location
 - **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - )
 - **[Mackay, Donald](people/@67781103@-donald-mackay-b-d.md)**
 - **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - )
-- **[Mackay, George](people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md)** (bet' 1805 and 1816 - 25/Nov/1893)
 - **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
 - **[Mackay, Isabella](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881)
 - **[Mackay, Isabella](people/@86403902@-isabella-mackay-b-d.md)**
@@ -690,6 +692,7 @@ permalink: /indexes/by-birth-location
 #### Cathcart
 
 - **[Howie, Annie Murie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
+- **[Howie, Peter R](people/@99453615@-peter-r-howie-b1916-8-d.md)** (about Aug/1916 - )
 
 ### Glasgow City
 
@@ -889,6 +892,7 @@ permalink: /indexes/by-birth-location
 - **[Mackay, Annie](people/@51252926@-annie-mackay-b1892-12-15-d1918.md)** (15/Dec/1892 - 1918)
 - **[Mackay, Barbra](people/@60643714@-barbra-mackay-b1871-8-25-d.md)** (25/Aug/1871 - )
 - **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939)
+- **[Mackay, George](people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md)** (26/Oct/1811 - 25/Nov/1893)
 - **[Mackay, George](people/@72941728@-george-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
 - **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923)
 - **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
@@ -927,6 +931,7 @@ permalink: /indexes/by-birth-location
 #### Golspie
 
 - **[MacDonald, Alexander](people/@81905126@-alexander-macdonald-b1867-3-5-d1928-9-5.md)** (5/Mar/1867 - 5/Sep/1928)
+- **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d1875-10-29.md)** (about 1807 - 29/Oct/1875)
 - **[MacDonald, William](people/@76505641@-william-macdonald-b1865-1-9-d1898-5-12.md)** (9/Jan/1865 - 12/May/1898)
 - **[Sutherland, Donald](people/@6737165@-donald-sutherland-b1874-2-8-d.md)** (8/Feb/1874 - )
 - **[Wilson, Alice](people/@71120788@-alice-wilson-b1875-d.md)** (about 1875 - )

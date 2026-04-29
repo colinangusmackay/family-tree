@@ -169,7 +169,7 @@ Source Last Updated | 24/Jul/2022 11:58:27
 ## Source Referenced by
 
 * Cumming
-  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
+  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1831-d1884-5-7.md) (about 1831 - 7/May/1884)
   * [Barbara Ann Cumming](../people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md) (30/Aug/1885 - 1977)
   * [Christy Cumming](../people/@94377968@-christy-cumming-b1878-d.md) (about 1878 - )
   * [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)

@@ -13,7 +13,7 @@ Original Document Date | 1861
 Responsible Agency | National Registers of Scotland
 References | 1861 C 047/ 1/ 15
 Source Created | 31/May/2025 19:36:18
-Source Last Updated | 31/May/2025 21:22:06
+Source Last Updated | 26/Apr/2026 21:53:35
 
 ## Text
 
@@ -177,7 +177,7 @@ Source Last Updated | 31/May/2025 21:22:06
   * [Catherine Mackay](../people/@26872816@-catherine-mackay-b1849~1856-d.md) (bet' 1849 and 1856 - )
   * [David Mackay](../people/@46263680@-david-mackay-b1846-d1860.md) (1846 - 1860)
   * [Donald Mackay](../people/@32633938@-donald-mackay-b1855-d.md) (about 1855 - )
-  * [George Mackay](../people/@33764614@-george-mackay-b1805~1816-d1893-11-25.md) (bet' 1805 and 1816 - 25/Nov/1893)
+  * [George Mackay](../people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) (26/Oct/1811 - 25/Nov/1893)
   * [Jane or Jean Mackay](../people/@4172390@-jane-or-jean-mackay-b1859-d.md) (about 1859 - )
   * [Janet Mackay](../people/@42213240@-janet-mackay-b1840-d.md) (1840 - )
 * Matheson

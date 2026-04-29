@@ -45,7 +45,7 @@
       "Id": "i60521938",
       "Name": "Peter Alexander Howie",
       "Gender": "Male",
-      "DateOfBirth": "about 1890",
+      "DateOfBirth": "about Dec/1889",
       "DateOfDeath": "",
       "RelationToSubject": "husband",
       "DateOfMarriage": "8/Sep/1911",
@@ -60,6 +60,18 @@
       "DateOfBirth": "19/Mar/1912",
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i60521938",
+        "i69291286"
+      ]
+    },
+    {
+      "Id": "i99453615",
+      "Name": "Peter R Howie",
+      "Gender": "Male",
+      "DateOfBirth": "about Aug/1916",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
       "ParentIds": [
         "i60521938",
         "i69291286"

@@ -9,7 +9,7 @@ permalink: /people/i19655531
 ## Immediate Family
 
 * Partner: [Annie Boyle](./@30556026@-annie-boyle-b-d1911.md) ( - before 1911)
-* Son: [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1890-d.md) (about 1890 - )
+* Son: [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1889-12-d.md) (about Dec/1889 - )
 
 ## Timeline
 

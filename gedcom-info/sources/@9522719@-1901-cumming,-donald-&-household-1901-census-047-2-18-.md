@@ -3,16 +3,17 @@ layout: page
 permalink: /sources/s9522719
 ---
 
-# 1901 CUMMING, DONALD - 1901 Census 047/2/18
+# 1901 CUMMING, DONALD & HOUSEHOLD - (1901 Census 047/2/18)
 
 ## Metadata
 
 Field | Detail
 ---:|:---
+Original Document Date | 31/Mar/1901
 Responsible Agency | National Records of Scotland
 References | 1901 C 047/2/18
 Source Created | 18/Jul/2020 15:27:38
-Source Last Updated | 24/Jun/2022 12:55:56
+Source Last Updated | 26/Apr/2026 16:30:37
 
 ## Text
 

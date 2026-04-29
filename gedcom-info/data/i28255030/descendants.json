@@ -7,20 +7,11 @@
   "DateOfDeath": "29/Oct/1875",
   "Children": [
     {
-      "Id": "i69575920",
-      "Name": "Donald Cumming",
-      "Gender": "Male",
-      "Relationship": "son",
-      "DateOfBirth": "",
-      "DateOfDeath": "after 1875",
-      "Children": []
-    },
-    {
       "Id": "i7028096",
       "Name": "Alexander Cumming",
       "Gender": "Male",
       "Relationship": "son",
-      "DateOfBirth": "1833",
+      "DateOfBirth": "about 1831",
       "DateOfDeath": "7/May/1884",
       "Children": [
         {
@@ -965,6 +956,33 @@
       ]
     },
     {
+      "Id": "i61803880",
+      "Name": "Catherine Cumming",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1835",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i69575920",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1838",
+      "DateOfDeath": "after 1875",
+      "Children": []
+    },
+    {
+      "Id": "i38336704",
+      "Name": "John Cumming",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "18/Jun/1839",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
       "Id": "i55409960",
       "Name": "Adam Cumming",
       "Gender": "Male",
@@ -1010,6 +1028,24 @@
           "Children": []
         }
       ]
+    },
+    {
+      "Id": "i28938235",
+      "Name": "Ann Cumming",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1847",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i26299943",
+      "Name": "William Cumming",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1848",
+      "DateOfDeath": "",
+      "Children": []
     }
   ]
 }

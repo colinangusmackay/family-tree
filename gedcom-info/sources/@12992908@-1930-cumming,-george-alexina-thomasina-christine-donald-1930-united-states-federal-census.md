@@ -3,16 +3,16 @@ layout: page
 permalink: /sources/s12992908
 ---
 
-# 1930 CUMMING, GEORGE / ALEXINA / THOMASINA / CHRISTINE - 1930 United States Federal Census
+# 1930 CUMMING, GEORGE / ALEXINA / THOMASINA / CHRISTINE / DONALD - 1930 United States Federal Census
 
 ## Metadata
 
 Field | Detail
 ---:|:---
 Originator / Author | Department of Commerce - Bureau of the Census
-Original Document Date | 7/Apr/1930
+Original Document Date | 1/Apr/1930
 Source Created | 18/Jul/2020 17:29:05
-Source Last Updated | 24/Mar/2022 14:07:56
+Source Last Updated | 26/Apr/2026 16:52:17
 
 ## Text
 
@@ -285,5 +285,6 @@ Source Last Updated | 24/Mar/2022 14:07:56
 
 * [Alexandrina Cumming](../people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md) (30/Mar/1891 - 10/Apr/1987)
 * [Christine Cumming](../people/@24328630@-christine-cumming-b1904-12-15-d1996-11-10.md) (15/Dec/1904 - 10/Nov/1996)
+* [Donald John Cumming](../people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md) (29/Nov/1906 - 15/Mar/1986)
 * [George Davidson Smith Cumming](../people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md) (31/May/1898 - Aug/1965)
 * [Thomasina Ian Cumming](../people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md) (24/Nov/1902 - 1/Jun/1973)

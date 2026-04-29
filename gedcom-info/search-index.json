@@ -3769,8 +3769,10 @@
     "marriages": [
       {
         "spouse": "i66176571",
-        "date": "in 1962",
+        "date": "on 6th of July 1962",
         "year": 1962,
+        "month": 7,
+        "day": 6,
         "place": [
           "glasgow",
           "scotland"
@@ -3785,6 +3787,7 @@
         ],
         "dates": [
           1960,
+          1962,
           1962,
           1981
         ]
@@ -4234,6 +4237,32 @@
     }
   },
   {
+    "id": "i26299943",
+    "nameParts": [
+      "cumming",
+      "william"
+    ],
+    "wholeNames": [
+      "William Cumming"
+    ],
+    "birth": {
+      "date": "about 1848",
+      "year": 1848
+    },
+    "residences": [
+      {
+        "place": [
+          "embo",
+          "sutherland",
+          "scotland"
+        ],
+        "dates": [
+          1851
+        ]
+      }
+    ]
+  },
+  {
     "id": "i2654341",
     "nameParts": [
       "beatie",
@@ -4625,14 +4654,31 @@
     ],
     "birth": {
       "date": "about 1807",
-      "year": 1807
+      "year": 1807,
+      "place": [
+        "golspie",
+        "sutherland",
+        "scotland"
+      ]
     },
     "death": {
       "date": "on 29th of October 1875 at 03:00",
       "year": 1875,
       "month": 10,
       "day": 29
-    }
+    },
+    "residences": [
+      {
+        "place": [
+          "embo",
+          "sutherland",
+          "scotland"
+        ],
+        "dates": [
+          1851
+        ]
+      }
+    ]
   },
   {
     "id": "i28263584",
@@ -4952,6 +4998,32 @@
     ],
     "wholeNames": [
       "Thomas Thomson"
+    ]
+  },
+  {
+    "id": "i28938235",
+    "nameParts": [
+      "ann",
+      "cumming"
+    ],
+    "wholeNames": [
+      "Ann Cumming"
+    ],
+    "birth": {
+      "date": "about 1847",
+      "year": 1847
+    },
+    "residences": [
+      {
+        "place": [
+          "embo",
+          "sutherland",
+          "scotland"
+        ],
+        "dates": [
+          1851
+        ]
+      }
     ]
   },
   {
@@ -6525,8 +6597,15 @@
       "George Mackay"
     ],
     "birth": {
-      "date": "between 1805 and 1816",
-      "year": 1805
+      "date": "on 26th of October 1811",
+      "year": 1811,
+      "month": 10,
+      "day": 26,
+      "place": [
+        "embo",
+        "sutherland",
+        "scotland"
+      ]
     },
     "death": {
       "date": "on 25th of November 1893",
@@ -7833,6 +7912,34 @@
         ],
         "dates": [
           1920
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i38336704",
+    "nameParts": [
+      "cumming",
+      "john"
+    ],
+    "wholeNames": [
+      "John Cumming"
+    ],
+    "birth": {
+      "date": "on 18th of June 1839",
+      "year": 1839,
+      "month": 6,
+      "day": 18
+    },
+    "residences": [
+      {
+        "place": [
+          "embo",
+          "sutherland",
+          "scotland"
+        ],
+        "dates": [
+          1851
         ]
       }
     ]
@@ -9505,6 +9612,17 @@
           "scotland"
         ]
       }
+    ],
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1933
+        ]
+      }
     ]
   },
   {
@@ -10229,6 +10347,7 @@
           "scotland"
         ],
         "dates": [
+          1851,
           1875
         ]
       }
@@ -14594,8 +14713,9 @@
       "Peter Alexander Howie"
     ],
     "birth": {
-      "date": "about 1890",
-      "year": 1890
+      "date": "about December 1889",
+      "year": 1889,
+      "month": 12
     },
     "marriages": [
       {
@@ -14618,7 +14738,8 @@
           "scotland"
         ],
         "dates": [
-          1911
+          1911,
+          1921
         ]
       }
     ]
@@ -15099,6 +15220,32 @@
     ],
     "wholeNames": [
       "Andrew Lenox"
+    ]
+  },
+  {
+    "id": "i61803880",
+    "nameParts": [
+      "catherine",
+      "cumming"
+    ],
+    "wholeNames": [
+      "Catherine Cumming"
+    ],
+    "birth": {
+      "date": "about 1835",
+      "year": 1835
+    },
+    "residences": [
+      {
+        "place": [
+          "embo",
+          "sutherland",
+          "scotland"
+        ],
+        "dates": [
+          1851
+        ]
+      }
     ]
   },
   {
@@ -16674,6 +16821,7 @@
           "scotland"
         ],
         "dates": [
+          1851,
           1860,
           1861,
           1871,
@@ -16712,6 +16860,18 @@
     "marriages": [
       {
         "spouse": "i69114879"
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "embo",
+          "sutherland",
+          "scotland"
+        ],
+        "dates": [
+          1811
+        ]
       }
     ]
   },
@@ -17210,6 +17370,18 @@
       {
         "spouse": "i66584000"
       }
+    ],
+    "residences": [
+      {
+        "place": [
+          "embo",
+          "sutherland",
+          "scotland"
+        ],
+        "dates": [
+          1811
+        ]
+      }
     ]
   },
   {
@@ -17366,10 +17538,26 @@
     "wholeNames": [
       "Donald Cumming"
     ],
+    "birth": {
+      "date": "about 1838",
+      "year": 1838
+    },
     "death": {
       "date": "after 1875",
       "year": 1875
-    }
+    },
+    "residences": [
+      {
+        "place": [
+          "embo",
+          "sutherland",
+          "scotland"
+        ],
+        "dates": [
+          1851
+        ]
+      }
+    ]
   },
   {
     "id": "i69725432",
@@ -17587,8 +17775,8 @@
       "Alexander Cumming"
     ],
     "birth": {
-      "date": "in 1833",
-      "year": 1833
+      "date": "about 1831",
+      "year": 1831
     },
     "death": {
       "date": "on 7th of May 1884 at 15:30",
@@ -17618,6 +17806,7 @@
           "scotland"
         ],
         "dates": [
+          1851,
           1856,
           1865
         ]
@@ -18584,7 +18773,7 @@
       "Annie Mackay"
     ],
     "birth": {
-      "date": "on 5th of November 1855",
+      "date": "on 5th of November 1855 at 01:30",
       "year": 1855,
       "month": 11,
       "day": 5,
@@ -18625,7 +18814,8 @@
           1861,
           1871,
           1876,
-          1903
+          1903,
+          1940
         ]
       }
     ]
@@ -22034,8 +22224,8 @@
       "murie"
     ],
     "wholeNames": [
-      "Annie Murie Howie",
-      "Gilchrist"
+      "Annie Murie Gilchrist",
+      "Annie Murie Howie"
     ],
     "birth": {
       "date": "on 19th of March 1912 at 04:50",
@@ -22058,6 +22248,17 @@
         "place": [
           "glasgow",
           "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1921
         ]
       }
     ]
@@ -24099,6 +24300,27 @@
         ]
       }
     ]
+  },
+  {
+    "id": "i99453615",
+    "nameParts": [
+      "howie",
+      "peter",
+      "r"
+    ],
+    "wholeNames": [
+      "Peter R Howie"
+    ],
+    "birth": {
+      "date": "about August 1916",
+      "year": 1916,
+      "month": 8,
+      "place": [
+        "cathcart",
+        "glasgow",
+        "scotland"
+      ]
+    }
   },
   {
     "id": "i99536158",

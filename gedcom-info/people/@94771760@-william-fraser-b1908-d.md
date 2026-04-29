@@ -55,7 +55,7 @@ Date | Residence | Sources & Notes
 **1921 FRASER, THOMAS & HOUSEHOLD (Census 047/ 3/ 13)**
 
 * [Full text and notes](../sources/@85252864@-1921-fraser,-thomas-&-household-census-047-3-13-.md)
-* Date: 1921
+* Date: 19/Jun/1921
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1921 C 047/ 3/ 13

@@ -78,8 +78,8 @@ before 31/Mar/1930 | 271 Springdale Blvd, Toronto, Ontario, Canada | [11](#11), 
 1938 | Achiltibue, Ross and Cromarty, Scotland | [23](#23)
 1954 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [41](#41)
 1956 | 49 Sandbank Street, Maryhill, Glasgow, Scotland | [42](#42)
-1960 | 57 Kersland Street, Glasgow | [43](#43)
-1980 | 57 Kersland Street, Glasgow | [44](#44)
+1960 | 57 Kersland Street, Glasgow, Scotland | [43](#43)
+1980 | 57 Kersland Street, Glasgow, Scotland | [44](#44)
 1981 | Glasgow, Scotland | [30](#30)
 
 ## Known Occupations
@@ -91,15 +91,17 @@ about 1930 | Cement Finisher in Toronto, York, Ontario, Canada | [11](#11)
 1934 | Cement Finisher | [18](#18), [19](#19)
 1935 | Cement Finisher in Embo, Sutherland, Scotland | [21](#21)
 1938 | Cement Finisher | [23](#23)
+1962 | Cement Finisher | [45](#45)
 1979 | Retired | [3](#3)
 
 ## Additional Sources
 
 Footnote | Source
 ---|---
-[45](#45) | **[1971 Wedding Day Photo (X, X, Mary Ann X & Isabel, X, X, X X)](../sources/@5770084@-1971-wedding-day-photo-william,-hamish,-mary-ann-mackay-&-isabel,-alastair,-graeme,-karen-gilchrist-.md)**
-[46](#46) | **[MACKAY, WILLIAM ALEXANDER; MARGARET MOYES; LUCY; JOHN PAUL (Photo)](../sources/@65890512@-mackay,-william-alexander;-margaret-moyes;-lucy;-john-paul-photo-.md)**
-[47](#47) | **[1946 X Family Photo (Embo)](../sources/@72624888@-1946-mackay-family-photo-embo-.md)**
+[46](#46) | **[1940 CUMMING, ANNIE (Statutory Register of Deaths, 047/ 18)](../sources/@31629256@-1940-cumming,-annie-statutory-register-of-deaths,-047-18-.md)**
+[47](#47) | **[1971 Wedding Day Photo (X, X, Mary Ann X & Isabel, X, X, X X)](../sources/@5770084@-1971-wedding-day-photo-william,-hamish,-mary-ann-mackay-&-isabel,-alastair,-graeme,-karen-gilchrist-.md)**
+[48](#48) | **[MACKAY, WILLIAM ALEXANDER; MARGARET MOYES; LUCY; JOHN PAUL (Photo)](../sources/@65890512@-mackay,-william-alexander;-margaret-moyes;-lucy;-john-paul-photo-.md)**
+[49](#49) | **[1946 X Family Photo (Embo)](../sources/@72624888@-1946-mackay-family-photo-embo-.md)**
 
 ## Notes
 
@@ -502,18 +504,38 @@ Footnote | Source
 
 ### 45
 
+**1962 X, X, MACKAY, ISABELLA (Statutory Register of Marriages 644/10 316)**
+
+* [Full text and notes](../sources/@82101841@-1962-gilchrist,-alastair,-mackay,-isabella-statutory-register-of-marriages-644-10-316-.md)
+* Date: 9/Jul/1962
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1962 M 644/10 316
+
+### 46
+
+**1940 CUMMING, ANNIE (Statutory Register of Deaths, 047/ 18)**
+
+* [Full text and notes](../sources/@31629256@-1940-cumming,-annie-statutory-register-of-deaths,-047-18-.md)
+* Date: 22/Apr/1940
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1940 D 047/ 18
+
+### 47
+
 **1971 Wedding Day Photo (X, X, Mary Ann X & Isabel, X, X, X X)**
 
 * [Full text and notes](../sources/@5770084@-1971-wedding-day-photo-william,-hamish,-mary-ann-mackay-&-isabel,-alastair,-graeme,-karen-gilchrist-.md)
 * Date: 19/Jun/1971
 
-### 46
+### 48
 
 **MACKAY, WILLIAM ALEXANDER; MARGARET MOYES; LUCY; JOHN PAUL (Photo)**
 
 * [Full text and notes](../sources/@65890512@-mackay,-william-alexander;-margaret-moyes;-lucy;-john-paul-photo-.md)
 
-### 47
+### 49
 
 **1946 X Family Photo (Embo)**
 

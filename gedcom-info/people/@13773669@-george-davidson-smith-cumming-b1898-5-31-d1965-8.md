@@ -281,9 +281,10 @@ Date | Occupation | Sources & Notes
 
 ### 23
 
-**1901 CUMMING, DONALD - 1901 Census 047/2/18**
+**1901 CUMMING, DONALD & HOUSEHOLD - (1901 Census 047/2/18)**
 
-* [Full text and notes](../sources/@9522719@-1901-cumming,-donald-1901-census-047-2-18.md)
+* [Full text and notes](../sources/@9522719@-1901-cumming,-donald-&-household-1901-census-047-2-18-.md)
+* Date: 31/Mar/1901
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1901 C 047/2/18
@@ -314,11 +315,11 @@ Date | Occupation | Sources & Notes
 
 ### 27
 
-**1930 CUMMING, GEORGE / ALEXINA / THOMASINA / CHRISTINE - 1930 United States Federal Census**
+**1930 CUMMING, GEORGE / ALEXINA / THOMASINA / CHRISTINE / DONALD - 1930 United States Federal Census**
 
-* [Full text and notes](../sources/@12992908@-1930-cumming,-george-alexina-thomasina-christine-1930-united-states-federal-census.md)
+* [Full text and notes](../sources/@12992908@-1930-cumming,-george-alexina-thomasina-christine-donald-1930-united-states-federal-census.md)
 * Originator / Author: Department of Commerce - Bureau of the Census
-* Date: 7/Apr/1930
+* Date: 1/Apr/1930
 
 ### 28
 

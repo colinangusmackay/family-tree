@@ -66,7 +66,7 @@ Source Last Updated | 24/Jun/2022 12:52:57
 
 * Cumming
   * [Adam Cumming](../people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) (2/Jul/1841 - 18/Jan/1926)
-  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1833-d1884-5-7.md) (1833 - 7/May/1884)
+  * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1831-d1884-5-7.md) (about 1831 - 7/May/1884)
   * [Barbara Ann Cumming](../people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md) (30/Aug/1885 - 1977)
   * [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
   * [Donald J Cumming](../people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md) (22/Mar/1861 - 28/Feb/1940)
