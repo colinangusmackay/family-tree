@@ -276,12 +276,14 @@ permalink: /indexes/by-date-of-birth
   * **[Ross, Ann](people/@32419757@-ann-ross-b1860-6-17-d.md)** (17/Jun/1860 - )
   * **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923)
 * **Born in 1861.**
+  * **[, Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - )
   * **[Black, Mary Ann](people/@94950024@-mary-ann-black-b1861-d.md)** (1861 - )
   * **[Mackay, Christina](people/@20426296@-christina-mackay-b1861-d.md)** (1861 - )
   * **[MacLeod, Matilda](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
   * **[Napier, Janet](people/@44813825@-janet-napier-b1861-d.md)** (about 1861 - )
   * **[Smith, Elizabeth](people/@96054144@-elizabeth-smith-b1861-d.md)** (about 1861 - )
   * **[Teevin, Margaret](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - )
+  * **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - )
   * **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
   * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903)
   * **[Paterson, Williamina](people/@90589456@-williamina-paterson-b1861-6-10-d.md)** (10/Jun/1861 - )
@@ -291,6 +293,7 @@ permalink: /indexes/by-date-of-birth
   * **[Ross, Barbara](people/@82167024@-barbara-ross-b1862-2-28-d.md)** (28/Feb/1862 - )
   * **[Smith, Rachel](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942)
 * **Born in 1863.**
+  * **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911)
   * **[Fraser, Isabella](people/@92660555@-isabella-fraser-b1863-d.md)** (about 1863 - )
   * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
   * **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
@@ -445,6 +448,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1887.**
   * **[Fisher, Agnes](people/@45605556@-agnes-fisher-b1887-d.md)** (about 1887 - )
   * **[Fraser, Barbara](people/@65128525@-barbara-fraser-b1887-d.md)** (1887 - )
+  * **[Howie, Annie McKinlay](people/@70255077@-annie-mckinlay-howie-b1887-d.md)** (about 1887 - )
   * **[Fleming, Elizabeth](people/@79236484@-elizabeth-fleming-b1887-4-22-d.md)** (22/Apr/1887 - )
 * **Born in 1888.**
   * **[McKenzie, Jessie Paterson](people/@2043547@-jessie-paterson-mckenzie-b1888-d.md)** (about 1888 - )
@@ -462,7 +466,6 @@ permalink: /indexes/by-date-of-birth
   * **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - )
   * **[Fleming, Lillias](people/@39306088@-lillias-fleming-b1889-5-25-d.md)** (25/May/1889 - )
   * **[Mackay, Lucy](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970)
-  * **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - )
   * **[Cumming, Donald](people/@89853996@-donald-cumming-b1889-12-17-d.md)** (17/Dec/1889 - )
 
 ### 1890s
@@ -471,7 +474,9 @@ permalink: /indexes/by-date-of-birth
   * **[Campbell, James](people/@16864904@-james-campbell-b1890-d.md)** (about 1890 - )
   * **[McKenzie, Murdoch](people/@99087108@-murdoch-mckenzie-b1890-d.md)** (1890 - )
   * **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
+  * **[Wills, Jessie Hamilton](people/@87891536@-jessie-hamilton-wills-b1890-d.md)** (1890 - )
   * **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1890-1-4-d.md)** (4/Jan/1890 - )
+  * **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - )
   * **[Fraser, Kenneth](people/@89580356@-kenneth-fraser-b1890-8-13-d.md)** (13/Aug/1890 - )
   * **[Mackay, George](people/@72941728@-george-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
   * **[Mackay, Janet](people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md)** (12/Nov/1890 - 15/May/1891)
@@ -480,12 +485,14 @@ permalink: /indexes/by-date-of-birth
   * **[Litster, Robina Stobie](people/@99806264@-robina-stobie-litster-b1891-d.md)** (1891 - )
   * **[McCann, Alice](people/@69495356@-alice-mccann-b1891-d.md)** (about 1891 - )
   * **[McKnight, Lizzie](people/@31828723@-lizzie-mcknight-b1891-d.md)** (about 1891 - )
+  * **[Wills, David N](people/@24358912@-david-n-wills-b1891-d.md)** (about 1891 - )
   * **[Mitchell, Thomas](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972)
   * **[Cumming, Alexandrina](people/@57186713@-alexandrina-cumming-b1891-3-30-d1987-4-10.md)** (30/Mar/1891 - 10/Apr/1987)
   * **[Cumming, Donald](people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md)** (11/Nov/1891 - Dec/1967)
 * **Born in 1892.**
   * **[Fisher, John](people/@59036117@-john-fisher-b1892-d.md)** (about 1892 - )
   * **[Fraser, Mary Ann](people/@94394924@-mary-ann-fraser-b1892-d.md)** (1892 - )
+  * **[Howie, Margaret Taylor](people/@39683867@-margaret-taylor-howie-b1892-d.md)** (1892 - )
   * **[Mathews, Alfred G](people/@71188720@-alfred-g-mathews-b1892-d.md)** (about 1892 - )
   * **[Stead, Emily](people/@58190216@-emily-stead-b1892-d.md)** (about 1892 - )
   * **[Thomson, Agnes Watson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
@@ -495,11 +502,13 @@ permalink: /indexes/by-date-of-birth
   * **[McKenzie, Malcolm](people/@40866411@-malcolm-mckenzie-b1893-d.md)** (1893 - )
   * **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
   * **[Ross, James](people/@62357517@-james-ross-b1893-d.md)** (1893 - )
+  * **[Wills, Robert M](people/@15072794@-robert-m-wills-b1893-d.md)** (about 1893 - )
   * **[Cumming, Jessie Ann](people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md)** (8/Jan/1893 - 31/Oct/1978)
   * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974)
 * **Born in 1894.**
   * **[Fisher, William](people/@85653512@-william-fisher-b1894-d.md)** (about 1894 - )
   * **[Fraser, Barbara](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - )
+  * **[Howie, Williamina Boyle](people/@1971089@-williamina-boyle-howie-b1894-d.md)** (1894 - )
   * **[Paton, John](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - )
   * **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
   * **[Cumming, James](people/@492889@-james-cumming-b1894-11-7-d1975-7-2.md)** (7/Nov/1894 - 2/Jul/1975)
@@ -518,6 +527,7 @@ permalink: /indexes/by-date-of-birth
   * **[McKnight, Nelly](people/@63393644@-nelly-mcknight-b1896-d.md)** (about 1896 - )
   * **[Ross, Hugh Alexander](people/@22731476@-hugh-alexander-ross-b1896-11-17-d.md)** (17/Nov/1896 - )
 * **Born in 1897.**
+  * **[Howie, Jeanie Yule](people/@75216465@-jeanie-yule-howie-b1897-d.md)** (1897 - )
   * **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1897-d.md)** (about 1897 - )
   * **[Ross, William](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
   * **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968)

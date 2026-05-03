@@ -795,6 +795,17 @@
     }
   },
   {
+    "id": "i14673281",
+    "nameParts": [
+      "howie",
+      "margaret"
+    ],
+    "wholeNames": [
+      "Howie",
+      "Margaret Howie"
+    ]
+  },
+  {
     "id": "i14926290",
     "nameParts": [
       "anne",
@@ -892,6 +903,36 @@
         "scotland"
       ]
     }
+  },
+  {
+    "id": "i15072794",
+    "nameParts": [
+      "m",
+      "robert",
+      "wills"
+    ],
+    "wholeNames": [
+      "Robert M Wills"
+    ],
+    "birth": {
+      "date": "about 1893",
+      "year": 1893,
+      "place": [
+        "glasgow",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1911
+        ]
+      }
+    ]
   },
   {
     "id": "i15147548",
@@ -1959,7 +2000,66 @@
     ],
     "wholeNames": [
       "Peter Howie"
+    ],
+    "birth": {
+      "date": "on 9th of February 1861 at 05:00",
+      "year": 1861,
+      "month": 2,
+      "day": 9,
+      "place": [
+        "cookney",
+        "aberdeenshire",
+        "scotland"
+      ]
+    },
+    "marriages": [
+      {
+        "spouse": "i47342988",
+        "date": "about 1908",
+        "year": 1908
+      },
+      {
+        "spouse": "i30556026",
+        "date": "on 3rd of June 1885",
+        "year": 1885,
+        "month": 6,
+        "day": 3,
+        "place": [
+          "glasgow",
+          "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1911
+        ]
+      }
     ]
+  },
+  {
+    "id": "i1971089",
+    "nameParts": [
+      "boyle",
+      "howie",
+      "williamina"
+    ],
+    "wholeNames": [
+      "Williamina Boyle Howie"
+    ],
+    "birth": {
+      "date": "in 1894",
+      "year": 1894,
+      "place": [
+        "glasgow",
+        "scotland"
+      ]
+    }
   },
   {
     "id": "i19799810",
@@ -3266,6 +3366,36 @@
         ],
         "dates": [
           1962
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i24358912",
+    "nameParts": [
+      "david",
+      "n",
+      "wills"
+    ],
+    "wholeNames": [
+      "David N Wills"
+    ],
+    "birth": {
+      "date": "about 1891",
+      "year": 1891,
+      "place": [
+        "glasgow",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1911
         ]
       }
     ]
@@ -5547,9 +5677,37 @@
       "Annie Boyle",
       "Howie"
     ],
+    "birth": {
+      "date": "about 1863",
+      "year": 1863
+    },
     "death": {
       "date": "before 1911"
-    }
+    },
+    "marriages": [
+      {
+        "spouse": "i19655531",
+        "date": "on 3rd of June 1885",
+        "year": 1885,
+        "month": 6,
+        "day": 3,
+        "place": [
+          "glasgow",
+          "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1885
+        ]
+      }
+    ]
   },
   {
     "id": "i30630538",
@@ -8037,6 +8195,18 @@
       },
       {
         "place": [
+          "norwalk",
+          "fairfield county",
+          "connecticut",
+          "united states of america"
+        ],
+        "dates": [
+          1954,
+          1967
+        ]
+      },
+      {
+        "place": [
           "east norwalk",
           "fairfield county",
           "connecticut",
@@ -8044,17 +8214,6 @@
         ],
         "dates": [
           1958
-        ]
-      },
-      {
-        "place": [
-          "norwalk",
-          "fairfield county",
-          "connecticut",
-          "united states of america"
-        ],
-        "dates": [
-          1967
         ]
       },
       {
@@ -8362,6 +8521,36 @@
         ],
         "dates": [
           1946
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i39683867",
+    "nameParts": [
+      "howie",
+      "margaret",
+      "taylor"
+    ],
+    "wholeNames": [
+      "Margaret Taylor Howie"
+    ],
+    "birth": {
+      "date": "in 1892",
+      "year": 1892,
+      "place": [
+        "glasgow",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1911
         ]
       }
     ]
@@ -10815,6 +11004,45 @@
         ],
         "dates": [
           1913
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i47342988",
+    "nameParts": [
+      "helen",
+      "howie",
+      "s"
+    ],
+    "wholeNames": [
+      "Helen",
+      "Helen S Howie"
+    ],
+    "birth": {
+      "date": "about 1861",
+      "year": 1861,
+      "place": [
+        "aberdeen",
+        "aberdeenshire",
+        "scotland"
+      ]
+    },
+    "marriages": [
+      {
+        "spouse": "i19655531",
+        "date": "about 1908",
+        "year": 1908
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1911
         ]
       }
     ]
@@ -14713,9 +14941,14 @@
       "Peter Alexander Howie"
     ],
     "birth": {
-      "date": "about December 1889",
-      "year": 1889,
-      "month": 12
+      "date": "on 15th of January 1890 at 13:00",
+      "year": 1890,
+      "month": 1,
+      "day": 15,
+      "place": [
+        "glasgow",
+        "scotland"
+      ]
     },
     "marriages": [
       {
@@ -16998,6 +17231,18 @@
     ]
   },
   {
+    "id": "i67691160",
+    "nameParts": [
+      "annie",
+      "boyle",
+      "mckinlay"
+    ],
+    "wholeNames": [
+      "Annie McKinlay",
+      "Boyle"
+    ]
+  },
+  {
     "id": "i67781103",
     "nameParts": [
       "donald",
@@ -17450,8 +17695,8 @@
       "hunter"
     ],
     "wholeNames": [
-      "Georgina Hunter",
-      "Howie"
+      "Georgina Howie",
+      "Georgina Hunter"
     ],
     "birth": {
       "date": "about 1889",
@@ -17761,6 +18006,36 @@
         "dates": [
           1915,
           1916
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i70255077",
+    "nameParts": [
+      "annie",
+      "howie",
+      "mckinlay"
+    ],
+    "wholeNames": [
+      "Annie McKinlay Howie"
+    ],
+    "birth": {
+      "date": "about 1887",
+      "year": 1887,
+      "place": [
+        "glasgow",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1911
         ]
       }
     ]
@@ -18992,6 +19267,36 @@
       "date": "in 1935",
       "year": 1935
     }
+  },
+  {
+    "id": "i75216465",
+    "nameParts": [
+      "howie",
+      "jeanie",
+      "yule"
+    ],
+    "wholeNames": [
+      "Jeanie Yule Howie"
+    ],
+    "birth": {
+      "date": "in 1897",
+      "year": 1897,
+      "place": [
+        "glasgow",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1911
+        ]
+      }
+    ]
   },
   {
     "id": "i7539126",
@@ -21686,6 +21991,37 @@
     ]
   },
   {
+    "id": "i87891536",
+    "nameParts": [
+      "hamilton",
+      "jessie",
+      "wills"
+    ],
+    "wholeNames": [
+      "Jessie Hamilton Wills"
+    ],
+    "birth": {
+      "date": "in 1890",
+      "year": 1890,
+      "place": [
+        "uphall",
+        "west lothian",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1911
+        ]
+      }
+    ]
+  },
+  {
     "id": "i88003126",
     "nameParts": [
       "isabella",
@@ -24299,6 +24635,16 @@
           1871
         ]
       }
+    ]
+  },
+  {
+    "id": "i99276822",
+    "nameParts": [
+      "boyle",
+      "william"
+    ],
+    "wholeNames": [
+      "William Boyle"
     ]
   },
   {

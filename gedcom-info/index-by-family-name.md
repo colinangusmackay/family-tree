@@ -10,6 +10,7 @@ permalink: /indexes/by-family-name
 - **[Agnes](people/@96321158@-agnes-b-d.md)**
 - **[Elizabeth](people/@8553973@-elizabeth-b-d.md)**
 - **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
+- **[Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - )
 - **[Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[Kathleen](people/@37756528@-kathleen-b-d1958.md)** ( - before 1958)
@@ -62,9 +63,10 @@ permalink: /indexes/by-family-name
 
 ## Boyle
 
-- **[Annie Boyle](people/@30556026@-annie-boyle-b-d1911.md)** ( - before 1911)
+- **[Annie Boyle](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911)
 - **[Mary Boyle](people/@71324323@-mary-boyle-b-d.md)**
 - **[Mary Boyle](people/@8311886@-mary-boyle-b-d.md)**
+- **[William Boyle](people/@99276822@-william-boyle-b-d.md)**
 
 ## Buchanan
 
@@ -407,10 +409,15 @@ permalink: /indexes/by-family-name
 
 ## Howie
 
+- **[Annie McKinlay Howie](people/@70255077@-annie-mckinlay-howie-b1887-d.md)** (about 1887 - )
 - **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
-- **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - )
-- **[Peter Howie](people/@19655531@-peter-howie-b-d.md)**
+- **[Jeanie Yule Howie](people/@75216465@-jeanie-yule-howie-b1897-d.md)** (1897 - )
+- **[Margaret Howie](people/@14673281@-margaret-howie-b-d.md)**
+- **[Margaret Taylor Howie](people/@39683867@-margaret-taylor-howie-b1892-d.md)** (1892 - )
+- **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - )
+- **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - )
 - **[Peter R Howie](people/@99453615@-peter-r-howie-b1916-8-d.md)** (about Aug/1916 - )
+- **[Williamina Boyle Howie](people/@1971089@-williamina-boyle-howie-b1894-d.md)** (1894 - )
 
 ## Hunter
 
@@ -673,6 +680,10 @@ permalink: /indexes/by-family-name
 - **[Murdoch McKenzie](people/@99087108@-murdoch-mckenzie-b1890-d.md)** (1890 - )
 - **[Roderick McKenzie](people/@76793596@-roderick-mckenzie-b1851-d1929-1-23.md)** (about 1851 - 23/Jan/1929)
 - **[William P McKenzie](people/@51734912@-william-p-mckenzie-b1878-d.md)** (about 1878 - )
+
+## McKinlay
+
+- **[Annie McKinlay](people/@67691160@-annie-mckinlay-b-d.md)**
 
 ## McKnight
 
@@ -1120,6 +1131,12 @@ permalink: /indexes/by-family-name
 
 - **[Agnes Williamson](people/@35381484@-agnes-williamson-b1815-10-11-d.md)** (11/Oct/1815 - )
 - **[William Williamson](people/@67023796@-william-williamson-b-d.md)**
+
+## Wills
+
+- **[David N Wills](people/@24358912@-david-n-wills-b1891-d.md)** (about 1891 - )
+- **[Jessie Hamilton Wills](people/@87891536@-jessie-hamilton-wills-b1890-d.md)** (1890 - )
+- **[Robert M Wills](people/@15072794@-robert-m-wills-b1893-d.md)** (about 1893 - )
 
 ## Wilson
 

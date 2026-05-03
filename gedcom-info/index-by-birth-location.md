@@ -22,9 +22,10 @@ permalink: /indexes/by-birth-location
 - **[Bode, Katherine](people/@8567159@-katherine-bode-b-d1930.md)** ( - before 1930)
 - **[Bolger, Sandra Sarah](people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md)** (30/Aug/1956 - 2023)
 - **[Bond, Helen](people/@39873338@-helen-bond-b-d.md)**
-- **[Boyle, Annie](people/@30556026@-annie-boyle-b-d1911.md)** ( - before 1911)
+- **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911)
 - **[Boyle, Mary](people/@71324323@-mary-boyle-b-d.md)**
 - **[Boyle, Mary](people/@8311886@-mary-boyle-b-d.md)**
+- **[Boyle, William](people/@99276822@-william-boyle-b-d.md)**
 - **[Buchanan, Janet](people/@48339564@-janet-buchanan-b-d.md)**
 - **[Burns, Mary](people/@81238912@-mary-burns-b-d.md)**
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
@@ -122,8 +123,7 @@ permalink: /indexes/by-birth-location
 - **[Hendry, Agnes Gibb](people/@79368912@-agnes-gibb-hendry-b-d1936.md)** ( - after 1936)
 - **[Hoctor, James A](people/@72154199@-james-a-hoctor-b-d1993.md)** ( - before 1993)
 - **[Hoctor, Timothy](people/@74378972@-timothy-hoctor-b-d1993.md)** ( - before 1993)
-- **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - )
-- **[Howie, Peter](people/@19655531@-peter-howie-b-d.md)**
+- **[Howie, Margaret](people/@14673281@-margaret-howie-b-d.md)**
 - **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
 - **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
@@ -232,6 +232,7 @@ permalink: /indexes/by-birth-location
 - **[McKechnie, Janet](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949)
 - **[McKechnie, William](people/@95027126@-william-mckechnie-b-d.md)**
 - **[McKenzie, Murdoch](people/@1568232@-murdoch-mckenzie-b-d.md)**
+- **[McKinlay, Annie](people/@67691160@-annie-mckinlay-b-d.md)**
 - **[McKnight, Lizzie](people/@31828723@-lizzie-mcknight-b1891-d.md)** (about 1891 - )
 - **[McKnight, Mary](people/@41720825@-mary-mcknight-b1924-d1991.md)** (about 1924 - about 1991)
 - **[McKnight, Nelly](people/@63393644@-nelly-mcknight-b1896-d.md)** (about 1896 - )
@@ -493,7 +494,12 @@ permalink: /indexes/by-birth-location
 
 #### Aberdeen
 
+- **[, Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - )
 - **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
+
+#### Cookney
+
+- **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - )
 
 #### Peterhead
 
@@ -667,6 +673,11 @@ permalink: /indexes/by-birth-location
 - **[Hanton, Jane](people/@65592941@-jane-hanton-b1908-d1930-9-3.md)** (about 1908 - 3/Sep/1930)
 - **[Hanton, Jessie Johnstone](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981)
 - **[Hanton, Marion](people/@27083581@-marion-hanton-b1916-d2014.md)** (about 1916 - 2014)
+- **[Howie, Annie McKinlay](people/@70255077@-annie-mckinlay-howie-b1887-d.md)** (about 1887 - )
+- **[Howie, Jeanie Yule](people/@75216465@-jeanie-yule-howie-b1897-d.md)** (1897 - )
+- **[Howie, Margaret Taylor](people/@39683867@-margaret-taylor-howie-b1892-d.md)** (1892 - )
+- **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - )
+- **[Howie, Williamina Boyle](people/@1971089@-williamina-boyle-howie-b1894-d.md)** (1894 - )
 - **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008)
 - **[McIver, Margaret McKenzie](people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md)** (29/Sep/1917 - 12/Sep/2015)
 - **[McIver, Roderick McKenzie](people/@90830540@-roderick-mckenzie-mciver-b1910-10-22-d1999.md)** (22/Oct/1910 - 1999)
@@ -688,6 +699,8 @@ permalink: /indexes/by-birth-location
 - **[O'Malley, Thomas](people/@12568152@-thomas-o'malley-b1913-9-4-d2004.md)** (4/Sep/1913 - before 2004)
 - **[O'Malley, Thomas](people/@68408992@-thomas-o'malley-b1951-d2025.md)** (1951 - 2025)
 - **[Paton, Margaret McLeod](people/@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md)** (14/Mar/1916 - before 2004)
+- **[Wills, David N](people/@24358912@-david-n-wills-b1891-d.md)** (about 1891 - )
+- **[Wills, Robert M](people/@15072794@-robert-m-wills-b1893-d.md)** (about 1893 - )
 
 #### Cathcart
 
@@ -981,6 +994,10 @@ permalink: /indexes/by-birth-location
 - **[Carlyle, Mary](people/@99996424@-mary-carlyle-b1907-d.md)** (1907 - )
 - **[Hawthorn, Thomas](people/@30039040@-thomas-hawthorn-b1888-6-28-d1946.md)** (28/Jun/1888 - before 1946)
 - **[Rennie, Agnes](people/@57426108@-agnes-rennie-b1878-d1961-2-7.md)** (1878 - 7/Feb/1961)
+
+#### Uphall
+
+- **[Wills, Jessie Hamilton](people/@87891536@-jessie-hamilton-wills-b1890-d.md)** (1890 - )
 
 
 ## United States of America

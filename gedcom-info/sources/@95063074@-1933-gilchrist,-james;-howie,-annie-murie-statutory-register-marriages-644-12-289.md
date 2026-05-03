@@ -85,7 +85,7 @@ Source Last Updated | 29/Apr/2026 22:37:23
   * [James Gilchrist](../people/@43287262@-james-gilchrist-b1904-9-9-d1998.md) (9/Sep/1904 - 1998)
 * Howie
   * [Annie Murie Howie](../people/@89893535@-annie-murie-howie-b1912-3-19-d.md) (19/Mar/1912 - )
-  * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1889-12-d.md) (about Dec/1889 - )
+  * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-1-15-d.md) (15/Jan/1890 - )
 * Hunter
   * [Georgina Hunter](../people/@69291286@-georgina-hunter-b1889-d.md) (about 1889 - )
 * Sloan

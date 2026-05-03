@@ -10,6 +10,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## 
 
   * **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ) and **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) **about 1887**.
+  * **[Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - ) and **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) **about 1908**.
   * **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021) and X **on 7th of November 1970**.
   * **[Nancy](people/@68661720@-nancy-b-d.md)** and **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) **about 1906**.
 
@@ -20,6 +21,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Bolger
 
   * **[Sandra Sarah Bolger](people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md)** (30/Aug/1956 - 2023) and **[b Albert Mathews](people/@35875756@-b-albert-mathews-b1954-d2004.md)** (1954 - 2004) **in 1978**.
+
+## Boyle
+
+  * **[Annie Boyle](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911) and **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) **on 3rd of June 1885** at Glasgow, Scotland.
 
 ## Buchanan
 
@@ -212,11 +217,13 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Howie
 
   * **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - ) and **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998) **on 31st of August 1933** at Glasgow, Scotland, .
-  * **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - ) and **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ) **on 8th of September 1911** at Cathcart, Glasgow, Scotland.
+  * **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) and **[Annie Boyle](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911) **on 3rd of June 1885** at Glasgow, Scotland.
+  * **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) and **[Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - ) **about 1908**.
+  * **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - ) and **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ) **on 8th of September 1911** at Cathcart, Glasgow, Scotland.
 
 ## Hunter
 
-  * **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ) and **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - ) **on 8th of September 1911** at Cathcart, Glasgow, Scotland.
+  * **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ) and **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - ) **on 8th of September 1911** at Cathcart, Glasgow, Scotland.
 
 ## Lawrence
 

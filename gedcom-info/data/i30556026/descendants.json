@@ -3,15 +3,24 @@
   "Name": "Annie Boyle",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1863",
   "DateOfDeath": "before 1911",
   "Children": [
+    {
+      "Id": "i70255077",
+      "Name": "Annie McKinlay Howie",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1887",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i60521938",
       "Name": "Peter Alexander Howie",
       "Gender": "Male",
       "Relationship": "son",
-      "DateOfBirth": "about Dec/1889",
+      "DateOfBirth": "15/Jan/1890",
       "DateOfDeath": "",
       "Children": [
         {
@@ -100,6 +109,33 @@
           "Children": []
         }
       ]
+    },
+    {
+      "Id": "i39683867",
+      "Name": "Margaret Taylor Howie",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1892",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i1971089",
+      "Name": "Williamina Boyle Howie",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1894",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i75216465",
+      "Name": "Jeanie Yule Howie",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1897",
+      "DateOfDeath": "",
+      "Children": []
     }
   ]
 }

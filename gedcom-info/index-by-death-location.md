@@ -10,6 +10,7 @@ permalink: /indexes/by-death-location
 - **[, Agnes](people/@96321158@-agnes-b-d.md)**
 - **[, Elizabeth](people/@8553973@-elizabeth-b-d.md)**
 - **[, Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
+- **[, Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - )
 - **[, Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[, Kathleen](people/@37756528@-kathleen-b-d1958.md)** ( - before 1958)
@@ -26,9 +27,10 @@ permalink: /indexes/by-death-location
 - **[Bode, Katherine](people/@8567159@-katherine-bode-b-d1930.md)** ( - before 1930)
 - **[Bolger, Sandra Sarah](people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md)** (30/Aug/1956 - 2023)
 - **[Bond, Helen](people/@39873338@-helen-bond-b-d.md)**
-- **[Boyle, Annie](people/@30556026@-annie-boyle-b-d1911.md)** ( - before 1911)
+- **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911)
 - **[Boyle, Mary](people/@71324323@-mary-boyle-b-d.md)**
 - **[Boyle, Mary](people/@8311886@-mary-boyle-b-d.md)**
+- **[Boyle, William](people/@99276822@-william-boyle-b-d.md)**
 - **[Buchanan, Janet](people/@48339564@-janet-buchanan-b-d.md)**
 - **[Burns, Mary](people/@81238912@-mary-burns-b-d.md)**
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
@@ -185,10 +187,15 @@ permalink: /indexes/by-death-location
 - **[Hendry, Agnes Gibb](people/@79368912@-agnes-gibb-hendry-b-d1936.md)** ( - after 1936)
 - **[Hoctor, James A](people/@72154199@-james-a-hoctor-b-d1993.md)** ( - before 1993)
 - **[Hoctor, Timothy](people/@74378972@-timothy-hoctor-b-d1993.md)** ( - before 1993)
+- **[Howie, Annie McKinlay](people/@70255077@-annie-mckinlay-howie-b1887-d.md)** (about 1887 - )
 - **[Howie, Annie Murie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
-- **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - )
-- **[Howie, Peter](people/@19655531@-peter-howie-b-d.md)**
+- **[Howie, Jeanie Yule](people/@75216465@-jeanie-yule-howie-b1897-d.md)** (1897 - )
+- **[Howie, Margaret](people/@14673281@-margaret-howie-b-d.md)**
+- **[Howie, Margaret Taylor](people/@39683867@-margaret-taylor-howie-b1892-d.md)** (1892 - )
+- **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - )
+- **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - )
 - **[Howie, Peter R](people/@99453615@-peter-r-howie-b1916-8-d.md)** (about Aug/1916 - )
+- **[Howie, Williamina Boyle](people/@1971089@-williamina-boyle-howie-b1894-d.md)** (1894 - )
 - **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
 - **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
@@ -326,6 +333,7 @@ permalink: /indexes/by-death-location
 - **[McKenzie, Murdoch](people/@1568232@-murdoch-mckenzie-b-d.md)**
 - **[McKenzie, Murdoch](people/@99087108@-murdoch-mckenzie-b1890-d.md)** (1890 - )
 - **[McKenzie, William P](people/@51734912@-william-p-mckenzie-b1878-d.md)** (about 1878 - )
+- **[McKinlay, Annie](people/@67691160@-annie-mckinlay-b-d.md)**
 - **[McKnight, Lizzie](people/@31828723@-lizzie-mcknight-b1891-d.md)** (about 1891 - )
 - **[McKnight, Mary](people/@41720825@-mary-mcknight-b1924-d1991.md)** (about 1924 - about 1991)
 - **[McKnight, Nelly](people/@63393644@-nelly-mcknight-b1896-d.md)** (about 1896 - )
@@ -547,6 +555,9 @@ permalink: /indexes/by-death-location
 - **[Watt, Agnes](people/@64447674@-agnes-watt-b-d.md)**
 - **[Williamson, Agnes](people/@35381484@-agnes-williamson-b1815-10-11-d.md)** (11/Oct/1815 - )
 - **[Williamson, William](people/@67023796@-william-williamson-b-d.md)**
+- **[Wills, David N](people/@24358912@-david-n-wills-b1891-d.md)** (about 1891 - )
+- **[Wills, Jessie Hamilton](people/@87891536@-jessie-hamilton-wills-b1890-d.md)** (1890 - )
+- **[Wills, Robert M](people/@15072794@-robert-m-wills-b1893-d.md)** (about 1893 - )
 - **[Wilson, Alice](people/@71120788@-alice-wilson-b1875-d.md)** (about 1875 - )
 - **[Wilson, Annie](people/@8935795@-annie-wilson-b1869-d.md)** (about 1869 - )
 - **[Wilson, Clarence](people/@11868717@-clarence-wilson-b-d.md)**

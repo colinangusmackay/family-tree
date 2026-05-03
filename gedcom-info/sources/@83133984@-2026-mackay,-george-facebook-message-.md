@@ -9,8 +9,9 @@ permalink: /sources/s83133984
 
 Field | Detail
 ---:|:---
+Original Document Date | Apr/2026
 Source Created | 4/Apr/2026 15:50:59
-Source Last Updated | 4/Apr/2026 15:54:11
+Source Last Updated | 2/May/2026 15:51:33
 
 ## Text
 
@@ -26,6 +27,12 @@ Source Last Updated | 4/Apr/2026 15:54:11
 ### 
 
 ![](../media/22710302.jpg)
+
+## Notes
+
+> Eisenhower threatened Britain economically, not militarily.
+>
+
 
 ## Source Referenced by
 

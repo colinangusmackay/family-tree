@@ -1,0 +1,71 @@
+﻿{
+  "Subject": {
+    "Id": "i47342988",
+    "Name": "Helen",
+    "Gender": "Female",
+    "DateOfBirth": "about 1861",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i47342988",
+      "Name": "Helen",
+      "Gender": "Female",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i19655531",
+      "Name": "Peter Howie",
+      "Gender": "Male",
+      "DateOfBirth": "9/Feb/1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "about 1908",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i87891536",
+      "Name": "Jessie Hamilton Wills",
+      "Gender": "Female",
+      "DateOfBirth": "1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i19655531",
+        "i47342988"
+      ]
+    },
+    {
+      "Id": "i24358912",
+      "Name": "David N Wills",
+      "Gender": "Male",
+      "DateOfBirth": "about 1891",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i19655531",
+        "i47342988"
+      ]
+    },
+    {
+      "Id": "i15072794",
+      "Name": "Robert M Wills",
+      "Gender": "Male",
+      "DateOfBirth": "about 1893",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i19655531",
+        "i47342988"
+      ]
+    }
+  ]
+}

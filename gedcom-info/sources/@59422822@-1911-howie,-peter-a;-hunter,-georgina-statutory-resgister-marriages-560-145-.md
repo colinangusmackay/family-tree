@@ -13,7 +13,7 @@ Original Document Date | 11/Sep/1911
 Responsible Agency | National Records of Scotland
 References | 1911 M 560/ 145
 Source Created | 8/Dec/2024 21:17:58
-Source Last Updated | 8/Dec/2024 21:52:23
+Source Last Updated | 3/May/2026 16:27:52
 
 ## Text
 
@@ -53,7 +53,7 @@ Source Last Updated | 8/Dec/2024 21:52:23
 >
 > Age: 22
 >
-> Usual Residence: 28 East____ Street, Shettleston.
+> Usual Residence: 28 Eastmuir Street, Shettleston.
 >
 > Name, Surname and Profession of Father: James Hunter, Joiner Journeyman
 >
@@ -63,7 +63,7 @@ Source Last Updated | 8/Dec/2024 21:52:23
 >
 > Officiating Minister: E. Sherwood ____ St. David's ____ Parish
 >
-> Witness: George _____
+> Witness: George Oliver
 >
 > Witness: Elizabeth Hunter
 >
@@ -77,10 +77,10 @@ Source Last Updated | 8/Dec/2024 21:52:23
 ## Source Referenced by
 
 * Boyle
-  * [Annie Boyle](../people/@30556026@-annie-boyle-b-d1911.md) ( - before 1911)
+  * [Annie Boyle](../people/@30556026@-annie-boyle-b1863-d1911.md) (about 1863 - before 1911)
 * Howie
-  * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1889-12-d.md) (about Dec/1889 - )
-  * [Peter Howie](../people/@19655531@-peter-howie-b-d.md)
+  * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-1-15-d.md) (15/Jan/1890 - )
+  * [Peter Howie](../people/@19655531@-peter-howie-b1861-2-9-d.md) (9/Feb/1861 - )
 * Hunter
   * [Georgina Hunter](../people/@69291286@-georgina-hunter-b1889-d.md) (about 1889 - )
   * [James Hunter](../people/@13263378@-james-hunter-b-d.md)

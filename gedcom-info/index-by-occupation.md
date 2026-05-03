@@ -24,6 +24,10 @@ permalink: /indexes/by-occupation
 
 * **[Hanton, James](people/@30630538@-james-hanton-b1907-d1975.md)** (about 1907 - 1975).
 
+## Army
+
+* **[Mackay, Donald James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011).
+
 ## Auxiliary Nurse
 
 * **[Falloon, Hannah Elder](people/@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md)** (7/Dec/1921 - 1982).
@@ -172,17 +176,20 @@ There were 5 people who worked as a Carpenter of some sort.
 
 * **[Wright, Philip John Anthony](people/@66352546@-philip-john-anthony-wright-b1962-1-d2025-2.md)** (Jan/1962 - Feb/2025).
 
-## Cheese Merchant
-
-* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - ).
-
 ## Cheese Merchant's Salesman
 
-* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - ).
+* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - ).
+
+## Cheese Merchant's Storeman
+
+There were 2 people who worked as a Cheese Merchant's Storeman.
+
+* **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ).
+* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - ).
 
 ## Cheese Storeman
 
-* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - ).
+* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - ).
 
 ## Child Care Professional
 
@@ -214,14 +221,22 @@ There were 2 people who worked as a Child day care business owner.
 
 ## Clerk
 
-There were 2 people who worked as a Clerk.
+There were 3 people who worked as a Clerk.
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973), mentioned twice.
+* **[Wills, Robert M](people/@15072794@-robert-m-wills-b1893-d.md)** (about 1893 - ).
 
 ## Clerk (Film Trade)
 
 * **[Parkinson, Walter Alex](people/@9475046@-walter-alex-parkinson-b1901-d.md)** (1901 - ).
+
+## Clerkess
+
+There were 2 people who worked as a Clerkess.
+
+* **[Howie, Annie McKinlay](people/@70255077@-annie-mckinlay-howie-b1887-d.md)** (about 1887 - ).
+* **[Howie, Margaret Taylor](people/@39683867@-margaret-taylor-howie-b1892-d.md)** (1892 - ).
 
 ## Coal Picker
 
@@ -281,7 +296,7 @@ There were 4 people who worked as a Crofter.
 
 ## Dispatch Clerk
 
-* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - ).
+* **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - ).
 
 ## Dockyard Labourer
 
@@ -289,13 +304,14 @@ There were 4 people who worked as a Crofter.
 
 ## Domestic Servant
 
-There were 26 people who worked as a Domestic Servant of some sort.
+There were 27 people who worked as a Domestic Servant of some sort.
 
 * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946).
 * **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d1985.md)** (23/Aug/1895 - 1985).
 * **[Fleming, Ellen](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - ).
 * **[Fraser, Barbara](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - ).
 * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971).
+* **[Howie, Margaret](people/@14673281@-margaret-howie-b-d.md)**.
 * **[Lawrence, Margaret Kinnomond](people/@71043319@-margaret-kinnomond-lawrence-b1906-d.md)** (1906 - ).
 * **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ).
 * **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
@@ -357,6 +373,9 @@ There were 2 people who worked as a Draftsman, Electrical.
 
 ## Dressmaker
 
+There were 2 people who worked as a Dressmaker.
+
+* **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911).
 * **[Ramsay, Agnes](people/@57916783@-agnes-ramsay-b1873-d.md)** (about 1873 - ).
 
 ## Driver
@@ -479,7 +498,7 @@ There were 2 people who worked as a Farm Labourer.
 
 ## Farm Worker
 
-There were 11 people who worked as a Farm Worker of some sort.
+There were 12 people who worked as a Farm Worker of some sort.
 
 #### Dairy Maid
 
@@ -488,6 +507,7 @@ There were 11 people who worked as a Farm Worker of some sort.
 
 #### Farm Servant
 
+* **[Howie, Margaret](people/@14673281@-margaret-howie-b-d.md)**.
 * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ).
 * **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - ).
 * **[McAughtrie, Isabella](people/@88003126@-isabella-mcaughtrie-b-d.md)**.
@@ -778,6 +798,10 @@ There were 2 people who worked as a General Merchant.
 
 * **[MacKay, Anna Jessie](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021).
 
+## Grocer
+
+* **[Wills, David N](people/@24358912@-david-n-wills-b1891-d.md)** (about 1891 - ).
+
 ## Gunner, Royal Artillery
 
 * **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008).
@@ -1051,7 +1075,7 @@ There were 2 people who worked as a Manager of some sort.
 
 ## Mercantile Clerk
 
-* **[Howie, Peter](people/@19655531@-peter-howie-b-d.md)**.
+* **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ).
 
 ## Mercantile Marine
 
@@ -1431,6 +1455,9 @@ There were 2 people who worked as a Shipwright.
 
 ## Shoemaker (journeyman)
 
+There were 2 people who worked as a Shoemaker (journeyman).
+
+* **[Boyle, William](people/@99276822@-william-boyle-b-d.md)**.
 * **[Mackay, Kenneth](people/@27357972@-kenneth-mackay-b-d.md)**.
 
 ## Shorthand Typist
@@ -1564,9 +1591,13 @@ There were 5 people who worked as a Threadmill Worker.
 
 * **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024).
 
+## Typist
+
+* **[Howie, Williamina Boyle](people/@1971089@-williamina-boyle-howie-b1894-d.md)** (1894 - ), mentioned twice.
+
 ## US Navy
 
-* **[Roberts, Derry](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025).
+* **[Roberts, Derry](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025), mentioned twice.
 
 ## Variety Artist, Travelling
 

@@ -1,0 +1,38 @@
+﻿{
+  "Id": "i87891536",
+  "Name": "Jessie Hamilton Wills",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "1890",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i47342988",
+      "Name": "Helen",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i19655531",
+      "Name": "Peter Howie",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "9/Feb/1861",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i14673281",
+          "Name": "Margaret Howie",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

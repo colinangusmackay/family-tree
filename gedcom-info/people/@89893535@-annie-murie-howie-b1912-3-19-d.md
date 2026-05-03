@@ -16,7 +16,7 @@ permalink: /people/i89893535
 ## Immediate Family
 
 * Mother: [Georgina Hunter](./@69291286@-georgina-hunter-b1889-d.md) (about 1889 - )
-* Father: [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1889-12-d.md) (about Dec/1889 - )
+* Father: [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1890-1-15-d.md) (15/Jan/1890 - )
 * Husband: [James Gilchrist](./@43287262@-james-gilchrist-b1904-9-9-d1998.md) (9/Sep/1904 - 1998)
 * Brother: [Peter R Howie](./@99453615@-peter-r-howie-b1916-8-d.md) (about Aug/1916 - )
 * Son: X
@@ -25,7 +25,7 @@ permalink: /people/i89893535
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-19/Mar/1912 | Born | Born to [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1889-12-d.md) and [Georgina Hunter](./@69291286@-georgina-hunter-b1889-d.md) in Cathcart, Glasgow, Scotland. | [1](#1), [2](#2) | 
+19/Mar/1912 | Born | Born to [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1890-1-15-d.md) and [Georgina Hunter](./@69291286@-georgina-hunter-b1889-d.md) in Cathcart, Glasgow, Scotland. | [1](#1), [2](#2) | 
 1921 | Census | Census | [3](#3) | 
 
 ## Known Residences
@@ -44,9 +44,9 @@ Date | Occupation | Sources & Notes
 
 ### 1
 
-**1912 HOWIE, ANNIE MURIE**
+**1912 HOWIE, ANNIE MURIE (Statutory Register of Births 560/ 228)**
 
-* [Full text and notes](../sources/@11201639@-1912-howie,-annie-murie.md)
+* [Full text and notes](../sources/@11201639@-1912-howie,-annie-murie-statutory-register-of-births-560-228-.md)
 * Date: 25/Mar/1912
 * Responsible Agency: National Records of Scotland
 * References: 

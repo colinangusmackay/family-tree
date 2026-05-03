@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i67691160",
+    "Name": "Annie McKinlay",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i67691160",
+      "Name": "Annie McKinlay",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i99276822",
+      "Name": "William Boyle",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i30556026",
+      "Name": "Annie Boyle",
+      "Gender": "Female",
+      "DateOfBirth": "about 1863",
+      "DateOfDeath": "before 1911",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i99276822",
+        "i67691160"
+      ]
+    }
+  ]
+}

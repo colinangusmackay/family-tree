@@ -304,6 +304,8 @@ permalink: /indexes/by-residence-location
 
 ### Glasgow
 
+- **[, Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - )
+- **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911)
 - **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[Crawford, Mary Hendry](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991)
 - **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965)
@@ -313,8 +315,12 @@ permalink: /indexes/by-residence-location
 - **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d1985.md)** (23/Aug/1895 - 1985)
 - **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - )
 - **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998)
+- **[Howie, Annie McKinlay](people/@70255077@-annie-mckinlay-howie-b1887-d.md)** (about 1887 - )
 - **[Howie, Annie Murie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
-- **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - )
+- **[Howie, Jeanie Yule](people/@75216465@-jeanie-yule-howie-b1897-d.md)** (1897 - )
+- **[Howie, Margaret Taylor](people/@39683867@-margaret-taylor-howie-b1892-d.md)** (1892 - )
+- **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - )
+- **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - )
 - **[Lorimer, Archibald King](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - )
 - **[Mackay, Donald James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
 - **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
@@ -347,6 +353,9 @@ permalink: /indexes/by-residence-location
 - **[Paton, John](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - )
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
 - **[Thomson, Agnes Watson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
+- **[Wills, David N](people/@24358912@-david-n-wills-b1891-d.md)** (about 1891 - )
+- **[Wills, Jessie Hamilton](people/@87891536@-jessie-hamilton-wills-b1890-d.md)** (1890 - )
+- **[Wills, Robert M](people/@15072794@-robert-m-wills-b1893-d.md)** (about 1893 - )
 
 #### Maryhill
 

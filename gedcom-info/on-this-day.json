@@ -163,6 +163,10 @@
             {
               "Date": "1907-01-15",
               "Description": "[James Fisher Ramsay](/family-tree/people/i58012424) was born on 15th of January 1907 at 22:00 to [John Ramsay](/family-tree/people/i64225415) and [Helen Currie Fisher](/family-tree/people/i18426904) at 24 Milton Street, Edinburgh, Scotland."
+            },
+            {
+              "Date": "1890-01-15",
+              "Description": "[Peter Alexander Howie](/family-tree/people/i60521938) was born on 15th of January 1890 at 13:00 to [Peter Howie](/family-tree/people/i19655531) and [Annie Boyle](/family-tree/people/i30556026) at 90 Gallowgate, Glasgow, Scotland."
             }
           ]
         },
@@ -443,6 +447,10 @@
         {
           "Day": 9,
           "Events": [
+            {
+              "Date": "1861-02-09",
+              "Description": "[Peter Howie](/family-tree/people/i19655531) was born on 9th of February 1861 at 05:00 to [Margaret Howie](/family-tree/people/i14673281) at Rinnhal Croft, Cookney, Aberdeenshire, Scotland."
+            },
             {
               "Date": "1934-02-09",
               "Description": "[Jean Grant](/family-tree/people/i81075921) got married to [Alexander Fraser](/family-tree/people/i91293396) on 9th of February 1934 in Dornoch, Sutherland, Scotland."
@@ -1479,7 +1487,12 @@
         },
         {
           "Day": 3,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1885-06-03",
+              "Description": "[Annie Boyle](/family-tree/people/i30556026) got married to [Peter Howie](/family-tree/people/i19655531) on 3rd of June 1885 at 11 Spoutmouth, Glasgow, Scotland."
+            }
+          ]
         },
         {
           "Day": 4,

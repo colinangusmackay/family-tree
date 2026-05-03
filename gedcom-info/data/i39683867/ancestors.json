@@ -1,0 +1,57 @@
+﻿{
+  "Id": "i39683867",
+  "Name": "Margaret Taylor Howie",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "1892",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i19655531",
+      "Name": "Peter Howie",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "9/Feb/1861",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i14673281",
+          "Name": "Margaret Howie",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i30556026",
+      "Name": "Annie Boyle",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1863",
+      "DateOfDeath": "before 1911",
+      "Parents": [
+        {
+          "Id": "i67691160",
+          "Name": "Annie McKinlay",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i99276822",
+          "Name": "William Boyle",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

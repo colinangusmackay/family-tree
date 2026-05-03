@@ -115,6 +115,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **31/Dec/1884** : **[William Hawthorn](people/@92463484@-william-hawthorn-b1847-d1921.md)** (about 1847 - before 1921) and **[Hannah O'Donnell](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921) at Bathgate, West Lothian, Scotland.
 * **1885**
   * **15/Jan/1885** : **[John Mackay](people/@53390906@-john-mackay-b-d.md)** and **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949) at Stornoway, Eilean Siar, Scotland.
+  * **3/Jun/1885** : **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) and **[Annie Boyle](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911) at Glasgow, Scotland.
 * **1886**
   * **25/Oct/1886** : **[Thomas McKnight](people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md)** (about 1856 - 8/Aug/1897) and **[Margaret Teevin](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - ) at Glasgow, Scotland.
 * **1887**
@@ -175,6 +176,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1907**
   * **24/Dec/1907** : **[James Cumming](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918) and **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - ) at Aberdeen, Aberdeenshire, Scotland.
 * **1908**
+  * **about 1908** : **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) and **[Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - ).
   * **3/Jul/1908** : **[Alexander Ross](people/@34528442@-alexander-ross-b1883-d.md)** (1883 - ) and **[Bella Mackay](people/@54814674@-bella-mackay-b1885-d.md)** (about 1885 - ) at Tain, Ross and Cromarty, Scotland.
 * **1909**
   * **31/Dec/1909** : **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938) and **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) at Glasgow, Scotland.
@@ -186,7 +188,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **15/Jul/1910** : X and **[Lillias Fleming](people/@39306088@-lillias-fleming-b1889-5-25-d.md)** (25/May/1889 - ) at Blackburn, West Lothian, Scotland.
 * **1911**
   * **28/Jul/1911** : **[Elizabeth Cumming](people/@35928164@-elizabeth-cumming-b1882-d.md)** (about 1882 - ) and **[Edward Henderson](people/@4822940@-edward-henderson-b1881-d.md)** (about 1881 - ) at Boston, Massachusetts, United States of America.
-  * **8/Sep/1911** : **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1889-12-d.md)** (about Dec/1889 - ) and **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ) at Cathcart, Glasgow, Scotland.
+  * **8/Sep/1911** : **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - ) and **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ) at Cathcart, Glasgow, Scotland.
   * **30/Nov/1911** : **[Edward O'Malley](people/@76741424@-edward-o'malley-b1890-1-4-d.md)** (4/Jan/1890 - ) and **[Agnes Watson Thomson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - ) at Glasgow, Scotland.
 * **1912**
   * **16/Jan/1912** : **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) at Dornoch, Sutherland, Scotland.
