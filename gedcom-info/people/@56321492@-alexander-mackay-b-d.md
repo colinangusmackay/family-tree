@@ -11,11 +11,6 @@ permalink: /people/i56321492
 * Partner: [Jessie Grant](./@31091676@-jessie-grant-b-d.md)
 * Daughter: [Annie Mackay](./@503334@-annie-mackay-b1865-d1942-5-1.md) (about 1865 - 1/May/1942)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

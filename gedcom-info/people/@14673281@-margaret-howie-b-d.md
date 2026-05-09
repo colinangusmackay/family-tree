@@ -16,11 +16,6 @@ permalink: /people/i14673281
 * Partner: X
 * Son: [Peter Howie](./@19655531@-peter-howie-b1861-2-9-d.md) (9/Feb/1861 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

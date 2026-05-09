@@ -11,11 +11,6 @@ permalink: /people/i22004930
 * Partner: [Margaret MacDonald](./@5053655@-margaret-macdonald-b-d.md)
 * Son: [Alexander Gibson](./@21968540@-alexander-gibson-b1860-d1939.md) (1860 - before 1939)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

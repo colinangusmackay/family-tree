@@ -16,11 +16,6 @@ permalink: /people/i11801376
 * Husband: [James Clark](./@29410614@-james-clark-b-d.md)
 * Daughter: [Catherine Wink Clark](./@35162161@-catherine-wink-clark-b1879-3-27-d.md) (27/Mar/1879 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Residences
 
 Date | Residence | Sources & Notes

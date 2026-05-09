@@ -16,11 +16,6 @@ permalink: /people/i69392899
 * Brother: [James Mackay](./@57588096@-james-mackay-b1828-d.md) (1828 - )
 * Daughter: [Isabella Mackay](./@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md) (6/Aug/1836 - 28/Dec/1862)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

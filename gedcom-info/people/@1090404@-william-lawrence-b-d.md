@@ -11,11 +11,6 @@ permalink: /people/i1090404
 * Partner: [Christina Campbell](./@24281088@-christina-campbell-b-d1931.md) ( - before 1931)
 * Daughter: [Margaret Kinnomond Lawrence](./@71043319@-margaret-kinnomond-lawrence-b1906-d.md) (1906 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

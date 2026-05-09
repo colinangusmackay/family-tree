@@ -11,11 +11,6 @@ permalink: /people/i95320597
 * Wife: [Agnes Russell](./@37924612@-agnes-russell-b-d.md)
 * Son: [Thomas Mitchell Reid](./@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md) (14/Jan/1893 - 10/May/1974)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

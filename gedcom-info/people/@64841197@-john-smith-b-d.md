@@ -11,11 +11,6 @@ permalink: /people/i64841197
 * Partner: [Mary Burns](./@81238912@-mary-burns-b-d.md)
 * Daughter: [Alice Smith](./@30782592@-alice-smith-b1890-d.md) (about 1890 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

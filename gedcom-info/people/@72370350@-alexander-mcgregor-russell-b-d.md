@@ -11,11 +11,6 @@ permalink: /people/i72370350
 * Partner: [Catherine Dickson](./@82920396@-catherine-dickson-b-d1944.md) ( - before 1944)
 * Daughter: [Martha Russell](./@30062456@-martha-russell-b1916-d1963.md) (about 1916 - before 1963)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

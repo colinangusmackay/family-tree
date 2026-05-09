@@ -11,11 +11,6 @@ permalink: /people/i67781103
 * Partner: [Ann Mackay](./@90776940@-ann-mackay-b-d.md)
 * Daughter: [Christina Mackay](./@10983472@-christina-mackay-b1848-d.md) (about 1848 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

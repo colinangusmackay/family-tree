@@ -11,11 +11,6 @@ permalink: /people/i89232476
 * Partner: [Janet Steel](./@22623536@-janet-steel-b-d.md)
 * Son: [Alexander Gilchrist](./@61092708@-alexander-gilchrist-b1877-d.md) (about 1877 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

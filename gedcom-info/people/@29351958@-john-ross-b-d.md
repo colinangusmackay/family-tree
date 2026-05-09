@@ -11,11 +11,6 @@ permalink: /people/i29351958
 * Partner: [Ann Cumming](./@19882075@-ann-cumming-b-d.md)
 * Daughter: [Catherine Ross](./@98280413@-catherine-ross-b1846-d.md) (about 1846 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

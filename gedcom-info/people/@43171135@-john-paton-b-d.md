@@ -11,11 +11,6 @@ permalink: /people/i43171135
 * Partner: [Janet McFarlane](./@96104748@-janet-mcfarlane-b-d.md)
 * Son: [John Paton](./@5211114@-john-paton-b1894-d.md) (about 1894 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

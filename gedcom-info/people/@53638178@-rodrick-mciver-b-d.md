@@ -12,11 +12,6 @@ permalink: /people/i53638178
 * Son: [Roderick McIver](./@91038040@-roderick-mciver-b1821-d1878-10-11.md) (about 1821 - 11/Oct/1878)
 * Daughter: [Christina McIver](./@35976399@-christina-mciver-b1841-d.md) (1841 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

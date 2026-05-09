@@ -11,11 +11,6 @@ permalink: /people/i90699645
 * Wife: [Janet Buchanan](./@48339564@-janet-buchanan-b-d.md)
 * Daughter: [Janet Balfour Dalrymple](./@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md) (16/Dec/1875 - 2/Mar/1960)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

@@ -11,11 +11,6 @@ permalink: /people/i24694904
 * Wife: [Ann Cumming](./@5075008@-ann-cumming-b-d.md)
 * Son: [Donald Mackay](./@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md) (25/Nov/1876 - 22/Nov/1939)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

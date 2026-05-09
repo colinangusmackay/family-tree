@@ -11,11 +11,6 @@ permalink: /people/i13263378
 * Partner: [Annie Murie](./@23704804@-annie-murie-b-d.md)
 * Daughter: [Georgina Hunter](./@69291286@-georgina-hunter-b1889-d.md) (about 1889 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

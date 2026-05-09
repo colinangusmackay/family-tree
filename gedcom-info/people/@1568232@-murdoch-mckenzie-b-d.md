@@ -11,11 +11,6 @@ permalink: /people/i1568232
 * Partner: [Ann Beaton](./@23061759@-ann-beaton-b-d.md)
 * Son: [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) (about 1851 - 23/Jan/1929)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

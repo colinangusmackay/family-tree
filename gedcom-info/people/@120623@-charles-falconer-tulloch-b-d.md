@@ -11,11 +11,6 @@ permalink: /people/i120623
 * Partner: [Mary Ann Robertson](./@92986000@-mary-ann-robertson-b-d.md)
 * Son: [John Robertson Tulloch](./@44608948@-john-robertson-tulloch-b1917-d1988.md) (1917 - 1988)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

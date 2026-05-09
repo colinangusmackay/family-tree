@@ -16,11 +16,6 @@ permalink: /people/i88003126
 * Husband: X
 * Daughter: [Mary Houston McAughtrie](./@54273056@-mary-houston-mcaughtrie-b1918-d.md) (about 1918 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

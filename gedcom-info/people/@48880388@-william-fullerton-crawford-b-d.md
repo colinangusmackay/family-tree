@@ -11,11 +11,6 @@ permalink: /people/i48880388
 * Partner: [Catherine McDonald Rodger](./@66129376@-catherine-mcdonald-rodger-b-d.md)
 * Son: [Thomas Sharp Crawford](./@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md) (3/Aug/1897 - 5/Mar/1968)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

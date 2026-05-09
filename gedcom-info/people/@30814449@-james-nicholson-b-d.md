@@ -11,11 +11,6 @@ permalink: /people/i30814449
 * Partner: [Janet Berry](./@71857147@-janet-berry-b-d.md)
 * Daughter: [Agnes Nicholson](./@65182613@-agnes-nicholson-b1835-d.md) (about 1835 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

@@ -10,11 +10,6 @@ permalink: /people/i24876512
 
 * Son: [Donald Cumming](./@11846578@-donald-cumming-b1891-11-11-d1967-12.md) (11/Nov/1891 - Dec/1967)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Residences
 
 Date | Residence | Sources & Notes

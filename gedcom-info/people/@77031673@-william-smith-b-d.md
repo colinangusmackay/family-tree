@@ -11,11 +11,6 @@ permalink: /people/i77031673
 * Partner: [Elizabeth](./@8553973@-elizabeth-b-d.md)
 * Son: [John Smith](./@3582868@-john-smith-b1825-d1898.md) (about 1825 - before 1898)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

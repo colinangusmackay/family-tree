@@ -11,11 +11,6 @@ permalink: /people/i14463787
 * Wife: [Campbell Elizabeth Munn](./@11230712@-campbell-elizabeth-munn-b-d.md)
 * Daughter: [Hannah Elder Falloon](./@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md) (7/Dec/1921 - 1982)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

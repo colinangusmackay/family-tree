@@ -11,11 +11,6 @@ permalink: /people/i34903625
 * Partner: [Mary Boyle](./@71324323@-mary-boyle-b-d.md)
 * Daughter: [Annie Fern](./@53954394@-annie-fern-b1903-d1946.md) (about 1903 - before 1946)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

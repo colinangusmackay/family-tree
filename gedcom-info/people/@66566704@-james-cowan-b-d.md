@@ -11,11 +11,6 @@ permalink: /people/i66566704
 * Partner: [Rachel Beattie](./@72822722@-rachel-beattie-b-d.md)
 * Daughter: [Agnes Cowan](./@38031148@-agnes-cowan-b1830-d1898-7-4.md) (about 1830 - 4/Jul/1898)
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

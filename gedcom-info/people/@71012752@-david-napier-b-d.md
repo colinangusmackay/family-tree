@@ -20,11 +20,6 @@ permalink: /people/i71012752
 * Daughter: [Jean Napier](./@89412864@-jean-napier-b1847-3-28-d.md) (28/Mar/1847 - )
 * Son: [James Napier](./@29473130@-james-napier-b1849-1-16-d.md) (16/Jan/1849 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Residences
 
 Date | Residence | Sources & Notes

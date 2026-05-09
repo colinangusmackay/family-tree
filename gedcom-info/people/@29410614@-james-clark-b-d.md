@@ -11,11 +11,6 @@ permalink: /people/i29410614
 * Wife: [Jamesina Morrison](./@11801376@-jamesina-morrison-b-d.md)
 * Daughter: [Catherine Wink Clark](./@35162161@-catherine-wink-clark-b1879-3-27-d.md) (27/Mar/1879 - )
 
-## Timeline
-
-Date | Item | Description | Sources | Notes
----|---|---|---|---
-
 ## Known Residences
 
 Date | Residence | Sources & Notes
