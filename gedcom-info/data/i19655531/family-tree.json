@@ -11,8 +11,8 @@
       "Id": "i14673281",
       "Name": "Margaret Howie",
       "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
+      "DateOfBirth": "27/Jul/1843",
+      "DateOfDeath": "26/Jan/1915",
       "RelationToSubject": "mother"
     }
   ],
@@ -34,13 +34,13 @@
   "Spouses": [
     {
       "Id": "i47342988",
-      "Name": "Helen",
+      "Name": "Helen S Niddrie",
       "Gender": "Female",
       "DateOfBirth": "about 1861",
       "DateOfDeath": "",
-      "RelationToSubject": "wife",
-      "DateOfMarriage": "about 1908",
-      "DateOfDivorce": ""
+      "RelationToSubject": "ex-wife",
+      "DateOfMarriage": "27/Mar/1908",
+      "DateOfDivorce": "Mar/1923"
     },
     {
       "Id": "i30556026",
@@ -67,18 +67,6 @@
       ]
     },
     {
-      "Id": "i87891536",
-      "Name": "Jessie Hamilton Wills",
-      "Gender": "Female",
-      "DateOfBirth": "1890",
-      "DateOfDeath": "",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i19655531",
-        "i47342988"
-      ]
-    },
-    {
       "Id": "i60521938",
       "Name": "Peter Alexander Howie",
       "Gender": "Male",
@@ -91,18 +79,6 @@
       ]
     },
     {
-      "Id": "i24358912",
-      "Name": "David N Wills",
-      "Gender": "Male",
-      "DateOfBirth": "about 1891",
-      "DateOfDeath": "",
-      "RelationToSubject": "son",
-      "ParentIds": [
-        "i19655531",
-        "i47342988"
-      ]
-    },
-    {
       "Id": "i39683867",
       "Name": "Margaret Taylor Howie",
       "Gender": "Female",
@@ -112,18 +88,6 @@
       "ParentIds": [
         "i19655531",
         "i30556026"
-      ]
-    },
-    {
-      "Id": "i15072794",
-      "Name": "Robert M Wills",
-      "Gender": "Male",
-      "DateOfBirth": "about 1893",
-      "DateOfDeath": "",
-      "RelationToSubject": "son",
-      "ParentIds": [
-        "i19655531",
-        "i47342988"
       ]
     },
     {

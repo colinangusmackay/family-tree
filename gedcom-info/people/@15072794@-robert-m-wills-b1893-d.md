@@ -9,8 +9,8 @@ permalink: /people/i15072794
 
 ## Immediate Family
 
-* Mother: [Helen](./@47342988@-helen-b1861-d.md) (about 1861 - )
-* Father: [Peter Howie](./@19655531@-peter-howie-b1861-2-9-d.md) (9/Feb/1861 - )
+* Father: [George Will](./@39711353@-george-will-b1861-d.md) (about 1861 - )
+* Mother: [Helen S Niddrie](./@47342988@-helen-s-niddrie-b1861-d.md) (about 1861 - )
 * Sister: [Jessie Hamilton Wills](./@87891536@-jessie-hamilton-wills-b1890-d.md) (1890 - )
 * Brother: [David N Wills](./@24358912@-david-n-wills-b1891-d.md) (about 1891 - )
 
@@ -18,7 +18,7 @@ permalink: /people/i15072794
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-about 1893 | Born | Born to [Peter Howie](./@19655531@-peter-howie-b1861-2-9-d.md) and [Helen](./@47342988@-helen-b1861-d.md) in Glasgow, Scotland. | [1](#1) | 
+about 1893 | Born | Born to [George Will](./@39711353@-george-will-b1861-d.md) and [Helen S Niddrie](./@47342988@-helen-s-niddrie-b1861-d.md) in Glasgow, Scotland. | [1](#1) | 
 1911 | Census | Census | [1](#1) | 
 
 ## Known Residences

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i39711353",
+  "Name": "George Will",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1861",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i5419288",
+      "Name": "David Will",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1886",
+      "Parents": []
+    },
+    {
+      "Id": "i45095242",
+      "Name": "Jane Milne",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

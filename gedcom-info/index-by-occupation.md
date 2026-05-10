@@ -221,10 +221,11 @@ There were 2 people who worked as a Child day care business owner.
 
 ## Clerk
 
-There were 3 people who worked as a Clerk.
+There were 4 people who worked as a Clerk.
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973), mentioned twice.
+* **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ).
 * **[Wills, Robert M](people/@15072794@-robert-m-wills-b1893-d.md)** (about 1893 - ).
 
 ## Clerk (Film Trade)
@@ -283,8 +284,11 @@ There were 2 people who worked as a Cook.
 
 ## Crofter
 
-There were 4 people who worked as a Crofter.
+There were 7 people who worked as a Crofter.
 
+* **[Howie, Margaret](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915).
+* **[Howie, Peter](people/@40872746@-peter-howie-b1803-5-d1876-3-5.md)** (May/1803 - 5/Mar/1876).
+* **[Howie, Peter](people/@82820064@-peter-howie-b1838-d.md)** (about 1838 - ).
 * **[Matheson, Hector](people/@28800527@-hector-matheson-b-d1896.md)** ( - before 1896).
 * **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878).
 * **[McIver, Rodrick](people/@53638178@-rodrick-mciver-b-d.md)**.
@@ -304,14 +308,14 @@ There were 4 people who worked as a Crofter.
 
 ## Domestic Servant
 
-There were 27 people who worked as a Domestic Servant of some sort.
+There were 28 people who worked as a Domestic Servant of some sort.
 
 * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946).
 * **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d1985.md)** (23/Aug/1895 - 1985).
 * **[Fleming, Ellen](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - ).
 * **[Fraser, Barbara](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - ).
 * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971).
-* **[Howie, Margaret](people/@14673281@-margaret-howie-b-d.md)**.
+* **[Howie, Margaret](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915).
 * **[Lawrence, Margaret Kinnomond](people/@71043319@-margaret-kinnomond-lawrence-b1906-d.md)** (1906 - ).
 * **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - ).
 * **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942).
@@ -321,6 +325,7 @@ There were 27 people who worked as a Domestic Servant of some sort.
 * **[McLean, Mary Ann](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - ).
 * **[Morgan, Ann](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - ).
 * **[Munro, Jessie](people/@41510480@-jessie-munro-b1829-d.md)** (about 1829 - ).
+* **[Niddrie, Helen S](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - ).
 * **[O'Donnell, Hannah](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921).
 * **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923).
 * **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ).
@@ -507,7 +512,7 @@ There were 12 people who worked as a Farm Worker of some sort.
 
 #### Farm Servant
 
-* **[Howie, Margaret](people/@14673281@-margaret-howie-b-d.md)**.
+* **[Howie, Margaret](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915).
 * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ).
 * **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - ).
 * **[McAughtrie, Isabella](people/@88003126@-isabella-mcaughtrie-b-d.md)**.
@@ -524,9 +529,11 @@ There were 12 people who worked as a Farm Worker of some sort.
 
 ## Farmer
 
-There were 7 people who worked as a Farmer.
+There were 9 people who worked as a Farmer.
 
 * **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - ).
+* **[Howie, Peter](people/@40872746@-peter-howie-b1803-5-d1876-3-5.md)** (May/1803 - 5/Mar/1876).
+* **[Howie, Peter](people/@82820064@-peter-howie-b1838-d.md)** (about 1838 - ).
 * **[McKay, John](people/@25989156@-john-mckay-b-d1855.md)** ( - before 1855).
 * **[O'Malley, John](people/@50797152@-john-o'malley-b-d1889.md)** ( - before 1889).
 * **[Ross, Donald](people/@4496220@-donald-ross-b1872-8-30-d.md)** (30/Aug/1872 - ).
@@ -923,7 +930,10 @@ There were 5 people who worked as a Joiner of some sort.
 
 ## Joiner Journeyman
 
+There were 2 people who worked as a Joiner Journeyman.
+
 * **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**.
+* **[Will, David](people/@5419288@-david-will-b-d1886.md)** ( - before 1886).
 
 ## Labourer
 
@@ -1075,7 +1085,7 @@ There were 2 people who worked as a Manager of some sort.
 
 ## Mercantile Clerk
 
-* **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ).
+* **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ), mentioned twice.
 
 ## Mercantile Marine
 
@@ -1309,6 +1319,10 @@ There were 3 people who worked as a Railway Fireman.
 
 * **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920).
 
+## Railyway Porter
+
+* **[Will, George](people/@39711353@-george-will-b1861-d.md)** (about 1861 - ).
+
 ## Railyway Worker
 
 * **[Ramsay, John](people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md)** (21/Feb/1880 - 20/Jun/1920).
@@ -1451,6 +1465,9 @@ There were 2 people who worked as a Shipwright.
 
 ## Shoemaker
 
+There were 2 people who worked as a Shoemaker.
+
+* **[Niddrie, David](people/@35199408@-david-niddrie-b-d1908.md)** ( - before 1908).
 * **[Wilson, James](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - ).
 
 ## Shoemaker (journeyman)

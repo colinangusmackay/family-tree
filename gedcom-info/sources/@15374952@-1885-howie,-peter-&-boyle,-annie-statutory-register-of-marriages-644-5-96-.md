@@ -25,6 +25,6 @@ _Redacted because this source is referenced by a (potentially) living person and
   * [Annie Boyle](../people/@30556026@-annie-boyle-b1863-d1911.md) (about 1863 - before 1911)
   * [William Boyle](../people/@99276822@-william-boyle-b-d.md)
 * Howie
-  * [Margaret Howie](../people/@14673281@-margaret-howie-b-d.md)
+  * [Margaret Howie](../people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md) (27/Jul/1843 - 26/Jan/1915)
 * McKinlay
   * [Annie McKinlay](../people/@67691160@-annie-mckinlay-b-d.md)

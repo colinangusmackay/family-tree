@@ -1,33 +1,65 @@
 ﻿{
   "Subject": {
     "Id": "i47342988",
-    "Name": "Helen",
+    "Name": "Helen S Niddrie",
     "Gender": "Female",
     "DateOfBirth": "about 1861",
     "DateOfDeath": ""
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i35199408",
+      "Name": "David Niddrie",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1908",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i14284692",
+      "Name": "Jessie Milne",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1908",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i47342988",
-      "Name": "Helen",
+      "Name": "Helen S Niddrie",
       "Gender": "Female",
       "DateOfBirth": "about 1861",
       "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i14284692",
+          "i35199408"
+        ]
+      ]
     }
   ],
   "Spouses": [
+    {
+      "Id": "i39711353",
+      "Name": "George Will",
+      "Gender": "Male",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "4/Jun/1886",
+      "DateOfDivorce": ""
+    },
     {
       "Id": "i19655531",
       "Name": "Peter Howie",
       "Gender": "Male",
       "DateOfBirth": "9/Feb/1861",
       "DateOfDeath": "",
-      "RelationToSubject": "husband",
-      "DateOfMarriage": "about 1908",
-      "DateOfDivorce": ""
+      "RelationToSubject": "ex-husband",
+      "DateOfMarriage": "27/Mar/1908",
+      "DateOfDivorce": "Mar/1923"
     }
   ],
   "Children": [
@@ -39,7 +71,7 @@
       "DateOfDeath": "",
       "RelationToSubject": "daughter",
       "ParentIds": [
-        "i19655531",
+        "i39711353",
         "i47342988"
       ]
     },
@@ -51,7 +83,7 @@
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [
-        "i19655531",
+        "i39711353",
         "i47342988"
       ]
     },
@@ -63,7 +95,7 @@
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [
-        "i19655531",
+        "i39711353",
         "i47342988"
       ]
     }

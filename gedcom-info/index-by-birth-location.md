@@ -62,6 +62,7 @@ permalink: /indexes/by-birth-location
 - **[Davies, Ann](people/@759904@-ann-davies-b-d1875.md)** ( - before 1875)
 - **[Dickson, Catherine](people/@82920396@-catherine-dickson-b-d1944.md)** ( - before 1944)
 - **[Docherty, Catherine](people/@61251200@-catherine-docherty-b-d1889.md)** ( - before 1889)
+- **[Edward, Isabel](people/@61510080@-isabel-edward-b-d.md)**
 - **[Falloon, William John](people/@14463787@-william-john-falloon-b-d.md)**
 - **[Farnham, Mae](people/@53003230@-mae-farnham-b1872-d.md)** (about 1872 - )
 - **[Faulds, Mary](people/@14943438@-mary-faulds-b-d1901.md)** ( - before 1901)
@@ -123,7 +124,9 @@ permalink: /indexes/by-birth-location
 - **[Hendry, Agnes Gibb](people/@79368912@-agnes-gibb-hendry-b-d1936.md)** ( - after 1936)
 - **[Hoctor, James A](people/@72154199@-james-a-hoctor-b-d1993.md)** ( - before 1993)
 - **[Hoctor, Timothy](people/@74378972@-timothy-hoctor-b-d1993.md)** ( - before 1993)
-- **[Howie, Margaret](people/@14673281@-margaret-howie-b-d.md)**
+- **[Howie, Andrew](people/@69072936@-andrew-howie-b1841-d.md)** (about 1841 - )
+- **[Howie, Peter](people/@32048437@-peter-howie-b-d.md)**
+- **[Howie, Peter](people/@40872746@-peter-howie-b1803-5-d1876-3-5.md)** (May/1803 - 5/Mar/1876)
 - **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
 - **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
@@ -246,6 +249,8 @@ permalink: /indexes/by-birth-location
 - **[McLeod, Margaret](people/@25554110@-margaret-mcleod-b-d.md)**
 - **[McRae, Margaret](people/@57014804@-margaret-mcrae-b-d.md)**
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
+- **[Milne, Jane](people/@45095242@-jane-milne-b-d.md)**
+- **[Milne, Jessie](people/@14284692@-jessie-milne-b-d1908.md)** ( - before 1908)
 - **[Miranda, Rose](people/@47782544@-rose-miranda-b-d.md)**
 - **[Morgan, David](people/@38398015@-david-morgan-b-d.md)**
 - **[Morris, James](people/@82086731@-james-morris-b-d.md)**
@@ -259,6 +264,7 @@ permalink: /indexes/by-birth-location
 - **[Napier, David](people/@71012752@-david-napier-b-d.md)**
 - **[Nicholson, James](people/@30814449@-james-nicholson-b-d.md)**
 - **[Nicholson, Margaret](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - )
+- **[Niddrie, David](people/@35199408@-david-niddrie-b-d1908.md)** ( - before 1908)
 - **[O'Donnell, Edward](people/@4921696@-edward-o'donnell-b-d1884.md)** ( - before 1884)
 - **[O'Malley, Catherine](people/@76642956@-catherine-o'malley-b-d.md)**
 - **[O'Malley, John](people/@50797152@-john-o'malley-b-d1889.md)** ( - before 1889)
@@ -352,6 +358,8 @@ permalink: /indexes/by-birth-location
 - **[Watson, John Blue](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963)
 - **[Watson, John](people/@40547424@-john-watson-b-d1963.md)** ( - before 1963)
 - **[Watt, Agnes](people/@64447674@-agnes-watt-b-d.md)**
+- **[Will, David](people/@5419288@-david-will-b-d1886.md)** ( - before 1886)
+- **[Will, George](people/@39711353@-george-will-b1861-d.md)** (about 1861 - )
 - **[Williamson, William](people/@67023796@-william-williamson-b-d.md)**
 - **[Wilson, Clarence](people/@11868717@-clarence-wilson-b-d.md)**
 - **[Wilson, Ella R](people/@43820265@-ella-r-wilson-b1900-d.md)** (about 1900 - )
@@ -360,6 +368,7 @@ permalink: /indexes/by-birth-location
 - **[Wilson, Margaret](people/@63936152@-margaret-wilson-b1837-d.md)** (about 1837 - )
 - **[Wilson, Stella K](people/@26878767@-stella-k-wilson-b1902-d.md)** (about 1902 - )
 - **[Younger, Mary](people/@25511104@-mary-younger-b-d.md)**
+- **[Yule, Jane](people/@52047082@-jane-yule-b1817-12-13-d1898-3-17.md)** (13/Dec/1817 - 17/Mar/1898)
 
 
 ## Australia
@@ -494,8 +503,16 @@ permalink: /indexes/by-birth-location
 
 #### Aberdeen
 
-- **[, Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - )
 - **[Clark, Catherine Wink](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
+- **[Niddrie, Helen S](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - )
+
+#### Banchory Devenick
+
+- **[Howie, Betty](people/@95875652@-betty-howie-b1845-d.md)** (about 1845 - )
+- **[Howie, Jean](people/@87788832@-jean-howie-b1851-d.md)** (1851 - )
+- **[Howie, Margaret](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915)
+- **[Howie, Peter](people/@82820064@-peter-howie-b1838-d.md)** (about 1838 - )
+- **[Howie, William](people/@26502369@-william-howie-b1847-d.md)** (about 1847 - )
 
 #### Cookney
 
@@ -504,6 +521,10 @@ permalink: /indexes/by-birth-location
 #### Peterhead
 
 - **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - )
+
+#### Portlethen
+
+- **[Howie, George](people/@13337194@-george-howie-b1854-d.md)** (about 1854 - )
 
 ### Angus
 

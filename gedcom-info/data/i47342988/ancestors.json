@@ -1,9 +1,28 @@
 ﻿{
   "Id": "i47342988",
-  "Name": "Helen",
+  "Name": "Helen S Niddrie",
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "about 1861",
   "DateOfDeath": "",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i35199408",
+      "Name": "David Niddrie",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1908",
+      "Parents": []
+    },
+    {
+      "Id": "i14284692",
+      "Name": "Jessie Milne",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1908",
+      "Parents": []
+    }
+  ]
 }

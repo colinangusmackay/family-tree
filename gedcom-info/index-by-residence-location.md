@@ -113,7 +113,33 @@ permalink: /indexes/by-residence-location
 #### Aberdeen
 
 - **[Clark, James](people/@29410614@-james-clark-b-d.md)**
+- **[Howie, Peter](people/@40872746@-peter-howie-b1803-5-d1876-3-5.md)** (May/1803 - 5/Mar/1876)
 - **[Morrison, Jamesina](people/@11801376@-jamesina-morrison-b-d.md)**
+- **[Yule, Jane](people/@52047082@-jane-yule-b1817-12-13-d1898-3-17.md)** (13/Dec/1817 - 17/Mar/1898)
+
+#### Banchory Devenick
+
+- **[Edward, Isabel](people/@61510080@-isabel-edward-b-d.md)**
+- **[Howie, Andrew](people/@69072936@-andrew-howie-b1841-d.md)** (about 1841 - )
+- **[Howie, Betty](people/@95875652@-betty-howie-b1845-d.md)** (about 1845 - )
+- **[Howie, Jean](people/@87788832@-jean-howie-b1851-d.md)** (1851 - )
+- **[Howie, Margaret](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915)
+- **[Howie, Peter](people/@32048437@-peter-howie-b-d.md)**
+- **[Howie, Peter](people/@40872746@-peter-howie-b1803-5-d1876-3-5.md)** (May/1803 - 5/Mar/1876)
+- **[Howie, Peter](people/@82820064@-peter-howie-b1838-d.md)** (about 1838 - )
+- **[Howie, William](people/@26502369@-william-howie-b1847-d.md)** (about 1847 - )
+- **[Yule, Jane](people/@52047082@-jane-yule-b1817-12-13-d1898-3-17.md)** (13/Dec/1817 - 17/Mar/1898)
+
+#### Cookney
+
+- **[Howie, George](people/@13337194@-george-howie-b1854-d.md)** (about 1854 - )
+- **[Howie, Jean](people/@87788832@-jean-howie-b1851-d.md)** (1851 - )
+- **[Howie, Margaret](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915)
+- **[Howie, Peter](people/@40872746@-peter-howie-b1803-5-d1876-3-5.md)** (May/1803 - 5/Mar/1876)
+- **[Howie, Peter](people/@82820064@-peter-howie-b1838-d.md)** (about 1838 - )
+- **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - )
+- **[Howie, William](people/@26502369@-william-howie-b1847-d.md)** (about 1847 - )
+- **[Yule, Jane](people/@52047082@-jane-yule-b1817-12-13-d1898-3-17.md)** (13/Dec/1817 - 17/Mar/1898)
 
 ### Angus
 
@@ -304,7 +330,6 @@ permalink: /indexes/by-residence-location
 
 ### Glasgow
 
-- **[, Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - )
 - **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911)
 - **[Campbell, Linda Margaret](people/@76650284@-linda-margaret-campbell-b1961-10-16-d2016-9-28.md)** (16/Oct/1961 - 28/Sep/2016)
 - **[Crawford, Mary Hendry](people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md)** (22/Mar/1912 - 1991)
@@ -345,6 +370,7 @@ permalink: /indexes/by-residence-location
 - **[McKenzie, William P](people/@51734912@-william-p-mckenzie-b1878-d.md)** (about 1878 - )
 - **[McKnight, Thomas](people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md)** (about 1856 - 8/Aug/1897)
 - **[McLeod, Jeanie](people/@70248352@-jeanie-mcleod-b1897-d.md)** (about 1897 - )
+- **[Niddrie, Helen S](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - )
 - **[O'Malley, Bridget](people/@26923306@-bridget-o'malley-b1882-d.md)** (about 1882 - )
 - **[O'Malley, Edward](people/@76741424@-edward-o'malley-b1890-1-4-d.md)** (4/Jan/1890 - )
 - **[O'Malley, Michael](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - )
@@ -353,6 +379,7 @@ permalink: /indexes/by-residence-location
 - **[Paton, John](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - )
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
 - **[Thomson, Agnes Watson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
+- **[Will, George](people/@39711353@-george-will-b1861-d.md)** (about 1861 - )
 - **[Wills, David N](people/@24358912@-david-n-wills-b1891-d.md)** (about 1891 - )
 - **[Wills, Jessie Hamilton](people/@87891536@-jessie-hamilton-wills-b1890-d.md)** (1890 - )
 - **[Wills, Robert M](people/@15072794@-robert-m-wills-b1893-d.md)** (about 1893 - )
@@ -522,6 +549,12 @@ permalink: /indexes/by-residence-location
 - **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878)
 - **[McIver, Roderick](people/@54470962@-roderick-mciver-b1867-d.md)** (1867 - )
 - **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
+
+### Stirlingshire
+
+#### Campsie
+
+- **[Niddrie, Helen S](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - )
 
 ### Sutherland
 

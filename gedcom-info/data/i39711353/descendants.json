@@ -1,0 +1,37 @@
+﻿{
+  "Id": "i39711353",
+  "Name": "George Will",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1861",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i87891536",
+      "Name": "Jessie Hamilton Wills",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1890",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i24358912",
+      "Name": "David N Wills",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1891",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i15072794",
+      "Name": "Robert M Wills",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1893",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

@@ -3,9 +3,18 @@
   "Name": "Margaret Howie",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "",
-  "DateOfDeath": "",
+  "DateOfBirth": "27/Jul/1843",
+  "DateOfDeath": "26/Jan/1915",
   "Children": [
+    {
+      "Id": "i99618228",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i19655531",
       "Name": "Peter Howie",
@@ -20,15 +29,6 @@
           "Gender": "Female",
           "Relationship": "daughter",
           "DateOfBirth": "about 1887",
-          "DateOfDeath": "",
-          "Children": []
-        },
-        {
-          "Id": "i87891536",
-          "Name": "Jessie Hamilton Wills",
-          "Gender": "Female",
-          "Relationship": "daughter",
-          "DateOfBirth": "1890",
           "DateOfDeath": "",
           "Children": []
         },
@@ -128,29 +128,11 @@
           ]
         },
         {
-          "Id": "i24358912",
-          "Name": "David N Wills",
-          "Gender": "Male",
-          "Relationship": "son",
-          "DateOfBirth": "about 1891",
-          "DateOfDeath": "",
-          "Children": []
-        },
-        {
           "Id": "i39683867",
           "Name": "Margaret Taylor Howie",
           "Gender": "Female",
           "Relationship": "daughter",
           "DateOfBirth": "1892",
-          "DateOfDeath": "",
-          "Children": []
-        },
-        {
-          "Id": "i15072794",
-          "Name": "Robert M Wills",
-          "Gender": "Male",
-          "Relationship": "son",
-          "DateOfBirth": "about 1893",
           "DateOfDeath": "",
           "Children": []
         },

@@ -10,7 +10,6 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## 
 
   * **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ) and **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) **about 1887**.
-  * **[Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - ) and **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) **about 1908**.
   * **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021) and X **on 7th of November 1970**.
   * **[Nancy](people/@68661720@-nancy-b-d.md)** and **[Harry Stead](people/@68900898@-harry-stead-b1888-d.md)** (about 1888 - ) **about 1906**.
 
@@ -89,6 +88,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Janet Balfour Dalrymple](people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md)** (16/Dec/1875 - 2/Mar/1960) and **[Alexander Napier](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952) **on 28th of September 1900** at Kirkcaldy, Fife, Scotland.
   * **[John Dalrymple](people/@90699645@-john-dalrymple-b-d.md)** and **[Janet Buchanan](people/@48339564@-janet-buchanan-b-d.md)** **on 24th of November 1874** at Kinghorn, Fife, Scotland.
+
+## Edward
+
+  * **[Isabel Edward](people/@61510080@-isabel-edward-b-d.md)** and **[Peter Howie](people/@32048437@-peter-howie-b-d.md)** **on 25th of June 1800** at Banchory Devenick, Aberdeenshire, Scotland.
 
 ## Falloon
 
@@ -217,8 +220,9 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Howie
 
   * **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - ) and **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998) **on 31st of August 1933** at Glasgow, Scotland, .
+  * **[Peter Howie](people/@32048437@-peter-howie-b-d.md)** and **[Isabel Edward](people/@61510080@-isabel-edward-b-d.md)** **on 25th of June 1800** at Banchory Devenick, Aberdeenshire, Scotland.
   * **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) and **[Annie Boyle](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911) **on 3rd of June 1885** at Glasgow, Scotland.
-  * **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) and **[Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - ) **about 1908**.
+  * **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) and **[Helen S Niddrie](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - ) **on 27th of March 1908** at Glasgow, Scotland.
   * **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - ) and **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ) **on 8th of September 1911** at Cathcart, Glasgow, Scotland.
 
 ## Hunter
@@ -436,6 +440,11 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Agnes Nicholson](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - ) and **[David Napier](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901) **on 25th of January 1858** at Dysart, Fife, Scotland.
   * **[Margaret Nicholson](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - ) and **[James Wilson](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - ) **on 23rd of November 1839** at Leuchars, Fife, Scotland.
 
+## Niddrie
+
+  * **[Helen S Niddrie](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - ) and **[George Will](people/@39711353@-george-will-b1861-d.md)** (about 1861 - ) **on 4th of June 1886**.
+  * **[Helen S Niddrie](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - ) and **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) **on 27th of March 1908** at Glasgow, Scotland.
+
 ## O'Donnell
 
   * **[Hannah O'Donnell](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921) and **[William Hawthorn](people/@92463484@-william-hawthorn-b1847-d1921.md)** (about 1847 - before 1921) **on 31st of December 1884** at Bathgate, West Lothian, Scotland.
@@ -597,6 +606,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Watson
 
   * **[John Blue Watson](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963) and **[Jessie Johnstone Hanton](people/@56011610@-jessie-johnstone-hanton-b1911-2-23-d1981.md)** (23/Feb/1911 - 1981) **on 7th of February 1930** at Paisley, Renfrewshire, Scotland.
+
+## Will
+
+  * **[George Will](people/@39711353@-george-will-b1861-d.md)** (about 1861 - ) and **[Helen S Niddrie](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - ) **on 4th of June 1886**.
 
 ## Williamson
 

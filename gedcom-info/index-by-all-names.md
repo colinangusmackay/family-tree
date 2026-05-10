@@ -14,7 +14,6 @@ permalink: /indexes/by-all-names
 - **[Elizabeth](people/@8553973@-elizabeth-b-d.md)**
 - **[Granna](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
 - **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
-- **[Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - )
 - **[Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[Jeanie](people/@65592941@-jane-hanton-b1908-d1930-9-3.md)** (about 1908 - 3/Sep/1930)
 - **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
@@ -250,6 +249,10 @@ permalink: /indexes/by-all-names
 ## Docherty
 
 - **[Catherine Docherty](people/@61251200@-catherine-docherty-b-d1889.md)** ( - before 1889)
+
+## Edward
+
+- **[Isabel Edward](people/@61510080@-isabel-edward-b-d.md)**
 
 ## Falloon
 
@@ -534,18 +537,29 @@ permalink: /indexes/by-all-names
 
 ## Howie
 
+- **[Andrew Howie](people/@69072936@-andrew-howie-b1841-d.md)** (about 1841 - )
 - **[Annie McKinlay Howie](people/@70255077@-annie-mckinlay-howie-b1887-d.md)** (about 1887 - )
 - **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
+- **[Betty Howie](people/@95875652@-betty-howie-b1845-d.md)** (about 1845 - )
+- **[George Howie](people/@13337194@-george-howie-b1854-d.md)** (about 1854 - )
 - **[Georgina Howie](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
-- **[Helen S Howie](people/@47342988@-helen-b1861-d.md)** (about 1861 - )
-- **[Howie](people/@14673281@-margaret-howie-b-d.md)**
+- **[Helen S Howie](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - )
+- **[Howie](people/@52047082@-jane-yule-b1817-12-13-d1898-3-17.md)** (13/Dec/1817 - 17/Mar/1898)
+- **[Howie](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915)
 - **[Howie](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911)
+- **[Isabel Howie](people/@61510080@-isabel-edward-b-d.md)**
+- **[Jane Howie](people/@87788832@-jean-howie-b1851-d.md)** (1851 - )
+- **[Jean Howie](people/@87788832@-jean-howie-b1851-d.md)** (1851 - )
 - **[Jeanie Yule Howie](people/@75216465@-jeanie-yule-howie-b1897-d.md)** (1897 - )
-- **[Margaret Howie](people/@14673281@-margaret-howie-b-d.md)**
+- **[Margaret Howie](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915)
 - **[Margaret Taylor Howie](people/@39683867@-margaret-taylor-howie-b1892-d.md)** (1892 - )
 - **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - )
+- **[Peter Howie](people/@32048437@-peter-howie-b-d.md)**
+- **[Peter Howie](people/@40872746@-peter-howie-b1803-5-d1876-3-5.md)** (May/1803 - 5/Mar/1876)
+- **[Peter Howie](people/@82820064@-peter-howie-b1838-d.md)** (about 1838 - )
 - **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - )
 - **[Peter R Howie](people/@99453615@-peter-r-howie-b1916-8-d.md)** (about Aug/1916 - )
+- **[William Howie](people/@26502369@-william-howie-b1847-d.md)** (about 1847 - )
 - **[Williamina Boyle Howie](people/@1971089@-williamina-boyle-howie-b1894-d.md)** (1894 - )
 
 ## Hunter
@@ -966,6 +980,11 @@ permalink: /indexes/by-all-names
 
 - **[May Miller](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
 
+## Milne
+
+- **[Jane Milne](people/@45095242@-jane-milne-b-d.md)**
+- **[Jessie Milne](people/@14284692@-jessie-milne-b-d1908.md)** ( - before 1908)
+
 ## Miranda
 
 - **[Rose Miranda](people/@47782544@-rose-miranda-b-d.md)**
@@ -1062,6 +1081,12 @@ permalink: /indexes/by-all-names
 - **[James Nicholson](people/@30814449@-james-nicholson-b-d.md)**
 - **[Margaret Nicholson](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - )
 - **[Nicholson](people/@71857147@-janet-berry-b-d.md)**
+
+## Niddrie
+
+- **[David Niddrie](people/@35199408@-david-niddrie-b-d1908.md)** ( - before 1908)
+- **[Helen S Niddrie](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - )
+- **[Jessie Niddrie](people/@14284692@-jessie-milne-b-d1908.md)** ( - before 1908)
 
 ## Nolan
 
@@ -1501,6 +1526,12 @@ permalink: /indexes/by-all-names
 
 - **[Joan West](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 
+## Will
+
+- **[David Will](people/@5419288@-david-will-b-d1886.md)** ( - before 1886)
+- **[George Will](people/@39711353@-george-will-b1861-d.md)** (about 1861 - )
+- **[Jane Will](people/@45095242@-jane-milne-b-d.md)**
+
 ## Williamson
 
 - **[Agnes Williamson](people/@35381484@-agnes-williamson-b1815-10-11-d.md)** (11/Oct/1815 - )
@@ -1557,3 +1588,7 @@ permalink: /indexes/by-all-names
 ## Younger
 
 - **[Mary Younger](people/@25511104@-mary-younger-b-d.md)**
+
+## Yule
+
+- **[Jane Yule](people/@52047082@-jane-yule-b1817-12-13-d1898-3-17.md)** (13/Dec/1817 - 17/Mar/1898)

@@ -1,0 +1,129 @@
+﻿{
+  "Subject": {
+    "Id": "i87788832",
+    "Name": "Jean Howie",
+    "Gender": "Female",
+    "DateOfBirth": "1851",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i40872746",
+      "Name": "Peter Howie",
+      "Gender": "Male",
+      "DateOfBirth": "May/1803",
+      "DateOfDeath": "5/Mar/1876",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i52047082",
+      "Name": "Jane Yule",
+      "Gender": "Female",
+      "DateOfBirth": "13/Dec/1817",
+      "DateOfDeath": "17/Mar/1898",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i82820064",
+      "Name": "Peter Howie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1838",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i40872746",
+          "i52047082"
+        ]
+      ]
+    },
+    {
+      "Id": "i69072936",
+      "Name": "Andrew Howie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1841",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i40872746",
+          "i52047082"
+        ]
+      ]
+    },
+    {
+      "Id": "i14673281",
+      "Name": "Margaret Howie",
+      "Gender": "Female",
+      "DateOfBirth": "27/Jul/1843",
+      "DateOfDeath": "26/Jan/1915",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i40872746",
+          "i52047082"
+        ]
+      ]
+    },
+    {
+      "Id": "i95875652",
+      "Name": "Betty Howie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1845",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i40872746",
+          "i52047082"
+        ]
+      ]
+    },
+    {
+      "Id": "i26502369",
+      "Name": "William Howie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1847",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i40872746",
+          "i52047082"
+        ]
+      ]
+    },
+    {
+      "Id": "i87788832",
+      "Name": "Jean Howie",
+      "Gender": "Female",
+      "DateOfBirth": "1851",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i40872746",
+          "i52047082"
+        ]
+      ]
+    },
+    {
+      "Id": "i13337194",
+      "Name": "George Howie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1854",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i40872746",
+          "i52047082"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

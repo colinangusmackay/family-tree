@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i32048437",
+    "Name": "Peter Howie",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i32048437",
+      "Name": "Peter Howie",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i61510080",
+      "Name": "Isabel Edward",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "25/Jun/1800",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i40872746",
+      "Name": "Peter Howie",
+      "Gender": "Male",
+      "DateOfBirth": "May/1803",
+      "DateOfDeath": "5/Mar/1876",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i32048437",
+        "i61510080"
+      ]
+    }
+  ]
+}

@@ -8,20 +8,20 @@
   },
   "Parents": [
     {
+      "Id": "i39711353",
+      "Name": "George Will",
+      "Gender": "Male",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
       "Id": "i47342988",
-      "Name": "Helen",
+      "Name": "Helen S Niddrie",
       "Gender": "Female",
       "DateOfBirth": "about 1861",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
-    },
-    {
-      "Id": "i19655531",
-      "Name": "Peter Howie",
-      "Gender": "Male",
-      "DateOfBirth": "9/Feb/1861",
-      "DateOfDeath": "",
-      "RelationToSubject": "father"
     }
   ],
   "Siblings": [
@@ -34,7 +34,7 @@
       "RelationToSubject": "sister",
       "ParentGroupIds": [
         [
-          "i19655531",
+          "i39711353",
           "i47342988"
         ]
       ]
@@ -48,7 +48,7 @@
       "RelationToSubject": "brother",
       "ParentGroupIds": [
         [
-          "i19655531",
+          "i39711353",
           "i47342988"
         ]
       ]
@@ -62,7 +62,7 @@
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
-          "i19655531",
+          "i39711353",
           "i47342988"
         ]
       ]

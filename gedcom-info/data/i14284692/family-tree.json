@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i14284692",
+    "Name": "Jessie Milne",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1908"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i14284692",
+      "Name": "Jessie Milne",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1908",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i35199408",
+      "Name": "David Niddrie",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1908",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i47342988",
+      "Name": "Helen S Niddrie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i35199408",
+        "i14284692"
+      ]
+    }
+  ]
+}

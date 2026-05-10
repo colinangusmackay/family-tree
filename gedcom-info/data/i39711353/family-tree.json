@@ -1,0 +1,93 @@
+﻿{
+  "Subject": {
+    "Id": "i39711353",
+    "Name": "George Will",
+    "Gender": "Male",
+    "DateOfBirth": "about 1861",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i5419288",
+      "Name": "David Will",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1886",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i45095242",
+      "Name": "Jane Milne",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i39711353",
+      "Name": "George Will",
+      "Gender": "Male",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i45095242",
+          "i5419288"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i47342988",
+      "Name": "Helen S Niddrie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "4/Jun/1886",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i87891536",
+      "Name": "Jessie Hamilton Wills",
+      "Gender": "Female",
+      "DateOfBirth": "1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i39711353",
+        "i47342988"
+      ]
+    },
+    {
+      "Id": "i24358912",
+      "Name": "David N Wills",
+      "Gender": "Male",
+      "DateOfBirth": "about 1891",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i39711353",
+        "i47342988"
+      ]
+    },
+    {
+      "Id": "i15072794",
+      "Name": "Robert M Wills",
+      "Gender": "Male",
+      "DateOfBirth": "about 1893",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i39711353",
+        "i47342988"
+      ]
+    }
+  ]
+}

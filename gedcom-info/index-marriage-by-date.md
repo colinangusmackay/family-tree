@@ -18,6 +18,8 @@ A list of marriages, civil partnerships and civil unions by date.
 
 ### 1800s
 
+* **1800**
+  * **25/Jun/1800** : **[Peter Howie](people/@32048437@-peter-howie-b-d.md)** and **[Isabel Edward](people/@61510080@-isabel-edward-b-d.md)** at Banchory Devenick, Aberdeenshire, Scotland.
 * **1805**
   * **27/Dec/1805** : **[William Ross](people/@31822850@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and X.
 
@@ -117,6 +119,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **15/Jan/1885** : **[John Mackay](people/@53390906@-john-mackay-b-d.md)** and **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949) at Stornoway, Eilean Siar, Scotland.
   * **3/Jun/1885** : **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) and **[Annie Boyle](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911) at Glasgow, Scotland.
 * **1886**
+  * **4/Jun/1886** : **[George Will](people/@39711353@-george-will-b1861-d.md)** (about 1861 - ) and **[Helen S Niddrie](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - ).
   * **25/Oct/1886** : **[Thomas McKnight](people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md)** (about 1856 - 8/Aug/1897) and **[Margaret Teevin](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - ) at Glasgow, Scotland.
 * **1887**
   * **about 1887** : **[William Stead](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - ) and **[Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - ).
@@ -176,7 +179,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1907**
   * **24/Dec/1907** : **[James Cumming](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918) and **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - ) at Aberdeen, Aberdeenshire, Scotland.
 * **1908**
-  * **about 1908** : **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) and **[Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - ).
+  * **27/Mar/1908** : **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) and **[Helen S Niddrie](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - ) at Glasgow, Scotland.
   * **3/Jul/1908** : **[Alexander Ross](people/@34528442@-alexander-ross-b1883-d.md)** (1883 - ) and **[Bella Mackay](people/@54814674@-bella-mackay-b1885-d.md)** (about 1885 - ) at Tain, Ross and Cromarty, Scotland.
 * **1909**
   * **31/Dec/1909** : **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938) and **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) at Glasgow, Scotland.

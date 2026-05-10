@@ -10,7 +10,6 @@ permalink: /indexes/by-death-location
 - **[, Agnes](people/@96321158@-agnes-b-d.md)**
 - **[, Elizabeth](people/@8553973@-elizabeth-b-d.md)**
 - **[, Harriet](people/@98128898@-harriet-b1867-d.md)** (about 1867 - )
-- **[, Helen](people/@47342988@-helen-b1861-d.md)** (about 1861 - )
 - **[, Isabella](people/@41136024@-isabella-b-d1864.md)** ( - after 1864)
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[, Kathleen](people/@37756528@-kathleen-b-d1958.md)** ( - before 1958)
@@ -81,6 +80,7 @@ permalink: /indexes/by-death-location
 - **[Davies, Ann](people/@759904@-ann-davies-b-d1875.md)** ( - before 1875)
 - **[Dickson, Catherine](people/@82920396@-catherine-dickson-b-d1944.md)** ( - before 1944)
 - **[Docherty, Catherine](people/@61251200@-catherine-docherty-b-d1889.md)** ( - before 1889)
+- **[Edward, Isabel](people/@61510080@-isabel-edward-b-d.md)**
 - **[Falloon, Hannah Elder](people/@97706646@-hannah-elder-falloon-b1921-12-7-d1982.md)** (7/Dec/1921 - 1982)
 - **[Falloon, William John](people/@14463787@-william-john-falloon-b-d.md)**
 - **[Farnham, Mae](people/@53003230@-mae-farnham-b1872-d.md)** (about 1872 - )
@@ -187,14 +187,20 @@ permalink: /indexes/by-death-location
 - **[Hendry, Agnes Gibb](people/@79368912@-agnes-gibb-hendry-b-d1936.md)** ( - after 1936)
 - **[Hoctor, James A](people/@72154199@-james-a-hoctor-b-d1993.md)** ( - before 1993)
 - **[Hoctor, Timothy](people/@74378972@-timothy-hoctor-b-d1993.md)** ( - before 1993)
+- **[Howie, Andrew](people/@69072936@-andrew-howie-b1841-d.md)** (about 1841 - )
 - **[Howie, Annie McKinlay](people/@70255077@-annie-mckinlay-howie-b1887-d.md)** (about 1887 - )
 - **[Howie, Annie Murie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
+- **[Howie, Betty](people/@95875652@-betty-howie-b1845-d.md)** (about 1845 - )
+- **[Howie, George](people/@13337194@-george-howie-b1854-d.md)** (about 1854 - )
+- **[Howie, Jean](people/@87788832@-jean-howie-b1851-d.md)** (1851 - )
 - **[Howie, Jeanie Yule](people/@75216465@-jeanie-yule-howie-b1897-d.md)** (1897 - )
-- **[Howie, Margaret](people/@14673281@-margaret-howie-b-d.md)**
 - **[Howie, Margaret Taylor](people/@39683867@-margaret-taylor-howie-b1892-d.md)** (1892 - )
 - **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - )
+- **[Howie, Peter](people/@32048437@-peter-howie-b-d.md)**
+- **[Howie, Peter](people/@82820064@-peter-howie-b1838-d.md)** (about 1838 - )
 - **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - )
 - **[Howie, Peter R](people/@99453615@-peter-r-howie-b1916-8-d.md)** (about Aug/1916 - )
+- **[Howie, William](people/@26502369@-william-howie-b1847-d.md)** (about 1847 - )
 - **[Howie, Williamina Boyle](people/@1971089@-williamina-boyle-howie-b1894-d.md)** (1894 - )
 - **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
 - **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**
@@ -356,6 +362,8 @@ permalink: /indexes/by-death-location
 - **[McTurk, Grace](people/@54145218@-grace-mcturk-b1886-12-20-d.md)** (20/Dec/1886 - )
 - **[McTurk, Jane](people/@18380667@-jane-mcturk-b1880-2-22-d.md)** (22/Feb/1880 - )
 - **[Miller, May](people/@41411602@-may-miller-b1881-d.md)** (about 1881 - )
+- **[Milne, Jane](people/@45095242@-jane-milne-b-d.md)**
+- **[Milne, Jessie](people/@14284692@-jessie-milne-b-d1908.md)** ( - before 1908)
 - **[Miranda, Rose](people/@47782544@-rose-miranda-b-d.md)**
 - **[Mitchell, Robert](people/@86070232@-robert-mitchell-b1886-d.md)** (1886 - )
 - **[Mitchell, Thomas](people/@47829915@-thomas-mitchell-b1860-d.md)** (1860 - )
@@ -389,6 +397,8 @@ permalink: /indexes/by-death-location
 - **[Nicholson, Agnes](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - )
 - **[Nicholson, James](people/@30814449@-james-nicholson-b-d.md)**
 - **[Nicholson, Margaret](people/@22262126@-margaret-nicholson-b1821-d.md)** (about 1821 - )
+- **[Niddrie, David](people/@35199408@-david-niddrie-b-d1908.md)** ( - before 1908)
+- **[Niddrie, Helen S](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - )
 - **[O'Donnell, Edward](people/@4921696@-edward-o'donnell-b-d1884.md)** ( - before 1884)
 - **[O'Donnell, Hannah](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921)
 - **[O'Malley, Bridget](people/@26923306@-bridget-o'malley-b1882-d.md)** (about 1882 - )
@@ -553,6 +563,8 @@ permalink: /indexes/by-death-location
 - **[Walker, W. J.](people/@9365293@-w.-j.-walker-b-d.md)**
 - **[Watson, John](people/@40547424@-john-watson-b-d1963.md)** ( - before 1963)
 - **[Watt, Agnes](people/@64447674@-agnes-watt-b-d.md)**
+- **[Will, David](people/@5419288@-david-will-b-d1886.md)** ( - before 1886)
+- **[Will, George](people/@39711353@-george-will-b1861-d.md)** (about 1861 - )
 - **[Williamson, Agnes](people/@35381484@-agnes-williamson-b1815-10-11-d.md)** (11/Oct/1815 - )
 - **[Williamson, William](people/@67023796@-william-williamson-b-d.md)**
 - **[Wills, David N](people/@24358912@-david-n-wills-b1891-d.md)** (about 1891 - )
@@ -626,6 +638,14 @@ permalink: /indexes/by-death-location
 
 
 ## Scotland
+
+### Aberdeenshire
+
+#### Aberdeen
+
+- **[Howie, Margaret](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915)
+- **[Howie, Peter](people/@40872746@-peter-howie-b1803-5-d1876-3-5.md)** (May/1803 - 5/Mar/1876)
+- **[Yule, Jane](people/@52047082@-jane-yule-b1817-12-13-d1898-3-17.md)** (13/Dec/1817 - 17/Mar/1898)
 
 ### Ayrshire
 

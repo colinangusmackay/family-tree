@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i45095242",
+    "Name": "Jane Milne",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i45095242",
+      "Name": "Jane Milne",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i5419288",
+      "Name": "David Will",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1886",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i39711353",
+      "Name": "George Will",
+      "Gender": "Male",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i5419288",
+        "i45095242"
+      ]
+    }
+  ]
+}

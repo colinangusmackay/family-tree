@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i40872746",
+  "Name": "Peter Howie",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "May/1803",
+  "DateOfDeath": "5/Mar/1876",
+  "Parents": [
+    {
+      "Id": "i61510080",
+      "Name": "Isabel Edward",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i32048437",
+      "Name": "Peter Howie",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

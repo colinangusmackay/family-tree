@@ -297,6 +297,10 @@
           "Day": 26,
           "Events": [
             {
+              "Date": "1915-01-26",
+              "Description": "[Margaret Howie](/family-tree/people/i14673281) died on 26th of January 1915 at 19:05 in Aberdeen, Aberdeenshire, Scotland."
+            },
+            {
               "Date": "1917-01-26",
               "Description": "[John Donald Ross](/family-tree/people/i60714754) died on 26th of January 1917 in , At Sea."
             },
@@ -695,6 +699,10 @@
               "Description": "[Virginia C Simonet](/family-tree/people/i33863084) died on 5th of March 1998 in Norwalk, Fairfield County, Connecticut, United States of America."
             },
             {
+              "Date": "1876-03-05",
+              "Description": "[Peter Howie](/family-tree/people/i40872746) died on 5th of March 1876 in Aberdeen, Aberdeenshire, Scotland."
+            },
+            {
               "Date": "1867-03-05",
               "Description": "[Alexander MacDonald](/family-tree/people/i81905126) was born on 5th of March 1867 at 08:00 to [James MacDonald](/family-tree/people/i74881641) and [Christina Ross](/family-tree/people/i81183416) in Golspie, Sutherland, Scotland."
             }
@@ -798,6 +806,10 @@
         {
           "Day": 17,
           "Events": [
+            {
+              "Date": "1898-03-17",
+              "Description": "[Jane Yule](/family-tree/people/i52047082) died on 17th of March 1898 in Aberdeen, Aberdeenshire, Scotland."
+            },
             {
               "Date": "2018-03-17",
               "Description": "[Phylis Martensen](/family-tree/people/i56344636) died on 17th of March 2018 in Falmouth, Barnstable County, Massachusetts, United States of America."
@@ -1968,6 +1980,10 @@
         {
           "Day": 27,
           "Events": [
+            {
+              "Date": "1843-07-27",
+              "Description": "[Margaret Howie](/family-tree/people/i14673281) was born on 27th of July 1843 to [Peter Howie](/family-tree/people/i40872746) and [Jane Yule](/family-tree/people/i52047082) at Clashfarquhar, Banchory Devenick, Aberdeenshire, Scotland."
+            },
             {
               "Date": "1855-07-27",
               "Description": "[Susan McKay](/family-tree/people/i29671874) got married to [Richard Tevin](/family-tree/people/i65007133) on 27th of July 1855 at St. Paul's Catholic Church, Lennoxtown, Scotland."
@@ -3405,7 +3421,12 @@
         },
         {
           "Day": 13,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1817-12-13",
+              "Description": "[Jane Yule](/family-tree/people/i52047082) was born on 13th of December 1817."
+            }
+          ]
         },
         {
           "Day": 14,

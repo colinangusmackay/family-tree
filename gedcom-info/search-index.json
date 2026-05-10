@@ -519,6 +519,37 @@
     ]
   },
   {
+    "id": "i13337194",
+    "nameParts": [
+      "george",
+      "howie"
+    ],
+    "wholeNames": [
+      "George Howie"
+    ],
+    "birth": {
+      "date": "about 1854",
+      "year": 1854,
+      "place": [
+        "portlethen",
+        "aberdeenshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "cookney",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1861
+        ]
+      }
+    ]
+  },
+  {
     "id": "i13773669",
     "nameParts": [
       "cumming",
@@ -715,6 +746,21 @@
     ]
   },
   {
+    "id": "i14284692",
+    "nameParts": [
+      "jessie",
+      "milne",
+      "niddrie"
+    ],
+    "wholeNames": [
+      "Jessie Milne",
+      "Jessie Niddrie"
+    ],
+    "death": {
+      "date": "before 1908"
+    }
+  },
+  {
     "id": "i14447152",
     "nameParts": [
       "cumming",
@@ -803,6 +849,50 @@
     "wholeNames": [
       "Howie",
       "Margaret Howie"
+    ],
+    "birth": {
+      "date": "on 27th of July 1843",
+      "year": 1843,
+      "month": 7,
+      "day": 27,
+      "place": [
+        "banchory devenick",
+        "aberdeenshire",
+        "scotland"
+      ]
+    },
+    "death": {
+      "date": "on 26th of January 1915 at 19:05",
+      "year": 1915,
+      "month": 1,
+      "day": 26,
+      "place": [
+        "aberdeen",
+        "aberdeenshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "banchory devenick",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1851
+        ]
+      },
+      {
+        "place": [
+          "cookney",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1861
+        ]
+      }
     ]
   },
   {
@@ -2015,8 +2105,14 @@
     "marriages": [
       {
         "spouse": "i47342988",
-        "date": "about 1908",
-        "year": 1908
+        "date": "on 27th of March 1908",
+        "year": 1908,
+        "month": 3,
+        "day": 27,
+        "place": [
+          "glasgow",
+          "scotland"
+        ]
       },
       {
         "spouse": "i30556026",
@@ -2033,11 +2129,23 @@
     "residences": [
       {
         "place": [
+          "cookney",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1861
+        ]
+      },
+      {
+        "place": [
           "glasgow",
           "scotland"
         ],
         "dates": [
-          1911
+          1908,
+          1911,
+          1923
         ]
       }
     ]
@@ -4393,6 +4501,47 @@
     ]
   },
   {
+    "id": "i26502369",
+    "nameParts": [
+      "howie",
+      "william"
+    ],
+    "wholeNames": [
+      "William Howie"
+    ],
+    "birth": {
+      "date": "about 1847",
+      "year": 1847,
+      "place": [
+        "banchory devenick",
+        "aberdeenshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "banchory devenick",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1851
+        ]
+      },
+      {
+        "place": [
+          "cookney",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1861
+        ]
+      }
+    ]
+  },
+  {
     "id": "i2654341",
     "nameParts": [
       "beatie",
@@ -6196,6 +6345,42 @@
     ]
   },
   {
+    "id": "i32048437",
+    "nameParts": [
+      "howie",
+      "peter"
+    ],
+    "wholeNames": [
+      "Peter Howie"
+    ],
+    "marriages": [
+      {
+        "spouse": "i61510080",
+        "date": "on 25th of June 1800",
+        "year": 1800,
+        "month": 6,
+        "day": 25,
+        "place": [
+          "banchory devenick",
+          "aberdeenshire",
+          "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "banchory devenick",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1800
+        ]
+      }
+    ]
+  },
+  {
     "id": "i32127758",
     "nameParts": [
       "isabella",
@@ -7416,6 +7601,19 @@
     ]
   },
   {
+    "id": "i35199408",
+    "nameParts": [
+      "david",
+      "niddrie"
+    ],
+    "wholeNames": [
+      "David Niddrie"
+    ],
+    "death": {
+      "date": "before 1908"
+    }
+  },
+  {
     "id": "i35202352",
     "nameParts": [
       "fisher",
@@ -8582,6 +8780,40 @@
     ]
   },
   {
+    "id": "i39711353",
+    "nameParts": [
+      "george",
+      "will"
+    ],
+    "wholeNames": [
+      "George Will"
+    ],
+    "birth": {
+      "date": "about 1861",
+      "year": 1861
+    },
+    "marriages": [
+      {
+        "spouse": "i47342988",
+        "date": "on 4th of June 1886",
+        "year": 1886,
+        "month": 6,
+        "day": 4
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1886
+        ]
+      }
+    ]
+  },
+  {
     "id": "i39757210",
     "nameParts": [
       "john",
@@ -8929,6 +9161,65 @@
         ],
         "dates": [
           1901
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i40872746",
+    "nameParts": [
+      "howie",
+      "peter"
+    ],
+    "wholeNames": [
+      "Peter Howie"
+    ],
+    "birth": {
+      "date": "in May 1803",
+      "year": 1803,
+      "month": 5
+    },
+    "death": {
+      "date": "on 5th of March 1876",
+      "year": 1876,
+      "month": 3,
+      "day": 5,
+      "place": [
+        "aberdeen",
+        "aberdeenshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "banchory devenick",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1843,
+          1851
+        ]
+      },
+      {
+        "place": [
+          "cookney",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1861
+        ]
+      },
+      {
+        "place": [
+          "aberdeen",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1876
         ]
       }
     ]
@@ -10397,6 +10688,18 @@
     ]
   },
   {
+    "id": "i45095242",
+    "nameParts": [
+      "jane",
+      "milne",
+      "will"
+    ],
+    "wholeNames": [
+      "Jane Milne",
+      "Jane Will"
+    ]
+  },
+  {
     "id": "i45275253",
     "nameParts": [
       "christy",
@@ -11013,11 +11316,12 @@
     "nameParts": [
       "helen",
       "howie",
+      "niddrie",
       "s"
     ],
     "wholeNames": [
-      "Helen",
-      "Helen S Howie"
+      "Helen S Howie",
+      "Helen S Niddrie"
     ],
     "birth": {
       "date": "about 1861",
@@ -11031,17 +11335,41 @@
     "marriages": [
       {
         "spouse": "i19655531",
-        "date": "about 1908",
-        "year": 1908
+        "date": "on 27th of March 1908",
+        "year": 1908,
+        "month": 3,
+        "day": 27,
+        "place": [
+          "glasgow",
+          "scotland"
+        ]
+      },
+      {
+        "spouse": "i39711353",
+        "date": "on 4th of June 1886",
+        "year": 1886,
+        "month": 6,
+        "day": 4
       }
     ],
     "residences": [
+      {
+        "place": [
+          "campsie",
+          "stirlingshire",
+          "scotland"
+        ],
+        "dates": [
+          1886
+        ]
+      },
       {
         "place": [
           "glasgow",
           "scotland"
         ],
         "dates": [
+          1908,
           1911
         ]
       }
@@ -12390,6 +12718,68 @@
     ]
   },
   {
+    "id": "i52047082",
+    "nameParts": [
+      "howie",
+      "jane",
+      "yule"
+    ],
+    "wholeNames": [
+      "Howie",
+      "Jane Yule"
+    ],
+    "birth": {
+      "date": "on 13th of December 1817",
+      "year": 1817,
+      "month": 12,
+      "day": 13
+    },
+    "death": {
+      "date": "on 17th of March 1898",
+      "year": 1898,
+      "month": 3,
+      "day": 17,
+      "place": [
+        "aberdeen",
+        "aberdeenshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "banchory devenick",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1843,
+          1851
+        ]
+      },
+      {
+        "place": [
+          "cookney",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1861
+        ]
+      },
+      {
+        "place": [
+          "aberdeen",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1898
+        ]
+      }
+    ]
+  },
+  {
     "id": "i52064896",
     "nameParts": [
       "alexander",
@@ -13035,6 +13425,19 @@
         ]
       }
     ]
+  },
+  {
+    "id": "i5419288",
+    "nameParts": [
+      "david",
+      "will"
+    ],
+    "wholeNames": [
+      "David Will"
+    ],
+    "death": {
+      "date": "before 1886"
+    }
   },
   {
     "id": "i54273056",
@@ -15446,6 +15849,44 @@
     }
   },
   {
+    "id": "i61510080",
+    "nameParts": [
+      "edward",
+      "howie",
+      "isabel"
+    ],
+    "wholeNames": [
+      "Isabel Edward",
+      "Isabel Howie"
+    ],
+    "marriages": [
+      {
+        "spouse": "i32048437",
+        "date": "on 25th of June 1800",
+        "year": 1800,
+        "month": 6,
+        "day": 25,
+        "place": [
+          "banchory devenick",
+          "aberdeenshire",
+          "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "banchory devenick",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1800
+        ]
+      }
+    ]
+  },
+  {
     "id": "i61792169",
     "nameParts": [
       "andrew",
@@ -17590,6 +18031,32 @@
         "dates": [
           1908,
           1911
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i69072936",
+    "nameParts": [
+      "andrew",
+      "howie"
+    ],
+    "wholeNames": [
+      "Andrew Howie"
+    ],
+    "birth": {
+      "date": "about 1841",
+      "year": 1841
+    },
+    "residences": [
+      {
+        "place": [
+          "banchory devenick",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1851
         ]
       }
     ]
@@ -21195,6 +21662,47 @@
     ]
   },
   {
+    "id": "i82820064",
+    "nameParts": [
+      "howie",
+      "peter"
+    ],
+    "wholeNames": [
+      "Peter Howie"
+    ],
+    "birth": {
+      "date": "about 1838",
+      "year": 1838,
+      "place": [
+        "banchory devenick",
+        "aberdeenshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "banchory devenick",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1851
+        ]
+      },
+      {
+        "place": [
+          "cookney",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1861
+        ]
+      }
+    ]
+  },
+  {
     "id": "i82920396",
     "nameParts": [
       "catherine",
@@ -21986,6 +22494,49 @@
         ],
         "dates": [
           1921
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i87788832",
+    "nameParts": [
+      "howie",
+      "jane",
+      "jean"
+    ],
+    "wholeNames": [
+      "Jane Howie",
+      "Jean Howie"
+    ],
+    "birth": {
+      "date": "in 1851",
+      "year": 1851,
+      "place": [
+        "banchory devenick",
+        "aberdeenshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "banchory devenick",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1851
+        ]
+      },
+      {
+        "place": [
+          "cookney",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1861
         ]
       }
     ]
@@ -23854,6 +24405,37 @@
           "lamberton",
           "berwickshire",
           "scotland"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i95875652",
+    "nameParts": [
+      "betty",
+      "howie"
+    ],
+    "wholeNames": [
+      "Betty Howie"
+    ],
+    "birth": {
+      "date": "about 1845",
+      "year": 1845,
+      "place": [
+        "banchory devenick",
+        "aberdeenshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "banchory devenick",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1851
         ]
       }
     ]

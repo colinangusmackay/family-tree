@@ -7,29 +7,57 @@
   "DateOfDeath": "",
   "Parents": [
     {
-      "Id": "i47342988",
-      "Name": "Helen",
-      "Gender": "Female",
-      "Relationship": "mother",
-      "DateOfBirth": "about 1861",
-      "DateOfDeath": "",
-      "Parents": []
-    },
-    {
-      "Id": "i19655531",
-      "Name": "Peter Howie",
+      "Id": "i39711353",
+      "Name": "George Will",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "9/Feb/1861",
+      "DateOfBirth": "about 1861",
       "DateOfDeath": "",
       "Parents": [
         {
-          "Id": "i14673281",
-          "Name": "Margaret Howie",
+          "Id": "i5419288",
+          "Name": "David Will",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1886",
+          "Parents": []
+        },
+        {
+          "Id": "i45095242",
+          "Name": "Jane Milne",
           "Gender": "Female",
           "Relationship": "mother",
           "DateOfBirth": "",
           "DateOfDeath": "",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i47342988",
+      "Name": "Helen S Niddrie",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1861",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i35199408",
+          "Name": "David Niddrie",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1908",
+          "Parents": []
+        },
+        {
+          "Id": "i14284692",
+          "Name": "Jessie Milne",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1908",
           "Parents": []
         }
       ]
