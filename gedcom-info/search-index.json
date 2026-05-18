@@ -1630,6 +1630,7 @@
         ],
         "dates": [
           1911,
+          1921,
           1934
         ]
       },
@@ -2102,6 +2103,16 @@
         "scotland"
       ]
     },
+    "death": {
+      "date": "on 20th of April 1944 at 05:10",
+      "year": 1944,
+      "month": 4,
+      "day": 20,
+      "place": [
+        "glasgow",
+        "scotland"
+      ]
+    },
     "marriages": [
       {
         "spouse": "i47342988",
@@ -2109,6 +2120,17 @@
         "year": 1908,
         "month": 3,
         "day": 27,
+        "place": [
+          "glasgow",
+          "scotland"
+        ]
+      },
+      {
+        "spouse": "i52455521",
+        "date": "on 1st of June 1925",
+        "year": 1925,
+        "month": 6,
+        "day": 1,
         "place": [
           "glasgow",
           "scotland"
@@ -2143,9 +2165,12 @@
           "scotland"
         ],
         "dates": [
+          1901,
           1908,
           1911,
-          1923
+          1923,
+          1925,
+          1944
         ]
       }
     ]
@@ -2167,7 +2192,18 @@
         "glasgow",
         "scotland"
       ]
-    }
+    },
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1901
+        ]
+      }
+    ]
   },
   {
     "id": "i19799810",
@@ -5831,7 +5867,14 @@
       "year": 1863
     },
     "death": {
-      "date": "before 1911"
+      "date": "on 8th of May 1905 at 23:20",
+      "year": 1905,
+      "month": 5,
+      "day": 8,
+      "place": [
+        "glasgow",
+        "scotland"
+      ]
     },
     "marriages": [
       {
@@ -5853,7 +5896,9 @@
           "scotland"
         ],
         "dates": [
-          1885
+          1885,
+          1901,
+          1905
         ]
       }
     ]
@@ -6706,8 +6751,15 @@
       ]
     },
     "death": {
-      "date": "after 1923",
-      "year": 1923
+      "date": "on 23rd of April 1936 at 23:30",
+      "year": 1936,
+      "month": 4,
+      "day": 23,
+      "place": [
+        "embo",
+        "sutherland",
+        "scotland"
+      ]
     },
     "marriages": [
       {
@@ -6734,6 +6786,7 @@
           1888,
           1901,
           1911,
+          1921,
           1923
         ]
       }
@@ -8727,10 +8780,12 @@
     "id": "i39683867",
     "nameParts": [
       "howie",
+      "maggie",
       "margaret",
       "taylor"
     ],
     "wholeNames": [
+      "Maggie Howie",
       "Margaret Taylor Howie"
     ],
     "birth": {
@@ -8748,6 +8803,7 @@
           "scotland"
         ],
         "dates": [
+          1901,
           1911
         ]
       }
@@ -11736,6 +11792,20 @@
         "scotland"
       ]
     },
+    "marriages": [
+      {
+        "spouse": "i62432280",
+        "date": "on 28th of October 1926",
+        "year": 1926,
+        "month": 10,
+        "day": 28,
+        "place": [
+          "detroit",
+          "michigan",
+          "united states of america"
+        ]
+      }
+    ],
     "residences": [
       {
         "place": [
@@ -11756,7 +11826,19 @@
           "canada"
         ],
         "dates": [
-          1923
+          1923,
+          1930,
+          1931
+        ]
+      },
+      {
+        "place": [
+          "detroit",
+          "michigan",
+          "united states of america"
+        ],
+        "dates": [
+          1926
         ]
       }
     ]
@@ -12908,6 +12990,45 @@
           1851,
           1861,
           1871
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i52455521",
+    "nameParts": [
+      "agnes",
+      "christie",
+      "howie"
+    ],
+    "wholeNames": [
+      "Agnes Christie",
+      "Howie"
+    ],
+    "death": {
+      "date": "before 1944"
+    },
+    "marriages": [
+      {
+        "spouse": "i19655531",
+        "date": "on 1st of June 1925",
+        "year": 1925,
+        "month": 6,
+        "day": 1,
+        "place": [
+          "glasgow",
+          "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1925
         ]
       }
     ]
@@ -14621,6 +14742,7 @@
         "dates": [
           1901,
           1911,
+          1921,
           1934,
           1936,
           1954
@@ -15374,8 +15496,10 @@
           "scotland"
         ],
         "dates": [
+          1901,
           1911,
-          1921
+          1921,
+          1944
         ]
       }
     ]
@@ -16090,6 +16214,80 @@
         ],
         "dates": [
           1901
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i62432280",
+    "nameParts": [
+      "helen",
+      "mckay",
+      "morrison"
+    ],
+    "wholeNames": [
+      "Helen McKay",
+      "Helen Morrison"
+    ],
+    "birth": {
+      "date": "on 5th of January 1900 at 15:00",
+      "year": 1900,
+      "month": 1,
+      "day": 5,
+      "place": [
+        "shawbost",
+        "eilean siar",
+        "scotland"
+      ]
+    },
+    "death": {
+      "date": "on 28th of December 1984",
+      "year": 1984,
+      "month": 12,
+      "day": 28,
+      "place": [
+        "toronto",
+        "york",
+        "ontario",
+        "canada"
+      ]
+    },
+    "marriages": [
+      {
+        "spouse": "i48909111",
+        "date": "on 28th of October 1926",
+        "year": 1926,
+        "month": 10,
+        "day": 28,
+        "place": [
+          "detroit",
+          "michigan",
+          "united states of america"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "grosse pointe",
+          "city of grosse pointe",
+          "wayne county",
+          "state of michigan",
+          "united states of america"
+        ],
+        "dates": [
+          1926
+        ]
+      },
+      {
+        "place": [
+          "toronto",
+          "york",
+          "ontario",
+          "canada"
+        ],
+        "dates": [
+          1931
         ]
       }
     ]
@@ -17090,6 +17288,32 @@
     ]
   },
   {
+    "id": "i65737621",
+    "nameParts": [
+      "copeland",
+      "helen",
+      "morrison"
+    ],
+    "wholeNames": [
+      "Helen Copeland",
+      "Morrison"
+    ],
+    "marriages": [
+      {
+        "spouse": "i83544218",
+        "date": "on 25th of September 1885",
+        "year": 1885,
+        "month": 9,
+        "day": 25,
+        "place": [
+          "peterhead",
+          "aberdeenshire",
+          "scotland"
+        ]
+      }
+    ]
+  },
+  {
     "id": "i65743680",
     "nameParts": [
       "ann",
@@ -17681,6 +17905,26 @@
     "wholeNames": [
       "Annie McKinlay",
       "Boyle"
+    ],
+    "birth": {
+      "date": "about 1836",
+      "year": 1836,
+      "place": [
+        "kilmarnock",
+        "east ayrshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1871
+        ]
+      }
     ]
   },
   {
@@ -18502,6 +18746,7 @@
           "scotland"
         ],
         "dates": [
+          1901,
           1911
         ]
       }
@@ -19760,6 +20005,7 @@
           "scotland"
         ],
         "dates": [
+          1901,
           1911
         ]
       }
@@ -21792,6 +22038,30 @@
         "place": [
           "dornoch",
           "sutherland",
+          "scotland"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i83544218",
+    "nameParts": [
+      "john",
+      "morrison"
+    ],
+    "wholeNames": [
+      "John Morrison"
+    ],
+    "marriages": [
+      {
+        "spouse": "i65737621",
+        "date": "on 25th of September 1885",
+        "year": 1885,
+        "month": 9,
+        "day": 25,
+        "place": [
+          "peterhead",
+          "aberdeenshire",
           "scotland"
         ]
       }
@@ -24123,7 +24393,8 @@
         "dates": [
           1901,
           1911,
-          1918
+          1918,
+          1921
         ]
       },
       {
@@ -25227,6 +25498,26 @@
     ],
     "wholeNames": [
       "William Boyle"
+    ],
+    "birth": {
+      "date": "about 1827",
+      "year": 1827,
+      "place": [
+        "kilmarnock",
+        "east ayrshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1871
+        ]
+      }
     ]
   },
   {

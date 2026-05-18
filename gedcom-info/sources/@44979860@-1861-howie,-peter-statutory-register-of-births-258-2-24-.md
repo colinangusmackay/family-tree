@@ -47,4 +47,4 @@ Source Last Updated | 3/May/2026 23:52:12
 ## Source Referenced by
 
 * [Margaret Howie](../people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md) (27/Jul/1843 - 26/Jan/1915)
-* [Peter Howie](../people/@19655531@-peter-howie-b1861-2-9-d.md) (9/Feb/1861 - )
+* [Peter Howie](../people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md) (9/Feb/1861 - 20/Apr/1944)

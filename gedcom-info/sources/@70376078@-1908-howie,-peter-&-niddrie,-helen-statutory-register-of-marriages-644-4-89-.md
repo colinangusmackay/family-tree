@@ -13,7 +13,7 @@ Original Document Date | 1/Apr/1908
 Responsible Agency | National Records of Scotland
 References | 1908 M 644/4 89
 Source Created | 4/May/2026 20:08:25
-Source Last Updated | 4/May/2026 20:35:29
+Source Last Updated | 12/May/2026 20:41:32
 
 ## Text
 
@@ -91,7 +91,7 @@ Source Last Updated | 4/May/2026 20:35:29
 >
 > <br/>
 >
-> ____ March 1923 - Decree of Divorce was pronounced by Lord Ashmore, Ordinary, in an action at the instance of Peter Howie, Clerk, 152 Cathedral Street, Glasgow, against his wife, Mrs Helen Niddrie or
+> ____ March 1923 - Decree of Divorce was pronounced by Lord Ashmore, Ordinary, in an action at the instance of Peter Howie, Clerk, 182 Cathedral Street, Glasgow, against his wife, Mrs Helen Niddrie or
 >
 > Wills or Howie, care of Wills, 37 Culloden Street,
 >
@@ -115,7 +115,7 @@ Source Last Updated | 4/May/2026 20:35:29
 ## Source Referenced by
 
 * Howie
-  * [Peter Howie](../people/@19655531@-peter-howie-b1861-2-9-d.md) (9/Feb/1861 - )
+  * [Peter Howie](../people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md) (9/Feb/1861 - 20/Apr/1944)
 * Milne
   * [Jessie Milne](../people/@14284692@-jessie-milne-b-d1908.md) ( - before 1908)
 * Niddrie

@@ -1,0 +1,66 @@
+﻿{
+  "Subject": {
+    "Id": "i52455521",
+    "Name": "Agnes Christie",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "before 1944"
+  },
+  "Parents": [
+    {
+      "Id": "i22926532",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i86949198",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i52455521",
+      "Name": "Agnes Christie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1944",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i22926532",
+          "i86949198"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i98966392",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    },
+    {
+      "Id": "i19655531",
+      "Name": "Peter Howie",
+      "Gender": "Male",
+      "DateOfBirth": "9/Feb/1861",
+      "DateOfDeath": "20/Apr/1944",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "1/Jun/1925",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

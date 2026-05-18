@@ -168,7 +168,7 @@ on 19th of July 1984
   * [David Mackay](../people/@46263680@-david-mackay-b1846-d1860.md) (1846 - 1860)
   * [Donald Mackay](../people/@32633938@-donald-mackay-b1855-d.md) (about 1855 - )
   * [George Mackay](../people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) (26/Oct/1811 - 25/Nov/1893)
-  * [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
+  * [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md) (7/Aug/1860 - 23/Apr/1936)
   * [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
   * [Jane or Jean Mackay](../people/@4172390@-jane-or-jean-mackay-b1859-d.md) (about 1859 - )
   * [John Mackay](../people/@15814480@-john-mackay-b1864~1865-d.md) (bet' 1864 and 1865 - )

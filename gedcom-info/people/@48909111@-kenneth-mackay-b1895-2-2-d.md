@@ -9,37 +9,46 @@ permalink: /people/i48909111
 
 ## Immediate Family
 
-* Mother: [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
+* Mother: [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md) (7/Aug/1860 - 23/Apr/1936)
 * Father: [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
 * Sister: [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) (23/Sep/1889 - 15/May/1970)
 * Brother: [George Mackay](./@72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
 * Sister: [Janet Mackay](./@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md) (12/Nov/1890 - 15/May/1891)
 * Sister: [Annie Mackay](./@51252926@-annie-mackay-b1892-12-15-d1918.md) (15/Dec/1892 - 1918)
 * Brother: [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
+* Wife: [Helen Morrison](./@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md) (5/Jan/1900 - 28/Dec/1984)
 * Brother: [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)
 * Sister: [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) (27/Jun/1901 - 24/Aug/1973)
+* Son: X
+* Daughter: X
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-2/Feb/1895 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | [3](#3)
+2/Feb/1895 | Born | Born to [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) and [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | [3](#3)
 15/Mar/1923 | Immigrated | Immigrated to Toronto, York, Ontario, Canada. | [4](#4) | 
+1/Jun/1931 | Census | Census | [5](#5) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1901 | 6 Terrace Street, Embo, Dornoch, Sutherland, Scotland | [5](#5)
-1911 | 6 Terrace Street, Embo, Sutherlandshire | [6](#6)
+1901 | 6 Terrace Street, Embo, Dornoch, Sutherland, Scotland | [6](#6)
+1911 | 6 Terrace Street, Embo, Sutherlandshire | [7](#7)
 1923 | 2041 Dundas Street, West Toronto, Ontario, Canada | [4](#4)
+1926 | Detroit, Michigan, United States of America | [8](#8)
+1930 | 146 King Edward Avenue, Toronto, Ontario, Canada | [9](#9), [10](#10)
+1931 | 146 King Edward Avenue, Toronto, Ontario, Canada | [5](#5)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1911 | Fisherman | [6](#6)
+1911 | Fisherman | [7](#7)
 before 1923 | Fisherman | [4](#4)
+1926 | Mechanic | [8](#8)
+1931 | Receiver | [5](#5)
 
 ## Footnotes
 
@@ -78,6 +87,14 @@ before 1923 | Fisherman | [4](#4)
 
 ### 5
 
+**1931 X, KENNETH & HOUSEHOLD (1931 Seventh Census of Canada)**
+
+* [Full text and notes](../sources/@27125352@-1931-mackay,-kenneth-&-household-1931-seventh-census-of-canada-.md)
+* Date: 1/Jun/1931
+* Responsible Agency: Dominion Bureau of Statistics
+
+### 6
+
 **1901 MACKAY, JAMES & Family (Census 047/2/14)**
 
 * [Full text and notes](../sources/@77386974@-1901-mackay,-james-&-family-census-047-2-14-.md)
@@ -86,7 +103,7 @@ before 1923 | Fisherman | [4](#4)
 * References: 
   * 1901 047/2/14
 
-### 6
+### 7
 
 **1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)**
 
@@ -95,4 +112,34 @@ before 1923 | Fisherman | [4](#4)
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1911 C 047/ 3/ 12
+
+### 8
+
+**1926 MCKAY, KENNETH & MORRISON, HELEN (Marriage License, Wayne County, Michigan)**
+
+* [Full text and notes](../sources/@19059328@-1926-mckay,-kenneth-&-morrison,-helen-marriage-license,-wayne-county,-michigan-.md)
+* Date: 28/Oct/1926
+* Responsible Agency: Michigan Department of Health
+* References: 
+  * 321058
+
+### 9
+
+**1930 MACKAY, WILLIAM ALEXANDER - Marriage to Mary Ann Cumming**
+
+* [Full text and notes](../sources/@27123318@-1930-mackay,-william-alexander-marriage-to-mary-ann-cumming.md)
+* Publication: Ontario, Canada, Marriages, 1826-1937
+* Date: 17/Mar/1930
+* References: 
+  * 002154
+
+### 10
+
+**1930 MACKAY, WILLIAM ALEXANDER & CUMMING, MARY ANN (Marriage Certificate)**
+
+* [Full text and notes](../sources/@60240182@-1930-mackay,-william-alexander-&-cumming,-mary-ann-marriage-certificate-.md)
+* Date: 21/Mar/1930
+* References: 
+  * (Registration Certificate Number) 8878
+* ![Certificate of Marriage - William Alexander Mackay & Mary Ann Cumming](../media/57388492_thumb.jpg)
 

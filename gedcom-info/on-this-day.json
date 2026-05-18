@@ -44,7 +44,12 @@
         },
         {
           "Day": 5,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1900-01-05",
+              "Description": "[Helen Morrison](/family-tree/people/i62432280) was born on 5th of January 1900 at 15:00 to [John Morrison](/family-tree/people/i83544218) and [Helen Copeland](/family-tree/people/i65737621) in Shawbost, Eilean Siar, Scotland."
+            }
+          ]
         },
         {
           "Day": 6,
@@ -906,6 +911,10 @@
           "Day": 27,
           "Events": [
             {
+              "Date": "1908-03-27",
+              "Description": "[Peter Howie](/family-tree/people/i19655531) got married to [Helen S Niddrie](/family-tree/people/i47342988) on 27th of March 1908 at 130 Roslea Drive, Glasgow, Scotland."
+            },
+            {
               "Date": "1879-03-27",
               "Description": "[Catherine Wink Clark](/family-tree/people/i35162161) was born on 27th of March 1879 to [James Clark](/family-tree/people/i29410614) and [Jamesina Morrison](/family-tree/people/i11801376) in Aberdeen, Aberdeenshire, Scotland."
             }
@@ -1143,6 +1152,10 @@
           "Day": 20,
           "Events": [
             {
+              "Date": "1944-04-20",
+              "Description": "[Peter Howie](/family-tree/people/i19655531) died on 20th of April 1944 at 05:10 at Stobhill Hospital, 133 Balornock Road, Glasgow, Scotland."
+            },
+            {
               "Date": "1932-04-20",
               "Description": "[Thomas Fraser](/family-tree/people/i69725432) died on 20th of April 1932 at 00:30 in Embo, Sutherland, Scotland."
             },
@@ -1176,7 +1189,12 @@
         },
         {
           "Day": 23,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1936-04-23",
+              "Description": "[Isabella Mackay](/family-tree/people/i32797554) died on 23rd of April 1936 at 23:30 in Embo, Sutherland, Scotland."
+            }
+          ]
         },
         {
           "Day": 24,
@@ -1323,7 +1341,12 @@
         },
         {
           "Day": 8,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1905-05-08",
+              "Description": "[Annie Boyle](/family-tree/people/i30556026) died on 8th of May 1905 at 23:20 at 130 Roslea Drive, Glasgow, Scotland."
+            }
+          ]
         },
         {
           "Day": 9,
@@ -1488,6 +1511,10 @@
           "Day": 1,
           "Events": [
             {
+              "Date": "1925-06-01",
+              "Description": "[Peter Howie](/family-tree/people/i19655531) got married to [Agnes Christie](/family-tree/people/i52455521) on 1st of June 1925 at 861 Cathcart Road, Glasgow, Scotland."
+            },
+            {
               "Date": "1973-06-01",
               "Description": "[Thomasina Ian Cumming](/family-tree/people/i92241152) died on 1st of June 1973 in Palm Beach, Florida, United States of America."
             }
@@ -1500,6 +1527,10 @@
         {
           "Day": 3,
           "Events": [
+            {
+              "Date": "1885-06-03",
+              "Description": "[Peter Howie](/family-tree/people/i19655531) got married to [Annie Boyle](/family-tree/people/i30556026) on 3rd of June 1885 at 11 Spoutmouth, Glasgow, Scotland."
+            },
             {
               "Date": "1885-06-03",
               "Description": "[Annie Boyle](/family-tree/people/i30556026) got married to [Peter Howie](/family-tree/people/i19655531) on 3rd of June 1885 at 11 Spoutmouth, Glasgow, Scotland."
@@ -2923,7 +2954,12 @@
         },
         {
           "Day": 28,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1926-10-28",
+              "Description": "[Helen Morrison](/family-tree/people/i62432280) got married to [Kenneth Mackay](/family-tree/people/i48909111) on 28th of October 1926 in Detroit, Michigan, United States of America."
+            }
+          ]
         },
         {
           "Day": 29,
@@ -3589,6 +3625,10 @@
             {
               "Date": "1868-12-28",
               "Description": "[Andrew Gillie](/family-tree/people/i60068056) was born on 28th of December 1868 to [John Gillie](/family-tree/people/i95851656) and [Elisabeth Pritchard](/family-tree/people/i8049072) in Eyemouth, Berwickshire, Scotland."
+            },
+            {
+              "Date": "1984-12-28",
+              "Description": "[Helen Morrison](/family-tree/people/i62432280) died on 28th of December 1984 at Altamont Nursing Home, 92 Island Road Toronto, Ontario, Canada."
             }
           ]
         },

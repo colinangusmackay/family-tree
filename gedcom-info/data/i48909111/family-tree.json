@@ -12,7 +12,7 @@
       "Name": "Isabella Mackay",
       "Gender": "Female",
       "DateOfBirth": "7/Aug/1860",
-      "DateOfDeath": "after 1923",
+      "DateOfDeath": "23/Apr/1936",
       "RelationToSubject": "mother"
     },
     {
@@ -138,6 +138,42 @@
       ]
     }
   ],
-  "Spouses": [],
-  "Children": []
+  "Spouses": [
+    {
+      "Id": "i62432280",
+      "Name": "Helen Morrison",
+      "Gender": "Female",
+      "DateOfBirth": "5/Jan/1900",
+      "DateOfDeath": "28/Dec/1984",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "28/Oct/1926",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i64651538",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "about 1928",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i48909111",
+        "i62432280"
+      ]
+    },
+    {
+      "Id": "i84312128",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "after 1931",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i48909111",
+        "i62432280"
+      ]
+    }
+  ]
 }

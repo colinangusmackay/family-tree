@@ -96,8 +96,9 @@ Source Last Updated | 29/Apr/2026 22:39:26
 ## Source Referenced by
 
 * Boyle
-  * [Annie Boyle](../people/@30556026@-annie-boyle-b1863-d1911.md) (about 1863 - before 1911)
+  * [Annie Boyle](../people/@30556026@-annie-boyle-b1863-d1905-5-8.md) (about 1863 - 8/May/1905)
 * Howie
   * [Annie Murie Howie](../people/@89893535@-annie-murie-howie-b1912-3-19-d.md) (19/Mar/1912 - )
   * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-1-15-d.md) (15/Jan/1890 - )
+  * [Peter Howie](../people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md) (9/Feb/1861 - 20/Apr/1944)
   * [Peter R Howie](../people/@99453615@-peter-r-howie-b1916-8-d.md) (about Aug/1916 - )

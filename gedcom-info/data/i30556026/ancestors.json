@@ -4,23 +4,23 @@
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "about 1863",
-  "DateOfDeath": "before 1911",
+  "DateOfDeath": "8/May/1905",
   "Parents": [
-    {
-      "Id": "i67691160",
-      "Name": "Annie McKinlay",
-      "Gender": "Female",
-      "Relationship": "mother",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Parents": []
-    },
     {
       "Id": "i99276822",
       "Name": "William Boyle",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1827",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i67691160",
+      "Name": "Annie McKinlay",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "about 1836",
       "DateOfDeath": "",
       "Parents": []
     }

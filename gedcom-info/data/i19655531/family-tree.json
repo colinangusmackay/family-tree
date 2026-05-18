@@ -4,7 +4,7 @@
     "Name": "Peter Howie",
     "Gender": "Male",
     "DateOfBirth": "9/Feb/1861",
-    "DateOfDeath": ""
+    "DateOfDeath": "20/Apr/1944"
   },
   "Parents": [
     {
@@ -22,7 +22,7 @@
       "Name": "Peter Howie",
       "Gender": "Male",
       "DateOfBirth": "9/Feb/1861",
-      "DateOfDeath": "",
+      "DateOfDeath": "20/Apr/1944",
       "RelationToSubject": "self",
       "ParentGroupIds": [
         [
@@ -32,6 +32,16 @@
     }
   ],
   "Spouses": [
+    {
+      "Id": "i52455521",
+      "Name": "Agnes Christie",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1944",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "1/Jun/1925",
+      "DateOfDivorce": ""
+    },
     {
       "Id": "i47342988",
       "Name": "Helen S Niddrie",
@@ -47,7 +57,7 @@
       "Name": "Annie Boyle",
       "Gender": "Female",
       "DateOfBirth": "about 1863",
-      "DateOfDeath": "before 1911",
+      "DateOfDeath": "8/May/1905",
       "RelationToSubject": "wife",
       "DateOfMarriage": "3/Jun/1885",
       "DateOfDivorce": ""

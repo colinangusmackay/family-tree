@@ -12,7 +12,7 @@ Field | Detail
 Original Document Date | 21/Mar/1930
 References | (Registration Certificate Number) 8878
 Source Created | 10/Oct/2024 19:54:21
-Source Last Updated | 12/Oct/2024 15:08:55
+Source Last Updated | 16/May/2026 19:59:56
 
 ## Text
 
@@ -61,4 +61,5 @@ on 21st of March 1930
 * Cumming
   * [Mary Ann Cumming](../people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md) (26/Jul/1900 - 8/Oct/1981)
 * Mackay
+  * [Kenneth Mackay](../people/@48909111@-kenneth-mackay-b1895-2-2-d.md) (2/Feb/1895 - )
   * [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)

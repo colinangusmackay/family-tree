@@ -41,6 +41,6 @@ Source Last Updated | 23/Aug/2020 13:50:19
 
 ## Source Referenced by
 
-* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
+* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md) (7/Aug/1860 - 23/Apr/1936)
 * [Janet Mackay](../people/@20237816@-janet-mackay-b-d.md)
 * [Kenneth Mackay](../people/@30341840@-kenneth-mackay-b-d.md)

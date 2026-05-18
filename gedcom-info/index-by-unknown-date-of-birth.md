@@ -87,6 +87,7 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1826.**
   * **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875)
 * **Born in 1827.**
+  * **[Boyle, William](people/@99276822@-william-boyle-b1827-d.md)** (about 1827 - )
   * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - )
   * **[Wood, Margaret](people/@50500805@-margaret-wood-b1827-d1871.md)** (about 1827 - before 1871)
 * **Born in 1829.**
@@ -104,6 +105,8 @@ This is a list of people who have vague or unknown dates of birth.
   * **[Cumming, Catherine](people/@61803880@-catherine-cumming-b1835-d.md)** (about 1835 - )
   * **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
   * **[Nicholson, Agnes](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - )
+* **Born in 1836.**
+  * **[McKinlay, Annie](people/@67691160@-annie-mckinlay-b1836-d.md)** (about 1836 - )
 * **Born in 1837.**
   * **[Wilson, Margaret](people/@63936152@-margaret-wilson-b1837-d.md)** (about 1837 - )
 * **Born in 1838.**
@@ -221,7 +224,7 @@ This is a list of people who have vague or unknown dates of birth.
 * **Born in 1862.**
   * **[Ross, Jessie](people/@34993752@-jessie-ross-b1862-d.md)** (about 1862 - )
 * **Born in 1863.**
-  * **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911)
+  * **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1905-5-8.md)** (about 1863 - 8/May/1905)
   * **[Fraser, Isabella](people/@92660555@-isabella-fraser-b1863-d.md)** (about 1863 - )
   * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
   * **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
@@ -433,15 +436,16 @@ This is a list of people who have vague or unknown dates of birth.
 * [Helen Bond](people/@39873338@-helen-bond-b-d.md)
 * [Mary Boyle](people/@71324323@-mary-boyle-b-d.md)
 * [Mary Boyle](people/@8311886@-mary-boyle-b-d.md)
-* [William Boyle](people/@99276822@-william-boyle-b-d.md)
 * [Janet Buchanan](people/@48339564@-janet-buchanan-b-d.md)
 * [Mary Burns](people/@81238912@-mary-burns-b-d.md)
 * [Christina Campbell](people/@24281088@-christina-campbell-b-d1931.md) ( - before 1931)
 * [William Campbell](people/@70442784@-william-campbell-b-d1918.md) ( - before 1918)
 * [Robert Carlyle](people/@63376955@-robert-carlyle-b-d.md)
 * [Anne Chisholm](people/@48064613@-anne-chisholm-b-d1877.md) ( - before 1877)
+* [Agnes Christie](people/@52455521@-agnes-christie-b-d1944.md) ( - before 1944)
 * [James Clark](people/@29410614@-james-clark-b-d.md)
 * [Helen Collins](people/@79475420@-helen-collins-b-d.md)
+* [Helen Copeland](people/@65737621@-helen-copeland-b-d.md)
 * [James Cowan](people/@66566704@-james-cowan-b-d.md)
 * [John Crawford](people/@33792128@-john-crawford-b-d1936.md) ( - before 1936)
 * [William Fullerton Crawford](people/@48880388@-william-fullerton-crawford-b-d.md)
@@ -527,7 +531,6 @@ This is a list of people who have vague or unknown dates of birth.
 * [John McKay](people/@25989156@-john-mckay-b-d1855.md) ( - before 1855)
 * [William McKechnie](people/@95027126@-william-mckechnie-b-d.md)
 * [Murdoch McKenzie](people/@1568232@-murdoch-mckenzie-b-d.md)
-* [Annie McKinlay](people/@67691160@-annie-mckinlay-b-d.md)
 * [William McKnight](people/@38388851@-william-mcknight-b-d1886.md) ( - before 1886)
 * [Harvey McLean](people/@70471714@-harvey-mclean-b-d.md)
 * [John McLean](people/@91397610@-john-mclean-b-d1877.md) ( - after 1877)
@@ -540,6 +543,7 @@ This is a list of people who have vague or unknown dates of birth.
 * [James Morris](people/@82086731@-james-morris-b-d.md)
 * [Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)
 * [John Morrison](people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
+* [John Morrison](people/@83544218@-john-morrison-b-d.md)
 * [Campbell Elizabeth Munn](people/@11230712@-campbell-elizabeth-munn-b-d.md)
 * [Annie Murie](people/@23704804@-annie-murie-b-d.md)
 * [David Napier](people/@71012752@-david-napier-b-d.md)

@@ -17,7 +17,7 @@ permalink: /people/i47342988
 * Father: [David Niddrie](./@35199408@-david-niddrie-b-d1908.md) ( - before 1908)
 * Mother: [Jessie Milne](./@14284692@-jessie-milne-b-d1908.md) ( - before 1908)
 * Husband: [George Will](./@39711353@-george-will-b1861-d.md) (about 1861 - )
-* Ex Husband: [Peter Howie](./@19655531@-peter-howie-b1861-2-9-d.md) (9/Feb/1861 - )
+* Ex Husband: [Peter Howie](./@19655531@-peter-howie-b1861-2-9-d1944-4-20.md) (9/Feb/1861 - 20/Apr/1944)
 * Daughter: [Jessie Hamilton Wills](./@87891536@-jessie-hamilton-wills-b1890-d.md) (1890 - )
 * Son: [David N Wills](./@24358912@-david-n-wills-b1891-d.md) (about 1891 - )
 * Son: [Robert M Wills](./@15072794@-robert-m-wills-b1893-d.md) (about 1893 - )

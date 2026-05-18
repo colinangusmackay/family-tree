@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i65737621",
+    "Name": "Helen Copeland",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i65737621",
+      "Name": "Helen Copeland",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i83544218",
+      "Name": "John Morrison",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "25/Sep/1885",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i62432280",
+      "Name": "Helen Morrison",
+      "Gender": "Female",
+      "DateOfBirth": "5/Jan/1900",
+      "DateOfDeath": "28/Dec/1984",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i83544218",
+        "i65737621"
+      ]
+    }
+  ]
+}

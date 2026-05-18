@@ -22,10 +22,9 @@ permalink: /indexes/by-birth-location
 - **[Bode, Katherine](people/@8567159@-katherine-bode-b-d1930.md)** ( - before 1930)
 - **[Bolger, Sandra Sarah](people/@2758880@-sandra-sarah-bolger-b1956-8-30-d2023.md)** (30/Aug/1956 - 2023)
 - **[Bond, Helen](people/@39873338@-helen-bond-b-d.md)**
-- **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911)
+- **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1905-5-8.md)** (about 1863 - 8/May/1905)
 - **[Boyle, Mary](people/@71324323@-mary-boyle-b-d.md)**
 - **[Boyle, Mary](people/@8311886@-mary-boyle-b-d.md)**
-- **[Boyle, William](people/@99276822@-william-boyle-b-d.md)**
 - **[Buchanan, Janet](people/@48339564@-janet-buchanan-b-d.md)**
 - **[Burns, Mary](people/@81238912@-mary-burns-b-d.md)**
 - **[Byrne, Kevin James](people/@35849164@-kevin-james-byrne-b2007-9-23-d2007-9-29.md)** (23/Sep/2007 - 29/Sep/2007)
@@ -34,8 +33,10 @@ permalink: /indexes/by-birth-location
 - **[Campbell, William](people/@70442784@-william-campbell-b-d1918.md)** ( - before 1918)
 - **[Carlyle, Robert](people/@63376955@-robert-carlyle-b-d.md)**
 - **[Chisholm, Anne](people/@48064613@-anne-chisholm-b-d1877.md)** ( - before 1877)
+- **[Christie, Agnes](people/@52455521@-agnes-christie-b-d1944.md)** ( - before 1944)
 - **[Clark, James](people/@29410614@-james-clark-b-d.md)**
 - **[Collins, Helen](people/@79475420@-helen-collins-b-d.md)**
+- **[Copeland, Helen](people/@65737621@-helen-copeland-b-d.md)**
 - **[Cowan, James](people/@66566704@-james-cowan-b-d.md)**
 - **[Crawford, John](people/@33792128@-john-crawford-b-d1936.md)** ( - before 1936)
 - **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968)
@@ -235,7 +236,6 @@ permalink: /indexes/by-birth-location
 - **[McKechnie, Janet](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949)
 - **[McKechnie, William](people/@95027126@-william-mckechnie-b-d.md)**
 - **[McKenzie, Murdoch](people/@1568232@-murdoch-mckenzie-b-d.md)**
-- **[McKinlay, Annie](people/@67691160@-annie-mckinlay-b-d.md)**
 - **[McKnight, Lizzie](people/@31828723@-lizzie-mcknight-b1891-d.md)** (about 1891 - )
 - **[McKnight, Mary](people/@41720825@-mary-mcknight-b1924-d1991.md)** (about 1924 - about 1991)
 - **[McKnight, Nelly](people/@63393644@-nelly-mcknight-b1896-d.md)** (about 1896 - )
@@ -256,6 +256,7 @@ permalink: /indexes/by-birth-location
 - **[Morris, James](people/@82086731@-james-morris-b-d.md)**
 - **[Morrison, Jamesina](people/@11801376@-jamesina-morrison-b-d.md)**
 - **[Morrison, John](people/@39757210@-john-morrison-b-d1877.md)** ( - before 1877)
+- **[Morrison, John](people/@83544218@-john-morrison-b-d.md)**
 - **[Morrison, Mary](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
 - **[Munn, Campbell Elizabeth](people/@11230712@-campbell-elizabeth-munn-b-d.md)**
 - **[Munro, Hugh](people/@24463792@-hugh-munro-b1810-d.md)** (before 1810 - )
@@ -516,7 +517,7 @@ permalink: /indexes/by-birth-location
 
 #### Cookney
 
-- **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - )
+- **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md)** (9/Feb/1861 - 20/Apr/1944)
 
 #### Peterhead
 
@@ -581,6 +582,13 @@ permalink: /indexes/by-birth-location
 
 - **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - )
 
+### East Ayrshire
+
+#### Kilmarnock
+
+- **[Boyle, William](people/@99276822@-william-boyle-b1827-d.md)** (about 1827 - )
+- **[McKinlay, Annie](people/@67691160@-annie-mckinlay-b1836-d.md)** (about 1836 - )
+
 ### East Lothian
 
 #### Pencaitland
@@ -616,6 +624,10 @@ permalink: /indexes/by-birth-location
 - **[Ramsay, Isabella Morgan](people/@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md)** (16/Jun/1915 - 12/Sep/1974)
 
 ### Eilean Siar
+
+#### Shawbost
+
+- **[Morrison, Helen](people/@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md)** (5/Jan/1900 - 28/Dec/1984)
 
 #### Stornoway
 
@@ -928,7 +940,7 @@ permalink: /indexes/by-birth-location
 - **[Mackay, Donald](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939)
 - **[Mackay, George](people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md)** (26/Oct/1811 - 25/Nov/1893)
 - **[Mackay, George](people/@72941728@-george-mackay-b1890-11-12-d.md)** (12/Nov/1890 - )
-- **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923)
+- **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md)** (7/Aug/1860 - 23/Apr/1936)
 - **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
 - **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903)
 - **[Mackay, Janet](people/@22499038@-janet-mackay-b1890-11-12-d1891-5-15.md)** (12/Nov/1890 - 15/May/1891)

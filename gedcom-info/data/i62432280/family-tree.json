@@ -1,0 +1,81 @@
+﻿{
+  "Subject": {
+    "Id": "i62432280",
+    "Name": "Helen Morrison",
+    "Gender": "Female",
+    "DateOfBirth": "5/Jan/1900",
+    "DateOfDeath": "28/Dec/1984"
+  },
+  "Parents": [
+    {
+      "Id": "i83544218",
+      "Name": "John Morrison",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i65737621",
+      "Name": "Helen Copeland",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i62432280",
+      "Name": "Helen Morrison",
+      "Gender": "Female",
+      "DateOfBirth": "5/Jan/1900",
+      "DateOfDeath": "28/Dec/1984",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i65737621",
+          "i83544218"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i48909111",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "2/Feb/1895",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "28/Oct/1926",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i64651538",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "about 1928",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i48909111",
+        "i62432280"
+      ]
+    },
+    {
+      "Id": "i84312128",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "after 1931",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i48909111",
+        "i62432280"
+      ]
+    }
+  ]
+}

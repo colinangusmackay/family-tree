@@ -8,6 +8,10 @@ permalink: /indexes/by-occupation
 
 * **[Seaton, William](people/@58232144@-william-seaton-b1824-d1891.md)** (about 1824 - after 1891).
 
+## Accounts Collector
+
+* **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md)** (9/Feb/1861 - 20/Apr/1944).
+
 ## Apprentice Box Maker
 
 * **[Hanton, William](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993).
@@ -73,6 +77,10 @@ There were 2 people who worked as a Bookkeeper.
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986), mentioned twice.
 * **[Predendall, Carrie Elizabeth](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - ).
+
+## Boot Maker
+
+* **[Boyle, William](people/@99276822@-william-boyle-b1827-d.md)** (about 1827 - ).
 
 ## Brass Finisher
 
@@ -184,7 +192,7 @@ There were 5 people who worked as a Carpenter of some sort.
 
 There were 2 people who worked as a Cheese Merchant's Storeman.
 
-* **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ).
+* **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md)** (9/Feb/1861 - 20/Apr/1944).
 * **[Howie, Peter Alexander](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - ).
 
 ## Cheese Storeman
@@ -221,11 +229,12 @@ There were 2 people who worked as a Child day care business owner.
 
 ## Clerk
 
-There were 4 people who worked as a Clerk.
+There were 5 people who worked as a Clerk.
 
 * **[Cumming, Donald John](people/@22331378@-donald-john-cumming-b1906-11-29-d1986-3-15.md)** (29/Nov/1906 - 15/Mar/1986).
 * **[Cumming, Thomasina Ian](people/@92241152@-thomasina-ian-cumming-b1902-11-24-d1973-6-1.md)** (24/Nov/1902 - 1/Jun/1973), mentioned twice.
-* **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ).
+* **[Howie, Annie McKinlay](people/@70255077@-annie-mckinlay-howie-b1887-d.md)** (about 1887 - ).
+* **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md)** (9/Feb/1861 - 20/Apr/1944).
 * **[Wills, Robert M](people/@15072794@-robert-m-wills-b1893-d.md)** (about 1893 - ).
 
 ## Clerk (Film Trade)
@@ -276,7 +285,10 @@ There were 2 people who worked as a Cook.
 
 ## Cooper
 
+There were 2 people who worked as a Cooper.
+
 * **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ).
+* **[Morrison, John](people/@83544218@-john-morrison-b-d.md)**.
 
 ## County Roadman
 
@@ -380,7 +392,7 @@ There were 2 people who worked as a Draftsman, Electrical.
 
 There were 2 people who worked as a Dressmaker.
 
-* **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911).
+* **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1905-5-8.md)** (about 1863 - 8/May/1905).
 * **[Ramsay, Agnes](people/@57916783@-agnes-ramsay-b1873-d.md)** (about 1873 - ).
 
 ## Driver
@@ -666,7 +678,7 @@ There were 78 people who worked as a Fish Worker of some sort.
 
 #### Fishwife
 
-* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
+* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md)** (7/Aug/1860 - 23/Apr/1936).
 
 #### Fishwoman
 
@@ -674,7 +686,7 @@ There were 78 people who worked as a Fish Worker of some sort.
 
 #### Fishworker
 
-* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923).
+* **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md)** (7/Aug/1860 - 23/Apr/1936).
 
 ## Fisher
 
@@ -785,6 +797,13 @@ There were 3 people who worked as a Gardener.
 ## Gas Stoker
 
 * **[Litster, John](people/@27896288@-john-litster-b-d.md)**.
+
+## General Labourer
+
+There were 2 people who worked as a General Labourer.
+
+* **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969).
+* **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982).
 
 ## General Merchant
 
@@ -1051,6 +1070,10 @@ There were 2 people who worked as a Machinist.
 * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965), mentioned 5 times.
 * **[Cumming, John](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ).
 
+## Maid
+
+* **[Morrison, Helen](people/@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md)** (5/Jan/1900 - 28/Dec/1984).
+
 ## Manager
 
 There were 2 people who worked as a Manager of some sort.
@@ -1083,9 +1106,13 @@ There were 2 people who worked as a Manager of some sort.
 
 * **[McIver, Hector McLean](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938).
 
+## Mechanic
+
+* **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ).
+
 ## Mercantile Clerk
 
-* **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ), mentioned twice.
+* **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md)** (9/Feb/1861 - 20/Apr/1944), mentioned twice.
 
 ## Mercantile Marine
 
@@ -1299,6 +1326,10 @@ There were 2 people who worked as a Printer's Machinist.
 
 * **[McKay, Susan](people/@29671874@-susan-mckay-b1833-4-d1886.md)** (Apr/1833 - before 1886).
 
+## Provision Merchant's Clerk
+
+* **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md)** (9/Feb/1861 - 20/Apr/1944), mentioned twice.
+
 ## Radio Operator
 
 * **[Monson, Clinton Edwin](people/@24393948@-clinton-edwin-monson-b1931-9-9-d2019-7-15.md)** (9/Sep/1931 - 15/Jul/2019).
@@ -1332,6 +1363,10 @@ There were 3 people who worked as a Railway Fireman.
 #### Real Estate Business
 
 * **[Cumming, George Davidson Smith](people/@13773669@-george-davidson-smith-cumming-b1898-5-31-d1965-8.md)** (31/May/1898 - Aug/1965).
+
+## Receiver
+
+* **[Mackay, Kenneth](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ).
 
 ## Retail Worker
 
@@ -1465,8 +1500,9 @@ There were 2 people who worked as a Shipwright.
 
 ## Shoemaker
 
-There were 2 people who worked as a Shoemaker.
+There were 3 people who worked as a Shoemaker.
 
+* **[Boyle, William](people/@99276822@-william-boyle-b1827-d.md)** (about 1827 - ).
 * **[Niddrie, David](people/@35199408@-david-niddrie-b-d1908.md)** ( - before 1908).
 * **[Wilson, James](people/@98356536@-james-wilson-b1816-d.md)** (about 1816 - ).
 
@@ -1474,7 +1510,7 @@ There were 2 people who worked as a Shoemaker.
 
 There were 2 people who worked as a Shoemaker (journeyman).
 
-* **[Boyle, William](people/@99276822@-william-boyle-b-d.md)**.
+* **[Boyle, William](people/@99276822@-william-boyle-b1827-d.md)** (about 1827 - ).
 * **[Mackay, Kenneth](people/@27357972@-kenneth-mackay-b-d.md)**.
 
 ## Shorthand Typist
@@ -1515,6 +1551,10 @@ There were 5 people who worked as a Smith of some sort.
 ## Spirit Salesman
 
 * **[McKnight, Thomas](people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md)** (about 1856 - 8/Aug/1897).
+
+## Spirits Merchant
+
+* **[Howie, Margaret](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915).
 
 ## Stair Builder
 

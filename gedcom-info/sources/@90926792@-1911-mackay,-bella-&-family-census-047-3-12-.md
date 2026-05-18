@@ -13,7 +13,7 @@ Original Document Date | 2/Apr/1911
 Responsible Agency | National Records of Scotland
 References | 1911 C 047/ 3/ 12
 Source Created | 8/Jul/2022 22:36:32
-Source Last Updated | 8/Jul/2022 22:48:25
+Source Last Updated | 16/May/2026 14:36:36
 
 ## Text
 
@@ -50,7 +50,7 @@ Source Last Updated | 8/Jul/2022 22:48:25
 
 ## Source Referenced by
 
-* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
+* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md) (7/Aug/1860 - 23/Apr/1936)
 * [John Paul Mackay](../people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
 * [Kenneth Mackay](../people/@48909111@-kenneth-mackay-b1895-2-2-d.md) (2/Feb/1895 - )
 * [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) (27/Jun/1901 - 24/Aug/1973)

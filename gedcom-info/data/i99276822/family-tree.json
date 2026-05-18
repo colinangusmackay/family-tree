@@ -3,7 +3,7 @@
     "Id": "i99276822",
     "Name": "William Boyle",
     "Gender": "Male",
-    "DateOfBirth": "",
+    "DateOfBirth": "about 1827",
     "DateOfDeath": ""
   },
   "Parents": [],
@@ -12,7 +12,7 @@
       "Id": "i99276822",
       "Name": "William Boyle",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1827",
       "DateOfDeath": "",
       "RelationToSubject": "self",
       "ParentGroupIds": []
@@ -23,7 +23,7 @@
       "Id": "i67691160",
       "Name": "Annie McKinlay",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1836",
       "DateOfDeath": "",
       "RelationToSubject": "partner",
       "DateOfMarriage": "",
@@ -36,7 +36,7 @@
       "Name": "Annie Boyle",
       "Gender": "Female",
       "DateOfBirth": "about 1863",
-      "DateOfDeath": "before 1911",
+      "DateOfDeath": "8/May/1905",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i99276822",

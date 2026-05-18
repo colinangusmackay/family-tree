@@ -79,11 +79,11 @@ permalink: /indexes/by-all-names
 
 ## Boyle
 
-- **[Annie Boyle](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911)
-- **[Boyle](people/@67691160@-annie-mckinlay-b-d.md)**
+- **[Annie Boyle](people/@30556026@-annie-boyle-b1863-d1905-5-8.md)** (about 1863 - 8/May/1905)
+- **[Boyle](people/@67691160@-annie-mckinlay-b1836-d.md)** (about 1836 - )
 - **[Mary Boyle](people/@71324323@-mary-boyle-b-d.md)**
 - **[Mary Boyle](people/@8311886@-mary-boyle-b-d.md)**
-- **[William Boyle](people/@99276822@-william-boyle-b-d.md)**
+- **[William Boyle](people/@99276822@-william-boyle-b1827-d.md)** (about 1827 - )
 
 ## Buchanan
 
@@ -119,6 +119,10 @@ permalink: /indexes/by-all-names
 
 - **[Anne Chisholm](people/@48064613@-anne-chisholm-b-d1877.md)** ( - before 1877)
 
+## Christie
+
+- **[Agnes Christie](people/@52455521@-agnes-christie-b-d1944.md)** ( - before 1944)
+
 ## Clark
 
 - **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - )
@@ -128,6 +132,10 @@ permalink: /indexes/by-all-names
 ## Collins
 
 - **[Helen Collins](people/@79475420@-helen-collins-b-d.md)**
+
+## Copeland
+
+- **[Helen Copeland](people/@65737621@-helen-copeland-b-d.md)**
 
 ## Cowan
 
@@ -544,20 +552,22 @@ permalink: /indexes/by-all-names
 - **[George Howie](people/@13337194@-george-howie-b1854-d.md)** (about 1854 - )
 - **[Georgina Howie](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
 - **[Helen S Howie](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - )
+- **[Howie](people/@52455521@-agnes-christie-b-d1944.md)** ( - before 1944)
 - **[Howie](people/@52047082@-jane-yule-b1817-12-13-d1898-3-17.md)** (13/Dec/1817 - 17/Mar/1898)
 - **[Howie](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915)
-- **[Howie](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911)
+- **[Howie](people/@30556026@-annie-boyle-b1863-d1905-5-8.md)** (about 1863 - 8/May/1905)
 - **[Isabel Howie](people/@61510080@-isabel-edward-b-d.md)**
 - **[Jane Howie](people/@87788832@-jean-howie-b1851-d.md)** (1851 - )
 - **[Jean Howie](people/@87788832@-jean-howie-b1851-d.md)** (1851 - )
 - **[Jeanie Yule Howie](people/@75216465@-jeanie-yule-howie-b1897-d.md)** (1897 - )
+- **[Maggie Howie](people/@39683867@-margaret-taylor-howie-b1892-d.md)** (1892 - )
 - **[Margaret Howie](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915)
 - **[Margaret Taylor Howie](people/@39683867@-margaret-taylor-howie-b1892-d.md)** (1892 - )
 - **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - )
 - **[Peter Howie](people/@32048437@-peter-howie-b-d.md)**
 - **[Peter Howie](people/@40872746@-peter-howie-b1803-5-d1876-3-5.md)** (May/1803 - 5/Mar/1876)
 - **[Peter Howie](people/@82820064@-peter-howie-b1838-d.md)** (about 1838 - )
-- **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - )
+- **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md)** (9/Feb/1861 - 20/Apr/1944)
 - **[Peter R Howie](people/@99453615@-peter-r-howie-b1916-8-d.md)** (about Aug/1916 - )
 - **[William Howie](people/@26502369@-william-howie-b1847-d.md)** (about 1847 - )
 - **[Williamina Boyle Howie](people/@1971089@-williamina-boyle-howie-b1894-d.md)** (1894 - )
@@ -706,7 +716,7 @@ permalink: /indexes/by-all-names
 - **[Isabella Mackay](people/@16263484@-isabella-mackay-b1764-d.md)** (before 1764 - )
 - **[Isabella Mackay](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862)
 - **[Isabella Mackay](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
-- **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923)
+- **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md)** (7/Aug/1860 - 23/Apr/1936)
 - **[Isabella Mackay](people/@54814674@-bella-mackay-b1885-d.md)** (about 1885 - )
 - **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
 - **[James Mackay](people/@57588096@-james-mackay-b1828-d.md)** (1828 - )
@@ -749,7 +759,7 @@ permalink: /indexes/by-all-names
 - **[Mackay](people/@45275253@-christy-fraser-b1787-d1868-1-13.md)** (about 1787 - 13/Jan/1868)
 - **[Mackay](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862)
 - **[Mackay](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
-- **[Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923)
+- **[Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md)** (7/Aug/1860 - 23/Apr/1936)
 - **[Mackay](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949)
 - **[Mackay](people/@94200830@-christy-grant-b1865-d.md)** (before 1865 - )
 - **[Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
@@ -896,6 +906,7 @@ permalink: /indexes/by-all-names
 
 ## McKay
 
+- **[Helen McKay](people/@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md)** (5/Jan/1900 - 28/Dec/1984)
 - **[John McKay](people/@25989156@-john-mckay-b-d1855.md)** ( - before 1855)
 - **[Margaret McKay](people/@76218830@-margaret-mckay-b1842-d.md)** (about 1842 - )
 - **[McKay](people/@24534213@-susan-allford-b1807-d.md)** (about 1807 - )
@@ -925,7 +936,7 @@ permalink: /indexes/by-all-names
 
 ## McKinlay
 
-- **[Annie McKinlay](people/@67691160@-annie-mckinlay-b-d.md)**
+- **[Annie McKinlay](people/@67691160@-annie-mckinlay-b1836-d.md)** (about 1836 - )
 
 ## McKnight
 
@@ -1025,10 +1036,13 @@ permalink: /indexes/by-all-names
 
 ## Morrison
 
+- **[Helen Morrison](people/@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md)** (5/Jan/1900 - 28/Dec/1984)
 - **[Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)**
 - **[John Morrison](people/@39757210@-john-morrison-b-d1877.md)** ( - before 1877)
+- **[John Morrison](people/@83544218@-john-morrison-b-d.md)**
 - **[Mary Morrison](people/@18316154@-mary-morrison-b1805-d1877-10-23.md)** (about 1805 - 23/Oct/1877)
 - **[Morrison](people/@48064613@-anne-chisholm-b-d1877.md)** ( - before 1877)
+- **[Morrison](people/@65737621@-helen-copeland-b-d.md)**
 
 ## Munn
 

@@ -137,7 +137,7 @@ Source Last Updated | 10/May/2026 20:58:33
   * [Margaret Howie](../people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md) (27/Jul/1843 - 26/Jan/1915)
   * [Peter Howie](../people/@40872746@-peter-howie-b1803-5-d1876-3-5.md) (May/1803 - 5/Mar/1876)
   * [Peter Howie](../people/@82820064@-peter-howie-b1838-d.md) (about 1838 - )
-  * [Peter Howie](../people/@19655531@-peter-howie-b1861-2-9-d.md) (9/Feb/1861 - )
+  * [Peter Howie](../people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md) (9/Feb/1861 - 20/Apr/1944)
   * [William Howie](../people/@26502369@-william-howie-b1847-d.md) (about 1847 - )
 * Yule
   * [Jane Yule](../people/@52047082@-jane-yule-b1817-12-13-d1898-3-17.md) (13/Dec/1817 - 17/Mar/1898)

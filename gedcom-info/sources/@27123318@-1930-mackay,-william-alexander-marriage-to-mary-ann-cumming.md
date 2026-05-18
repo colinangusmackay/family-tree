@@ -13,7 +13,7 @@ Publication | Ontario, Canada, Marriages, 1826-1937
 Original Document Date | 17/Mar/1930
 References | 002154
 Source Created | 25/Jan/2020 11:37:19
-Source Last Updated | 10/Oct/2024 20:18:12
+Source Last Updated | 16/May/2026 20:00:33
 
 ## Text
 
@@ -168,4 +168,5 @@ Place of Brith: Scotland | Scotland
 * Fraser
   * [Ann Fraser](../people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md) (18/Sep/1865 - 20/Jun/1946)
 * Mackay
+  * [Kenneth Mackay](../people/@48909111@-kenneth-mackay-b1895-2-2-d.md) (2/Feb/1895 - )
   * [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i52455521",
+  "Name": "Agnes Christie",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "before 1944",
+  "Parents": [
+    {
+      "Id": "i22926532",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i86949198",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

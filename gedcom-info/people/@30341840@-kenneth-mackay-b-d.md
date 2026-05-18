@@ -9,7 +9,7 @@ permalink: /people/i30341840
 ## Immediate Family
 
 * Partner: [Janet Mackay](./@20237816@-janet-mackay-b-d.md)
-* Daughter: [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
+* Daughter: [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md) (7/Aug/1860 - 23/Apr/1936)
 
 ## Additional Sources
 

@@ -1,0 +1,38 @@
+﻿{
+  "Id": "i83544218",
+  "Name": "John Morrison",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "",
+  "DateOfDeath": "",
+  "Children": [
+    {
+      "Id": "i62432280",
+      "Name": "Helen Morrison",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "5/Jan/1900",
+      "DateOfDeath": "28/Dec/1984",
+      "Children": [
+        {
+          "Id": "i64651538",
+          "Name": "X",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "about 1928",
+          "DateOfDeath": "",
+          "Children": []
+        },
+        {
+          "Id": "i84312128",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "after 1931",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

@@ -106,6 +106,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mackay, William](people/@15516484@-william-mackay-b1826-d.md)** (1826 - )
   * **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875)
 * **Born in 1827.**
+  * **[Boyle, William](people/@99276822@-william-boyle-b1827-d.md)** (about 1827 - )
   * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - )
   * **[Wood, Margaret](people/@50500805@-margaret-wood-b1827-d1871.md)** (about 1827 - before 1871)
 * **Born in 1828.**
@@ -131,6 +132,7 @@ permalink: /indexes/by-date-of-birth
   * **[Nicholson, Agnes](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - )
   * **[Napier, David](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901)
 * **Born in 1836.**
+  * **[McKinlay, Annie](people/@67691160@-annie-mckinlay-b1836-d.md)** (about 1836 - )
   * **[Mackay, Isabella](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862)
 * **Born in 1837.**
   * **[Wilson, Margaret](people/@63936152@-margaret-wilson-b1837-d.md)** (about 1837 - )
@@ -284,7 +286,7 @@ permalink: /indexes/by-date-of-birth
   * **[Mitchell, Thomas](people/@47829915@-thomas-mitchell-b1860-d.md)** (1860 - )
   * **[Ramsay, Catherine](people/@12774174@-catherine-ramsay-b1860-d.md)** (1860 - )
   * **[Ross, Ann](people/@32419757@-ann-ross-b1860-6-17-d.md)** (17/Jun/1860 - )
-  * **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923)
+  * **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md)** (7/Aug/1860 - 23/Apr/1936)
 * **Born in 1861.**
   * **[Black, Mary Ann](people/@94950024@-mary-ann-black-b1861-d.md)** (1861 - )
   * **[Mackay, Christina](people/@20426296@-christina-mackay-b1861-d.md)** (1861 - )
@@ -294,7 +296,7 @@ permalink: /indexes/by-date-of-birth
   * **[Smith, Elizabeth](people/@96054144@-elizabeth-smith-b1861-d.md)** (about 1861 - )
   * **[Teevin, Margaret](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - )
   * **[Will, George](people/@39711353@-george-will-b1861-d.md)** (about 1861 - )
-  * **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - )
+  * **[Howie, Peter](people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md)** (9/Feb/1861 - 20/Apr/1944)
   * **[Cumming, Donald J](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940)
   * **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903)
   * **[Paterson, Williamina](people/@90589456@-williamina-paterson-b1861-6-10-d.md)** (10/Jun/1861 - )
@@ -304,7 +306,7 @@ permalink: /indexes/by-date-of-birth
   * **[Ross, Barbara](people/@82167024@-barbara-ross-b1862-2-28-d.md)** (28/Feb/1862 - )
   * **[Smith, Rachel](people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md)** (11/Nov/1862 - 23/Jun/1942)
 * **Born in 1863.**
-  * **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911)
+  * **[Boyle, Annie](people/@30556026@-annie-boyle-b1863-d1905-5-8.md)** (about 1863 - 8/May/1905)
   * **[Fraser, Isabella](people/@92660555@-isabella-fraser-b1863-d.md)** (about 1863 - )
   * **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
   * **[Mathews, George](people/@7150388@-george-mathews-b1863-d.md)** (about 1863 - )
@@ -565,6 +567,7 @@ permalink: /indexes/by-date-of-birth
   * **[Grant, Catherine](people/@5052852@-catherine-grant-b1900-d.md)** (about 1900 - )
   * **[Ross, Marion](people/@39695489@-marion-ross-b1900-d.md)** (1900 - )
   * **[Wilson, Ella R](people/@43820265@-ella-r-wilson-b1900-d.md)** (about 1900 - )
+  * **[Morrison, Helen](people/@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md)** (5/Jan/1900 - 28/Dec/1984)
   * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
   * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
   * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )

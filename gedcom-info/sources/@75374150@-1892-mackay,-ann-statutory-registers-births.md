@@ -44,6 +44,6 @@ Source Last Updated | 5/Sep/2020 16:25:18
 ## Source Referenced by
 
 * [Annie Mackay](../people/@51252926@-annie-mackay-b1892-12-15-d1918.md) (15/Dec/1892 - 1918)
-* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1923.md) (7/Aug/1860 - after 1923)
+* [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md) (7/Aug/1860 - 23/Apr/1936)
 * [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
 * [Lucy Mackay](../people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) (23/Sep/1889 - 15/May/1970)

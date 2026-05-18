@@ -35,21 +35,21 @@ about 1905 | Born | Born to [Henry Wilson](./@5904501@-henry-wilson-b1876-d.md) 
 10/Jan/1908 | Birth of sister | [Frieda Belle Wilson](./@66883950@-frieda-belle-wilson-b1908-1-10-d1995-1-4.md) born to [Henry Wilson](./@5904501@-henry-wilson-b1876-d.md) and [Minnie Lenox](./@99536158@-minnie-lenox-b1867-4-15-d.md) in Bolton Landing, Warren County, New York, United States of America. | [1](#1), [3](#3) | 
 1927 | Marriage | Married to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) in Lake George, Warren County, New York, United States of America | [4](#4) | 
 1/Nov/1930 | Birth of daughter | [Mary Beth Roberts](./@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md) born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary Elizabeth Wilson](./@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md) in Ilion, New York, United States of America. | [5](#5), [6](#6) | 
-8/Feb/1936 | Birth of son | [Derry Roberts](./@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md) born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary Elizabeth Wilson](./@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md) in Ilion, New York, United States of America. | [7](#7) | 
-10/Nov/1937 | Birth of daughter | [Sandra Jane Roberts](./@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md) born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary Elizabeth Wilson](./@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md) in Ilion, New York, United States of America. | [5](#5), [8](#8) | 
+8/Feb/1936 | Birth of son | [Derry Roberts](./@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md) born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary Elizabeth Wilson](./@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md) in Ilion, New York, United States of America. | [7](#7), [8](#8) | 
+10/Nov/1937 | Birth of daughter | [Sandra Jane Roberts](./@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md) born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary Elizabeth Wilson](./@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md) in Ilion, New York, United States of America. | [5](#5), [9](#9) | 
 about 1944 | Birth of daughter | X born to [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) and [Mary Elizabeth Wilson](./@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md). | [5](#5) | 
-16/Dec/1971 | Died | Died in Hartford, Hartford County, Connecticut, United States of America. | [2](#2), [9](#9), [10](#10) | 
+16/Dec/1971 | Died | Died in Hartford, Hartford County, Connecticut, United States of America. | [2](#2), [10](#10), [11](#11) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1935 | German Flatts, Herkimer County, New York, United States of America | [11](#11)
-1940 | 21 Philip St, Ilion, New York, United States of America | [11](#11), [12](#12)
+1935 | German Flatts, Herkimer County, New York, United States of America | [12](#12)
+1940 | 21 Philip St, Ilion, New York, United States of America | [12](#12), [13](#13)
 1950 | 1239 Post Road, Fairfield, Connecticut, United States of America | [5](#5)
-1958 | 62 Cove Ave, East Norwalk, Connecticut, United States of America | [13](#13)
-1960 | 62 Cove Ave, Norwalk, Connecticut, USA | [14](#14)
-1967 | Norwalk, Fairfield County, Connecticut, United States of America | [15](#15)
+1958 | 62 Cove Ave, East Norwalk, Connecticut, United States of America | [14](#14)
+1960 | 62 Cove Ave, Norwalk, Connecticut, USA | [15](#15)
+1967 | Norwalk, Fairfield County, Connecticut, United States of America | [16](#16)
 1971 | 62 Cove Ave., East Norwalk, Connecticut, USA | [2](#2)
 
 ## Footnotes
@@ -113,20 +113,28 @@ Date | Residence | Sources & Notes
 
 ### 8
 
+**1936 ROBERTS, DERRY (The Post-Star)**
+
+* [Full text and notes](../sources/@67147973@-1936-roberts,-derry-the-post-star-.md)
+* Publication: The Post Star, Glens Falls, New York
+* Date: 5/Mar/1936
+
+### 9
+
 **2019 X, SANDRA J. (The Post-Star, Glens Falls, New York)**
 
 * [Full text and notes](../sources/@2430456@-2019-pratt,-sandra-j.-the-post-star,-glens-falls,-new-york-.md)
 * Publication: The Post-Star, Glens Falls, New York
 * Date: 6/Dec/2019
 
-### 9
+### 10
 
 **1971 WILSON, MARY ELIZABETH (The Bridgeport Post, Connecticut, 18 DEC 1971, Page 29)**
 
 * [Full text and notes](../sources/@62984615@-1971-wilson,-mary-elizabeth-the-bridgeport-post,-connecticut,-18-dec-1971,-page-29-.md)
 * Publication: The Bridgeport Post
 
-### 10
+### 11
 
 **1972 X, MARY ELIZABETH WILSON - The Bridgeport Post Thu Jan 13 1972**
 
@@ -134,28 +142,28 @@ Date | Residence | Sources & Notes
 * Publication: The Bridgeport Post
 * Date: 13/Jan/1972
 
-### 11
+### 12
 
 **1940 ROBERTS, MALCOLM & Family (Federal Census)**
 
 * [Full text and notes](../sources/@1486578@-1940-roberts,-malcolm-&-family-federal-census-.md)
 * Publication: 1940 Federal Census
 
-### 12
+### 13
 
 **1940 ROBERTS, MALCOLM DEWITT (U.S., World War II Draft Cards Young Men, 1940)**
 
 * [Full text and notes](../sources/@74614494@-1940-roberts,-malcolm-dewitt-u.s.,-world-war-ii-draft-cards-young-men,-1940-.md)
 * Publication: U.S., World War II Draft Cards Young Men, 1940-1947
 
-### 13
+### 14
 
 **1958 ROBERTS, MALCOLM (Norwalk, Connecticut, City Directory, 1958)**
 
 * [Full text and notes](../sources/@68551232@-1958-roberts,-malcolm-norwalk,-connecticut,-city-directory,-1958-.md)
 * Publication: Norwalk, Connecticut, City Directory, 1958
 
-### 14
+### 15
 
 **1960 X, X A & ROBERTS, SANDRA J (The Bridgeport Post, Connecticut)**
 
@@ -163,7 +171,7 @@ Date | Residence | Sources & Notes
 * Publication: The Bridgeport Post
 * Date: 8/May/1960
 
-### 15
+### 16
 
 **1967 X, MRS. (The Glens Falls Times, New York, 4 MAY 1967, Page 3)**
 

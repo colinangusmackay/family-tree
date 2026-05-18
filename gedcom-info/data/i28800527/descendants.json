@@ -432,7 +432,26 @@
               "Relationship": "son",
               "DateOfBirth": "2/Feb/1895",
               "DateOfDeath": "",
-              "Children": []
+              "Children": [
+                {
+                  "Id": "i64651538",
+                  "Name": "X",
+                  "Gender": "Male",
+                  "Relationship": "son",
+                  "DateOfBirth": "about 1928",
+                  "DateOfDeath": "",
+                  "Children": []
+                },
+                {
+                  "Id": "i84312128",
+                  "Name": "X",
+                  "Gender": "Female",
+                  "Relationship": "daughter",
+                  "DateOfBirth": "after 1931",
+                  "DateOfDeath": "",
+                  "Children": []
+                }
+              ]
             },
             {
               "Id": "i57646474",

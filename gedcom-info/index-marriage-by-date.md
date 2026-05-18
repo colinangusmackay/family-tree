@@ -117,7 +117,8 @@ A list of marriages, civil partnerships and civil unions by date.
   * **31/Dec/1884** : **[William Hawthorn](people/@92463484@-william-hawthorn-b1847-d1921.md)** (about 1847 - before 1921) and **[Hannah O'Donnell](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921) at Bathgate, West Lothian, Scotland.
 * **1885**
   * **15/Jan/1885** : **[John Mackay](people/@53390906@-john-mackay-b-d.md)** and **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949) at Stornoway, Eilean Siar, Scotland.
-  * **3/Jun/1885** : **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) and **[Annie Boyle](people/@30556026@-annie-boyle-b1863-d1911.md)** (about 1863 - before 1911) at Glasgow, Scotland.
+  * **3/Jun/1885** : **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md)** (9/Feb/1861 - 20/Apr/1944) and **[Annie Boyle](people/@30556026@-annie-boyle-b1863-d1905-5-8.md)** (about 1863 - 8/May/1905) at Glasgow, Scotland.
+  * **25/Sep/1885** : **[John Morrison](people/@83544218@-john-morrison-b-d.md)** and **[Helen Copeland](people/@65737621@-helen-copeland-b-d.md)** at Peterhead, Aberdeenshire, Scotland.
 * **1886**
   * **4/Jun/1886** : **[George Will](people/@39711353@-george-will-b1861-d.md)** (about 1861 - ) and **[Helen S Niddrie](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - ).
   * **25/Oct/1886** : **[Thomas McKnight](people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md)** (about 1856 - 8/Aug/1897) and **[Margaret Teevin](people/@7753096@-margaret-teevin-b1861-d.md)** (about 1861 - ) at Glasgow, Scotland.
@@ -128,7 +129,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **28/Sep/1887** : **[Thomas Sunderland](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - ) and **[Marion Ross](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888) at Hayes Township, Charlevoix County, Michigan, United States of America.
   * **25/Oct/1887** : **[Donald J Cumming](people/@20465544@-donald-j-cumming-b1861-3-22-d1940-2-28.md)** (22/Mar/1861 - 28/Feb/1940) and **[Ann Fraser](people/@70425788@-ann-fraser-b1865-9-18-d1946-6-20.md)** (18/Sep/1865 - 20/Jun/1946) at Dornoch, Sutherland, Scotland.
 * **1888**
-  * **23/Oct/1888** : **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1923.md)** (7/Aug/1860 - after 1923) at Dornoch, Sutherland, Scotland.
+  * **23/Oct/1888** : **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md)** (7/Aug/1860 - 23/Apr/1936) at Dornoch, Sutherland, Scotland.
 * **1889**
   * **22/Apr/1889** : **[Michael O'Malley](people/@34933754@-michael-o'malley-b1851-d.md)** (about 1851 - ) and **[Catherine McBride](people/@24941331@-catherine-mcbride-b1865-d.md)** (about 1865 - ) at Glasgow, Scotland.
   * **2/Nov/1889** : **[Alexander Mackay](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ) and X.
@@ -179,7 +180,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1907**
   * **24/Dec/1907** : **[James Cumming](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918) and **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - ) at Aberdeen, Aberdeenshire, Scotland.
 * **1908**
-  * **27/Mar/1908** : **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d.md)** (9/Feb/1861 - ) and **[Helen S Niddrie](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - ) at Glasgow, Scotland.
+  * **27/Mar/1908** : **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md)** (9/Feb/1861 - 20/Apr/1944) and **[Helen S Niddrie](people/@47342988@-helen-s-niddrie-b1861-d.md)** (about 1861 - ) at Glasgow, Scotland.
   * **3/Jul/1908** : **[Alexander Ross](people/@34528442@-alexander-ross-b1883-d.md)** (1883 - ) and **[Bella Mackay](people/@54814674@-bella-mackay-b1885-d.md)** (about 1885 - ) at Tain, Ross and Cromarty, Scotland.
 * **1909**
   * **31/Dec/1909** : **[Hector McLean McIver](people/@62168745@-hector-mclean-mciver-b1878-8-17-d1938-2-21.md)** (17/Aug/1878 - 21/Feb/1938) and **[Margaret Paterson McKenzie](people/@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md)** (26/May/1884 - 5/Apr/1964) at Glasgow, Scotland.
@@ -219,7 +220,10 @@ A list of marriages, civil partnerships and civil unions by date.
   * **25/Apr/1924** : **[Richard McKnight](people/@33327416@-richard-mcknight-b1895-4-27-d.md)** (27/Apr/1895 - ) and **[Annie Fern](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946) at Carfin, North Lanarkshire, Scotland.
   * **6/Aug/1924** : **[John Cumming](people/@7323242@-john-cumming-b1895-10-10-d.md)** (10/Oct/1895 - ) and **[Carrie Elizabeth Predendall](people/@2361090@-carrie-elizabeth-predendall-b1901-d.md)** (about 1901 - ).
 * **1925**
+  * **1/Jun/1925** : **[Peter Howie](people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md)** (9/Feb/1861 - 20/Apr/1944) and **[Agnes Christie](people/@52455521@-agnes-christie-b-d1944.md)** ( - before 1944) at Glasgow, Scotland.
   * **15/Aug/1925** : **[Thomas Mitchell](people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md)** (2/Feb/1891 - 4/May/1972) and **[Ann Ross](people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md)** (28/Nov/1890 - 27/Jun/1980) at Lowell, Middlesex, Massachusetts, United States of America.
+* **1926**
+  * **28/Oct/1926** : **[Kenneth Mackay](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ) and **[Helen Morrison](people/@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md)** (5/Jan/1900 - 28/Dec/1984) at Detroit, Michigan, United States of America.
 * **1927**
   * **1927** : **[Malcolm DeWitt Roberts](people/@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md)** (30/Sep/1905 - 6/May/1990) and **[Mary Elizabeth Wilson](people/@99819804@-mary-elizabeth-wilson-b1905-d1971-12-16.md)** (about 1905 - 16/Dec/1971) at Lake George, Warren County, New York, United States of America.
 * **1928**
