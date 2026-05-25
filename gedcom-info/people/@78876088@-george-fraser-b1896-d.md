@@ -22,6 +22,7 @@ permalink: /people/i78876088
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1896 | Born | Born to [Alexander Fraser](./@36585616@-alexander-fraser-b1859-8-29-d.md) and [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md). | [1](#1) | 
+1900 | Birth of sister | [Isabella Fraser](./@81999219@-isabella-fraser-b1900-d.md) born to [Alexander Fraser](./@36585616@-alexander-fraser-b1859-8-29-d.md) and [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md). | [1](#1) | 
 
 ## Known Residences
 

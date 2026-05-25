@@ -24,6 +24,7 @@ permalink: /people/i69495356
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1891 | Born | Born to [Edward McCann](./@91921886@-edward-mccann-b-d.md) and [Alice Smith](./@77089636@-alice-smith-b-d.md). | [1](#1) | 
+14/Jun/1950 | Marriage | Married to [Donald Sutherland](./@6737165@-donald-sutherland-b1874-2-8-d.md) in Detroit, Michigan, United States of America | [1](#1) | 
 
 ## Footnotes
 

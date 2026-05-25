@@ -23,6 +23,12 @@ permalink: /people/i51349357
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1884 | Born | Born to [James Fisher](./@22540348@-james-fisher-b1854-d.md) and [Margaret Dickson Seaton](./@45571672@-margaret-dickson-seaton-b1856-d.md) in Govan, Glasgow City, Scotland. | [1](#1) | 
+about 1887 | Birth of sister | [Agnes Fisher](./@45605556@-agnes-fisher-b1887-d.md) born to [James Fisher](./@22540348@-james-fisher-b1854-d.md) and [Margaret Dickson Seaton](./@45571672@-margaret-dickson-seaton-b1856-d.md) in Edinburgh, Scotland. | [1](#1) | 
+about 1889 | Birth of sister | [Margaret Fisher](./@21244212@-margaret-fisher-b1889-d.md) born to [James Fisher](./@22540348@-james-fisher-b1854-d.md) and [Margaret Dickson Seaton](./@45571672@-margaret-dickson-seaton-b1856-d.md) in Edinburgh, Scotland. | [1](#1) | 
+about 1892 | Birth of brother | [John Fisher](./@59036117@-john-fisher-b1892-d.md) born to [James Fisher](./@22540348@-james-fisher-b1854-d.md) and [Margaret Dickson Seaton](./@45571672@-margaret-dickson-seaton-b1856-d.md) in Edinburgh, Scotland. | [2](#2) | 
+about 1894 | Birth of brother | [William Fisher](./@85653512@-william-fisher-b1894-d.md) born to [James Fisher](./@22540348@-james-fisher-b1854-d.md) and [Margaret Dickson Seaton](./@45571672@-margaret-dickson-seaton-b1856-d.md) in Edinburgh, Scotland. | [2](#2) | 
+about 1896 | Birth of brother | [James Fisher](./@39137337@-james-fisher-b1896-d.md) born to [James Fisher](./@22540348@-james-fisher-b1854-d.md) and [Margaret Dickson Seaton](./@45571672@-margaret-dickson-seaton-b1856-d.md) in Edinburgh, Scotland. | [2](#2) | 
+6/Jun/1953 | Death of sister | [Helen Currie Fisher](./@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md) died in Edinburgh, Scotland. | [3](#3) | 
 
 ## Known Residences
 
@@ -41,7 +47,7 @@ Date | Occupation | Sources & Notes
 
 Footnote | Source
 ---|---
-[3](#3) | **[2022 RAMSAY family (Conversation)](../sources/@3881135@-2022-ramsay-family-conversation-.md)**
+[4](#4) | **[2022 RAMSAY family (Conversation)](../sources/@3881135@-2022-ramsay-family-conversation-.md)**
 
 ## Footnotes
 
@@ -64,6 +70,15 @@ Footnote | Source
   * 1901 C 685/5 25/ 4
 
 ### 3
+
+**1953 RAMSAY, HELEN CURRIE (Statutory Register Deaths 685/3 309)**
+
+* [Full text and notes](../sources/@76279830@-1953-ramsay,-helen-currie-statutory-register-deaths-685-3-309-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1953 D 685/3 309
+
+### 4
 
 **2022 RAMSAY family (Conversation)**
 

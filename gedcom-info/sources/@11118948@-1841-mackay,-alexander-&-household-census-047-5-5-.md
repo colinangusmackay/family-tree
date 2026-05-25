@@ -105,5 +105,6 @@ Source Last Updated | 3/Jun/2025 22:22:01
 * Mackay
   * [Alexander Mackay](../people/@28762468@-alexander-mackay-b1786-d.md) (1786 - )
   * [James Mackay](../people/@57588096@-james-mackay-b1828-d.md) (1828 - )
+  * [John Mackay](../people/@69392899@-john-mackay-b-d.md)
   * [Kenneth Mackay](../people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) (19/Jan/1817 - 21/Feb/1894)
   * [William Mackay](../people/@15516484@-william-mackay-b1826-d.md) (1826 - )

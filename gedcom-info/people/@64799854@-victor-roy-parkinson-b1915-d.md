@@ -23,6 +23,7 @@ permalink: /people/i64799854
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1915 | Born | Born to [Thomas Parkinson](./@4365378@-thomas-parkinson-b1870-9-2-d1941.md) and [Mildred Parkinson](./@25594216@-mildred-parkinson-b1876-d.md) in Halstead, Essex, England, . | [1](#1) | 
+1941 | Death of father | [Thomas Parkinson](./@4365378@-thomas-parkinson-b1870-9-2-d1941.md) died. | [2](#2) | 
 
 ## Known Residences
 
@@ -37,4 +38,11 @@ Date | Residence | Sources & Notes
 **1921 PARKINSON, THOMAS & HOUSEHOLD (Census, England)**
 
 * [Full text and notes](../sources/@90666873@-1921-parkinson,-thomas-&-household-census,-england-.md)
+
+### 2
+
+**1941 RAMSAY, BRUCE MORGAN & PARKINSON, ERNESTINE (Entry of Marriage)**
+
+* [Full text and notes](../sources/@27507200@-1941-ramsay,-bruce-morgan-&-parkinson,-ernestine-entry-of-marriage-.md)
+* Date: 1941
 

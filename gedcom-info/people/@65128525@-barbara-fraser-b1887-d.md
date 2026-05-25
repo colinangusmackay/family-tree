@@ -22,6 +22,12 @@ permalink: /people/i65128525
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1887 | Born | Born to [Alexander Fraser](./@36585616@-alexander-fraser-b1859-8-29-d.md) and [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md) in Embo, Sutherland, Scotland. | [1](#1) | 
+12/Apr/1887 | Marriage between father and mother | Marriage of [Alexander Fraser](./@36585616@-alexander-fraser-b1859-8-29-d.md) and [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md) in Embo, Sutherland, Scotland | [2](#2) | 
+1889 | Birth of brother | [Alexander Fraser](./@60675311@-alexander-fraser-b1889-d.md) born to [Alexander Fraser](./@36585616@-alexander-fraser-b1859-8-29-d.md) and [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md). | [1](#1) | 
+13/Aug/1890 | Birth of brother | [Kenneth Fraser](./@89580356@-kenneth-fraser-b1890-8-13-d.md) born to [Alexander Fraser](./@36585616@-alexander-fraser-b1859-8-29-d.md) and [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md) in Helmsdale, Sutherland, Scotland. | [1](#1), [3](#3) | 
+1892 | Birth of sister | [Mary Ann Fraser](./@94394924@-mary-ann-fraser-b1892-d.md) born to [Alexander Fraser](./@36585616@-alexander-fraser-b1859-8-29-d.md) and [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md). | [1](#1) | 
+1896 | Birth of brother | [George Fraser](./@78876088@-george-fraser-b1896-d.md) born to [Alexander Fraser](./@36585616@-alexander-fraser-b1859-8-29-d.md) and [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md). | [1](#1) | 
+1900 | Birth of sister | [Isabella Fraser](./@81999219@-isabella-fraser-b1900-d.md) born to [Alexander Fraser](./@36585616@-alexander-fraser-b1859-8-29-d.md) and [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md). | [1](#1) | 
 
 ## Known Residences
 
@@ -40,4 +46,24 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1901 C 047/ 2/ 6
+
+### 2
+
+**1887 FRASER, ALEXANDER & ROSS, BARBARA (Statutory Register of Marriages 047/ 2)**
+
+* [Full text and notes](../sources/@53128860@-1887-fraser,-alexander-&-ross,-barbara-statutory-register-of-marriages-047-2-.md)
+* Date: 13/Apr/1887
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1887 M 047/ 2
+
+### 3
+
+**1890 FRASER, KENNETH (Statutory Register of Births 052/ 28)**
+
+* [Full text and notes](../sources/@59051183@-1890-fraser,-kenneth-statutory-register-of-births-052-28-.md)
+* Date: 23/Aug/1890
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1890 B 052/ 28
 

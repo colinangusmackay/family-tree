@@ -19,6 +19,11 @@ permalink: /people/i46994217
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1901 | Born | Born to [Alexander Napier](./@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) and [Janet Balfour Dalrymple](./@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md) in Kirkcaldy, Fife, Scotland. | [1](#1) | 
+about 1905 | Birth of brother | [John Napier](./@61882948@-john-napier-b1905-d.md) born to [Alexander Napier](./@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) and [Janet Balfour Dalrymple](./@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md) in Kirkcaldy, Fife, Scotland. | [1](#1) | 
+2/May/1913 | Birth of brother | [Alexander Napier](./@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md) born to [Alexander Napier](./@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) and [Janet Balfour Dalrymple](./@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md) in Dysart, Fife, Scotland. | [2](#2), [3](#3) | 
+18/Apr/1952 | Death of father | [Alexander Napier](./@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) died in Kirkcaldy, Fife, Scotland. | [4](#4) | 
+2/Mar/1960 | Death of mother | [Janet Balfour Dalrymple](./@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md) died in Kirkcaldy, Fife, Scotland. | [5](#5) | 
+25/Jun/1994 | Death of brother | [Alexander Napier](./@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md) died in Dunfermline, Fife, Scotland. | [6](#6) | 
 
 ## Known Residences
 
@@ -43,4 +48,53 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1921 C 442/ 39/ 31
+
+### 2
+
+**1913 NAPIER, ALEXANDER (Statutory Register Births 426/ 264)**
+
+* [Full text and notes](../sources/@18127054@-1913-napier,-alexander-statutory-register-births-426-264-.md)
+* Date: 19/May/1913
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1913 B 426/ 264
+
+### 3
+
+**1945 NAPIER, ALEXANDER & HANTON, JOHNINA (Statutory Register Marriages 573/1 936)**
+
+* [Full text and notes](../sources/@14483641@-1945-napier,-alexander-&-hanton,-johnina-statutory-register-marriages-573-1-936-.md)
+* Date: 24/Dec/1945
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1945 M 573/1 936
+
+### 4
+
+**1952 NAPIER, ALEXANDER (Statutory Register of Deaths 442/ 201)**
+
+* [Full text and notes](../sources/@43999128@-1952-napier,-alexander-statutory-register-of-deaths-442-201-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1952 D 442/ 201
+
+### 5
+
+**1960 NAPIER, JANET (Statutory Register of Deaths 442/ 147)**
+
+* [Full text and notes](../sources/@80757158@-1960-napier,-janet-statutory-register-of-deaths-442-147-.md)
+* Date: 3/Mar/1960
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1960 D 442/ 147
+
+### 6
+
+**1994 X, X (Obituary - Paisley Daily Express)**
+
+* [Full text and notes](../sources/@98921056@-1994-napier,-alexander-obituary-paisley-daily-express-.md)
+* Publication: Paisley Daily Express
+* Date: 27/Jun/1994
+* References: 
+  * (URL) https://www.newspapers.com/image/820433784/?article=3829f0d5-33ff-4bd9-af21-ac2cf6c39192&focus=0.0768008,0.55416965,0.20303267,0.70679164&xid=3355
 

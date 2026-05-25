@@ -58,5 +58,9 @@ Source Last Updated | 2/Jan/2022 23:20:06
 
 ## Source Referenced by
 
-* [Hector MacLeod](../people/@28404010@-hector-macleod-b-d1949.md) ( - before 1949)
-* [Matilda MacLeod](../people/@31540392@-matilda-macleod-b1861-d1949-11-9.md) (about 1861 - 9/Nov/1949)
+* Mackay
+  * [Catherine Mackay](../people/@28166672@-catherine-mackay-b1900-9-3-d.md) (3/Sep/1900 - )
+  * [John Mackay](../people/@53390906@-john-mackay-b-d.md)
+* MacLeod
+  * [Hector MacLeod](../people/@28404010@-hector-macleod-b-d1949.md) ( - before 1949)
+  * [Matilda MacLeod](../people/@31540392@-matilda-macleod-b1861-d1949-11-9.md) (about 1861 - 9/Nov/1949)

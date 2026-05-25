@@ -149,14 +149,21 @@ on 19th of July 1984
 * Cumming
   * [Adam Cumming](../people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) (2/Jul/1841 - 18/Jan/1926)
   * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1831-d1884-5-7.md) (about 1831 - 7/May/1884)
+  * [Catherine Cumming](../people/@61803880@-catherine-cumming-b1835-d.md) (about 1835 - )
   * [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
   * [Donald Cumming](../people/@69575920@-donald-cumming-b1838-d1875.md) (about 1838 - after 1875)
   * [James Cumming](../people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
+  * [John Cumming](../people/@38336704@-john-cumming-b1839-6-18-d.md) (18/Jun/1839 - )
+* Fraser
+  * [Christy Fraser](../people/@91889557@-christy-fraser-b1791-d.md) (1791 - )
+* Gordon
+  * [Jane Gordon](../people/@19799810@-jane-gordon-b-d.md)
 * Grant
   * [Cate Grant](../people/@89641618@-cate-grant-b1849~1851-d.md) (bet' 1849 and 1851 - )
 * MacDonald
   * [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1875-10-29.md) (about 1807 - 29/Oct/1875)
 * Mackay
+  * [Alexander Mackay](../people/@28762468@-alexander-mackay-b1786-d.md) (1786 - )
   * [Alexander Mackay](../people/@2381836@-alexander-mackay-b1844~1849-d.md) (bet' 1844 and 1849 - )
   * [Alexander Mackay](../people/@25433155@-alexander-mackay-b1850-d.md) (about 1850 - )
   * [Ann Mackay](../people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)
@@ -171,8 +178,13 @@ on 19th of July 1984
   * [Isabella Mackay](../people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md) (7/Aug/1860 - 23/Apr/1936)
   * [James Mackay](../people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) (12/Apr/1861 - 6/Jul/1903)
   * [Jane or Jean Mackay](../people/@4172390@-jane-or-jean-mackay-b1859-d.md) (about 1859 - )
+  * [Janet Mackay](../people/@20237816@-janet-mackay-b-d.md)
+  * [Janet Mackay](../people/@42213240@-janet-mackay-b1840-d.md) (1840 - )
+  * [John Mackay](../people/@69392899@-john-mackay-b-d.md)
+  * [John Mackay](../people/@58430005@-john-mackay-b1841-2-18-d.md) (18/Feb/1841 - )
   * [John Mackay](../people/@15814480@-john-mackay-b1864~1865-d.md) (bet' 1864 and 1865 - )
   * [Kenneth Mackay](../people/@27357972@-kenneth-mackay-b-d.md)
+  * [Kenneth Mackay](../people/@30341840@-kenneth-mackay-b-d.md)
   * [Kenneth Mackay](../people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) (19/Jan/1817 - 21/Feb/1894)
   * [William Mackay](../people/@69114879@-william-mackay-b1781-d1841.md) (1781 - 1841)
   * [William Mackay](../people/@99871003@-william-mackay-b1843~1846-d.md) (bet' 1843 and 1846 - )

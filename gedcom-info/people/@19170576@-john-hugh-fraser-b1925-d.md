@@ -18,6 +18,7 @@ permalink: /people/i19170576
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1925 | Born | Born to [Kenneth Fraser](./@89580356@-kenneth-fraser-b1890-8-13-d.md) and [Rose Miranda](./@47782544@-rose-miranda-b-d.md) in Sydney, New South Wales, Australia. | [1](#1) | 
+29/Sep/1947 | Marriage | Married to X at St Thomas' Church, Rozelle, Sydney, New South Wales, Australia | [1](#1) | 
 
 ## Known Residences
 

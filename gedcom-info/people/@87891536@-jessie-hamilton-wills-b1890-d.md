@@ -19,6 +19,8 @@ permalink: /people/i87891536
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1890 | Born | Born to [George Will](./@39711353@-george-will-b1861-d.md) and [Helen S Niddrie](./@47342988@-helen-s-niddrie-b1861-d.md) in Uphall, West Lothian, Scotland. | [1](#1) | 
+about 1891 | Birth of brother | [David N Wills](./@24358912@-david-n-wills-b1891-d.md) born to [George Will](./@39711353@-george-will-b1861-d.md) and [Helen S Niddrie](./@47342988@-helen-s-niddrie-b1861-d.md) in Glasgow, Scotland. | [1](#1) | 
+about 1893 | Birth of brother | [Robert M Wills](./@15072794@-robert-m-wills-b1893-d.md) born to [George Will](./@39711353@-george-will-b1861-d.md) and [Helen S Niddrie](./@47342988@-helen-s-niddrie-b1861-d.md) in Glasgow, Scotland. | [1](#1) | 
 2/Apr/1911 | Census | Census | [1](#1) | 
 
 ## Known Residences

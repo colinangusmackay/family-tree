@@ -117,6 +117,7 @@ Source Last Updated | 24/May/2025 15:11:32
   * [Janet MacLeod](../people/@31854910@-janet-macleod-b1798-d1864.md) (before 1798 - after 1864)
 * Ross
   * [Alexander Ross](../people/@81387900@-alexander-ross-b1816-d1896-1-20.md) (about 1816 - 20/Jan/1896)
+  * [Alexander Ross](../people/@64872505@-alexander-ross-b1855-d.md) (1855 - )
   * [Hugh Ross](../people/@10594034@-hugh-ross-b1826-d1875-9-5.md) (about 1826 - 5/Sep/1875)
   * [Hugh Ross](../people/@33375290@-hugh-ross-b1857-d.md) (about 1857 - )
   * [John Hugh Ross](../people/@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md) (19/Jun/1859 - 7/Oct/1941)

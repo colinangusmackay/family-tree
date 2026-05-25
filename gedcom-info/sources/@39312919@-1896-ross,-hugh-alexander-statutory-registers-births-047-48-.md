@@ -53,4 +53,6 @@ Source Last Updated | 3/Jan/2022 16:59:02
 * Ross
   * [Ann Ross](../people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md) (28/Nov/1890 - 27/Jun/1980)
   * [Hugh Alexander Ross](../people/@22731476@-hugh-alexander-ross-b1896-11-17-d.md) (17/Nov/1896 - )
+  * [James Ross](../people/@62357517@-james-ross-b1893-d.md) (1893 - )
+  * [Jessie Ross](../people/@49602674@-jessie-ross-b1895-d.md) (1895 - )
   * [John Hugh Ross](../people/@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md) (19/Jun/1859 - 7/Oct/1941)

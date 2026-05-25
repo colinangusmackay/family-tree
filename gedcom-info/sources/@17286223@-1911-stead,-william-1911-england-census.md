@@ -210,6 +210,7 @@ Source Last Updated | 24/Mar/2022 14:12:31
 
 * 
   * [Harriet](../people/@98128898@-harriet-b1867-d.md) (about 1867 - )
+  * [Nancy](../people/@68661720@-nancy-b-d.md)
 * Stead
   * [Albert Stead](../people/@51674188@-albert-stead-b1901-d.md) (1901 - )
   * [Cyril Stead](../people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md) (11/Mar/1908 - 25/Nov/1980)

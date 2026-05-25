@@ -81,5 +81,7 @@ Source Last Updated | 26/Apr/2026 21:50:23
   * [Janet Mackay](../people/@42213240@-janet-mackay-b1840-d.md) (1840 - )
   * [John Mackay](../people/@58430005@-john-mackay-b1841-2-18-d.md) (18/Feb/1841 - )
   * [William Mackay](../people/@69114879@-william-mackay-b1781-d1841.md) (1781 - 1841)
+* Macrae
+  * [Janet Macrae](../people/@66584000@-janet-macrae-b1781-d.md) (1781 - )
 * Matheson
   * [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)

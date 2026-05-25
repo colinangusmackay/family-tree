@@ -16,11 +16,11 @@ permalink: /people/i81238912
 * Partner: [John Smith](./@64841197@-john-smith-b-d.md)
 * Daughter: [Alice Smith](./@30782592@-alice-smith-b1890-d.md) (about 1890 - )
 
-## Additional Sources
+## Timeline
 
-Footnote | Source
----|---
-[1](#1) | **[1921 HAWTHORNE, THOMAS and SMITH, ALICE (Statutory Register Marriages 639/ 134)](../sources/@55904375@-1921-hawthorne,-thomas-and-smith,-alice-statutory-register-marriages-639-134-.md)**
+Date | Item | Description | Sources | Notes
+---|---|---|---|---
+about 1890 | Birth of daughter | [Alice Smith](./@30782592@-alice-smith-b1890-d.md) born to [John Smith](./@64841197@-john-smith-b-d.md) and [Mary Burns](./@81238912@-mary-burns-b-d.md). | [1](#1) | 
 
 ## Footnotes
 

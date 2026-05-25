@@ -82,8 +82,12 @@ Source Last Updated | 24/Jun/2022 12:53:05
 * Currie
   * [Helen Currie](../people/@14506844@-helen-currie-b-d1880.md) ( - before 1880)
 * Fisher
+  * [George Fisher](../people/@35202352@-george-fisher-b1844-d.md) (about 1844 - )
+  * [Isabella Fisher](../people/@74012383@-isabella-fisher-b1846-d.md) (about 1846 - )
   * [James Fisher](../people/@22540348@-james-fisher-b1854-d.md) (about 1854 - )
+  * [Johanna Fisher](../people/@76159436@-johanna-fisher-b1851-d.md) (about 1851 - )
   * [John Fisher](../people/@81248806@-john-fisher-b1819-d1880.md) (about 1819 - after 1880)
+  * [John Fisher](../people/@60298048@-john-fisher-b1848-d.md) (about 1848 - )
 * Seaton
   * [Margaret Dickson Seaton](../people/@45571672@-margaret-dickson-seaton-b1856-d.md) (about 1856 - )
   * [William Seaton](../people/@58232144@-william-seaton-b1824-d1891.md) (about 1824 - after 1891)

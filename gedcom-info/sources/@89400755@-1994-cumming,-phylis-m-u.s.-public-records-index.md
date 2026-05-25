@@ -29,6 +29,10 @@ Source Last Updated | 22/Aug/2020 13:37:16
 
 ## Source Referenced by
 
+* 
+  * [Margaret](../people/@17287208@-margaret-b1910-d.md) (before 1910 - )
+* LaFavre
+  * [Stasia LaFavre](../people/@16839684@-stasia-lafavre-b-d2018.md) ( - before 2018)
 * Martensen
   * [Charles Raymond Martensen](../people/@83409318@-charles-raymond-martensen-b1910-d1971.md) (before 1910 - after 1971)
   * [Phylis Martensen](../people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md) (21/Oct/1926 - 17/Mar/2018)

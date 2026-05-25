@@ -22,20 +22,15 @@ permalink: /people/i67691160
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1836 | Born | Born in Kilmarnock, East Ayrshire, Scotland. | [1](#1) | 
+about 1863 | Birth of daughter | [Annie Boyle](./@30556026@-annie-boyle-b1863-d1905-5-8.md) born to [William Boyle](./@99276822@-william-boyle-b1827-d.md) and [Annie McKinlay](./@67691160@-annie-mckinlay-b1836-d.md). | [2](#2) | 
 2/Apr/1871 | Census | Census | [1](#1) | 
+8/May/1905 | Death of daughter | [Annie Boyle](./@30556026@-annie-boyle-b1863-d1905-5-8.md) died in Glasgow, Scotland. | [3](#3), [4](#4) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
 1871 | Saltmarket Street, Glasgow, Scotland | [1](#1)
-
-## Additional Sources
-
-Footnote | Source
----|---
-[2](#2) | **[1885 HOWIE, PETER & BOYLE, ANNIE (Statutory Register of Marriages 644/5 96)](../sources/@15374952@-1885-howie,-peter-&-boyle,-annie-statutory-register-of-marriages-644-5-96-.md)**
-[3](#3) | **[1905 HOWIE, ANNIE (Statutory Register of Deaths 644/3 1273)](../sources/@80575743@-1905-howie,-annie-statutory-register-of-deaths-644-3-1273-.md)**
 
 ## Footnotes
 
@@ -66,4 +61,14 @@ Footnote | Source
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1905 D 644/3 1273
+
+### 4
+
+**1911 HOWIE, PETER A; HUNTER, GEORGINA (Statutory Resgister Marriages 560/ 145)**
+
+* [Full text and notes](../sources/@59422822@-1911-howie,-peter-a;-hunter,-georgina-statutory-resgister-marriages-560-145-.md)
+* Date: 11/Sep/1911
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1911 M 560/ 145
 

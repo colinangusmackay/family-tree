@@ -20,6 +20,8 @@ permalink: /people/i71188720
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1892 | Born | Born to [George Mathews](./@7150388@-george-mathews-b1863-d.md) and [Eliza Jane Wynn](./@63437677@-eliza-jane-wynn-b1864-d.md) in Birmingham, England. | [1](#1) | 
+21/Nov/1895 | Birth of brother | [John Albert Mathews](./@5643892@-john-albert-mathews-b1895-11-21-d.md) born to [George Mathews](./@7150388@-george-mathews-b1863-d.md) and [Eliza Jane Wynn](./@63437677@-eliza-jane-wynn-b1864-d.md) in Birmingham, England. | [1](#1), [2](#2), [3](#3), [4](#4) | 
+about 1899 | Birth of brother | [Charles A Mathews](./@74822247@-charles-a-mathews-b1899-d.md) born to [George Mathews](./@7150388@-george-mathews-b1863-d.md) and [Eliza Jane Wynn](./@63437677@-eliza-jane-wynn-b1864-d.md) in Birmingham, England. | [1](#1) | 
 
 ## Known Residences
 
@@ -38,4 +40,30 @@ Date | Residence | Sources & Notes
 * Responsible Agency: The National Archives, 1901
 * References: 
   * Class: RG13; Piece: 2850; Folio: 48; Page: 43
+
+### 2
+
+**1920 MATHEWS, JOHN ALBERT & CHRISTINA FLEMING (Statutory Registers Marriages 644/10 1110)**
+
+* [Full text and notes](../sources/@22441442@-1920-mathews,-john-albert-&-christina-fleming-statutory-registers-marriages-644-10-1110-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1920 M 644/10 1110
+
+### 3
+
+**1921 MATHEWS, JOHN A + HOUSEHOLD (Census RD 385; SD 4; ED 5)**
+
+* [Full text and notes](../sources/@58576096@-1921-mathews,-john-a-+-household-census-rd-385;-sd-4;-ed-5-.md)
+* Date: 25/Apr/1921
+
+### 4
+
+**1939 X, JOHN A & FAMILY (1939 England and Wales Register)**
+
+* [Full text and notes](../sources/@8791600@-1939-mathews,-john-a-&-family-1939-england-and-wales-register-.md)
+* Publication: 1939 England and Wales Register
+* Responsible Agency: The National Archives; Kew, London, England
+* References: 
+  * Rg 101/5510i
 

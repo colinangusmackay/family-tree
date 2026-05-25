@@ -52,10 +52,15 @@ Source Last Updated | 11/Aug/2020 23:05:49
 
 ## Source Referenced by
 
+* 
+  * [Margaret](../people/@17287208@-margaret-b1910-d.md) (before 1910 - )
 * Cumming
   * [Donald Cumming](../people/@11846578@-donald-cumming-b1891-11-11-d1967-12.md) (11/Nov/1891 - Dec/1967)
   * [Donald James Cumming](../people/@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md) (19/Jan/1922 - 16/Jan/1976)
+  * [Isabelle Anne Cumming](../people/@44164031@-isabelle-anne-cumming-b1923-7-29-d.md) (29/Jul/1923 - )
   * [Jessie Ann Cumming](../people/@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md) (8/Jan/1893 - 31/Oct/1978)
+* LaFavre
+  * [Stasia LaFavre](../people/@16839684@-stasia-lafavre-b-d2018.md) ( - before 2018)
 * Martensen
   * [Charles Raymond Martensen](../people/@83409318@-charles-raymond-martensen-b1910-d1971.md) (before 1910 - after 1971)
   * [Phylis Martensen](../people/@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md) (21/Oct/1926 - 17/Mar/2018)

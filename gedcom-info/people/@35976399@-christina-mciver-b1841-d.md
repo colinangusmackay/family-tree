@@ -18,6 +18,7 @@ permalink: /people/i35976399
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1841 | Born | Born to [Rodrick McIver](./@53638178@-rodrick-mciver-b-d.md) and [Christy MacLennan](./@8610974@-christy-maclennan-b-d.md) in Poolewe, Rossshire, Scotland. | [1](#1) | 
+11/Oct/1878 | Death of brother | [Roderick McIver](./@91038040@-roderick-mciver-b1821-d1878-10-11.md) died in Loch Ewe, Gairloch, Rossshire, Scotland. | [2](#2) | 
 
 ## Known Residences
 
@@ -41,4 +42,14 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1871 C 066/1 5/ 10
+
+### 2
+
+**1878 MACIVER, RODERICK (Statutory Register of Deaths 066/1 15)**
+
+* [Full text and notes](../sources/@66595592@-1878-maciver,-roderick-statutory-register-of-deaths-066-1-15-.md)
+* Date: 21/Oct/1878
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1878 D 066/1 15
 

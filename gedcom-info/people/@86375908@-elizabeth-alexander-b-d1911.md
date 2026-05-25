@@ -21,6 +21,7 @@ permalink: /people/i86375908
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
+about 1892 | Birth of daughter | [Agnes Watson Thomson](./@96590245@-agnes-watson-thomson-b1892-d.md) born to [Thomas Thomson](./@28828844@-thomas-thomson-b-d.md) and [Elizabeth Alexander](./@86375908@-elizabeth-alexander-b-d1911.md). | [1](#1) | 
 before 1911 | Died | Died. | [1](#1) | 
 
 ## Footnotes

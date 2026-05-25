@@ -11,6 +11,12 @@ permalink: /people/i27896288
 * Partner: [Robina Stobie](./@73873122@-robina-stobie-b-d.md)
 * Daughter: [Robina Stobie Litster](./@99806264@-robina-stobie-litster-b1891-d.md) (1891 - )
 
+## Timeline
+
+Date | Item | Description | Sources | Notes
+---|---|---|---|---
+1891 | Birth of daughter | [Robina Stobie Litster](./@99806264@-robina-stobie-litster-b1891-d.md) born to [John Litster](./@27896288@-john-litster-b-d.md) and [Robina Stobie](./@73873122@-robina-stobie-b-d.md). | [1](#1) | 
+
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

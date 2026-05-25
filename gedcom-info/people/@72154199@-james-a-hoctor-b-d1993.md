@@ -20,7 +20,10 @@ permalink: /people/i72154199
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
+21/Dec/1933 | Birth of daughter | [Sylvia Jean Hoctor](./@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md) born to [James A Hoctor](./@72154199@-james-a-hoctor-b-d1993.md) and X in Pittsfield, Berkshire County, Massachusetts, United States of America. | [1](#1) | 
 before 1993 | Died | Died. | [1](#1) | 
+before 1993 | Death of son | [Timothy Hoctor](./@74378972@-timothy-hoctor-b-d1993.md) died. | [1](#1) | 
+1993 | Death of daughter | [Sylvia Jean Hoctor](./@29702140@-sylvia-jean-hoctor-b1933-12-21-d1993.md) died in Clear Lake Hospital, Harris County, Texas, United States of America. | [1](#1) | 
 
 ## Known Residences
 

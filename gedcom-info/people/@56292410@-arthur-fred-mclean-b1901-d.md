@@ -18,6 +18,7 @@ permalink: /people/i56292410
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1901 | Born | Born to [Harvey McLean](./@70471714@-harvey-mclean-b-d.md) and [Clara Sherwood](./@79435398@-clara-sherwood-b-d.md) in Waterville, Estrie, Quebec, Canada. | [1](#1) | 
+7/Jun/1930 | Marriage | Married to [Catherine Grant](./@5052852@-catherine-grant-b1900-d.md) in Royal Oak, Oakland County, Michigan, United States of America | [1](#1) | 
 
 ## Known Residences
 

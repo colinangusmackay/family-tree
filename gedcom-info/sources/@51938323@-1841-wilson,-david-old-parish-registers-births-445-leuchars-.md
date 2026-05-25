@@ -29,5 +29,9 @@ Source Last Updated | 28/Apr/2024 14:55:21
 
 ## Source Referenced by
 
-* [David Wilson](../people/@15598112@-david-wilson-b1841-3-22-d.md) (22/Mar/1841 - )
-* [James Wilson](../people/@98356536@-james-wilson-b1816-d.md) (about 1816 - )
+* Nicholson
+  * [Margaret Nicholson](../people/@22262126@-margaret-nicholson-b1821-d.md) (about 1821 - )
+* Wilson
+  * [David Wilson](../people/@15598112@-david-wilson-b1841-3-22-d.md) (22/Mar/1841 - )
+  * [James Wilson](../people/@98356536@-james-wilson-b1816-d.md) (about 1816 - )
+  * [Margaret Wilson](../people/@63936152@-margaret-wilson-b1837-d.md) (about 1837 - )

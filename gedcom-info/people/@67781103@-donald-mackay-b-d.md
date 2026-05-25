@@ -11,6 +11,12 @@ permalink: /people/i67781103
 * Partner: [Ann Mackay](./@90776940@-ann-mackay-b-d.md)
 * Daughter: [Christina Mackay](./@10983472@-christina-mackay-b1848-d.md) (about 1848 - )
 
+## Timeline
+
+Date | Item | Description | Sources | Notes
+---|---|---|---|---
+about 1848 | Birth of daughter | [Christina Mackay](./@10983472@-christina-mackay-b1848-d.md) born to [Donald Mackay](./@67781103@-donald-mackay-b-d.md) and [Ann Mackay](./@90776940@-ann-mackay-b-d.md). | [1](#1) | 
+
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

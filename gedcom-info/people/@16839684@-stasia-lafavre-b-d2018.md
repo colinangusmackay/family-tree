@@ -18,31 +18,43 @@ permalink: /people/i16839684
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-before 2018 | Died | Died. | [1](#1) | 
+21/Aug/1918 | Birth of brother | [Thomas Stevens](./@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md) born to [Charles Raymond Martensen](./@83409318@-charles-raymond-martensen-b1910-d1971.md) and [Margaret](./@17287208@-margaret-b1910-d.md). |  | 
+21/Oct/1926 | Birth of sister | [Phylis Martensen](./@56344636@-phylis-martensen-b1926-10-21-d2018-3-17.md) born to [Charles Raymond Martensen](./@83409318@-charles-raymond-martensen-b1910-d1971.md) and [Margaret](./@17287208@-margaret-b1910-d.md). | [1](#1), [2](#2) | 
+after 1971 | Death of father | [Charles Raymond Martensen](./@83409318@-charles-raymond-martensen-b1910-d1971.md) died. | [3](#3) | 
+6/Apr/1971 | Death of brother | [Thomas Stevens](./@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md) died in Boston, Massachusetts, United States of America. | [3](#3) | 
+before 2018 | Died | Died. | [4](#4) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1971 | Quincy, Massachusetts, United States of America | [2](#2)
+1971 | Quincy, Massachusetts, United States of America | [3](#3)
 
 ## Additional Sources
 
 Footnote | Source
 ---|---
-[3](#3) | **[2018 CUMMING, PHYLIS MARTENSEN - U.S. Obituary Collection 1930-Current](../sources/@26844488@-2018-cumming,-phylis-martensen-u.s.-obituary-collection-1930-current.md)**
+[5](#5) | **[2018 CUMMING, PHYLIS MARTENSEN - U.S. Obituary Collection 1930-Current](../sources/@26844488@-2018-cumming,-phylis-martensen-u.s.-obituary-collection-1930-current.md)**
 
 ## Footnotes
 
 ### 1
 
-**2018 X, PHYLIS MARTENSEN (legacy.com)**
+**1976 CUMMING, DONALD J - Billion Graves**
 
-* [Full text and notes](../sources/@82326377@-2018-cumming,-phylis-martensen-legacy.com-.md)
+* [Full text and notes](../sources/@70188431@-1976-cumming,-donald-j-billion-graves.md)
+* Publication: BillionGraves.com
+* Date: 1976
 * References: 
-  * (URL) https://www.legacy.com/us/obituaries/wickedlocal-weymouth/name/phylis-cumming-obituary?n=phylis-cumming&pid=188510819
+  * (URL) https://billiongraves.com/grave/Donald-J-Cumming/7644409
 
 ### 2
+
+**1994 CUMMING, PHYLIS M - U.S. Public Records Index**
+
+* [Full text and notes](../sources/@89400755@-1994-cumming,-phylis-m-u.s.-public-records-index.md)
+
+### 3
 
 **1971 X, THOMAS A - The Boston Globe Wed Apr 7 1971**
 
@@ -50,7 +62,15 @@ Footnote | Source
 * Publication: The Boston Globe
 * Date: 7/Apr/1971
 
-### 3
+### 4
+
+**2018 X, PHYLIS MARTENSEN (legacy.com)**
+
+* [Full text and notes](../sources/@82326377@-2018-cumming,-phylis-martensen-legacy.com-.md)
+* References: 
+  * (URL) https://www.legacy.com/us/obituaries/wickedlocal-weymouth/name/phylis-cumming-obituary?n=phylis-cumming&pid=188510819
+
+### 5
 
 **2018 CUMMING, PHYLIS MARTENSEN - U.S. Obituary Collection 1930-Current**
 

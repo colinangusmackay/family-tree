@@ -20,6 +20,8 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
+* 
+  * [Margaret](../people/@17287208@-margaret-b1910-d.md) (before 1910 - )
 * LaFavre
   * [Stasia LaFavre](../people/@16839684@-stasia-lafavre-b-d2018.md) ( - before 2018)
 * Martensen

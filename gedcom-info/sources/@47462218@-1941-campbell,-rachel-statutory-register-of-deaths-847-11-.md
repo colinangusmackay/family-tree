@@ -56,4 +56,12 @@ Source Last Updated | 10/May/2025 14:15:02
 
 ## Source Referenced by
 
-* [Rachel Smith](../people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) (11/Nov/1862 - 23/Jun/1942)
+* Campbell
+  * [James Campbell](../people/@16864904@-james-campbell-b1890-d.md) (about 1890 - )
+  * [William Andrew Campbell](../people/@4716977@-william-andrew-campbell-b1889-1-2-d.md) (2/Jan/1889 - )
+* Smith
+  * [Andrew Smith](../people/@79740305@-andrew-smith-b1868-d.md) (about 1868 - )
+  * [Elizabeth Smith](../people/@96054144@-elizabeth-smith-b1861-d.md) (about 1861 - )
+  * [Jamima Smith](../people/@93122532@-jamima-smith-b1866-d.md) (about 1866 - )
+  * [Rachel Smith](../people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) (11/Nov/1862 - 23/Jun/1942)
+  * [William Elliot Smith](../people/@15044661@-william-elliot-smith-b1857-d.md) (about 1857 - )

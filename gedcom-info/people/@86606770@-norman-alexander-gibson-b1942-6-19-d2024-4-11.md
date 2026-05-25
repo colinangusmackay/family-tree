@@ -33,6 +33,8 @@ Date | Item | Description | Sources | Notes
 Date | Residence | Sources & Notes
 ---|---|---
 Unknown | Brora, Sutherland, Scotland | [3](#3)
+1968 | Old Schoolhouse, Keithhall, Inverurie, Aberdeenshire, Scotland | [9](#9)
+1969 | Woodville, Keith-Hall, Inverurie, Aberdeenshire. Scotland | [10](#10)
 1997 | Brora, Sutherland, Scotland | [1](#1)
 
 ## Known Occupations
@@ -124,4 +126,20 @@ Unknown | Head of Department of Arts, Design and Performance in Manchester, Engl
 * Responsible Agency: National Records of Scotland
 * References: 
   * 2024 D 472/ 170
+
+### 9
+
+**1968 GIBSON, NORMAN (GPO Telephone Directory - Aberdeen Area January 1968)**
+
+* [Full text and notes](../sources/@65358868@-1968-gibson,-norman-gpo-telephone-directory-aberdeen-area-january-1968-.md)
+* Publication: GPO Telephone Directory
+* Date: Jan/1968
+* Responsible Agency: GPO
+
+### 10
+
+**1969 GIBSON, NORMAN & MORAG (Register of Electors)**
+
+* [Full text and notes](../sources/@27384544@-1969-gibson,-norman-&-morag-register-of-electors-.md)
+* Date: 14/Feb/1970
 

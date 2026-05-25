@@ -16,7 +16,9 @@ permalink: /people/i72992640
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
+1838 | Birth of daughter | [Isabella Sutherland](./@79967653@-isabella-sutherland-b1838-d1884.md) born to [William Sutherland](./@72992640@-william-sutherland-b-d1856.md) and [Helen MacDonald](./@83660564@-helen-macdonald-b-d1856.md). |  | 
 after 1856 | Died | Died. | [1](#1) | 
+after 1856 | Death of partner | [Helen MacDonald](./@83660564@-helen-macdonald-b-d1856.md) died. | [1](#1) | 
 
 ## Known Occupations
 

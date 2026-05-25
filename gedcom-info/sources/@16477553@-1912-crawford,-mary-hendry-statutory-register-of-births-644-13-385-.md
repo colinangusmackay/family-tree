@@ -48,5 +48,8 @@ Source Last Updated | 5/May/2024 21:41:39
 
 ## Source Referenced by
 
-* [John Crawford](../people/@33792128@-john-crawford-b-d1936.md) ( - before 1936)
-* [Mary Hendry Crawford](../people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md) (22/Mar/1912 - 1991)
+* Crawford
+  * [John Crawford](../people/@33792128@-john-crawford-b-d1936.md) ( - before 1936)
+  * [Mary Hendry Crawford](../people/@465270@-mary-hendry-crawford-b1912-3-22-d1991.md) (22/Mar/1912 - 1991)
+* Hendry
+  * [Agnes Gibb Hendry](../people/@79368912@-agnes-gibb-hendry-b-d1936.md) ( - after 1936)

@@ -1,0 +1,115 @@
+﻿{
+  "Subject": {
+    "Id": "i52398826",
+    "Name": "Mary Gilchrist",
+    "Gender": "Female",
+    "DateOfBirth": "about 1867",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i22623536",
+      "Name": "Janet Steel",
+      "Gender": "Female",
+      "DateOfBirth": "about 1840",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i89232476",
+      "Name": "David Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "7/Apr/1843",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i12769933",
+      "Name": "MungoRobert Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "about 1865",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i22623536",
+          "i89232476"
+        ]
+      ]
+    },
+    {
+      "Id": "i52398826",
+      "Name": "Mary Gilchrist",
+      "Gender": "Female",
+      "DateOfBirth": "about 1867",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i22623536",
+          "i89232476"
+        ]
+      ]
+    },
+    {
+      "Id": "i3615140",
+      "Name": "Elisabeth Irvine Gilchrist",
+      "Gender": "Female",
+      "DateOfBirth": "about 1868",
+      "DateOfDeath": "9/Sep/1874",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i22623536",
+          "i89232476"
+        ]
+      ]
+    },
+    {
+      "Id": "i37120552",
+      "Name": "Jane Gilchrist",
+      "Gender": "Female",
+      "DateOfBirth": "about 1871",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i22623536",
+          "i89232476"
+        ]
+      ]
+    },
+    {
+      "Id": "i14432964",
+      "Name": "Elizabeth Gilchrist",
+      "Gender": "Female",
+      "DateOfBirth": "about 1876",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i22623536",
+          "i89232476"
+        ]
+      ]
+    },
+    {
+      "Id": "i61092708",
+      "Name": "Alexander Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "30/Sep/1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i22623536",
+          "i89232476"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

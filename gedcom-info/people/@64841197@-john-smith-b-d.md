@@ -11,6 +11,12 @@ permalink: /people/i64841197
 * Partner: [Mary Burns](./@81238912@-mary-burns-b-d.md)
 * Daughter: [Alice Smith](./@30782592@-alice-smith-b1890-d.md) (about 1890 - )
 
+## Timeline
+
+Date | Item | Description | Sources | Notes
+---|---|---|---|---
+about 1890 | Birth of daughter | [Alice Smith](./@30782592@-alice-smith-b1890-d.md) born to [John Smith](./@64841197@-john-smith-b-d.md) and [Mary Burns](./@81238912@-mary-burns-b-d.md). | [1](#1) | 
+
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

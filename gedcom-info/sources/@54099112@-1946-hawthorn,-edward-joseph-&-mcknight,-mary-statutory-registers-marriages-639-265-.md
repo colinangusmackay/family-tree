@@ -74,8 +74,11 @@ Source Last Updated | 17/Jan/2023 22:30:50
 
 ## Source Referenced by
 
+* Boyle
+  * [Mary Boyle](../people/@71324323@-mary-boyle-b-d.md)
 * Fern
   * [Annie Fern](../people/@53954394@-annie-fern-b1903-d1946.md) (about 1903 - before 1946)
+  * [Thomas Fern](../people/@34903625@-thomas-fern-b-d.md)
 * Hawthorn
   * [Thomas Hawthorn](../people/@30039040@-thomas-hawthorn-b1888-6-28-d1946.md) (28/Jun/1888 - before 1946)
 * Hawthorne

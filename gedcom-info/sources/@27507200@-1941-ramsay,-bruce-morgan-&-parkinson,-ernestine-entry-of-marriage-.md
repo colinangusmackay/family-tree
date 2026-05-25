@@ -74,6 +74,13 @@ Source Last Updated | 15/Aug/2025 17:03:29
 
 * Parkinson
   * [Ernestine Parkinson](../people/@32129630@-ernestine-parkinson-b1903-d.md) (1903 - )
+  * [Gladys Marie W Parkinson](../people/@93191940@-gladys-marie-w-parkinson-b1899-d.md) (1899 - )
+  * [Lawrence Sidney Arthur Parkinson](../people/@98781744@-lawrence-sidney-arthur-parkinson-b1906-d.md) (1906 - )
+  * [Leonard Albert Parkinson](../people/@59797112@-leonard-albert-parkinson-b1908-d.md) (1908 - )
+  * [Marie Olive Parkinson](../people/@25205426@-marie-olive-parkinson-b1909-d.md) (1909 - )
+  * [Mildred Parkinson](../people/@25594216@-mildred-parkinson-b1876-d.md) (1876 - )
   * [Thomas Parkinson](../people/@4365378@-thomas-parkinson-b1870-9-2-d1941.md) (2/Sep/1870 - 1941)
+  * [Victor Roy Parkinson](../people/@64799854@-victor-roy-parkinson-b1915-d.md) (1915 - )
+  * [Walter Alex Parkinson](../people/@9475046@-walter-alex-parkinson-b1901-d.md) (1901 - )
 * Ramsay
   * [Bruce Morgan Ramsay](../people/@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md) (10/Oct/1913 - 29/Nov/1965)

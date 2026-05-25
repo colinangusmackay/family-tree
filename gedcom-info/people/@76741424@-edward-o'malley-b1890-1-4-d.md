@@ -21,12 +21,15 @@ permalink: /people/i76741424
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 4/Jan/1890 | Born | Born to [Michael O'Malley](./@34933754@-michael-o'malley-b1851-d.md) and [Catherine McBride](./@24941331@-catherine-mcbride-b1865-d.md) in Glasgow, Scotland. | [1](#1), [2](#2) | 
+30/Nov/1911 | Marriage | Married to [Agnes Watson Thomson](./@96590245@-agnes-watson-thomson-b1892-d.md) at Wood Memorial Church, Glasgow, Scotland | [2](#2) | 
+4/Sep/1913 | Birth of son | [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) born to [Edward O'Malley](./@76741424@-edward-o'malley-b1890-1-4-d.md) and [Agnes Watson Thomson](./@96590245@-agnes-watson-thomson-b1892-d.md) in Glasgow, Scotland. | [3](#3), [4](#4) | 
+before 2004 | Death of son | [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) died. | [5](#5) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1891 | 10 South Shamrock Street, Glasgow, Scotland | [3](#3)
+1891 | 10 South Shamrock Street, Glasgow, Scotland | [6](#6)
 1911 | 363 Springburn Road, Glasgow, Scotland | [2](#2)
 
 ## Known Occupations
@@ -34,8 +37,8 @@ Date | Residence | Sources & Notes
 Date | Occupation | Sources & Notes
 ---|---|---
 1911 | Labourer (Gas Department) | [2](#2)
-1913 | Milk Salesman | [4](#4)
-1939 | Library Attendant | [5](#5)
+1913 | Milk Salesman | [3](#3)
+1939 | Library Attendant | [4](#4)
 
 ## Footnotes
 
@@ -61,15 +64,6 @@ Date | Occupation | Sources & Notes
 
 ### 3
 
-**1891 O'MALLEY MICHAEL & FAMILY (Census 644/11 16/ 13)**
-
-* [Full text and notes](../sources/@16336430@-1891-o'malley-michael-&-family-census-644-11-16-13-.md)
-* Responsible Agency: National Records of Scotland
-* References: 
-  * 1891 C 644/11 16/ 13
-
-### 4
-
 **1913 O'MALLEY, THOMAS (Statutory Register Births 644/5 936)**
 
 * [Full text and notes](../sources/@15100298@-1913-o'malley,-thomas-statutory-register-births-644-5-936-.md)
@@ -78,7 +72,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1913 B 644/5 936
 
-### 5
+### 4
 
 **1939 O'MALLEY, THOMAS (Statutory registers Marriages 644/10 421)**
 
@@ -86,4 +80,23 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1939 M 644/10 421
+
+### 5
+
+**2004 X, MARGARET PATON (Extract of an entry in a REGISTER of DEATHS)**
+
+* [Full text and notes](../sources/@55468576@-2004-campbell,-margaret-paton-extract-of-an-entry-in-a-register-of-deaths-.md)
+* Date: 6/Apr/2004
+* Responsible Agency: General Registers Office
+* References: 
+  * 2004 D 772/107
+
+### 6
+
+**1891 O'MALLEY MICHAEL & FAMILY (Census 644/11 16/ 13)**
+
+* [Full text and notes](../sources/@16336430@-1891-o'malley-michael-&-family-census-644-11-16-13-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1891 C 644/11 16/ 13
 

@@ -21,6 +21,13 @@ permalink: /people/i35202352
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1844 | Born | Born to [John Fisher](./@81248806@-john-fisher-b1819-d1880.md) and [Helen Taylor](./@47549486@-helen-taylor-b1816-d1865-11-27.md) in Leith, Scotland. | [1](#1) | 
+about 1846 | Birth of sister | [Isabella Fisher](./@74012383@-isabella-fisher-b1846-d.md) born to [John Fisher](./@81248806@-john-fisher-b1819-d1880.md) and [Helen Taylor](./@47549486@-helen-taylor-b1816-d1865-11-27.md) in Edinburgh, Scotland. | [1](#1) | 
+about 1848 | Birth of brother | [John Fisher](./@60298048@-john-fisher-b1848-d.md) born to [John Fisher](./@81248806@-john-fisher-b1819-d1880.md) and [Helen Taylor](./@47549486@-helen-taylor-b1816-d1865-11-27.md) in Edinburgh, Scotland. | [1](#1) | 
+about 1851 | Birth of sister | [Johanna Fisher](./@76159436@-johanna-fisher-b1851-d.md) born to [John Fisher](./@81248806@-john-fisher-b1819-d1880.md) and [Helen Taylor](./@47549486@-helen-taylor-b1816-d1865-11-27.md) in Edinburgh, Scotland. | [1](#1) | 
+about 1854 | Birth of brother | [James Fisher](./@22540348@-james-fisher-b1854-d.md) born to [John Fisher](./@81248806@-john-fisher-b1819-d1880.md) and [Helen Taylor](./@47549486@-helen-taylor-b1816-d1865-11-27.md) in Edinburgh, Scotland. | [1](#1), [2](#2), [3](#3) | 
+27/Nov/1865 | Death of mother | [Helen Taylor](./@47549486@-helen-taylor-b1816-d1865-11-27.md) died. | [2](#2), [4](#4) | 
+30/Nov/1865 | Burial of mother | [Helen Taylor](./@47549486@-helen-taylor-b1816-d1865-11-27.md) was buried in Edinburgh, Scotland. | [4](#4) | 
+after 1880 | Death of father | [John Fisher](./@81248806@-john-fisher-b1819-d1880.md) died. | [2](#2) | 
 
 ## Known Residences
 
@@ -38,4 +45,29 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1861 C 685/3 69/ 1
+
+### 2
+
+**1880 FISHER, JAMES (Statutory Registers Marriages 685/5 528)**
+
+* [Full text and notes](../sources/@35889678@-1880-fisher,-james-statutory-registers-marriages-685-5-528-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1880 M 685/5 528
+
+### 3
+
+**1891 FISHER, JAMES & FAMILY (Census 685/3 47/ 8)**
+
+* [Full text and notes](../sources/@51582829@-1891-fisher,-james-&-family-census-685-3-47-8-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1891 C 685/3 47/ 8
+
+### 4
+
+**1865 TAYLOR, HELEN (Edinburgh Cemetery Registers, 1771-1935)**
+
+* [Full text and notes](../sources/@83241568@-1865-taylor,-helen-edinburgh-cemetery-registers,-1771-1935-.md)
+* Publication: City of Edinburgh Archives; Edinburgh, Scotland; Edinburgh Burial Registers; Reference: BR0008
 

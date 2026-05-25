@@ -17,6 +17,7 @@ permalink: /people/i80440796
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 before 1850 | Born | Born. |  | 
+about 1859 | Birth of daughter | [Ann Lindores](./@44575087@-ann-lindores-b1859-d.md) born to [William Lindores](./@80440796@-william-lindores-b1850-d.md) and [Joan Punton](./@98605400@-joan-punton-b1850-d.md). | [1](#1) | 
 
 ## Known Occupations
 

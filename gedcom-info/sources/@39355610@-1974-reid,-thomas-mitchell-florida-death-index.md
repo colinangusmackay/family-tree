@@ -32,4 +32,7 @@ Source Last Updated | 30/Aug/2020 00:15:45
 * Cumming
   * [Isabella Cumming](../people/@84684994@-isabella-cumming-b1888-7-21-d1986-2-1.md) (21/Jul/1888 - 1/Feb/1986)
 * Reid
+  * [John Reid](../people/@95320597@-john-reid-b-d.md)
   * [Thomas Mitchell Reid](../people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md) (14/Jan/1893 - 10/May/1974)
+* Russell
+  * [Agnes Russell](../people/@37924612@-agnes-russell-b-d.md)

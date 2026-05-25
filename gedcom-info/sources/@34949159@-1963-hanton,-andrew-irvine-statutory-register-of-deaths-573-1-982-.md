@@ -64,4 +64,5 @@ Source Last Updated | 10/Apr/2024 23:11:45
   * [Mary Hanton](../people/@24857040@-mary-hanton-b1902-d1989.md) (about 1902 - 1989)
   * [William Hanton](../people/@19187808@-william-hanton-b1904-d1993.md) (about 1904 - 1993)
 * Russell
+  * [Alexander McGregor Russell](../people/@72370350@-alexander-mcgregor-russell-b-d.md)
   * [Martha Russell](../people/@30062456@-martha-russell-b1916-d1963.md) (about 1916 - before 1963)

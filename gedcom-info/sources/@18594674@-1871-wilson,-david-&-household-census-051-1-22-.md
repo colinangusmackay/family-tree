@@ -126,8 +126,12 @@ Source Last Updated | 28/Apr/2024 14:27:08
 
 * McLean
   * [Mary Ann McLean](../people/@87096403@-mary-ann-mclean-b1843-d.md) (about 1843 - )
+* Nicholson
+  * [Margaret Nicholson](../people/@22262126@-margaret-nicholson-b1821-d.md) (about 1821 - )
 * Wilson
   * [Annie Wilson](../people/@8935795@-annie-wilson-b1869-d.md) (about 1869 - )
   * [David Wilson](../people/@15598112@-david-wilson-b1841-3-22-d.md) (22/Mar/1841 - )
   * [Henrietta Wilson](../people/@47880504@-henrietta-wilson-b1868-d.md) (about 1868 - )
+  * [James Wilson](../people/@98356536@-james-wilson-b1816-d.md) (about 1816 - )
   * [James Wilson](../people/@59901376@-james-wilson-b1870-d.md) (about 1870 - )
+  * [Margaret Wilson](../people/@63936152@-margaret-wilson-b1837-d.md) (about 1837 - )

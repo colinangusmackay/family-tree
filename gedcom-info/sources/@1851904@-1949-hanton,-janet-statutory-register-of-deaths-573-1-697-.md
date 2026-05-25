@@ -65,3 +65,4 @@ Source Last Updated | 20/Apr/2024 19:13:59
   * [William Hanton](../people/@19187808@-william-hanton-b1904-d1993.md) (about 1904 - 1993)
 * McKechnie
   * [Janet McKechnie](../people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md) (about 1879 - 29/Jun/1949)
+  * [William McKechnie](../people/@95027126@-william-mckechnie-b-d.md)

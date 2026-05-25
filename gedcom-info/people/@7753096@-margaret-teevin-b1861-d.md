@@ -31,18 +31,20 @@ permalink: /people/i7753096
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1861 | Born | Born to [Richard Tevin](./@65007133@-richard-tevin-b1841-d.md) and [Susan McKay](./@29671874@-susan-mckay-b1833-4-d1886.md) in Lennoxtown, Scotland. | [1](#1), [2](#2) | 
+about 1870 | Birth of brother | [Thomas Tevin](./@81418416@-thomas-tevin-b1870-d.md) born to [Richard Tevin](./@65007133@-richard-tevin-b1841-d.md) and [Susan McKay](./@29671874@-susan-mckay-b1833-4-d1886.md) in Lennoxtown, Scotland. | [1](#1) | 
+before 1886 | Death of mother | [Susan McKay](./@29671874@-susan-mckay-b1833-4-d1886.md) died. | [2](#2) | 
+25/Oct/1886 | Marriage | Married to [Thomas McKnight](./@6387698@-thomas-mcknight-b1856-d1897-8-8.md) in Glasgow, Scotland | [2](#2), [3](#3) | 
+about 1889 | Birth of daughter | [Susan McKnight](./@87185096@-susan-mcknight-b1889-d.md) born to [Thomas McKnight](./@6387698@-thomas-mcknight-b1856-d1897-8-8.md) and [Margaret Teevin](./@7753096@-margaret-teevin-b1861-d.md). | [4](#4) | 
+about 1891 | Birth of daughter | [Lizzie McKnight](./@31828723@-lizzie-mcknight-b1891-d.md) born to [Thomas McKnight](./@6387698@-thomas-mcknight-b1856-d1897-8-8.md) and [Margaret Teevin](./@7753096@-margaret-teevin-b1861-d.md). | [4](#4) | 
+27/Apr/1895 | Birth of son | [Richard McKnight](./@33327416@-richard-mcknight-b1895-4-27-d.md) born to [Thomas McKnight](./@6387698@-thomas-mcknight-b1856-d1897-8-8.md) and [Margaret Teevin](./@7753096@-margaret-teevin-b1861-d.md) in Glasgow, Scotland. | [3](#3), [5](#5) | 
+about 1896 | Birth of daughter | [Nelly McKnight](./@63393644@-nelly-mcknight-b1896-d.md) born to [Thomas McKnight](./@6387698@-thomas-mcknight-b1856-d1897-8-8.md) and [Margaret Teevin](./@7753096@-margaret-teevin-b1861-d.md). | [4](#4) | 
+8/Aug/1897 | Death of partner | [Thomas McKnight](./@6387698@-thomas-mcknight-b1856-d1897-8-8.md) died in Motherwell, Lanarkshire, Scotland. | [5](#5), [6](#6) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1897 | 177 New Logans, Motherwell, Scotland | [3](#3)
-
-## Additional Sources
-
-Footnote | Source
----|---
-[4](#4) | **[1924 MCKNIGHT, RICHARD & FERN, ANNIE (Statutory Registers Marriages 625/2 45)](../sources/@66143754@-1924-mcknight,-richard-&-fern,-annie-statutory-registers-marriages-625-2-45-.md)**
+1897 | 177 New Logans, Motherwell, Scotland | [4](#4)
 
 ## Footnotes
 
@@ -68,6 +70,16 @@ Footnote | Source
 
 ### 3
 
+**1895 MCKNIGHT, RICHARD TEEVIN (Statutory Register Births 644/12 531)**
+
+* [Full text and notes](../sources/@11563536@-1895-mcknight,-richard-teevin-statutory-register-births-644-12-531-.md)
+* Date: 6/May/1895
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1895 B 644/12 531
+
+### 4
+
 **1897 TEEVIN OR MCKNIGHT, MAGGIE (North Lanarkshire Poor Law Applications and Registers)**
 
 * [Full text and notes](../sources/@41382264@-1897-teevin-or-mcknight,-maggie-north-lanarkshire-poor-law-applications-and-registers-.md)
@@ -76,7 +88,7 @@ Footnote | Source
 * References: 
   * CO1/37/65
 
-### 4
+### 5
 
 **1924 MCKNIGHT, RICHARD & FERN, ANNIE (Statutory Registers Marriages 625/2 45)**
 
@@ -85,4 +97,14 @@ Footnote | Source
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1924 M 625/2 45
+
+### 6
+
+**1897 MCKNIGHT, THOMAS (Statutory Register Deaths 639/ 295)**
+
+* [Full text and notes](../sources/@87990432@-1897-mcknight,-thomas-statutory-register-deaths-639-295-.md)
+* Date: 9/Aug/1897
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1897 D 639/ 295
 

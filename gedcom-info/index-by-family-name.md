@@ -14,6 +14,7 @@ permalink: /indexes/by-family-name
 - **[Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[Kathleen](people/@37756528@-kathleen-b-d1958.md)** ( - before 1958)
 - **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
+- **[Mary](people/@75173110@-mary-b-d1866.md)** ( - after 1866)
 - **[Nancy](people/@68661720@-nancy-b-d.md)**
 
 ## Abernethy
@@ -322,9 +323,15 @@ permalink: /indexes/by-family-name
 
 ## Gilchrist
 
-- **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - )
-- **[David Gilchrist](people/@89232476@-david-gilchrist-b-d.md)**
+- **[Alexander Gilchrist](people/@97711748@-alexander-gilchrist-b-d1866.md)** ( - after 1866)
+- **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - )
+- **[David Gilchrist](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - )
+- **[David Gilchrist](people/@16272572@-david-gilchrist-b1901-11-d.md)** (about Nov/1901 - )
+- **[Elisabeth Irvine Gilchrist](people/@3615140@-elisabeth-irvine-gilchrist-b1868-d1874-9-9.md)** (about 1868 - 9/Sep/1874)
+- **[Elizabeth Gilchrist](people/@14432964@-elizabeth-gilchrist-b1876-d.md)** (about 1876 - )
 - **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998)
+- **[Jane Gilchrist](people/@37120552@-jane-gilchrist-b1871-d.md)** (about 1871 - )
+- **[Mary Gilchrist](people/@52398826@-mary-gilchrist-b1867-d.md)** (about 1867 - )
 
 ## Gillie
 
@@ -442,6 +449,10 @@ permalink: /indexes/by-family-name
 
 - **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
 - **[James Hunter](people/@13263378@-james-hunter-b-d.md)**
+
+## Irvine
+
+- **[Elizabeth Irvine](people/@66882518@-elizabeth-irvine-b-d1866.md)** ( - after 1866)
 
 ## Johnson
 
@@ -938,6 +949,10 @@ permalink: /indexes/by-family-name
 - **[Agnes Rennie](people/@57426108@-agnes-rennie-b1878-d1961-2-7.md)** (1878 - 7/Feb/1961)
 - **[James Fraser Rennie](people/@2624560@-james-fraser-rennie-b-d1961.md)** ( - before 1961)
 
+## Robert /Gilchrist
+
+- **[MungoRobert Gilchrist](people/@12769933@-mungorobert-gilchrist-b1865-d.md)** (about 1865 - )
+
 ## Roberts
 
 - **[Derry Roberts](people/@38836920@-derry-roberts-b1936-2-8-d2025-12-8.md)** (8/Feb/1936 - 8/Dec/2025)
@@ -1039,7 +1054,7 @@ permalink: /indexes/by-family-name
 ## Sloan
 
 - **[James Sloan](people/@16524688@-james-sloan-b-d1901.md)** ( - before 1901)
-- **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - )
+- **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-2-d.md)** (about Feb/1879 - )
 
 ## Smith
 
@@ -1073,7 +1088,8 @@ permalink: /indexes/by-family-name
 
 ## Steel
 
-- **[Janet Steel](people/@22623536@-janet-steel-b-d.md)**
+- **[Janet Steel](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - )
+- **[Mungo Steel](people/@34546752@-mungo-steel-b-d1866.md)** ( - before 1866)
 
 ## Stevens
 

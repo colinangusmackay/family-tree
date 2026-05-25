@@ -22,6 +22,12 @@ permalink: /people/i33327416
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 27/Apr/1895 | Born | Born to [Thomas McKnight](./@6387698@-thomas-mcknight-b1856-d1897-8-8.md) and [Margaret Teevin](./@7753096@-margaret-teevin-b1861-d.md) in Glasgow, Scotland. | [1](#1), [2](#2) | 
+about 1896 | Birth of sister | [Nelly McKnight](./@63393644@-nelly-mcknight-b1896-d.md) born to [Thomas McKnight](./@6387698@-thomas-mcknight-b1856-d1897-8-8.md) and [Margaret Teevin](./@7753096@-margaret-teevin-b1861-d.md). | [3](#3) | 
+8/Aug/1897 | Death of father | [Thomas McKnight](./@6387698@-thomas-mcknight-b1856-d1897-8-8.md) died in Motherwell, Lanarkshire, Scotland. | [2](#2), [4](#4) | 
+about 1924 | Birth of daughter | [Mary McKnight](./@41720825@-mary-mcknight-b1924-d1991.md) born to [Richard McKnight](./@33327416@-richard-mcknight-b1895-4-27-d.md) and [Annie Fern](./@53954394@-annie-fern-b1903-d1946.md). |  | 
+25/Apr/1924 | Marriage | Married to [Annie Fern](./@53954394@-annie-fern-b1903-d1946.md) at St Francis Xavier's Church, Carfin, Lanarshire, Scotland | [2](#2) | 
+before 1946 | Death of partner | [Annie Fern](./@53954394@-annie-fern-b1903-d1946.md) died. | [5](#5) | 
+about 1991 | Death of daughter | [Mary McKnight](./@41720825@-mary-mcknight-b1924-d1991.md) died. |  | 
 
 ## Known Residences
 
@@ -35,7 +41,7 @@ Date | Residence | Sources & Notes
 Date | Occupation | Sources & Notes
 ---|---|---
 1924 | Steel Driller | [2](#2)
-1946 | Steel Driller | [4](#4)
+1946 | Steel Driller | [5](#5)
 
 ## Footnotes
 
@@ -70,6 +76,16 @@ Date | Occupation | Sources & Notes
   * CO1/37/65
 
 ### 4
+
+**1897 MCKNIGHT, THOMAS (Statutory Register Deaths 639/ 295)**
+
+* [Full text and notes](../sources/@87990432@-1897-mcknight,-thomas-statutory-register-deaths-639-295-.md)
+* Date: 9/Aug/1897
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1897 D 639/ 295
+
+### 5
 
 **1946 HAWTHORN, EDWARD JOSEPH & MCKNIGHT, MARY (Statutory Registers Marriages 639/ 265)**
 

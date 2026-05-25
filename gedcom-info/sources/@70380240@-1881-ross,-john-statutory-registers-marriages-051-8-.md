@@ -75,6 +75,7 @@ Source Last Updated | 8/Jan/2022 23:49:28
   * [Donald MacDonald](../people/@28173184@-donald-macdonald-b1850-d.md) (before 1850 - )
   * [Isabella MacDonald](../people/@80818668@-isabella-macdonald-b1863-d.md) (about 1863 - )
 * Mackay
+  * [Mary Mackay](../people/@78757487@-mary-mackay-b1840-d.md) (before 1840 - )
   * [Sophia Mackay](../people/@52720474@-sophia-mackay-b1850-d.md) (before 1850 - )
 * Ross
   * [Alex Ross](../people/@58451451@-alex-ross-b1840-d.md) (before 1840 - )

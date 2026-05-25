@@ -44,4 +44,8 @@ Source Last Updated | 8/Jan/2022 22:38:13
 
 ## Source Referenced by
 
-* [Williamina Ross](../people/@86024374@-williamina-ross-b1883-8-22-d.md) (22/Aug/1883 - )
+* MacDonald
+  * [Isabella MacDonald](../people/@80818668@-isabella-macdonald-b1863-d.md) (about 1863 - )
+* Ross
+  * [John Ross](../people/@81395704@-john-ross-b1856-d.md) (about 1856 - )
+  * [Williamina Ross](../people/@86024374@-williamina-ross-b1883-8-22-d.md) (22/Aug/1883 - )

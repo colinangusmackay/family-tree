@@ -3,19 +3,41 @@
     "Id": "i22623536",
     "Name": "Janet Steel",
     "Gender": "Female",
-    "DateOfBirth": "",
+    "DateOfBirth": "about 1840",
     "DateOfDeath": ""
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i34546752",
+      "Name": "Mungo Steel",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1866",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i75173110",
+      "Name": "Mary",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1866",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i22623536",
       "Name": "Janet Steel",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1840",
       "DateOfDeath": "",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i34546752",
+          "i75173110"
+        ]
+      ]
     }
   ],
   "Spouses": [
@@ -23,19 +45,79 @@
       "Id": "i89232476",
       "Name": "David Gilchrist",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "7/Apr/1843",
       "DateOfDeath": "",
-      "RelationToSubject": "partner",
-      "DateOfMarriage": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "8/Jun/1866",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
     {
+      "Id": "i12769933",
+      "Name": "MungoRobert Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "about 1865",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i89232476",
+        "i22623536"
+      ]
+    },
+    {
+      "Id": "i52398826",
+      "Name": "Mary Gilchrist",
+      "Gender": "Female",
+      "DateOfBirth": "about 1867",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i89232476",
+        "i22623536"
+      ]
+    },
+    {
+      "Id": "i3615140",
+      "Name": "Elisabeth Irvine Gilchrist",
+      "Gender": "Female",
+      "DateOfBirth": "about 1868",
+      "DateOfDeath": "9/Sep/1874",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i89232476",
+        "i22623536"
+      ]
+    },
+    {
+      "Id": "i37120552",
+      "Name": "Jane Gilchrist",
+      "Gender": "Female",
+      "DateOfBirth": "about 1871",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i89232476",
+        "i22623536"
+      ]
+    },
+    {
+      "Id": "i14432964",
+      "Name": "Elizabeth Gilchrist",
+      "Gender": "Female",
+      "DateOfBirth": "about 1876",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i89232476",
+        "i22623536"
+      ]
+    },
+    {
       "Id": "i61092708",
       "Name": "Alexander Gilchrist",
       "Gender": "Male",
-      "DateOfBirth": "about 1877",
+      "DateOfBirth": "30/Sep/1877",
       "DateOfDeath": "",
       "RelationToSubject": "son",
       "ParentIds": [

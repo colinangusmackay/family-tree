@@ -72,9 +72,15 @@ Source Last Updated | 17/Jan/2023 23:18:27
 
 ## Source Referenced by
 
+* Bond
+  * [Helen Bond](../people/@39873338@-helen-bond-b-d.md)
 * Burns
   * [Mary Burns](../people/@81238912@-mary-burns-b-d.md)
 * Hawthorn
+  * [Edward Hawthorn](../people/@88518114@-edward-hawthorn-b1886-d.md) (about 1886 - )
+  * [James Hawthorn](../people/@21482384@-james-hawthorn-b1877-d.md) (about 1877 - )
+  * [Joseph Hawthorn](../people/@16695817@-joseph-hawthorn-b1873-d.md) (about 1873 - )
+  * [Robert Hawthorn](../people/@91501446@-robert-hawthorn-b1875-d.md) (about 1875 - )
   * [Thomas Hawthorn](../people/@30039040@-thomas-hawthorn-b1888-6-28-d1946.md) (28/Jun/1888 - before 1946)
   * [William Hawthorn](../people/@92463484@-william-hawthorn-b1847-d1921.md) (about 1847 - before 1921)
 * O'Donnell

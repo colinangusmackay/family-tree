@@ -43,5 +43,11 @@ Source Last Updated | 12/Jun/2022 15:53:05
 
 ## Source Referenced by
 
-* [Alexander McTurk](../people/@39936423@-alexander-mcturk-b1854-d.md) (about 1854 - )
-* [Grace McTurk](../people/@54145218@-grace-mcturk-b1886-12-20-d.md) (20/Dec/1886 - )
+* Beatie
+  * [Margaret Beatie](../people/@2654341@-margaret-beatie-b1844-d.md) (about 1844 - )
+* McTurk
+  * [Alexander McTurk](../people/@39936423@-alexander-mcturk-b1854-d.md) (about 1854 - )
+  * [Elizabeth McTurk](../people/@78245729@-elizabeth-mcturk-b1885-d.md) (about 1885 - )
+  * [Georgina McTurk](../people/@51187488@-georgina-mcturk-b1883-d.md) (about 1883 - )
+  * [Grace McTurk](../people/@54145218@-grace-mcturk-b1886-12-20-d.md) (20/Dec/1886 - )
+  * [Jane McTurk](../people/@18380667@-jane-mcturk-b1880-2-22-d.md) (22/Feb/1880 - )

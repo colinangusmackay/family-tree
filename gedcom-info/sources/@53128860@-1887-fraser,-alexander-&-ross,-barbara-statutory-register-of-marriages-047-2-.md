@@ -78,6 +78,7 @@ Source Last Updated | 28/Jul/2025 22:23:48
 
 * Fraser
   * [Alexander Fraser](../people/@36585616@-alexander-fraser-b1859-8-29-d.md) (29/Aug/1859 - )
+  * [Barbara Fraser](../people/@65128525@-barbara-fraser-b1887-d.md) (1887 - )
 * Ross
   * [Alexander Ross](../people/@81387900@-alexander-ross-b1816-d1896-1-20.md) (about 1816 - 20/Jan/1896)
   * [Barbara Ross](../people/@82167024@-barbara-ross-b1862-2-28-d.md) (28/Feb/1862 - )

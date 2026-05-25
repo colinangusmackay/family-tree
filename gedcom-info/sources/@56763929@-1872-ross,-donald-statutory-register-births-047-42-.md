@@ -47,6 +47,7 @@ Source Last Updated | 6/Mar/2024 20:08:14
 ## Source Referenced by
 
 * [Alexander Ross](../people/@17311533@-alexander-ross-b1843-d.md) (about 1843 - )
+* [Catherine Ross](../people/@98280413@-catherine-ross-b1846-d.md) (about 1846 - )
 * [Donald Ross](../people/@4496220@-donald-ross-b1872-8-30-d.md) (30/Aug/1872 - )
 * [John Ross](../people/@16505504@-john-ross-b1868-8-23-d1905-11-20.md) (23/Aug/1868 - 20/Nov/1905)
 * [Marion Ross](../people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md) (1/Nov/1866 - 19/Aug/1888)

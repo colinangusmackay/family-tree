@@ -61,5 +61,7 @@ Source Last Updated | 24/Apr/2025 23:22:39
 * Cumming
   * [William Mackay Cumming](../people/@99807914@-william-mackay-cumming-b1933-d2015.md) (1933 - 2015)
 * Mackay
+  * [George Mackay](../people/@72941728@-george-mackay-b1890-11-12-d.md) (12/Nov/1890 - )
+  * [Kenneth Mackay](../people/@48909111@-kenneth-mackay-b1895-2-2-d.md) (2/Feb/1895 - )
   * [Margaret Moyes Mackay](../people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) (27/Jun/1901 - 24/Aug/1973)
   * [William Alexander Mackay](../people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) (24/Feb/1900 - 24/Sep/1982)

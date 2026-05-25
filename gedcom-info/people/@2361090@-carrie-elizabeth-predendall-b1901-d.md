@@ -23,6 +23,7 @@ permalink: /people/i2361090
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1901 | Born | Born to [Barney Predendall](./@69952770@-barney-predendall-b-d.md) and [Mary E Prey](./@37901232@-mary-e-prey-b-d.md). | [1](#1) | 
+6/Aug/1924 | Marriage | Married to [John Cumming](./@7323242@-john-cumming-b1895-10-10-d.md)  | [1](#1) | 
 
 ## Known Occupations
 

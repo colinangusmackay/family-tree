@@ -21,6 +21,7 @@ permalink: /people/i14506844
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
+about 1856 | Birth of daughter | [Margaret Dickson Seaton](./@45571672@-margaret-dickson-seaton-b1856-d.md) born to [William Seaton](./@58232144@-william-seaton-b1824-d1891.md) and [Helen Currie](./@14506844@-helen-currie-b-d1880.md) in Edinburgh, Scotland. | [1](#1), [2](#2) | 
 before 1880 | Died | Died. | [1](#1) | 
 
 ## Footnotes
@@ -33,4 +34,13 @@ before 1880 | Died | Died. | [1](#1) |
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1880 M 685/5 528
+
+### 2
+
+**1891 FISHER, JAMES & FAMILY (Census 685/3 47/ 8)**
+
+* [Full text and notes](../sources/@51582829@-1891-fisher,-james-&-family-census-685-3-47-8-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1891 C 685/3 47/ 8
 

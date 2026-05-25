@@ -14,6 +14,7 @@ permalink: /indexes/by-death-location
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[, Kathleen](people/@37756528@-kathleen-b-d1958.md)** ( - before 1958)
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
+- **[, Mary](people/@75173110@-mary-b-d1866.md)** ( - after 1866)
 - **[, Nancy](people/@68661720@-nancy-b-d.md)**
 - **[Abernethy, Janet](people/@82771990@-janet-abernethy-b-d.md)**
 - **[Alexander, Elizabeth](people/@86375908@-elizabeth-alexander-b-d1911.md)** ( - before 1911)
@@ -147,8 +148,13 @@ permalink: /indexes/by-death-location
 - **[Fraser, William](people/@94771760@-william-fraser-b1908-d.md)** (1908 - )
 - **[Gibson, Alexander](people/@21968540@-alexander-gibson-b1860-d1939.md)** (1860 - before 1939)
 - **[Gibson, Hugh](people/@22004930@-hugh-gibson-b-d.md)**
-- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - )
-- **[Gilchrist, David](people/@89232476@-david-gilchrist-b-d.md)**
+- **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b-d1866.md)** ( - after 1866)
+- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - )
+- **[Gilchrist, David](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - )
+- **[Gilchrist, David](people/@16272572@-david-gilchrist-b1901-11-d.md)** (about Nov/1901 - )
+- **[Gilchrist, Elizabeth](people/@14432964@-elizabeth-gilchrist-b1876-d.md)** (about 1876 - )
+- **[Gilchrist, Jane](people/@37120552@-jane-gilchrist-b1871-d.md)** (about 1871 - )
+- **[Gilchrist, Mary](people/@52398826@-mary-gilchrist-b1867-d.md)** (about 1867 - )
 - **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
 - **[Gillie, Andrew](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - )
 - **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
@@ -204,6 +210,7 @@ permalink: /indexes/by-death-location
 - **[Howie, Williamina Boyle](people/@1971089@-williamina-boyle-howie-b1894-d.md)** (1894 - )
 - **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
 - **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**
+- **[Irvine, Elizabeth](people/@66882518@-elizabeth-irvine-b-d1866.md)** ( - after 1866)
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
 - **[Johnston, Jane](people/@71906070@-jane-johnston-b1859-d1922.md)** (about 1859 - before 1922)
 - **[Kirkland, Margaret](people/@48501002@-margaret-kirkland-b-d.md)**
@@ -454,6 +461,7 @@ permalink: /indexes/by-death-location
 - **[Raymond, Goldie](people/@2876469@-goldie-raymond-b1894-d2018.md)** (about 1894 - before 2018)
 - **[Reid, John](people/@95320597@-john-reid-b-d.md)**
 - **[Rennie, James Fraser](people/@2624560@-james-fraser-rennie-b-d1961.md)** ( - before 1961)
+- **[Robert /Gilchrist, MungoRobert Gilchrist](people/@12769933@-mungorobert-gilchrist-b1865-d.md)** (about 1865 - )
 - **[Roberts, Donald F](people/@38158777@-donald-f-roberts-b1898-d1990.md)** (about 1898 - before 1990)
 - **[Roberts, Frederick B](people/@36552681@-frederick-b-roberts-b1868-d.md)** (about 1868 - )
 - **[Roberts, Janet](people/@46105652@-janet-roberts-b1913-d.md)** (about 1913 - )
@@ -516,7 +524,7 @@ permalink: /indexes/by-death-location
 - **[Seaton, William](people/@58232144@-william-seaton-b1824-d1891.md)** (about 1824 - after 1891)
 - **[Sherwood, Clara](people/@79435398@-clara-sherwood-b-d.md)**
 - **[Sloan, James](people/@16524688@-james-sloan-b-d1901.md)** ( - before 1901)
-- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - )
+- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-2-d.md)** (about Feb/1879 - )
 - **[Smith, Alice](people/@77089636@-alice-smith-b-d.md)**
 - **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
 - **[Smith, Andrew](people/@79740305@-andrew-smith-b1868-d.md)** (about 1868 - )
@@ -536,7 +544,8 @@ permalink: /indexes/by-death-location
 - **[Stead, Norman](people/@69808462@-norman-stead-b1937-10-d2011.md)** (Oct/1937 - 2011)
 - **[Stead, William](people/@44546659@-william-stead-b1867-d.md)** (about 1867 - )
 - **[Steedman, Richard Trotter](people/@65047040@-richard-trotter-steedman-b1948-d2022-6-23.md)** (1948 - 23/Jun/2022)
-- **[Steel, Janet](people/@22623536@-janet-steel-b-d.md)**
+- **[Steel, Janet](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - )
+- **[Steel, Mungo](people/@34546752@-mungo-steel-b-d1866.md)** ( - before 1866)
 - **[Stewart, Roxannah](people/@56480720@-roxannah-stewart-b-d.md)**
 - **[Stobie, Robina](people/@73873122@-robina-stobie-b-d.md)**
 - **[Sunderland, Thomas](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - )
@@ -787,6 +796,10 @@ permalink: /indexes/by-death-location
 - **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878)
 
 ### South Lanarkshire
+
+#### Biggar
+
+- **[Gilchrist, Elisabeth Irvine](people/@3615140@-elisabeth-irvine-gilchrist-b1868-d1874-9-9.md)** (about 1868 - 9/Sep/1874)
 
 #### Rutherglen
 

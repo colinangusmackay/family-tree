@@ -46,5 +46,6 @@ Source Last Updated | 5/Jun/2025 22:26:14
 
 ## Source Referenced by
 
+* [Barbara Mackay](../people/@52409786@-barbara-mackay-b1849~1854-d.md) (bet' 1849 and 1854 - )
 * [Barbra Mackay](../people/@60643714@-barbra-mackay-b1871-8-25-d.md) (25/Aug/1871 - )
 * [Kenneth Mackay](../people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) (19/Jan/1817 - 21/Feb/1894)

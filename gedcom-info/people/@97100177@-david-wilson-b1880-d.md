@@ -23,6 +23,7 @@ permalink: /people/i97100177
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1880 | Born | Born to [David Wilson](./@15598112@-david-wilson-b1841-3-22-d.md) and [Mary Ann McLean](./@87096403@-mary-ann-mclean-b1843-d.md) in Golspie, Sutherland, Scotland. | [1](#1) | 
+about 1942 | Death of sister | [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b1872-10-31-d1942.md) died. | [2](#2) | 
 
 ## Known Residences
 
@@ -41,4 +42,15 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1881 C 051/ 1/ 21
+
+### 2
+
+**2005 X, NORMAN (Brora - Time and change in a Highland village - a photographic portrait by Norman X)**
+
+* [Full text and notes](../sources/@81726947@-2005-gibson,-norman-brora-time-and-change-in-a-highland-village-a-photographic-portrait-by-norman-g….md)
+* Publication: Brora - Time and change in a Highland village - a photographic portrait
+* Originator / Author: Norman X
+* Date: 2005
+* References: 
+  * (ISBN) 0-9538642-1-9
 

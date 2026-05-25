@@ -29,6 +29,13 @@ permalink: /people/i32129630
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1903 | Born | Born to [Thomas Parkinson](./@4365378@-thomas-parkinson-b1870-9-2-d1941.md) and [Mildred Parkinson](./@25594216@-mildred-parkinson-b1876-d.md) in Blackpool, England, . | [1](#1), [2](#2) | 
+1906 | Birth of brother | [Lawrence Sidney Arthur Parkinson](./@98781744@-lawrence-sidney-arthur-parkinson-b1906-d.md) born to [Thomas Parkinson](./@4365378@-thomas-parkinson-b1870-9-2-d1941.md) and [Mildred Parkinson](./@25594216@-mildred-parkinson-b1876-d.md) in New Cross, London, England. | [1](#1) | 
+1908 | Birth of brother | [Leonard Albert Parkinson](./@59797112@-leonard-albert-parkinson-b1908-d.md) born to [Thomas Parkinson](./@4365378@-thomas-parkinson-b1870-9-2-d1941.md) and [Mildred Parkinson](./@25594216@-mildred-parkinson-b1876-d.md) in New Cross, London, England. | [1](#1) | 
+1909 | Birth of sister | [Marie Olive Parkinson](./@25205426@-marie-olive-parkinson-b1909-d.md) born to [Thomas Parkinson](./@4365378@-thomas-parkinson-b1870-9-2-d1941.md) and [Mildred Parkinson](./@25594216@-mildred-parkinson-b1876-d.md) in New Cross, London, England. | [1](#1) | 
+1915 | Birth of brother | [Victor Roy Parkinson](./@64799854@-victor-roy-parkinson-b1915-d.md) born to [Thomas Parkinson](./@4365378@-thomas-parkinson-b1870-9-2-d1941.md) and [Mildred Parkinson](./@25594216@-mildred-parkinson-b1876-d.md) in Halstead, Essex, England, . | [1](#1) | 
+1941 | Death of father | [Thomas Parkinson](./@4365378@-thomas-parkinson-b1870-9-2-d1941.md) died. | [3](#3) | 
+13/Aug/1941 | Marriage | Married to [Bruce Morgan Ramsay](./@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md) in Chester, Cheshire West and Chester, England | [3](#3) | 
+29/Nov/1965 | Death of partner | [Bruce Morgan Ramsay](./@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md) died in Westminster, London, England, . | [4](#4), [5](#5) | 
 
 ## Known Residences
 
@@ -44,12 +51,6 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1921 | Music Hall Artist | [1](#1)
 1939 | Variety Artist, Travelling | [2](#2)
-
-## Additional Sources
-
-Footnote | Source
----|---
-[4](#4) | **[1965 RAMSAY, BRUCE MORGAN (England & Wales, National Probate Calendar)](../sources/@81133372@-1965-ramsay,-bruce-morgan-england-&-wales,-national-probate-calendar-.md)**
 
 ## Footnotes
 
@@ -76,6 +77,12 @@ Footnote | Source
 * Date: 1941
 
 ### 4
+
+**1965 RAMSAY, BRUCE M. (England & Wales, Civil Registration Death Index)**
+
+* [Full text and notes](../sources/@3115264@-1965-ramsay,-bruce-m.-england-&-wales,-civil-registration-death-index-.md)
+
+### 5
 
 **1965 RAMSAY, BRUCE MORGAN (England & Wales, National Probate Calendar)**
 

@@ -83,3 +83,4 @@ Source Last Updated | 27/Apr/2024 21:01:27
 * Wilson
   * [David Wilson](../people/@15598112@-david-wilson-b1841-3-22-d.md) (22/Mar/1841 - )
   * [James Wilson](../people/@98356536@-james-wilson-b1816-d.md) (about 1816 - )
+  * [Margaret Wilson](../people/@63936152@-margaret-wilson-b1837-d.md) (about 1837 - )

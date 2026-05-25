@@ -77,6 +77,7 @@ Source Last Updated | 22/Jan/2023 15:11:59
 ## Source Referenced by
 
 * Napier
+  * [David Napier](../people/@71012752@-david-napier-b-d.md)
   * [David Napier](../people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md) (12/Sep/1835 - 2/Nov/1901)
   * [Henry Napier](../people/@7484846@-henry-napier-b1837-9-27-d.md) (27/Sep/1837 - )
   * [William Napier](../people/@18756558@-william-napier-b1839-12-5-d.md) (5/Dec/1839 - )

@@ -94,8 +94,15 @@ Source Last Updated | 27/Jan/2023 21:25:12
 
 ## Source Referenced by
 
+* Allford
+  * [Susan Allford](../people/@24534213@-susan-allford-b1807-d.md) (about 1807 - )
+* McFynn
+  * [Mary McFynn](../people/@36976172@-mary-mcfynn-b-d1855.md) ( - before 1855)
 * McKay
+  * [John McKay](../people/@25989156@-john-mckay-b-d1855.md) ( - before 1855)
   * [Susan McKay](../people/@29671874@-susan-mckay-b1833-4-d1886.md) (Apr/1833 - before 1886)
+* Teeven
+  * [John Teeven](../people/@17936784@-john-teeven-b-d1855.md) ( - before 1855)
 * Teevin
   * [Margaret Teevin](../people/@7753096@-margaret-teevin-b1861-d.md) (about 1861 - )
   * [Mary Teevin](../people/@39463713@-mary-teevin-b1858-d.md) (about 1858 - )

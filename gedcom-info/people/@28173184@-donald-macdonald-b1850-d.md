@@ -17,6 +17,7 @@ permalink: /people/i28173184
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 before 1850 | Born | Born. |  | 
+about 1863 | Birth of daughter | [Isabella MacDonald](./@80818668@-isabella-macdonald-b1863-d.md) born to [Donald MacDonald](./@28173184@-donald-macdonald-b1850-d.md) and [Sophia Mackay](./@52720474@-sophia-mackay-b1850-d.md). | [1](#1) | 
 
 ## Known Occupations
 

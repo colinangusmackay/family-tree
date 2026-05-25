@@ -14,6 +14,8 @@ permalink: /people/i66352546
 
 ## Immediate Family
 
+* Father: X
+* Mother: X
 * Wife: X
 * Daughter: X
 * Son: X
@@ -22,17 +24,18 @@ permalink: /people/i66352546
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-Jan/1962 | Born | Born in Liverpool, England, . | [1](#1), [2](#2), [3](#3) | 
+Jan/1962 | Born | Born to X and X in Liverpool, England, . | [1](#1), [2](#2), [3](#3) | 
 1988 | Marriage | Married to X in Glasgow, Scotland | [4](#4) | 
-1994 | Birth of daughter | X born to [Philip John Anthony Wright](./@66352546@-philip-john-anthony-wright-b1962-1-d2025-2.md) and X in Wandsworth, London, England. | [5](#5) | 
-2000 | Birth of son | X born to [Philip John Anthony Wright](./@66352546@-philip-john-anthony-wright-b1962-1-d2025-2.md) and X in Wandsworth, London, England. | [6](#6) | 
+17/Feb/1988 | Engagement | Engaged to X  | [5](#5) | 
+1994 | Birth of daughter | X born to [Philip John Anthony Wright](./@66352546@-philip-john-anthony-wright-b1962-1-d2025-2.md) and X in Wandsworth, London, England. | [6](#6) | 
+2000 | Birth of son | X born to [Philip John Anthony Wright](./@66352546@-philip-john-anthony-wright-b1962-1-d2025-2.md) and X in Wandsworth, London, England. | [7](#7) | 
 Feb/2025 | Died | Died in London, England. |  | 
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-bet' 26/Sep/2016 and 1/Sep/2020 | Chartered Accountant in London, England | [2](#2), [7](#7), [3](#3)
+bet' 26/Sep/2016 and 1/Sep/2020 | Chartered Accountant in London, England | [2](#2), [8](#8), [3](#3)
 
 ## Footnotes
 
@@ -70,6 +73,14 @@ bet' 26/Sep/2016 and 1/Sep/2020 | Chartered Accountant in London, England | [2](
 
 ### 5
 
+**1988 X, PHILIP & X, X (The Herald, 17th February 1988, p10)**
+
+* [Full text and notes](../sources/@69548744@-1988-wright,-philip-&-gilchrist,-karen-the-herald,-17th-february-1988,-p10-.md)
+* Publication: The Herald
+* Date: 17/Feb/1988
+
+### 6
+
 **1994 X, X - Birth Registration Index**
 
 * [Full text and notes](../sources/@31573100@-1994-wright,-keira-birth-registration-index.md)
@@ -77,7 +88,7 @@ bet' 26/Sep/2016 and 1/Sep/2020 | Chartered Accountant in London, England | [2](
 * References: 
   * (URL) https://familysearch.org/ark:/61903/1:1:QVHH-QYT4
 
-### 6
+### 7
 
 **2000 X, X - Birth Registration Index**
 
@@ -86,7 +97,7 @@ bet' 26/Sep/2016 and 1/Sep/2020 | Chartered Accountant in London, England | [2](
 * References: 
   * (URL) https://familysearch.org/ark:/61903/1:1:QVCM-YJCL
 
-### 7
+### 8
 
 **2020 WRIGHT, PHILIP JOHN ANTHONY (Companies House - Termination of a Director Appointment)**
 

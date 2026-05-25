@@ -15,4 +15,8 @@ Source Last Updated | 11/Jan/2020 20:49:18
 
 ## Source Referenced by
 
-* [Kenneth Fraser](../people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) (19/Oct/1877 - 9/May/1954)
+* Fraser
+  * [Kenneth Fraser](../people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) (19/Oct/1877 - 9/May/1954)
+  * [Peter Fraser](../people/@16594334@-peter-fraser-b1847-d.md) (about 1847 - )
+* Mackay
+  * [Christina Mackay](../people/@10983472@-christina-mackay-b1848-d.md) (about 1848 - )

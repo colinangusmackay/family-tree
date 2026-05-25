@@ -26,6 +26,12 @@ permalink: /people/i24941331
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1865 | Born | Born to [Patrick McBride](./@28079676@-patrick-mcbride-b-d1889.md) and [Catherine Docherty](./@61251200@-catherine-docherty-b-d1889.md) in , Ireland. | [1](#1) | 
+about 1880 | Birth of son | [Patrick O'Malley](./@39412375@-patrick-o'malley-b1880-d.md) born to [Michael O'Malley](./@34933754@-michael-o'malley-b1851-d.md) and [Catherine McBride](./@24941331@-catherine-mcbride-b1865-d.md) in Glasgow, Scotland. | [1](#1) | 
+about 1882 | Birth of daughter | [Bridget O'Malley](./@26923306@-bridget-o'malley-b1882-d.md) born to [Michael O'Malley](./@34933754@-michael-o'malley-b1851-d.md) and [Catherine McBride](./@24941331@-catherine-mcbride-b1865-d.md) in Glasgow, Scotland. | [1](#1) | 
+before 1889 | Death of father | [Patrick McBride](./@28079676@-patrick-mcbride-b-d1889.md) died. | [2](#2) | 
+before 1889 | Death of mother | [Catherine Docherty](./@61251200@-catherine-docherty-b-d1889.md) died. | [2](#2) | 
+22/Apr/1889 | Marriage | Married to [Michael O'Malley](./@34933754@-michael-o'malley-b1851-d.md) in Glasgow, Scotland | [2](#2), [3](#3) | 
+4/Jan/1890 | Birth of son | [Edward O'Malley](./@76741424@-edward-o'malley-b1890-1-4-d.md) born to [Michael O'Malley](./@34933754@-michael-o'malley-b1851-d.md) and [Catherine McBride](./@24941331@-catherine-mcbride-b1865-d.md) in Glasgow, Scotland. | [3](#3), [4](#4) | 
 
 ## Known Residences
 
@@ -65,4 +71,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1890 B 644/11 157
+
+### 4
+
+**1911 O'MALLEY, EDWARD & THOMSON, AGNES WATSON (Statutory Registers Marriages 644/1 219)**
+
+* [Full text and notes](../sources/@82949924@-1911-o'malley,-edward-&-thomson,-agnes-watson-statutory-registers-marriages-644-1-219-.md)
+* Date: 2/Dec/1911
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1911 M 644/1 219
 

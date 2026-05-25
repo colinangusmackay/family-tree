@@ -6,7 +6,24 @@
     "DateOfBirth": "Jan/1962",
     "DateOfDeath": "Feb/2025"
   },
-  "Parents": [],
+  "Parents": [
+    {
+      "Id": "i21059648",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i11891920",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
   "Siblings": [
     {
       "Id": "i66352546",
@@ -15,7 +32,12 @@
       "DateOfBirth": "Jan/1962",
       "DateOfDeath": "Feb/2025",
       "RelationToSubject": "self",
-      "ParentGroupIds": []
+      "ParentGroupIds": [
+        [
+          "i11891920",
+          "i21059648"
+        ]
+      ]
     }
   ],
   "Spouses": [

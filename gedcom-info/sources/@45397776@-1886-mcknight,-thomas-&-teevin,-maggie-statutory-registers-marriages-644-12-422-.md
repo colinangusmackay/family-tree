@@ -78,16 +78,21 @@ Source Last Updated | 26/Jan/2023 22:33:50
 
 ## Source Referenced by
 
+* Allford
+  * [Susan Allford](../people/@24534213@-susan-allford-b1807-d.md) (about 1807 - )
 * Fleming
   * [Sarah Fleming](../people/@286084@-sarah-fleming-b-d1886.md) ( - before 1886)
 * McKay
+  * [Margaret McKay](../people/@76218830@-margaret-mckay-b1842-d.md) (about 1842 - )
   * [Susan McKay](../people/@29671874@-susan-mckay-b1833-4-d1886.md) (Apr/1833 - before 1886)
 * McKnight
   * [Thomas McKnight](../people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md) (about 1856 - 8/Aug/1897)
   * [William McKnight](../people/@38388851@-william-mcknight-b-d1886.md) ( - before 1886)
 * Teevin
   * [Margaret Teevin](../people/@7753096@-margaret-teevin-b1861-d.md) (about 1861 - )
+  * [Mary Teevin](../people/@39463713@-mary-teevin-b1858-d.md) (about 1858 - )
 * Tevin
   * [Richard Tevin](../people/@65007133@-richard-tevin-b1841-d.md) (about 1841 - )
+  * [Thomas Tevin](../people/@81418416@-thomas-tevin-b1870-d.md) (about 1870 - )
 * Thornton
   * [Elizabeth Thornton](../people/@69380928@-elizabeth-thornton-b-d1886.md) ( - before 1886)

@@ -24,6 +24,9 @@ permalink: /people/i86024374
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 22/Aug/1883 | Born | Born to [John Ross](./@81395704@-john-ross-b1856-d.md) and [Isabella MacDonald](./@80818668@-isabella-macdonald-b1863-d.md) in Peterhead, Aberdeenshire, Scotland. | [1](#1), [2](#2), [3](#3) | 
+14/Jan/1910 | Marriage | Married to [Andrew Gillie](./@60068056@-andrew-gillie-b1868-12-28-d.md) in Dornoch, Sutherland, Scotland | [3](#3), [4](#4) | 
+4/Apr/1910 | Birth of daughter | [Williamina Gillie](./@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md) born to [Andrew Gillie](./@60068056@-andrew-gillie-b1868-12-28-d.md) and [Williamina Ross](./@86024374@-williamina-ross-b1883-8-22-d.md) in Embo, Sutherland, Scotland. | [4](#4), [5](#5) | 
+4/Nov/2003 | Death of daughter | [Williamina Gillie](./@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md) died. | [5](#5) | 
 
 ## Known Residences
 
@@ -68,4 +71,26 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1910 M 047/3
+
+### 4
+
+**1910 GILLIE, WILLIAMINA (statutory registers births 047/19)**
+
+* [Full text and notes](../sources/@19457833@-1910-gillie,-williamina-statutory-registers-births-047-19-.md)
+* Date: 2/May/1910
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1910 B 047/19
+
+### 5
+
+**P161 Embo - genealogy, Uncle Sandy's Story and a little history**
+
+* [Full text and notes](../sources/@95058656@-p161-embo-genealogy,-uncle-sandy's-story-and-a-little-history.md)
+* Publication: Embo - genealogy, Uncle Sandy's Story and a little history
+* Originator / Author: Catriona Grigg
+* Date: 2016
+* Filed by Entry: EMBO/P161/C1.3
+* References: 
+  * (ISBN) 978-1-910205-49-5
 

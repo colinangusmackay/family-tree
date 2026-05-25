@@ -27,12 +27,21 @@ permalink: /people/i79236484
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 22/Apr/1887 | Born | Born to [Joseph Fleming](./@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md) and [Margaret Tennant](./@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md) in Blackburn, West Lothian, Scotland. | [1](#1), [2](#2) | 
+24/Jun/1888 | Burial of brother | [Thomas Tennant Fleming](./@79327488@-thomas-tennant-fleming-b1881-8-29-d.md) was buried in Blackburn, West Lothian, Scotland. | [2](#2) | 
+25/May/1889 | Birth of sister | [Lillias Fleming](./@39306088@-lillias-fleming-b1889-5-25-d.md) born to [Joseph Fleming](./@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md) and [Margaret Tennant](./@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md) in Blackburn, West Lothian, Scotland. | [1](#1), [2](#2) | 
+19/Oct/1892 | Birth of brother | [Joseph Fleming](./@89747088@-joseph-fleming-b1892-10-19-d.md) born to [Joseph Fleming](./@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md) and [Margaret Tennant](./@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md) in Blackburn, West Lothian, Scotland. | [1](#1), [2](#2) | 
+23/Aug/1895 | Birth of sister | [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d1985.md) born to [Joseph Fleming](./@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md) and [Margaret Tennant](./@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md) in Blackburn, West Lothian, Scotland. | [1](#1), [2](#2), [3](#3) | 
+25/May/1898 | Birth of sister | [Agnes Fleming](./@29204156@-agnes-fleming-b1898-5-25-d.md) born to [Joseph Fleming](./@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md) and [Margaret Tennant](./@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md) in Blackburn, West Lothian, Scotland. | [1](#1), [2](#2) | 
+30/Jan/1912 | Death of father | [Joseph Fleming](./@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md) died in Blackburn, West Lothian, Scotland. | [2](#2), [3](#3), [4](#4) | 
+29/Jun/1924 | Death of mother | [Margaret Tennant](./@14002910@-margaret-tennant-b1857-11-19-d1924-6-29.md) died. | [2](#2) | 
+before 1961 | Death of brother | [John Fleming](./@49475976@-john-fleming-b1877-3-11-d1961.md) died. | [5](#5) | 
+1985 | Death of sister | [Christina Fleming](./@89446044@-christina-fleming-b1895-8-23-d1985.md) died in Uphall, West Lothian, Scotland. | [6](#6) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1891 | Blackburn, West Lothian, Scotland | [3](#3)
+1891 | Blackburn, West Lothian, Scotland | [7](#7)
 1901 | Blackburn, West Lothian, Scotland | [1](#1)
 
 ## Footnotes
@@ -52,6 +61,43 @@ Date | Residence | Sources & Notes
 * [Full text and notes](../sources/@70335625@-fleming,-joseph-&-family-family-register-.md)
 
 ### 3
+
+**1920 MATHEWS, JOHN ALBERT & CHRISTINA FLEMING (Statutory Registers Marriages 644/10 1110)**
+
+* [Full text and notes](../sources/@22441442@-1920-mathews,-john-albert-&-christina-fleming-statutory-registers-marriages-644-10-1110-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1920 M 644/10 1110
+
+### 4
+
+**1912 FLEMING, JOSEPH (The Hamilton Advertiser, 10 FEB 1912, Page 1)**
+
+* [Full text and notes](../sources/@36696584@-1912-fleming,-joseph-the-hamilton-advertiser,-10-feb-1912,-page-1-.md)
+* Publication: The Hamilton Advertiser
+* Date: 10/Feb/1912
+
+### 5
+
+**1961 FLEMING, AGNES MCGINTY (Statutory Register Deaths 673/1 4)**
+
+* [Full text and notes](../sources/@83527526@-1961-fleming,-agnes-mcginty-statutory-register-deaths-673-1-4-.md)
+* Date: 8/Feb/1961
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1961 D 673/1 4
+
+### 6
+
+**1985 MATHEWS, CHRISTINA (Index to the Statutory Register Deaths 708/ 201)**
+
+* [Full text and notes](../sources/@872604@-1985-mathews,-christina-index-to-the-statutory-register-deaths-708-201-.md)
+* Date: 1985
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1985 D 708/ 201
+
+### 7
 
 **1891 FLEMING, JOSEPH & FAMILY (Census 669/2/23)**
 

@@ -20,6 +20,7 @@ permalink: /people/i51674188
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1901 | Born | Born to [William Stead](./@44546659@-william-stead-b1867-d.md) and [Harriet](./@98128898@-harriet-b1867-d.md) in Morley, Yorkshire, England. | [1](#1) | 
+about 1904 | Birth of sister | [Laura Stead](./@67809808@-laura-stead-b1904-d.md) born to [William Stead](./@44546659@-william-stead-b1867-d.md) and [Harriet](./@98128898@-harriet-b1867-d.md) in Morley, Yorkshire, England. | [1](#1) | 
 
 ## Footnotes
 

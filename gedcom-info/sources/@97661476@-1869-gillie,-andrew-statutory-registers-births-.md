@@ -52,6 +52,9 @@ Source Last Updated | 7/Jan/2022 18:32:32
 
 ## Source Referenced by
 
-* [Andrew Gillie](../people/@60068056@-andrew-gillie-b1868-12-28-d.md) (28/Dec/1868 - )
-* [John Gillie](../people/@95851656@-john-gillie-b-d1901.md) ( - before 1901)
-* [John Gillie](../people/@49104732@-john-gillie-b1859-d1881-10-14.md) (about 1859 - 14/Oct/1881)
+* Gillie
+  * [Andrew Gillie](../people/@60068056@-andrew-gillie-b1868-12-28-d.md) (28/Dec/1868 - )
+  * [John Gillie](../people/@95851656@-john-gillie-b-d1901.md) ( - before 1901)
+  * [John Gillie](../people/@49104732@-john-gillie-b1859-d1881-10-14.md) (about 1859 - 14/Oct/1881)
+* Pritchard
+  * [Elisabeth Pritchard](../people/@8049072@-elisabeth-pritchard-b-d1910.md) ( - before 1910)

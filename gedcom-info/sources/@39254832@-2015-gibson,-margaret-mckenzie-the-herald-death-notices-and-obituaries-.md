@@ -13,11 +13,17 @@ Publication | The Herald
 Original Document Date | 23/Sep/2015
 References | (URL) [Open original source at https://www.heraldscotland.com/announcements/deaths/deaths/13777170.Margaret_Gibson/](https://www.heraldscotland.com/announcements/deaths/deaths/13777170.Margaret_Gibson/)
 Source Created | 11/Jun/2022 23:13:13
-Source Last Updated | 11/Jun/2022 23:16:28
+Source Last Updated | 20/May/2026 22:00:30
 
 ## Text
 
 _Redacted because this source is referenced by a (potentially) living person and may contain personally identifiable information._
+
+## Notes
+
+> This obituary also appeared in The National on the same day.
+>
+
 
 ## Source Referenced by
 

@@ -176,6 +176,7 @@ Source Last Updated | 8/Mar/2024 23:14:44
   * [Marion Mackay](../people/@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) (30/Jun/1821 - 30/Dec/1909)
 * Ross
   * [Alexander Ross](../people/@81387900@-alexander-ross-b1816-d1896-1-20.md) (about 1816 - 20/Jan/1896)
+  * [Alexander Ross](../people/@17311533@-alexander-ross-b1843-d.md) (about 1843 - )
   * [Ann Ross](../people/@32419757@-ann-ross-b1860-6-17-d.md) (17/Jun/1860 - )
   * [Barbara Ross](../people/@82167024@-barbara-ross-b1862-2-28-d.md) (28/Feb/1862 - )
   * [Christina Ross](../people/@81183416@-christina-ross-b1845-d1916-4-19.md) (about 1845 - 19/Apr/1916)

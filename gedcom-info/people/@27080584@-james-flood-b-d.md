@@ -11,6 +11,12 @@ permalink: /people/i27080584
 * Partner: [Mary Boyle](./@8311886@-mary-boyle-b-d.md)
 * Daughter: [Mary Elizabeth Flood](./@28471390@-mary-elizabeth-flood-b1921-d.md) (about 1921 - )
 
+## Timeline
+
+Date | Item | Description | Sources | Notes
+---|---|---|---|---
+about 1921 | Birth of daughter | [Mary Elizabeth Flood](./@28471390@-mary-elizabeth-flood-b1921-d.md) born to [James Flood](./@27080584@-james-flood-b-d.md) and [Mary Boyle](./@8311886@-mary-boyle-b-d.md). | [1](#1) | 
+
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

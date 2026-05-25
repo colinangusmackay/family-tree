@@ -24,6 +24,10 @@ permalink: /people/i25936309
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1902 | Born | Born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [1](#1) | 
+1904 | Birth of sister | [Christina Fraser](./@8163648@-christina-fraser-b1904-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [1](#1) | 
+1906 | Birth of brother | [John J Barrow G Fraser](./@43044884@-john-j-barrow-g-fraser-b1906-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [1](#1) | 
+1908 | Birth of brother | [William Fraser](./@94771760@-william-fraser-b1908-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [1](#1) | 
+1912 | Birth of sister | [Davidina Fraser](./@27014400@-davidina-fraser-b1912-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md). | [2](#2) | 
 
 ## Known Residences
 
@@ -48,4 +52,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1911 C 047/ 3/ 17
+
+### 2
+
+**1921 FRASER, THOMAS & HOUSEHOLD (Census 047/ 3/ 13)**
+
+* [Full text and notes](../sources/@85252864@-1921-fraser,-thomas-&-household-census-047-3-13-.md)
+* Date: 19/Jun/1921
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1921 C 047/ 3/ 13
 

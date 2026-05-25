@@ -35,7 +35,9 @@ Source Last Updated | 10/May/2026 23:13:04
 ## Source Referenced by
 
 * Howie
+  * [Andrew Howie](../people/@69072936@-andrew-howie-b1841-d.md) (about 1841 - )
   * [Margaret Howie](../people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md) (27/Jul/1843 - 26/Jan/1915)
   * [Peter Howie](../people/@40872746@-peter-howie-b1803-5-d1876-3-5.md) (May/1803 - 5/Mar/1876)
+  * [Peter Howie](../people/@82820064@-peter-howie-b1838-d.md) (about 1838 - )
 * Yule
   * [Jane Yule](../people/@52047082@-jane-yule-b1817-12-13-d1898-3-17.md) (13/Dec/1817 - 17/Mar/1898)

@@ -22,8 +22,10 @@ permalink: /indexes/by-all-names
 - **[Lula](people/@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md)** (23/Sep/1889 - 15/May/1970)
 - **[Maggie](people/@57014804@-margaret-mcrae-b-d.md)**
 - **[Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
+- **[Mary](people/@75173110@-mary-b-d1866.md)** ( - after 1866)
 - **[Marybet](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014)
 - **[Mina](people/@23770336@-williamina-gillie-b1910-4-4-d2003-11-4.md)** (4/Apr/1910 - 4/Nov/2003)
+- **[Mungo Robert Gilchrist](people/@12769933@-mungorobert-gilchrist-b1865-d.md)** (about 1865 - )
 - **[Nancy](people/@68661720@-nancy-b-d.md)**
 - **[Phil](people/@66352546@-philip-john-anthony-wright-b1962-1-d2025-2.md)** (Jan/1962 - Feb/2025)
 - **[Teenie](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
@@ -413,14 +415,23 @@ permalink: /indexes/by-all-names
 
 ## Gilchrist
 
-- **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - )
+- **[Alexander Gilchrist](people/@97711748@-alexander-gilchrist-b-d1866.md)** ( - after 1866)
+- **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - )
 - **[Annie Murie Gilchrist](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
-- **[David Gilchrist](people/@89232476@-david-gilchrist-b-d.md)**
-- **[Gilchrist](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - )
+- **[David Gilchrist](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - )
+- **[David Gilchrist](people/@16272572@-david-gilchrist-b1901-11-d.md)** (about Nov/1901 - )
+- **[Elisabeth Irvine Gilchrist](people/@3615140@-elisabeth-irvine-gilchrist-b1868-d1874-9-9.md)** (about 1868 - 9/Sep/1874)
+- **[Elizabeth Gilchrist](people/@66882518@-elizabeth-irvine-b-d1866.md)** ( - after 1866)
+- **[Elizabeth Gilchrist](people/@3615140@-elisabeth-irvine-gilchrist-b1868-d1874-9-9.md)** (about 1868 - 9/Sep/1874)
+- **[Elizabeth Gilchrist](people/@14432964@-elizabeth-gilchrist-b1876-d.md)** (about 1876 - )
+- **[Gilchrist](people/@59122260@-mary-bowie-sloan-b1879-2-d.md)** (about Feb/1879 - )
 - **[Isabella Gilchrist](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
 - **[Isobel Gilchrist](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
 - **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998)
-- **[Janet Gilchrist](people/@22623536@-janet-steel-b-d.md)**
+- **[Jane Gilchrist](people/@37120552@-jane-gilchrist-b1871-d.md)** (about 1871 - )
+- **[Janet Gilchrist](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - )
+- **[Mary Gilchrist](people/@52398826@-mary-gilchrist-b1867-d.md)** (about 1867 - )
+- **[Maryann Gilchrist](people/@52398826@-mary-gilchrist-b1867-d.md)** (about 1867 - )
 
 ## Gillie
 
@@ -577,6 +588,10 @@ permalink: /indexes/by-all-names
 - **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
 - **[Hunter](people/@23704804@-annie-murie-b-d.md)**
 - **[James Hunter](people/@13263378@-james-hunter-b-d.md)**
+
+## Irvine
+
+- **[Elizabeth Irvine](people/@66882518@-elizabeth-irvine-b-d1866.md)** ( - after 1866)
 
 ## Johnson
 
@@ -1382,7 +1397,7 @@ permalink: /indexes/by-all-names
 
 - **[James Sloan](people/@16524688@-james-sloan-b-d1901.md)** ( - before 1901)
 - **[Margaret Sloan](people/@48501002@-margaret-kirkland-b-d.md)**
-- **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - )
+- **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-2-d.md)** (about Feb/1879 - )
 
 ## Smith
 
@@ -1430,7 +1445,9 @@ permalink: /indexes/by-all-names
 
 ## Steel
 
-- **[Janet Steel](people/@22623536@-janet-steel-b-d.md)**
+- **[Janet Steel](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - )
+- **[Mary Steel](people/@75173110@-mary-b-d1866.md)** ( - after 1866)
+- **[Mungo Steel](people/@34546752@-mungo-steel-b-d1866.md)** ( - before 1866)
 
 ## Stevens
 

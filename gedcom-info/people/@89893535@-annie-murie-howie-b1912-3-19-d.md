@@ -26,7 +26,11 @@ permalink: /people/i89893535
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 19/Mar/1912 | Born | Born to [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1890-1-15-d.md) and [Georgina Hunter](./@69291286@-georgina-hunter-b1889-d.md) in Cathcart, Glasgow, Scotland. | [1](#1), [2](#2) | 
+about Aug/1916 | Birth of brother | [Peter R Howie](./@99453615@-peter-r-howie-b1916-8-d.md) born to [Peter Alexander Howie](./@60521938@-peter-alexander-howie-b1890-1-15-d.md) and [Georgina Hunter](./@69291286@-georgina-hunter-b1889-d.md) in Cathcart, Glasgow, Scotland. | [3](#3) | 
 1921 | Census | Census | [3](#3) | 
+31/Aug/1933 | Marriage | Married to [James Gilchrist](./@43287262@-james-gilchrist-b1904-9-9-d1998.md) in Glasgow, Scotland,  | [2](#2), [4](#4) | 
+24/Apr/1938 | Birth of son | X born to [James Gilchrist](./@43287262@-james-gilchrist-b1904-9-9-d1998.md) and [Annie Murie Howie](./@89893535@-annie-murie-howie-b1912-3-19-d.md). | [5](#5) | 
+1998 | Death of partner | [James Gilchrist](./@43287262@-james-gilchrist-b1904-9-9-d1998.md) died in Glasgow, Scotland. | [6](#6) | 
 
 ## Known Residences
 
@@ -69,4 +73,28 @@ Date | Occupation | Sources & Notes
 * [Full text and notes](../sources/@92457702@-1921-howie-household-1921-census-.md)
 * Date: 19/Jun/1921
 * Responsible Agency: National Records of Scotland
+
+### 4
+
+**1933 GILCHRIST, JAMES; HOWIE, ANNE (Wedding Photo)**
+
+* [Full text and notes](../sources/@19757651@-1933-gilchrist,-james;-howie,-anne-wedding-photo-.md)
+* Date: 31/Aug/1933
+* ![Wedding Photo](../media/16123688_thumb.jpg)
+
+### 5
+
+**2009 X, X (UK Electoral Registers)**
+
+* [Full text and notes](../sources/@1346782@-2009-gilchrist,-alastair-uk-electoral-registers-.md)
+* Publication: Ancestry.com. UK, Electoral Registers, 2003-2010 [database on-line]. Lehi, UT, USA: Ancestry.com Operations Inc, 2017.
+
+### 6
+
+**1998 GILCHRIST, JAMES (Statutory Register of Deaths Index 602/ 78)**
+
+* [Full text and notes](../sources/@43231186@-1998-gilchrist,-james-statutory-register-of-deaths-index-602-78-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1998 D 602/ 78
 

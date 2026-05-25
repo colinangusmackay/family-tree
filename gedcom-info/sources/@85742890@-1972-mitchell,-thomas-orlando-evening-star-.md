@@ -33,8 +33,13 @@ Source Last Updated | 10/Jul/2022 23:13:23
 
 ## Source Referenced by
 
+* Black
+  * [Mary Ann Black](../people/@94950024@-mary-ann-black-b1861-d.md) (1861 - )
 * Mitchell
   * [Donald Charles Mitchell](../people/@49269448@-donald-charles-mitchell-b1929-3-26-d1982-3-12.md) (26/Mar/1929 - 12/Mar/1982)
+  * [Robert Mitchell](../people/@86070232@-robert-mitchell-b1886-d.md) (1886 - )
+  * [Thomas Mitchell](../people/@47829915@-thomas-mitchell-b1860-d.md) (1860 - )
   * [Thomas Mitchell](../people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md) (2/Feb/1891 - 4/May/1972)
+  * [Violet Mitchell](../people/@73739848@-violet-mitchell-b1889-d.md) (1889 - )
 * Ross
   * [Ann Ross](../people/@52613824@-ann-ross-b1890-11-28-d1980-6-27.md) (28/Nov/1890 - 27/Jun/1980)

@@ -23,6 +23,7 @@ permalink: /people/i4822940
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1881 | Born | Born to [James Henderson](./@92250700@-james-henderson-b-d.md) and [Janet Abernethy](./@82771990@-janet-abernethy-b-d.md). | [1](#1) | 
+28/Jul/1911 | Marriage | Married to [Elizabeth Cumming](./@35928164@-elizabeth-cumming-b1882-d.md) in Boston, Massachusetts, United States of America | [1](#1) | 
 
 ## Known Residences
 

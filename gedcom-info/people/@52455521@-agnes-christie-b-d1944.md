@@ -23,27 +23,18 @@ permalink: /people/i52455521
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-before 1944 | Died | Died. | [1](#1) | 
+1/Jun/1925 | Marriage | Married to [Peter Howie](./@19655531@-peter-howie-b1861-2-9-d1944-4-20.md) at 861 Cathcart Road, Glasgow, Scotland | [1](#1) | 
+before 1944 | Died | Died. | [2](#2) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1925 | 75 Battlefield Avenue, Glasgow, Scotland | [2](#2)
+1925 | 75 Battlefield Avenue, Glasgow, Scotland | [1](#1)
 
 ## Footnotes
 
 ### 1
-
-**1944 HOWIE, PETER (Statutory Register of Deaths 644/5 609)**
-
-* [Full text and notes](../sources/@95117472@-1944-howie,-peter-statutory-register-of-deaths-644-5-609-.md)
-* Date: 20/Apr/1944
-* Responsible Agency: National Records of Scotland
-* References: 
-  * 1944 D 644/5 609
-
-### 2
 
 **1925 HOWIE, PETER & X, AGNES (Statutory Register of Marriages 633/B 124)**
 
@@ -52,4 +43,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1925 M 633/B 124
+
+### 2
+
+**1944 HOWIE, PETER (Statutory Register of Deaths 644/5 609)**
+
+* [Full text and notes](../sources/@95117472@-1944-howie,-peter-statutory-register-of-deaths-644-5-609-.md)
+* Date: 20/Apr/1944
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1944 D 644/5 609
 

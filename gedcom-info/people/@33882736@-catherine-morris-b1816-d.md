@@ -31,21 +31,30 @@ permalink: /people/i33882736
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1816 | Born | Born to [James Morris](./@82086731@-james-morris-b-d.md) in Kingsbarns, Fife, Scotland, . | [1](#1) | 
+4/Feb/1843 | Marriage | Married to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) in Crail, Fife, Scotland,  | [2](#2) | 
+1844 | Birth of son | [David Ramsay](./@17577117@-david-ramsay-b1844-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [1](#1) | 
+1846 | Birth of son | [James Ramsay](./@5972344@-james-ramsay-b1846-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [3](#3) | 
+1847 | Birth of daughter | [Agnes Ramsay](./@73804628@-agnes-ramsay-b1847-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [3](#3) | 
+1850 | Birth of daughter | [Jane Ramsay](./@25940269@-jane-ramsay-b1850-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [1](#1), [3](#3) | 
+13/Jan/1852 | Birth of son | [John Ramsay](./@63088441@-john-ramsay-b1852-1-13-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [1](#1), [4](#4), [5](#5) | 
+1855 | Birth of daughter | [Euphemia Ramsay](./@99132181@-euphemia-ramsay-b1855-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [1](#1) | 
+1858 | Birth of son | [William Ramsay](./@29868878@-william-ramsay-b1858-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Cupar, Fife, Scotland, . | [1](#1) | 
+1860 | Birth of daughter | [Catherine Ramsay](./@12774174@-catherine-ramsay-b1860-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [1](#1) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
 1843 | Kingsbarns, Fife, Scotland,  | 
-1851 | Tapefield, Crail, Fife, Scotland | [2](#2)
+1851 | Tapefield, Crail, Fife, Scotland | [3](#3)
 1861 | Ragfield, Crail, Fife, Scotland | [1](#1)
-1871 | Ragfield, Crail, Fife, Scotland | [3](#3)
+1871 | Ragfield, Crail, Fife, Scotland | [6](#6)
 
 ## Additional Sources
 
 Footnote | Source
 ---|---
-[4](#4) | **[1872 RAMSAY, JOHN & MORGAN, ANN (Statutory Register of Marriages 413/ 8)](../sources/@73390380@-1872-ramsay,-john-&-morgan,-ann-statutory-register-of-marriages-413-8-.md)**
+[7](#7) | **[1872 RAMSAY, JOHN & MORGAN, ANN (Statutory Register of Marriages 413/ 8)](../sources/@73390380@-1872-ramsay,-john-&-morgan,-ann-statutory-register-of-marriages-413-8-.md)**
 
 ## Footnotes
 
@@ -60,6 +69,16 @@ Footnote | Source
 
 ### 2
 
+**1843 RAMSAY, JOHN & MORRIS, CATHERINE (Old Parish Registers 417/ Crail)**
+
+* [Full text and notes](../sources/@60070026@-1843-ramsay,-john-&-morris,-catherine-old-parish-registers-417-crail-.md)
+* Date: 1843
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1843 OPR 417/ Crail
+
+### 3
+
 **1851 RAMSAY, JOHN & HOUSEHOLD (Census 417/ 6/ 1)**
 
 * [Full text and notes](../sources/@25180652@-1851-ramsay,-john-&-household-census-417-6-1-.md)
@@ -68,7 +87,27 @@ Footnote | Source
 * References: 
   * 1851 C 417/ 6/ 1
 
-### 3
+### 4
+
+**1852 RAMSAY, JOHN (Old Parish Registers of Births 417/ Crail)**
+
+* [Full text and notes](../sources/@35352795@-1852-ramsay,-john-old-parish-registers-of-births-417-crail-.md)
+* Date: 1852
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1852 OPR 417/ Crail
+
+### 5
+
+**1881 RAMSAY, JOHN & FAMILY (Census 411/ 4/ 13)**
+
+* [Full text and notes](../sources/@15289604@-1881-ramsay,-john-&-family-census-411-4-13-.md)
+* Date: Apr/1881
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1881 C 411/ 4/ 13
+
+### 6
 
 **1871 RAMSAY, JOHN & HOUSEHOLD (Census 417/ 7/ 3)**
 
@@ -78,7 +117,7 @@ Footnote | Source
 * References: 
   * 1871 C 417/ 7/ 3
 
-### 4
+### 7
 
 **1872 RAMSAY, JOHN & MORGAN, ANN (Statutory Register of Marriages 413/ 8)**
 

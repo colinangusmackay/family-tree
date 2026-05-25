@@ -113,6 +113,11 @@ Source Last Updated | 24/Jun/2022 12:51:49
 * Cumming
   * [Adam Cumming](../people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) (2/Jul/1841 - 18/Jan/1926)
   * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1831-d1884-5-7.md) (about 1831 - 7/May/1884)
+  * [Ann Cumming](../people/@28938235@-ann-cumming-b1847-d.md) (about 1847 - )
+  * [Catherine Cumming](../people/@61803880@-catherine-cumming-b1835-d.md) (about 1835 - )
   * [James Cumming](../people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
+  * [John Cumming](../people/@38336704@-john-cumming-b1839-6-18-d.md) (18/Jun/1839 - )
+  * [William Cumming](../people/@26299943@-william-cumming-b1848-d.md) (about 1848 - )
+  * [William Cumming](../people/@90082380@-william-cumming-b1865-2-27-d.md) (27/Feb/1865 - )
 * Sutherland
   * [Isabella Sutherland](../people/@79967653@-isabella-sutherland-b1838-d1884.md) (1838 - after 1884)

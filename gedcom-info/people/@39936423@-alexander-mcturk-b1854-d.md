@@ -20,6 +20,11 @@ permalink: /people/i39936423
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1854 | Born | Born in Lochmaben, Dumfriesshire, Scotland. | [1](#1) | 
+2/Oct/1874 | Marriage | Married to [Margaret Beatie](./@2654341@-margaret-beatie-b1844-d.md) in Kirkpatrick-Fleming, Dumfriesshire, Scotland | [2](#2) | 
+22/Feb/1880 | Birth of daughter | [Jane McTurk](./@18380667@-jane-mcturk-b1880-2-22-d.md) born to [Alexander McTurk](./@39936423@-alexander-mcturk-b1854-d.md) and [Margaret Beatie](./@2654341@-margaret-beatie-b1844-d.md) in Kirkpatrick-Fleming, Dumfriesshire, Scotland. | [1](#1), [3](#3) | 
+about 1883 | Birth of daughter | [Georgina McTurk](./@51187488@-georgina-mcturk-b1883-d.md) born to [Alexander McTurk](./@39936423@-alexander-mcturk-b1854-d.md) and [Margaret Beatie](./@2654341@-margaret-beatie-b1844-d.md) in Kirkpatrick-Fleming, Dumfriesshire, Scotland. | [1](#1) | 
+about 1885 | Birth of daughter | [Elizabeth McTurk](./@78245729@-elizabeth-mcturk-b1885-d.md) born to [Alexander McTurk](./@39936423@-alexander-mcturk-b1854-d.md) and [Margaret Beatie](./@2654341@-margaret-beatie-b1844-d.md) in Kirkpatrick-Fleming, Dumfriesshire, Scotland. | [1](#1) | 
+20/Dec/1886 | Birth of daughter | [Grace McTurk](./@54145218@-grace-mcturk-b1886-12-20-d.md) born to [Alexander McTurk](./@39936423@-alexander-mcturk-b1854-d.md) and [Margaret Beatie](./@2654341@-margaret-beatie-b1844-d.md) in Kirkpatrick-Fleming, Dumfriesshire, Scotland. | [2](#2), [4](#4) | [5](#5)
 
 ## Known Residences
 
@@ -33,7 +38,7 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1886 | Ploughman | [2](#2)
 1891 | Farm Foreman | [1](#1)
-1918 | Carter | [3](#3)
+1918 | Carter | [4](#4)
 
 ## Footnotes
 
@@ -57,10 +62,26 @@ Date | Occupation | Sources & Notes
 
 ### 3
 
+**1880 MCTURK, JANE (Statutory Register Births 837/2 5)**
+
+* [Full text and notes](../sources/@31792094@-1880-mcturk,-jane-statutory-register-births-837-2-5-.md)
+* Date: 2/Mar/1880
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1880 B 837/2 5
+
+### 4
+
 **1918 CAMPBELL, WILLIAM ANDREW & MCTURK, GRACE (Statutory Registers Marriages 813/A 2)**
 
 * [Full text and notes](../sources/@61071920@-1918-campbell,-william-andrew-&-mcturk,-grace-statutory-registers-marriages-813-a-2-.md)
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1918 M 813/A 2
+
+### 5
+
+> Based on a calculation from the marriage with William Campbell
+>
+
 

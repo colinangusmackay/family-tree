@@ -28,6 +28,16 @@ permalink: /people/i41391600
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1851 | Born | Born to [Alexander Ross](./@81387900@-alexander-ross-b1816-d1896-1-20.md) and [Marion Mackay](./@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md). | [1](#1) | 
+about 1853 | Birth of sister | [Marion Ross](./@39612984@-marion-ross-b1853-d.md) born to [Alexander Ross](./@81387900@-alexander-ross-b1816-d1896-1-20.md) and [Marion Mackay](./@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md). | [1](#1) | 
+14/Dec/1855 | Birth of brother | [John Ross](./@36837210@-john-ross-b1855-12-14-d.md) born to [Alexander Ross](./@81387900@-alexander-ross-b1816-d1896-1-20.md) and [Marion Mackay](./@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+11/Oct/1858 | Birth of brother | [Hugh Ross](./@75672326@-hugh-ross-b1858-10-11-d.md) born to [Alexander Ross](./@81387900@-alexander-ross-b1816-d1896-1-20.md) and [Marion Mackay](./@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) in Embo, Sutherland, Scotland. | [1](#1), [3](#3) | 
+17/Jun/1860 | Birth of brother | [Ann Ross](./@32419757@-ann-ross-b1860-6-17-d.md) born to [Alexander Ross](./@81387900@-alexander-ross-b1816-d1896-1-20.md) and [Marion Mackay](./@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) in Embo, Sutherland, Scotland. | [1](#1), [4](#4) | 
+28/Feb/1862 | Birth of sister | [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md) born to [Alexander Ross](./@81387900@-alexander-ross-b1816-d1896-1-20.md) and [Marion Mackay](./@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) in Embo, Sutherland, Scotland. | [5](#5), [6](#6) | 
+9/Oct/1877 | Marriage | Married to X in Dornoch, Sutherland, Scotland | [7](#7) | 
+20/Jan/1896 | Death of father | [Alexander Ross](./@81387900@-alexander-ross-b1816-d1896-1-20.md) died. | [8](#8), [9](#9) | 
+30/Dec/1909 | Death of mother | [Marion Mackay](./@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) died. | [8](#8), [9](#9), [10](#10) | 
+19/Apr/1916 | Death of sister | [Christina Ross](./@81183416@-christina-ross-b1845-d1916-4-19.md) died in Golspie, Sutherland, Scotland. | [11](#11) | 
+13/Jan/1918 | Death of sister | [Jessie Ross](./@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md) died. | [9](#9), [12](#12) | 
 
 ## Known Residences
 
@@ -40,7 +50,7 @@ Date | Residence | Sources & Notes
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1871 | Fisherman | [2](#2)
+1871 | Fisherman | [6](#6)
 
 ## Notes
 
@@ -61,6 +71,45 @@ Date | Occupation | Sources & Notes
 
 ### 2
 
+**1855 ROSS, JOHN (Statutory Registers Births 047/2 50)**
+
+* [Full text and notes](../sources/@16936882@-1855-ross,-john-statutory-registers-births-047-2-50-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1855 B 047/2 50
+
+### 3
+
+**1858 ROSS, HUGH (Statutory Register Births 047/ 59)**
+
+* [Full text and notes](../sources/@75747112@-1858-ross,-hugh-statutory-register-births-047-59-.md)
+* Date: 18/Oct/1858
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1858 B 047/ 59
+
+### 4
+
+**1860 ROSS, ANN (Statutory Register Births 047/ 31)**
+
+* [Full text and notes](../sources/@27696600@-1860-ross,-ann-statutory-register-births-047-31-.md)
+* Date: 19/Jun/1860
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1860 B 047/ 31
+
+### 5
+
+**1862 ROSS, BARBARA (Statutory Registers Births 047/ 11)**
+
+* [Full text and notes](../sources/@70013320@-1862-ross,-barbara-statutory-registers-births-047-11-.md)
+* Date: 6/Mar/1862
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1862 B 047/ 11
+
+### 6
+
 **1871 ROSS, ALEXANDER & HOUSEHOLD (Census 047/ 1/L 9 - Schedule 44)**
 
 * [Full text and notes](../sources/@74407506@-1871-ross,-alexander-&-household-census-047-1-l-9-schedule-44-.md)
@@ -68,4 +117,64 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1871 C 047/ 1/L 9 (44)
+
+### 7
+
+**1877 X, KENNETH; X, X (Statutory Register Marriages 047/ 11)**
+
+* [Full text and notes](../sources/@79558550@-1877-ross,-kenneth;-fraser,-isabella-statutory-register-marriages-047-11-.md)
+* Date: 10/Oct/1877
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1877 M 047/ 11
+
+### 8
+
+**1896 ROSS, ALEXANDER (Statutory Registers Deaths 047/2)**
+
+* [Full text and notes](../sources/@70411734@-1896-ross,-alexander-statutory-registers-deaths-047-2-.md)
+* Date: 21/Jan/1896
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1896 D 047/2
+
+### 9
+
+**1918 CUMMING, JESSIE (Statutory Register Deaths 047/1)**
+
+* [Full text and notes](../sources/@22662480@-1918-cumming,-jessie-statutory-register-deaths-047-1-.md)
+* Date: 14/Jan/1918
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1918 D 047/1
+
+### 10
+
+**1909 ROSS, MARY ANN (Statutory Register Deaths 047/33)**
+
+* [Full text and notes](../sources/@62343074@-1909-ross,-mary-ann-statutory-register-deaths-047-33-.md)
+* Date: 30/Dec/1909
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1909 D 047/33
+
+### 11
+
+**1916 MACDONALD, CHRISTINA (Statutory Register of Deaths 051/7)**
+
+* [Full text and notes](../sources/@80791412@-1916-macdonald,-christina-statutory-register-of-deaths-051-7-.md)
+* Date: 22/Apr/1916
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1916 D 051/ 7
+
+### 12
+
+**1923 CUMMING, JAMES (Statutory Registers Deaths 047/1)**
+
+* [Full text and notes](../sources/@1949468@-1923-cumming,-james-statutory-registers-deaths-047-1-.md)
+* Date: 11/Jan/1923
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1923 D 047/1
 

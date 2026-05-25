@@ -132,6 +132,8 @@ Source Last Updated | 10/May/2026 20:58:33
 ## Source Referenced by
 
 * Howie
+  * [Andrew Howie](../people/@69072936@-andrew-howie-b1841-d.md) (about 1841 - )
+  * [Betty Howie](../people/@95875652@-betty-howie-b1845-d.md) (about 1845 - )
   * [George Howie](../people/@13337194@-george-howie-b1854-d.md) (about 1854 - )
   * [Jean Howie](../people/@87788832@-jean-howie-b1851-d.md) (1851 - )
   * [Margaret Howie](../people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md) (27/Jul/1843 - 26/Jan/1915)

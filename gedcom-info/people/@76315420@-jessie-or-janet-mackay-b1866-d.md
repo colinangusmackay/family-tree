@@ -22,4 +22,14 @@ permalink: /people/i76315420
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1866 | Born | Born. |  | 
+19/Feb/1895 | Marriage | Married to [William Cumming](./@90082380@-william-cumming-b1865-2-27-d.md) in Dornoch, Sutherland, Scotland | [1](#1) | 
+4/May/1903 | Birth of son | [Donald Cumming](./@64759184@-donald-cumming-b1903-5-4-d.md) born to [William Cumming](./@90082380@-william-cumming-b1865-2-27-d.md) and [Jessie or Janet Mackay](./@76315420@-jessie-or-janet-mackay-b1866-d.md) in Embo, Sutherland, Scotland. | [1](#1) | 
+
+## Footnotes
+
+### 1
+
+**1903 CUMMING, DONALD (statutory register births 047/25)**
+
+* Responsible Agency: National Records of Scotland
 

@@ -16,11 +16,11 @@ permalink: /people/i82771990
 * Partner: [James Henderson](./@92250700@-james-henderson-b-d.md)
 * Daughter: [Edward Henderson](./@4822940@-edward-henderson-b1881-d.md) (about 1881 - )
 
-## Additional Sources
+## Timeline
 
-Footnote | Source
----|---
-[1](#1) | **[1911 HENDERSON, EDWARD & CUMMING, ELIZABETH (Massachusetts, U.S., Marriage Records, 1840-1915)](../sources/@20028800@-1911-henderson,-edward-&-cumming,-elizabeth-massachusetts,-u.s.,-marriage-records,-1840-1915-.md)**
+Date | Item | Description | Sources | Notes
+---|---|---|---|---
+about 1881 | Birth of daughter | [Edward Henderson](./@4822940@-edward-henderson-b1881-d.md) born to [James Henderson](./@92250700@-james-henderson-b-d.md) and [Janet Abernethy](./@82771990@-janet-abernethy-b-d.md). | [1](#1) | 
 
 ## Footnotes
 

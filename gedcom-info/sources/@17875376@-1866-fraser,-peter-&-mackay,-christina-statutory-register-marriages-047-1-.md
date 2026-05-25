@@ -81,5 +81,7 @@ Source Last Updated | 5/Apr/2026 21:00:06
   * [Kenneth Fraser](../people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md) (5/May/1800 - 19/Jan/1883)
   * [Peter Fraser](../people/@16594334@-peter-fraser-b1847-d.md) (about 1847 - )
 * Mackay
+  * [Ann Mackay](../people/@90776940@-ann-mackay-b-d.md)
   * [Christina Mackay](../people/@10983472@-christina-mackay-b1848-d.md) (about 1848 - )
   * [Donald Mackay](../people/@67781103@-donald-mackay-b-d.md)
+  * [Isabella Mackay](../people/@26104572@-isabella-mackay-b-d1881-12-8.md) ( - 8/Dec/1881)

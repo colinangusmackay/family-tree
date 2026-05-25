@@ -142,6 +142,11 @@ permalink: /indexes/by-residence-location
 - **[Howie, William](people/@26502369@-william-howie-b1847-d.md)** (about 1847 - )
 - **[Yule, Jane](people/@52047082@-jane-yule-b1817-12-13-d1898-3-17.md)** (13/Dec/1817 - 17/Mar/1898)
 
+#### Inverurie
+
+- **[Fraser, Morag](people/@35363781@-morag-fraser-b-d2015.md)** ( - 2015)
+- **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024)
+
 ### Angus
 
 #### Arbroath
@@ -276,6 +281,10 @@ permalink: /indexes/by-residence-location
 
 - **[Morgan, Ann](people/@60684755@-ann-morgan-b1845-d.md)** (about 1845 - )
 
+#### Charlestown
+
+- **[Steedman, Richard Trotter](people/@65047040@-richard-trotter-steedman-b1948-d2022-6-23.md)** (1948 - 23/Jun/2022)
+
 #### Crail
 
 - **[Morris, Catherine](people/@33882736@-catherine-morris-b1816-d.md)** (1816 - )
@@ -341,7 +350,8 @@ permalink: /indexes/by-residence-location
 - **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
 - **[Fisher, James](people/@22540348@-james-fisher-b1854-d.md)** (about 1854 - )
 - **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d1985.md)** (23/Aug/1895 - 1985)
-- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - )
+- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - )
+- **[Gilchrist, David](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - )
 - **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998)
 - **[Howie, Annie McKinlay](people/@70255077@-annie-mckinlay-howie-b1887-d.md)** (about 1887 - )
 - **[Howie, Annie Murie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
@@ -383,15 +393,23 @@ permalink: /indexes/by-residence-location
 - **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923)
 - **[Paton, John](people/@5211114@-john-paton-b1894-d.md)** (about 1894 - )
 - **[Seaton, Margaret Dickson](people/@45571672@-margaret-dickson-seaton-b1856-d.md)** (about 1856 - )
+- **[Steel, Janet](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - )
 - **[Thomson, Agnes Watson](people/@96590245@-agnes-watson-thomson-b1892-d.md)** (about 1892 - )
 - **[Will, George](people/@39711353@-george-will-b1861-d.md)** (about 1861 - )
 - **[Wills, David N](people/@24358912@-david-n-wills-b1891-d.md)** (about 1891 - )
 - **[Wills, Jessie Hamilton](people/@87891536@-jessie-hamilton-wills-b1890-d.md)** (1890 - )
 - **[Wills, Robert M](people/@15072794@-robert-m-wills-b1893-d.md)** (about 1893 - )
 
+#### Cathcart
+
+- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - )
+- **[Gilchrist, David](people/@16272572@-david-gilchrist-b1901-11-d.md)** (about Nov/1901 - )
+- **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998)
+- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-2-d.md)** (about Feb/1879 - )
+
 #### Maryhill
 
-- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - )
+- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-2-d.md)** (about Feb/1879 - )
 
 ### Highland
 
@@ -554,6 +572,31 @@ permalink: /indexes/by-residence-location
 - **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878)
 - **[McIver, Roderick](people/@54470962@-roderick-mciver-b1867-d.md)** (1867 - )
 - **[McLean, Annie](people/@68658880@-annie-mclean-b1835-d.md)** (about 1835 - )
+
+### South Lanarkshire
+
+#### Biggar
+
+- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - )
+- **[Gilchrist, David](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - )
+- **[Gilchrist, Elizabeth](people/@14432964@-elizabeth-gilchrist-b1876-d.md)** (about 1876 - )
+- **[Gilchrist, Jane](people/@37120552@-jane-gilchrist-b1871-d.md)** (about 1871 - )
+- **[Gilchrist, Mary](people/@52398826@-mary-gilchrist-b1867-d.md)** (about 1867 - )
+- **[Robert /Gilchrist, MungoRobert Gilchrist](people/@12769933@-mungorobert-gilchrist-b1865-d.md)** (about 1865 - )
+- **[Steel, Janet](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - )
+
+#### Culter
+
+- **[Gilchrist, David](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - )
+- **[Gilchrist, Elisabeth Irvine](people/@3615140@-elisabeth-irvine-gilchrist-b1868-d1874-9-9.md)** (about 1868 - 9/Sep/1874)
+- **[Gilchrist, Mary](people/@52398826@-mary-gilchrist-b1867-d.md)** (about 1867 - )
+- **[Robert /Gilchrist, MungoRobert Gilchrist](people/@12769933@-mungorobert-gilchrist-b1865-d.md)** (about 1865 - )
+- **[Steel, Janet](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - )
+
+#### Newton
+
+- **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b-d1866.md)** ( - after 1866)
+- **[Irvine, Elizabeth](people/@66882518@-elizabeth-irvine-b-d1866.md)** ( - after 1866)
 
 ### Stirlingshire
 
@@ -757,6 +800,12 @@ permalink: /indexes/by-residence-location
 #### Rogart
 
 - **[Mackay, Isabella](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019)
+
+### The Scottish Borders
+
+#### Skirling
+
+- **[Gilchrist, David](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - )
 
 ### West Lothian
 

@@ -18,5 +18,8 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [John Hugh Fraser](../people/@19170576@-john-hugh-fraser-b1925-d.md) (1925 - )
-* [Kenneth Fraser](../people/@89580356@-kenneth-fraser-b1890-8-13-d.md) (13/Aug/1890 - )
+* Fraser
+  * [John Hugh Fraser](../people/@19170576@-john-hugh-fraser-b1925-d.md) (1925 - )
+  * [Kenneth Fraser](../people/@89580356@-kenneth-fraser-b1890-8-13-d.md) (13/Aug/1890 - )
+* Miranda
+  * [Rose Miranda](../people/@47782544@-rose-miranda-b-d.md)

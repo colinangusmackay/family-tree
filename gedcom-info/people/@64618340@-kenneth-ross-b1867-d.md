@@ -28,6 +28,11 @@ permalink: /people/i64618340
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1867 | Born | Born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [1](#1) | 
+1872 | Birth of sister | [Ann Ross](./@99728908@-ann-ross-b1872-d.md) born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [1](#1) | 
+5/Sep/1875 | Death of father | [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) died in Embo, Sutherland, Scotland. | [2](#2), [3](#3) | 
+1876 | Birth of brother | [Donald Ross](./@46967448@-donald-ross-b1876-d.md) born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [1](#1) | 
+1941 | Burial of brother | [John Hugh Ross](./@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md) was buried in Dornoch Free Church Cemetery, Dornoch, Sutherland, Scotland. | [4](#4) | 
+7/Oct/1941 | Death of brother | [John Hugh Ross](./@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md) died in Embo, Sutherland, Scotland. | [4](#4), [5](#5) | 
 
 ## Known Residences
 
@@ -45,4 +50,43 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1881 C 047/ 2/ 6
+
+### 2
+
+**1875 ROSS, HUGH (Statutory Register of Deaths 047/ 37)**
+
+* [Full text and notes](../sources/@93480255@-1875-ross,-hugh-statutory-register-of-deaths-047-37-.md)
+* Date: 6/Sep/1875
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1875 D 047/ 37
+
+### 3
+
+**1889 ROSS, JOHN - Statutory Registers Marriages**
+
+* [Full text and notes](../sources/@75160785@-1889-ross,-john-statutory-registers-marriages.md)
+* Date: 28/Nov/1889
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1889 M 047/5
+
+### 4
+
+**1944 ROSS, JOHN HUGH & MARION (Find A Grave)**
+
+* [Full text and notes](../sources/@8128891@-1944-ross,-john-hugh-&-marion-find-a-grave-.md)
+* Publication: FindAGrave.com
+* References: 
+  * (URL) https://www.findagrave.com/memorial/195246893/marion-ross
+
+### 5
+
+**1941 X, JOHN HUGH (Statutory Register of Deaths 047/ 41)**
+
+* [Full text and notes](../sources/@40303624@-1941-ross,-john-hugh-statutory-register-of-deaths-047-41-.md)
+* Date: 8/Oct/1941
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1941 D 047/ 41
 

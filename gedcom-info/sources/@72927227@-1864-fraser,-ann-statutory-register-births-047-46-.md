@@ -54,3 +54,5 @@ Source Last Updated | 24/Jun/2022 12:51:33
 * Fraser
   * [Ann Fraser](../people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md) (4/Aug/1864 - 4/May/1891)
   * [Thomas Fraser](../people/@39286288@-thomas-fraser-b-d1889.md) ( - before 1889)
+* Ross
+  * [Christy Ross](../people/@37144832@-christy-ross-b-d.md)

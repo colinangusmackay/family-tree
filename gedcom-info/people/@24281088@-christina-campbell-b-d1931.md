@@ -21,6 +21,7 @@ permalink: /people/i24281088
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
+1906 | Birth of daughter | [Margaret Kinnomond Lawrence](./@71043319@-margaret-kinnomond-lawrence-b1906-d.md) born to [William Lawrence](./@1090404@-william-lawrence-b-d.md) and [Christina Campbell](./@24281088@-christina-campbell-b-d1931.md). |  | 
 before 1931 | Died | Died. |  | 
 
 ## Additional Sources

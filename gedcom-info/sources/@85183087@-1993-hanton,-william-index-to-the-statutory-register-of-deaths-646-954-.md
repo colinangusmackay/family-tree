@@ -35,7 +35,10 @@ Source Last Updated | 10/Apr/2024 21:54:48
 
 ## Source Referenced by
 
-* [John Hanton](../people/@30651959@-john-hanton-b1921-1-2-d2009.md) (2/Jan/1921 - 2009)
-* [Johnina Hanton](../people/@68592798@-johnina-hanton-b1919-2-12-d2000.md) (12/Feb/1919 - 2000)
-* [Marion Hanton](../people/@27083581@-marion-hanton-b1916-d2014.md) (about 1916 - 2014)
-* [William Hanton](../people/@19187808@-william-hanton-b1904-d1993.md) (about 1904 - 1993)
+* Hanton
+  * [John Hanton](../people/@30651959@-john-hanton-b1921-1-2-d2009.md) (2/Jan/1921 - 2009)
+  * [Johnina Hanton](../people/@68592798@-johnina-hanton-b1919-2-12-d2000.md) (12/Feb/1919 - 2000)
+  * [Marion Hanton](../people/@27083581@-marion-hanton-b1916-d2014.md) (about 1916 - 2014)
+  * [William Hanton](../people/@19187808@-william-hanton-b1904-d1993.md) (about 1904 - 1993)
+* McAughtrie
+  * [Mary Houston McAughtrie](../people/@54273056@-mary-houston-mcaughtrie-b1918-d.md) (about 1918 - )

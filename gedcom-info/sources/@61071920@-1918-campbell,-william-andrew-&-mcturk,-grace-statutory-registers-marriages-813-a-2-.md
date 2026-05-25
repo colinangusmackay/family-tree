@@ -82,10 +82,14 @@ Source Last Updated | 24/Jun/2022 12:50:38
 * Beatie
   * [Margaret Beatie](../people/@2654341@-margaret-beatie-b1844-d.md) (about 1844 - )
 * Campbell
+  * [James Campbell](../people/@16864904@-james-campbell-b1890-d.md) (about 1890 - )
   * [William Andrew Campbell](../people/@4716977@-william-andrew-campbell-b1889-1-2-d.md) (2/Jan/1889 - )
   * [William Campbell](../people/@70442784@-william-campbell-b-d1918.md) ( - before 1918)
 * McTurk
   * [Alexander McTurk](../people/@39936423@-alexander-mcturk-b1854-d.md) (about 1854 - )
+  * [Elizabeth McTurk](../people/@78245729@-elizabeth-mcturk-b1885-d.md) (about 1885 - )
+  * [Georgina McTurk](../people/@51187488@-georgina-mcturk-b1883-d.md) (about 1883 - )
   * [Grace McTurk](../people/@54145218@-grace-mcturk-b1886-12-20-d.md) (20/Dec/1886 - )
+  * [Jane McTurk](../people/@18380667@-jane-mcturk-b1880-2-22-d.md) (22/Feb/1880 - )
 * Smith
   * [Rachel Smith](../people/@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) (11/Nov/1862 - 23/Jun/1942)

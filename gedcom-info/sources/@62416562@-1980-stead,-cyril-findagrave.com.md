@@ -38,9 +38,13 @@ Source Last Updated | 5/Jul/2020 23:26:28
 
 ## Source Referenced by
 
+* 
+  * [Nancy](../people/@68661720@-nancy-b-d.md)
 * Fawley
   * [Clara Fawley](../people/@7539126@-clara-fawley-b1912-4-20-d1993-8-12.md) (20/Apr/1912 - 12/Aug/1993)
 * Stead
   * [Cyril Stead](../people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md) (11/Mar/1908 - 25/Nov/1980)
+  * [George Stead](../people/@77215226@-george-stead-b1911-3-d.md) (Mar/1911 - )
+  * [Harry Stead](../people/@68900898@-harry-stead-b1888-d.md) (about 1888 - )
   * [Lawrence Stead](../people/@18256653@-lawrence-stead-b1933-11-29-d1989-3.md) (29/Nov/1933 - Mar/1989)
   * [Norman Stead](../people/@69808462@-norman-stead-b1937-10-d2011.md) (Oct/1937 - 2011)

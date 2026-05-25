@@ -20,13 +20,19 @@ permalink: /people/i4716977
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 2/Jan/1889 | Born | Born to [William Campbell](./@70442784@-william-campbell-b-d1918.md) and [Rachel Smith](./@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) in Evertown, Dumfriesshire, Scotland. | [1](#1), [2](#2) | [3](#3)
+about 1890 | Birth of brother | [James Campbell](./@16864904@-james-campbell-b1890-d.md) born to [William Campbell](./@70442784@-william-campbell-b-d1918.md) and [Rachel Smith](./@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md). |  | 
+before 1918 | Death of father | [William Campbell](./@70442784@-william-campbell-b-d1918.md) died. | [2](#2) | 
+21/Mar/1918 | Marriage | Married to [Grace McTurk](./@54145218@-grace-mcturk-b1886-12-20-d.md) in Applegarth, Dumfries and Galloway, Scotland | [2](#2), [4](#4) | 
+6/Jan/1920 | Birth of daughter | [Rachel Smith Campbell](./@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md) born to [William Andrew Campbell](./@4716977@-william-andrew-campbell-b1889-1-2-d.md) and [Grace McTurk](./@54145218@-grace-mcturk-b1886-12-20-d.md) in Johnstone, Dumfriesshire, Scotland. | [4](#4), [5](#5), [6](#6) | 
+23/Jun/1942 | Death of mother | [Rachel Smith](./@58377523@-rachel-smith-b1862-11-11-d1942-6-23.md) died in Castlemilk, St Mungo, Dumfrieshire, Scotland. | [7](#7) | 
+11/Dec/1998 | Death of daughter | [Rachel Smith Campbell](./@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md) died in Perth, Perthshire, Scotland. | [6](#6), [8](#8) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
 1920 | Archwood Cottage, Johnstonebridge, Dumfriesshire, Scotland | [4](#4)
-1921 | Bridgemuir, The Parks Cottage, Lochmaben, Dumfriesshire, Scotland | [5](#5)
+1921 | Bridgemuir, The Parks Cottage, Lochmaben, Dumfriesshire, Scotland | [9](#9)
 
 ## Known Occupations
 
@@ -34,7 +40,7 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1918 | Ploughman | [2](#2)
 1920 | Cattleman | [4](#4)
-1921 | Shepherd | [5](#5)
+1921 | Shepherd | [9](#9)
 
 ## Notes
 
@@ -89,6 +95,44 @@ Date | Occupation | Sources & Notes
   * 1920 B 832/2
 
 ### 5
+
+**1920 CAMPBELL, RACHEL SMITH (Statutory registers - Births) Index**
+
+* [Full text and notes](../sources/@86071302@-1920-campbell,-rachel-smith-statutory-registers-births-index.md)
+* Date: 1920
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1920 B 832/2
+
+### 6
+
+**CAMPBELL, RACHEL SMITH - Ancestry.co.uk Family Tree of Paul Robinson**
+
+* [Full text and notes](../sources/@41696708@-campbell,-rachel-smith-ancestry.co.uk-family-tree-of-paul-robinson.md)
+* Publication: [https://www.ancestry.co.uk/family-tree/person/tree/70693809/person/48222034356/story](https://www.ancestry.co.uk/family-tree/person/tree/70693809/person/48222034356/story)
+* Originator / Author: Paul Robinson
+* Date: 4/Jul/2020
+
+### 7
+
+**1941 CAMPBELL, RACHEL (Statutory Register of Deaths 847/ 11)**
+
+* [Full text and notes](../sources/@47462218@-1941-campbell,-rachel-statutory-register-of-deaths-847-11-.md)
+* Date: 23/Jun/1942
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1942 D 847/ 11
+
+### 8
+
+**1998 CAMPBELL, RACHEL SMITH (Statutory registers - Deaths) index**
+
+* [Full text and notes](../sources/@32799771@-1998-campbell,-rachel-smith-statutory-registers-deaths-index.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1998 D 389/40
+
+### 9
 
 **1921 CAMPBELL, WILLIAM A & HOUSEHOLD (Census 840/ 4/ 2)**
 

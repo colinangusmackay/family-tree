@@ -34,3 +34,4 @@ Source Last Updated | 22/Jan/2023 14:31:28
   * [Agnes Watt](../people/@64447674@-agnes-watt-b-d.md)
 * Williamson
   * [Agnes Williamson](../people/@35381484@-agnes-williamson-b1815-10-11-d.md) (11/Oct/1815 - )
+  * [William Williamson](../people/@67023796@-william-williamson-b-d.md)

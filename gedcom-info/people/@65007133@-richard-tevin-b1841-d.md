@@ -21,6 +21,13 @@ permalink: /people/i65007133
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1841 | Born | Born to [John Teeven](./@17936784@-john-teeven-b-d1855.md) and [Mary McFynn](./@36976172@-mary-mcfynn-b-d1855.md) in , County Fermanagh, Ireland. | [1](#1), [2](#2) | 
+before 1855 | Death of father | [John Teeven](./@17936784@-john-teeven-b-d1855.md) died. | [1](#1) | 
+before 1855 | Death of mother | [Mary McFynn](./@36976172@-mary-mcfynn-b-d1855.md) died. | [1](#1) | 
+27/Jul/1855 | Marriage | Married to [Susan McKay](./@29671874@-susan-mckay-b1833-4-d1886.md) at St. Paul's Catholic Church, Lennoxtown, Scotland | [1](#1) | 
+about 1858 | Birth of daughter | [Mary Teevin](./@39463713@-mary-teevin-b1858-d.md) born to [Richard Tevin](./@65007133@-richard-tevin-b1841-d.md) and [Susan McKay](./@29671874@-susan-mckay-b1833-4-d1886.md) in Lennoxtown, Scotland. | [2](#2) | 
+about 1861 | Birth of daughter | [Margaret Teevin](./@7753096@-margaret-teevin-b1861-d.md) born to [Richard Tevin](./@65007133@-richard-tevin-b1841-d.md) and [Susan McKay](./@29671874@-susan-mckay-b1833-4-d1886.md) in Lennoxtown, Scotland. | [2](#2), [3](#3) | 
+about 1870 | Birth of son | [Thomas Tevin](./@81418416@-thomas-tevin-b1870-d.md) born to [Richard Tevin](./@65007133@-richard-tevin-b1841-d.md) and [Susan McKay](./@29671874@-susan-mckay-b1833-4-d1886.md) in Lennoxtown, Scotland. | [2](#2) | 
+before 1886 | Death of partner | [Susan McKay](./@29671874@-susan-mckay-b1833-4-d1886.md) died. | [3](#3) | 
 
 ## Known Residences
 

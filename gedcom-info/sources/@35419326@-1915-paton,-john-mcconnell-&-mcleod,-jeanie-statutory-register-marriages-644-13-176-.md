@@ -21,8 +21,11 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
+* McFarlane
+  * [Janet McFarlane](../people/@96104748@-janet-mcfarlane-b-d.md)
 * McLeod
   * [Jeanie McLeod](../people/@70248352@-jeanie-mcleod-b1897-d.md) (about 1897 - )
+  * [Margaret McLeod](../people/@25554110@-margaret-mcleod-b-d.md)
 * Paton
   * [John Paton](../people/@43171135@-john-paton-b-d.md)
   * [John Paton](../people/@5211114@-john-paton-b1894-d.md) (about 1894 - )

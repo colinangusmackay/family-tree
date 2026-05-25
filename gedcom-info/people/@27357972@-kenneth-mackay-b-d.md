@@ -11,17 +11,17 @@ permalink: /people/i27357972
 * Partner: [Jane Gordon](./@19799810@-jane-gordon-b-d.md)
 * Daughter: [Betsy Mackay](./@49855242@-betsy-mackay-b1855~1856-d.md) (bet' 1855 and 1856 - )
 
+## Timeline
+
+Date | Item | Description | Sources | Notes
+---|---|---|---|---
+bet' 1855 and 1856 | Birth of daughter | [Betsy Mackay](./@49855242@-betsy-mackay-b1855~1856-d.md) born to [Kenneth Mackay](./@27357972@-kenneth-mackay-b-d.md) and [Jane Gordon](./@19799810@-jane-gordon-b-d.md). | [1](#1) | 
+
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
 1881 | Shoemaker (journeyman) | 
-
-## Additional Sources
-
-Footnote | Source
----|---
-[1](#1) | **[1984 TULLOCH, BARRIE M - Letter from Registrar in Brora](../sources/@94133243@-1984-tulloch,-barrie-m-letter-from-registrar-in-brora.md)**
 
 ## Footnotes
 

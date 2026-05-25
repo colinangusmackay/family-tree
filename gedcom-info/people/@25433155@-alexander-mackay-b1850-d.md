@@ -16,6 +16,7 @@ permalink: /people/i25433155
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1850 | Born | Born. | [1](#1) | [2](#2)
+21/Oct/1873 | Marriage | Married to [Catherine Mackay](./@26872816@-catherine-mackay-b1849~1856-d.md)  | [1](#1), [3](#3) | 
 
 ## Known Residences
 
@@ -54,4 +55,16 @@ Date | Occupation | Sources & Notes
 > Letter to B.M. Tulloch suggests the date of birth to be between 22/Oct/1850 and 21/Oct/1851 (Marriage at age 22 on 21/Oct/1873)
 >
 
+
+### 3
+
+**P113 Embo - genealogy, Uncle Sandy's Story and a little history**
+
+* [Full text and notes](../sources/@17489530@-p113-embo-genealogy,-uncle-sandy's-story-and-a-little-history.md)
+* Publication: Embo - genealogy, Uncle Sandy's Story and a little history
+* Originator / Author: Catriona Grigg
+* Date: 2016
+* Filed by Entry: EMBO/P113/F9.2
+* References: 
+  * (ISBN) 978-1-910205-49-5
 

@@ -25,3 +25,5 @@ _Redacted because this source is referenced by a (potentially) living person and
   * [Thomas Fraser](../people/@39286288@-thomas-fraser-b-d1889.md) ( - before 1889)
 * Grant
   * [Hugh Grant](../people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md) (26/Feb/1863 - 10/Sep/1944)
+* Ross
+  * [Christy Ross](../people/@37144832@-christy-ross-b-d.md)

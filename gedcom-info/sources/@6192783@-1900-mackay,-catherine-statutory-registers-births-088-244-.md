@@ -50,5 +50,6 @@ Source Last Updated | 3/Jul/2022 17:13:27
 
 * Mackay
   * [Catherine Mackay](../people/@28166672@-catherine-mackay-b1900-9-3-d.md) (3/Sep/1900 - )
+  * [John Mackay](../people/@53390906@-john-mackay-b-d.md)
 * MacLeod
   * [Matilda MacLeod](../people/@31540392@-matilda-macleod-b1861-d1949-11-9.md) (about 1861 - 9/Nov/1949)

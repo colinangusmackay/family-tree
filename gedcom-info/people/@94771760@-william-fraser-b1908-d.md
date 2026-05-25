@@ -24,6 +24,7 @@ permalink: /people/i94771760
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1908 | Born | Born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [1](#1) | 
+1912 | Birth of sister | [Davidina Fraser](./@27014400@-davidina-fraser-b1912-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md). | [2](#2) | 
 
 ## Known Residences
 

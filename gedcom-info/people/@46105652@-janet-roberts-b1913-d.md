@@ -24,6 +24,8 @@ permalink: /people/i46105652
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1913 | Born | Born to [Frederick B Roberts](./@36552681@-frederick-b-roberts-b1868-d.md) and [Mae Farnham](./@53003230@-mae-farnham-b1872-d.md). | [1](#1) | 
+before 1990 | Death of brother | [Donald F Roberts](./@38158777@-donald-f-roberts-b1898-d1990.md) died. | [2](#2) | 
+6/May/1990 | Death of brother | [Malcolm DeWitt Roberts](./@21721539@-malcolm-dewitt-roberts-b1905-9-30-d1990-5-6.md) died. | [2](#2), [3](#3) | 
 
 ## Known Residences
 
@@ -48,4 +50,11 @@ Date | Residence | Sources & Notes
 * [Full text and notes](../sources/@93810194@-1990-roberts,-malcolm-dewitt-the-post-star-wed-may-9-1990.md)
 * Publication: The Post Star
 * Date: 9/May/1990
+
+### 3
+
+**1990 ROBERTS, MALCOLM D (Connecticut Death Index, 1949-2012)**
+
+* [Full text and notes](../sources/@7140488@-1990-roberts,-malcolm-d-connecticut-death-index,-1949-2012-.md)
+* Publication: Connecticut Death Index, 1949-2012
 

@@ -23,6 +23,7 @@ permalink: /people/i42365832
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1872 | Born | Born to [W. J.  Walker](./@9365293@-w.-j.-walker-b-d.md) and [Mary Vanevery](./@23067936@-mary-vanevery-b-d.md). | [1](#1) | 
+11/Nov/1903 | Marriage | Married to [Donald Ross](./@4496220@-donald-ross-b1872-8-30-d.md) in Boyne City, Charlevoix County, Michigan, United States of America | [1](#1) | 
 
 ## Known Residences
 

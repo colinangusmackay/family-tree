@@ -16,6 +16,14 @@ permalink: /indexes/by-occupation
 
 * **[Hanton, William](people/@19187808@-william-hanton-b1904-d1993.md)** (about 1904 - 1993).
 
+## Apprentice Chemist
+
+* **[Robert /Gilchrist, MungoRobert Gilchrist](people/@12769933@-mungorobert-gilchrist-b1865-d.md)** (about 1865 - ).
+
+## Apprentice Engineer
+
+* **[Gilchrist, David](people/@16272572@-david-gilchrist-b1901-11-d.md)** (about Nov/1901 - ).
+
 ## Apprentice Grocer
 
 * **[Napier, David](people/@46994217@-david-napier-b1901-d.md)** (about 1901 - ).
@@ -48,12 +56,13 @@ There were 2 people who worked as a Baker of some sort.
 
 ## Blacksmith
 
-There were 4 people who worked as a Blacksmith of some sort.
+There were 5 people who worked as a Blacksmith of some sort.
 
 * **[Fleming, John](people/@49475976@-john-fleming-b1877-3-11-d1961.md)** (11/Mar/1877 - before 1961), mentioned twice.
 * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912), mentioned 3 times.
 * **[Lawrence, William](people/@1090404@-william-lawrence-b-d.md)**.
 * **[Ramsay, John](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - ).
+* **[Steel, Mungo](people/@34546752@-mungo-steel-b-d1866.md)** ( - before 1866).
 
 #### Apprentice Blacksmith
 
@@ -132,7 +141,7 @@ There were 4 people who worked as a Business Owner of some sort.
 
 ## Butcher's Assistant
 
-* **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - ).
+* **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - ).
 
 ## Canvaser
 
@@ -320,12 +329,13 @@ There were 7 people who worked as a Crofter.
 
 ## Domestic Servant
 
-There were 28 people who worked as a Domestic Servant of some sort.
+There were 29 people who worked as a Domestic Servant of some sort.
 
 * **[Fern, Annie](people/@53954394@-annie-fern-b1903-d1946.md)** (about 1903 - before 1946).
 * **[Fleming, Christina](people/@89446044@-christina-fleming-b1895-8-23-d1985.md)** (23/Aug/1895 - 1985).
 * **[Fleming, Ellen](people/@69831456@-ellen-fleming-b1875-7-6-d.md)** (6/Jul/1875 - ).
 * **[Fraser, Barbara](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - ).
+* **[Gilchrist, Elizabeth](people/@14432964@-elizabeth-gilchrist-b1876-d.md)** (about 1876 - ).
 * **[Grant, Jean](people/@81075921@-jean-grant-b1902-6-30-d1971-10-31.md)** (30/Jun/1902 - 31/Oct/1971).
 * **[Howie, Margaret](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915).
 * **[Lawrence, Margaret Kinnomond](people/@71043319@-margaret-kinnomond-lawrence-b1906-d.md)** (1906 - ).
@@ -341,7 +351,7 @@ There were 28 people who worked as a Domestic Servant of some sort.
 * **[O'Donnell, Hannah](people/@64641527@-hannah-o'donnell-b1857-d1921.md)** (about 1857 - before 1921).
 * **[Paterson, Isabella](people/@24882788@-isabella-paterson-b1850-d1923-2-27.md)** (1850 - 27/Feb/1923).
 * **[Ross, Williamina](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ).
-* **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - ).
+* **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-2-d.md)** (about Feb/1879 - ).
 
 #### Coachman (Domestic Servant)
 
@@ -402,7 +412,7 @@ There were 13 people who worked as a Driver of some sort.
 #### Carter
 
 * **[Crawford, Thomas Sharp](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968).
-* **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - ), mentioned twice.
+* **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - ), mentioned 4 times.
 * **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
 * **[Sloan, James](people/@16524688@-james-sloan-b-d1901.md)** ( - before 1901).
 
@@ -515,7 +525,7 @@ There were 2 people who worked as a Farm Labourer.
 
 ## Farm Worker
 
-There were 12 people who worked as a Farm Worker of some sort.
+There were 14 people who worked as a Farm Worker of some sort.
 
 #### Dairy Maid
 
@@ -524,16 +534,19 @@ There were 12 people who worked as a Farm Worker of some sort.
 
 #### Farm Servant
 
+* **[Gilchrist, David](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - ).
 * **[Howie, Margaret](people/@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md)** (27/Jul/1843 - 26/Jan/1915).
 * **[Mackay, Donald](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ).
 * **[MacLean, Janet](people/@4850940@-janet-maclean-b1839-d.md)** (about 1839 - ).
 * **[McAughtrie, Isabella](people/@88003126@-isabella-mcaughtrie-b-d.md)**.
 * **[McAughtrie, Mary Houston](people/@54273056@-mary-houston-mcaughtrie-b1918-d.md)** (about 1918 - ).
 * **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878).
+* **[Steel, Janet](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - ).
 
 #### Ploughman
 
 * **[Campbell, William Andrew](people/@4716977@-william-andrew-campbell-b1889-1-2-d.md)** (2/Jan/1889 - ).
+* **[Gilchrist, David](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - ).
 * **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - ).
 * **[McIver, Roderick](people/@91038040@-roderick-mciver-b1821-d1878-10-11.md)** (about 1821 - 11/Oct/1878).
 * **[McTurk, Alexander](people/@39936423@-alexander-mcturk-b1854-d.md)** (about 1854 - ).
@@ -782,6 +795,10 @@ There were 3 people who worked as a Fisherman's Wife.
 
 * **[Mathews, Joseph](people/@98232688@-joseph-mathews-b1922-6-15-d.md)** (15/Jun/1922 - ).
 
+## Flesher's Assistant
+
+* **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - ).
+
 ## Forrester
 
 * **[Smith, John](people/@3582868@-john-smith-b1825-d1898.md)** (about 1825 - before 1898).
@@ -790,7 +807,7 @@ There were 3 people who worked as a Fisherman's Wife.
 
 There were 3 people who worked as a Gardener.
 
-* **[Gilchrist, David](people/@89232476@-david-gilchrist-b-d.md)**.
+* **[Gilchrist, David](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - ).
 * **[Paterson, William](people/@55148620@-william-paterson-b1823-d1906-4-26.md)** (about 1823 - 26/Apr/1906).
 * **[Reid, Thomas Mitchell](people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md)** (14/Jan/1893 - 10/May/1974).
 
@@ -800,8 +817,9 @@ There were 3 people who worked as a Gardener.
 
 ## General Labourer
 
-There were 2 people who worked as a General Labourer.
+There were 3 people who worked as a General Labourer.
 
+* **[Gilchrist, David](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - ), mentioned twice.
 * **[Mackay, John Paul](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969).
 * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982).
 
@@ -956,9 +974,10 @@ There were 2 people who worked as a Joiner Journeyman.
 
 ## Labourer
 
-There were 10 people who worked as a Labourer of some sort.
+There were 12 people who worked as a Labourer of some sort.
 
 * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
+* **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b-d1866.md)** ( - after 1866).
 * **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - ).
 * **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952), mentioned twice.
 * **[Napier, David](people/@97555316@-david-napier-b1858-4-7-d.md)** (7/Apr/1858 - ).
@@ -985,6 +1004,7 @@ There were 10 people who worked as a Labourer of some sort.
 #### Mason's Labourer
 
 * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
+* **[Gilchrist, David](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - ), mentioned twice.
 
 ## Labourer (Gas Department)
 
@@ -1008,6 +1028,10 @@ There were 2 people who worked as a Lapidary.
 ## Laundry Keeper
 
 * **[McKnight, Thomas](people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md)** (about 1856 - 8/Aug/1897).
+
+## Lbourer
+
+* **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b-d1866.md)** ( - after 1866).
 
 ## Lecturer in Art
 
@@ -1128,6 +1152,10 @@ There were 2 people who worked as a Merchant.
 ## Merchant (Grocer)
 
 * **[Cumming, James](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923).
+
+## Messenger
+
+* **[Gilchrist, James](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998).
 
 ## Midwife
 
@@ -1531,7 +1559,7 @@ There were 2 people who worked as a Shoemaker (journeyman).
 
 ## Smith
 
-There were 5 people who worked as a Smith of some sort.
+There were 6 people who worked as a Smith of some sort.
 
 #### Blacksmith
 
@@ -1539,6 +1567,7 @@ There were 5 people who worked as a Smith of some sort.
 * **[Fleming, Joseph](people/@57117702@-joseph-fleming-b1851-10-7-d1912-1-30.md)** (7/Oct/1851 - 30/Jan/1912), mentioned 3 times.
 * **[Lawrence, William](people/@1090404@-william-lawrence-b-d.md)**.
 * **[Ramsay, John](people/@33817858@-john-ramsay-b1813-d.md)** (1813 - ).
+* **[Steel, Mungo](people/@34546752@-mungo-steel-b-d1866.md)** ( - before 1866).
 
 #### Blacksmith Labourer
 

@@ -28,6 +28,19 @@ permalink: /people/i91623667
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1855 | Born | Born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [1](#1), [2](#2) | [3](#3)
+1855 | Birth of brother | [Alexander Ross](./@64872505@-alexander-ross-b1855-d.md) born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [4](#4) | 
+about 1857 | Birth of brother | [Hugh Ross](./@33375290@-hugh-ross-b1857-d.md) born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [1](#1), [2](#2) | [5](#5)
+19/Jun/1859 | Birth of brother | [John Hugh Ross](./@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md) born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md) in Embo, Sutherland, Scotland. | [6](#6), [7](#7), [8](#8) | 
+about 1862 | Birth of sister | [Jessie Ross](./@34993752@-jessie-ross-b1862-d.md) born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [2](#2), [4](#4) | [9](#9)
+1863 | Birth of brother | [Alexander Ross](./@98834750@-alexander-ross-b1863-d.md) born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [2](#2) | 
+1864 | Birth of sister | [Jeannie Ross](./@64098912@-jeannie-ross-b1864-d.md) born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [2](#2) | 
+about 1864 | Birth of sister | [Sarah Ross](./@84017554@-sarah-ross-b1864-d.md) born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [2](#2) | [10](#10)
+1867 | Birth of brother | [Kenneth Ross](./@64618340@-kenneth-ross-b1867-d.md) born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [4](#4) | 
+1872 | Birth of sister | [Ann Ross](./@99728908@-ann-ross-b1872-d.md) born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [4](#4) | 
+5/Sep/1875 | Death of father | [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) died in Embo, Sutherland, Scotland. | [7](#7), [11](#11) | 
+1876 | Birth of brother | [Donald Ross](./@46967448@-donald-ross-b1876-d.md) born to [Hugh Ross](./@10594034@-hugh-ross-b1826-d1875-9-5.md) and [Ann Mackay](./@59598912@-ann-mackay-b1835-d.md). | [4](#4) | 
+1941 | Burial of brother | [John Hugh Ross](./@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md) was buried in Dornoch Free Church Cemetery, Dornoch, Sutherland, Scotland. | [12](#12) | 
+7/Oct/1941 | Death of brother | [John Hugh Ross](./@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md) died in Embo, Sutherland, Scotland. | [12](#12), [13](#13) | 
 
 ## Known Residences
 
@@ -70,4 +83,100 @@ Date | Occupation | Sources & Notes
 > 1871 Census: 17 years = 1854
 >
 
+
+### 4
+
+**1881 ROSS, ANN MACKAY + HOUSEHOLD (Census 047/ 2/ 6)**
+
+* [Full text and notes](../sources/@38426175@-1881-ross,-ann-mackay-+-household-census-047-2-6-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1881 C 047/ 2/ 6
+
+### 5
+
+> 1861 Census: Age 4 = 1857
+>
+> 1871 Census: Age 15 = 1856
+>
+> 1881 Census: Age 24 = 1857
+>
+
+
+### 6
+
+**1859 ROSS, JOHN (Statutory Register of Births 047/ 35)**
+
+* [Full text and notes](../sources/@37984832@-1859-ross,-john-statutory-register-of-births-047-35-.md)
+* Date: 13/Jul/1859
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1859 B 047/ 35
+
+### 7
+
+**1889 ROSS, JOHN - Statutory Registers Marriages**
+
+* [Full text and notes](../sources/@75160785@-1889-ross,-john-statutory-registers-marriages.md)
+* Date: 28/Nov/1889
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1889 M 047/5
+
+### 8
+
+**P161 Embo - genealogy, Uncle Sandy's Story and a little history**
+
+* [Full text and notes](../sources/@95058656@-p161-embo-genealogy,-uncle-sandy's-story-and-a-little-history.md)
+* Publication: Embo - genealogy, Uncle Sandy's Story and a little history
+* Originator / Author: Catriona Grigg
+* Date: 2016
+* Filed by Entry: EMBO/P161/C1.3
+* References: 
+  * (ISBN) 978-1-910205-49-5
+
+### 9
+
+> 1871 Census: Age 11; DOB = 1860
+>
+> 1881 Census: Age 17; DOB = 1864
+>
+
+
+### 10
+
+> 1871 Census: Age 9; DOB = 1862
+>
+> 1881 Census: Age 15; DOB = 1866
+>
+
+
+### 11
+
+**1875 ROSS, HUGH (Statutory Register of Deaths 047/ 37)**
+
+* [Full text and notes](../sources/@93480255@-1875-ross,-hugh-statutory-register-of-deaths-047-37-.md)
+* Date: 6/Sep/1875
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1875 D 047/ 37
+
+### 12
+
+**1944 ROSS, JOHN HUGH & MARION (Find A Grave)**
+
+* [Full text and notes](../sources/@8128891@-1944-ross,-john-hugh-&-marion-find-a-grave-.md)
+* Publication: FindAGrave.com
+* References: 
+  * (URL) https://www.findagrave.com/memorial/195246893/marion-ross
+
+### 13
+
+**1941 X, JOHN HUGH (Statutory Register of Deaths 047/ 41)**
+
+* [Full text and notes](../sources/@40303624@-1941-ross,-john-hugh-statutory-register-of-deaths-047-41-.md)
+* Date: 8/Oct/1941
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1941 D 047/ 41
 

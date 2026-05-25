@@ -25,6 +25,16 @@ permalink: /people/i26057486
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1894 | Born | Born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+1896 | Birth of brother | [Thomas Fraser](./@41158088@-thomas-fraser-b1896-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+1900 | Birth of brother | [Kenneth Fraser](./@73587538@-kenneth-fraser-b1900-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+1902 | Birth of sister | [Bella Fraser](./@25936309@-bella-fraser-b1902-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [2](#2) | 
+1904 | Birth of sister | [Christina Fraser](./@8163648@-christina-fraser-b1904-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [2](#2) | 
+1906 | Birth of brother | [John J Barrow G Fraser](./@43044884@-john-j-barrow-g-fraser-b1906-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [2](#2) | 
+1908 | Birth of brother | [William Fraser](./@94771760@-william-fraser-b1908-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [2](#2) | 
+1912 | Birth of sister | [Davidina Fraser](./@27014400@-davidina-fraser-b1912-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md). | [3](#3) | 
+22/Mar/1918 | Marriage | Married to [Thomas Sharp Crawford](./@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md) at 347 High Street, Kirkcaldy, Fife, Scotland | [4](#4) | 
+before 1940 | Divorced | Divorced from [Thomas Sharp Crawford](./@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)  | [5](#5) | 
+5/Mar/1968 | Death of partner | [Thomas Sharp Crawford](./@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md) died in Kirkcaldy, Fife, Scotland. | [6](#6) | 
 
 ## Known Residences
 
@@ -32,13 +42,13 @@ Date | Residence | Sources & Notes
 ---|---|---
 1901 | 5 Front Street, Embo, Sutherland, Scotland | [1](#1)
 1911 | 4 School Street, Embo, Sutherland, Scotland | [2](#2)
-1918 | 257 Links Street, Kirkcaldy, Fife, Scotland | [3](#3)
+1918 | 257 Links Street, Kirkcaldy, Fife, Scotland | [4](#4)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1918 | Domestic Servant | [3](#3)
+1918 | Domestic Servant | [4](#4)
 
 ## Notes
 
@@ -70,6 +80,16 @@ Date | Occupation | Sources & Notes
 
 ### 3
 
+**1921 FRASER, THOMAS & HOUSEHOLD (Census 047/ 3/ 13)**
+
+* [Full text and notes](../sources/@85252864@-1921-fraser,-thomas-&-household-census-047-3-13-.md)
+* Date: 19/Jun/1921
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1921 C 047/ 3/ 13
+
+### 4
+
 **1918 CRAWFORD, THOMAS SHARP & FRASER, BARBARA (Statutory Register of Marriages 442/ 44)**
 
 * [Full text and notes](../sources/@77360094@-1918-crawford,-thomas-sharp-&-fraser,-barbara-statutory-register-of-marriages-442-44-.md)
@@ -77,4 +97,24 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1918 M 442/ 44
+
+### 5
+
+**1940 CRAWFORD, THOMAS SHARP & LITSTER, ROBINA STOBIE (Statutory Register of Marriages 442/ 93)**
+
+* [Full text and notes](../sources/@60226534@-1940-crawford,-thomas-sharp-&-litster,-robina-stobie-statutory-register-of-marriages-442-93-.md)
+* Date: 4/Mar/1940
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1940 M 442/ 93
+
+### 6
+
+**1968 CRAWFORD, THOMAS SHARP (Statutory Register of Deaths 442/ 168)**
+
+* [Full text and notes](../sources/@69379252@-1968-crawford,-thomas-sharp-statutory-register-of-deaths-442-168-.md)
+* Date: 5/Mar/1898
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1968 D 442/ 168
 

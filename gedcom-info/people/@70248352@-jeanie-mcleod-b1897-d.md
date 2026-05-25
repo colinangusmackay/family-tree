@@ -23,6 +23,9 @@ permalink: /people/i70248352
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1897 | Born | Born to [Margaret McLeod](./@25554110@-margaret-mcleod-b-d.md). | [1](#1) | [2](#2)
+8/Jun/1915 | Marriage | Married to [John Paton](./@5211114@-john-paton-b1894-d.md) at 9 Windsor Street, Glasgow, Scotland | [1](#1), [3](#3) | 
+14/Mar/1916 | Birth of daughter | [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) born to [John Paton](./@5211114@-john-paton-b1894-d.md) and [Jeanie McLeod](./@70248352@-jeanie-mcleod-b1897-d.md) in Glasgow, Scotland. | [3](#3), [4](#4) | 
+before 2004 | Death of daughter | [Margaret McLeod Paton](./@56209708@-margaret-mcleod-paton-b1916-3-14-d2004.md) died. | [5](#5) | 
 
 ## Known Residences
 
@@ -36,12 +39,6 @@ Date | Residence | Sources & Notes
 Date | Occupation | Sources & Notes
 ---|---|---
 1915 | Weaving Mill Clerk | [1](#1)
-
-## Additional Sources
-
-Footnote | Source
----|---
-[4](#4) | **[1939 O'MALLEY, THOMAS (Statutory registers Marriages 644/10 421)](../sources/@89657505@-1939-o'malley,-thomas-statutory-registers-marriages-644-10-421-.md)**
 
 ## Footnotes
 
@@ -79,4 +76,14 @@ Footnote | Source
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1939 M 644/10 421
+
+### 5
+
+**2004 X, MARGARET PATON (Extract of an entry in a REGISTER of DEATHS)**
+
+* [Full text and notes](../sources/@55468576@-2004-campbell,-margaret-paton-extract-of-an-entry-in-a-register-of-deaths-.md)
+* Date: 6/Apr/2004
+* Responsible Agency: General Registers Office
+* References: 
+  * 2004 D 772/107
 

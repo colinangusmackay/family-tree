@@ -25,6 +25,11 @@ permalink: /people/i35162161
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 27/Mar/1879 | Born | Born to [James Clark](./@29410614@-james-clark-b-d.md) and [Jamesina Morrison](./@11801376@-jamesina-morrison-b-d.md) in Aberdeen, Aberdeenshire, Scotland. | [1](#1), [2](#2), [3](#3) | 
+24/Dec/1907 | Marriage | Married to [James Cumming](./@64418166@-james-cumming-b1881-11-4-d1918.md) in Aberdeen, Aberdeenshire, Scotland | [4](#4) | 
+19/Jan/1909 | Birth of daughter | [Maggie Cumming](./@86945960@-maggie-cumming-b1909-1-19-d.md) born to [James Cumming](./@64418166@-james-cumming-b1881-11-4-d1918.md) and [Catherine Wink Clark](./@35162161@-catherine-wink-clark-b1879-3-27-d.md) in Alness, Ross and Cromarty, Scotland. | [4](#4), [5](#5) | 
+18/Jan/1912 | Birth of son | [James Edward Cummings](./@5591850@-james-edward-cummings-b1912-1-18-d2003-12-11.md) born to [James Cumming](./@64418166@-james-cumming-b1881-11-4-d1918.md) and [Catherine Wink Clark](./@35162161@-catherine-wink-clark-b1879-3-27-d.md) in Dorchester, Suffolk County, Massachusetts, United States of America. | [6](#6) | 
+before 1918 | Death of partner | [James Cumming](./@64418166@-james-cumming-b1881-11-4-d1918.md) died. | [2](#2) | 
+11/Dec/2003 | Death of son | [James Edward Cummings](./@5591850@-james-edward-cummings-b1912-1-18-d2003-12-11.md) died. | [6](#6) | 
 
 ## Known Residences
 
@@ -62,4 +67,28 @@ Date | Residence | Sources & Notes
 * Filed by Entry: EMBO/P161/C1.3
 * References: 
   * (ISBN) 978-1-910205-49-5
+
+### 4
+
+**1909 CUMMING, MAGGIE CLARK (Statutory Regisgters Births 047/6)**
+
+* [Full text and notes](../sources/@96514178@-1909-cumming,-maggie-clark-statutory-regisgters-births-047-6-.md)
+* Date: 25/Jan/1909
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1909 B 047/6
+
+### 5
+
+**1915 CUMMINGS, JAMES (Petition for Naturalization)**
+
+* [Full text and notes](../sources/@25553316@-1915-cummings,-james-petition-for-naturalization-.md)
+* Date: 26/Apr/1915
+
+### 6
+
+**2003 CUMMINGS, JAMES EDWARD (U.S., Social Security Applications and Claims Index, 1936-2007)**
+
+* [Full text and notes](../sources/@30545456@-2003-cummings,-james-edward-u.s.,-social-security-applications-and-claims-index,-1936-2007-.md)
+* Publication: Social Security Applications and Claims, 1936-2007
 

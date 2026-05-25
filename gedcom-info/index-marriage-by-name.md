@@ -163,7 +163,8 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Gilchrist
 
-  * **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - ) and **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - ) **on 16th of August 1901** at Maryhill, Glasgow, Scotland.
+  * **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - ) and **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-2-d.md)** (about Feb/1879 - ) **on 16th of August 1901** at Maryhill, Glasgow, Scotland.
+  * **[David Gilchrist](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - ) and **[Janet Steel](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - ) **on 8th of June 1866** at Biggar, South Lanarkshire, Scotland.
   * **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998) and **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - ) **on 31st of August 1933** at Glasgow, Scotland, .
 
 ## Gillie
@@ -561,7 +562,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Sloan
 
-  * **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - ) and **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - ) **on 16th of August 1901** at Maryhill, Glasgow, Scotland.
+  * **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-2-d.md)** (about Feb/1879 - ) and **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - ) **on 16th of August 1901** at Maryhill, Glasgow, Scotland.
 
 ## Smith
 
@@ -579,6 +580,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 ## Steedman
 
   * **[Richard Trotter Steedman](people/@65047040@-richard-trotter-steedman-b1948-d2022-6-23.md)** (1948 - 23/Jun/2022) and X **in 1970** at Edinburgh, Scotland.
+
+## Steel
+
+  * **[Janet Steel](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - ) and **[David Gilchrist](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - ) **on 8th of June 1866** at Biggar, South Lanarkshire, Scotland.
 
 ## Sunderland
 

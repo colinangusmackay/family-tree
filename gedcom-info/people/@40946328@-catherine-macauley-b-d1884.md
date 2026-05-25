@@ -21,7 +21,9 @@ permalink: /people/i40946328
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
+about 1857 | Birth of daughter | [Hannah O'Donnell](./@64641527@-hannah-o'donnell-b1857-d1921.md) born to [Edward O'Donnell](./@4921696@-edward-o'donnell-b-d1884.md) and [Catherine Macauley](./@40946328@-catherine-macauley-b-d1884.md) in , Ireland. | [1](#1), [2](#2) | 
 before 1884 | Died | Died. | [1](#1) | 
+before 1884 | Death of partner | [Edward O'Donnell](./@4921696@-edward-o'donnell-b-d1884.md) died. | [1](#1) | 
 
 ## Footnotes
 
@@ -34,4 +36,14 @@ before 1884 | Died | Died. | [1](#1) |
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1885 M 662/1 5
+
+### 2
+
+**1891 HAWTHORN, WILLIAM & Family (Census 694/ 5/ 22)**
+
+* [Full text and notes](../sources/@92152864@-1891-hawthorn,-william-&-family-census-694-5-22-.md)
+* Date: 1891
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1891 C 694/ 5/ 22
 

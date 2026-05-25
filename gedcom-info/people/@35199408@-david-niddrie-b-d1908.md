@@ -16,17 +16,25 @@ permalink: /people/i35199408
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-before 1908 | Died | Died. | [1](#1) | 
+about 1861 | Birth of daughter | [Helen S Niddrie](./@47342988@-helen-s-niddrie-b1861-d.md) born to [David Niddrie](./@35199408@-david-niddrie-b-d1908.md) and [Jessie Milne](./@14284692@-jessie-milne-b-d1908.md) in Aberdeen, Aberdeenshire, Scotland. | [1](#1) | 
+before 1908 | Died | Died. | [2](#2) | 
+before 1908 | Death of partner | [Jessie Milne](./@14284692@-jessie-milne-b-d1908.md) died. | [2](#2) | 
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-Unknown | Shoemaker | [2](#2), [1](#1)
+Unknown | Shoemaker | [3](#3), [2](#2)
 
 ## Footnotes
 
 ### 1
+
+**1911 HOWIE, PETER & HOUSEHOLD (Census 1911)**
+
+* [Full text and notes](../sources/@10070112@-1911-howie,-peter-&-household-census-1911-.md)
+
+### 2
 
 **1908 HOWIE, PETER & NIDDRIE, HELEN (Statutory Register of Marriages 644/4 89)**
 
@@ -36,7 +44,7 @@ Unknown | Shoemaker | [2](#2), [1](#1)
 * References: 
   * 1908 M 644/4 89
 
-### 2
+### 3
 
 **1886 WILL, GEORGE & NIDDRIE, HELEN (Statutory Register of Marriages 475/ 12)**
 

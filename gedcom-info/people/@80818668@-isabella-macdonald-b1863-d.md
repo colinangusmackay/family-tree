@@ -24,6 +24,8 @@ permalink: /people/i80818668
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1863 | Born | Born to [Donald MacDonald](./@28173184@-donald-macdonald-b1850-d.md) and [Sophia Mackay](./@52720474@-sophia-mackay-b1850-d.md). | [1](#1) | 
+30/Dec/1881 | Marriage | Married to [John Ross](./@81395704@-john-ross-b1856-d.md) in Golspie, Sutherland, Scotland | [1](#1), [2](#2) | 
+22/Aug/1883 | Birth of daughter | [Williamina Ross](./@86024374@-williamina-ross-b1883-8-22-d.md) born to [John Ross](./@81395704@-john-ross-b1856-d.md) and [Isabella MacDonald](./@80818668@-isabella-macdonald-b1863-d.md) in Peterhead, Aberdeenshire, Scotland. | [2](#2), [3](#3), [4](#4) | 
 
 ## Known Residences
 
@@ -37,12 +39,6 @@ Date | Occupation | Sources & Notes
 ---|---|---
 1881 | Fishergirl | [1](#1)
 
-## Additional Sources
-
-Footnote | Source
----|---
-[2](#2) | **[1910 GILLIE, ANDREW (Statutory Registers Marriages 047/3)](../sources/@9099898@-1910-gillie,-andrew-statutory-registers-marriages-047-3-.md)**
-
 ## Footnotes
 
 ### 1
@@ -55,6 +51,26 @@ Footnote | Source
   * 1881 M 051/8
 
 ### 2
+
+**1883 ROSS, WILLIAMINA (Statutory Registers Births 232/1 318)**
+
+* [Full text and notes](../sources/@42029146@-1883-ross,-williamina-statutory-registers-births-232-1-318-.md)
+* Date: 28/Aug/1883
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1883 B 232/1 318
+
+### 3
+
+**1883 ROSS, WILLIAMINA (Statutory Registers Births 047/37)**
+
+* [Full text and notes](../sources/@11033324@-1883-ross,-williamina-statutory-registers-births-047-37-.md)
+* Date: 28/Aug/1883
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1883 B 047/37
+
+### 4
 
 **1910 GILLIE, ANDREW (Statutory Registers Marriages 047/3)**
 

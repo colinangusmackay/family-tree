@@ -20,6 +20,11 @@ permalink: /people/i44546659
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1867 | Born | Born in Bramley, Yorkshire, England. | [1](#1) | 
+about 1887 | Marriage | Married to [Harriet](./@98128898@-harriet-b1867-d.md)  | [1](#1) | 
+about 1888 | Birth of son | [Harry Stead](./@68900898@-harry-stead-b1888-d.md) born to [William Stead](./@44546659@-william-stead-b1867-d.md) and [Harriet](./@98128898@-harriet-b1867-d.md) in Morley, Yorkshire, England. | [1](#1) | 
+about 1892 | Birth of daughter | [Emily Stead](./@58190216@-emily-stead-b1892-d.md) born to [William Stead](./@44546659@-william-stead-b1867-d.md) and [Harriet](./@98128898@-harriet-b1867-d.md) in Morley, Yorkshire, England. | [1](#1) | 
+1901 | Birth of son | [Albert Stead](./@51674188@-albert-stead-b1901-d.md) born to [William Stead](./@44546659@-william-stead-b1867-d.md) and [Harriet](./@98128898@-harriet-b1867-d.md) in Morley, Yorkshire, England. | [1](#1) | 
+about 1904 | Birth of daughter | [Laura Stead](./@67809808@-laura-stead-b1904-d.md) born to [William Stead](./@44546659@-william-stead-b1867-d.md) and [Harriet](./@98128898@-harriet-b1867-d.md) in Morley, Yorkshire, England. | [1](#1) | 
 
 ## Known Residences
 

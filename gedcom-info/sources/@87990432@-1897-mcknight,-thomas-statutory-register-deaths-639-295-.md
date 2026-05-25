@@ -65,5 +65,11 @@ Source Last Updated | 26/Jan/2023 22:37:25
 * Fleming
   * [Sarah Fleming](../people/@286084@-sarah-fleming-b-d1886.md) ( - before 1886)
 * McKnight
+  * [Lizzie McKnight](../people/@31828723@-lizzie-mcknight-b1891-d.md) (about 1891 - )
+  * [Nelly McKnight](../people/@63393644@-nelly-mcknight-b1896-d.md) (about 1896 - )
+  * [Richard McKnight](../people/@33327416@-richard-mcknight-b1895-4-27-d.md) (27/Apr/1895 - )
+  * [Susan McKnight](../people/@87185096@-susan-mcknight-b1889-d.md) (about 1889 - )
   * [Thomas McKnight](../people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md) (about 1856 - 8/Aug/1897)
   * [William McKnight](../people/@38388851@-william-mcknight-b-d1886.md) ( - before 1886)
+* Teevin
+  * [Margaret Teevin](../people/@7753096@-margaret-teevin-b1861-d.md) (about 1861 - )

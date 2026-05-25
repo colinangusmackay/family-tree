@@ -96,3 +96,5 @@ Source Last Updated | 16/Jan/2023 21:58:59
 * Napier
   * [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) (4/Nov/1872 - 18/Apr/1952)
   * [Alexander Napier](../people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md) (2/May/1913 - 25/Jun/1994)
+  * [David Napier](../people/@46994217@-david-napier-b1901-d.md) (about 1901 - )
+  * [John Napier](../people/@61882948@-john-napier-b1905-d.md) (about 1905 - )

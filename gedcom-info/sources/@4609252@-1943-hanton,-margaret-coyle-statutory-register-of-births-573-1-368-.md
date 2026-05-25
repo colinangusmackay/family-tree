@@ -20,4 +20,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [James Hanton](../people/@30630538@-james-hanton-b1907-d1975.md) (about 1907 - 1975)
+* Flood
+  * [Mary Elizabeth Flood](../people/@28471390@-mary-elizabeth-flood-b1921-d.md) (about 1921 - )
+* Hanton
+  * [James Hanton](../people/@30630538@-james-hanton-b1907-d1975.md) (about 1907 - 1975)

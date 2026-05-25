@@ -50,4 +50,8 @@ Source Last Updated | 4/Mar/2024 22:14:33
 
 ## Source Referenced by
 
-* [Donald Sutherland](../people/@6737165@-donald-sutherland-b1874-2-8-d.md) (8/Feb/1874 - )
+* MacDonald
+  * [Mary MacDonald](../people/@10426344@-mary-macdonald-b-d1900.md) ( - after 1900)
+* Sutherland
+  * [Andrew Sutherland](../people/@91612548@-andrew-sutherland-b-d1900.md) ( - after 1900)
+  * [Donald Sutherland](../people/@6737165@-donald-sutherland-b1874-2-8-d.md) (8/Feb/1874 - )

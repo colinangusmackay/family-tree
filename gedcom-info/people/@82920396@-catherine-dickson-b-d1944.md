@@ -21,6 +21,7 @@ permalink: /people/i82920396
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
+about 1916 | Birth of daughter | [Martha Russell](./@30062456@-martha-russell-b1916-d1963.md) born to [Alexander McGregor Russell](./@72370350@-alexander-mcgregor-russell-b-d.md) and [Catherine Dickson](./@82920396@-catherine-dickson-b-d1944.md). | [1](#1) | 
 before 1944 | Died | Died. | [1](#1) | 
 
 ## Footnotes

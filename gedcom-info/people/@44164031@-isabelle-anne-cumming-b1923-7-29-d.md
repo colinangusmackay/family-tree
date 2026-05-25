@@ -20,22 +20,25 @@ permalink: /people/i44164031
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 29/Jul/1923 | Born | Born to [Donald Cumming](./@11846578@-donald-cumming-b1891-11-11-d1967-12.md) and [Jessie Ann Cumming](./@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md) in Boston, Massachusetts, United States of America. | [1](#1), [2](#2), [3](#3) | 
+Dec/1967 | Death of father | [Donald Cumming](./@11846578@-donald-cumming-b1891-11-11-d1967-12.md) died. | [4](#4), [5](#5) | 
+16/Jan/1976 | Death of brother | [Donald James Cumming](./@42110198@-donald-james-cumming-b1922-1-19-d1976-1-16.md) died in Weymouth, Massachusetts, United States of America. | [6](#6), [7](#7), [8](#8), [9](#9), [10](#10) | 
+31/Oct/1978 | Death of mother | [Jessie Ann Cumming](./@66222886@-jessie-ann-cumming-b1893-1-8-d1978-10-31.md) died in Palm Beach, Florida, United States of America. | [11](#11), [12](#12) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1926 | 80 Summit Avenue, Brookline, Massachusetts, United States of America | [4](#4)
-1930 | 105 Franklin Street, Brookline, Massachusetts, USA | [5](#5)
+1926 | 80 Summit Avenue, Brookline, Massachusetts, United States of America | [13](#13)
+1930 | 105 Franklin Street, Brookline, Massachusetts, USA | [14](#14)
 1938 | 82 Floral St, Newton Highlands, Middlesex, Mass, USA | [1](#1)
-1941 | 19 Hillside Rd. Newton Highlands, Middlesex, Massachusetts, USA | [6](#6)
+1941 | 19 Hillside Rd. Newton Highlands, Middlesex, Massachusetts, USA | [15](#15)
 1942 | 19 Hillside Rd. Newton Highlands, MIddlesex, Massachusetts, USA | [3](#3)
-1976 | U.S. Embassy, Belgrade, Yugoslavia | [7](#7)
-1985 | American Embassy, San Francisco, California, United States of America | [8](#8)
+1976 | U.S. Embassy, Belgrade, Yugoslavia | [9](#9)
+1985 | American Embassy, San Francisco, California, United States of America | [16](#16)
 1987 | Lakeland, Polk County, Florida, United States of America | 
-1993 | 3803 Old Hy 25, Lakeland, Florida, United States of America | [8](#8)
-after 1993 | 217 Citrus Grove Bv, Polk City, Florida, United States of America | [8](#8)
-1996 | Lakeland, Polk County, Florida, United States of America | [9](#9)
+1993 | 3803 Old Hy 25, Lakeland, Florida, United States of America | [16](#16)
+after 1993 | 217 Citrus Grove Bv, Polk City, Florida, United States of America | [16](#16)
+1996 | Lakeland, Polk County, Florida, United States of America | [17](#17)
 
 ## Footnotes
 
@@ -62,26 +65,43 @@ after 1993 | 217 Citrus Grove Bv, Polk City, Florida, United States of America |
 
 ### 4
 
-**1926 CUMMING, JESSIE ANN; DONALD; ISABELLA (List or Manifest of Alien Passengers for the United States Immigration Officer at Port of Arrival)**
+**1967 CUMMING, DONALD - Find a grave**
 
-* [Full text and notes](../sources/@34240320@-1926-cumming,-jessie-ann;-donald;-isabella-list-or-manifest-of-alien-passengers-for-the-united-stat….md)
+* [Full text and notes](../sources/@66056354@-1967-cumming,-donald-find-a-grave.md)
+* Publication: [https://www.findagrave.com/memorial/195703158](https://www.findagrave.com/memorial/195703158)
+* Date: 1967
 
 ### 5
 
-**1930 CUMMING DONALD, JESSIE, DONALD J, ISABELLA A - 1930 Federal Census**
+**1967 CUMMING, DONALD - U.S. Social Security Death Index**
 
-* [Full text and notes](../sources/@45728686@-1930-cumming-donald,-jessie,-donald-j,-isabella-a-1930-federal-census.md)
-* Publication: Federal Census
-* Date: 1930
+* [Full text and notes](../sources/@58880914@-1967-cumming,-donald-u.s.-social-security-death-index.md)
+* Date: Dec/1967
 
 ### 6
 
-**1941 CUMMING, ISABEL ANN (U.S., School Yearbooks, 1900-1999)**
+**1976 CUMMING, DONALD J - Billion Graves**
 
-* [Full text and notes](../sources/@89688603@-1941-cumming,-isabel-ann-u.s.,-school-yearbooks,-1900-1999-.md)
-* Publication: U.S., School Yearbooks, 1900-1999
+* [Full text and notes](../sources/@70188431@-1976-cumming,-donald-j-billion-graves.md)
+* Publication: BillionGraves.com
+* Date: 1976
+* References: 
+  * (URL) https://billiongraves.com/grave/Donald-J-Cumming/7644409
 
 ### 7
+
+**1976 CUMMING, DONALD JAMES - Massachusetts, Death Index**
+
+* [Full text and notes](../sources/@32789084@-1976-cumming,-donald-james-massachusetts,-death-index.md)
+
+### 8
+
+**1976 CUMMING, DONALD JAMES - Massachusetts, Mason Membership Cards**
+
+* [Full text and notes](../sources/@9502172@-1976-cumming,-donald-james-massachusetts,-mason-membership-cards.md)
+* Date: 1976
+
+### 9
 
 **1976 X, DONALD JAMES - Obituary, The Boston Globe**
 
@@ -89,14 +109,59 @@ after 1993 | 217 Citrus Grove Bv, Polk City, Florida, United States of America |
 * Publication: The Boston Globe
 * Date: 17/Jan/1976
 
-### 8
+### 10
+
+**2018 X, PHYLIS MARTENSEN (legacy.com)**
+
+* [Full text and notes](../sources/@82326377@-2018-cumming,-phylis-martensen-legacy.com-.md)
+* References: 
+  * (URL) https://www.legacy.com/us/obituaries/wickedlocal-weymouth/name/phylis-cumming-obituary?n=phylis-cumming&pid=188510819
+
+### 11
+
+**1978 CUMMING, JESSIE A. - Find a grave**
+
+* [Full text and notes](../sources/@11068570@-1978-cumming,-jessie-a.-find-a-grave.md)
+* Publication: [https://www.findagrave.com](https://www.findagrave.com)
+* Date: 1978
+* References: 
+  * (URL) https://www.findagrave.com/memorial/195703159
+
+### 12
+
+**1978 CUMMING, JESSIE ANN - Florida Death Index**
+
+* [Full text and notes](../sources/@32256946@-1978-cumming,-jessie-ann-florida-death-index.md)
+
+### 13
+
+**1926 CUMMING, JESSIE ANN; DONALD; ISABELLA (List or Manifest of Alien Passengers for the United States Immigration Officer at Port of Arrival)**
+
+* [Full text and notes](../sources/@34240320@-1926-cumming,-jessie-ann;-donald;-isabella-list-or-manifest-of-alien-passengers-for-the-united-stat….md)
+
+### 14
+
+**1930 CUMMING DONALD, JESSIE, DONALD J, ISABELLA A - 1930 Federal Census**
+
+* [Full text and notes](../sources/@45728686@-1930-cumming-donald,-jessie,-donald-j,-isabella-a-1930-federal-census.md)
+* Publication: Federal Census
+* Date: 1930
+
+### 15
+
+**1941 CUMMING, ISABEL ANN (U.S., School Yearbooks, 1900-1999)**
+
+* [Full text and notes](../sources/@89688603@-1941-cumming,-isabel-ann-u.s.,-school-yearbooks,-1900-1999-.md)
+* Publication: U.S., School Yearbooks, 1900-1999
+
+### 16
 
 **CUMMING, ISABEL A (U.S., Public Records Index, 1950-1993, Volume 1)**
 
 * [Full text and notes](../sources/@88475936@-cumming,-isabel-a-u.s.,-public-records-index,-1950-1993,-volume-1-.md)
 * Publication: U.S., Public Records Index, 1950-1993, Volume 1
 
-### 9
+### 17
 
 **1996 CUMMING, CHRISTINE (Letter from Isabel Cumming to Hamish Mackay)**
 

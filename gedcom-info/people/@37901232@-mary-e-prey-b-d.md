@@ -16,11 +16,11 @@ permalink: /people/i37901232
 * Partner: [Barney Predendall](./@69952770@-barney-predendall-b-d.md)
 * Daughter: [Carrie Elizabeth Predendall](./@2361090@-carrie-elizabeth-predendall-b1901-d.md) (about 1901 - )
 
-## Additional Sources
+## Timeline
 
-Footnote | Source
----|---
-[1](#1) | **[1924 CUMMING, JOHN & PREDENDALL, CARRIE (New York, U.S., County Marriage Records)](../sources/@6485546@-1924-cumming,-john-&-predendall,-carrie-new-york,-u.s.,-county-marriage-records-.md)**
+Date | Item | Description | Sources | Notes
+---|---|---|---|---
+about 1901 | Birth of daughter | [Carrie Elizabeth Predendall](./@2361090@-carrie-elizabeth-predendall-b1901-d.md) born to [Barney Predendall](./@69952770@-barney-predendall-b-d.md) and [Mary E Prey](./@37901232@-mary-e-prey-b-d.md). | [1](#1) | 
 
 ## Footnotes
 

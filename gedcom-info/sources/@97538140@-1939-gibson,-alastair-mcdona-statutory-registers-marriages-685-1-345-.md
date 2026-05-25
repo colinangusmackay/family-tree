@@ -82,6 +82,9 @@ Source Last Updated | 27/Dec/2020 18:16:55
 * Gibson
   * [Alastair McDonald Gibson](../people/@3963708@-alastair-mcdonald-gibson-b1914-1-19-d1978.md) (19/Jan/1914 - 1978)
   * [Alexander Gibson](../people/@21968540@-alexander-gibson-b1860-d1939.md) (1860 - before 1939)
+  * [Hugh Gibson](../people/@22004930@-hugh-gibson-b-d.md)
+* MacDonald
+  * [Margaret MacDonald](../people/@5053655@-margaret-macdonald-b-d.md)
 * McIver
   * [Margaret McKenzie McIver](../people/@24380064@-margaret-mckenzie-mciver-b1917-9-29-d2015-9-12.md) (29/Sep/1917 - 12/Sep/2015)
 * Wilson

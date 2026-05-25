@@ -21,6 +21,7 @@ permalink: /people/i8567159
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
+about 1909 | Birth of son | [John Blue Watson](./@31857508@-john-blue-watson-b1909-d1963-6-9.md) born to [John Watson](./@40547424@-john-watson-b-d1963.md) and [Katherine Bode](./@8567159@-katherine-bode-b-d1930.md). | [1](#1) | 
 before 1930 | Died | Died. | [1](#1) | 
 
 ## Footnotes

@@ -48,5 +48,10 @@ Source Last Updated | 5/Apr/2026 23:07:10
 
 ## Source Referenced by
 
-* [Thomas Mitchell](../people/@47829915@-thomas-mitchell-b1860-d.md) (1860 - )
-* [Thomas Mitchell](../people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md) (2/Feb/1891 - 4/May/1972)
+* Black
+  * [Mary Ann Black](../people/@94950024@-mary-ann-black-b1861-d.md) (1861 - )
+* Mitchell
+  * [Robert Mitchell](../people/@86070232@-robert-mitchell-b1886-d.md) (1886 - )
+  * [Thomas Mitchell](../people/@47829915@-thomas-mitchell-b1860-d.md) (1860 - )
+  * [Thomas Mitchell](../people/@65815518@-thomas-mitchell-b1891-2-2-d1972-5-4.md) (2/Feb/1891 - 4/May/1972)
+  * [Violet Mitchell](../people/@73739848@-violet-mitchell-b1889-d.md) (1889 - )

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i66882518",
+    "Name": "Elizabeth Irvine",
+    "Gender": "Female",
+    "DateOfBirth": "",
+    "DateOfDeath": "after 1866"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i66882518",
+      "Name": "Elizabeth Irvine",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1866",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i97711748",
+      "Name": "Alexander Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1866",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i89232476",
+      "Name": "David Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "7/Apr/1843",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i97711748",
+        "i66882518"
+      ]
+    }
+  ]
+}

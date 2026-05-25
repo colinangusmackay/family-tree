@@ -21,6 +21,11 @@ permalink: /people/i34933754
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1851 | Born | Born to [John O'Malley](./@50797152@-john-o'malley-b-d1889.md) and [Catherine O'Malley](./@76642956@-catherine-o'malley-b-d.md) in , Ireland. | [1](#1) | 
+about 1880 | Birth of son | [Patrick O'Malley](./@39412375@-patrick-o'malley-b1880-d.md) born to [Michael O'Malley](./@34933754@-michael-o'malley-b1851-d.md) and [Catherine McBride](./@24941331@-catherine-mcbride-b1865-d.md) in Glasgow, Scotland. | [1](#1) | 
+about 1882 | Birth of daughter | [Bridget O'Malley](./@26923306@-bridget-o'malley-b1882-d.md) born to [Michael O'Malley](./@34933754@-michael-o'malley-b1851-d.md) and [Catherine McBride](./@24941331@-catherine-mcbride-b1865-d.md) in Glasgow, Scotland. | [1](#1) | 
+before 1889 | Death of father | [John O'Malley](./@50797152@-john-o'malley-b-d1889.md) died. | [2](#2) | 
+22/Apr/1889 | Marriage | Married to [Catherine McBride](./@24941331@-catherine-mcbride-b1865-d.md) in Glasgow, Scotland | [2](#2), [3](#3) | 
+4/Jan/1890 | Birth of son | [Edward O'Malley](./@76741424@-edward-o'malley-b1890-1-4-d.md) born to [Michael O'Malley](./@34933754@-michael-o'malley-b1851-d.md) and [Catherine McBride](./@24941331@-catherine-mcbride-b1865-d.md) in Glasgow, Scotland. | [3](#3), [4](#4) | 
 
 ## Known Residences
 

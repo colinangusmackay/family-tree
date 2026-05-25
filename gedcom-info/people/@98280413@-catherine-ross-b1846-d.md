@@ -28,6 +28,13 @@ permalink: /people/i98280413
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1846 | Born | Born to [John Ross](./@29351958@-john-ross-b-d.md) and [Ann Cumming](./@19882075@-ann-cumming-b-d.md). | [1](#1), [2](#2) | 
+15/Dec/1865 | Marriage | Married to [Alexander Ross](./@17311533@-alexander-ross-b1843-d.md) in Little Ferry, Sutherland, Scotland | [1](#1) | 
+1/Nov/1866 | Birth of daughter | [Marion Ross](./@75416110@-marion-ross-b1866-11-1-d1888-8-19.md) born to [Alexander Ross](./@17311533@-alexander-ross-b1843-d.md) and [Catherine Ross](./@98280413@-catherine-ross-b1846-d.md) in Embo, Sutherland, Scotland. | [2](#2), [3](#3) | 
+23/Aug/1868 | Birth of son | [John Ross](./@16505504@-john-ross-b1868-8-23-d1905-11-20.md) born to [Alexander Ross](./@17311533@-alexander-ross-b1843-d.md) and [Catherine Ross](./@98280413@-catherine-ross-b1846-d.md) in Embo, Sutherland, Scotland. | [2](#2), [4](#4) | 
+30/Aug/1872 | Birth of son | [Donald Ross](./@4496220@-donald-ross-b1872-8-30-d.md) born to [Alexander Ross](./@17311533@-alexander-ross-b1843-d.md) and [Catherine Ross](./@98280413@-catherine-ross-b1846-d.md) in Embo, Sutherland, Scotland. | [5](#5) | 
+19/Aug/1888 | Death of daughter | [Marion Ross](./@75416110@-marion-ross-b1866-11-1-d1888-8-19.md) died in Hayes Township, Charlevoix County, Michigan, United States of America. | [6](#6) | 
+20/Nov/1905 | Death of son | [John Ross](./@16505504@-john-ross-b1868-8-23-d1905-11-20.md) died in Boyne City, Charlevoix County, Michigan, United States of America. | [7](#7) | 
+22/Nov/1905 | Burial of son | [John Ross](./@16505504@-john-ross-b1868-8-23-d1905-11-20.md) was buried in Boyne City, Charlevoix County, Michigan, United States of America. | [7](#7) | 
 
 ## Known Residences
 
@@ -61,4 +68,45 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1871 C 047/ 1/L 9 (40)
+
+### 3
+
+**1866 ROSS, MARION (Statutory Registers Births 047/ 57)**
+
+* [Full text and notes](../sources/@5071712@-1866-ross,-marion-statutory-registers-births-047-57-.md)
+* Date: 5/Nov/1866
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1866 B 047/ 57
+
+### 4
+
+**1868 ROSS, JOHN (Statutory Register Births 047/ 44)**
+
+* [Full text and notes](../sources/@69616292@-1868-ross,-john-statutory-register-births-047-44-.md)
+* Date: 7/Sep/1868
+* References: 
+  * 1868 B 047/ 44
+
+### 5
+
+**1872 ROSS, DONALD (Statutory Register Births 047/ 42)**
+
+* [Full text and notes](../sources/@56763929@-1872-ross,-donald-statutory-register-births-047-42-.md)
+* Date: 18/Sep/1872
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1872 B 047/ 42
+
+### 6
+
+**1888 SUNDERLAND, MARY (Michigan Death Records)**
+
+* [Full text and notes](../sources/@32982872@-1888-sunderland,-mary-michigan-death-records-.md)
+
+### 7
+
+**1905 ROSS, JOHN (Michigan Death Records)**
+
+* [Full text and notes](../sources/@61881714@-1905-ross,-john-michigan-death-records-.md)
 

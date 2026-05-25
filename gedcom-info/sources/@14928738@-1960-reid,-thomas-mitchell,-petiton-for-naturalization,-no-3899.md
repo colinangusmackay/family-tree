@@ -98,4 +98,8 @@ Source Last Updated | 24/Mar/2022 14:08:23
 
 ## Source Referenced by
 
-* [Thomas Mitchell Reid](../people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md) (14/Jan/1893 - 10/May/1974)
+* Reid
+  * [John Reid](../people/@95320597@-john-reid-b-d.md)
+  * [Thomas Mitchell Reid](../people/@2617088@-thomas-mitchell-reid-b1893-1-14-d1974-5-10.md) (14/Jan/1893 - 10/May/1974)
+* Russell
+  * [Agnes Russell](../people/@37924612@-agnes-russell-b-d.md)

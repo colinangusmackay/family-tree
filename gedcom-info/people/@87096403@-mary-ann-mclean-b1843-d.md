@@ -28,6 +28,15 @@ permalink: /people/i87096403
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1843 | Born | Born in Invergordon, Rossshire, Scotland. | [1](#1), [2](#2) | 
+3/Oct/1866 | Marriage | Married to [David Wilson](./@15598112@-david-wilson-b1841-3-22-d.md) in Invergordon, Rossshire, Scotland | [1](#1), [3](#3) | 
+about 1868 | Birth of daughter | [Henrietta Wilson](./@47880504@-henrietta-wilson-b1868-d.md) born to [David Wilson](./@15598112@-david-wilson-b1841-3-22-d.md) and [Mary Ann McLean](./@87096403@-mary-ann-mclean-b1843-d.md) in London, England. | [2](#2) | 
+about 1869 | Birth of daughter | [Annie Wilson](./@8935795@-annie-wilson-b1869-d.md) born to [David Wilson](./@15598112@-david-wilson-b1841-3-22-d.md) and [Mary Ann McLean](./@87096403@-mary-ann-mclean-b1843-d.md) in Golspie, Sutherland, Scotland. | [2](#2) | 
+about 1870 | Birth of son | [James Wilson](./@59901376@-james-wilson-b1870-d.md) born to [David Wilson](./@15598112@-david-wilson-b1841-3-22-d.md) and [Mary Ann McLean](./@87096403@-mary-ann-mclean-b1843-d.md) in Golspie, Sutherland, Scotland. | [2](#2) | 
+about 1872 | Birth of son | [Mary Wilson](./@23013592@-mary-wilson-b1872-d.md) born to [David Wilson](./@15598112@-david-wilson-b1841-3-22-d.md) and [Mary Ann McLean](./@87096403@-mary-ann-mclean-b1843-d.md) in Golspie, Sutherland, Scotland. | [4](#4) | 
+31/Oct/1872 | Birth of daughter | [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b1872-10-31-d1942.md) born to [David Wilson](./@15598112@-david-wilson-b1841-3-22-d.md) and [Mary Ann McLean](./@87096403@-mary-ann-mclean-b1843-d.md) in Golspie, Sutherland, Scotland. | [3](#3), [5](#5), [6](#6) | 
+about 1875 | Birth of daughter | [Alice Wilson](./@71120788@-alice-wilson-b1875-d.md) born to [David Wilson](./@15598112@-david-wilson-b1841-3-22-d.md) and [Mary Ann McLean](./@87096403@-mary-ann-mclean-b1843-d.md) in Golspie, Sutherland, Scotland. | [4](#4) | 
+about 1880 | Birth of son | [David Wilson](./@97100177@-david-wilson-b1880-d.md) born to [David Wilson](./@15598112@-david-wilson-b1841-3-22-d.md) and [Mary Ann McLean](./@87096403@-mary-ann-mclean-b1843-d.md) in Golspie, Sutherland, Scotland. | [4](#4) | 
+about 1942 | Death of daughter | [Elizabeth Wilson](./@71295041@-elizabeth-wilson-b1872-10-31-d1942.md) died. | [6](#6) | 
 
 ## Known Residences
 
@@ -43,12 +52,6 @@ Date | Residence | Sources & Notes
 Date | Occupation | Sources & Notes
 ---|---|---
 1866 | Domestic Servant | [1](#1)
-
-## Additional Sources
-
-Footnote | Source
----|---
-[5](#5) | **[1897 GIBSON, ALEXANDER; WILSON; ELIZABETH (Statutory Register of Marriages 051/ 4)](../sources/@25441996@-1897-gibson,-alexander;-wilson;-elizabeth-statutory-register-of-marriages-051-4-.md)**
 
 ## Footnotes
 
@@ -101,4 +104,15 @@ Footnote | Source
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1897 M 051/ 4
+
+### 6
+
+**2005 X, NORMAN (Brora - Time and change in a Highland village - a photographic portrait by Norman X)**
+
+* [Full text and notes](../sources/@81726947@-2005-gibson,-norman-brora-time-and-change-in-a-highland-village-a-photographic-portrait-by-norman-g….md)
+* Publication: Brora - Time and change in a Highland village - a photographic portrait
+* Originator / Author: Norman X
+* Date: 2005
+* References: 
+  * (ISBN) 0-9538642-1-9
 

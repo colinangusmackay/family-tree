@@ -20,4 +20,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [Jessie MacDonald](../people/@97412403@-jessie-macdonald-b1869-7-7-d1941-2-12.md) (7/Jul/1869 - 12/Feb/1941)
+* MacDonald
+  * [Jessie MacDonald](../people/@97412403@-jessie-macdonald-b1869-7-7-d1941-2-12.md) (7/Jul/1869 - 12/Feb/1941)
+* Sutherland
+  * [Donald Sutherland](../people/@6737165@-donald-sutherland-b1874-2-8-d.md) (8/Feb/1874 - )

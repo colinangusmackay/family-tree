@@ -24,6 +24,7 @@ permalink: /people/i29868878
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1858 | Born | Born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Cupar, Fife, Scotland, . | [1](#1) | 
+1860 | Birth of sister | [Catherine Ramsay](./@12774174@-catherine-ramsay-b1860-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [1](#1) | 
 
 ## Known Residences
 

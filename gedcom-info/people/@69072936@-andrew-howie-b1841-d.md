@@ -23,7 +23,17 @@ permalink: /people/i69072936
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1841 | Born | Born to [Peter Howie](./@40872746@-peter-howie-b1803-5-d1876-3-5.md) and [Jane Yule](./@52047082@-jane-yule-b1817-12-13-d1898-3-17.md). | [1](#1) | 
+27/Jul/1843 | Birth of sister | [Margaret Howie](./@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md) born to [Peter Howie](./@40872746@-peter-howie-b1803-5-d1876-3-5.md) and [Jane Yule](./@52047082@-jane-yule-b1817-12-13-d1898-3-17.md) in Banchory Devenick, Aberdeenshire, Scotland. | [2](#2), [3](#3) | 
+about 1845 | Birth of sister | [Betty Howie](./@95875652@-betty-howie-b1845-d.md) born to [Peter Howie](./@40872746@-peter-howie-b1803-5-d1876-3-5.md) and [Jane Yule](./@52047082@-jane-yule-b1817-12-13-d1898-3-17.md) in Banchory Devenick, Aberdeenshire, Scotland. | [1](#1) | 
+about 1847 | Birth of brother | [William Howie](./@26502369@-william-howie-b1847-d.md) born to [Peter Howie](./@40872746@-peter-howie-b1803-5-d1876-3-5.md) and [Jane Yule](./@52047082@-jane-yule-b1817-12-13-d1898-3-17.md) in Banchory Devenick, Aberdeenshire, Scotland. | [1](#1) | 
+1851 | Birth of sister | [Jean Howie](./@87788832@-jean-howie-b1851-d.md) born to [Peter Howie](./@40872746@-peter-howie-b1803-5-d1876-3-5.md) and [Jane Yule](./@52047082@-jane-yule-b1817-12-13-d1898-3-17.md) in Banchory Devenick, Aberdeenshire, Scotland. | [1](#1) | 
 30/Mar/1851 | Census | Census | [1](#1) | 
+about 1854 | Birth of brother | [George Howie](./@13337194@-george-howie-b1854-d.md) born to [Peter Howie](./@40872746@-peter-howie-b1803-5-d1876-3-5.md) and [Jane Yule](./@52047082@-jane-yule-b1817-12-13-d1898-3-17.md) in Portlethen, Aberdeenshire, Scotland. | [4](#4) | 
+5/Mar/1876 | Death of father | [Peter Howie](./@40872746@-peter-howie-b1803-5-d1876-3-5.md) died in Aberdeen, Aberdeenshire, Scotland. | [5](#5) | 
+8/Mar/1876 | Burial of father | [Peter Howie](./@40872746@-peter-howie-b1803-5-d1876-3-5.md) was buried in Aberdeen, Aberdeenshire, Scotland. | [6](#6) | 
+17/Mar/1898 | Death of mother | [Jane Yule](./@52047082@-jane-yule-b1817-12-13-d1898-3-17.md) died in Aberdeen, Aberdeenshire, Scotland. | [7](#7) | 
+21/Mar/1898 | Burial of mother | [Jane Yule](./@52047082@-jane-yule-b1817-12-13-d1898-3-17.md) was buried in Aberdeen, Aberdeenshire, Scotland. | [7](#7), [8](#8) | 
+26/Jan/1915 | Death of sister | [Margaret Howie](./@14673281@-margaret-howie-b1843-7-27-d1915-1-26.md) died in Aberdeen, Aberdeenshire, Scotland. | [3](#3) | 
 
 ## Known Residences
 
@@ -40,4 +50,59 @@ Date | Residence | Sources & Notes
 * [Full text and notes](../sources/@58987300@-1851-howie,-peter-&-household-1851-census-.md)
 * Date: 30/Mar/1851
 * Responsible Agency: National Records of Scotland
+
+### 2
+
+**1843 HOWIE, MARGARET (Old Parish Records)**
+
+* [Full text and notes](../sources/@28203601@-1843-howie,-margaret-old-parish-records-.md)
+* Responsible Agency: National Records of Scotland
+
+### 3
+
+**1915 HOWIE, MARGARET (Statutory Register of Deaths 168/1 127)**
+
+* [Full text and notes](../sources/@50188171@-1915-howie,-margaret-statutory-register-of-deaths-168-1-127-.md)
+* Date: 28/Jan/1915
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1915 D 168/1 127
+
+### 4
+
+**1861 HOWIE, PETER & HOUSEHOLD (1861 Census)**
+
+* [Full text and notes](../sources/@11691294@-1861-howie,-peter-&-household-1861-census-.md)
+* Date: 7/Apr/1861
+* Responsible Agency: National Records of Scotland
+
+### 5
+
+**1876 HOWIE, PETER (Find a Grave)**
+
+* [Full text and notes](../sources/@13037215@-1876-howie,-peter-find-a-grave-.md)
+* References: 
+  * (URL) https://www.findagrave.com/memorial/287859044/peter-howie
+
+### 6
+
+**1876 HOWIE, PETER (Burial Registers, Aberdeenshire)**
+
+* [Full text and notes](../sources/@70374712@-1876-howie,-peter-burial-registers,-aberdeenshire-.md)
+
+### 7
+
+**1898 HOWIE, JANE (Aberdeen Press and Journal via Find a Grave)**
+
+* [Full text and notes](../sources/@98897856@-1898-howie,-jane-aberdeen-press-and-journal-via-find-a-grave-.md)
+* Publication: Aberdeen Press and Journal
+* Date: 23/Mar/1898
+* References: 
+  * (URL) https://www.findagrave.com/memorial/287859100/jane-howie
+
+### 8
+
+**1898 YULE, JANE (Burial Registers, Aberdeenshire, Scotland)**
+
+* [Full text and notes](../sources/@75242948@-1898-yule,-jane-burial-registers,-aberdeenshire,-scotland-.md)
 

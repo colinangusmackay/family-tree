@@ -50,5 +50,8 @@ Source Last Updated | 7/Apr/2026 21:10:16
 
 ## Source Referenced by
 
-* [Janet Balfour Dalrymple](../people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md) (16/Dec/1875 - 2/Mar/1960)
-* [John Dalrymple](../people/@90699645@-john-dalrymple-b-d.md)
+* Buchanan
+  * [Janet Buchanan](../people/@48339564@-janet-buchanan-b-d.md)
+* Dalrymple
+  * [Janet Balfour Dalrymple](../people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md) (16/Dec/1875 - 2/Mar/1960)
+  * [John Dalrymple](../people/@90699645@-john-dalrymple-b-d.md)

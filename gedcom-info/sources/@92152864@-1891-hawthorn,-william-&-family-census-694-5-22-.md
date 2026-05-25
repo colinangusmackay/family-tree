@@ -155,5 +155,8 @@ Source Last Updated | 19/Jan/2023 21:40:11
   * [Robert Hawthorn](../people/@91501446@-robert-hawthorn-b1875-d.md) (about 1875 - )
   * [Thomas Hawthorn](../people/@30039040@-thomas-hawthorn-b1888-6-28-d1946.md) (28/Jun/1888 - before 1946)
   * [William Hawthorn](../people/@92463484@-william-hawthorn-b1847-d1921.md) (about 1847 - before 1921)
+* Macauley
+  * [Catherine Macauley](../people/@40946328@-catherine-macauley-b-d1884.md) ( - before 1884)
 * O'Donnell
+  * [Edward O'Donnell](../people/@4921696@-edward-o'donnell-b-d1884.md) ( - before 1884)
   * [Hannah O'Donnell](../people/@64641527@-hannah-o'donnell-b1857-d1921.md) (about 1857 - before 1921)

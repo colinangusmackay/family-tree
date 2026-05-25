@@ -23,6 +23,7 @@ permalink: /people/i39137337
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1896 | Born | Born to [James Fisher](./@22540348@-james-fisher-b1854-d.md) and [Margaret Dickson Seaton](./@45571672@-margaret-dickson-seaton-b1856-d.md) in Edinburgh, Scotland. | [1](#1) | 
+6/Jun/1953 | Death of sister | [Helen Currie Fisher](./@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md) died in Edinburgh, Scotland. | [2](#2) | 
 
 ## Known Residences
 
@@ -40,4 +41,13 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1901 C 685/5 25/ 4
+
+### 2
+
+**1953 RAMSAY, HELEN CURRIE (Statutory Register Deaths 685/3 309)**
+
+* [Full text and notes](../sources/@76279830@-1953-ramsay,-helen-currie-statutory-register-deaths-685-3-309-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1953 D 685/3 309
 

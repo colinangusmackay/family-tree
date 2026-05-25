@@ -69,8 +69,13 @@ Source Last Updated | 24/Jun/2022 12:53:37
 
 * Chisholm
   * [Anne Chisholm](../people/@48064613@-anne-chisholm-b-d1877.md) ( - before 1877)
+* MacLean
+  * [Janet MacLean](../people/@4850940@-janet-maclean-b1839-d.md) (about 1839 - )
 * McLean
+  * [Annie McLean](../people/@68658880@-annie-mclean-b1835-d.md) (about 1835 - )
+  * [Christy McLean](../people/@62955988@-christy-mclean-b1846-d.md) (about 1846 - )
   * [John McLean](../people/@91397610@-john-mclean-b-d1877.md) ( - after 1877)
+  * [Mary McLean](../people/@45920386@-mary-mclean-b1849-d.md) (about 1849 - )
 * Morrison
   * [John Morrison](../people/@39757210@-john-morrison-b-d1877.md) ( - before 1877)
   * [Mary Morrison](../people/@18316154@-mary-morrison-b1805-d1877-10-23.md) (about 1805 - 23/Oct/1877)

@@ -16,11 +16,11 @@ permalink: /people/i79435398
 * Partner: [Harvey McLean](./@70471714@-harvey-mclean-b-d.md)
 * Son: [Arthur Fred McLean](./@56292410@-arthur-fred-mclean-b1901-d.md) (about 1901 - )
 
-## Additional Sources
+## Timeline
 
-Footnote | Source
----|---
-[1](#1) | **[1930 MCLEAN/GRANT (Michigan, U.S., Marriage Records, 1867-1952)](../sources/@60304245@-1930-mclean-grant-michigan,-u.s.,-marriage-records,-1867-1952-.md)**
+Date | Item | Description | Sources | Notes
+---|---|---|---|---
+about 1901 | Birth of son | [Arthur Fred McLean](./@56292410@-arthur-fred-mclean-b1901-d.md) born to [Harvey McLean](./@70471714@-harvey-mclean-b-d.md) and [Clara Sherwood](./@79435398@-clara-sherwood-b-d.md) in Waterville, Estrie, Quebec, Canada. | [1](#1) | 
 
 ## Footnotes
 

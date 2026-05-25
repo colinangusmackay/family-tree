@@ -11,9 +11,18 @@
       "Name": "Mary Bowie Sloan",
       "Gender": "Female",
       "Relationship": "daughter",
-      "DateOfBirth": "about 1879",
+      "DateOfBirth": "about Feb/1879",
       "DateOfDeath": "",
       "Children": [
+        {
+          "Id": "i16272572",
+          "Name": "David Gilchrist",
+          "Gender": "Male",
+          "Relationship": "son",
+          "DateOfBirth": "about Nov/1901",
+          "DateOfDeath": "",
+          "Children": []
+        },
         {
           "Id": "i43287262",
           "Name": "James Gilchrist",

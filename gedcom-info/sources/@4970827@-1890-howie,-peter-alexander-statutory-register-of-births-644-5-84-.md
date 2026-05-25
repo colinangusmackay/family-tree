@@ -51,5 +51,6 @@ Source Last Updated | 3/May/2026 21:48:15
 * Boyle
   * [Annie Boyle](../people/@30556026@-annie-boyle-b1863-d1905-5-8.md) (about 1863 - 8/May/1905)
 * Howie
+  * [Annie McKinlay Howie](../people/@70255077@-annie-mckinlay-howie-b1887-d.md) (about 1887 - )
   * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-1-15-d.md) (15/Jan/1890 - )
   * [Peter Howie](../people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md) (9/Feb/1861 - 20/Apr/1944)

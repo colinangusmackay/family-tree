@@ -25,17 +25,55 @@ permalink: /people/i8049072
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
+Dec/1855 | Marriage | Married to [John Gillie](./@95851656@-john-gillie-b-d1901.md) in Lamberton, Berwickshire, Scotland | [1](#1) | 
+about 1859 | Birth of son | [John Gillie](./@49104732@-john-gillie-b1859-d1881-10-14.md) born to [John Gillie](./@95851656@-john-gillie-b-d1901.md) and [Elisabeth Pritchard](./@8049072@-elisabeth-pritchard-b-d1910.md). | [2](#2), [3](#3) | 
+28/Dec/1868 | Birth of son | [Andrew Gillie](./@60068056@-andrew-gillie-b1868-12-28-d.md) born to [John Gillie](./@95851656@-john-gillie-b-d1901.md) and [Elisabeth Pritchard](./@8049072@-elisabeth-pritchard-b-d1910.md) in Eyemouth, Berwickshire, Scotland. | [1](#1), [4](#4), [5](#5) | [6](#6)
+about 1877 | Birth of daughter | [Jane Gillie](./@33381968@-jane-gillie-b1877-d.md) born to [John Gillie](./@95851656@-john-gillie-b-d1901.md) and [Elisabeth Pritchard](./@8049072@-elisabeth-pritchard-b-d1910.md). | [4](#4) | 
+about 1878 | Birth of son | [William Gillie](./@42722433@-william-gillie-b1878-d.md) born to [John Gillie](./@95851656@-john-gillie-b-d1901.md) and [Elisabeth Pritchard](./@8049072@-elisabeth-pritchard-b-d1910.md). | [4](#4) | 
+about 1881 | Birth of son | [Alexander Gillie](./@44750545@-alexander-gillie-b1881-d.md) born to [John Gillie](./@95851656@-john-gillie-b-d1901.md) and [Elisabeth Pritchard](./@8049072@-elisabeth-pritchard-b-d1910.md). | [4](#4) | 
+14/Oct/1881 | Death of son | [John Gillie](./@49104732@-john-gillie-b1859-d1881-10-14.md) died in German Ocean, . | [3](#3), [7](#7), [8](#8), [9](#9) | 
+before 1901 | Death of partner | [John Gillie](./@95851656@-john-gillie-b-d1901.md) died. |  | 
 before 1910 | Died | Died. |  | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1901 | Eyemouth, Berwickshire, Scotland | [1](#1)
+1901 | Eyemouth, Berwickshire, Scotland | [4](#4)
 
 ## Footnotes
 
 ### 1
+
+**1869 GILLIE, ANDREW (Statutory Registers Births)**
+
+* [Full text and notes](../sources/@97661476@-1869-gillie,-andrew-statutory-registers-births-.md)
+* Date: 11/Jan/1869
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1869 B 739/4
+
+### 2
+
+**1880 GILLIE, JOHN (Statutory Registers Marriages 739/5)**
+
+* [Full text and notes](../sources/@81071154@-1880-gillie,-john-statutory-registers-marriages-739-5-.md)
+* Date: 27/May/1880
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1880 M 739/5
+
+### 3
+
+**1881 GILLIE, JOHN (Statutory Registers Deaths 739/68)**
+
+* [Full text and notes](../sources/@55946769@-1881-gillie,-john-statutory-registers-deaths-739-68-.md)
+* Date: 21/Oct/1881
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1881 D 739/68
+
+### 4
 
 **1901 GILLIE, ANDREW (Census 739/2/20)**
 
@@ -44,4 +82,50 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * C 739/2/20
+
+### 5
+
+**1910 GILLIE, ANDREW (Statutory Registers Marriages 047/3)**
+
+* [Full text and notes](../sources/@9099898@-1910-gillie,-andrew-statutory-registers-marriages-047-3-.md)
+* Date: 15/Jan/1910
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1910 M 047/3
+
+### 6
+
+> Census says he's 33 in 1901 (thus 1868)
+>
+> Marriage registration says 36 in 1910 (thus 1874)
+>
+> Birth registration say 1868 (but registered in 1869)
+>
+
+
+### 7
+
+**1881 EYEMOUTH DISASTER (Glasgow Herald)**
+
+* [Full text and notes](../sources/@77118931@-1881-eyemouth-disaster-glasgow-herald-.md)
+* Publication: Glasgow Herald
+* Date: 19/Oct/1881
+
+### 8
+
+**Eyemouth Disaster**
+
+* [Full text and notes](../sources/@25060303@-eyemouth-disaster.md)
+* Publication: Wikipedia
+* References: 
+  * (https://en.wikipedia.org/wiki/Eyemouth_disaster) URL
+
+### 9
+
+**Great Eyemouth Fishing Disaster of Oct 14 1881 - Listing of Individuals who Perished**
+
+* [Full text and notes](../sources/@42727022@-great-eyemouth-fishing-disaster-of-oct-14-1881-listing-of-individuals-who-perished.md)
+* Date: 7/Oct/2002
+* References: 
+  * (URL) https://web.archive.org/web/20021007210635/http://www.geocities.com/scotborder/Eyemouth.html
 

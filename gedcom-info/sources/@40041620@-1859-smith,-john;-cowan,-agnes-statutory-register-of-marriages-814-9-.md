@@ -70,6 +70,8 @@ Source Last Updated | 17/May/2025 14:54:50
 
 ## Source Referenced by
 
+* 
+  * [Elizabeth](../people/@8553973@-elizabeth-b-d.md)
 * Beattie
   * [Rachel Beattie](../people/@72822722@-rachel-beattie-b-d.md)
 * Cowan
@@ -77,4 +79,5 @@ Source Last Updated | 17/May/2025 14:54:50
   * [James Cowan](../people/@66566704@-james-cowan-b-d.md)
 * Smith
   * [John Smith](../people/@3582868@-john-smith-b1825-d1898.md) (about 1825 - before 1898)
+  * [William Elliot Smith](../people/@15044661@-william-elliot-smith-b1857-d.md) (about 1857 - )
   * [William Smith](../people/@77031673@-william-smith-b-d.md)

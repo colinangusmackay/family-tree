@@ -168,7 +168,10 @@ Source Last Updated | 31/Jul/2022 20:26:30
 
 * Lenox
   * [Minnie Lenox](../people/@99536158@-minnie-lenox-b1867-4-15-d.md) (15/Apr/1867 - )
+* Thomas
+  * [Ella Thomas](../people/@55794778@-ella-thomas-b-d.md)
 * Wilson
+  * [Clarence Wilson](../people/@11868717@-clarence-wilson-b-d.md)
   * [Ella R Wilson](../people/@43820265@-ella-r-wilson-b1900-d.md) (about 1900 - )
   * [Frieda Belle Wilson](../people/@66883950@-frieda-belle-wilson-b1908-1-10-d1995-1-4.md) (10/Jan/1908 - 4/Jan/1995)
   * [Henry Wilson](../people/@5904501@-henry-wilson-b1876-d.md) (about 1876 - )

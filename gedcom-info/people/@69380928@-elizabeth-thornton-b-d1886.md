@@ -21,7 +21,9 @@ permalink: /people/i69380928
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
+about 1856 | Birth of son | [Thomas McKnight](./@6387698@-thomas-mcknight-b1856-d1897-8-8.md) born to [William McKnight](./@38388851@-william-mcknight-b-d1886.md) and [Elizabeth Thornton](./@69380928@-elizabeth-thornton-b-d1886.md). | [1](#1) | 
 before 1886 | Died | Died. | [1](#1) | 
+before 1886 | Death of partner | [William McKnight](./@38388851@-william-mcknight-b-d1886.md) died. | [1](#1) | 
 
 ## Footnotes
 

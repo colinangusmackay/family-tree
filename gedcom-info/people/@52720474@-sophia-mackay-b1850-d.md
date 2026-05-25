@@ -22,12 +22,7 @@ permalink: /people/i52720474
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 before 1850 | Born | Born. |  | 
-
-## Additional Sources
-
-Footnote | Source
----|---
-[1](#1) | **[1881 ROSS, JOHN (Statutory Registers Marriages 051/8)](../sources/@70380240@-1881-ross,-john-statutory-registers-marriages-051-8-.md)**
+about 1863 | Birth of daughter | [Isabella MacDonald](./@80818668@-isabella-macdonald-b1863-d.md) born to [Donald MacDonald](./@28173184@-donald-macdonald-b1850-d.md) and [Sophia Mackay](./@52720474@-sophia-mackay-b1850-d.md). | [1](#1) | 
 
 ## Footnotes
 

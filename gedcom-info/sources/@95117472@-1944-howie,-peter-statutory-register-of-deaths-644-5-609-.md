@@ -69,5 +69,11 @@ Source Last Updated | 11/May/2026 23:07:19
 * Christie
   * [Agnes Christie](../people/@52455521@-agnes-christie-b-d1944.md) ( - before 1944)
 * Howie
+  * [Annie McKinlay Howie](../people/@70255077@-annie-mckinlay-howie-b1887-d.md) (about 1887 - )
+  * [Jeanie Yule Howie](../people/@75216465@-jeanie-yule-howie-b1897-d.md) (1897 - )
+  * [Margaret Taylor Howie](../people/@39683867@-margaret-taylor-howie-b1892-d.md) (1892 - )
   * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-1-15-d.md) (15/Jan/1890 - )
   * [Peter Howie](../people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md) (9/Feb/1861 - 20/Apr/1944)
+  * [Williamina Boyle Howie](../people/@1971089@-williamina-boyle-howie-b1894-d.md) (1894 - )
+* Niddrie
+  * [Helen S Niddrie](../people/@47342988@-helen-s-niddrie-b1861-d.md) (about 1861 - )

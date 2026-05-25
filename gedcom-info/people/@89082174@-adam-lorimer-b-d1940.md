@@ -16,7 +16,9 @@ permalink: /people/i89082174
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
+about 1896 | Birth of son | [Archibald King Lorimer](./@37201190@-archibald-king-lorimer-b1896-d.md) born to [Adam Lorimer](./@89082174@-adam-lorimer-b-d1940.md) and [Mary Ferguson](./@12092730@-mary-ferguson-b-d1940.md). | [1](#1) | 
 before 1940 | Died | Died. | [1](#1) | 
+after 1940 | Death of partner | [Mary Ferguson](./@12092730@-mary-ferguson-b-d1940.md) died. | [1](#1) | 
 
 ## Footnotes
 

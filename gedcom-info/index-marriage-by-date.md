@@ -76,6 +76,7 @@ A list of marriages, civil partnerships and civil unions by date.
   * **15/Dec/1865** : **[Alexander Ross](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - ) and **[Catherine Ross](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - ) at Little Ferry, Sutherland, Scotland.
 * **1866**
   * **9/Feb/1866** : **[Peter Fraser](people/@16594334@-peter-fraser-b1847-d.md)** (about 1847 - ) and **[Christina Mackay](people/@10983472@-christina-mackay-b1848-d.md)** (about 1848 - ) at Dornoch, Sutherland, Scotland.
+  * **8/Jun/1866** : **[David Gilchrist](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - ) and **[Janet Steel](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - ) at Biggar, South Lanarkshire, Scotland.
   * **3/Oct/1866** : **[David Wilson](people/@15598112@-david-wilson-b1841-3-22-d.md)** (22/Mar/1841 - ) and **[Mary Ann McLean](people/@87096403@-mary-ann-mclean-b1843-d.md)** (about 1843 - ) at Invergordon, Rossshire, Scotland.
 * **1867**
   * **Oct/1867** : **[William Mackay](people/@24694904@-william-mackay-b-d.md)** and **[Ann Cumming](people/@5075008@-ann-cumming-b-d.md)** at Dornoch, Sutherland, Scotland.
@@ -165,7 +166,7 @@ A list of marriages, civil partnerships and civil unions by date.
 * **1901**
   * **22/Jan/1901** : **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) and **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ).
   * **7/Aug/1901** : **[James Hanton](people/@71830064@-james-hanton-b1880-d1922-4-20.md)** (about 1880 - 20/Apr/1922) and **[Janet McKechnie](people/@47324688@-janet-mckechnie-b1879-d1949-6-29.md)** (about 1879 - 29/Jun/1949) at Paisley, Renfrewshire, Scotland.
-  * **16/Aug/1901** : **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - ) and **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - ) at Maryhill, Glasgow, Scotland.
+  * **16/Aug/1901** : **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - ) and **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-2-d.md)** (about Feb/1879 - ) at Maryhill, Glasgow, Scotland.
   * **31/Dec/1901** : **[John Fleming](people/@49475976@-john-fleming-b1877-3-11-d1961.md)** (11/Mar/1877 - before 1961) and **[Agnes Rennie](people/@57426108@-agnes-rennie-b1878-d1961-2-7.md)** (1878 - 7/Feb/1961) at Blackburn, West Lothian, Scotland.
 * **1903**
   * **11/Nov/1903** : **[Donald Ross](people/@4496220@-donald-ross-b1872-8-30-d.md)** (30/Aug/1872 - ) and **[Ollie E Walker](people/@42365832@-ollie-e-walker-b1872-d.md)** (about 1872 - ) at Boyne City, Charlevoix County, Michigan, United States of America.

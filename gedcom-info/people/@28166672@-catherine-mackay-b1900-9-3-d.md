@@ -26,12 +26,15 @@ permalink: /people/i28166672
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 3/Sep/1900 | Born | Born to [John Mackay](./@53390906@-john-mackay-b-d.md) and [Matilda MacLeod](./@31540392@-matilda-macleod-b1861-d1949-11-9.md) in Stornoway, Eilean Siar, Scotland. | [1](#1) | 
+10/Nov/1936 | Marriage | Married to [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) in Embo, Sutherland, Scotland | [2](#2) | 
+9/Nov/1949 | Death of mother | [Matilda MacLeod](./@31540392@-matilda-macleod-b1861-d1949-11-9.md) died. | [3](#3) | 
+3/Jul/1969 | Death of partner | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [4](#4) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1936 | 22 Sheshader, Stornoway | [2](#2), [3](#3)
+1936 | 22 Sheshader, Stornoway | [2](#2), [5](#5)
 
 ## Known Occupations
 
@@ -62,6 +65,26 @@ Date | Occupation | Sources & Notes
   * 1936 M 047/8
 
 ### 3
+
+**1949 MACKAY, MATILDA (Statutory Registers Deaths 088/184)**
+
+* [Full text and notes](../sources/@28686176@-1949-mackay,-matilda-statutory-registers-deaths-088-184-.md)
+* Date: 10/Nov/1949
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1949 D 088/184
+
+### 4
+
+**1969 X, JOHN PAUL (Statutory registers Deaths 047/18)**
+
+* [Full text and notes](../sources/@24508315@-1969-mackay,-john-paul-statutory-registers-deaths-047-18-.md)
+* Date: 3/Jul/1969
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1969 D 047/18
+
+### 5
 
 > Address in Gaelic: 22 Seisiadar, Steòrnabhagh
 >

@@ -88,5 +88,8 @@ Source Last Updated | 4/Jul/2020 17:27:22
 
 * Campbell
   * [Rachel Smith Campbell](../people/@40394043@-rachel-smith-campbell-b1920-1-6-d1998-12-11.md) (6/Jan/1920 - 11/Dec/1998)
+  * [William Andrew Campbell](../people/@4716977@-william-andrew-campbell-b1889-1-2-d.md) (2/Jan/1889 - )
 * Gardiner
   * [William Gardiner](../people/@29232511@-william-gardiner-b1910-7-17-d1986-4-18.md) (17/Jul/1910 - 18/Apr/1986)
+* McTurk
+  * [Grace McTurk](../people/@54145218@-grace-mcturk-b1886-12-20-d.md) (20/Dec/1886 - )

@@ -98,6 +98,7 @@ Source Last Updated | 28/Jan/2023 11:48:46
   * [Mary McFynn](../people/@36976172@-mary-mcfynn-b-d1855.md) ( - before 1855)
 * McKay
   * [John McKay](../people/@25989156@-john-mckay-b-d1855.md) ( - before 1855)
+  * [Margaret McKay](../people/@76218830@-margaret-mckay-b1842-d.md) (about 1842 - )
   * [Susan McKay](../people/@29671874@-susan-mckay-b1833-4-d1886.md) (Apr/1833 - before 1886)
 * Teeven
   * [John Teeven](../people/@17936784@-john-teeven-b-d1855.md) ( - before 1855)

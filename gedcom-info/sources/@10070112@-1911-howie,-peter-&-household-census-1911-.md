@@ -221,8 +221,13 @@ Source Last Updated | 3/May/2026 21:36:09
   * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-1-15-d.md) (15/Jan/1890 - )
   * [Peter Howie](../people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md) (9/Feb/1861 - 20/Apr/1944)
   * [Williamina Boyle Howie](../people/@1971089@-williamina-boyle-howie-b1894-d.md) (1894 - )
+* Milne
+  * [Jessie Milne](../people/@14284692@-jessie-milne-b-d1908.md) ( - before 1908)
 * Niddrie
+  * [David Niddrie](../people/@35199408@-david-niddrie-b-d1908.md) ( - before 1908)
   * [Helen S Niddrie](../people/@47342988@-helen-s-niddrie-b1861-d.md) (about 1861 - )
+* Will
+  * [George Will](../people/@39711353@-george-will-b1861-d.md) (about 1861 - )
 * Wills
   * [David N Wills](../people/@24358912@-david-n-wills-b1891-d.md) (about 1891 - )
   * [Jessie Hamilton Wills](../people/@87891536@-jessie-hamilton-wills-b1890-d.md) (1890 - )

@@ -24,5 +24,6 @@ _Redacted because this source is referenced by a (potentially) living person and
   * [Douglas Ramsay](../people/@12977578@-douglas-ramsay-b1918-9-17-d1993.md) (17/Sep/1918 - 1993)
   * [Helen Fisher Ramsay](../people/@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md) (28/Sep/1920 - 15/Oct/2015)
   * [Isabella Morgan Ramsay](../people/@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md) (16/Jun/1915 - 12/Sep/1974)
+  * [William Fisher Ramsay](../people/@81255608@-william-fisher-ramsay-b1910-8-24-d.md) (24/Aug/1910 - )
 * Wyndow
   * [George Percival Albert Wyndow](../people/@6915792@-george-percival-albert-wyndow-b1912-d1958-8-20.md) (1912 - 20/Aug/1958)

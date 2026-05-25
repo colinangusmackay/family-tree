@@ -89,6 +89,9 @@ Source Last Updated | 19/Jan/2023 21:49:55
 * Bond
   * [Helen Bond](../people/@39873338@-helen-bond-b-d.md)
 * Hawthorn
+  * [James Hawthorn](../people/@21482384@-james-hawthorn-b1877-d.md) (about 1877 - )
+  * [Joseph Hawthorn](../people/@16695817@-joseph-hawthorn-b1873-d.md) (about 1873 - )
+  * [Robert Hawthorn](../people/@91501446@-robert-hawthorn-b1875-d.md) (about 1875 - )
   * [William Hawthorn](../people/@96807032@-william-hawthorn-b-d1884.md) ( - before 1884)
   * [William Hawthorn](../people/@92463484@-william-hawthorn-b1847-d1921.md) (about 1847 - before 1921)
 * Macauley

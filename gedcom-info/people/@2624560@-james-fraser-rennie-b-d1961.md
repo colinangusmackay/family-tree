@@ -16,17 +16,28 @@ permalink: /people/i2624560
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-before 1961 | Died | Died. | [1](#1) | 
+1878 | Birth of daughter | [Agnes Rennie](./@57426108@-agnes-rennie-b1878-d1961-2-7.md) born to [James Fraser Rennie](./@2624560@-james-fraser-rennie-b-d1961.md) and [Helen Fisher](./@31266751@-helen-fisher-b-d1961.md) in Livingston, West Lothian, Scotland. | [1](#1), [2](#2) | 
+before 1961 | Died | Died. | [2](#2) | 
+before 1961 | Death of partner | [Helen Fisher](./@31266751@-helen-fisher-b-d1961.md) died. | [2](#2) | 
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-Unknown | Slater and Plasterer | [1](#1)
+Unknown | Slater and Plasterer | [2](#2)
 
 ## Footnotes
 
 ### 1
+
+**1911 FLEMING, JOHN & FAMILY (Census 669/2 1/1)**
+
+* [Full text and notes](../sources/@36076736@-1911-fleming,-john-&-family-census-669-2-1-1-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1911 C 669/2 1/1
+
+### 2
 
 **1961 FLEMING, AGNES MCGINTY (Statutory Register Deaths 673/1 4)**
 

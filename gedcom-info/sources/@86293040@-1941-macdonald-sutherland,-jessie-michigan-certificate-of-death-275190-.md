@@ -168,3 +168,5 @@ Source Last Updated | 3/Mar/2024 23:07:45
   * [William MacDonald](../people/@76505641@-william-macdonald-b1865-1-9-d1898-5-12.md) (9/Jan/1865 - 12/May/1898)
 * Ross
   * [Christina Ross](../people/@81183416@-christina-ross-b1845-d1916-4-19.md) (about 1845 - 19/Apr/1916)
+* Sutherland
+  * [Donald Sutherland](../people/@6737165@-donald-sutherland-b1874-2-8-d.md) (8/Feb/1874 - )

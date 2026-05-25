@@ -19,4 +19,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [James Gilchrist](../people/@43287262@-james-gilchrist-b1904-9-9-d1998.md) (9/Sep/1904 - 1998)
+* Gilchrist
+  * [James Gilchrist](../people/@43287262@-james-gilchrist-b1904-9-9-d1998.md) (9/Sep/1904 - 1998)
+* Howie
+  * [Annie Murie Howie](../people/@89893535@-annie-murie-howie-b1912-3-19-d.md) (19/Mar/1912 - )

@@ -24,6 +24,10 @@ permalink: /people/i96590245
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1892 | Born | Born to [Thomas Thomson](./@28828844@-thomas-thomson-b-d.md) and [Elizabeth Alexander](./@86375908@-elizabeth-alexander-b-d1911.md). | [1](#1) | 
+before 1911 | Death of mother | [Elizabeth Alexander](./@86375908@-elizabeth-alexander-b-d1911.md) died. | [1](#1) | 
+30/Nov/1911 | Marriage | Married to [Edward O'Malley](./@76741424@-edward-o'malley-b1890-1-4-d.md) at Wood Memorial Church, Glasgow, Scotland | [1](#1) | 
+4/Sep/1913 | Birth of son | [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) born to [Edward O'Malley](./@76741424@-edward-o'malley-b1890-1-4-d.md) and [Agnes Watson Thomson](./@96590245@-agnes-watson-thomson-b1892-d.md) in Glasgow, Scotland. | [2](#2), [3](#3) | 
+before 2004 | Death of son | [Thomas O'Malley](./@12568152@-thomas-o'malley-b1913-9-4-d2004.md) died. | [4](#4) | 
 
 ## Known Residences
 
@@ -37,12 +41,6 @@ Date | Residence | Sources & Notes
 Date | Occupation | Sources & Notes
 ---|---|---
 1911 | Power Loom Weaver | [1](#1)
-
-## Additional Sources
-
-Footnote | Source
----|---
-[3](#3) | **[1939 O'MALLEY, THOMAS (Statutory registers Marriages 644/10 421)](../sources/@89657505@-1939-o'malley,-thomas-statutory-registers-marriages-644-10-421-.md)**
 
 ## Footnotes
 
@@ -74,4 +72,14 @@ Footnote | Source
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1939 M 644/10 421
+
+### 4
+
+**2004 X, MARGARET PATON (Extract of an entry in a REGISTER of DEATHS)**
+
+* [Full text and notes](../sources/@55468576@-2004-campbell,-margaret-paton-extract-of-an-entry-in-a-register-of-deaths-.md)
+* Date: 6/Apr/2004
+* Responsible Agency: General Registers Office
+* References: 
+  * 2004 D 772/107
 

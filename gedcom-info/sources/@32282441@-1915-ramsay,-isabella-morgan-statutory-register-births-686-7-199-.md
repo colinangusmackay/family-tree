@@ -56,3 +56,4 @@ Source Last Updated | 17/Apr/2025 22:43:49
   * [Isabella Morgan Ramsay](../people/@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md) (16/Jun/1915 - 12/Sep/1974)
   * [John Morgan Ramsay](../people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md) (31/Mar/1905 - 31/Dec/1966)
   * [John Ramsay](../people/@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) (21/Feb/1880 - 20/Jun/1920)
+  * [William Fisher Ramsay](../people/@81255608@-william-fisher-ramsay-b1910-8-24-d.md) (24/Aug/1910 - )

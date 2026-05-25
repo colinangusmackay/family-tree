@@ -34,9 +34,9 @@ Date | Residence | Sources & Notes
 
 Date | Occupation | Sources & Notes
 ---|---|---
+Unknown | Saddler and Harness Maker | [4](#4)
 1897 | Sadler | [1](#1)
 1914 | Saddler | [3](#3)
-before 1939 | Saddler and Harness Maker | [4](#4)
 
 ## Footnotes
 

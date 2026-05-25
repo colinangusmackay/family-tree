@@ -46,4 +46,8 @@ Source Last Updated | 20/Apr/2025 21:30:53
 
 ## Source Referenced by
 
-* [Jane McTurk](../people/@18380667@-jane-mcturk-b1880-2-22-d.md) (22/Feb/1880 - )
+* Beatie
+  * [Margaret Beatie](../people/@2654341@-margaret-beatie-b1844-d.md) (about 1844 - )
+* McTurk
+  * [Alexander McTurk](../people/@39936423@-alexander-mcturk-b1854-d.md) (about 1854 - )
+  * [Jane McTurk](../people/@18380667@-jane-mcturk-b1880-2-22-d.md) (22/Feb/1880 - )

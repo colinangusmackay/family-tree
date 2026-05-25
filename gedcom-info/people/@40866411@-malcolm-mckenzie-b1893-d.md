@@ -24,6 +24,9 @@ permalink: /people/i40866411
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1893 | Born | Born to [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) and [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d1923-2-27.md) in Glasgow, Scotland. | [1](#1) | 
+27/Feb/1923 | Death of mother | [Isabella Paterson](./@24882788@-isabella-paterson-b1850-d1923-2-27.md) died in Glasgow, Scotland. | [2](#2), [3](#3) | 
+23/Jan/1929 | Death of father | [Roderick McKenzie](./@76793596@-roderick-mckenzie-b1851-d1929-1-23.md) died in Glasgow, Scotland. | [3](#3) | 
+5/Apr/1964 | Death of sister | [Margaret Paterson McKenzie](./@88610293@-margaret-paterson-mckenzie-b1884-5-26-d1964-4-5.md) died in Edinburgh, Scotland. | [4](#4) | 
 
 ## Known Residences
 
@@ -42,4 +45,33 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1901 C 644/9 20/ 18
+
+### 2
+
+**1923 MCKENZIE, ISABELLA (Statutory Register of Deaths 644/11 178)**
+
+* [Full text and notes](../sources/@61111589@-1923-mckenzie,-isabella-statutory-register-of-deaths-644-11-178-.md)
+* Date: 27/Feb/1923
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1923 D 644/11 178
+
+### 3
+
+**1929 MCKENZIE, RODERICK (Statutory Registers Death 644/11 122)**
+
+* [Full text and notes](../sources/@26663326@-1929-mckenzie,-roderick-statutory-registers-death-644-11-122-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1929 D 644/11 122
+
+### 4
+
+**1964 MCIVER, MARGARET PATERS (Statutory Register Deaths 685/3 153)**
+
+* [Full text and notes](../sources/@13131704@-1964-mciver,-margaret-paters-statutory-register-deaths-685-3-153-.md)
+* Date: 6/Apr/1964
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1964 D 685/3 153
 

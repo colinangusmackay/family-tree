@@ -19,14 +19,16 @@ permalink: /people/i20426296
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1861 | Born | Born to [Kenneth Mackay](./@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) and [Isabella Mackay](./@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md). | [1](#1) | 
+28/Dec/1862 | Death of mother | [Isabella Mackay](./@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md) died in Embo, Sutherland, Scotland. | [2](#2) | 
+21/Feb/1894 | Death of father | [Kenneth Mackay](./@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) died in Embo, Sutherland, Scotland. | [3](#3) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
 1861 | Embo, Sutherland, Scotland | [1](#1)
-1871 | Embo, Sutherland, Scotland | [2](#2)
-1881 | Embo, Sutherland, Scotland | [3](#3)
+1871 | Embo, Sutherland, Scotland | [4](#4)
+1881 | Embo, Sutherland, Scotland | [5](#5)
 
 ## Footnotes
 
@@ -42,6 +44,26 @@ Date | Residence | Sources & Notes
 
 ### 2
 
+**1862 MACKAY, ISABELLA (Statutory Register of Deaths)**
+
+* [Full text and notes](../sources/@71569491@-1862-mackay,-isabella-statutory-register-of-deaths-.md)
+* Date: 29/Dec/1862
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1862 D 047/ 50
+
+### 3
+
+**1894 MACKAY, KENNETH (Statutory Register of Death 047/ 6)**
+
+* [Full text and notes](../sources/@30088487@-1894-mackay,-kenneth-statutory-register-of-death-047-6-.md)
+* Date: 22/Feb/1894
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1894 D 047/ 6
+
+### 4
+
 **1871 MACKAY, KENNETH & HOUSEHOLD (Census 047/ 1/L 11)**
 
 * [Full text and notes](../sources/@15948608@-1871-mackay,-kenneth-&-household-census-047-1-l-11-.md)
@@ -50,7 +72,7 @@ Date | Residence | Sources & Notes
 * References: 
   * 1871 C 047/ 1/L 11
 
-### 3
+### 5
 
 **1881 MACKAY, KENNETH & HOUSEHOLD (Census 047/ 2/ 15)**
 

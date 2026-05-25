@@ -23,6 +23,9 @@ permalink: /people/i71043319
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1906 | Born | Born to [William Lawrence](./@1090404@-william-lawrence-b-d.md) and [Christina Campbell](./@24281088@-christina-campbell-b-d1931.md). |  | 
+before 1931 | Death of mother | [Christina Campbell](./@24281088@-christina-campbell-b-d1931.md) died. |  | 
+23/Jan/1931 | Marriage | Married to [John Morgan Ramsay](./@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md) in Edinburgh, Scotland | [1](#1) | 
+31/Dec/1966 | Death of partner | [John Morgan Ramsay](./@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md) died in Edinburgh, Scotland. | [2](#2) | 
 
 ## Known Residences
 
@@ -46,4 +49,14 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1931 M 685/3 24
+
+### 2
+
+**1967 RAMSAY, JOHN MORGAN (Statutory Register of Deaths 685/7 2**
+
+* [Full text and notes](../sources/@31756684@-1967-ramsay,-john-morgan-statutory-register-of-deaths-685-7-2.md)
+* Date: 3/Jan/1967
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1967 D 685/7 2
 

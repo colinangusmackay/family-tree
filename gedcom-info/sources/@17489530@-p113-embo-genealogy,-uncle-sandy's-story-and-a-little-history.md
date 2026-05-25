@@ -34,15 +34,18 @@ _Redacted because this source is referenced by a (potentially) living person and
 * Cumming
   * [Adam Cumming](../people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) (2/Jul/1841 - 18/Jan/1926)
   * [Alexander Cumming](../people/@7028096@-alexander-cumming-b1831-d1884-5-7.md) (about 1831 - 7/May/1884)
+  * [Catherine Cumming](../people/@61803880@-catherine-cumming-b1835-d.md) (about 1835 - )
   * [Donald Cumming](../people/@45726416@-donald-cumming-b1806-d1875-10-2.md) (about 1806 - 2/Oct/1875)
   * [Donald Cumming](../people/@69575920@-donald-cumming-b1838-d1875.md) (about 1838 - after 1875)
   * [James Cumming](../people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md) (bet' 1834 and 1841 - 11/Jan/1923)
+  * [John Cumming](../people/@38336704@-john-cumming-b1839-6-18-d.md) (18/Jun/1839 - )
 * Grant
   * [Cate Grant](../people/@89641618@-cate-grant-b1849~1851-d.md) (bet' 1849 and 1851 - )
 * MacDonald
   * [Kate MacDonald](../people/@28255030@-kate-macdonald-b1807-d1875-10-29.md) (about 1807 - 29/Oct/1875)
 * Mackay
   * [Alexander Mackay](../people/@2381836@-alexander-mackay-b1844~1849-d.md) (bet' 1844 and 1849 - )
+  * [Alexander Mackay](../people/@25433155@-alexander-mackay-b1850-d.md) (about 1850 - )
   * [Ann Mackay](../people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)
   * [Ann Mackay](../people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md) (bet' 1858 and 1859 - 14/Jun/1889)
   * [Barbara Mackay](../people/@52409786@-barbara-mackay-b1849~1854-d.md) (bet' 1849 and 1854 - )
@@ -59,5 +62,7 @@ _Redacted because this source is referenced by a (potentially) living person and
   * [John Mackay](../people/@15814480@-john-mackay-b1864~1865-d.md) (bet' 1864 and 1865 - )
   * [William Mackay](../people/@69114879@-william-mackay-b1781-d1841.md) (1781 - 1841)
   * [William Mackay](../people/@99871003@-william-mackay-b1843~1846-d.md) (bet' 1843 and 1846 - )
+* Macrae
+  * [Janet Macrae](../people/@66584000@-janet-macrae-b1781-d.md) (1781 - )
 * Matheson
   * [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)

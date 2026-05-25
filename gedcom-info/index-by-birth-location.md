@@ -13,6 +13,7 @@ permalink: /indexes/by-birth-location
 - **[, Joan](people/@53960434@-joan-b-d2021-2-18.md)** ( - 18/Feb/2021)
 - **[, Kathleen](people/@37756528@-kathleen-b-d1958.md)** ( - before 1958)
 - **[, Margaret](people/@17287208@-margaret-b1910-d.md)** (before 1910 - )
+- **[, Mary](people/@75173110@-mary-b-d1866.md)** ( - after 1866)
 - **[, Nancy](people/@68661720@-nancy-b-d.md)**
 - **[Abernethy, Janet](people/@82771990@-janet-abernethy-b-d.md)**
 - **[Alexander, Elizabeth](people/@86375908@-elizabeth-alexander-b-d1911.md)** ( - before 1911)
@@ -91,8 +92,8 @@ permalink: /indexes/by-birth-location
 - **[Fraser, Thomas](people/@65905028@-thomas-fraser-b1769-d.md)** (before 1769 - )
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
 - **[Gibson, Hugh](people/@22004930@-hugh-gibson-b-d.md)**
-- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-d.md)** (about 1877 - )
-- **[Gilchrist, David](people/@89232476@-david-gilchrist-b-d.md)**
+- **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b-d1866.md)** ( - after 1866)
+- **[Gilchrist, Elisabeth Irvine](people/@3615140@-elisabeth-irvine-gilchrist-b1868-d1874-9-9.md)** (about 1868 - 9/Sep/1874)
 - **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
 - **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
 - **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901)
@@ -130,6 +131,7 @@ permalink: /indexes/by-birth-location
 - **[Howie, Peter](people/@40872746@-peter-howie-b1803-5-d1876-3-5.md)** (May/1803 - 5/Mar/1876)
 - **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
 - **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**
+- **[Irvine, Elizabeth](people/@66882518@-elizabeth-irvine-b-d1866.md)** ( - after 1866)
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
 - **[Kirkland, Margaret](people/@48501002@-margaret-kirkland-b-d.md)**
 - **[LaFavre, Stasia](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
@@ -328,7 +330,6 @@ permalink: /indexes/by-birth-location
 - **[Russell, Martha](people/@30062456@-martha-russell-b1916-d1963.md)** (about 1916 - before 1963)
 - **[Sherwood, Clara](people/@79435398@-clara-sherwood-b-d.md)**
 - **[Sloan, James](people/@16524688@-james-sloan-b-d1901.md)** ( - before 1901)
-- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-d.md)** (about 1879 - )
 - **[Smith, Alice](people/@77089636@-alice-smith-b-d.md)**
 - **[Smith, Alice](people/@30782592@-alice-smith-b1890-d.md)** (about 1890 - )
 - **[Smith, John](people/@64841197@-john-smith-b-d.md)**
@@ -336,7 +337,8 @@ permalink: /indexes/by-birth-location
 - **[Stead, Albert](people/@82189144@-albert-stead-b1934-d1938-8-22.md)** (about 1934 - 22/Aug/1938)
 - **[Stead, Cyril](people/@61214710@-cyril-stead-b1908-3-11-d1980-11-25.md)** (11/Mar/1908 - 25/Nov/1980)
 - **[Stead, Lawrence](people/@18256653@-lawrence-stead-b1933-11-29-d1989-3.md)** (29/Nov/1933 - Mar/1989)
-- **[Steel, Janet](people/@22623536@-janet-steel-b-d.md)**
+- **[Steel, Janet](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - )
+- **[Steel, Mungo](people/@34546752@-mungo-steel-b-d1866.md)** ( - before 1866)
 - **[Stevens, Thomas](people/@21623356@-thomas-stevens-b1918-8-21-d1971-4-6.md)** (21/Aug/1918 - 6/Apr/1971)
 - **[Stewart, Roxannah](people/@56480720@-roxannah-stewart-b-d.md)**
 - **[Stobie, Robina](people/@73873122@-robina-stobie-b-d.md)**
@@ -740,6 +742,11 @@ permalink: /indexes/by-birth-location
 - **[Howie, Annie Murie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - )
 - **[Howie, Peter R](people/@99453615@-peter-r-howie-b1916-8-d.md)** (about Aug/1916 - )
 
+#### Maryhill
+
+- **[Gilchrist, David](people/@16272572@-david-gilchrist-b1901-11-d.md)** (about Nov/1901 - )
+- **[Sloan, Mary Bowie](people/@59122260@-mary-bowie-sloan-b1879-2-d.md)** (about Feb/1879 - )
+
 ### Glasgow City
 
 #### Govan
@@ -875,6 +882,21 @@ permalink: /indexes/by-birth-location
 - **[McIver, Norman](people/@51505118@-norman-mciver-b1865-d.md)** (1865 - )
 - **[McIver, Roderick](people/@54470962@-roderick-mciver-b1867-d.md)** (1867 - )
 
+### South Lanarkshire
+
+#### Biggar
+
+- **[Gilchrist, Alexander](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - )
+- **[Gilchrist, Elizabeth](people/@14432964@-elizabeth-gilchrist-b1876-d.md)** (about 1876 - )
+
+#### Lamington
+
+- **[Gilchrist, Jane](people/@37120552@-jane-gilchrist-b1871-d.md)** (about 1871 - )
+
+#### Newton
+
+- **[Gilchrist, David](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - )
+
 ### Sutherland
 
 #### Brora
@@ -1005,6 +1027,16 @@ permalink: /indexes/by-birth-location
 #### Tongue
 
 - **[Ross, John](people/@99039359@-john-ross-b1915-d.md)** (1915 - )
+
+### The Scottish Borders
+
+#### Oxton
+
+- **[Robert /Gilchrist, MungoRobert Gilchrist](people/@12769933@-mungorobert-gilchrist-b1865-d.md)** (about 1865 - )
+
+#### Skirling
+
+- **[Gilchrist, Mary](people/@52398826@-mary-gilchrist-b1867-d.md)** (about 1867 - )
 
 ### West Lothian
 

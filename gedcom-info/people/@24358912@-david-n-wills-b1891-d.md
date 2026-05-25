@@ -19,6 +19,7 @@ permalink: /people/i24358912
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1891 | Born | Born to [George Will](./@39711353@-george-will-b1861-d.md) and [Helen S Niddrie](./@47342988@-helen-s-niddrie-b1861-d.md) in Glasgow, Scotland. | [1](#1) | 
+about 1893 | Birth of brother | [Robert M Wills](./@15072794@-robert-m-wills-b1893-d.md) born to [George Will](./@39711353@-george-will-b1861-d.md) and [Helen S Niddrie](./@47342988@-helen-s-niddrie-b1861-d.md) in Glasgow, Scotland. | [1](#1) | 
 2/Apr/1911 | Census | Census | [1](#1) | 
 
 ## Known Residences

@@ -120,4 +120,6 @@ Source Last Updated | 12/Aug/2025 22:08:50
 * [Gladys Marie W Parkinson](../people/@93191940@-gladys-marie-w-parkinson-b1899-d.md) (1899 - )
 * [Lawrence Sidney Arthur Parkinson](../people/@98781744@-lawrence-sidney-arthur-parkinson-b1906-d.md) (1906 - )
 * [Marie Olive Parkinson](../people/@25205426@-marie-olive-parkinson-b1909-d.md) (1909 - )
+* [Mildred Parkinson](../people/@25594216@-mildred-parkinson-b1876-d.md) (1876 - )
 * [Thomas Parkinson](../people/@4365378@-thomas-parkinson-b1870-9-2-d1941.md) (2/Sep/1870 - 1941)
+* [Walter Alex Parkinson](../people/@9475046@-walter-alex-parkinson-b1901-d.md) (1901 - )

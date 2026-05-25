@@ -78,5 +78,8 @@ Source Last Updated | 16/Jul/2022 17:15:49
   * [Catherine McBride](../people/@24941331@-catherine-mcbride-b1865-d.md) (about 1865 - )
   * [Patrick McBride](../people/@28079676@-patrick-mcbride-b-d1889.md) ( - before 1889)
 * O'Malley
+  * [Bridget O'Malley](../people/@26923306@-bridget-o'malley-b1882-d.md) (about 1882 - )
+  * [Catherine O'Malley](../people/@76642956@-catherine-o'malley-b-d.md)
   * [John O'Malley](../people/@50797152@-john-o'malley-b-d1889.md) ( - before 1889)
   * [Michael O'Malley](../people/@34933754@-michael-o'malley-b1851-d.md) (about 1851 - )
+  * [Patrick O'Malley](../people/@39412375@-patrick-o'malley-b1880-d.md) (about 1880 - )

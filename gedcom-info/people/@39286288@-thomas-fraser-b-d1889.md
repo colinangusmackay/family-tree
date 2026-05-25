@@ -18,17 +18,28 @@ permalink: /people/i39286288
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-before 1889 | Died | Died. | [1](#1), [2](#2) | 
+after 1864 | Death of mother | [Isabella](./@41136024@-isabella-b-d1864.md) died. | [1](#1) | 
+4/Aug/1864 | Birth of daughter | [Ann Fraser](./@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md) born to [Thomas Fraser](./@39286288@-thomas-fraser-b-d1889.md) and [Christy Ross](./@37144832@-christy-ross-b-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+before 1889 | Died | Died. | [2](#2), [3](#3) | 
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1864 | Fisherman | [3](#3)
+1864 | Fisherman | [1](#1)
 
 ## Footnotes
 
 ### 1
+
+**1864 FRASER, ANN (Statutory Register Births 047/46)**
+
+* [Full text and notes](../sources/@72927227@-1864-fraser,-ann-statutory-register-births-047-46-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1864 B 047/46
+
+### 2
 
 **1889 GRANT, HUGH (Statutory Registers Marriages 047/4)**
 
@@ -37,7 +48,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1889 M 047/4
 
-### 2
+### 3
 
 **1891 GRANT, ANN (Statutory Registers Deaths 047/15)**
 
@@ -45,13 +56,4 @@ Date | Occupation | Sources & Notes
 * Date: 4/May/1891
 * References: 
   * 1891 D 047/15
-
-### 3
-
-**1864 FRASER, ANN (Statutory Register Births 047/46)**
-
-* [Full text and notes](../sources/@72927227@-1864-fraser,-ann-statutory-register-births-047-46-.md)
-* Responsible Agency: National Records of Scotland
-* References: 
-  * 1864 B 047/46
 

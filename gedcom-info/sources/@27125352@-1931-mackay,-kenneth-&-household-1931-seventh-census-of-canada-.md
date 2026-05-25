@@ -20,7 +20,10 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
+* Copeland
+  * [Helen Copeland](../people/@65737621@-helen-copeland-b-d.md)
 * Mackay
   * [Kenneth Mackay](../people/@48909111@-kenneth-mackay-b1895-2-2-d.md) (2/Feb/1895 - )
 * Morrison
   * [Helen Morrison](../people/@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md) (5/Jan/1900 - 28/Dec/1984)
+  * [John Morrison](../people/@83544218@-john-morrison-b-d.md)

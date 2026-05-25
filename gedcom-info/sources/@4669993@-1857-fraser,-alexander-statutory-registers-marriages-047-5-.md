@@ -77,4 +77,7 @@ Source Last Updated | 24/Jun/2022 12:52:16
 
 ## Source Referenced by
 
-* [Alexander Fraser](../people/@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md) (5/Dec/1833 - 5/Oct/1876)
+* Fraser
+  * [Alexander Fraser](../people/@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md) (5/Dec/1833 - 5/Oct/1876)
+* Mackay
+  * [Isabella Mackay](../people/@41556256@-isabella-mackay-b1838-2-27-d.md) (27/Feb/1838 - )

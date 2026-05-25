@@ -24,6 +24,9 @@ permalink: /people/i28471390
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1921 | Born | Born to [James Flood](./@27080584@-james-flood-b-d.md) and [Mary Boyle](./@8311886@-mary-boyle-b-d.md). | [1](#1) | 
+29/Dec/1933 | Marriage | Married to [James Hanton](./@30630538@-james-hanton-b1907-d1975.md) at St Mirin's Chapel, Paisley, Scotland | [1](#1) | 
+11/Mar/1943 | Birth of daughter | X born to [James Hanton](./@30630538@-james-hanton-b1907-d1975.md) and [Mary Elizabeth Flood](./@28471390@-mary-elizabeth-flood-b1921-d.md) in Paisley, Renfrewshire, Scotland. | [2](#2) | 
+1975 | Death of partner | [James Hanton](./@30630538@-james-hanton-b1907-d1975.md) died in Paisley, Renfrewshire, Scotland. | [3](#3) | 
 
 ## Known Residences
 
@@ -47,4 +50,22 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1933 M 573/1 596
+
+### 2
+
+**1943 X, X X (Statutory Register of Births 573/1 368)**
+
+* [Full text and notes](../sources/@4609252@-1943-hanton,-margaret-coyle-statutory-register-of-births-573-1-368-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1943 B 573/ 1/ 368
+
+### 3
+
+**1975 HANTON, JAMES (Index to the Statutory Register of Deaths 646/ 623)**
+
+* [Full text and notes](../sources/@61711087@-1975-hanton,-james-index-to-the-statutory-register-of-deaths-646-623-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1975 D 646/ 623
 

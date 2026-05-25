@@ -24,4 +24,14 @@ permalink: /people/i18017632
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1905 | Born | Born to [Donald Ross](./@16842942@-donald-ross-b-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md). |  | 
+1907 | Birth of sister | [Jeanie Ross](./@71751658@-jeanie-ross-b1907-d.md) born to [Donald Ross](./@16842942@-donald-ross-b-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md). |  | 
+24/Sep/1910 | Birth of brother | [Alexander Ross](./@52064896@-alexander-ross-b1910-9-24-d.md) born to [Donald Ross](./@16842942@-donald-ross-b-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md) in Embo, Sutherland, Scotland. | [1](#1) | 
+
+## Footnotes
+
+### 1
+
+**1910 ROSS, ALEXANDER Statutory registers Births 047/50**
+
+* Responsible Agency: National Records of Scotland
 

@@ -20,22 +20,28 @@ permalink: /people/i34528442
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1883 | Born | Born in Lairg, Sutherland, Scotland. | [1](#1) | 
+3/Jul/1908 | Marriage | Married to [Bella Mackay](./@54814674@-bella-mackay-b1885-d.md) in Tain, Ross and Cromarty, Scotland | [1](#1), [2](#2) | 
+1909 | Birth of daughter | [Sarah Ross](./@85030761@-sarah-ross-b1909-d.md) born to [Alexander Ross](./@34528442@-alexander-ross-b1883-d.md) and [Bella Mackay](./@54814674@-bella-mackay-b1885-d.md) in Farr, Sutherland, Scotland. | [3](#3) | 
+1911 | Birth of son | [Kenneth Ross](./@31245066@-kenneth-ross-b1911-d.md) born to [Alexander Ross](./@34528442@-alexander-ross-b1883-d.md) and [Bella Mackay](./@54814674@-bella-mackay-b1885-d.md) in Farr, Sutherland, Scotland. | [3](#3) | 
+1915 | Birth of son | [John Ross](./@99039359@-john-ross-b1915-d.md) born to [Alexander Ross](./@34528442@-alexander-ross-b1883-d.md) and [Bella Mackay](./@54814674@-bella-mackay-b1885-d.md) in Tongue, Sutherland, Scotland. | [3](#3) | 
+31/Jan/1921 | Birth of daughter | [Barbara Mackay Ross](./@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md) born to [Alexander Ross](./@34528442@-alexander-ross-b1883-d.md) and [Bella Mackay](./@54814674@-bella-mackay-b1885-d.md) in Helmsdale, Sutherland, Scotland. | [2](#2) | 
+2014 | Death of daughter | [Barbara Mackay Ross](./@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md) died in Inverness, Scotland. | [4](#4) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
 1908 | Tain, Ross and Cromarty, Scotland | [1](#1)
-1921 | Police Station, Sutherland Street, Helmsdale, Sutherland, Scotland | [2](#2)
+1921 | Police Station, Sutherland Street, Helmsdale, Sutherland, Scotland | [3](#3)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
 1908 | Police Constable | [1](#1)
-1921 | Police Constable in Helmsdale, Sutherland, Scotland | [3](#3)
 1921 | Police Constable in Helmsdale, Sutherland, Scotland | [2](#2)
-1941 | Police Constable | [4](#4)
+1921 | Police Constable in Helmsdale, Sutherland, Scotland | [3](#3)
+1941 | Police Constable | [5](#5)
 
 ## Footnotes
 
@@ -51,16 +57,6 @@ Date | Occupation | Sources & Notes
 
 ### 2
 
-**1921 ROSS, ALEXANDER & HOUSEHOLD (Census 052/ 3/ 10)**
-
-* [Full text and notes](../sources/@9603929@-1921-ross,-alexander-&-household-census-052-3-10-.md)
-* Date: 19/Jun/1921
-* Responsible Agency: National Records of Scotland
-* References: 
-  * 1921 C 052/ 3/ 10
-
-### 3
-
 **1921 ROSS, BARBARA MACKAY (Statutory Register of Births)**
 
 * [Full text and notes](../sources/@31539480@-1921-ross,-barbara-mackay-statutory-register-of-births-.md)
@@ -69,7 +65,26 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1921 B 052/ 3
 
+### 3
+
+**1921 ROSS, ALEXANDER & HOUSEHOLD (Census 052/ 3/ 10)**
+
+* [Full text and notes](../sources/@9603929@-1921-ross,-alexander-&-household-census-052-3-10-.md)
+* Date: 19/Jun/1921
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1921 C 052/ 3/ 10
+
 ### 4
+
+**2014 TULLOCH, BARBARA MACKAY (Index to the Statutory Register of Deaths 240/ 231)**
+
+* [Full text and notes](../sources/@90933336@-2014-tulloch,-barbara-mackay-index-to-the-statutory-register-of-deaths-240-231-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 2014 D 240/ 231
+
+### 5
 
 **1941 TULLOCH, JOHN ROBERTSON & ROSS, BARBARA MACKAY (Statutory Register of Marriages 098/A 260)**
 

@@ -118,6 +118,7 @@ Source Last Updated | 5/Aug/2025 21:58:14
   * [Ann Morgan](../people/@60684755@-ann-morgan-b1845-d.md) (about 1845 - )
 * Ramsay
   * [Agnes Ramsay](../people/@57916783@-agnes-ramsay-b1873-d.md) (about 1873 - )
+  * [Cattie Ramsay](../people/@35547078@-cattie-ramsay-b1877-d.md) (about 1877 - )
   * [David Ramsay](../people/@2690064@-david-ramsay-b1888-d.md) (1888 - )
   * [Isabella Ramsay](../people/@54722192@-isabella-ramsay-b1878-d.md) (about 1878 - )
   * [John Ramsay](../people/@63088441@-john-ramsay-b1852-1-13-d.md) (13/Jan/1852 - )

@@ -180,5 +180,7 @@ Source Last Updated | 26/Apr/2026 21:53:35
   * [George Mackay](../people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) (26/Oct/1811 - 25/Nov/1893)
   * [Jane or Jean Mackay](../people/@4172390@-jane-or-jean-mackay-b1859-d.md) (about 1859 - )
   * [Janet Mackay](../people/@42213240@-janet-mackay-b1840-d.md) (1840 - )
+  * [John Mackay](../people/@58430005@-john-mackay-b1841-2-18-d.md) (18/Feb/1841 - )
+  * [William Mackay](../people/@99871003@-william-mackay-b1843~1846-d.md) (bet' 1843 and 1846 - )
 * Matheson
   * [Lucy Matheson](../people/@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) (bet' 1813 and 1820 - 23/Aug/1896)

@@ -16,6 +16,7 @@ permalink: /people/i96807032
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
+about 1847 | Birth of son | [William Hawthorn](./@92463484@-william-hawthorn-b1847-d1921.md) born to [William Hawthorn](./@96807032@-william-hawthorn-b-d1884.md) and [Helen Bond](./@39873338@-helen-bond-b-d.md). | [1](#1) | 
 before 1884 | Died | Died. | [1](#1) | 
 
 ## Footnotes

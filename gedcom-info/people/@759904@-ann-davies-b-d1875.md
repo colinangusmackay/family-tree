@@ -21,11 +21,21 @@ permalink: /people/i759904
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-before 1875 | Died | Died. | [1](#1) | 
+about 1807 | Birth of daughter | [Kate MacDonald](./@28255030@-kate-macdonald-b1807-d1875-10-29.md) born to [Alexander MacDonald](./@47072524@-alexander-macdonald-b-d1875.md) and [Ann Davies](./@759904@-ann-davies-b-d1875.md) in Golspie, Sutherland, Scotland. | [1](#1), [2](#2) | 
+before 1875 | Died | Died. | [2](#2) | 
+before 1875 | Death of partner | [Alexander MacDonald](./@47072524@-alexander-macdonald-b-d1875.md) died. | [2](#2) | 
 
 ## Footnotes
 
 ### 1
+
+**1851 CUMMING, DONALD & HOUSEHOLD (Census 1851)**
+
+* [Full text and notes](../sources/@93085668@-1851-cumming,-donald-&-household-census-1851-.md)
+* Date: 30/Mar/1851
+* Responsible Agency: National Records of Scotland
+
+### 2
 
 **1875 CUMMING, CATHERINE (Statutory Registers Deaths 047/45)**
 

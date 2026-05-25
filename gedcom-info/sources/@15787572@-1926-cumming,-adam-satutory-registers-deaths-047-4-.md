@@ -69,5 +69,12 @@ Source Last Updated | 24/Jun/2022 12:51:45
 
 * Cumming
   * [Adam Cumming](../people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md) (2/Jul/1841 - 18/Jan/1926)
+  * [Ann Cumming](../people/@28938235@-ann-cumming-b1847-d.md) (about 1847 - )
+  * [Catherine Cumming](../people/@61803880@-catherine-cumming-b1835-d.md) (about 1835 - )
+  * [Donald Cumming](../people/@89853996@-donald-cumming-b1889-12-17-d.md) (17/Dec/1889 - )
+  * [Elizabeth Cumming](../people/@35928164@-elizabeth-cumming-b1882-d.md) (about 1882 - )
+  * [John Cumming](../people/@38336704@-john-cumming-b1839-6-18-d.md) (18/Jun/1839 - )
+  * [John Cumming](../people/@7323242@-john-cumming-b1895-10-10-d.md) (10/Oct/1895 - )
+  * [William Cumming](../people/@26299943@-william-cumming-b1848-d.md) (about 1848 - )
 * Mackay
   * [Ann Mackay](../people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) (5/Nov/1855 - 21/Apr/1940)

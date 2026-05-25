@@ -5,5 +5,24 @@
   "Relationship": "Self",
   "DateOfBirth": "Jan/1962",
   "DateOfDeath": "Feb/2025",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i11891920",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i21059648",
+      "Name": "X",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
 }

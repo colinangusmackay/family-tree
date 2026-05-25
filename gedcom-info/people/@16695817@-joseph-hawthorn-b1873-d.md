@@ -21,6 +21,14 @@ permalink: /people/i16695817
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1873 | Born | Born to [William Hawthorn](./@92463484@-william-hawthorn-b1847-d1921.md) and [Hannah O'Donnell](./@64641527@-hannah-o'donnell-b1857-d1921.md) in , England. | [1](#1) | 
+about 1875 | Birth of brother | [Robert Hawthorn](./@91501446@-robert-hawthorn-b1875-d.md) born to [William Hawthorn](./@92463484@-william-hawthorn-b1847-d1921.md) and [Hannah O'Donnell](./@64641527@-hannah-o'donnell-b1857-d1921.md) in , England. | [1](#1) | 
+about 1877 | Birth of brother | [James Hawthorn](./@21482384@-james-hawthorn-b1877-d.md) born to [William Hawthorn](./@92463484@-william-hawthorn-b1847-d1921.md) and [Hannah O'Donnell](./@64641527@-hannah-o'donnell-b1857-d1921.md) in , England. | [1](#1) | 
+31/Dec/1884 | Marriage between father and mother | Marriage of [William Hawthorn](./@92463484@-william-hawthorn-b1847-d1921.md) and [Hannah O'Donnell](./@64641527@-hannah-o'donnell-b1857-d1921.md) in Bathgate, West Lothian, Scotland | [2](#2), [3](#3) | 
+about 1886 | Birth of brother | [Edward Hawthorn](./@88518114@-edward-hawthorn-b1886-d.md) born to [William Hawthorn](./@92463484@-william-hawthorn-b1847-d1921.md) and [Hannah O'Donnell](./@64641527@-hannah-o'donnell-b1857-d1921.md) in Bathgate, West Lothian, Scotland. | [1](#1) | 
+28/Jun/1888 | Birth of brother | [Thomas Hawthorn](./@30039040@-thomas-hawthorn-b1888-6-28-d1946.md) born to [William Hawthorn](./@92463484@-william-hawthorn-b1847-d1921.md) and [Hannah O'Donnell](./@64641527@-hannah-o'donnell-b1857-d1921.md) in Livingston, West Lothian, Scotland. | [3](#3), [4](#4) | 
+before 1921 | Death of father | [William Hawthorn](./@92463484@-william-hawthorn-b1847-d1921.md) died. | [4](#4) | 
+before 1921 | Death of mother | [Hannah O'Donnell](./@64641527@-hannah-o'donnell-b1857-d1921.md) died. | [4](#4) | 
+before 1946 | Death of brother | [Thomas Hawthorn](./@30039040@-thomas-hawthorn-b1888-6-28-d1946.md) died. |  | 
 
 ## Known Residences
 
@@ -45,4 +53,32 @@ Date | Occupation | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1891 C 694/ 5/ 22
+
+### 2
+
+**1885 HAWTHORN, WILLIAM and O'DONNELL, HANNAH (Statutory Register Marriages 662/1 5)**
+
+* [Full text and notes](../sources/@92130632@-1885-hawthorn,-william-and-o'donnell,-hannah-statutory-register-marriages-662-1-5-.md)
+* Date: 3/Jan/1885
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1885 M 662/1 5
+
+### 3
+
+**1888 HAWTHORN, THOMAS (Statutory Register Births 669/ 35)**
+
+* [Full text and notes](../sources/@94344799@-1888-hawthorn,-thomas-statutory-register-births-669-35-.md)
+* Date: 10/Jul/1888
+* Responsible Agency: National Records of Scotland
+
+### 4
+
+**1921 HAWTHORNE, THOMAS and SMITH, ALICE (Statutory Register Marriages 639/ 134)**
+
+* [Full text and notes](../sources/@55904375@-1921-hawthorne,-thomas-and-smith,-alice-statutory-register-marriages-639-134-.md)
+* Date: 9/May/1921
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1921 M 639/ 134
 

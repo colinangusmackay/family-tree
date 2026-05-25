@@ -71,3 +71,12 @@ Source Last Updated | 6/Apr/2026 23:39:32
   * [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) (4/Nov/1872 - 18/Apr/1952)
   * [Alexander Napier](../people/@80968928@-alexander-napier-b1913-5-2-d1994-6-25.md) (2/May/1913 - 25/Jun/1994)
   * [David Napier](../people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md) (12/Sep/1835 - 2/Nov/1901)
+  * [David Napier](../people/@97555316@-david-napier-b1858-4-7-d.md) (7/Apr/1858 - )
+  * [David Napier](../people/@46994217@-david-napier-b1901-d.md) (about 1901 - )
+  * [Elizabeth Napier](../people/@22336798@-elizabeth-napier-b1866-11-17-d.md) (17/Nov/1866 - )
+  * [Henry Napier](../people/@74931773@-henry-napier-b1870-d.md) (1870 - )
+  * [Janet Napier](../people/@44813825@-janet-napier-b1861-d.md) (about 1861 - )
+  * [John Napier](../people/@61882948@-john-napier-b1905-d.md) (about 1905 - )
+  * [Mary Napier](../people/@490155@-mary-napier-b1863-d.md) (1863 - )
+* Nicholson
+  * [Agnes Nicholson](../people/@65182613@-agnes-nicholson-b1835-d.md) (about 1835 - )

@@ -20,6 +20,7 @@ permalink: /people/i57588096
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1828 | Born | Born to [Alexander Mackay](./@28762468@-alexander-mackay-b1786-d.md) and [Christy Fraser](./@91889557@-christy-fraser-b1791-d.md). | [1](#1) | 
+21/Feb/1894 | Death of brother | [Kenneth Mackay](./@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md) died in Embo, Sutherland, Scotland. | [2](#2) | 
 
 ## Known Residences
 
@@ -38,4 +39,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1841 C 047/ 5/ 5
+
+### 2
+
+**1894 MACKAY, KENNETH (Statutory Register of Death 047/ 6)**
+
+* [Full text and notes](../sources/@30088487@-1894-mackay,-kenneth-statutory-register-of-death-047-6-.md)
+* Date: 22/Feb/1894
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1894 D 047/ 6
 

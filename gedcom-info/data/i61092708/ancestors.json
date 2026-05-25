@@ -3,26 +3,64 @@
   "Name": "Alexander Gilchrist",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "about 1877",
+  "DateOfBirth": "30/Sep/1877",
   "DateOfDeath": "",
   "Parents": [
-    {
-      "Id": "i89232476",
-      "Name": "David Gilchrist",
-      "Gender": "Male",
-      "Relationship": "father",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Parents": []
-    },
     {
       "Id": "i22623536",
       "Name": "Janet Steel",
       "Gender": "Female",
       "Relationship": "mother",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1840",
       "DateOfDeath": "",
-      "Parents": []
+      "Parents": [
+        {
+          "Id": "i75173110",
+          "Name": "Mary",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "after 1866",
+          "Parents": []
+        },
+        {
+          "Id": "i34546752",
+          "Name": "Mungo Steel",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "before 1866",
+          "Parents": []
+        }
+      ]
+    },
+    {
+      "Id": "i89232476",
+      "Name": "David Gilchrist",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "7/Apr/1843",
+      "DateOfDeath": "",
+      "Parents": [
+        {
+          "Id": "i97711748",
+          "Name": "Alexander Gilchrist",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "after 1866",
+          "Parents": []
+        },
+        {
+          "Id": "i66882518",
+          "Name": "Elizabeth Irvine",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "after 1866",
+          "Parents": []
+        }
+      ]
     }
   ]
 }

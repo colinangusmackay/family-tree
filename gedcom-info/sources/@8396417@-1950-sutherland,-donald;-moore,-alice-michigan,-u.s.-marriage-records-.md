@@ -108,3 +108,5 @@ Source Last Updated | 4/Mar/2024 22:50:14
   * [Edward McCann](../people/@91921886@-edward-mccann-b-d.md)
 * Smith
   * [Alice Smith](../people/@77089636@-alice-smith-b-d.md)
+* Sutherland
+  * [Donald Sutherland](../people/@6737165@-donald-sutherland-b1874-2-8-d.md) (8/Feb/1874 - )

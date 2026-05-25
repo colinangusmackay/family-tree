@@ -11,17 +11,34 @@ permalink: /people/i48880388
 * Partner: [Catherine McDonald Rodger](./@66129376@-catherine-mcdonald-rodger-b-d.md)
 * Son: [Thomas Sharp Crawford](./@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md) (3/Aug/1897 - 5/Mar/1968)
 
+## Timeline
+
+Date | Item | Description | Sources | Notes
+---|---|---|---|---
+3/Aug/1897 | Birth of son | [Thomas Sharp Crawford](./@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md) born to [William Fullerton Crawford](./@48880388@-william-fullerton-crawford-b-d.md) and [Catherine McDonald Rodger](./@66129376@-catherine-mcdonald-rodger-b-d.md). | [1](#1), [2](#2) | 
+5/Mar/1968 | Death of son | [Thomas Sharp Crawford](./@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md) died in Kirkcaldy, Fife, Scotland. | [2](#2) | 
+
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-Unknown | Haulage Contractor | [1](#1)
-Unknown | Carting Contractor | [2](#2)
-1918 | Contractor | [3](#3)
+Unknown | Haulage Contractor | [2](#2)
+Unknown | Carting Contractor | [3](#3)
+1918 | Contractor | [1](#1)
 
 ## Footnotes
 
 ### 1
+
+**1918 CRAWFORD, THOMAS SHARP & FRASER, BARBARA (Statutory Register of Marriages 442/ 44)**
+
+* [Full text and notes](../sources/@77360094@-1918-crawford,-thomas-sharp-&-fraser,-barbara-statutory-register-of-marriages-442-44-.md)
+* Date: 25/Mar/1918
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1918 M 442/ 44
+
+### 2
 
 **1968 CRAWFORD, THOMAS SHARP (Statutory Register of Deaths 442/ 168)**
 
@@ -31,7 +48,7 @@ Unknown | Carting Contractor | [2](#2)
 * References: 
   * 1968 D 442/ 168
 
-### 2
+### 3
 
 **1940 CRAWFORD, THOMAS SHARP & LITSTER, ROBINA STOBIE (Statutory Register of Marriages 442/ 93)**
 
@@ -40,14 +57,4 @@ Unknown | Carting Contractor | [2](#2)
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1940 M 442/ 93
-
-### 3
-
-**1918 CRAWFORD, THOMAS SHARP & FRASER, BARBARA (Statutory Register of Marriages 442/ 44)**
-
-* [Full text and notes](../sources/@77360094@-1918-crawford,-thomas-sharp-&-fraser,-barbara-statutory-register-of-marriages-442-44-.md)
-* Date: 25/Mar/1918
-* Responsible Agency: National Records of Scotland
-* References: 
-  * 1918 M 442/ 44
 

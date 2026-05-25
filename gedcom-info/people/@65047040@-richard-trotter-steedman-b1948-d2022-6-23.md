@@ -35,28 +35,29 @@ Date | Residence | Sources & Notes
 2003 | 1 Gamekeeper's Loan, Edinburgh, Scotland, EH4 6LT | [4](#4)
 2011 | 1 Cargilfield View, Edinburgh, Scotland, EH4 6SY | [1](#1)
 2017 | 1 Cargilfield View, Edinburgh, Scotland, EH4 6SY | [1](#1)
+2022 | Easter Cottage, Saltpans, Charlestown, Fife, Scotland | [5](#5)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1996 | Company Secretary | [5](#5)
-1997 | Company Secretary | [5](#5)
-1998 | Tax Consultant | [5](#5)
-1999 | Tax Consultant | [5](#5)
-2000 | Company Secretary | [5](#5)
-2002 | Company Director | [5](#5)
-2003 | Company Secretary | [5](#5)
-2006 | Tax Consultant | [5](#5)
-2008 | Tax Consultant | [5](#5)
-2009 | Tax Consultant | [6](#6)
-2012 | Company Director | [5](#5)
-2014 | Company Director | [5](#5)
-2016 | Company Director in Edinburgh, Scotland | [5](#5)
-2017 | Company Director | [7](#7)
-2018 | Company Director | [7](#7)
-2019 | Company Director | [7](#7)
-2021 | Company Director | [7](#7)
+1996 | Company Secretary | [6](#6)
+1997 | Company Secretary | [6](#6)
+1998 | Tax Consultant | [6](#6)
+1999 | Tax Consultant | [6](#6)
+2000 | Company Secretary | [6](#6)
+2002 | Company Director | [6](#6)
+2003 | Company Secretary | [6](#6)
+2006 | Tax Consultant | [6](#6)
+2008 | Tax Consultant | [6](#6)
+2009 | Tax Consultant | [7](#7)
+2012 | Company Director | [6](#6)
+2014 | Company Director | [6](#6)
+2016 | Company Director in Edinburgh, Scotland | [6](#6)
+2017 | Company Director | [8](#8)
+2018 | Company Director | [8](#8)
+2019 | Company Director | [8](#8)
+2021 | Company Director | [8](#8)
 
 ## Footnotes
 
@@ -92,6 +93,15 @@ Date | Occupation | Sources & Notes
 
 ### 5
 
+**2022 X, RICKY & X**
+
+* [Full text and notes](../sources/@85259884@-2022-steedman,-ricky-&-dorothy.md)
+* Publication: Dunfermline Press & West Fife Advertiser
+* Originator / Author: Clare Buchanan
+* Date: 7/Apr/2022
+
+### 6
+
 **2025 STEEDMAN, RICHARD TROTTER (Companies House /1)**
 
 * [Full text and notes](../sources/@56761204@-2025-steedman,-richard-trotter-companies-house-1-.md)
@@ -99,7 +109,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * (URL) https://find-and-update.company-information.service.gov.uk/officers/dBo89kfNcBvQKMWZiRxyG1tyQpQ/appointments
 
-### 6
+### 7
 
 **2025 STEEDMAN, RICHARD TROTTER (Companies House /2)**
 
@@ -108,7 +118,7 @@ Date | Occupation | Sources & Notes
 * References: 
   * (URL) https://find-and-update.company-information.service.gov.uk/officers/X2KJy3lQ4ONU3IO9IbIVuPfwiwI/appointments
 
-### 7
+### 8
 
 **2025 STEEDMAN, RICHARD (Companies House)**
 

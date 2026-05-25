@@ -24,6 +24,20 @@ permalink: /people/i81255608
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 24/Aug/1910 | Born | Born to [John Ramsay](./@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) and [Helen Currie Fisher](./@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md) in Edinburgh, Scotland. | [1](#1) | 
+1911 | Birth of brother | [Allan Ramsay](./@62219744@-allan-ramsay-b1911-d1932.md) born to [John Ramsay](./@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) and [Helen Currie Fisher](./@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md). |  | 
+10/Oct/1913 | Birth of brother | [Bruce Morgan Ramsay](./@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md) born to [John Ramsay](./@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) and [Helen Currie Fisher](./@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md). | [2](#2) | 
+16/Jun/1915 | Birth of sister | [Isabella Morgan Ramsay](./@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md) born to [John Ramsay](./@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) and [Helen Currie Fisher](./@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md) in Portobello, Edinburgh, Scotland. | [3](#3) | 
+17/Sep/1918 | Birth of brother | [Douglas Ramsay](./@12977578@-douglas-ramsay-b1918-9-17-d1993.md) born to [John Ramsay](./@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) and [Helen Currie Fisher](./@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md) in Edinburgh, Scotland. | [4](#4) | 
+20/Jun/1920 | Death of father | [John Ramsay](./@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) died in Edinburgh, Scotland. | [5](#5), [6](#6), [7](#7) | 
+28/Sep/1920 | Birth of sister | [Helen Fisher Ramsay](./@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md) born to [John Ramsay](./@64225415@-john-ramsay-b1880-2-21-d1920-6-20.md) and [Helen Currie Fisher](./@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md) in Edinburgh, Scotland. | [5](#5) | 
+1932 | Death of brother | [Allan Ramsay](./@62219744@-allan-ramsay-b1911-d1932.md) died. |  | 
+6/Jun/1953 | Death of mother | [Helen Currie Fisher](./@18426904@-helen-currie-fisher-b1881-11-29-d1953-6-6.md) died in Edinburgh, Scotland. | [8](#8) | 
+29/Nov/1965 | Death of brother | [Bruce Morgan Ramsay](./@49046148@-bruce-morgan-ramsay-b1913-10-10-d1965-11-29.md) died in Westminster, London, England, . | [9](#9), [10](#10) | 
+31/Dec/1966 | Death of brother | [John Morgan Ramsay](./@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md) died in Edinburgh, Scotland. | [11](#11) | 
+12/Sep/1974 | Death of sister | [Isabella Morgan Ramsay](./@80504300@-isabella-morgan-ramsay-b1915-6-16-d1974-9-12.md) died in Harare, Zimbabwe. | [12](#12) | 
+1993 | Death of brother | [Douglas Ramsay](./@12977578@-douglas-ramsay-b1918-9-17-d1993.md) died. |  | 
+15/Oct/2015 | Death of sister | [Helen Fisher Ramsay](./@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md) died in Edinburgh, Scotland. | [13](#13), [14](#14), [15](#15) | 
+22/Oct/2015 | Cremation of sister | [Helen Fisher Ramsay](./@34267190@-helen-fisher-ramsay-b1920-9-28-d2015-10-15.md) was cremated in Mortonhall Crematorium, Edinburgh, Scotland. | [15](#15) | 
 
 ## Footnotes
 
@@ -34,4 +48,132 @@ Date | Item | Description | Sources | Notes
 * [Full text and notes](../sources/@10193746@-1910-ramsay,-william-fisher-statutory-registger-births-685-3-926-.md)
 * Date: 9/Sep/1910
 * Responsible Agency: National Records of Scotland
+
+### 2
+
+**1913 RAMSAY, BRUCE MORGAN (Statutory Register Births 685/3 952)**
+
+* [Full text and notes](../sources/@77220141@-1913-ramsay,-bruce-morgan-statutory-register-births-685-3-952-.md)
+* Date: 30/Oct/1913
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1913 B 685/3 952
+
+### 3
+
+**1915 RAMSAY, ISABELLA MORGAN (Statutory Register Births 686/7 199)**
+
+* [Full text and notes](../sources/@32282441@-1915-ramsay,-isabella-morgan-statutory-register-births-686-7-199-.md)
+* Date: 5/Jul/1915
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1915 B 685/7 199
+
+### 4
+
+**1918 RAMSAY, DOUGLAS (Statutory Register of Births 685/7 227)**
+
+* [Full text and notes](../sources/@78528734@-1918-ramsay,-douglas-statutory-register-of-births-685-7-227-.md)
+* Date: 30/Sep/1918
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1918 B 685/7 227
+
+### 5
+
+**1920 RAMSAY, HELEN FISHER (Statutory registers Births 685/9 413)**
+
+* [Full text and notes](../sources/@94342520@-1920-ramsay,-helen-fisher-statutory-registers-births-685-9-413-.md)
+* Date: 12/Oct/1920
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1920 B 685/9 413
+
+### 6
+
+**1920 RAMSAY, JOHN (British Newspaper Archive, Family Notices)**
+
+* [Full text and notes](../sources/@78675230@-1920-ramsay,-john-british-newspaper-archive,-family-notices-.md)
+* Publication: British Newspaper Archive, Family Notices
+* Date: 22/Jun/1920
+* Responsible Agency: FamilySearch
+* References: 
+  * (URL) https://www.familysearch.org/ark:/61903/1:1:QLSC-2VZC
+
+### 7
+
+**1920 RAMSAY, JOHN (Statutory Register Deaths 685/5 634)**
+
+* [Full text and notes](../sources/@29817066@-1920-ramsay,-john-statutory-register-deaths-685-5-634-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1920 D 685/5 634
+
+### 8
+
+**1953 RAMSAY, HELEN CURRIE (Statutory Register Deaths 685/3 309)**
+
+* [Full text and notes](../sources/@76279830@-1953-ramsay,-helen-currie-statutory-register-deaths-685-3-309-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1953 D 685/3 309
+
+### 9
+
+**1965 RAMSAY, BRUCE M. (England & Wales, Civil Registration Death Index)**
+
+* [Full text and notes](../sources/@3115264@-1965-ramsay,-bruce-m.-england-&-wales,-civil-registration-death-index-.md)
+
+### 10
+
+**1965 RAMSAY, BRUCE MORGAN (England & Wales, National Probate Calendar)**
+
+* [Full text and notes](../sources/@81133372@-1965-ramsay,-bruce-morgan-england-&-wales,-national-probate-calendar-.md)
+
+### 11
+
+**1967 RAMSAY, JOHN MORGAN (Statutory Register of Deaths 685/7 2**
+
+* [Full text and notes](../sources/@31756684@-1967-ramsay,-john-morgan-statutory-register-of-deaths-685-7-2.md)
+* Date: 3/Jan/1967
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1967 D 685/7 2
+
+### 12
+
+**1974 X, ISABELLA MORGAN (Death Notice)**
+
+* [Full text and notes](../sources/@26296220@-1974-wyndow,-isabella-morgan-death-notice-.md)
+* Date: 26/Sep/1974
+* References: 
+  * (URL) https://www.familysearch.org/ark:/61903/1:1:QPZH-SP59
+
+### 13
+
+**2015 - MCIVER, EILEEN FISHER - St John Scotland**
+
+* [Full text and notes](../sources/@53646957@-2015-mciver,-eileen-fisher-st-john-scotland.md)
+* Publication: [https://www.stjohnscotland.org.uk/the-order/library/91-pearls-from-the-pend-no-4](https://www.stjohnscotland.org.uk/the-order/library/91-pearls-from-the-pend-no-4)
+* Originator / Author: Charles J Burnett
+* Date: 10/Oct/2015
+* ![Screenshot](../media/45470864_thumb.jpg)
+
+### 14
+
+**2015 MCIVER, HELEN (EILEEN) - Edinburgh Evening News (via Legacy.com)**
+
+* [Full text and notes](../sources/@44478256@-2015-mciver,-helen-eileen-edinburgh-evening-news-via-legacy.com-.md)
+* Publication: [https://www.legacy.com/obituaries/edinburghnews-scotsman-uk/obituary.aspx?n=helen-mciver&pid=184674213](https://www.legacy.com/obituaries/edinburghnews-scotsman-uk/obituary.aspx?n=helen-mciver&pid=184674213)
+* Date: 19/Oct/2015
+
+### 15
+
+**2015 MCIVER, HELEN EILEEN - Find a Grave 156713994**
+
+* [Full text and notes](../sources/@94842736@-2015-mciver,-helen-eileen-find-a-grave-156713994.md)
+* Publication: [https://www.findagrave.com/memorial/156713994/helen-eileen-mciver](https://www.findagrave.com/memorial/156713994/helen-eileen-mciver)
+* Originator / Author: Find a Grave
+* References: 
+  * 156713994
 

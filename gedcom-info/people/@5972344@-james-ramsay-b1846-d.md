@@ -24,6 +24,12 @@ permalink: /people/i5972344
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1846 | Born | Born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [1](#1) | 
+1847 | Birth of sister | [Agnes Ramsay](./@73804628@-agnes-ramsay-b1847-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [1](#1) | 
+1850 | Birth of sister | [Jane Ramsay](./@25940269@-jane-ramsay-b1850-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [1](#1), [2](#2) | 
+13/Jan/1852 | Birth of brother | [John Ramsay](./@63088441@-john-ramsay-b1852-1-13-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [2](#2), [3](#3), [4](#4) | 
+1855 | Birth of sister | [Euphemia Ramsay](./@99132181@-euphemia-ramsay-b1855-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [2](#2) | 
+1858 | Birth of brother | [William Ramsay](./@29868878@-william-ramsay-b1858-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Cupar, Fife, Scotland, . | [2](#2) | 
+1860 | Birth of sister | [Catherine Ramsay](./@12774174@-catherine-ramsay-b1860-d.md) born to [John Ramsay](./@33817858@-john-ramsay-b1813-d.md) and [Catherine Morris](./@33882736@-catherine-morris-b1816-d.md) in Crail, Fife, Scotland, . | [2](#2) | 
 
 ## Known Residences
 
@@ -42,4 +48,33 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1851 C 417/ 6/ 1
+
+### 2
+
+**1861 RAMSAY, JOHN & HOUSEHOLD (Census 417/ 2/ 3)**
+
+* [Full text and notes](../sources/@38885411@-1861-ramsay,-john-&-household-census-417-2-3-.md)
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1861 C 417/ 2/ 3
+
+### 3
+
+**1852 RAMSAY, JOHN (Old Parish Registers of Births 417/ Crail)**
+
+* [Full text and notes](../sources/@35352795@-1852-ramsay,-john-old-parish-registers-of-births-417-crail-.md)
+* Date: 1852
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1852 OPR 417/ Crail
+
+### 4
+
+**1881 RAMSAY, JOHN & FAMILY (Census 411/ 4/ 13)**
+
+* [Full text and notes](../sources/@15289604@-1881-ramsay,-john-&-family-census-411-4-13-.md)
+* Date: Apr/1881
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1881 C 411/ 4/ 13
 

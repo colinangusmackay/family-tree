@@ -78,11 +78,18 @@ Source Last Updated | 3/May/2026 16:27:52
 
 * Boyle
   * [Annie Boyle](../people/@30556026@-annie-boyle-b1863-d1905-5-8.md) (about 1863 - 8/May/1905)
+  * [William Boyle](../people/@99276822@-william-boyle-b1827-d.md) (about 1827 - )
 * Howie
+  * [Annie McKinlay Howie](../people/@70255077@-annie-mckinlay-howie-b1887-d.md) (about 1887 - )
+  * [Jeanie Yule Howie](../people/@75216465@-jeanie-yule-howie-b1897-d.md) (1897 - )
+  * [Margaret Taylor Howie](../people/@39683867@-margaret-taylor-howie-b1892-d.md) (1892 - )
   * [Peter Alexander Howie](../people/@60521938@-peter-alexander-howie-b1890-1-15-d.md) (15/Jan/1890 - )
   * [Peter Howie](../people/@19655531@-peter-howie-b1861-2-9-d1944-4-20.md) (9/Feb/1861 - 20/Apr/1944)
+  * [Williamina Boyle Howie](../people/@1971089@-williamina-boyle-howie-b1894-d.md) (1894 - )
 * Hunter
   * [Georgina Hunter](../people/@69291286@-georgina-hunter-b1889-d.md) (about 1889 - )
   * [James Hunter](../people/@13263378@-james-hunter-b-d.md)
+* McKinlay
+  * [Annie McKinlay](../people/@67691160@-annie-mckinlay-b1836-d.md) (about 1836 - )
 * Murie
   * [Annie Murie](../people/@23704804@-annie-murie-b-d.md)

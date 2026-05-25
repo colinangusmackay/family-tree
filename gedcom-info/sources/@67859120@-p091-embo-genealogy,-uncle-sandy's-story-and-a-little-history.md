@@ -23,4 +23,5 @@ _Redacted_
 
 ## Source Referenced by
 
+* [Alexander Mackay](../people/@2381836@-alexander-mackay-b1844~1849-d.md) (bet' 1844 and 1849 - )
 * [Ann Mackay](../people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md) (bet' 1858 and 1859 - 14/Jun/1889)

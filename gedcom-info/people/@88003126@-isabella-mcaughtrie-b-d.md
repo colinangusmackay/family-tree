@@ -16,6 +16,12 @@ permalink: /people/i88003126
 * Husband: X
 * Daughter: [Mary Houston McAughtrie](./@54273056@-mary-houston-mcaughtrie-b1918-d.md) (about 1918 - )
 
+## Timeline
+
+Date | Item | Description | Sources | Notes
+---|---|---|---|---
+about 1918 | Birth of daughter | [Mary Houston McAughtrie](./@54273056@-mary-houston-mcaughtrie-b1918-d.md) born to [Isabella McAughtrie](./@88003126@-isabella-mcaughtrie-b-d.md). | [1](#1) | 
+
 ## Known Occupations
 
 Date | Occupation | Sources & Notes

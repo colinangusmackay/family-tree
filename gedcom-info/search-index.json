@@ -432,6 +432,48 @@
     ]
   },
   {
+    "id": "i12769933",
+    "nameParts": [
+      "gilchrist",
+      "mungo",
+      "robert"
+    ],
+    "wholeNames": [
+      "Mungo Robert Gilchrist"
+    ],
+    "birth": {
+      "date": "about 1865",
+      "year": 1865,
+      "place": [
+        "oxton",
+        "the scottish borders",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "culter",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1871
+        ]
+      },
+      {
+        "place": [
+          "biggar",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1881
+        ]
+      }
+    ]
+  },
+  {
     "id": "i12774174",
     "nameParts": [
       "catherine",
@@ -759,6 +801,38 @@
     "death": {
       "date": "before 1908"
     }
+  },
+  {
+    "id": "i14432964",
+    "nameParts": [
+      "elizabeth",
+      "gilchrist"
+    ],
+    "wholeNames": [
+      "Elizabeth Gilchrist"
+    ],
+    "birth": {
+      "date": "about 1876",
+      "year": 1876,
+      "place": [
+        "biggar",
+        "south lanarkshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "biggar",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1881,
+          1891
+        ]
+      }
+    ]
   },
   {
     "id": "i14447152",
@@ -1201,6 +1275,39 @@
     "birth": {
       "date": "before 1764"
     }
+  },
+  {
+    "id": "i16272572",
+    "nameParts": [
+      "david",
+      "gilchrist"
+    ],
+    "wholeNames": [
+      "David Gilchrist"
+    ],
+    "birth": {
+      "date": "about November 1901",
+      "year": 1901,
+      "month": 11,
+      "place": [
+        "maryhill",
+        "glasgow",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "cathcart",
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1911,
+          1921
+        ]
+      }
+    ]
   },
   {
     "id": "i16355455",
@@ -3083,6 +3190,57 @@
     "wholeNames": [
       "Janet Gilchrist",
       "Janet Steel"
+    ],
+    "birth": {
+      "date": "about 1840",
+      "year": 1840
+    },
+    "marriages": [
+      {
+        "spouse": "i89232476",
+        "date": "on 8th of June 1866",
+        "year": 1866,
+        "month": 6,
+        "day": 8,
+        "place": [
+          "biggar",
+          "south lanarkshire",
+          "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "biggar",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1866,
+          1881,
+          1891
+        ]
+      },
+      {
+        "place": [
+          "culter",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1871
+        ]
+      },
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1901
+        ]
+      }
     ]
   },
   {
@@ -4063,7 +4221,8 @@
           1960,
           1962,
           1962,
-          1981
+          1981,
+          1988
         ]
       },
       {
@@ -4074,6 +4233,7 @@
         ],
         "dates": [
           2009,
+          2011,
           2019
         ]
       }
@@ -7524,6 +7684,19 @@
     ]
   },
   {
+    "id": "i34546752",
+    "nameParts": [
+      "mungo",
+      "steel"
+    ],
+    "wholeNames": [
+      "Mungo Steel"
+    ],
+    "death": {
+      "date": "before 1866"
+    }
+  },
+  {
     "id": "i34903625",
     "nameParts": [
       "fern",
@@ -7733,6 +7906,18 @@
           "aberdeen",
           "aberdeenshire",
           "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "inverurie",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1969
         ]
       }
     ]
@@ -7992,6 +8177,46 @@
     }
   },
   {
+    "id": "i3615140",
+    "nameParts": [
+      "elisabeth",
+      "elizabeth",
+      "gilchrist",
+      "irvine"
+    ],
+    "wholeNames": [
+      "Elisabeth Irvine Gilchrist",
+      "Elizabeth Gilchrist"
+    ],
+    "birth": {
+      "date": "about 1868",
+      "year": 1868
+    },
+    "death": {
+      "date": "on 9th of September 1874 at 02:30",
+      "year": 1874,
+      "month": 9,
+      "day": 9,
+      "place": [
+        "biggar",
+        "south lanarkshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "culter",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1871
+        ]
+      }
+    ]
+  },
+  {
     "id": "i36552681",
     "nameParts": [
       "b",
@@ -8106,6 +8331,37 @@
     "death": {
       "date": "before 1855"
     }
+  },
+  {
+    "id": "i37120552",
+    "nameParts": [
+      "gilchrist",
+      "jane"
+    ],
+    "wholeNames": [
+      "Jane Gilchrist"
+    ],
+    "birth": {
+      "date": "about 1871",
+      "year": 1871,
+      "place": [
+        "lamington",
+        "south lanarkshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "biggar",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1881
+        ]
+      }
+    ]
   },
   {
     "id": "i37144832",
@@ -10150,6 +10406,17 @@
       }
     ],
     "residences": [
+      {
+        "place": [
+          "cathcart",
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1911,
+          1921
+        ]
+      },
       {
         "place": [
           "glasgow",
@@ -12921,6 +13188,49 @@
     ]
   },
   {
+    "id": "i52398826",
+    "nameParts": [
+      "gilchrist",
+      "mary",
+      "maryann"
+    ],
+    "wholeNames": [
+      "Mary Gilchrist",
+      "Maryann Gilchrist"
+    ],
+    "birth": {
+      "date": "about 1867",
+      "year": 1867,
+      "place": [
+        "skirling",
+        "the scottish borders",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "culter",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1871
+        ]
+      },
+      {
+        "place": [
+          "biggar",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1881
+        ]
+      }
+    ]
+  },
+  {
     "id": "i52409786",
     "nameParts": [
       "barbara",
@@ -15155,8 +15465,14 @@
       "Mary Bowie Sloan"
     ],
     "birth": {
-      "date": "about 1879",
-      "year": 1879
+      "date": "about February 1879",
+      "year": 1879,
+      "month": 2,
+      "place": [
+        "maryhill",
+        "glasgow",
+        "scotland"
+      ]
     },
     "marriages": [
       {
@@ -15181,6 +15497,17 @@
         ],
         "dates": [
           1901
+        ]
+      },
+      {
+        "place": [
+          "cathcart",
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1911,
+          1921
         ]
       }
     ]
@@ -15820,8 +16147,15 @@
       "Alexander Gilchrist"
     ],
     "birth": {
-      "date": "about 1877",
-      "year": 1877
+      "date": "on 30th of September 1877 at 18:20",
+      "year": 1877,
+      "month": 9,
+      "day": 30,
+      "place": [
+        "biggar",
+        "south lanarkshire",
+        "scotland"
+      ]
     },
     "marriages": [
       {
@@ -15840,11 +16174,34 @@
     "residences": [
       {
         "place": [
+          "biggar",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1881,
+          1891
+        ]
+      },
+      {
+        "place": [
           "glasgow",
           "scotland"
         ],
         "dates": [
+          1901,
           1901
+        ]
+      },
+      {
+        "place": [
+          "cathcart",
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1911,
+          1921
         ]
       }
     ]
@@ -17130,6 +17487,16 @@
           2011,
           2017
         ]
+      },
+      {
+        "place": [
+          "charlestown",
+          "fife",
+          "scotland"
+        ],
+        "dates": [
+          2022
+        ]
       }
     ]
   },
@@ -17769,6 +18136,34 @@
         ],
         "dates": [
           1811
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i66882518",
+    "nameParts": [
+      "elizabeth",
+      "gilchrist",
+      "irvine"
+    ],
+    "wholeNames": [
+      "Elizabeth Gilchrist",
+      "Elizabeth Irvine"
+    ],
+    "death": {
+      "date": "after 1866",
+      "year": 1866
+    },
+    "residences": [
+      {
+        "place": [
+          "newton",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1843
         ]
       }
     ]
@@ -19978,6 +20373,21 @@
     "death": {
       "date": "in 1935",
       "year": 1935
+    }
+  },
+  {
+    "id": "i75173110",
+    "nameParts": [
+      "mary",
+      "steel"
+    ],
+    "wholeNames": [
+      "Mary",
+      "Mary Steel"
+    ],
+    "death": {
+      "date": "after 1866",
+      "year": 1866
     }
   },
   {
@@ -22603,6 +23013,17 @@
     "residences": [
       {
         "place": [
+          "inverurie",
+          "aberdeenshire",
+          "scotland"
+        ],
+        "dates": [
+          1968,
+          1969
+        ]
+      },
+      {
+        "place": [
           "brora",
           "sutherland",
           "scotland"
@@ -23046,6 +23467,74 @@
     ],
     "wholeNames": [
       "David Gilchrist"
+    ],
+    "birth": {
+      "date": "on 7th of April 1843",
+      "year": 1843,
+      "month": 4,
+      "day": 7,
+      "place": [
+        "newton",
+        "south lanarkshire",
+        "scotland"
+      ]
+    },
+    "marriages": [
+      {
+        "spouse": "i22623536",
+        "date": "on 8th of June 1866",
+        "year": 1866,
+        "month": 6,
+        "day": 8,
+        "place": [
+          "biggar",
+          "south lanarkshire",
+          "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "skirling",
+          "the scottish borders",
+          "scotland"
+        ],
+        "dates": [
+          1866
+        ]
+      },
+      {
+        "place": [
+          "culter",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1871
+        ]
+      },
+      {
+        "place": [
+          "biggar",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1877,
+          1881,
+          1891
+        ]
+      },
+      {
+        "place": [
+          "glasgow",
+          "scotland"
+        ],
+        "dates": [
+          1901
+        ]
+      }
     ]
   },
   {
@@ -25056,6 +25545,32 @@
         "place": [
           "birmingham",
           "england"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i97711748",
+    "nameParts": [
+      "alexander",
+      "gilchrist"
+    ],
+    "wholeNames": [
+      "Alexander Gilchrist"
+    ],
+    "death": {
+      "date": "after 1866",
+      "year": 1866
+    },
+    "residences": [
+      {
+        "place": [
+          "newton",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1843
         ]
       }
     ]

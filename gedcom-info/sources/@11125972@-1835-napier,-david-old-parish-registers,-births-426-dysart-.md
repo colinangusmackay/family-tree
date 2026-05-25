@@ -30,4 +30,8 @@ Source Last Updated | 22/Jan/2023 13:46:39
 
 ## Source Referenced by
 
-* [David Napier](../people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md) (12/Sep/1835 - 2/Nov/1901)
+* Napier
+  * [David Napier](../people/@71012752@-david-napier-b-d.md)
+  * [David Napier](../people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md) (12/Sep/1835 - 2/Nov/1901)
+* Williamson
+  * [Agnes Williamson](../people/@35381484@-agnes-williamson-b1815-10-11-d.md) (11/Oct/1815 - )

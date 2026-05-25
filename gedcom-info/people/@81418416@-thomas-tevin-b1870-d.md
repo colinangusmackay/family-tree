@@ -19,6 +19,7 @@ permalink: /people/i81418416
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 about 1870 | Born | Born to [Richard Tevin](./@65007133@-richard-tevin-b1841-d.md) and [Susan McKay](./@29671874@-susan-mckay-b1833-4-d1886.md) in Lennoxtown, Scotland. | [1](#1) | 
+before 1886 | Death of mother | [Susan McKay](./@29671874@-susan-mckay-b1833-4-d1886.md) died. | [2](#2) | 
 
 ## Known Residences
 
@@ -37,4 +38,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1871 C 475/ 6/ 29
+
+### 2
+
+**1886 MCKNIGHT, THOMAS & TEEVIN, MAGGIE (Statutory Registers Marriages 644/12 422)**
+
+* [Full text and notes](../sources/@45397776@-1886-mcknight,-thomas-&-teevin,-maggie-statutory-registers-marriages-644-12-422-.md)
+* Date: 26/Oct/1886
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1886 M 644/12 422
 

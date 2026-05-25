@@ -24,6 +24,8 @@ permalink: /people/i99806264
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1891 | Born | Born to [John Litster](./@27896288@-john-litster-b-d.md) and [Robina Stobie](./@73873122@-robina-stobie-b-d.md). | [1](#1) | 
+2/Mar/1940 | Marriage | Married to [Thomas Sharp Crawford](./@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md) in Kirkcaldy, Fife, Scotland | [1](#1) | 
+5/Mar/1968 | Death of partner | [Thomas Sharp Crawford](./@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md) died in Kirkcaldy, Fife, Scotland. | [2](#2) | 
 
 ## Known Residences
 
@@ -42,4 +44,14 @@ Date | Residence | Sources & Notes
 * Responsible Agency: National Records of Scotland
 * References: 
   * 1940 M 442/ 93
+
+### 2
+
+**1968 CRAWFORD, THOMAS SHARP (Statutory Register of Deaths 442/ 168)**
+
+* [Full text and notes](../sources/@69379252@-1968-crawford,-thomas-sharp-statutory-register-of-deaths-442-168-.md)
+* Date: 5/Mar/1898
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1968 D 442/ 168
 

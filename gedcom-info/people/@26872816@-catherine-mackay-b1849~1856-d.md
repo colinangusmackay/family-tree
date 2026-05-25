@@ -33,21 +33,32 @@ permalink: /people/i26872816
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 bet' 1849 and 1856 | Born | Born to [George Mackay](./@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) and [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md). | [1](#1), [2](#2) | [3](#3)
+bet' 1849 and 1854 | Birth of sister | [Barbara Mackay](./@52409786@-barbara-mackay-b1849~1854-d.md) born to [George Mackay](./@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) and [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md). | [1](#1), [2](#2) | [4](#4)
+about 1855 | Birth of brother | [Donald Mackay](./@32633938@-donald-mackay-b1855-d.md) born to [George Mackay](./@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) and [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md). | [1](#1), [2](#2) | 
+5/Nov/1855 | Birth of sister | [Ann Mackay](./@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) born to [George Mackay](./@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) and [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2), [5](#5), [6](#6) | [7](#7)
+about 1859 | Birth of sister | [Jane or Jean Mackay](./@4172390@-jane-or-jean-mackay-b1859-d.md) born to [George Mackay](./@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) and [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md). | [1](#1), [2](#2), [8](#8) | [9](#9)
+1860 | Death of brother | [David Mackay](./@46263680@-david-mackay-b1846-d1860.md) died. | [2](#2) | 
+12/Apr/1861 | Birth of brother | [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) born to [George Mackay](./@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) and [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2), [10](#10), [11](#11), [12](#12) | 
+21/Oct/1873 | Marriage | Married to [Alexander Mackay](./@25433155@-alexander-mackay-b1850-d.md)  | [1](#1), [2](#2) | 
+25/Nov/1893 | Death of father | [George Mackay](./@33764614@-george-mackay-b1811-10-26-d1893-11-25.md) died in Embo, Sutherland, Scotland. | [1](#1), [13](#13) | 
+23/Aug/1896 | Death of mother | [Lucy Matheson](./@67811996@-lucy-matheson-b1813~1820-d1896-8-23.md) died in Embo, Sutherland, Scotland. | [1](#1), [14](#14) | 
+6/Jul/1903 | Death of brother | [James Mackay](./@60572122@-james-mackay-b1861-4-12-d1903-7-6.md) died. | [15](#15) | 
+21/Apr/1940 | Death of sister | [Ann Mackay](./@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md) died. | [16](#16), [17](#17) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1851 | Embo, Sutherland, Scotland | [4](#4)
-1861 | Embo, Sutherland, Scotland | [5](#5)
-1871 | Embo, Sutherland, Scotland | [6](#6)
+1851 | Embo, Sutherland, Scotland | [18](#18)
+1861 | Embo, Sutherland, Scotland | [8](#8)
+1871 | Embo, Sutherland, Scotland | [19](#19)
 1873 | Embo, Sutherland, Scotland | [1](#1)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1871 | Fisherwoman | [6](#6)
+1871 | Fisherwoman | [19](#19)
 
 ## Notes
 
@@ -93,15 +104,45 @@ Date | Occupation | Sources & Notes
 
 ### 4
 
-**1951 MACKAY, GEORGE & HOUSEHOLD (Census 1851 047/ 5/ 11)**
+> Two differing suggestions
+>
+> <br/>
+>
+> EMBO says 1854
+>
+> Letter to B.M.Tulloch says 19 years back from marriage in 1869 which would put birth between 17/Nov/1849 and 16/Nov/1850
+>
+> Does not appear on the 1851 census.
+>
+> Does appear on the 1861 census, but aged 7.
+>
 
-* [Full text and notes](../sources/@77150351@-1951-mackay,-george-&-household-census-1851-047-5-11-.md)
-* Date: 1851
-* Responsible Agency: National Registers of Scotland
-* References: 
-  * 1851 C 047/ 5/ 11
 
 ### 5
+
+**1855 MACKAY, ANN (Statutory Register of Births 047/2 44)**
+
+* [Full text and notes](../sources/@9162976@-1855-mackay,-ann-statutory-register-of-births-047-2-44-.md)
+* Date: 7/Nov/1855
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1855 B 047/2 44
+
+### 6
+
+**2020 CUMMING, ADAM 1/3 Descendant Report**
+
+* [Full text and notes](../sources/@96911480@-2020-cumming,-adam-1-3-descendant-report.md)
+* Originator / Author: Helen McDermott
+* Date: 13/Jan/2020
+
+### 7
+
+> There are some conflicts between sources on the date of birth. Going with the most precise, which is also from a registrar - so assuming also the most accurate.
+>
+
+
+### 8
 
 **1861 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 1/ 15)**
 
@@ -111,7 +152,110 @@ Date | Occupation | Sources & Notes
 * References: 
   * 1861 C 047/ 1/ 15
 
-### 6
+### 9
+
+> EMBO/P113/F9.2.10 suggests DoB about 1859
+>
+> Letter to TULLOCH says married on 24/Mar/1892 at 29, which puts birth between 25/Mar/1862 and 24/Mar/1863
+>
+> Appears on the 1861 census as a 2 year old.
+>
+
+
+### 10
+
+**1861 MACKAY, JAMES - Statutory Register Births**
+
+* [Full text and notes](../sources/@91936123@-1861-mackay,-james-statutory-register-births.md)
+* Publication: Statutory Register Births
+* Date: 15/Apr/1861
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1861 B 047/25
+
+### 11
+
+**1861 MACKAY, JAMES (Scotland Births and Baptisms, 1564-1950)**
+
+* [Full text and notes](../sources/@81027024@-1861-mackay,-james-scotland-births-and-baptisms,-1564-1950-.md)
+* Publication: Scotland Births and Baptisms, 1564-1950
+* Responsible Agency: FamilySearch
+* References: 
+  * (URL) https://www.familysearch.org/ark:/61903/1:1:FQRF-PL4
+
+### 12
+
+**P116 Embo - genealogy, Uncle Sandy's Story and a little history**
+
+* [Full text and notes](../sources/@26144122@-p116-embo-genealogy,-uncle-sandy's-story-and-a-little-history.md)
+* Publication: Embo - genealogy, Uncle Sandy's Story and a little history
+* Originator / Author: Catriona Grigg
+* Date: 2016
+* Filed by Entry: EMBO/P116/F9.2.11
+* References: 
+  * (ISBN) 978-1-910205-49-5
+
+### 13
+
+**1893 MACKAY, GEORGE (Statutory Register of Deaths 047/ 36)**
+
+* [Full text and notes](../sources/@49049588@-1893-mackay,-george-statutory-register-of-deaths-047-36-.md)
+* Date: 27/Nov/1893
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1893 D 047/ 36
+
+### 14
+
+**1896 MACKAY, LUCY (Statutory Register of Deaths 047/ 25)**
+
+* [Full text and notes](../sources/@78326520@-1896-mackay,-lucy-statutory-register-of-deaths-047-25-.md)
+* Date: 24/Aug/1896
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1896 D 047/ 25
+
+### 15
+
+**1903 MACKAY, JAMES (Statutory Register of Deaths 047/ 24)**
+
+* [Full text and notes](../sources/@53286704@-1903-mackay,-james-statutory-register-of-deaths-047-24-.md)
+* Date: 7/Jul/1903
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1903 D 047/ 24
+
+### 16
+
+**1940 CUMMING, ANNIE (Statutory Register of Deaths, 047/ 18)**
+
+* [Full text and notes](../sources/@31629256@-1940-cumming,-annie-statutory-register-of-deaths,-047-18-.md)
+* Date: 22/Apr/1940
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1940 D 047/ 18
+
+### 17
+
+**CUMMING, DONALD, CATHERINE, ADAM, JAMES, ANN (Find a grave - Memorial 195215019)**
+
+* [Full text and notes](../sources/@34502004@-cumming,-donald,-catherine,-adam,-james,-ann-find-a-grave-memorial-195215019-.md)
+* Publication: FindAGrave.com
+* Date: 7/Dec/2018
+* References: 
+  * (URL) https://www.findagrave.com/memorial/195215019/adam-cumming
+
+### 18
+
+**1951 MACKAY, GEORGE & HOUSEHOLD (Census 1851 047/ 5/ 11)**
+
+* [Full text and notes](../sources/@77150351@-1951-mackay,-george-&-household-census-1851-047-5-11-.md)
+* Date: 1851
+* Responsible Agency: National Registers of Scotland
+* References: 
+  * 1851 C 047/ 5/ 11
+
+### 19
 
 **1871 MACKAY, GEORGE & HOUSEHOLD (Census 047/ 1/L 12)**
 

@@ -132,8 +132,11 @@ Source Last Updated | 28/Jan/2023 20:02:00
 
 ## Source Referenced by
 
+* Buchanan
+  * [Janet Buchanan](../people/@48339564@-janet-buchanan-b-d.md)
 * Dalrymple
   * [Janet Balfour Dalrymple](../people/@30057967@-janet-balfour-dalrymple-b1875-12-16-d1960-3-2.md) (16/Dec/1875 - 2/Mar/1960)
+  * [John Dalrymple](../people/@90699645@-john-dalrymple-b-d.md)
 * Napier
   * [Alexander Napier](../people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md) (4/Nov/1872 - 18/Apr/1952)
   * [David Napier](../people/@46994217@-david-napier-b1901-d.md) (about 1901 - )

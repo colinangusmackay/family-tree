@@ -3,7 +3,26 @@
   "Name": "Janet Steel",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1840",
   "DateOfDeath": "",
-  "Parents": []
+  "Parents": [
+    {
+      "Id": "i75173110",
+      "Name": "Mary",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "after 1866",
+      "Parents": []
+    },
+    {
+      "Id": "i34546752",
+      "Name": "Mungo Steel",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1866",
+      "Parents": []
+    }
+  ]
 }

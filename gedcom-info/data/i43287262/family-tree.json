@@ -11,7 +11,7 @@
       "Id": "i61092708",
       "Name": "Alexander Gilchrist",
       "Gender": "Male",
-      "DateOfBirth": "about 1877",
+      "DateOfBirth": "30/Sep/1877",
       "DateOfDeath": "",
       "RelationToSubject": "father"
     },
@@ -19,12 +19,26 @@
       "Id": "i59122260",
       "Name": "Mary Bowie Sloan",
       "Gender": "Female",
-      "DateOfBirth": "about 1879",
+      "DateOfBirth": "about Feb/1879",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     }
   ],
   "Siblings": [
+    {
+      "Id": "i16272572",
+      "Name": "David Gilchrist",
+      "Gender": "Male",
+      "DateOfBirth": "about Nov/1901",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i59122260",
+          "i61092708"
+        ]
+      ]
+    },
     {
       "Id": "i43287262",
       "Name": "James Gilchrist",

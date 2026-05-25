@@ -21,4 +21,7 @@ _Redacted because this source is referenced by a (potentially) living person and
 
 ## Source Referenced by
 
-* [Marion Pearson](../people/@82667928@-marion-pearson-b-d1892.md) ( - before 1892)
+* Napier
+  * [Elizabeth Napier](../people/@22336798@-elizabeth-napier-b1866-11-17-d.md) (17/Nov/1866 - )
+* Pearson
+  * [Marion Pearson](../people/@82667928@-marion-pearson-b-d1892.md) ( - before 1892)

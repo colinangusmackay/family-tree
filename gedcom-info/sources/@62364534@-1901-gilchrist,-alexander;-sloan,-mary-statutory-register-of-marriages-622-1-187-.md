@@ -75,12 +75,17 @@ Source Last Updated | 13/May/2025 23:10:50
 ## Source Referenced by
 
 * Gilchrist
-  * [Alexander Gilchrist](../people/@61092708@-alexander-gilchrist-b1877-d.md) (about 1877 - )
-  * [David Gilchrist](../people/@89232476@-david-gilchrist-b-d.md)
+  * [Alexander Gilchrist](../people/@61092708@-alexander-gilchrist-b1877-9-30-d.md) (30/Sep/1877 - )
+  * [David Gilchrist](../people/@89232476@-david-gilchrist-b1843-4-7-d.md) (7/Apr/1843 - )
+  * [Elizabeth Gilchrist](../people/@14432964@-elizabeth-gilchrist-b1876-d.md) (about 1876 - )
+  * [Jane Gilchrist](../people/@37120552@-jane-gilchrist-b1871-d.md) (about 1871 - )
+  * [Mary Gilchrist](../people/@52398826@-mary-gilchrist-b1867-d.md) (about 1867 - )
 * Kirkland
   * [Margaret Kirkland](../people/@48501002@-margaret-kirkland-b-d.md)
+* Robert /Gilchrist
+  * [MungoRobert Gilchrist](../people/@12769933@-mungorobert-gilchrist-b1865-d.md) (about 1865 - )
 * Sloan
   * [James Sloan](../people/@16524688@-james-sloan-b-d1901.md) ( - before 1901)
-  * [Mary Bowie Sloan](../people/@59122260@-mary-bowie-sloan-b1879-d.md) (about 1879 - )
+  * [Mary Bowie Sloan](../people/@59122260@-mary-bowie-sloan-b1879-2-d.md) (about Feb/1879 - )
 * Steel
-  * [Janet Steel](../people/@22623536@-janet-steel-b-d.md)
+  * [Janet Steel](../people/@22623536@-janet-steel-b1840-d.md) (about 1840 - )

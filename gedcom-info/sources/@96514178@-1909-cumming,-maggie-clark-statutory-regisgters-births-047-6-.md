@@ -46,5 +46,8 @@ Source Last Updated | 18/Jun/2022 20:43:56
 
 ## Source Referenced by
 
-* [James Cumming](../people/@64418166@-james-cumming-b1881-11-4-d1918.md) (4/Nov/1881 - before 1918)
-* [Maggie Cumming](../people/@86945960@-maggie-cumming-b1909-1-19-d.md) (19/Jan/1909 - )
+* Clark
+  * [Catherine Wink Clark](../people/@35162161@-catherine-wink-clark-b1879-3-27-d.md) (27/Mar/1879 - )
+* Cumming
+  * [James Cumming](../people/@64418166@-james-cumming-b1881-11-4-d1918.md) (4/Nov/1881 - before 1918)
+  * [Maggie Cumming](../people/@86945960@-maggie-cumming-b1909-1-19-d.md) (19/Jan/1909 - )

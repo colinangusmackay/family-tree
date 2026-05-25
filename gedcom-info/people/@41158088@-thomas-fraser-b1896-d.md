@@ -24,6 +24,12 @@ permalink: /people/i41158088
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 1896 | Born | Born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+1900 | Birth of brother | [Kenneth Fraser](./@73587538@-kenneth-fraser-b1900-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
+1902 | Birth of sister | [Bella Fraser](./@25936309@-bella-fraser-b1902-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [2](#2) | 
+1904 | Birth of sister | [Christina Fraser](./@8163648@-christina-fraser-b1904-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [2](#2) | 
+1906 | Birth of brother | [John J Barrow G Fraser](./@43044884@-john-j-barrow-g-fraser-b1906-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [2](#2) | 
+1908 | Birth of brother | [William Fraser](./@94771760@-william-fraser-b1908-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md) in Embo, Sutherland, Scotland. | [2](#2) | 
+1912 | Birth of sister | [Davidina Fraser](./@27014400@-davidina-fraser-b1912-d.md) born to [Thomas Fraser](./@28777404@-thomas-fraser-b1866-6-19-d.md) and [Barbra Mackay](./@60643714@-barbra-mackay-b1871-8-25-d.md). | [3](#3) | 
 
 ## Known Residences
 
