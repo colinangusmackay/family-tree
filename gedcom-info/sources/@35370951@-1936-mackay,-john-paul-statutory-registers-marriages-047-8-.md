@@ -95,7 +95,7 @@ Source Last Updated | 2/Jan/2022 14:43:05
 ## Source Referenced by
 
 * Mackay
-  * [Catherine Mackay](../people/@28166672@-catherine-mackay-b1900-9-3-d.md) (3/Sep/1900 - )
+  * [Catherine Mackay](../people/@28166672@-catherine-mackay-b1900-9-3-d1992-1-21.md) (3/Sep/1900 - 21/Jan/1992)
   * [John Mackay](../people/@53390906@-john-mackay-b-d.md)
   * [John Paul Mackay](../people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) (13/Mar/1899 - 3/Jul/1969)
 * MacLeod

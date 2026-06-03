@@ -38,30 +38,31 @@ about 1928 | Birth of son | X born to [Kenneth Mackay](./@48909111@-kenneth-mack
 after 1931 | Birth of daughter | X born to [Kenneth Mackay](./@48909111@-kenneth-mackay-b1895-2-2-d.md) and [Helen Morrison](./@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md). |  | 
 1/Jun/1931 | Census | Census | [13](#13) | 
 23/Apr/1936 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md) died in Embo, Sutherland, Scotland. | [11](#11), [14](#14), [15](#15) | 
-3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [16](#16) | 
-15/May/1970 | Death of sister | [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) died in Inverness, Scotland. | [17](#17) | 
-24/Aug/1973 | Death of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) died in Inverness, Highland, Scotland, . | [18](#18) | 
-24/Sep/1982 | Death of brother | [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) died in Glasgow, Scotland. | [19](#19), [20](#20), [21](#21) | 
-30/Sep/1982 | Burial of brother | [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) was buried in Glasgow, Scotland, . | [19](#19), [22](#22) | 
-28/Dec/1984 | Death of partner | [Helen Morrison](./@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md) died in Toronto, York, Ontario, Canada. | [23](#23) | 
-1985 | Burial of partner | [Helen Morrison](./@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md) was buried in Toronto, York, Ontario, Canada. | [23](#23), [24](#24) | 
+1969 | Burial of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) was buried in Dornoch Free Church Cemetery, Dornoch, Sutherland, Scotland. | [16](#16) | 
+3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [16](#16), [17](#17) | 
+15/May/1970 | Death of sister | [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) died in Inverness, Scotland. | [18](#18) | 
+24/Aug/1973 | Death of sister | [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md) died in Inverness, Highland, Scotland, . | [19](#19) | 
+24/Sep/1982 | Death of brother | [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) died in Glasgow, Scotland. | [20](#20), [21](#21), [22](#22) | 
+30/Sep/1982 | Burial of brother | [William Alexander Mackay](./@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md) was buried in Glasgow, Scotland, . | [20](#20), [23](#23) | 
+28/Dec/1984 | Death of partner | [Helen Morrison](./@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md) died in Toronto, York, Ontario, Canada. | [24](#24) | 
+1985 | Burial of partner | [Helen Morrison](./@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md) was buried in Toronto, York, Ontario, Canada. | [24](#24), [25](#25) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1901 | 6 Terrace Street, Embo, Dornoch, Sutherland, Scotland | [25](#25)
-1911 | 6 Terrace Street, Embo, Sutherlandshire | [26](#26)
+1901 | 6 Terrace Street, Embo, Dornoch, Sutherland, Scotland | [26](#26)
+1911 | 6 Terrace Street, Embo, Sutherlandshire | [27](#27)
 1923 | 2041 Dundas Street, West Toronto, Ontario, Canada | [11](#11)
 1926 | Detroit, Michigan, United States of America | [12](#12)
-1930 | 146 King Edward Avenue, Toronto, Ontario, Canada | [27](#27), [28](#28)
+1930 | 146 King Edward Avenue, Toronto, Ontario, Canada | [28](#28), [29](#29)
 1931 | 146 King Edward Avenue, Toronto, Ontario, Canada | [13](#13)
 
 ## Known Occupations
 
 Date | Occupation | Sources & Notes
 ---|---|---
-1911 | Fisherman | [26](#26)
+1911 | Fisherman | [27](#27)
 before 1923 | Fisherman | [11](#11)
 1926 | Mechanic | [12](#12)
 1931 | Receiver | [13](#13)
@@ -205,7 +206,16 @@ before 1923 | Fisherman | [11](#11)
 
 ### 16
 
-**1969 X, JOHN PAUL (Statutory registers Deaths 047/18)**
+**1969 MACKAY, JOHN PAUL (FindAGrave.com)**
+
+* [Full text and notes](../sources/@65120865@-1969-mackay,-john-paul-findagrave.com-.md)
+* Publication: FindAGrave.com
+* References: 
+  * (URL) https://www.findagrave.com/memorial/263488579/john-paul-mackay
+
+### 17
+
+**1969 MACKAY, JOHN PAUL (Statutory registers Deaths 047/18)**
 
 * [Full text and notes](../sources/@24508315@-1969-mackay,-john-paul-statutory-registers-deaths-047-18-.md)
 * Date: 3/Jul/1969
@@ -213,7 +223,7 @@ before 1923 | Fisherman | [11](#11)
 * References: 
   * 1969 D 047/18
 
-### 17
+### 18
 
 **1970 MACKAY, LUCY (Statutory Register Deaths)**
 
@@ -223,7 +233,7 @@ before 1923 | Fisherman | [11](#11)
 * References: 
   * 1970 D 98/A 269
 
-### 18
+### 19
 
 **1973 FRASER, MARGARET MOYES (Statutory Register of Deaths 182/ 22)**
 
@@ -233,14 +243,14 @@ before 1923 | Fisherman | [11](#11)
 * References: 
   * 1973 M 182/22
 
-### 19
+### 20
 
 **1982 MACKAY, WILLIAM A (Register of Interments, Western Necropolis, Glasgow)**
 
 * [Full text and notes](../sources/@43410300@-1982-mackay,-william-a-register-of-interments,-western-necropolis,-glasgow-.md)
 * ![Extract from the Register of Interments](../media/9684528_thumb.jpg)
 
-### 20
+### 21
 
 **1982 X, X ALEXANDER (Register of Deaths)**
 
@@ -250,7 +260,7 @@ before 1923 | Fisherman | [11](#11)
 * References: 
   * 10738085
 
-### 21
+### 22
 
 **1982 X, X ALEXANDER (X Gilchrist Funerals Ltd. Invoice)**
 
@@ -260,13 +270,13 @@ before 1923 | Fisherman | [11](#11)
 * References: 
   * C/922/N
 
-### 22
+### 23
 
 **1983 X, X ALEXANDER; MARY ANN (Various documents relating to the memorial plot)**
 
 * [Full text and notes](../sources/@42662686@-1983-mackay,-william-alexander;-mary-ann-various-documents-relating-to-the-memorial-plot-.md)
 
-### 23
+### 24
 
 **1985 X, HELEN (Obituary, Anderson Independent-Mail)**
 
@@ -274,7 +284,7 @@ before 1923 | Fisherman | [11](#11)
 * Publication: Anderson Independent-Mail
 * Date: 1/Jan/1985
 
-### 24
+### 25
 
 **1984 MACKAY, HELEN (Find a Grave)**
 
@@ -283,7 +293,7 @@ before 1923 | Fisherman | [11](#11)
 * References: 
   * (URL) https://www.findagrave.com/memorial/277049497/helen-mackay
 
-### 25
+### 26
 
 **1901 MACKAY, JAMES & Family (Census 047/2/14)**
 
@@ -293,7 +303,7 @@ before 1923 | Fisherman | [11](#11)
 * References: 
   * 1901 047/2/14
 
-### 26
+### 27
 
 **1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)**
 
@@ -303,7 +313,7 @@ before 1923 | Fisherman | [11](#11)
 * References: 
   * 1911 C 047/ 3/ 12
 
-### 27
+### 28
 
 **1930 MACKAY, WILLIAM ALEXANDER - Marriage to Mary Ann Cumming**
 
@@ -313,7 +323,7 @@ before 1923 | Fisherman | [11](#11)
 * References: 
   * 002154
 
-### 28
+### 29
 
 **1930 MACKAY, WILLIAM ALEXANDER & CUMMING, MARY ANN (Marriage Certificate)**
 

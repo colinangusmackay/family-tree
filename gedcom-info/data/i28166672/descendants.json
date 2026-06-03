@@ -4,17 +4,8 @@
   "Gender": "Female",
   "Relationship": "Self",
   "DateOfBirth": "3/Sep/1900",
-  "DateOfDeath": "",
+  "DateOfDeath": "21/Jan/1992",
   "Children": [
-    {
-      "Id": "i56962662",
-      "Name": "X",
-      "Gender": "Female",
-      "Relationship": "daughter",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "Children": []
-    },
     {
       "Id": "i81073044",
       "Name": "X",
@@ -32,6 +23,25 @@
       "DateOfBirth": "",
       "DateOfDeath": "",
       "Children": []
+    },
+    {
+      "Id": "i56962662",
+      "Name": "Anna Mackay",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1938",
+      "DateOfDeath": "1982",
+      "Children": [
+        {
+          "Id": "i28007064",
+          "Name": "X",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "1962",
+          "DateOfDeath": "",
+          "Children": []
+        }
+      ]
     }
   ]
 }

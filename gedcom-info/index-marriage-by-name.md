@@ -49,6 +49,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Catherine Wink Clark](people/@35162161@-catherine-wink-clark-b1879-3-27-d.md)** (27/Mar/1879 - ) and **[James Cumming](people/@64418166@-james-cumming-b1881-11-4-d1918.md)** (4/Nov/1881 - before 1918) **on 24th of December 1907** at Aberdeen, Aberdeenshire, Scotland.
   * **[James Clark](people/@29410614@-james-clark-b-d.md)** and **[Jamesina Morrison](people/@11801376@-jamesina-morrison-b-d.md)** **on 1st of December 1876**.
 
+## Connel
+
+  * **[Helen Connel](people/@33340775@-helen-connel-b-d.md)** and **[John Irvine](people/@43682238@-john-irvine-b-d.md)** **about February 1897** at Douglas, South Lanarkshire, Scotland.
+
 ## Copeland
 
   * **[Helen Copeland](people/@65737621@-helen-copeland-b-d.md)** and **[John Morrison](people/@83544218@-john-morrison-b-d.md)** **on 25th of September 1885** at Peterhead, Aberdeenshire, Scotland.
@@ -141,6 +145,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Ann Fraser](people/@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md)** (4/Aug/1864 - 4/May/1891) and **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) **on 12th of November 1889** at Dornoch, Sutherland, Scotland.
   * **[Anna Catherine Fraser](people/@28456848@-anna-catherine-fraser-b1937-8-28-d1992.md)** (28/Aug/1937 - 1992) and **[Donald James Mackay](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011).
   * **[Barbara Fraser](people/@26057486@-barbara-fraser-b1894-d.md)** (1894 - ) and **[Thomas Sharp Crawford](people/@2569089@-thomas-sharp-crawford-b1897-8-3-d1968-3-5.md)** (3/Aug/1897 - 5/Mar/1968) **on 22nd of March 1918** at Kirkcaldy, Fife, Scotland.
+  * **[Isabella Fraser](people/@67511231@-isabella-fraser-b1859-d.md)** (about 1859 - ) and **[Kenneth Ross](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - ) **on 9th of October 1877** at Dornoch, Sutherland, Scotland.
   * **[John Hugh Fraser](people/@19170576@-john-hugh-fraser-b1925-d.md)** (1925 - ) and X **on 29th of September 1947** at Sydney, New South Wales, Australia.
   * **[Kenneth Fraser](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883) and **[Isabella Mackay](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881) **on 24th of November 1820** at Embo, Sutherland, Scotland.
   * **[Kenneth Fraser](people/@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md)** (19/Oct/1877 - 9/May/1954) and **[Jessie Mackay](people/@32677248@-jessie-mackay-b1880-9-12-d1932-2-7.md)** (12/Sep/1880 - 7/Feb/1932) **on 16th of January 1912** at Dornoch, Sutherland, Scotland.
@@ -163,6 +168,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
 ## Gilchrist
 
+  * **[Alexander Gilchrist](people/@97711748@-alexander-gilchrist-b1801-d1880-8-15.md)** (about 1801 - 15/Aug/1880) and **[Elizabeth Irvine](people/@66882518@-elizabeth-irvine-b1801-5-10-d1874-12-2.md)** (10/May/1801 - 2/Dec/1874) **on 7th of May 1824** at Lamington, South Lanarkshire, Scotland.
   * **[Alexander Gilchrist](people/@61092708@-alexander-gilchrist-b1877-9-30-d.md)** (30/Sep/1877 - ) and **[Mary Bowie Sloan](people/@59122260@-mary-bowie-sloan-b1879-2-d.md)** (about Feb/1879 - ) **on 16th of August 1901** at Maryhill, Glasgow, Scotland.
   * **[David Gilchrist](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - ) and **[Janet Steel](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - ) **on 8th of June 1866** at Biggar, South Lanarkshire, Scotland.
   * **[James Gilchrist](people/@43287262@-james-gilchrist-b1904-9-9-d1998.md)** (9/Sep/1904 - 1998) and **[Annie Murie Howie](people/@89893535@-annie-murie-howie-b1912-3-19-d.md)** (19/Mar/1912 - ) **on 31st of August 1933** at Glasgow, Scotland, .
@@ -239,6 +245,11 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Georgina Hunter](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - ) and **[Peter Alexander Howie](people/@60521938@-peter-alexander-howie-b1890-1-15-d.md)** (15/Jan/1890 - ) **on 8th of September 1911** at Cathcart, Glasgow, Scotland.
 
+## Irvine
+
+  * **[Elizabeth Irvine](people/@66882518@-elizabeth-irvine-b1801-5-10-d1874-12-2.md)** (10/May/1801 - 2/Dec/1874) and **[Alexander Gilchrist](people/@97711748@-alexander-gilchrist-b1801-d1880-8-15.md)** (about 1801 - 15/Aug/1880) **on 7th of May 1824** at Lamington, South Lanarkshire, Scotland.
+  * **[John Irvine](people/@43682238@-john-irvine-b-d.md)** and **[Helen Connel](people/@33340775@-helen-connel-b-d.md)** **about February 1897** at Douglas, South Lanarkshire, Scotland.
+
 ## Lawrence
 
   * **[Margaret Kinnomond Lawrence](people/@71043319@-margaret-kinnomond-lawrence-b1906-d.md)** (1906 - ) and **[John Morgan Ramsay](people/@55070438@-john-morgan-ramsay-b1905-3-31-d1966-12-31.md)** (31/Mar/1905 - 31/Dec/1966) **on 23rd of January 1931** at Edinburgh, Scotland.
@@ -255,6 +266,10 @@ A list of marriages, civil partnerships and civil unions by family name. There w
 
   * **[Archibald King Lorimer](people/@37201190@-archibald-king-lorimer-b1896-d.md)** (about 1896 - ) and **[Mary Hanton](people/@24857040@-mary-hanton-b1902-d1989.md)** (about 1902 - 1989) **on 13th of November 1940** at Paisley, Renfrewshire, Scotland.
 
+## Lyon
+
+  * **[Bruce Mackay Lyon](people/@74298382@-bruce-mackay-lyon-b1931-d2021.md)** (1931 - 2021) and **[Anna Mackay](people/@56962662@-anna-mackay-b1938-d1982.md)** (about 1938 - 1982) **in 1958** at Golspie, Sutherland, Scotland.
+
 ## MacDonald
 
   * **[Isabella MacDonald](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - ) and **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ) **on 30th of December 1881** at Golspie, Sutherland, Scotland.
@@ -270,6 +285,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Alexander Mackay](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ) and X **on 2nd of November 1889**.
   * **[Ann Mackay](people/@74868546@-ann-mackay-b1855-11-5-d1940-4-21.md)** (5/Nov/1855 - 21/Apr/1940) and **[Adam Cumming](people/@55409960@-adam-cumming-b1841-7-2-d1926-1-18.md)** (2/Jul/1841 - 18/Jan/1926) **on 17th of October 1876** at Dornoch, Sutherland, Scotland.
   * **[Ann Mackay](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889) and **[Alexander Mackay](people/@2381836@-alexander-mackay-b1844~1849-d.md)** (bet' 1844 and 1849 - ) **on 23rd of October 1877** at Dornoch, Sutherland, Scotland.
+  * **[Anna Mackay](people/@56962662@-anna-mackay-b1938-d1982.md)** (about 1938 - 1982) and **[Bruce Mackay Lyon](people/@74298382@-bruce-mackay-lyon-b1931-d2021.md)** (1931 - 2021) **in 1958** at Golspie, Sutherland, Scotland.
   * **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942) and X **before 1897**.
   * **[Annie Mackay](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942) and **[Hugh Grant](people/@31066628@-hugh-grant-b1863-2-26-d1944-9-10.md)** (26/Feb/1863 - 10/Sep/1944) **on 21st of January 1898**.
   * **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - ) and **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md)** (19/Jan/1817 - 21/Feb/1894) **on 16th of November 1869**.
@@ -277,7 +293,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Bella Mackay](people/@54814674@-bella-mackay-b1885-d.md)** (about 1885 - ) and **[Alexander Ross](people/@34528442@-alexander-ross-b1883-d.md)** (1883 - ) **on 3rd of July 1908** at Tain, Ross and Cromarty, Scotland.
   * **[Betsy Mackay](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - ) and **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ) **on 1st of December 1881** at Dornoch, Sutherland, Scotland.
   * **[Catherine Mackay](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - ) and **[Alexander Mackay](people/@25433155@-alexander-mackay-b1850-d.md)** (about 1850 - ) **on 21st of October 1873**.
-  * **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ) and **[John Paul Mackay](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969) **on 10th of November 1936** at Embo, Sutherland, Scotland.
+  * **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d1992-1-21.md)** (3/Sep/1900 - 21/Jan/1992) and **[John Paul Mackay](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969) **on 10th of November 1936** at Embo, Sutherland, Scotland.
   * **[Christina Mackay](people/@10983472@-christina-mackay-b1848-d.md)** (about 1848 - ) and **[Peter Fraser](people/@16594334@-peter-fraser-b1847-d.md)** (about 1847 - ) **on 9th of February 1866** at Dornoch, Sutherland, Scotland.
   * **[Donald Mackay](people/@32633938@-donald-mackay-b1855-d.md)** (about 1855 - ) and **[Betsy Mackay](people/@49855242@-betsy-mackay-b1855~1856-d.md)** (bet' 1855 and 1856 - ) **on 1st of December 1881** at Dornoch, Sutherland, Scotland.
   * **[Donald Mackay](people/@58341424@-donald-mackay-b1876-11-25-d1939-11-22.md)** (25/Nov/1876 - 22/Nov/1939) and **[Barbara Ann Cumming](people/@57039529@-barbara-ann-cumming-b1885-8-30-d1977.md)** (30/Aug/1885 - 1977) **on 27th of November 1903**.
@@ -287,7 +303,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Isabella Mackay](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862) and **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md)** (19/Jan/1817 - 21/Feb/1894) **on 14th of December 1855** at Dornoch, Sutherland, Scotland.
   * **[Isabella Mackay](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - ) and **[Alexander Fraser](people/@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md)** (5/Dec/1833 - 5/Oct/1876) **on 16th of October 1857** at Dornoch, Sutherland, Scotland.
   * **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md)** (7/Aug/1860 - 23/Apr/1936) and **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903) **on 23rd of October 1888** at Dornoch, Sutherland, Scotland.
-  * **[Isabella Mackay](people/@89807594@-isabella-mackay-b-d.md)** and **[Donald Ross](people/@16842942@-donald-ross-b-d.md)** **on 4th of February 1896** at Dornoch, Sutherland, Scotland.
+  * **[Isabella Mackay](people/@89807594@-isabella-mackay-b1878-d.md)** (about 1878 - ) and **[Donald Ross](people/@16842942@-donald-ross-b1864-d.md)** (about 1864 - ) **on 4th of February 1896** at Dornoch, Sutherland, Scotland.
   * **[Isabella Mackay](people/@25303611@-isabella-mackay-b1936-1-1-d2019-12-19.md)** (1/Jan/1936 - 19/Dec/2019) and X **on 6th of July 1962** at Glasgow, Scotland.
   * **[James Mackay](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903) and **[Isabella Mackay](people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md)** (7/Aug/1860 - 23/Apr/1936) **on 23rd of October 1888** at Dornoch, Sutherland, Scotland.
   * **[Jane Mackay](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934) and **[Thomas Fraser](people/@69725432@-thomas-fraser-b1869-8-12-d1932-4-20.md)** (12/Aug/1869 - 20/Apr/1932) **on 19th of January 1897** at Dornoch, Sutherland, Scotland.
@@ -297,7 +313,7 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Jessie or Janet Mackay](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - ) and **[William Cumming](people/@90082380@-william-cumming-b1865-2-27-d.md)** (27/Feb/1865 - ) **on 19th of February 1895** at Dornoch, Sutherland, Scotland.
   * **[John Mackay](people/@53390906@-john-mackay-b-d.md)** and **[Matilda MacLeod](people/@31540392@-matilda-macleod-b1861-d1949-11-9.md)** (about 1861 - 9/Nov/1949) **on 15th of January 1885** at Stornoway, Eilean Siar, Scotland.
   * **[John Mackay](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - ) and **[Jane or Jean Mackay](people/@4172390@-jane-or-jean-mackay-b1859-d.md)** (about 1859 - ) **on 24th of March 1892** at Embo, Sutherland, Scotland.
-  * **[John Paul Mackay](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969) and **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ) **on 10th of November 1936** at Embo, Sutherland, Scotland.
+  * **[John Paul Mackay](people/@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md)** (13/Mar/1899 - 3/Jul/1969) and **[Catherine Mackay](people/@28166672@-catherine-mackay-b1900-9-3-d1992-1-21.md)** (3/Sep/1900 - 21/Jan/1992) **on 10th of November 1936** at Embo, Sutherland, Scotland.
   * **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md)** (19/Jan/1817 - 21/Feb/1894) and **[Isabella Mackay](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862) **on 14th of December 1855** at Dornoch, Sutherland, Scotland.
   * **[Kenneth Mackay](people/@21362348@-kenneth-mackay-b1817-1-19-d1894-2-21.md)** (19/Jan/1817 - 21/Feb/1894) and **[Barbara Mackay](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - ) **on 16th of November 1869**.
   * **[Kenneth Mackay](people/@48909111@-kenneth-mackay-b1895-2-2-d.md)** (2/Feb/1895 - ) and **[Helen Morrison](people/@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md)** (5/Jan/1900 - 28/Dec/1984) **on 28th of October 1926** at Detroit, Michigan, United States of America.
@@ -534,16 +550,17 @@ A list of marriages, civil partnerships and civil unions by family name. There w
   * **[Barbara Mackay Ross](people/@63405204@-barbara-mackay-ross-b1921-1-31-d2014.md)** (31/Jan/1921 - 2014) and **[John Robertson Tulloch](people/@44608948@-john-robertson-tulloch-b1917-d1988.md)** (1917 - 1988) **on 22nd of August 1941** at Inverness, Scotland.
   * **[Catherine Ross](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - ) and **[Alexander Ross](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - ) **on 15th of December 1865** at Little Ferry, Sutherland, Scotland.
   * **[Christina Ross](people/@81183416@-christina-ross-b1845-d1916-4-19.md)** (about 1845 - 19/Apr/1916) and **[James MacDonald](people/@74881641@-james-macdonald-b1842-d1880-1-14.md)** (about 1842 - 14/Jan/1880) **on 5th of February 1864** at Skelbo, Sutherland, Scotland.
-  * **[Donald Ross](people/@16842942@-donald-ross-b-d.md)** and **[Isabella Mackay](people/@89807594@-isabella-mackay-b-d.md)** **on 4th of February 1896** at Dornoch, Sutherland, Scotland.
+  * **[Donald Ross](people/@16842942@-donald-ross-b1864-d.md)** (about 1864 - ) and **[Isabella Mackay](people/@89807594@-isabella-mackay-b1878-d.md)** (about 1878 - ) **on 4th of February 1896** at Dornoch, Sutherland, Scotland.
   * **[Donald Ross](people/@4496220@-donald-ross-b1872-8-30-d.md)** (30/Aug/1872 - ) and **[Ollie E Walker](people/@42365832@-ollie-e-walker-b1872-d.md)** (about 1872 - ) **on 11th of November 1903** at Boyne City, Charlevoix County, Michigan, United States of America.
   * **[Jessie Ross](people/@60546968@-jessie-ross-b1840-11-5-d1918-1-13.md)** (5/Nov/1840 - 13/Jan/1918) and **[James Cumming](people/@66384942@-james-cumming-b1834~1841-d1923-1-11.md)** (bet' 1834 and 1841 - 11/Jan/1923) **on 21st of February 1860** at Dornoch, Sutherland, Scotland.
   * **[John Ross](people/@81395704@-john-ross-b1856-d.md)** (about 1856 - ) and **[Isabella MacDonald](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - ) **on 30th of December 1881** at Golspie, Sutherland, Scotland.
   * **[John Hugh Ross](people/@75057664@-john-hugh-ross-b1859-6-19-d1941-10-7.md)** (19/Jun/1859 - 7/Oct/1941) and **[Marion Cumming](people/@59851647@-marion-cumming-b1863-5-20-d1944-11-18.md)** (20/May/1863 - 18/Nov/1944) **on 19th of November 1889** at Dornoch, Sutherland, Scotland.
-  * **[Kenneth Ross](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - ) and X **on 9th of October 1877** at Dornoch, Sutherland, Scotland.
+  * **[Kenneth Ross](people/@41391600@-kenneth-ross-b1851-d.md)** (1851 - ) and **[Isabella Fraser](people/@67511231@-isabella-fraser-b1859-d.md)** (about 1859 - ) **on 9th of October 1877** at Dornoch, Sutherland, Scotland.
   * **[Marion Ross](people/@75416110@-marion-ross-b1866-11-1-d1888-8-19.md)** (1/Nov/1866 - 19/Aug/1888) and **[Thomas Sunderland](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - ) **on 28th of September 1887** at Hayes Township, Charlevoix County, Michigan, United States of America.
   * **[Sarah Ross](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - ) and **[Kenneth Cumming](people/@14447152@-kenneth-cumming-b1867-d.md)** (about 1867 - ) **on 22nd of January 1901**.
   * **[William Ross](people/@31822850@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and **[Janet MacLeod](people/@31854910@-janet-macleod-b1798-d1864.md)** (before 1798 - after 1864).
   * **[William Ross](people/@31822850@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864) and X **on 27th of December 1805**.
+  * **[William Ross](people/@39470155@-william-ross-b-d.md)** and X **on 22nd of November 1887** at Dornoch, Sutherland, Scotland.
   * **[Williamina Ross](people/@86024374@-williamina-ross-b1883-8-22-d.md)** (22/Aug/1883 - ) and **[Andrew Gillie](people/@60068056@-andrew-gillie-b1868-12-28-d.md)** (28/Dec/1868 - ) **on 14th of January 1910** at Dornoch, Sutherland, Scotland.
 
 ## Russell

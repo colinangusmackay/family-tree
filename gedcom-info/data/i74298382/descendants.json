@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i74298382",
+  "Name": "Bruce Mackay Lyon",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "1931",
+  "DateOfDeath": "2021",
+  "Children": [
+    {
+      "Id": "i28007064",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1962",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

@@ -11,7 +11,7 @@
       "Id": "i16842942",
       "Name": "Donald Ross",
       "Gender": "Male",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1864",
       "DateOfDeath": "",
       "RelationToSubject": "father"
     },
@@ -19,7 +19,7 @@
       "Id": "i89807594",
       "Name": "Isabella Mackay",
       "Gender": "Female",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1878",
       "DateOfDeath": "",
       "RelationToSubject": "mother"
     }

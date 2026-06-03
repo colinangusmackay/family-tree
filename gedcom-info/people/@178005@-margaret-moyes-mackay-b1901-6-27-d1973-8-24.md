@@ -39,18 +39,19 @@ Date | Item | Description | Sources | Notes
 1935 | Birth of daughter | X born to [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) and [Margaret Moyes Mackay](./@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md). | [7](#7) | 
 23/Apr/1936 | Death of mother | [Isabella Mackay](./@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md) died in Embo, Sutherland, Scotland. | [8](#8), [9](#9), [10](#10) | 
 9/May/1954 | Death of partner | [Kenneth Fraser](./@91376191@-kenneth-fraser-b1877-10-19-d1954-5-9.md) died in Embo, Sutherland, Scotland. | [11](#11) | 
-3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [12](#12) | 
-15/May/1970 | Death of sister | [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) died in Inverness, Scotland. | [13](#13) | 
-24/Aug/1973 | Died | Died in Inverness, Highland, Scotland, . | [14](#14) | 
+1969 | Burial of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) was buried in Dornoch Free Church Cemetery, Dornoch, Sutherland, Scotland. | [12](#12) | 
+3/Jul/1969 | Death of brother | [John Paul Mackay](./@57646474@-john-paul-mackay-b1899-3-13-d1969-7-3.md) died in Embo, Sutherland, Scotland. | [12](#12), [13](#13) | 
+15/May/1970 | Death of sister | [Lucy Mackay](./@16587624@-lucy-mackay-b1889-9-23-d1970-5-15.md) died in Inverness, Scotland. | [14](#14) | 
+24/Aug/1973 | Died | Died in Inverness, Highland, Scotland, . | [15](#15) | 
 
 ## Known Residences
 
 Date | Residence | Sources & Notes
 ---|---|---
-1911 | 6 Terrace Street, Embo, Sutherlandshire | [15](#15)
+1911 | 6 Terrace Street, Embo, Sutherlandshire | [16](#16)
 1921 | 6 Terrace Street, Embo, Sutherland, Scotland | [5](#5)
-1934 | 6 Terrace Street, Embo, Sutherland, Scotland | [6](#6), [16](#16)
-1973 | 6 Front Street, Embo, Sutherland, Scotland | [14](#14)
+1934 | 6 Terrace Street, Embo, Sutherland, Scotland | [6](#6), [17](#17)
+1973 | 6 Front Street, Embo, Sutherland, Scotland | [15](#15)
 
 ## Known Occupations
 
@@ -62,7 +63,7 @@ Date | Occupation | Sources & Notes
 
 Footnote | Source
 ---|---
-[17](#17) | **[MACKAY, WILLIAM ALEXANDER; MARGARET MOYES; LUCY; JOHN PAUL (Photo)](../sources/@65890512@-mackay,-william-alexander;-margaret-moyes;-lucy;-john-paul-photo-.md)**
+[18](#18) | **[MACKAY, WILLIAM ALEXANDER; MARGARET MOYES; LUCY; JOHN PAUL (Photo)](../sources/@65890512@-mackay,-william-alexander;-margaret-moyes;-lucy;-john-paul-photo-.md)**
 
 ## Notes
 
@@ -187,7 +188,16 @@ Footnote | Source
 
 ### 12
 
-**1969 X, JOHN PAUL (Statutory registers Deaths 047/18)**
+**1969 MACKAY, JOHN PAUL (FindAGrave.com)**
+
+* [Full text and notes](../sources/@65120865@-1969-mackay,-john-paul-findagrave.com-.md)
+* Publication: FindAGrave.com
+* References: 
+  * (URL) https://www.findagrave.com/memorial/263488579/john-paul-mackay
+
+### 13
+
+**1969 MACKAY, JOHN PAUL (Statutory registers Deaths 047/18)**
 
 * [Full text and notes](../sources/@24508315@-1969-mackay,-john-paul-statutory-registers-deaths-047-18-.md)
 * Date: 3/Jul/1969
@@ -195,7 +205,7 @@ Footnote | Source
 * References: 
   * 1969 D 047/18
 
-### 13
+### 14
 
 **1970 MACKAY, LUCY (Statutory Register Deaths)**
 
@@ -205,7 +215,7 @@ Footnote | Source
 * References: 
   * 1970 D 98/A 269
 
-### 14
+### 15
 
 **1973 FRASER, MARGARET MOYES (Statutory Register of Deaths 182/ 22)**
 
@@ -215,7 +225,7 @@ Footnote | Source
 * References: 
   * 1973 M 182/22
 
-### 15
+### 16
 
 **1911 MACKAY, BELLA & Family (Census 047/ 3/ 12)**
 
@@ -225,13 +235,13 @@ Footnote | Source
 * References: 
   * 1911 C 047/ 3/ 12
 
-### 16
+### 17
 
 > 6 Terrace Street, Embo: [https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656](https://www.google.com/maps/@57.9091525,-3.9976806,3a,45.2y,296.87h,75.59t/data=!3m6!1e1!3m4!1sgGEzSMpTiQvTL0ysvyk2YQ!2e0!7i13312!8i6656)
 >
 
 
-### 17
+### 18
 
 **MACKAY, WILLIAM ALEXANDER; MARGARET MOYES; LUCY; JOHN PAUL (Photo)**
 

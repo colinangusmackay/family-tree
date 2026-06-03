@@ -37,6 +37,7 @@ permalink: /indexes/by-birth-location
 - **[Christie, Agnes](people/@52455521@-agnes-christie-b-d1944.md)** ( - before 1944)
 - **[Clark, James](people/@29410614@-james-clark-b-d.md)**
 - **[Collins, Helen](people/@79475420@-helen-collins-b-d.md)**
+- **[Connel, Helen](people/@33340775@-helen-connel-b-d.md)**
 - **[Copeland, Helen](people/@65737621@-helen-copeland-b-d.md)**
 - **[Cowan, James](people/@66566704@-james-cowan-b-d.md)**
 - **[Crawford, John](people/@33792128@-john-crawford-b-d1936.md)** ( - before 1936)
@@ -82,6 +83,7 @@ permalink: /indexes/by-birth-location
 - **[Fraser, Christy](people/@91889557@-christy-fraser-b1791-d.md)** (1791 - )
 - **[Fraser, Davidina](people/@27014400@-davidina-fraser-b1912-d.md)** (1912 - )
 - **[Fraser, George](people/@78876088@-george-fraser-b1896-d.md)** (1896 - )
+- **[Fraser, Isabella](people/@67511231@-isabella-fraser-b1859-d.md)** (about 1859 - )
 - **[Fraser, Isabella](people/@92660555@-isabella-fraser-b1863-d.md)** (about 1863 - )
 - **[Fraser, Isabella](people/@81999219@-isabella-fraser-b1900-d.md)** (1900 - )
 - **[Fraser, Mary Ann](people/@94394924@-mary-ann-fraser-b1892-d.md)** (1892 - )
@@ -92,8 +94,12 @@ permalink: /indexes/by-birth-location
 - **[Fraser, Thomas](people/@65905028@-thomas-fraser-b1769-d.md)** (before 1769 - )
 - **[Fraser, Thomas](people/@79545968@-thomas-fraser-b1788-d.md)** (before 1788 - )
 - **[Gibson, Hugh](people/@22004930@-hugh-gibson-b-d.md)**
-- **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b-d1866.md)** ( - after 1866)
+- **[Gilchrist, Alexander](people/@9598288@-alexander-gilchrist-b1838-d.md)** (about 1838 - )
+- **[Gilchrist, Amy](people/@37672036@-amy-gilchrist-b1846-d.md)** (about 1846 - )
+- **[Gilchrist, Archibald](people/@45098499@-archibald-gilchrist-b1831-d1851.md)** (about 1831 - before 1851)
 - **[Gilchrist, Elisabeth Irvine](people/@3615140@-elisabeth-irvine-gilchrist-b1868-d1874-9-9.md)** (about 1868 - 9/Sep/1874)
+- **[Gilchrist, Helen](people/@52889150@-helen-gilchrist-b1836-d.md)** (about 1836 - )
+- **[Gilchrist, William](people/@65905112@-william-gilchrist-b-d.md)**
 - **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - )
 - **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - )
 - **[Gillie, John](people/@95851656@-john-gillie-b-d1901.md)** ( - before 1901)
@@ -131,7 +137,7 @@ permalink: /indexes/by-birth-location
 - **[Howie, Peter](people/@40872746@-peter-howie-b1803-5-d1876-3-5.md)** (May/1803 - 5/Mar/1876)
 - **[Hunter, Georgina](people/@69291286@-georgina-hunter-b1889-d.md)** (about 1889 - )
 - **[Hunter, James](people/@13263378@-james-hunter-b-d.md)**
-- **[Irvine, Elizabeth](people/@66882518@-elizabeth-irvine-b-d1866.md)** ( - after 1866)
+- **[Irvine, John](people/@43682238@-john-irvine-b-d.md)**
 - **[Johnson, Ann](people/@85807260@-ann-johnson-b-d.md)**
 - **[Kirkland, Margaret](people/@48501002@-margaret-kirkland-b-d.md)**
 - **[LaFavre, Stasia](people/@16839684@-stasia-lafavre-b-d2018.md)** ( - before 2018)
@@ -166,6 +172,7 @@ permalink: /indexes/by-birth-location
 - **[Mackay, Ann](people/@90776940@-ann-mackay-b-d.md)**
 - **[Mackay, Ann](people/@59598912@-ann-mackay-b1835-d.md)** (1835 - )
 - **[Mackay, Ann](people/@85130771@-ann-mackay-b1858~1859-d1889-6-14.md)** (bet' 1858 and 1859 - 14/Jun/1889)
+- **[Mackay, Anna](people/@56962662@-anna-mackay-b1938-d1982.md)** (about 1938 - 1982)
 - **[Mackay, Annie](people/@503334@-annie-mackay-b1865-d1942-5-1.md)** (about 1865 - 1/May/1942)
 - **[Mackay, Barbara](people/@61459684@-barbara-mackay-b-d1896.md)** ( - before 1896)
 - **[Mackay, Barbara](people/@52409786@-barbara-mackay-b1849~1854-d.md)** (bet' 1849 and 1854 - )
@@ -175,6 +182,7 @@ permalink: /indexes/by-birth-location
 - **[Mackay, Catherine](people/@26872816@-catherine-mackay-b1849~1856-d.md)** (bet' 1849 and 1856 - )
 - **[Mackay, Christina](people/@10983472@-christina-mackay-b1848-d.md)** (about 1848 - )
 - **[Mackay, Christina](people/@20426296@-christina-mackay-b1861-d.md)** (1861 - )
+- **[Mackay, Christy](people/@46031972@-christy-mackay-b-d.md)**
 - **[Mackay, David](people/@46263680@-david-mackay-b1846-d1860.md)** (1846 - 1860)
 - **[Mackay, David](people/@66349958@-david-mackay-b1879-d.md)** (about 1879 - )
 - **[Mackay, Donald](people/@67781103@-donald-mackay-b-d.md)**
@@ -182,10 +190,11 @@ permalink: /indexes/by-birth-location
 - **[Mackay, George](people/@46319502@-george-mackay-b1875-d.md)** (about 1875 - )
 - **[Mackay, Isabella](people/@26104572@-isabella-mackay-b-d1881-12-8.md)** ( - 8/Dec/1881)
 - **[Mackay, Isabella](people/@86403902@-isabella-mackay-b-d.md)**
-- **[Mackay, Isabella](people/@89807594@-isabella-mackay-b-d.md)**
 - **[Mackay, Isabella](people/@16263484@-isabella-mackay-b1764-d.md)** (before 1764 - )
 - **[Mackay, Isabella](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
+- **[Mackay, Isabella](people/@89807594@-isabella-mackay-b1878-d.md)** (about 1878 - )
 - **[Mackay, James](people/@57588096@-james-mackay-b1828-d.md)** (1828 - )
+- **[Mackay, Jane](people/@10763169@-jane-mackay-b-d.md)**
 - **[Mackay, Jane](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934)
 - **[Mackay, Jane or Jean](people/@4172390@-jane-or-jean-mackay-b1859-d.md)** (about 1859 - )
 - **[Mackay, Janet](people/@20237816@-janet-mackay-b-d.md)**
@@ -194,6 +203,7 @@ permalink: /indexes/by-birth-location
 - **[Mackay, Jessie or Janet](people/@76315420@-jessie-or-janet-mackay-b1866-d.md)** (1866 - )
 - **[Mackay, John](people/@53390906@-john-mackay-b-d.md)**
 - **[Mackay, John](people/@69392899@-john-mackay-b-d.md)**
+- **[Mackay, John](people/@77545296@-john-mackay-b-d.md)**
 - **[Mackay, John](people/@97558120@-john-mackay-b1761-d.md)** (before 1761 - )
 - **[Mackay, John](people/@58430005@-john-mackay-b1841-2-18-d.md)** (18/Feb/1841 - )
 - **[Mackay, John](people/@23272301@-john-mackay-b1859-d.md)** (1859 - )
@@ -298,7 +308,7 @@ permalink: /indexes/by-birth-location
 - **[Ross, Christina](people/@52833400@-christina-ross-b-d.md)**
 - **[Ross, Christina](people/@10478196@-christina-ross-b1893-d.md)** (1893 - )
 - **[Ross, Christy](people/@37144832@-christy-ross-b-d.md)**
-- **[Ross, Donald](people/@16842942@-donald-ross-b-d.md)**
+- **[Ross, Donald](people/@16842942@-donald-ross-b1864-d.md)** (about 1864 - )
 - **[Ross, Donald](people/@46967448@-donald-ross-b1876-d.md)** (1876 - )
 - **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875)
 - **[Ross, Hugh](people/@33375290@-hugh-ross-b1857-d.md)** (about 1857 - )
@@ -322,6 +332,7 @@ permalink: /indexes/by-birth-location
 - **[Ross, Sarah](people/@84017554@-sarah-ross-b1864-d.md)** (about 1864 - )
 - **[Ross, Sarah](people/@39957256@-sarah-ross-b1880-d.md)** (about 1880 - )
 - **[Ross, Unknown (boy)](people/@68717952@-unknown-boy-ross-b1840~1855-d1840~1855.md)** (bet' 1840 and 1855 - bet' 1840 and 1855)
+- **[Ross, William](people/@39470155@-william-ross-b-d.md)**
 - **[Ross, William](people/@31822850@-william-ross-b1780-d1864-3-31.md)** (about 1780 - 31/Mar/1864)
 - **[Ross, William](people/@91623667@-william-ross-b1855-d.md)** (about 1855 - )
 - **[Ross, William](people/@21369571@-william-ross-b1897-d.md)** (1897 - )
@@ -361,6 +372,7 @@ permalink: /indexes/by-birth-location
 - **[Watson, John Blue](people/@31857508@-john-blue-watson-b1909-d1963-6-9.md)** (about 1909 - 9/Jun/1963)
 - **[Watson, John](people/@40547424@-john-watson-b-d1963.md)** ( - before 1963)
 - **[Watt, Agnes](people/@64447674@-agnes-watt-b-d.md)**
+- **[Welsh, Anne](people/@48270962@-anne-welsh-b-d.md)**
 - **[Will, David](people/@5419288@-david-will-b-d1886.md)** ( - before 1886)
 - **[Will, George](people/@39711353@-george-will-b1861-d.md)** (about 1861 - )
 - **[Williamson, William](people/@67023796@-william-williamson-b-d.md)**
@@ -633,7 +645,7 @@ permalink: /indexes/by-birth-location
 
 #### Stornoway
 
-- **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
+- **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d1992-1-21.md)** (3/Sep/1900 - 21/Jan/1992)
 
 ### Fife
 
@@ -892,10 +904,16 @@ permalink: /indexes/by-birth-location
 #### Lamington
 
 - **[Gilchrist, Jane](people/@37120552@-jane-gilchrist-b1871-d.md)** (about 1871 - )
+- **[Irvine, Elizabeth](people/@66882518@-elizabeth-irvine-b1801-5-10-d1874-12-2.md)** (10/May/1801 - 2/Dec/1874)
 
 #### Newton
 
 - **[Gilchrist, David](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - )
+
+#### Roberton
+
+- **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b1801-d1880-8-15.md)** (about 1801 - 15/Aug/1880)
+- **[Gilchrist, James](people/@65891424@-james-gilchrist-b1840-d.md)** (about 1840 - )
 
 ### Sutherland
 
@@ -998,6 +1016,7 @@ permalink: /indexes/by-birth-location
 
 #### Golspie
 
+- **[Lyon, Bruce Mackay](people/@74298382@-bruce-mackay-lyon-b1931-d2021.md)** (1931 - 2021)
 - **[MacDonald, Alexander](people/@81905126@-alexander-macdonald-b1867-3-5-d1928-9-5.md)** (5/Mar/1867 - 5/Sep/1928)
 - **[MacDonald, Kate](people/@28255030@-kate-macdonald-b1807-d1875-10-29.md)** (about 1807 - 29/Oct/1875)
 - **[MacDonald, William](people/@76505641@-william-macdonald-b1865-1-9-d1898-5-12.md)** (9/Jan/1865 - 12/May/1898)

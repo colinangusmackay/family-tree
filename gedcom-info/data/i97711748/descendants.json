@@ -3,9 +3,45 @@
   "Name": "Alexander Gilchrist",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
-  "DateOfDeath": "after 1866",
+  "DateOfBirth": "about 1801",
+  "DateOfDeath": "15/Aug/1880",
   "Children": [
+    {
+      "Id": "i45098499",
+      "Name": "Archibald Gilchrist",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1831",
+      "DateOfDeath": "before 1851",
+      "Children": []
+    },
+    {
+      "Id": "i52889150",
+      "Name": "Helen Gilchrist",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1836",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i9598288",
+      "Name": "Alexander Gilchrist",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1838",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i65891424",
+      "Name": "James Gilchrist",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1840",
+      "DateOfDeath": "",
+      "Children": []
+    },
     {
       "Id": "i89232476",
       "Name": "David Gilchrist",
@@ -155,6 +191,15 @@
           ]
         }
       ]
+    },
+    {
+      "Id": "i37672036",
+      "Name": "Amy Gilchrist",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "about 1846",
+      "DateOfDeath": "",
+      "Children": []
     }
   ]
 }

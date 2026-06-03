@@ -14,20 +14,31 @@ permalink: /people/i37144832
 ## Immediate Family
 
 * Partner: [Thomas Fraser](./@39286288@-thomas-fraser-b-d1889.md) ( - before 1889)
-* Daughter: X
+* Daughter: [Isabella Fraser](./@67511231@-isabella-fraser-b1859-d.md) (about 1859 - )
 * Daughter: [Ann Fraser](./@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md) (4/Aug/1864 - 4/May/1891)
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-4/Aug/1864 | Birth of daughter | [Ann Fraser](./@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md) born to [Thomas Fraser](./@39286288@-thomas-fraser-b-d1889.md) and [Christy Ross](./@37144832@-christy-ross-b-d.md) in Embo, Sutherland, Scotland. | [1](#1), [2](#2) | 
-before 1889 | Death of partner | [Thomas Fraser](./@39286288@-thomas-fraser-b-d1889.md) died. | [2](#2), [3](#3) | 
-4/May/1891 | Death of daughter | [Ann Fraser](./@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md) died in Embo, Sutherland, Scotland. | [3](#3) | 
+about 1859 | Birth of daughter | [Isabella Fraser](./@67511231@-isabella-fraser-b1859-d.md) born to [Thomas Fraser](./@39286288@-thomas-fraser-b-d1889.md) and [Christy Ross](./@37144832@-christy-ross-b-d.md). | [1](#1) | 
+4/Aug/1864 | Birth of daughter | [Ann Fraser](./@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md) born to [Thomas Fraser](./@39286288@-thomas-fraser-b-d1889.md) and [Christy Ross](./@37144832@-christy-ross-b-d.md) in Embo, Sutherland, Scotland. | [2](#2), [3](#3) | 
+before 1889 | Death of partner | [Thomas Fraser](./@39286288@-thomas-fraser-b-d1889.md) died. | [3](#3), [4](#4) | 
+4/May/1891 | Death of daughter | [Ann Fraser](./@83535990@-ann-fraser-b1864-8-4-d1891-5-4.md) died in Embo, Sutherland, Scotland. | [4](#4) | 
 
 ## Footnotes
 
 ### 1
+
+**1877 ROSS, KENNETH; FRASER, ISABELLA (Statutory Register Marriages 047/ 11)**
+
+* [Full text and notes](../sources/@79558550@-1877-ross,-kenneth;-fraser,-isabella-statutory-register-marriages-047-11-.md)
+* Date: 10/Oct/1877
+* Responsible Agency: National Records of Scotland
+* References: 
+  * 1877 M 047/ 11
+
+### 2
 
 **1864 FRASER, ANN (Statutory Register Births 047/46)**
 
@@ -36,7 +47,7 @@ before 1889 | Death of partner | [Thomas Fraser](./@39286288@-thomas-fraser-b-d1
 * References: 
   * 1864 B 047/46
 
-### 2
+### 3
 
 **1889 GRANT, HUGH (Statutory Registers Marriages 047/4)**
 
@@ -45,7 +56,7 @@ before 1889 | Death of partner | [Thomas Fraser](./@39286288@-thomas-fraser-b-d1
 * References: 
   * 1889 M 047/4
 
-### 3
+### 4
 
 **1891 GRANT, ANN (Statutory Registers Deaths 047/15)**
 

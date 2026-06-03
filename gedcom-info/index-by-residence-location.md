@@ -263,7 +263,7 @@ permalink: /indexes/by-residence-location
 
 #### Stornoway
 
-- **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
+- **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d1992-1-21.md)** (3/Sep/1900 - 21/Jan/1992)
 
 ### Fife
 
@@ -593,10 +593,30 @@ permalink: /indexes/by-residence-location
 - **[Robert /Gilchrist, MungoRobert Gilchrist](people/@12769933@-mungorobert-gilchrist-b1865-d.md)** (about 1865 - )
 - **[Steel, Janet](people/@22623536@-janet-steel-b1840-d.md)** (about 1840 - )
 
+#### Lamington
+
+- **[Irvine, Elizabeth](people/@66882518@-elizabeth-irvine-b1801-5-10-d1874-12-2.md)** (10/May/1801 - 2/Dec/1874)
+
 #### Newton
 
-- **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b-d1866.md)** ( - after 1866)
-- **[Irvine, Elizabeth](people/@66882518@-elizabeth-irvine-b-d1866.md)** ( - after 1866)
+- **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b1801-d1880-8-15.md)** (about 1801 - 15/Aug/1880)
+- **[Gilchrist, Alexander](people/@9598288@-alexander-gilchrist-b1838-d.md)** (about 1838 - )
+- **[Gilchrist, Archibald](people/@45098499@-archibald-gilchrist-b1831-d1851.md)** (about 1831 - before 1851)
+- **[Gilchrist, Helen](people/@52889150@-helen-gilchrist-b1836-d.md)** (about 1836 - )
+- **[Gilchrist, James](people/@65891424@-james-gilchrist-b1840-d.md)** (about 1840 - )
+- **[Irvine, Elizabeth](people/@66882518@-elizabeth-irvine-b1801-5-10-d1874-12-2.md)** (10/May/1801 - 2/Dec/1874)
+
+#### Roberton
+
+- **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b1801-d1880-8-15.md)** (about 1801 - 15/Aug/1880)
+- **[Gilchrist, Amy](people/@37672036@-amy-gilchrist-b1846-d.md)** (about 1846 - )
+- **[Gilchrist, David](people/@89232476@-david-gilchrist-b1843-4-7-d.md)** (7/Apr/1843 - )
+- **[Gilchrist, James](people/@65891424@-james-gilchrist-b1840-d.md)** (about 1840 - )
+- **[Irvine, Elizabeth](people/@66882518@-elizabeth-irvine-b1801-5-10-d1874-12-2.md)** (10/May/1801 - 2/Dec/1874)
+
+#### Wiston
+
+- **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b1801-d1880-8-15.md)** (about 1801 - 15/Aug/1880)
 
 ### Stirlingshire
 
@@ -708,6 +728,7 @@ permalink: /indexes/by-residence-location
 - **[Mackay, Isabella](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862)
 - **[Mackay, Isabella](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
 - **[Mackay, Isabella](people/@32797554@-isabella-mackay-b1860-8-7-d1936-4-23.md)** (7/Aug/1860 - 23/Apr/1936)
+- **[Mackay, Isabella](people/@89807594@-isabella-mackay-b1878-d.md)** (about 1878 - )
 - **[Mackay, James](people/@57588096@-james-mackay-b1828-d.md)** (1828 - )
 - **[Mackay, James](people/@60572122@-james-mackay-b1861-4-12-d1903-7-6.md)** (12/Apr/1861 - 6/Jul/1903)
 - **[Mackay, Jane](people/@33561724@-jane-mackay-b1872-d1934.md)** (about 1872 - after 1934)
@@ -741,6 +762,7 @@ permalink: /indexes/by-residence-location
 - **[Ross, Barbara](people/@82167024@-barbara-ross-b1862-2-28-d.md)** (28/Feb/1862 - )
 - **[Ross, Catherine](people/@98280413@-catherine-ross-b1846-d.md)** (about 1846 - )
 - **[Ross, Christina](people/@81183416@-christina-ross-b1845-d1916-4-19.md)** (about 1845 - 19/Apr/1916)
+- **[Ross, Donald](people/@16842942@-donald-ross-b1864-d.md)** (about 1864 - )
 - **[Ross, Donald](people/@46967448@-donald-ross-b1876-d.md)** (1876 - )
 - **[Ross, Hugh Alexander](people/@22731476@-hugh-alexander-ross-b1896-11-17-d.md)** (17/Nov/1896 - )
 - **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875)
@@ -767,6 +789,7 @@ permalink: /indexes/by-residence-location
 
 #### Golspie
 
+- **[Lyon, Bruce Mackay](people/@74298382@-bruce-mackay-lyon-b1931-d2021.md)** (1931 - 2021)
 - **[MacDonald, Alexander](people/@81905126@-alexander-macdonald-b1867-3-5-d1928-9-5.md)** (5/Mar/1867 - 5/Sep/1928)
 - **[MacDonald, Isabella](people/@80818668@-isabella-macdonald-b1863-d.md)** (about 1863 - )
 - **[MacDonald, James](people/@74881641@-james-macdonald-b1842-d1880-1-14.md)** (about 1842 - 14/Jan/1880)

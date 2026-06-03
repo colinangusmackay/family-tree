@@ -11,12 +11,12 @@
       "Name": "Donald Ross",
       "Gender": "Male",
       "Relationship": "father",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1864",
       "DateOfDeath": "",
       "Parents": [
         {
           "Id": "i10763169",
-          "Name": "X",
+          "Name": "Jane Mackay",
           "Gender": "Female",
           "Relationship": "mother",
           "DateOfBirth": "",
@@ -25,7 +25,7 @@
         },
         {
           "Id": "i39470155",
-          "Name": "X",
+          "Name": "William Ross",
           "Gender": "Male",
           "Relationship": "father",
           "DateOfBirth": "",
@@ -39,12 +39,12 @@
       "Name": "Isabella Mackay",
       "Gender": "Female",
       "Relationship": "mother",
-      "DateOfBirth": "",
+      "DateOfBirth": "about 1878",
       "DateOfDeath": "",
       "Parents": [
         {
           "Id": "i46031972",
-          "Name": "X",
+          "Name": "Christy Mackay",
           "Gender": "Female",
           "Relationship": "mother",
           "DateOfBirth": "",
@@ -53,7 +53,7 @@
         },
         {
           "Id": "i77545296",
-          "Name": "X",
+          "Name": "John Mackay",
           "Gender": "Male",
           "Relationship": "father",
           "DateOfBirth": "",

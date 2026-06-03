@@ -59,7 +59,7 @@ Source Last Updated | 2/Jan/2022 23:20:06
 ## Source Referenced by
 
 * Mackay
-  * [Catherine Mackay](../people/@28166672@-catherine-mackay-b1900-9-3-d.md) (3/Sep/1900 - )
+  * [Catherine Mackay](../people/@28166672@-catherine-mackay-b1900-9-3-d1992-1-21.md) (3/Sep/1900 - 21/Jan/1992)
   * [John Mackay](../people/@53390906@-john-mackay-b-d.md)
 * MacLeod
   * [Hector MacLeod](../people/@28404010@-hector-macleod-b-d1949.md) ( - before 1949)

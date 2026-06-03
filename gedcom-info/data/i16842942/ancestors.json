@@ -3,12 +3,12 @@
   "Name": "Donald Ross",
   "Gender": "Male",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1864",
   "DateOfDeath": "",
   "Parents": [
     {
       "Id": "i10763169",
-      "Name": "X",
+      "Name": "Jane Mackay",
       "Gender": "Female",
       "Relationship": "mother",
       "DateOfBirth": "",
@@ -17,7 +17,7 @@
     },
     {
       "Id": "i39470155",
-      "Name": "X",
+      "Name": "William Ross",
       "Gender": "Male",
       "Relationship": "father",
       "DateOfBirth": "",

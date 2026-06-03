@@ -9,7 +9,6 @@ permalink: /people/i41391600
 
 ## Immediate Family
 
-* Wife: X
 * Father: [Alexander Ross](./@81387900@-alexander-ross-b1816-d1896-1-20.md) (about 1816 - 20/Jan/1896)
 * Mother: [Marion Mackay](./@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) (30/Jun/1821 - 30/Dec/1909)
 * Brother: [Unknown (boy) Ross](./@68717952@-unknown-boy-ross-b1840~1855-d1840~1855.md) (bet' 1840 and 1855 - bet' 1840 and 1855)
@@ -20,6 +19,7 @@ permalink: /people/i41391600
 * Sister: [Marion Ross](./@39612984@-marion-ross-b1853-d.md) (about 1853 - )
 * Brother: [John Ross](./@36837210@-john-ross-b1855-12-14-d.md) (14/Dec/1855 - )
 * Brother: [Hugh Ross](./@75672326@-hugh-ross-b1858-10-11-d.md) (11/Oct/1858 - )
+* Wife: [Isabella Fraser](./@67511231@-isabella-fraser-b1859-d.md) (about 1859 - )
 * Brother: [Ann Ross](./@32419757@-ann-ross-b1860-6-17-d.md) (17/Jun/1860 - )
 * Sister: [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md) (28/Feb/1862 - )
 
@@ -33,7 +33,7 @@ about 1853 | Birth of sister | [Marion Ross](./@39612984@-marion-ross-b1853-d.md
 11/Oct/1858 | Birth of brother | [Hugh Ross](./@75672326@-hugh-ross-b1858-10-11-d.md) born to [Alexander Ross](./@81387900@-alexander-ross-b1816-d1896-1-20.md) and [Marion Mackay](./@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) in Embo, Sutherland, Scotland. | [1](#1), [3](#3) | 
 17/Jun/1860 | Birth of brother | [Ann Ross](./@32419757@-ann-ross-b1860-6-17-d.md) born to [Alexander Ross](./@81387900@-alexander-ross-b1816-d1896-1-20.md) and [Marion Mackay](./@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) in Embo, Sutherland, Scotland. | [1](#1), [4](#4) | 
 28/Feb/1862 | Birth of sister | [Barbara Ross](./@82167024@-barbara-ross-b1862-2-28-d.md) born to [Alexander Ross](./@81387900@-alexander-ross-b1816-d1896-1-20.md) and [Marion Mackay](./@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) in Embo, Sutherland, Scotland. | [5](#5), [6](#6) | 
-9/Oct/1877 | Marriage | Married to X in Dornoch, Sutherland, Scotland | [7](#7) | 
+9/Oct/1877 | Marriage | Married to [Isabella Fraser](./@67511231@-isabella-fraser-b1859-d.md) in Dornoch, Sutherland, Scotland | [7](#7) | 
 20/Jan/1896 | Death of father | [Alexander Ross](./@81387900@-alexander-ross-b1816-d1896-1-20.md) died. | [8](#8), [9](#9) | 
 30/Dec/1909 | Death of mother | [Marion Mackay](./@78930004@-marion-mackay-b1821-6-30-d1909-12-30.md) died. | [8](#8), [9](#9), [10](#10) | 
 19/Apr/1916 | Death of sister | [Christina Ross](./@81183416@-christina-ross-b1845-d1916-4-19.md) died in Golspie, Sutherland, Scotland. | [11](#11) | 
@@ -120,7 +120,7 @@ Date | Occupation | Sources & Notes
 
 ### 7
 
-**1877 X, KENNETH; X, X (Statutory Register Marriages 047/ 11)**
+**1877 ROSS, KENNETH; FRASER, ISABELLA (Statutory Register Marriages 047/ 11)**
 
 * [Full text and notes](../sources/@79558550@-1877-ross,-kenneth;-fraser,-isabella-statutory-register-marriages-047-11-.md)
 * Date: 10/Oct/1877

@@ -1,0 +1,161 @@
+﻿{
+  "Id": "i56962662",
+  "Name": "Anna Mackay",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1938",
+  "DateOfDeath": "1982",
+  "Parents": [
+    {
+      "Id": "i57646474",
+      "Name": "John Paul Mackay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "13/Mar/1899",
+      "DateOfDeath": "3/Jul/1969",
+      "Parents": [
+        {
+          "Id": "i32797554",
+          "Name": "Isabella Mackay",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "7/Aug/1860",
+          "DateOfDeath": "23/Apr/1936",
+          "Parents": [
+            {
+              "Id": "i20237816",
+              "Name": "Janet Mackay",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            },
+            {
+              "Id": "i30341840",
+              "Name": "Kenneth Mackay",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "",
+              "Parents": []
+            }
+          ]
+        },
+        {
+          "Id": "i60572122",
+          "Name": "James Mackay",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "12/Apr/1861",
+          "DateOfDeath": "6/Jul/1903",
+          "Parents": [
+            {
+              "Id": "i33764614",
+              "Name": "George Mackay",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "26/Oct/1811",
+              "DateOfDeath": "25/Nov/1893",
+              "Parents": [
+                {
+                  "Id": "i66584000",
+                  "Name": "Janet Macrae",
+                  "Gender": "Female",
+                  "Relationship": "mother",
+                  "DateOfBirth": "1781",
+                  "DateOfDeath": "",
+                  "Parents": []
+                },
+                {
+                  "Id": "i69114879",
+                  "Name": "William Mackay",
+                  "Gender": "Male",
+                  "Relationship": "father",
+                  "DateOfBirth": "1781",
+                  "DateOfDeath": "1841",
+                  "Parents": []
+                }
+              ]
+            },
+            {
+              "Id": "i67811996",
+              "Name": "Lucy Matheson",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "bet' 1813 and 1820",
+              "DateOfDeath": "23/Aug/1896",
+              "Parents": [
+                {
+                  "Id": "i61459684",
+                  "Name": "Barbara Mackay",
+                  "Gender": "Female",
+                  "Relationship": "mother",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "before 1896",
+                  "Parents": []
+                },
+                {
+                  "Id": "i28800527",
+                  "Name": "Hector Matheson",
+                  "Gender": "Male",
+                  "Relationship": "father",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "before 1896",
+                  "Parents": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "i28166672",
+      "Name": "Catherine Mackay",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "3/Sep/1900",
+      "DateOfDeath": "21/Jan/1992",
+      "Parents": [
+        {
+          "Id": "i53390906",
+          "Name": "John Mackay",
+          "Gender": "Male",
+          "Relationship": "father",
+          "DateOfBirth": "",
+          "DateOfDeath": "",
+          "Parents": []
+        },
+        {
+          "Id": "i31540392",
+          "Name": "Matilda MacLeod",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "about 1861",
+          "DateOfDeath": "9/Nov/1949",
+          "Parents": [
+            {
+              "Id": "i97950336",
+              "Name": "Catherine MacDonald",
+              "Gender": "Female",
+              "Relationship": "mother",
+              "DateOfBirth": "",
+              "DateOfDeath": "before 1949",
+              "Parents": []
+            },
+            {
+              "Id": "i28404010",
+              "Name": "Hector MacLeod",
+              "Gender": "Male",
+              "Relationship": "father",
+              "DateOfBirth": "",
+              "DateOfDeath": "before 1949",
+              "Parents": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i43682238",
+    "Name": "John Irvine",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i43682238",
+      "Name": "John Irvine",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i33340775",
+      "Name": "Helen Connel",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "about Feb/1897",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i66882518",
+      "Name": "Elizabeth Irvine",
+      "Gender": "Female",
+      "DateOfBirth": "10/May/1801",
+      "DateOfDeath": "2/Dec/1874",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i43682238",
+        "i33340775"
+      ]
+    }
+  ]
+}

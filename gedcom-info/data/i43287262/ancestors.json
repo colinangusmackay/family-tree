@@ -55,18 +55,56 @@
               "Name": "Alexander Gilchrist",
               "Gender": "Male",
               "Relationship": "father",
-              "DateOfBirth": "",
-              "DateOfDeath": "after 1866",
-              "Parents": []
+              "DateOfBirth": "about 1801",
+              "DateOfDeath": "15/Aug/1880",
+              "Parents": [
+                {
+                  "Id": "i48270962",
+                  "Name": "Anne Welsh",
+                  "Gender": "Female",
+                  "Relationship": "mother",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Parents": []
+                },
+                {
+                  "Id": "i65905112",
+                  "Name": "William Gilchrist",
+                  "Gender": "Male",
+                  "Relationship": "father",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Parents": []
+                }
+              ]
             },
             {
               "Id": "i66882518",
               "Name": "Elizabeth Irvine",
               "Gender": "Female",
               "Relationship": "mother",
-              "DateOfBirth": "",
-              "DateOfDeath": "after 1866",
-              "Parents": []
+              "DateOfBirth": "10/May/1801",
+              "DateOfDeath": "2/Dec/1874",
+              "Parents": [
+                {
+                  "Id": "i33340775",
+                  "Name": "Helen Connel",
+                  "Gender": "Female",
+                  "Relationship": "mother",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Parents": []
+                },
+                {
+                  "Id": "i43682238",
+                  "Name": "John Irvine",
+                  "Gender": "Male",
+                  "Relationship": "father",
+                  "DateOfBirth": "",
+                  "DateOfDeath": "",
+                  "Parents": []
+                }
+              ]
             }
           ]
         }

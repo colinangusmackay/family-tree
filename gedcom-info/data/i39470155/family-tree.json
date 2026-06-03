@@ -1,0 +1,57 @@
+﻿{
+  "Subject": {
+    "Id": "i39470155",
+    "Name": "William Ross",
+    "Gender": "Male",
+    "DateOfBirth": "",
+    "DateOfDeath": ""
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i39470155",
+      "Name": "William Ross",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i13694304",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "22/Nov/1887",
+      "DateOfDivorce": ""
+    },
+    {
+      "Id": "i10763169",
+      "Name": "Jane Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i16842942",
+      "Name": "Donald Ross",
+      "Gender": "Male",
+      "DateOfBirth": "about 1864",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i39470155",
+        "i10763169"
+      ]
+    }
+  ]
+}

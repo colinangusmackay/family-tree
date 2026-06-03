@@ -279,6 +279,10 @@
           "Day": 21,
           "Events": [
             {
+              "Date": "1992-01-21",
+              "Description": "[Catherine Mackay](/family-tree/people/i28166672) died on 21st of January 1992."
+            },
+            {
               "Date": "1898-01-21",
               "Description": "[Hugh Grant](/family-tree/people/i31066628) got married to [Annie Mackay](/family-tree/people/i503334) on 21st of January 1898."
             },
@@ -1551,8 +1555,16 @@
           "Day": 7,
           "Events": [
             {
+              "Date": "1824-05-07",
+              "Description": "[Elizabeth Irvine](/family-tree/people/i66882518) got married to [Alexander Gilchrist](/family-tree/people/i97711748) on 7th of May 1824 in Lamington, South Lanarkshire, Scotland."
+            },
+            {
               "Date": "1884-05-07",
               "Description": "[Alexander Cumming](/family-tree/people/i7028096) died on 7th of May 1884 at 15:30 in Embo, Sutherland, Scotland."
+            },
+            {
+              "Date": "1824-05-07",
+              "Description": "[Alexander Gilchrist](/family-tree/people/i97711748) got married to [Elizabeth Irvine](/family-tree/people/i66882518) on 7th of May 1824 in Lamington, South Lanarkshire, Scotland."
             }
           ]
         },
@@ -1580,6 +1592,10 @@
             {
               "Date": "1974-05-10",
               "Description": "[Thomas Mitchell Reid](/family-tree/people/i2617088) died on 10th of May 1974 in Palm Beach, Florida, United States of America."
+            },
+            {
+              "Date": "1801-05-10",
+              "Description": "[Elizabeth Irvine](/family-tree/people/i66882518) was born on 10th of May 1801 to [John Irvine](/family-tree/people/i43682238) and [Helen Connel](/family-tree/people/i33340775) in Lamington, South Lanarkshire, Scotland."
             }
           ]
         },
@@ -2526,6 +2542,10 @@
             {
               "Date": "1925-08-15",
               "Description": "[Thomas Mitchell](/family-tree/people/i65815518) got married to [Ann Ross](/family-tree/people/i52613824) on 15th of August 1925 in Lowell, Middlesex, Massachusetts, United States of America."
+            },
+            {
+              "Date": "1880-08-15",
+              "Description": "[Alexander Gilchrist](/family-tree/people/i97711748) died on 15th of August 1880 in Douglas, South Lanarkshire, Scotland."
             }
           ]
         },
@@ -3158,7 +3178,11 @@
           "Events": [
             {
               "Date": "1877-10-09",
-              "Description": "[Kenneth Ross](/family-tree/people/i41391600) got married on 9th of October 1877 in Dornoch, Sutherland, Scotland."
+              "Description": "[Kenneth Ross](/family-tree/people/i41391600) got married to [Isabella Fraser](/family-tree/people/i67511231) on 9th of October 1877 in Dornoch, Sutherland, Scotland."
+            },
+            {
+              "Date": "1877-10-09",
+              "Description": "[Isabella Fraser](/family-tree/people/i67511231) got married to [Kenneth Ross](/family-tree/people/i41391600) on 9th of October 1877 in Dornoch, Sutherland, Scotland."
             }
           ]
         },
@@ -3730,6 +3754,10 @@
               "Description": "[Agnes Williamson](/family-tree/people/i35381484) got married to [David Napier](/family-tree/people/i71012752) on 22nd of November 1834 in Dysart, Fife, Scotland."
             },
             {
+              "Date": "1887-11-22",
+              "Description": "[William Ross](/family-tree/people/i39470155) got married on 22nd of November 1887 in Dornoch, Sutherland, Scotland."
+            },
+            {
               "Date": "1939-11-22",
               "Description": "[Donald Mackay](/family-tree/people/i58341424) died on 22nd of November 1939."
             },
@@ -3911,7 +3939,12 @@
         },
         {
           "Day": 2,
-          "Events": []
+          "Events": [
+            {
+              "Date": "1874-12-02",
+              "Description": "[Elizabeth Irvine](/family-tree/people/i66882518) died on 2nd of December 1874 at 15:00 in Roberton, South Lanarkshire, Scotland."
+            }
+          ]
         },
         {
           "Day": 3,

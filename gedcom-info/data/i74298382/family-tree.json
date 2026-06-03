@@ -1,0 +1,47 @@
+﻿{
+  "Subject": {
+    "Id": "i74298382",
+    "Name": "Bruce Mackay Lyon",
+    "Gender": "Male",
+    "DateOfBirth": "1931",
+    "DateOfDeath": "2021"
+  },
+  "Parents": [],
+  "Siblings": [
+    {
+      "Id": "i74298382",
+      "Name": "Bruce Mackay Lyon",
+      "Gender": "Male",
+      "DateOfBirth": "1931",
+      "DateOfDeath": "2021",
+      "RelationToSubject": "self",
+      "ParentGroupIds": []
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i56962662",
+      "Name": "Anna Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1938",
+      "DateOfDeath": "1982",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "1958",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i28007064",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "1962",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i74298382",
+        "i56962662"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+﻿{
+  "Subject": {
+    "Id": "i56962662",
+    "Name": "Anna Mackay",
+    "Gender": "Female",
+    "DateOfBirth": "about 1938",
+    "DateOfDeath": "1982"
+  },
+  "Parents": [
+    {
+      "Id": "i57646474",
+      "Name": "John Paul Mackay",
+      "Gender": "Male",
+      "DateOfBirth": "13/Mar/1899",
+      "DateOfDeath": "3/Jul/1969",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i28166672",
+      "Name": "Catherine Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "3/Sep/1900",
+      "DateOfDeath": "21/Jan/1992",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i81073044",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i28166672",
+          "i57646474"
+        ]
+      ]
+    },
+    {
+      "Id": "i77832260",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i28166672",
+          "i57646474"
+        ]
+      ]
+    },
+    {
+      "Id": "i56962662",
+      "Name": "Anna Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1938",
+      "DateOfDeath": "1982",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i28166672",
+          "i57646474"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i74298382",
+      "Name": "Bruce Mackay Lyon",
+      "Gender": "Male",
+      "DateOfBirth": "1931",
+      "DateOfDeath": "2021",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "1958",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i28007064",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "1962",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i74298382",
+        "i56962662"
+      ]
+    }
+  ]
+}

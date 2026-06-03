@@ -3,12 +3,12 @@
   "Name": "Isabella Mackay",
   "Gender": "Female",
   "Relationship": "Self",
-  "DateOfBirth": "",
+  "DateOfBirth": "about 1878",
   "DateOfDeath": "",
   "Parents": [
     {
       "Id": "i46031972",
-      "Name": "X",
+      "Name": "Christy Mackay",
       "Gender": "Female",
       "Relationship": "mother",
       "DateOfBirth": "",
@@ -17,7 +17,7 @@
     },
     {
       "Id": "i77545296",
-      "Name": "X",
+      "Name": "John Mackay",
       "Gender": "Male",
       "Relationship": "father",
       "DateOfBirth": "",

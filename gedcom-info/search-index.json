@@ -131,6 +131,18 @@
     ]
   },
   {
+    "id": "i10763169",
+    "nameParts": [
+      "jane",
+      "mackay",
+      "ross"
+    ],
+    "wholeNames": [
+      "Jane Mackay",
+      "Ross"
+    ]
+  },
+  {
     "id": "i1090404",
     "nameParts": [
       "lawrence",
@@ -1555,6 +1567,10 @@
     "wholeNames": [
       "Donald Ross"
     ],
+    "birth": {
+      "date": "about 1864",
+      "year": 1864
+    },
     "marriages": [
       {
         "spouse": "i89807594",
@@ -1566,6 +1582,18 @@
           "dornoch",
           "sutherland",
           "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "embo",
+          "sutherland",
+          "scotland"
+        ],
+        "dates": [
+          1896
         ]
       }
     ]
@@ -5073,6 +5101,12 @@
         "scotland"
       ]
     },
+    "death": {
+      "date": "on 21st of January 1992",
+      "year": 1992,
+      "month": 1,
+      "day": 21
+    },
     "marriages": [
       {
         "spouse": "i57646474",
@@ -7042,6 +7076,31 @@
     ]
   },
   {
+    "id": "i33340775",
+    "nameParts": [
+      "connel",
+      "helen",
+      "irvine"
+    ],
+    "wholeNames": [
+      "Helen Connel",
+      "Irvine"
+    ],
+    "marriages": [
+      {
+        "spouse": "i43682238",
+        "date": "about February 1897",
+        "year": 1897,
+        "month": 2,
+        "place": [
+          "douglas",
+          "south lanarkshire",
+          "scotland"
+        ]
+      }
+    ]
+  },
+  {
     "id": "i33375290",
     "nameParts": [
       "hugh",
@@ -8416,6 +8475,32 @@
     ]
   },
   {
+    "id": "i37672036",
+    "nameParts": [
+      "amy",
+      "gilchrist"
+    ],
+    "wholeNames": [
+      "Amy Gilchrist"
+    ],
+    "birth": {
+      "date": "about 1846",
+      "year": 1846
+    },
+    "residences": [
+      {
+        "place": [
+          "roberton",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1851
+        ]
+      }
+    ]
+  },
+  {
     "id": "i37756528",
     "nameParts": [
       "kathleen",
@@ -8916,6 +9001,30 @@
         "scotland"
       ]
     }
+  },
+  {
+    "id": "i39470155",
+    "nameParts": [
+      "ross",
+      "william"
+    ],
+    "wholeNames": [
+      "William Ross"
+    ],
+    "marriages": [
+      {
+        "spouse": "i13694304",
+        "date": "on 22nd of November 1887",
+        "year": 1887,
+        "month": 11,
+        "day": 22,
+        "place": [
+          "dornoch",
+          "sutherland",
+          "scotland"
+        ]
+      }
+    ]
   },
   {
     "id": "i39612304",
@@ -10478,6 +10587,29 @@
     ]
   },
   {
+    "id": "i43682238",
+    "nameParts": [
+      "irvine",
+      "john"
+    ],
+    "wholeNames": [
+      "John Irvine"
+    ],
+    "marriages": [
+      {
+        "spouse": "i33340775",
+        "date": "about February 1897",
+        "year": 1897,
+        "month": 2,
+        "place": [
+          "douglas",
+          "south lanarkshire",
+          "scotland"
+        ]
+      }
+    ]
+  },
+  {
     "id": "i43723296",
     "nameParts": [
       "cumming",
@@ -11023,6 +11155,35 @@
     ]
   },
   {
+    "id": "i45098499",
+    "nameParts": [
+      "archibald",
+      "gilchrist"
+    ],
+    "wholeNames": [
+      "Archibald Gilchrist"
+    ],
+    "birth": {
+      "date": "about 1831",
+      "year": 1831
+    },
+    "death": {
+      "date": "before 1851"
+    },
+    "residences": [
+      {
+        "place": [
+          "newton",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1841
+        ]
+      }
+    ]
+  },
+  {
     "id": "i45275253",
     "nameParts": [
       "christy",
@@ -11224,6 +11385,17 @@
           1871
         ]
       }
+    ]
+  },
+  {
+    "id": "i46031972",
+    "nameParts": [
+      "christy",
+      "mackay"
+    ],
+    "wholeNames": [
+      "Christy Mackay",
+      "Mackay"
     ]
   },
   {
@@ -11971,6 +12143,18 @@
           1981
         ]
       }
+    ]
+  },
+  {
+    "id": "i48270962",
+    "nameParts": [
+      "anne",
+      "gilchrist",
+      "welsh"
+    ],
+    "wholeNames": [
+      "Anne Welsh",
+      "Gilchrist"
     ]
   },
   {
@@ -13515,6 +13699,32 @@
     ]
   },
   {
+    "id": "i52889150",
+    "nameParts": [
+      "gilchrist",
+      "helen"
+    ],
+    "wholeNames": [
+      "Helen Gilchrist"
+    ],
+    "birth": {
+      "date": "about 1836",
+      "year": 1836
+    },
+    "residences": [
+      {
+        "place": [
+          "newton",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1841
+        ]
+      }
+    ]
+  },
+  {
     "id": "i53003230",
     "nameParts": [
       "farnham",
@@ -14624,6 +14834,38 @@
     "wholeNames": [
       "Rosannah Lenox",
       "Roxannah Stewart"
+    ]
+  },
+  {
+    "id": "i56962662",
+    "nameParts": [
+      "anna",
+      "lyon",
+      "mackay"
+    ],
+    "wholeNames": [
+      "Anna Mackay",
+      "Lyon"
+    ],
+    "birth": {
+      "date": "about 1938",
+      "year": 1938
+    },
+    "death": {
+      "date": "in 1982",
+      "year": 1982
+    },
+    "marriages": [
+      {
+        "spouse": "i74298382",
+        "date": "in 1958",
+        "year": 1958,
+        "place": [
+          "golspie",
+          "sutherland",
+          "scotland"
+        ]
+      }
     ]
   },
   {
@@ -17821,6 +18063,47 @@
     ]
   },
   {
+    "id": "i65891424",
+    "nameParts": [
+      "gilchrist",
+      "james"
+    ],
+    "wholeNames": [
+      "James Gilchrist"
+    ],
+    "birth": {
+      "date": "about 1840",
+      "year": 1840,
+      "place": [
+        "roberton",
+        "south lanarkshire",
+        "scotland"
+      ]
+    },
+    "residences": [
+      {
+        "place": [
+          "newton",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1841
+        ]
+      },
+      {
+        "place": [
+          "roberton",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1851
+        ]
+      }
+    ]
+  },
+  {
     "id": "i65905028",
     "nameParts": [
       "fraser",
@@ -17832,6 +18115,16 @@
     "birth": {
       "date": "before 1769"
     }
+  },
+  {
+    "id": "i65905112",
+    "nameParts": [
+      "gilchrist",
+      "william"
+    ],
+    "wholeNames": [
+      "William Gilchrist"
+    ]
   },
   {
     "id": "i66129376",
@@ -18151,11 +18444,53 @@
       "Elizabeth Gilchrist",
       "Elizabeth Irvine"
     ],
-    "death": {
-      "date": "after 1866",
-      "year": 1866
+    "birth": {
+      "date": "on 10th of May 1801",
+      "year": 1801,
+      "month": 5,
+      "day": 10,
+      "place": [
+        "lamington",
+        "south lanarkshire",
+        "scotland"
+      ]
     },
+    "death": {
+      "date": "on 2nd of December 1874 at 15:00",
+      "year": 1874,
+      "month": 12,
+      "day": 2,
+      "place": [
+        "roberton",
+        "south lanarkshire",
+        "scotland"
+      ]
+    },
+    "marriages": [
+      {
+        "spouse": "i97711748",
+        "date": "on 7th of May 1824",
+        "year": 1824,
+        "month": 5,
+        "day": 7,
+        "place": [
+          "lamington",
+          "south lanarkshire",
+          "scotland"
+        ]
+      }
+    ],
     "residences": [
+      {
+        "place": [
+          "lamington",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1824
+        ]
+      },
       {
         "place": [
           "newton",
@@ -18163,7 +18498,18 @@
           "scotland"
         ],
         "dates": [
+          1841,
           1843
+        ]
+      },
+      {
+        "place": [
+          "roberton",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1851
         ]
       }
     ]
@@ -18284,6 +18630,36 @@
         "day": 26,
         "place": [
           "golspie",
+          "sutherland",
+          "scotland"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i67511231",
+    "nameParts": [
+      "fraser",
+      "isabella",
+      "ross"
+    ],
+    "wholeNames": [
+      "Isabella Fraser",
+      "Isabella Ross"
+    ],
+    "birth": {
+      "date": "about 1859",
+      "year": 1859
+    },
+    "marriages": [
+      {
+        "spouse": "i41391600",
+        "date": "on 9th of October 1877",
+        "year": 1877,
+        "month": 10,
+        "day": 9,
+        "place": [
+          "dornoch",
           "sutherland",
           "scotland"
         ]
@@ -19985,6 +20361,59 @@
     ]
   },
   {
+    "id": "i74298382",
+    "nameParts": [
+      "bruce",
+      "lyon",
+      "mackay"
+    ],
+    "wholeNames": [
+      "Bruce Mackay Lyon"
+    ],
+    "birth": {
+      "date": "in 1931",
+      "year": 1931,
+      "place": [
+        "golspie",
+        "sutherland",
+        "scotland"
+      ]
+    },
+    "death": {
+      "date": "in 2021",
+      "year": 2021,
+      "place": [
+        "golspie",
+        "sutherland",
+        "scotland"
+      ]
+    },
+    "marriages": [
+      {
+        "spouse": "i56962662",
+        "date": "in 1958",
+        "year": 1958,
+        "place": [
+          "golspie",
+          "sutherland",
+          "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "golspie",
+          "sutherland",
+          "scotland"
+        ],
+        "dates": [
+          2001
+        ]
+      }
+    ]
+  },
+  {
     "id": "i74378972",
     "nameParts": [
       "hoctor",
@@ -21038,6 +21467,16 @@
           1897
         ]
       }
+    ]
+  },
+  {
+    "id": "i77545296",
+    "nameParts": [
+      "john",
+      "mackay"
+    ],
+    "wholeNames": [
+      "John Mackay"
     ]
   },
   {
@@ -23496,6 +23935,16 @@
     "residences": [
       {
         "place": [
+          "roberton",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1851
+        ]
+      },
+      {
+        "place": [
           "skirling",
           "the scottish borders",
           "scotland"
@@ -23798,6 +24247,10 @@
       "Isabella Mackay",
       "Ross"
     ],
+    "birth": {
+      "date": "about 1878",
+      "year": 1878
+    },
     "marriages": [
       {
         "spouse": "i16842942",
@@ -23809,6 +24262,18 @@
           "dornoch",
           "sutherland",
           "scotland"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "place": [
+          "embo",
+          "sutherland",
+          "scotland"
+        ],
+        "dates": [
+          1896
         ]
       }
     ]
@@ -25201,6 +25666,32 @@
     ]
   },
   {
+    "id": "i9598288",
+    "nameParts": [
+      "alexander",
+      "gilchrist"
+    ],
+    "wholeNames": [
+      "Alexander Gilchrist"
+    ],
+    "birth": {
+      "date": "about 1838",
+      "year": 1838
+    },
+    "residences": [
+      {
+        "place": [
+          "newton",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1841
+        ]
+      }
+    ]
+  },
+  {
     "id": "i96054144",
     "nameParts": [
       "elizabeth",
@@ -25558,11 +26049,51 @@
     "wholeNames": [
       "Alexander Gilchrist"
     ],
-    "death": {
-      "date": "after 1866",
-      "year": 1866
+    "birth": {
+      "date": "about 1801",
+      "year": 1801,
+      "place": [
+        "roberton",
+        "south lanarkshire",
+        "scotland"
+      ]
     },
+    "death": {
+      "date": "on 15th of August 1880",
+      "year": 1880,
+      "month": 8,
+      "day": 15,
+      "place": [
+        "douglas",
+        "south lanarkshire",
+        "scotland"
+      ]
+    },
+    "marriages": [
+      {
+        "spouse": "i66882518",
+        "date": "on 7th of May 1824",
+        "year": 1824,
+        "month": 5,
+        "day": 7,
+        "place": [
+          "lamington",
+          "south lanarkshire",
+          "scotland"
+        ]
+      }
+    ],
     "residences": [
+      {
+        "place": [
+          "wiston",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1824
+        ]
+      },
       {
         "place": [
           "newton",
@@ -25570,7 +26101,18 @@
           "scotland"
         ],
         "dates": [
+          1841,
           1843
+        ]
+      },
+      {
+        "place": [
+          "roberton",
+          "south lanarkshire",
+          "scotland"
+        ],
+        "dates": [
+          1851
         ]
       }
     ]

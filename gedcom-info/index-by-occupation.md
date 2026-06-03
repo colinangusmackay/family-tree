@@ -591,10 +591,10 @@ There were 2 people who worked as a Fireman.
 
 ## Fish Worker
 
-There were 78 people who worked as a Fish Worker of some sort.
+There were 79 people who worked as a Fish Worker of some sort.
 
 * **[Gillie, Jane](people/@33381968@-jane-gillie-b1877-d.md)** (about 1877 - ).
-* **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - ).
+* **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d1992-1-21.md)** (3/Sep/1900 - 21/Jan/1992).
 * **[Mackay, Margaret Moyes](people/@178005@-margaret-moyes-mackay-b1901-6-27-d1973-8-24.md)** (27/Jun/1901 - 24/Aug/1973).
 
 #### Fisher
@@ -662,6 +662,7 @@ There were 78 people who worked as a Fish Worker of some sort.
 * **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896), mentioned 11 times.
 * **[Ross, Alexander](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - ), mentioned 5 times.
 * **[Ross, Alexander](people/@64872505@-alexander-ross-b1855-d.md)** (1855 - ).
+* **[Ross, Donald](people/@16842942@-donald-ross-b1864-d.md)** (about 1864 - ).
 * **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875), mentioned 3 times.
 * **[Ross, Hugh](people/@33375290@-hugh-ross-b1857-d.md)** (about 1857 - ).
 * **[Ross, John](people/@29351958@-john-ross-b-d.md)**.
@@ -703,7 +704,7 @@ There were 78 people who worked as a Fish Worker of some sort.
 
 ## Fisher
 
-There were 63 people who worked as a Fisher of some sort.
+There were 64 people who worked as a Fisher of some sort.
 
 * **[Mackay, George](people/@33764614@-george-mackay-b1811-10-26-d1893-11-25.md)** (26/Oct/1811 - 25/Nov/1893).
 * **[Mackay, William](people/@69114879@-william-mackay-b1781-d1841.md)** (1781 - 1841).
@@ -763,6 +764,7 @@ There were 63 people who worked as a Fisher of some sort.
 * **[Ross, Alexander](people/@81387900@-alexander-ross-b1816-d1896-1-20.md)** (about 1816 - 20/Jan/1896), mentioned 11 times.
 * **[Ross, Alexander](people/@17311533@-alexander-ross-b1843-d.md)** (about 1843 - ), mentioned 5 times.
 * **[Ross, Alexander](people/@64872505@-alexander-ross-b1855-d.md)** (1855 - ).
+* **[Ross, Donald](people/@16842942@-donald-ross-b1864-d.md)** (about 1864 - ).
 * **[Ross, Hugh](people/@10594034@-hugh-ross-b1826-d1875-9-5.md)** (about 1826 - 5/Sep/1875), mentioned 3 times.
 * **[Ross, Hugh](people/@33375290@-hugh-ross-b1857-d.md)** (about 1857 - ).
 * **[Ross, John](people/@29351958@-john-ross-b-d.md)**.
@@ -849,6 +851,10 @@ There were 2 people who worked as a General Merchant.
 ## Gunner, Royal Artillery
 
 * **[McIver, Hector Spence](people/@34334364@-hector-spence-mciver-b1919-4-12-d2008-1-27.md)** (12/Apr/1919 - 27/Jan/2008).
+
+## Hand Loom Weaver
+
+* **[Irvine, John](people/@43682238@-john-irvine-b-d.md)**.
 
 ## Hank Weaver
 
@@ -977,7 +983,7 @@ There were 2 people who worked as a Joiner Journeyman.
 There were 12 people who worked as a Labourer of some sort.
 
 * **[Fleming, John](people/@39983533@-john-fleming-b1827-d.md)** (about 1827 - ).
-* **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b-d1866.md)** ( - after 1866).
+* **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b1801-d1880-8-15.md)** (about 1801 - 15/Aug/1880), mentioned twice.
 * **[Gillie, Alexander](people/@44750545@-alexander-gillie-b1881-d.md)** (about 1881 - ).
 * **[Napier, Alexander](people/@22451165@-alexander-napier-b1872-11-4-d1952-4-18.md)** (4/Nov/1872 - 18/Apr/1952), mentioned twice.
 * **[Napier, David](people/@97555316@-david-napier-b1858-4-7-d.md)** (7/Apr/1858 - ).
@@ -1029,10 +1035,6 @@ There were 2 people who worked as a Lapidary.
 
 * **[McKnight, Thomas](people/@6387698@-thomas-mcknight-b1856-d1897-8-8.md)** (about 1856 - 8/Aug/1897).
 
-## Lbourer
-
-* **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b-d1866.md)** ( - after 1866).
-
 ## Lecturer in Art
 
 * **[Gibson, Norman Alexander](people/@86606770@-norman-alexander-gibson-b1942-6-19-d2024-4-11.md)** (19/Jun/1942 - 11/Apr/2024).
@@ -1054,6 +1056,10 @@ There were 2 people who worked as a Librarian of some sort.
 ## Limestone Miner
 
 * **[Tevin, Richard](people/@65007133@-richard-tevin-b1841-d.md)** (about 1841 - ), mentioned twice.
+
+## Limestone Quarrier
+
+* **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b1801-d1880-8-15.md)** (about 1801 - 15/Aug/1880), mentioned twice.
 
 ## Linen Hand Loom Weaver
 
@@ -1298,6 +1304,10 @@ There were 2 people who worked as a Painter of some sort.
 ## Patten Maker
 
 * **[Fisher, John](people/@81248806@-john-fisher-b1819-d1880.md)** (about 1819 - after 1880).
+
+## Pauper
+
+* **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b1801-d1880-8-15.md)** (about 1801 - 15/Aug/1880).
 
 ## Petty Office, Royal Navy
 

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i56962662",
+  "Name": "Anna Mackay",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1938",
+  "DateOfDeath": "1982",
+  "Children": [
+    {
+      "Id": "i28007064",
+      "Name": "X",
+      "Gender": "Female",
+      "Relationship": "daughter",
+      "DateOfBirth": "1962",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

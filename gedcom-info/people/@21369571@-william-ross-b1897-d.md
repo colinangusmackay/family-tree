@@ -9,9 +9,9 @@ permalink: /people/i21369571
 
 ## Immediate Family
 
-* Father: [Donald Ross](./@16842942@-donald-ross-b-d.md)
-* Mother: [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md)
 * Sister: X
+* Father: [Donald Ross](./@16842942@-donald-ross-b1864-d.md) (about 1864 - )
+* Mother: [Isabella Mackay](./@89807594@-isabella-mackay-b1878-d.md) (about 1878 - )
 * Sister: [Christina Ross](./@10478196@-christina-ross-b1893-d.md) (1893 - )
 * Brother: [John Ross](./@35298145@-john-ross-b1899-d.md) (1899 - )
 * Brother: [Peter Ross](./@67099773@-peter-ross-b1900-11-12-d.md) (12/Nov/1900 - )
@@ -23,12 +23,12 @@ permalink: /people/i21369571
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
-1897 | Born | Born to [Donald Ross](./@16842942@-donald-ross-b-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md). |  | 
-1899 | Birth of brother | [John Ross](./@35298145@-john-ross-b1899-d.md) born to [Donald Ross](./@16842942@-donald-ross-b-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md). |  | 
-12/Nov/1900 | Birth of brother | [Peter Ross](./@67099773@-peter-ross-b1900-11-12-d.md) born to [Donald Ross](./@16842942@-donald-ross-b-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md). |  | 
-1905 | Birth of sister | [Johan or Janet Ross](./@18017632@-johan-or-janet-ross-b1905-d.md) born to [Donald Ross](./@16842942@-donald-ross-b-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md). |  | 
-1907 | Birth of sister | [Jeanie Ross](./@71751658@-jeanie-ross-b1907-d.md) born to [Donald Ross](./@16842942@-donald-ross-b-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md). |  | 
-24/Sep/1910 | Birth of brother | [Alexander Ross](./@52064896@-alexander-ross-b1910-9-24-d.md) born to [Donald Ross](./@16842942@-donald-ross-b-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b-d.md) in Embo, Sutherland, Scotland. | [1](#1) | 
+1897 | Born | Born to [Donald Ross](./@16842942@-donald-ross-b1864-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b1878-d.md). |  | 
+1899 | Birth of brother | [John Ross](./@35298145@-john-ross-b1899-d.md) born to [Donald Ross](./@16842942@-donald-ross-b1864-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b1878-d.md). |  | 
+12/Nov/1900 | Birth of brother | [Peter Ross](./@67099773@-peter-ross-b1900-11-12-d.md) born to [Donald Ross](./@16842942@-donald-ross-b1864-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b1878-d.md). |  | 
+1905 | Birth of sister | [Johan or Janet Ross](./@18017632@-johan-or-janet-ross-b1905-d.md) born to [Donald Ross](./@16842942@-donald-ross-b1864-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b1878-d.md). |  | 
+1907 | Birth of sister | [Jeanie Ross](./@71751658@-jeanie-ross-b1907-d.md) born to [Donald Ross](./@16842942@-donald-ross-b1864-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b1878-d.md). |  | 
+24/Sep/1910 | Birth of brother | [Alexander Ross](./@52064896@-alexander-ross-b1910-9-24-d.md) born to [Donald Ross](./@16842942@-donald-ross-b1864-d.md) and [Isabella Mackay](./@89807594@-isabella-mackay-b1878-d.md) in Embo, Sutherland, Scotland. | [1](#1) | 
 
 ## Footnotes
 

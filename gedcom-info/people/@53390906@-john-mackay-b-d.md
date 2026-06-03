@@ -9,21 +9,23 @@ permalink: /people/i53390906
 ## Immediate Family
 
 * Wife: [Matilda MacLeod](./@31540392@-matilda-macleod-b1861-d1949-11-9.md) (about 1861 - 9/Nov/1949)
-* Daughter: [Catherine Mackay](./@28166672@-catherine-mackay-b1900-9-3-d.md) (3/Sep/1900 - )
+* Daughter: [Catherine Mackay](./@28166672@-catherine-mackay-b1900-9-3-d1992-1-21.md) (3/Sep/1900 - 21/Jan/1992)
 
 ## Timeline
 
 Date | Item | Description | Sources | Notes
 ---|---|---|---|---
 15/Jan/1885 | Marriage | Married to [Matilda MacLeod](./@31540392@-matilda-macleod-b1861-d1949-11-9.md) in Stornoway, Eilean Siar, Scotland | [1](#1) | 
-3/Sep/1900 | Birth of daughter | [Catherine Mackay](./@28166672@-catherine-mackay-b1900-9-3-d.md) born to [John Mackay](./@53390906@-john-mackay-b-d.md) and [Matilda MacLeod](./@31540392@-matilda-macleod-b1861-d1949-11-9.md) in Stornoway, Eilean Siar, Scotland. | [1](#1) | 
+3/Sep/1900 | Birth of daughter | [Catherine Mackay](./@28166672@-catherine-mackay-b1900-9-3-d1992-1-21.md) born to [John Mackay](./@53390906@-john-mackay-b-d.md) and [Matilda MacLeod](./@31540392@-matilda-macleod-b1861-d1949-11-9.md) in Stornoway, Eilean Siar, Scotland. | [1](#1) | 
 9/Nov/1949 | Death of partner | [Matilda MacLeod](./@31540392@-matilda-macleod-b1861-d1949-11-9.md) died. | [2](#2) | 
+1992 | Burial of daughter | [Catherine Mackay](./@28166672@-catherine-mackay-b1900-9-3-d1992-1-21.md) was buried in Dornoch Free Church Cemetery, Dornoch, Sutherland, Scotland. | [3](#3) | 
+21/Jan/1992 | Death of daughter | [Catherine Mackay](./@28166672@-catherine-mackay-b1900-9-3-d1992-1-21.md) died. | [3](#3) | 
 
 ## Additional Sources
 
 Footnote | Source
 ---|---
-[3](#3) | **[1936 MACKAY, JOHN PAUL (Statutory Registers Marriages 047/8)](../sources/@35370951@-1936-mackay,-john-paul-statutory-registers-marriages-047-8-.md)**
+[4](#4) | **[1936 MACKAY, JOHN PAUL (Statutory Registers Marriages 047/8)](../sources/@35370951@-1936-mackay,-john-paul-statutory-registers-marriages-047-8-.md)**
 
 ## Footnotes
 
@@ -48,6 +50,15 @@ Footnote | Source
   * 1949 D 088/184
 
 ### 3
+
+**1992 MACKAY, CATHERINE (FindAGrave.com)**
+
+* [Full text and notes](../sources/@15797322@-1992-mackay,-catherine-findagrave.com-.md)
+* Publication: FindAGrave.com
+* References: 
+  * (URL) https://www.findagrave.com/memorial/263488626/catherine-mackay
+
+### 4
 
 **1936 MACKAY, JOHN PAUL (Statutory Registers Marriages 047/8)**
 

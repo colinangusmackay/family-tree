@@ -1,0 +1,38 @@
+﻿{
+  "Id": "i67511231",
+  "Name": "Isabella Fraser",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1859",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i37144832",
+      "Name": "Christy Ross",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i39286288",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1889",
+      "Parents": [
+        {
+          "Id": "i41136024",
+          "Name": "Isabella",
+          "Gender": "Female",
+          "Relationship": "mother",
+          "DateOfBirth": "",
+          "DateOfDeath": "after 1864",
+          "Parents": []
+        }
+      ]
+    }
+  ]
+}

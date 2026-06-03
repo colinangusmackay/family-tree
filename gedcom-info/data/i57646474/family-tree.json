@@ -144,25 +144,13 @@
       "Name": "Catherine Mackay",
       "Gender": "Female",
       "DateOfBirth": "3/Sep/1900",
-      "DateOfDeath": "",
+      "DateOfDeath": "21/Jan/1992",
       "RelationToSubject": "wife",
       "DateOfMarriage": "10/Nov/1936",
       "DateOfDivorce": ""
     }
   ],
   "Children": [
-    {
-      "Id": "i56962662",
-      "Name": "X",
-      "Gender": "Female",
-      "DateOfBirth": "",
-      "DateOfDeath": "",
-      "RelationToSubject": "daughter",
-      "ParentIds": [
-        "i57646474",
-        "i28166672"
-      ]
-    },
     {
       "Id": "i81073044",
       "Name": "X",
@@ -181,6 +169,18 @@
       "Gender": "Female",
       "DateOfBirth": "",
       "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i57646474",
+        "i28166672"
+      ]
+    },
+    {
+      "Id": "i56962662",
+      "Name": "Anna Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1938",
+      "DateOfDeath": "1982",
       "RelationToSubject": "daughter",
       "ParentIds": [
         "i57646474",

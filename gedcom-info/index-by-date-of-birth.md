@@ -53,6 +53,9 @@ permalink: /indexes/by-date-of-birth
 
 * **Born in 1800.**
   * **[Fraser, Kenneth](people/@61428726@-kenneth-fraser-b1800-5-5-d1883-1-19.md)** (5/May/1800 - 19/Jan/1883)
+* **Born in 1801.**
+  * **[Gilchrist, Alexander](people/@97711748@-alexander-gilchrist-b1801-d1880-8-15.md)** (about 1801 - 15/Aug/1880)
+  * **[Irvine, Elizabeth](people/@66882518@-elizabeth-irvine-b1801-5-10-d1874-12-2.md)** (10/May/1801 - 2/Dec/1874)
 * **Born in 1803.**
   * **[Howie, Peter](people/@40872746@-peter-howie-b1803-5-d1876-3-5.md)** (May/1803 - 5/Mar/1876)
 * **Born in 1805.**
@@ -120,6 +123,7 @@ permalink: /indexes/by-date-of-birth
   * **[Cowan, Agnes](people/@38031148@-agnes-cowan-b1830-d1898-7-4.md)** (about 1830 - 4/Jul/1898)
 * **Born in 1831.**
   * **[Cumming, Alexander](people/@7028096@-alexander-cumming-b1831-d1884-5-7.md)** (about 1831 - 7/May/1884)
+  * **[Gilchrist, Archibald](people/@45098499@-archibald-gilchrist-b1831-d1851.md)** (about 1831 - before 1851)
 * **Born in 1833.**
   * **[McKay, Susan](people/@29671874@-susan-mckay-b1833-4-d1886.md)** (Apr/1833 - before 1886)
   * **[Fraser, Alexander](people/@97086424@-alexander-fraser-b1833-12-5-d1876-10-5.md)** (5/Dec/1833 - 5/Oct/1876)
@@ -132,6 +136,7 @@ permalink: /indexes/by-date-of-birth
   * **[Nicholson, Agnes](people/@65182613@-agnes-nicholson-b1835-d.md)** (about 1835 - )
   * **[Napier, David](people/@41697732@-david-napier-b1835-9-12-d1901-11-2.md)** (12/Sep/1835 - 2/Nov/1901)
 * **Born in 1836.**
+  * **[Gilchrist, Helen](people/@52889150@-helen-gilchrist-b1836-d.md)** (about 1836 - )
   * **[McKinlay, Annie](people/@67691160@-annie-mckinlay-b1836-d.md)** (about 1836 - )
   * **[Mackay, Isabella](people/@32127758@-isabella-mackay-b1836-8-6-d1862-12-28.md)** (6/Aug/1836 - 28/Dec/1862)
 * **Born in 1837.**
@@ -139,6 +144,7 @@ permalink: /indexes/by-date-of-birth
   * **[Napier, Henry](people/@7484846@-henry-napier-b1837-9-27-d.md)** (27/Sep/1837 - )
 * **Born in 1838.**
   * **[Cumming, Donald](people/@69575920@-donald-cumming-b1838-d1875.md)** (about 1838 - after 1875)
+  * **[Gilchrist, Alexander](people/@9598288@-alexander-gilchrist-b1838-d.md)** (about 1838 - )
   * **[Howie, Peter](people/@82820064@-peter-howie-b1838-d.md)** (about 1838 - )
   * **[Sutherland, Isabella](people/@79967653@-isabella-sutherland-b1838-d1884.md)** (1838 - after 1884)
   * **[Mackay, Isabella](people/@41556256@-isabella-mackay-b1838-2-27-d.md)** (27/Feb/1838 - )
@@ -150,6 +156,7 @@ permalink: /indexes/by-date-of-birth
 ### 1840s
 
 * **Born in 1840.**
+  * **[Gilchrist, James](people/@65891424@-james-gilchrist-b1840-d.md)** (about 1840 - )
   * **[Grant, Hugh](people/@34164542@-hugh-grant-b1840-d.md)** (about 1840 - )
   * **[Mackay, Janet](people/@42213240@-janet-mackay-b1840-d.md)** (1840 - )
   * **[Mackay, Mary](people/@78757487@-mary-mackay-b1840-d.md)** (before 1840 - )
@@ -187,6 +194,7 @@ permalink: /indexes/by-date-of-birth
   * **[Napier, Agnes](people/@67902640@-agnes-napier-b1845-4-14-d.md)** (14/Apr/1845 - )
 * **Born in 1846.**
   * **[Fisher, Isabella](people/@74012383@-isabella-fisher-b1846-d.md)** (about 1846 - )
+  * **[Gilchrist, Amy](people/@37672036@-amy-gilchrist-b1846-d.md)** (about 1846 - )
   * **[Mackay, David](people/@46263680@-david-mackay-b1846-d1860.md)** (1846 - 1860)
   * **[McLean, Christy](people/@62955988@-christy-mclean-b1846-d.md)** (about 1846 - )
   * **[Ramsay, James](people/@5972344@-james-ramsay-b1846-d.md)** (1846 - )
@@ -271,6 +279,7 @@ permalink: /indexes/by-date-of-birth
   * **[Napier, David](people/@97555316@-david-napier-b1858-4-7-d.md)** (7/Apr/1858 - )
   * **[Ross, Hugh](people/@75672326@-hugh-ross-b1858-10-11-d.md)** (11/Oct/1858 - )
 * **Born in 1859.**
+  * **[Fraser, Isabella](people/@67511231@-isabella-fraser-b1859-d.md)** (about 1859 - )
   * **[Gillie, John](people/@49104732@-john-gillie-b1859-d1881-10-14.md)** (about 1859 - 14/Oct/1881)
   * **[Johnston, Jane](people/@71906070@-jane-johnston-b1859-d1922.md)** (about 1859 - before 1922)
   * **[Lindores, Ann](people/@44575087@-ann-lindores-b1859-d.md)** (about 1859 - )
@@ -318,6 +327,7 @@ permalink: /indexes/by-date-of-birth
   * **[Cumming, Marion](people/@59851647@-marion-cumming-b1863-5-20-d1944-11-18.md)** (20/May/1863 - 18/Nov/1944)
 * **Born in 1864.**
   * **[Mackay, John](people/@15814480@-john-mackay-b1864~1865-d.md)** (bet' 1864 and 1865 - )
+  * **[Ross, Donald](people/@16842942@-donald-ross-b1864-d.md)** (about 1864 - )
   * **[Ross, Jeannie](people/@64098912@-jeannie-ross-b1864-d.md)** (1864 - )
   * **[Ross, Sarah](people/@84017554@-sarah-ross-b1864-d.md)** (about 1864 - )
   * **[Sunderland, Thomas](people/@33156539@-thomas-sunderland-b1864-d.md)** (about 1864 - )
@@ -414,6 +424,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1878.**
   * **[Cumming, Christy](people/@94377968@-christy-cumming-b1878-d.md)** (about 1878 - )
   * **[Gillie, William](people/@42722433@-william-gillie-b1878-d.md)** (about 1878 - )
+  * **[Mackay, Isabella](people/@89807594@-isabella-mackay-b1878-d.md)** (about 1878 - )
   * **[McKenzie, William P](people/@51734912@-william-p-mckenzie-b1878-d.md)** (about 1878 - )
   * **[Ramsay, Isabella](people/@54722192@-isabella-ramsay-b1878-d.md)** (about 1878 - )
   * **[Rennie, Agnes](people/@57426108@-agnes-rennie-b1878-d1961-2-7.md)** (1878 - 7/Feb/1961)
@@ -577,7 +588,7 @@ permalink: /indexes/by-date-of-birth
   * **[Morrison, Helen](people/@62432280@-helen-morrison-b1900-1-5-d1984-12-28.md)** (5/Jan/1900 - 28/Dec/1984)
   * **[Mackay, William Alexander](people/@9383584@-william-alexander-mackay-b1900-2-24-d1982-9-24.md)** (24/Feb/1900 - 24/Sep/1982)
   * **[Cumming, Mary Ann](people/@48241984@-mary-ann-cumming-b1900-7-26-d1981-10-8.md)** (26/Jul/1900 - 8/Oct/1981)
-  * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d.md)** (3/Sep/1900 - )
+  * **[Mackay, Catherine](people/@28166672@-catherine-mackay-b1900-9-3-d1992-1-21.md)** (3/Sep/1900 - 21/Jan/1992)
   * **[Ross, John Donald](people/@60714754@-john-donald-ross-b1900-10-29-d1917-1-26.md)** (29/Oct/1900 - 26/Jan/1917)
   * **[Ross, Peter](people/@67099773@-peter-ross-b1900-11-12-d.md)** (12/Nov/1900 - )
 * **Born in 1901.**
@@ -722,6 +733,7 @@ permalink: /indexes/by-date-of-birth
 * **Born in 1930.**
   * **[Roberts, Mary Beth](people/@44331192@-mary-beth-roberts-b1930-11-1-d2014-2-6.md)** (1/Nov/1930 - 6/Feb/2014)
 * **Born in 1931.**
+  * **[Lyon, Bruce Mackay](people/@74298382@-bruce-mackay-lyon-b1931-d2021.md)** (1931 - 2021)
   * **[Mackay, Donald James](people/@43065376@-donald-james-mackay-b1931-d2011-12-29.md)** (1931 - 29/Dec/2011)
   * **[Monson, Clinton Edwin](people/@24393948@-clinton-edwin-monson-b1931-9-9-d2019-7-15.md)** (9/Sep/1931 - 15/Jul/2019)
   * **[Cumming, Wilma May](people/@74680609@-wilma-may-cumming-b1931-11-9-d2009-9-12.md)** (9/Nov/1931 - 12/Sep/2009)
@@ -744,6 +756,7 @@ permalink: /indexes/by-date-of-birth
   * **[Roberts, Sandra Jane](people/@40000604@-sandra-jane-roberts-b1937-11-10-d2019-11-26.md)** (10/Nov/1937 - 26/Nov/2019)
 * **Born in 1938.**
   * **[Cumming, Donald Bernard](people/@88821212@-donald-bernard-cumming-b1938-d2025-3-9.md)** (1938 - 9/Mar/2025)
+  * **[Mackay, Anna](people/@56962662@-anna-mackay-b1938-d1982.md)** (about 1938 - 1982)
   * **[MacKay, Anna Jessie](people/@41265374@-anna-jessie-mackay-b1938-7-7-d2021-3-12.md)** (7/Jul/1938 - 12/Mar/2021)
 
 ### 1940s
